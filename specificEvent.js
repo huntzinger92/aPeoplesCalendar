@@ -1,7 +1,8 @@
 import React from 'react';
-import { Text, View, ScrollView, TouchableOpacity } from 'react-native';
+import { Text, View, ScrollView, TouchableOpacity, Image } from 'react-native';
 import {StyledText} from './styledText.js';
 import {styles} from './styles.js';
+import { Ionicons } from '@expo/vector-icons';
 
 //responsible for styling/rendering the data for a specific, user selected event. Rendered inside of calendarDisplay.js
 export class SpecificEvent extends React.Component {
@@ -10,14 +11,37 @@ export class SpecificEvent extends React.Component {
   };
 
   render() {
+    console.log(this.props.event.imgSrc);
     return (
       <View>
-        <StyledText text={this.props.event.title} style={{textAlign: 'center', fontSize: 24}}/>
-        <StyledText text={this.props.event.description} />
-        <StyledText text={'Read More Here: ' + this.props.event.link} />
-        <TouchableOpacity onPress={() => this.props.setDisplay('all')}>
-          <StyledText text='Back Arrow' style={{fontSize: 20, fontWeight: 'bold'}}/>
-        </TouchableOpacity>
+        <View style={{borderBottomWidth: 1, borderTopWidth: 0, padding: 5, backgroundColor: this.props.colorScheme[this.props.event.category]}}>
+          <StyledText text={this.props.event.title} style={{textAlign: 'center', fontSize: 24}}/>
+        </View>
+        <View style={styles.descriptionDateWrapper}>
+          <StyledText text={this.props.event.date} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 20}}/>
+        </View>
+        <View style={styles.descriptionWrapper}>
+          <View style={styles.descriptionImgWrapper}>
+            <Image
+              style={styles.descriptionImg}
+              source={this.props.event.imgSrc}
+            />
+          </View>
+          <View style={styles.descriptionTextWrapper}>
+            <StyledText text={this.props.event.description}/>
+          </View>
+          <View style={styles.sourceWrapper}>
+            <StyledText text={this.props.event.infoSrc} />
+          </View>
+          <View style={styles.learnMoreWrapper}>
+            <StyledText text={'Read More Here: ' + this.props.event.link} />
+          </View>
+        </View>
+        <View style={{marginTop: 12, width: '90%', marginLeft: 'auto', marginRight: 'auto'}}>
+          <TouchableOpacity onPress={() => this.props.setDisplay('all')} style={{alignContent: 'center', width: 70}}>
+            <Ionicons name="md-arrow-round-back" size={48} color="black"/>
+          </TouchableOpacity>
+        </View>
       </View>
     );
   };

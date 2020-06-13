@@ -1,12 +1,155 @@
 import React from 'react';
-import { Text, View, ScrollView, TouchableOpacity } from 'react-native';
+import { Text, View, ScrollView, BackHandler, TouchableOpacity } from 'react-native';
 import {StyledText} from './styledText.js';
 import {styles} from './styles.js';
-import {eventLibrary} from './eventLibrary.js';
+//uncomment eventLibrary import once you get up and running
+//import {eventLibrary} from './eventLibrary.js';
 import {SpecificEvent} from './specificEvent.js';
+import { Ionicons } from '@expo/vector-icons';
 
 //three views possible set by display prop in state: 'all', some type ('Revolution', 'Rebellion', etc.), and 'specific'. Respectively, all events for the day, events only of
 //a specific type, or a specific event (includes detail)
+
+var eventLibrary = {};
+
+var sampleDay = {
+'Revolution': [
+  {
+    category: 'Revolution',
+    date: 'January 1st, 1899',
+    title: 'The Revolution of January 1st',
+    imgSrc: require('./assets/LeninRev.jpg'),
+    description: 'A bunch of awful shit happened. Then, it got better before getting worse again.',
+    link: 'link will go here',
+    infoSrc: 'description source goes here'
+  },
+  {
+    category: 'Revolution',
+    date: 'January 1st, 1951',
+    title: 'The Second Revolution of January 1st',
+    imgSrc: require('./assets/indigenousResistance.jpg'),
+    description: 'Tired of the awful shit from the first one, the people rose up and promptly re-created the conditions of the 1st Revolution - first improving, before declining once again into misery.',
+    link: 'link will go here',
+    infoSrc: 'description source goes here'
+  },
+],
+'Rebellion': [
+  {
+    category: 'Rebellion',
+    date: 'January 1st, 1898',
+    title: 'The Rebellion of January 1st',
+    imgSrc: require('./assets/LeninRev.jpg'),
+    description: "Things were awful, so people rebelled. It didn't work, so they tried again next year.",
+    link: 'link will go here',
+    infoSrc: 'description source goes here'
+  },
+],
+'Labor': [
+  {
+    category: 'Labor',
+    date: 'January 1st, 1898',
+    title: 'The Labor Laws of January 1st',
+    imgSrc: require('./assets/indigenousResistance.jpg'),
+    description: "Things were awful, so the government passed Labor laws. It kept people's anger just below the revolutionary threshhold.",
+    link: 'link will go here',
+    infoSrc: 'description source goes here'
+  },
+],
+'Birthdays': [
+  {
+    category: 'Birthdays',
+    date: 'January 1st, 1992',
+    title: 'Someone Nice',
+    imgSrc: require('./assets/indigenousResistance.jpg'),
+    description: "Someone Nice was born on this day in 1992. Here's a quote by him.",
+    link: 'link will go here',
+    infoSrc: 'description source goes here'
+  },
+  {
+    category: 'Birthdays',
+    date: 'January 1st, 1991',
+    title: 'Someone Mean',
+    imgSrc: require('./assets/LeninRev.jpg'),
+    description: "Someone Mean was born on this day in 1992. Here's a quote by her.",
+    link: 'link will go here',
+    infoSrc: 'description source goes here'
+  },
+],
+'Assasinations': [
+  {
+    category: 'Assasinations',
+    date: 'January 1st, 1898',
+    title: 'The Assasination of January 1st',
+    imgSrc: require('./assets/Makhno.jpg'),
+    description: "Things were awful, so people assasinated the guy in charge. They managed to kill him, but it didn't make anything better.",
+    link: 'link will go here',
+    infoSrc: 'description source goes here'
+  },
+],
+'Other': [
+
+],
+};
+
+//January
+for (var i = 1; i < 32; i++) {
+  eventLibrary['1-' + i] = sampleDay;
+};
+
+//february
+for (var i = 1; i < 30; i++) {
+  eventLibrary['2-' + i] = sampleDay;
+};
+
+//march
+for (var i = 1; i < 31; i++) {
+  eventLibrary['3-' + i] = sampleDay;
+};
+
+//april
+for (var i = 1; i < 32; i++) {
+  eventLibrary['4-' + i] = sampleDay;
+};
+
+//may
+for (var i = 1; i < 31; i++) {
+  eventLibrary['5-' + i] = sampleDay;
+};
+
+//june
+for (var i = 1; i < 32; i++) {
+  eventLibrary['6-' + i] = sampleDay;
+};
+
+//july
+for (var i = 1; i < 31; i++) {
+  eventLibrary['7-' + i] = sampleDay;
+};
+
+//august
+for (var i = 1; i < 32; i++) {
+  eventLibrary['8-' + i] = sampleDay;
+};
+
+//september
+for (var i = 1; i < 31; i++) {
+  eventLibrary['9-' + i] = sampleDay;
+};
+
+//october
+for (var i = 1; i < 32; i++) {
+  eventLibrary['10-' + i] = sampleDay;
+};
+
+//november
+for (var i = 1; i < 31; i++) {
+  eventLibrary['11-' + i] = sampleDay;
+};
+
+//december
+for (var i = 1; i < 32; i++) {
+  eventLibrary['12-' + i] = sampleDay;
+};
 
 export class CalendaryDisplay extends React.Component {
   constructor(props) {
@@ -16,15 +159,24 @@ export class CalendaryDisplay extends React.Component {
       specificEvent: {}, //object that will have data for specfic date
     };
 
-    this.createDateString = this.createDateString.bind(this);
     this.setDisplay = this.setDisplay.bind(this);
     this.setSpecificEvent = this.setSpecificEvent.bind(this);
 
     //to be used to get the events for today, eventually replace with user set prop from app.js which just initializes to today
-    this.todayString = '';
+    //this.todayString = (this.props.date.getMonth() + 1 + '-' + this.props.date.getDate());
     //list of events for selected day
     this.events = {};
+    this.colorScheme = {'Revolution': '#eb8f8f', 'Rebellion': '#ebbd8f', 'Labor': '#ceeb8f', 'Birthdays': '#c38feb', 'Assasinations': '#8f91eb', 'Other': '#b5c4b9'}
   };
+
+  backHandler = BackHandler.addEventListener('hardwareBackPress', () => {
+    if (this.state.display !== 'all') {
+      this.setState({display: 'all'});
+      return true;
+    } else {
+      BackHandler.exitApp();
+    };
+  });
 
   componentWillMount() {
     this.getEvents();
@@ -45,32 +197,26 @@ export class CalendaryDisplay extends React.Component {
     //alert(event.description);
   };
 
-  createDateString() {
-    var today = new Date();
-    this.todayString = (today.getUTCMonth() + 1) + '-' + today.getUTCDay();
-  };
-
   getEvents() {
-    if (!this.todayString) {
-      this.createDateString();
-      //uncomment below and delete last line when you actually finish building library
-      //Object.assign(eventLibrary[this.todayString], this.events);
-      Object.assign(this.events, eventLibrary['1-1']);
+      //uncomment below and delete last line when you actually finish building event library
+      Object.assign(this.events, eventLibrary[this.props.todayString]);
+      //Object.assign(this.events, eventLibrary['1-1']);
       //console.log(this.events);
-    };
   };
 
   render() {
+    console.log('testing calendarDisplay.js:');
+    console.log(this.props.todayString);
     return (
       <View style={styles.main}>
         {this.state.display === 'all' && <View style={styles.allEventsWrapper}>
           <View style={styles.onThisDay}>
-            <StyledText text='On this day in socialist history: ' style={{fontSize: 24, textAlign: 'center', fontWeight: 'bold'}}/>
+            <StyledText text='On this day in socialist history: ' style={{fontSize: 22, textAlign: 'center', fontWeight: 'bold'}}/>
           </View>
           <View style={[styles.eventCategory, ]}>
             <TouchableOpacity
               onPress={() => this.setDisplay('Revolution')}
-              style={{borderBottomWidth: 1, borderTopWidth: 1, backgroundColor: '#eb8f8f'}}
+              style={{borderBottomWidth: 1, borderTopWidth: 1, backgroundColor: this.colorScheme['Revolution']}}
             >
               <StyledText text='Revolution' style={[styles.eventCategoryHeader]}/>
             </TouchableOpacity>
@@ -88,7 +234,7 @@ export class CalendaryDisplay extends React.Component {
           <View style={[styles.eventCategory, ]}>
             <TouchableOpacity
               onPress={() => this.setDisplay('Rebellion')}
-              style={{borderBottomWidth: 1, backgroundColor: '#ebbd8f'}}
+              style={{borderBottomWidth: 1, backgroundColor: this.colorScheme['Rebellion']}}
             >
               <StyledText text='Rebellion' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
@@ -106,7 +252,7 @@ export class CalendaryDisplay extends React.Component {
           <View style={[styles.eventCategory, ]}>
             <TouchableOpacity
               onPress={() => this.setDisplay('Labor')}
-              style={{borderBottomWidth: 1, backgroundColor: '#ceeb8f'}}
+              style={{borderBottomWidth: 1, backgroundColor: this.colorScheme['Labor']}}
             >
               <StyledText text='Labor' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
@@ -124,7 +270,7 @@ export class CalendaryDisplay extends React.Component {
           <View style={[styles.eventCategory, ]}>
             <TouchableOpacity
               onPress={() => this.setDisplay('Birthdays')}
-              style={{borderBottomWidth: 1, backgroundColor: '#c38feb'}}
+              style={{borderBottomWidth: 1, backgroundColor: this.colorScheme['Birthdays']}}
             >
               <StyledText text='Birthdays' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
@@ -142,7 +288,7 @@ export class CalendaryDisplay extends React.Component {
           <View style={[styles.eventCategory, ]}>
             <TouchableOpacity
               onPress={() => this.setDisplay('Assasinations')}
-              style={{borderBottomWidth: 1, backgroundColor: '#8f91eb'}}
+              style={{borderBottomWidth: 1, backgroundColor: this.colorScheme['Assasinations']}}
             >
               <StyledText text='Assasinations' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
@@ -160,7 +306,7 @@ export class CalendaryDisplay extends React.Component {
           <View style={[styles.eventCategory, ]}>
             <TouchableOpacity
               onPress={() => this.setDisplay('Other')}
-              style={{borderBottomWidth: 1, backgroundColor: '#d4d4d4'}}
+              style={{borderBottomWidth: 1, backgroundColor: this.colorScheme['Other']}}
             >
               <StyledText text='Other' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
@@ -176,21 +322,24 @@ export class CalendaryDisplay extends React.Component {
           </View>
         </View>}
         {this.state.display === 'specific' &&
-          <SpecificEvent event={this.state.event} setDisplay={this.setDisplay}/>
+          <SpecificEvent event={this.state.event} setDisplay={this.setDisplay} colorScheme={this.colorScheme}/>
         }
         {this.state.display !== 'all' && this.state.display !== 'specific' &&
           <View>
-            <StyledText text={this.state.display} style={{fontSize: 22}}/>
+            <View style={{borderBottomWidth: 1, borderTopWidth: 0, backgroundColor: this.colorScheme[this.state.display]}}>
+              <StyledText text={this.state.display} style={[styles.eventCategoryHeader]}/>
+            </View>
             {this.events[this.state.display].map((event) =>
               <TouchableOpacity
                 onPress={() => this.setSpecificEvent(event)}
                 key={event.title}
+                style={styles.specificEventButton}
               >
                 <StyledText text={event.title} style={styles.eventCategoryText} />
               </TouchableOpacity>
             )}
-            <TouchableOpacity onPress={() => this.setDisplay('all')}>
-              <StyledText text='Back Arrow' style={{fontSize: 22, fontWeight: 'bold'}}/>
+            <TouchableOpacity onPress={() => this.setDisplay('all')} style={{marginTop: 12, marginLeft: 0, width: 55, alignContent: 'center'}}>
+              <Ionicons name="md-arrow-round-back" size={48} color="black" style={{marginLeft: 'auto', marginRight: 'auto'}}/>
             </TouchableOpacity>
           </View>
         }
