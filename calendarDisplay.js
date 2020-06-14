@@ -75,13 +75,13 @@ var sampleDay = {
     infoSrc: 'description source goes here'
   },
 ],
-'Assasinations': [
+'Assassinations': [
   {
-    category: 'Assasinations',
+    category: 'Assassinations',
     date: 'January 1st, 1898',
-    title: 'The Assasination of January 1st',
+    title: 'The Assassination of January 1st',
     imgSrc: require('./assets/Makhno.jpg'),
-    description: "Things were awful, so people assasinated the guy in charge. They managed to kill him, but it didn't make anything better.",
+    description: "Things were awful, so people assassinated the guy in charge. They managed to kill him, but it didn't make anything better.",
     link: 'link will go here',
     infoSrc: 'description source goes here'
   },
@@ -151,7 +151,7 @@ for (var i = 1; i < 32; i++) {
   eventLibrary['12-' + i] = sampleDay;
 };
 
-export class CalendaryDisplay extends React.Component {
+export class CalendarDisplay extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -166,7 +166,8 @@ export class CalendaryDisplay extends React.Component {
     //this.todayString = (this.props.date.getMonth() + 1 + '-' + this.props.date.getDate());
     //list of events for selected day
     this.events = {};
-    this.colorScheme = {'Revolution': '#eb8f8f', 'Rebellion': '#ebbd8f', 'Labor': '#ceeb8f', 'Birthdays': '#c38feb', 'Assasinations': '#8f91eb', 'Other': '#b5c4b9'}
+    //this.colorScheme = {'Revolution': '#eb8f8f', 'Rebellion': '#ebbd8f', 'Labor': '#ceeb8f', 'Birthdays': '#c38feb', 'Assassinations': '#8f91eb', 'Other': '#b5c4b9'}
+    this.colorScheme = {'Revolution': '#de4d43', 'Rebellion': '#de4d43', 'Labor': '#de4d43', 'Birthdays': '#de4d43', 'Assassinations': '#de4d43', 'Other': '#de4d43'}
   };
 
   backHandler = BackHandler.addEventListener('hardwareBackPress', () => {
@@ -205,13 +206,15 @@ export class CalendaryDisplay extends React.Component {
   };
 
   render() {
-    console.log('testing calendarDisplay.js:');
-    console.log(this.props.todayString);
+    //three possible views:
+    //display === 'all' will show categories and specific event buttons
+    //display === 'specific' will render a specific event's view, passing props to the SpecificEvent component
+    //display !== 'all' or 'specific' will show a list of events for a specific category (in this case, display will equal event category name)
     return (
       <View style={styles.main}>
         {this.state.display === 'all' && <View style={styles.allEventsWrapper}>
           <View style={styles.onThisDay}>
-            <StyledText text='On this day in socialist history: ' style={{fontSize: 22, textAlign: 'center', fontWeight: 'bold'}}/>
+            <StyledText text='On This Day in History: ' style={{fontSize: 22, textAlign: 'center', fontWeight: 'bold'}}/>
           </View>
           <View style={[styles.eventCategory, ]}>
             <TouchableOpacity
@@ -287,12 +290,12 @@ export class CalendaryDisplay extends React.Component {
 
           <View style={[styles.eventCategory, ]}>
             <TouchableOpacity
-              onPress={() => this.setDisplay('Assasinations')}
-              style={{borderBottomWidth: 1, backgroundColor: this.colorScheme['Assasinations']}}
+              onPress={() => this.setDisplay('Assassinations')}
+              style={{borderBottomWidth: 1, backgroundColor: this.colorScheme['Assassinations']}}
             >
-              <StyledText text='Assasinations' style={styles.eventCategoryHeader}/>
+              <StyledText text='Assassinations' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
-            {this.events['Assasinations'].map((event) =>
+            {this.events['Assassinations'].map((event) =>
               <TouchableOpacity
                 onPress={() => this.setSpecificEvent(event)}
                 key={event.title}

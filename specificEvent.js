@@ -14,17 +14,18 @@ export class SpecificEvent extends React.Component {
     console.log(this.props.event.imgSrc);
     return (
       <View>
-        <View style={{borderBottomWidth: 1, borderTopWidth: 0, padding: 5, backgroundColor: this.props.colorScheme[this.props.event.category]}}>
-          <StyledText text={this.props.event.title} style={{textAlign: 'center', fontSize: 24}}/>
-        </View>
-        <View style={styles.descriptionDateWrapper}>
-          <StyledText text={this.props.event.date} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 20}}/>
-        </View>
         <View style={styles.descriptionWrapper}>
+          <View>
+            <StyledText text={this.props.event.title} style={{textAlign: 'center', fontSize: 24}}/>
+          </View>
+          <View style={styles.descriptionDateWrapper}>
+            <StyledText text={this.props.event.date} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 20}}/>
+          </View>
           <View style={styles.descriptionImgWrapper}>
             <Image
               style={styles.descriptionImg}
               source={this.props.event.imgSrc}
+              resizeMode={'cover'}
             />
           </View>
           <View style={styles.descriptionTextWrapper}>

@@ -1,6 +1,20 @@
 import { StyleSheet } from 'react-native';
 
 export const styles = StyleSheet.create({
+  aboutWrapper: {
+    width: '95%',
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    marginTop: 15,
+    borderWidth: 1,
+    borderRadius: 5,
+    backgroundColor: 'white',
+    padding: 15,
+  },
+  aboutText: {
+    fontSize: 17,
+    marginBottom: 3,
+  },
   allEventsWrapper: {
     marginTop: 10,
   },
@@ -20,23 +34,24 @@ export const styles = StyleSheet.create({
   container: {
     justifyContent: 'space-between',
     height: '100%',
-    backgroundColor: '#e3e3e3',
+    backgroundColor: '#f0f0f0',
   },
   descriptionDateWrapper: {
-    borderBottomWidth: 1,
-    padding: 8,
-    backgroundColor: '#f5f5f5',
+    marginBottom: 10,
+    padding: 5,
   },
   descriptionImg: {
-    width: 275
+    width: '90%'
   },
   descriptionImgWrapper: {
     marginLeft: 'auto',
     marginRight: 'auto',
-    elevation: 10,
+    width: '90%',
+    justifyContent: 'center',
+    alignItems: 'center',
   },
   descriptionWrapper: {
-    width: '90%',
+    width: '95%',
     marginLeft: 'auto',
     marginRight: 'auto',
     textAlign: 'center',
@@ -51,6 +66,16 @@ export const styles = StyleSheet.create({
   },
   descriptionTextWrapper: {
     marginTop: 15,
+  },
+  donateWrapper: {
+    width: '95%',
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    marginTop: 15,
+    borderWidth: 1,
+    borderRadius: 5,
+    backgroundColor: 'white',
+    padding: 15,
   },
   sourceWrapper: {
     marginTop: 8,
@@ -70,7 +95,7 @@ export const styles = StyleSheet.create({
     marginBottom: 4,
   },
   eventCategoryText: {
-    fontSize: 19,
+    fontSize: 20,
     marginLeft: 10,
     padding: 5,
   },
@@ -90,6 +115,7 @@ export const styles = StyleSheet.create({
   },
   specificEventButton: {
     borderBottomWidth: 1,
+    padding: 1,
   },
   text: {
     fontSize: 16,

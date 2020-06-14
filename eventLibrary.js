@@ -1,6 +1,6 @@
 //structure is as follows:
 //eventLibrary is an object where keys are days of the year as MM-DD strings (no zero pad). Values are as follows:
-//  each day has 6 categories - Revolution, Rebellion, Birthdays, Assasinations, publications, and other
+//  each day has 6 categories - Revolution, Rebellion, Birthdays, Assassinations, publications, and other
 //      each category has a list of events
 //          each event has 7 props, all strings (category redundant, but may help) - category, date, title, description, img, infoSrc, and link
 
@@ -71,13 +71,13 @@
         infoSrc: ''
       },
     ],
-    'Assasinations': [
+    'Assassinations': [
       {
-        category: 'Assasinations',
+        category: 'Assassinations',
         date: 'January 1st, 1898',
-        title: 'The Assasination of January 1st',
+        title: 'The Assassination of January 1st',
         imgSrc: require('./assets/Makhno.jpg'),
-        description: "Things were awful, so people assasinated. They managed to kill him, but it didn't make anything better.",
+        description: "Things were awful, so people assassinated. They managed to kill him, but it didn't make anything better.",
         link: 'link will go here',
         infoSrc: ''
       },

@@ -1,7 +1,9 @@
 import React from 'react';
-import { StatusBar, Text, View, ScrollView, BackHandler, TouchableOpacity } from 'react-native';
+import { StatusBar, Text, View, ScrollView, BackHandler, TouchableOpacity, Linking } from 'react-native';
 import {StyledText} from './styledText.js';
-import {CalendaryDisplay} from './calendarDisplay.js';
+import {CalendarDisplay} from './calendarDisplay.js';
+import {About} from './aboutComponent.js';
+import {Donate} from './donateComponent.js';
 import {styles} from './styles.js';
 import DateTimePicker from '@react-native-community/datetimepicker';
 
@@ -15,6 +17,7 @@ export default class App extends React.Component {
     this.setDisplay = this.setDisplay.bind(this);
     this.setNewDate = this.setNewDate.bind(this);
     this.toggleDatePicker = this.toggleDatePicker.bind(this);
+    this.handleDonate = this.handleDonate.bind(this);
 
     this.today = new Date();
     this.todayString = (new Date().getMonth() + 1 + '-' + new Date().getDate());
@@ -50,16 +53,28 @@ export default class App extends React.Component {
     });
   };
 
+  handleDonate() {
+    //this.setState({
+      //display: 'donate'
+    //});
+    //Linking.openUrl('http://www.paypal.com');
+  };
+
   render() {
+    //two possible views here, 'main' and 'about'
     return (
       <View style={styles.container}>
-        <View style={styles.everythingNotFooter}>
+        <ScrollView style={styles.everythingNotFooter}>
           <StatusBar barStyle='light-content'/>
           <TouchableOpacity style={styles.header} onPress={() => this.toggleDatePicker()}>
             <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 25, color: 'white'}}/>
           </TouchableOpacity>
-          <CalendaryDisplay date={this.today} todayString={this.todayString}/>
-        </View>
+          <View style={styles.mainContent}>
+            {this.state.display === 'main' && <CalendarDisplay date={this.today} todayString={this.todayString}/>}
+            {this.state.display === 'about' && <About/>}
+            {this.state.display === 'donate' && <Donate/>}
+          </View>
+        </ScrollView>
         <View style={styles.footer}>
           {this.state.display === 'main' && <TouchableOpacity
             onPress={() => this.setDisplay('about')}
@@ -68,14 +83,17 @@ export default class App extends React.Component {
             <StyledText text='About' style={styles.bottomButtonText}/>
           </TouchableOpacity>
           }
-          {this.state.display === 'about' && <TouchableOpacity
+          {this.state.display !== 'main' && <TouchableOpacity
             onPress={() => this.setDisplay('main')}
             style={styles.bottomButton}
           >
             <StyledText text='Back' style={styles.bottomButtonText}/>
           </TouchableOpacity>
           }
-          <TouchableOpacity style={[styles.bottomButton, {marginLeft: 1}]}>
+          <TouchableOpacity
+            style={[styles.bottomButton, {marginLeft: 1}]}
+            onPress={() => Linking.openURL('https://www.patreon.com')}
+          >
             <StyledText text='Donate' style={styles.bottomButtonText}/>
           </TouchableOpacity>
         </View>
