@@ -3,14 +3,15 @@ import { Text, View, ScrollView, BackHandler, TouchableOpacity } from 'react-nat
 import {StyledText} from './styledText.js';
 import {styles} from './styles.js';
 //uncomment eventLibrary import once you get up and running
-//import {eventLibrary} from './eventLibrary.js';
+import {eventLibrary} from './eventLibrary.js';
 import {SpecificEvent} from './specificEvent.js';
 import { Ionicons } from '@expo/vector-icons';
 
 //three views possible set by display prop in state: 'all', some type ('Revolution', 'Rebellion', etc.), and 'specific'. Respectively, all events for the day, events only of
 //a specific type, or a specific event (includes detail)
 
-var eventLibrary = {};
+//create a dummy calendar for every day of the year:
+/*var eventLibrary = {};
 
 var sampleDay = {
 'Revolution': [
@@ -149,7 +150,7 @@ for (var i = 1; i < 31; i++) {
 //december
 for (var i = 1; i < 32; i++) {
   eventLibrary['12-' + i] = sampleDay;
-};
+};*/
 
 export class CalendarDisplay extends React.Component {
   constructor(props) {
@@ -165,7 +166,7 @@ export class CalendarDisplay extends React.Component {
     //to be used to get the events for today, eventually replace with user set prop from app.js which just initializes to today
     //this.todayString = (this.props.date.getMonth() + 1 + '-' + this.props.date.getDate());
     //list of events for selected day
-    this.events = {};
+    //this.events = {};
     //this.colorScheme = {'Revolution': '#eb8f8f', 'Rebellion': '#ebbd8f', 'Labor': '#ceeb8f', 'Birthdays': '#c38feb', 'Assassinations': '#8f91eb', 'Other': '#b5c4b9'}
     this.colorScheme = {'Revolution': '#de4d43', 'Rebellion': '#de4d43', 'Labor': '#de4d43', 'Birthdays': '#de4d43', 'Assassinations': '#de4d43', 'Other': '#de4d43'}
   };
@@ -179,9 +180,9 @@ export class CalendarDisplay extends React.Component {
     };
   });
 
-  componentWillMount() {
-    this.getEvents();
-  };
+  //componentWillMount() {
+    //this.getEvents();
+  //};
 
   setDisplay(component) {
     //component should only ever be 'all', some event type, or 'specific'
@@ -198,14 +199,17 @@ export class CalendarDisplay extends React.Component {
     //alert(event.description);
   };
 
-  getEvents() {
+  //getEvents() {
+      //console.log(this.props.todayString);
+      //console.log(eventLibrary[this.props.todayString]);
       //uncomment below and delete last line when you actually finish building event library
-      Object.assign(this.events, eventLibrary[this.props.todayString]);
+      //Object.assign(this.events, eventLibrary[this.props.todayString]);
       //Object.assign(this.events, eventLibrary['1-1']);
       //console.log(this.events);
-  };
+  //};
 
   render() {
+    console.log(this.props.events);
     //three possible views:
     //display === 'all' will show categories and specific event buttons
     //display === 'specific' will render a specific event's view, passing props to the SpecificEvent component
@@ -223,7 +227,7 @@ export class CalendarDisplay extends React.Component {
             >
               <StyledText text='Revolution' style={[styles.eventCategoryHeader]}/>
             </TouchableOpacity>
-            {this.events['Revolution'].map((event) =>
+            {this.props.events['Revolution'].map((event) =>
               <TouchableOpacity
                 onPress={() => this.setSpecificEvent(event)}
                 key={event.title}
@@ -241,7 +245,7 @@ export class CalendarDisplay extends React.Component {
             >
               <StyledText text='Rebellion' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
-            {this.events['Rebellion'].map((event) =>
+            {this.props.events['Rebellion'].map((event) =>
               <TouchableOpacity
                 onPress={() => this.setSpecificEvent(event)}
                 key={event.title}
@@ -259,7 +263,7 @@ export class CalendarDisplay extends React.Component {
             >
               <StyledText text='Labor' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
-            {this.events['Labor'].map((event) =>
+            {this.props.events['Labor'].map((event) =>
               <TouchableOpacity
                 onPress={() => this.setSpecificEvent(event)}
                 key={event.title}
@@ -277,7 +281,7 @@ export class CalendarDisplay extends React.Component {
             >
               <StyledText text='Birthdays' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
-            {this.events['Birthdays'].map((event) =>
+            {this.props.events['Birthdays'].map((event) =>
               <TouchableOpacity
                 onPress={() => this.setSpecificEvent(event)}
                 key={event.title}
@@ -295,7 +299,7 @@ export class CalendarDisplay extends React.Component {
             >
               <StyledText text='Assassinations' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
-            {this.events['Assassinations'].map((event) =>
+            {this.props.events['Assassinations'].map((event) =>
               <TouchableOpacity
                 onPress={() => this.setSpecificEvent(event)}
                 key={event.title}
@@ -313,7 +317,7 @@ export class CalendarDisplay extends React.Component {
             >
               <StyledText text='Other' style={styles.eventCategoryHeader}/>
             </TouchableOpacity>
-            {this.events['Other'].map((event) =>
+            {this.props.events['Other'].map((event) =>
               <TouchableOpacity
                 onPress={() => this.setSpecificEvent(event)}
                 key={event.title}
@@ -332,7 +336,7 @@ export class CalendarDisplay extends React.Component {
             <View style={{borderBottomWidth: 1, borderTopWidth: 0, backgroundColor: this.colorScheme[this.state.display]}}>
               <StyledText text={this.state.display} style={[styles.eventCategoryHeader]}/>
             </View>
-            {this.events[this.state.display].map((event) =>
+            {this.props.events[this.state.display].map((event) =>
               <TouchableOpacity
                 onPress={() => this.setSpecificEvent(event)}
                 key={event.title}

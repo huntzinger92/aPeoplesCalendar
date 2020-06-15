@@ -4,8 +4,11 @@ import {StyledText} from './styledText.js';
 import {CalendarDisplay} from './calendarDisplay.js';
 import {About} from './aboutComponent.js';
 import {Donate} from './donateComponent.js';
+import {eventLibrary} from './eventLibrary.js';
 import {styles} from './styles.js';
 import DateTimePicker from '@react-native-community/datetimepicker';
+
+var initTodayString = (new Date().getMonth() + 1 + '-' + new Date().getDate());
 
 export default class App extends React.Component {
   constructor(props) {
@@ -13,6 +16,7 @@ export default class App extends React.Component {
     this.state = {
       display: 'main', //main or about
       showDatePicker: false,
+      events: eventLibrary[initTodayString], //events from selected day, to display in CalendarDisplay
     };
     this.setDisplay = this.setDisplay.bind(this);
     this.setNewDate = this.setNewDate.bind(this);
@@ -20,7 +24,7 @@ export default class App extends React.Component {
     this.handleDonate = this.handleDonate.bind(this);
 
     this.today = new Date();
-    this.todayString = (new Date().getMonth() + 1 + '-' + new Date().getDate());
+    this.todayString = initTodayString;
   };
 
   /*backHandler = BackHandler.addEventListener('hardwareBackPress', () => {
@@ -43,8 +47,12 @@ export default class App extends React.Component {
     //console.log('setNewDate running');
     this.today = date;
     this.todayString = (date.getMonth() + 1 + '-' + date.getDate());
+    this.setState({
+      events: eventLibrary[this.todayString],
+      showDatePicker: false
+    });
     //console.log((this.today.getMonth() + 1) + '-' + this.today.getDate());
-    this.toggleDatePicker();
+    //this.toggleDatePicker();
   };
 
   toggleDatePicker() {
@@ -62,6 +70,7 @@ export default class App extends React.Component {
 
   render() {
     //two possible views here, 'main' and 'about'
+    //console.log(this.state.events);
     return (
       <View style={styles.container}>
         <ScrollView style={styles.everythingNotFooter}>
@@ -70,7 +79,7 @@ export default class App extends React.Component {
             <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 25, color: 'white'}}/>
           </TouchableOpacity>
           <View style={styles.mainContent}>
-            {this.state.display === 'main' && <CalendarDisplay date={this.today} todayString={this.todayString}/>}
+            {this.state.display === 'main' && <CalendarDisplay date={this.today} events={this.state.events} todayString={this.todayString}/>}
             {this.state.display === 'about' && <About/>}
             {this.state.display === 'donate' && <Donate/>}
           </View>

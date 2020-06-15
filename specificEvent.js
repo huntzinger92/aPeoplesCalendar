@@ -11,7 +11,7 @@ export class SpecificEvent extends React.Component {
   };
 
   render() {
-    console.log(this.props.event.imgSrc);
+    //console.log(this.props.event.imgSrc);
     return (
       <View>
         <View style={styles.descriptionWrapper}>
