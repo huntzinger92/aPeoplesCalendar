@@ -25,6 +25,7 @@ export default class App extends React.Component {
 
     this.today = new Date();
     this.todayString = initTodayString;
+    this.calendarDisplayRef = React.createRef();
   };
 
   /*backHandler = BackHandler.addEventListener('hardwareBackPress', () => {
@@ -55,8 +56,10 @@ export default class App extends React.Component {
     this.todayString = (date.getMonth() + 1 + '-' + date.getDate());
     this.setState({
       events: eventLibrary[this.todayString],
-      showDatePicker: false
+      showDatePicker: false,
     });
+    //exit out of specific event display:
+    this.calendarDisplayRef.current.setDisplay('all');
     //console.log((this.today.getMonth() + 1) + '-' + this.today.getDate());
     //this.toggleDatePicker();
   };
@@ -85,7 +88,7 @@ export default class App extends React.Component {
         </TouchableOpacity>
         <ScrollView style={styles.everythingNotFooter}>
           <View style={styles.mainContent}>
-            {this.state.display === 'main' && <CalendarDisplay date={this.today} events={this.state.events} todayString={this.todayString}/>}
+            {this.state.display === 'main' && <CalendarDisplay date={this.today} events={this.state.events} todayString={this.todayString} ref={this.calendarDisplayRef}/>}
             {this.state.display === 'about' && <About/>}
             {this.state.display === 'donate' && <Donate/>}
           </View>

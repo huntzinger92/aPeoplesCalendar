@@ -20,8 +20,8 @@ export class SpecificEvent extends React.Component {
           </TouchableOpacity>
         </View>
         <View style={styles.descriptionWrapper}>
-          <View>
-            <StyledText text={this.props.event.title} style={{textAlign: 'center', fontSize: 24}}/>
+          <View style={{alignSelf: 'center'}}>
+            <StyledText text={this.props.event.title} style={{textAlign: 'center', alignSelf: 'center', fontSize: 23}}/>
           </View>
           <View style={styles.descriptionDateWrapper}>
             <StyledText text={this.props.event.date} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 20}}/>
@@ -50,6 +50,11 @@ export class SpecificEvent extends React.Component {
               <StyledText text="Learn More" style={styles.linkText}/>
             </TouchableOpacity>}
           </View>
+        </View>
+        <View style={{marginTop: 7, width: '90%', marginLeft: 'auto', marginRight: 'auto'}}>
+          <TouchableOpacity onPress={() => this.props.setDisplay('all')} style={{alignContent: 'center', width: 70}}>
+            <Ionicons name="md-arrow-round-back" size={32} color="black"/>
+          </TouchableOpacity>
         </View>
       </View>
     );
