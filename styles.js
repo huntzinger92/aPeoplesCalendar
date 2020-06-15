@@ -110,6 +110,25 @@ export const styles = StyleSheet.create({
     padding: 8,
     backgroundColor: '#1c1c1c',
   },
+  linkContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    marginTop: 15,
+  },
+  linkText: {
+    fontSize: 24,
+    color: 'white',
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    alignSelf: 'center',
+  },
+  linkWrapper: {
+    backgroundColor: '#1c1c1c',
+    borderWidth: 1,
+    borderRadius: 10,
+    padding: 10,
+    width: 160,
+  },
   onThisDay: {
     marginBottom: 10,
   },

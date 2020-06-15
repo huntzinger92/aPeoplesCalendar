@@ -209,7 +209,6 @@ export class CalendarDisplay extends React.Component {
   //};
 
   render() {
-    console.log(this.props.events);
     //three possible views:
     //display === 'all' will show categories and specific event buttons
     //display === 'specific' will render a specific event's view, passing props to the SpecificEvent component

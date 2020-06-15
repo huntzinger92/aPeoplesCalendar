@@ -45,7 +45,13 @@ export default class App extends React.Component {
 
   setNewDate(event, date) {
     //console.log('setNewDate running');
-    this.today = date;
+    if (date === undefined) {
+      //when the user taps out of date menu to close it, the date variable is undefined, which throws an error when navigating
+      //in this case, revert back to today's date
+      this.today = new Date();
+    } else {
+      this.today = date;
+    };
     this.todayString = (date.getMonth() + 1 + '-' + date.getDate());
     this.setState({
       events: eventLibrary[this.todayString],
@@ -73,11 +79,11 @@ export default class App extends React.Component {
     //console.log(this.state.events);
     return (
       <View style={styles.container}>
+        <StatusBar barStyle='light-content'/>
+        <TouchableOpacity style={styles.header} onPress={() => this.toggleDatePicker()}>
+          <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 25, color: 'white'}}/>
+        </TouchableOpacity>
         <ScrollView style={styles.everythingNotFooter}>
-          <StatusBar barStyle='light-content'/>
-          <TouchableOpacity style={styles.header} onPress={() => this.toggleDatePicker()}>
-            <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 25, color: 'white'}}/>
-          </TouchableOpacity>
           <View style={styles.mainContent}>
             {this.state.display === 'main' && <CalendarDisplay date={this.today} events={this.state.events} todayString={this.todayString}/>}
             {this.state.display === 'about' && <About/>}
