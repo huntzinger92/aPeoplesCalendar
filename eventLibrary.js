@@ -9637,13 +9637,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 20th, 1743',
+        title: 'Toussaint Louverture (1743 - 1803)',
+        imgSrc: require('./assets/eventPhotos/toussaintLouverture.jpg'),
+        description: `François-Dominique Toussaint Louverture was a Haitian general and best-known leader of the Haitian Revolution. He first fought for the Spanish against the French; then for France against Spain and Great Britain; and finally, he fought on behalf of Saint-Domingue in the era of Napoleonic France. As a leader of the growing resistance, his military and political acumen saved the gains of the first black insurrection in November 1791, helping to transform the slave insurgency into a revolutionary movement. The revolution was the only slave uprising that led to the founding of a state which was both free from slavery, and ruled by non-whites and former captives.\n\nIt is believed that Louverture was well educated by his father, who was a free man of color. He was also known to be free himself by at least the year 1776, at the age of 33. As a free man, he was able to accumulate a small fortune, including a plantation and approximately a dozen slaves.\n\nDrawing from his previous military experience to assist in the political upheaval of the slave rebellions, Louverture quickly became a political leader within the movement. After committing to fighting for full abolition of slavery, he issued a famous proclamation at Camp Turel of St. Domingue: "Brothers and friends, I am Toussaint Louverture; perhaps my name has made itself known to you. I have undertaken vengeance. I want Liberty and Equality to reign in St Domingue. I am working to make that happen. Unite yourselves to us, brothers and fight with us for the same cause."\n\nLouverture was eventually tricked into being arrested by Brunet, a French General, and deported to France, where he died of unknown causes while imprisoned. Shortly thereafter, the colony finally achieved independence under the leadership of Jean-Jacques Dessalines.`,
+        link: 'https://en.wikipedia.org/wiki/Toussaint_Louverture',
+        infoSrc: 'https://en.wikipedia.org/wiki/Haitian_Revolution'
       },
     ],
     'Assassinations': [
@@ -10249,13 +10249,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 29th, 1944',
+        title: 'Maurice Bishop (1944 - 1983)',
+        imgSrc: require('./assets/eventPhotos/mauriceBishop.jpg'),
+        description: `Maurice Rupert Bishop was a Grenadian revolutionary and the leader of New Jewel Movement – popular efforts in the areas of socio-economic development, education, and black liberation – that came to power during the 13 March 1979 Coup that removed Eric Gairy from office. Bishop headed the People's Revolutionary Government of Grenada from 1979 to 1983, when he was dismissed from his post and shot in a coup, leading to civil unrest and a US invasion of the country.\n\nAlthough Bishop grew up in Grenada, he left to study in London as a young adult. While there, Bishop acquired a law degree and studied the works of Lenin, Mao Zedong, and Julius Nyerere.\n\nIn 1970, he returned to Grenada and was active politically, representing striking nurses in court and leading the "New Jewel Movement", which ultimately put him in power. In 1979, the New Jewel Movement successfully led a coup against Eric Gairy and made Bishop the Prime Minister of Grenada\n\nAmong Bishop's core principles were workers' rights, women's rights, and the struggle against racism and apartheid. Women were given equal pay and paid maternity leave, and sex discrimination was made illegal. Organisations for education (Center for Popular Education), health care, and youth affairs (National Youth Organization), and literacy were also established. Due to his efforts, illiteracy greatly declined and the unemployment rate dropped from 54% to 14%.\n\nIn 1983, disputes within the party culminated in Bishop, along with seven members of his cabinet, being captured and executed. After his assassination, the Organization of Eastern Caribbean States and Grenada's governor-general Paul Scoon appealed to the United States for help. Within the month, Ronald Reagan launched an invasion of Grenada.`,
+        link: 'https://www.zinnedproject.org/news/tdih/grenada-revolution/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Maurice_Bishop'
       },
     ],
     'Assassinations': [
@@ -11677,13 +11677,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 19th, 1957',
+        title: 'Rafael Vicente (1957 -)',
+        imgSrc: require('./assets/eventPhotos/rafaelVicente.jpg'),
+        description: `Rafael Sebastián Guillén Vicente, widely known by his previous nom de guerre as "Subcomandante Marcos", is a Mexican insurgent, former military leader, and spokesman for the Zapatista Army of National Liberation (EZLN) in the ongoing Chiapas conflict. Before joining the EZLN, Vicente was a college professor at the Metropolitan Autonomous University in Mexico.\n\nThe EZLN was founded in the Lacandon Jungle in 1983, initially functioning as a self-defense unit dedicated to protecting Chiapas' Mayan people from evictions and capitalist encroachment on their land. While not Mayan himself, Marcos has often served as the group's spokeman. Marcos led the EZLN during the 1994 revolt and the subsequent peace negotiations, during a counter-offensive by the Mexican Army in 1995, and throughout the decades that followed. In 2001, he led a group of Zapatista leaders into Mexico City to meet with President Vicente Fox, attracting widespread public and media attention.\n\n`,
+        link: 'https://books.google.com/books?id=iPaZ-CIHOxUC&pg=PR11#v=onepage&q&f=false',
+        infoSrc: 'https://en.wikipedia.org/wiki/Subcomandante_Marcos'
       },
     ],
     'Assassinations': [
@@ -15358,13 +15358,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Birthdays',
+        date: 'August 12th, 1936',
+        title: 'Mario Santucho (1936 - 1976)',
         imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `Mario Roberto Santucho (August 12, 1936 in Santiago del Estero – July 19, 1976 in Villa Martelli) was an Argentine revolutionary and guerrilla combatant, founder of the Partido Revolucionario de los Trabajadores (Workers' Revolutionary Party, PRT) and leader of Argentina's largest Marxist guerrilla group, the Ejército Revolucionario del Pueblo (People's Revolutionary Army, ERP).\n\nMario Roberto Santucho and a significant part of the PRT leadership were killed on July 19, 1976, as part of a covert ambush carried out by a paramilitary task force connected to the Argentine Armed Forces. His and his wife's remains were never found. This attack was part of the "Dirty War" perpetrated by the US-backed Argentinian dictatorship against left-wing dissidents, which led to disappearence of up to 30,000 people.`,
+        link: 'https://en.wikipedia.org/wiki/Dirty_War',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mario_Roberto_Santucho'
       },
     ],
     'Assassinations': [
@@ -18026,6 +18026,15 @@ export const eventLibrary = {
         description: `Upton Beall Sinclair Jr. was an American writer who wrote nearly 100 books and other works in several genres. Sinclair's work was well known and popular in the first half of the 20th century, and he won the Pulitzer Prize for Fiction in 1943. Sinclair was an outspoken socialist, and his books are particularly notable for depicting the scandalous working conditions of the laboring class, particularly in the book "The Jungle".\n\nSinclair was inspired to write "The Jungle" after spending six months researching the Chicago meatpacking industry. He intended to "set forth the breaking of human hearts by a system which exploits the labor of men and women for profit". The novel featured Jurgis Rudkus, a Lithuanian immigrant who works in a meat factory in Chicago, his teenaged wife Ona Lukoszaite, and their extended family. Sinclair portrays their mistreatment by Rudkus' employers and the wealthy. His descriptions of the unsanitary and inhumane conditions that workers suffered served to shock and galvanize readers. Jack London called Sinclair's book "the Uncle Tom's Cabin of wage slavery", and it caused the domestic and foreign purchases of American meat fell by half, leading to federal regulation of the meat industry.\n\nIt is worth noting that Sinclair was a racist. With the income from "The Jungle", he founded the utopian community Helicon Home Colony in Englewood, New Jersey, which excluded black and Jewish people. The colony burned down under suspicious circumstances within a year.\n\nIn the 1920s, Sinclair moved to Monrovia, California (near Los Angeles), where he founded the state's chapter of the American Civil Liberties Union. In 1934, Sinclair ran in the California gubernatorial election as a Democrat. Sinclair's platform, known as the End Poverty in California movement (EPIC), galvanized the support of the Democratic Party. Sinclair gained its nomination, but was defeated by the incumbent Frank Merriam. For his campaign, he was expelled by the Socialist Party, which forbid members from being active within other parties.`,
         link: 'https://en.wikipedia.org/wiki/Upton_Sinclair',
         infoSrc: 'https://en.wikipedia.org/wiki/Upton_Sinclair'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 20th, 1758',
+        title: 'Jean-Jacques Dessalines (1758 - 1806)',
+        imgSrc: require('./assets/eventPhotos/jacquesDessalines.jpg'),
+        description: `Jean-Jacques Dessalines was a leader of the Haitian Revolution and the first ruler of an independent Haiti under the 1805 constitution. Under Dessalines, Haiti became the first country in the Americas to permanently abolish slavery. The revolution was the only slave uprising that led to the founding of a state which was both free from slavery and ruled by non-whites and former captives. Initially regarded as governor-general, Dessalines was later named Emperor of Haiti as Jacques I (1804–1806) by the generals of the Haitian Revolution Army. He is regarded as one of the founding fathers of Haiti.\n\nDessalines was born a slave and was not free until the slave uprising of 1791. As the slave rebellions developed into a revolutionary movement, he served as principal lieutenant to the movement's leader, Toussaint Louverture, helping lead the Haitian armies to many victories in battle over the French. After Louverture's betrayal and death, Dessalines became the leader of the Haitian Revolution in 1802, eventually leading the colony to its independence. In 1804, he ordered mass killings of all the French remaining on the island, leading to the deaths of 3000-5000 French people of all ages and sexes.\n\nAfter achieving freedom from France, Dessalines imposed a strict regimen of labor on the Haitian population, leading to widespread resentment of his rule. Eventually, he was assassinated by his own people in 1806, leading to civil war on the island.`,
+        link: 'https://en.wikipedia.org/wiki/Haitian_Revolution',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines'
       },
     ],
     'Assassinations': [
