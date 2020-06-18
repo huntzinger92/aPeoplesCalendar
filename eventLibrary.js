@@ -10725,13 +10725,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 5th, 1868',
+        title: 'James Connolly (1868 - 1916)',
+        imgSrc: require('./assets/eventPhotos/jamesConnolly.jpg'),
+        description: `James Connolly was a Scottish-born Irish republican and socialist leader. He was a member of the Industrial Workers of the World and founder of the Irish Socialist Republican Party. With James Larkin, he was centrally involved in the Dublin lock-out of 1913, as a result of which the two men formed the Irish Citizen Army (ICA) that year. He opposed British rule in Ireland, and was one of the leaders of the Easter Rising of 1916. He was executed by firing squad following the Rising.`,
+        link: 'https://en.wikipedia.org/wiki/Easter_Rising',
+        infoSrc: 'https://en.wikipedia.org/wiki/James_Connolly'
       },
     ],
     'Assassinations': [
@@ -12085,13 +12085,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 25th, 1903',
+        title: 'George Orwell (1903 - 1950)',
+        imgSrc: require('./assets/eventPhotos/georgeOrwell.jpg'),
+        description: `Eric Arthur Blair, better known by his pen name George Orwell, was an English novelist and essayist, journalist and critic. His work is characterised by lucid prose, biting social criticism, opposition to totalitarianism, and outspoken support of democratic socialism.\n\nAs a writer, Orwell produced literary criticism and poetry, fiction and polemical journalism; and is best known for his allegory for the Soviet Union "Animal Farm" (1945) and the dystopian novel "Nineteen Eighty-Four" (1949). Orwell should also be noted for his first hand-account of the Spanish Civil War, "Homage to Catalonia" (1938).\n\nIn "Homage to Catalonia", Orwell describes fighting for the Republican faction, describing in detail the ways in which the anarchist movement re-structured their economony and military to be more egalitarian. He was eventually shot in the throat, declared unfit for service, and returned to England to recover.\n\nOrwell's experiences in Catalonia made him a vehement anti-Stalinist, but still remained a democratic socialist throughout the rest of his life.`,
+        link: 'https://en.wikipedia.org/wiki/George_Orwell',
+        infoSrc: 'https://en.wikipedia.org/wiki/George_Orwell'
       },
     ],
     'Assassinations': [
@@ -23418,13 +23418,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 8th, 1882',
+        title: 'Thomas Mooney (1882 - 1942)',
+        imgSrc: require('./assets/eventPhotos/thomasMooney.jpg'),
+        description: `Thomas Joseph Mooney was an American political activist and labor leader, who was convicted with Warren K. Billings of the San Francisco Preparedness Day Bombing of 1916. Convicted on scant evidence, Mooney served 22 years in prison before finally being pardoned in 1939. He was known for being a militant IWW organizer and for publishing the socialist magazine "The Revolt".`,
+        link: 'https://en.wikipedia.org/wiki/Thomas_Mooney',
+        infoSrc: 'https://en.wikipedia.org/wiki/Thomas_Mooney'
       },
     ],
     'Assassinations': [
@@ -23826,13 +23826,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 14th, 1852',
+        title: 'Daniel De Leon',
+        imgSrc: require('./assets/eventPhotos/danielDeLeon.jpg'),
+        description: `Daniel De Leon was an American socialist newspaper editor, politician, Marxist theoretician, and trade union organizer. He is regarded as the forefather of the idea of revolutionary industrial unionism and was the leading figure in the Socialist Labor Party of America from 1890 until the time of his death.\n\nDe Leon is also notable for splitting with "Big Bill" Haywood on the matter of electoral politics. Haywood supported direct action - working outside the system - while De Leon supported political action via a socialist political party. Eventually, this disagreement caused De Leon to leave the IWW entirely.`,
+        link: 'https://en.wikipedia.org/wiki/Daniel_De_Leon',
+        infoSrc: 'https://en.wikipedia.org/wiki/Daniel_De_Leon'
       },
     ],
     'Assassinations': [
