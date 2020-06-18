@@ -864,13 +864,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 26th, 1944',
+        title: 'Angela Davis (1944 - )',
+        imgSrc: require('./assets/eventPhotos/angelaDavis.jpg'),
+        description: `Angela Yvonne Davis is an American political activist, philosopher, academic, and author. She is a professor emerita at the University of California, Santa Cruz. Ideologically a Marxist, Davis was a member of the Communist Party USA until 1991, after which she joined the breakaway Committees of Correspondence for Democracy and Socialism. She is the author of over ten books on class, feminism, and the U.S. prison system.\n\nBorn to an African American family in Birmingham, Alabama, Davis studied French at Brandeis University and philosophy at the University of Frankfurt in West Germany. Returning to the U.S., she studied at the University of California, San Diego before moving to East Germany, where she gained a doctorate at the Humboldt University of Berlin. Back in the U.S., she joined the Communist Party and, as a Marxist feminist, involved herself in a range of leftist causes, including the second-wave feminist movement, the Black Panther Party, and the campaign against the Vietnam War. In 1969, she was hired as an acting assistant professor of philosophy at the University of California, Los Angeles (UCLA). UCLA's governing Board of Regents soon fired her due to her Communist Party membership; after a court ruled this illegal, the university fired her again, this time for her use of inflammatory language.\n\nIn 1970, firearms registered to Davis were used in an armed takeover of a courtroom in Marin County, California, in which four people were killed. She was prosecuted for three capital felonies, including conspiracy to murder. After over a year in jail, she was acquitted of the charges in 1972. Much of her work has focused on the abolition of prisons - in 1997 she co-founded Critical Resistance, an organization working to abolish the prison–industrial complex.\n\nPraised by many Marxists and others on the left, Davis has received various awards, including the Lenin Peace Prize. Davis has been inducted into the National Women's Hall of Fame. Davis was Time magazine's "Woman of the Year" for 1971 in its 2020 "100 Women of the Year" edition.`,
+        link: 'https://www.theguardian.com/us-news/2020/jun/15/angela-davis-on-george-floyd-as-long-as-the-violence-of-racism-remains-no-one-is-safe',
+        infoSrc: 'https://en.wikipedia.org/wiki/Angela_Davis'
       },
     ],
     'Assassinations': [
@@ -2420,13 +2420,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 4th, 1869',
+        title: 'Big Bill Haywood (1869 - 1928)',
+        imgSrc: require('./assets/eventPhotos/billHaywood.jpg'),
+        description: `William Dudley "Big Bill" Haywood (February 4, 1869 – May 18, 1928) was a founding member and leader of the Industrial Workers of the World (IWW) and a member of the executive committee of the Socialist Party of America. During the first two decades of the 20th century, Haywood was involved in several important labor battles, including the Colorado Labor Wars, the Lawrence Textile Strike, and other textile strikes in Massachusetts and New Jersey.\n\nHaywood was an advocate of industrial unionism, a labor philosophy that favors organizing all workers in an industry under one union, regardless of the specific trade or skill level. He believed that workers of all ethnicities should be united, and favored direct action over political action.\n\nWhen Haywood spoke at a labor convention in Louisiana, where interracial meetings where illegal, he successfully asked the white workers to not exclude their black counterparts from unionizing with them:\n\n"You work in the same mills together. Sometimes a black man and a white man chop down the same tree together. You are meeting in a convention now to discuss the conditions under which you labor. Why not be sensible about this and call the Negroes into the Convention? If it is against the law, this is one time when the law should be broken."\n\nHaywood was reknowned for leading strikes in times of crisis. When martial law was declared during the Lawrence Textile Strike, Haywood traveled to the strike and implemented many innovative tactics to help the workers involved. One such ploy was to very publicly send the hungry children of striking workers to host families in other states, garnering good press for the working families.\n\nBig Bill Haywood was arrested for esponsiage, along with 164 other members of the IWW, in 1917. He was convicted, and, while temporarily released from prison due to an appeal, fled to the Soviet Union, where he served as labor advisor to Vladimir Lenin, and where would spend the rest of life.`,
+        link: 'https://en.wikipedia.org/wiki/Bill_Haywood',
+        infoSrc: 'https://en.wikipedia.org/wiki/Bill_Haywood'
       },
     ],
     'Assassinations': [
@@ -2964,13 +2964,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 12th, 1961',
+        title: 'David Graeber (1961 -)',
+        imgSrc: require('./assets/eventPhotos/davidGraeber.jpg'),
+        description: `David Rolfe Graeber is an American anthropologist, anarchist activist and author known for his books "Debt: The First 5000 Years", "The Utopia of Rules", and "Bullshit Jobs: A Theory". He is currently a professor of anthropology at the London School of Economics.\n\nGraeber's parents, who were in their forties when Graeber was born, were self-taught working-class intellectuals in New York. His father was a member of the Youth Communist Leauge, and fought in the Spanish Civil War. Graeber grew up in a New York apartment cooperative described by Business Week magazine as "suffused with radical politics.", and Graeber has stated that he has been an anarchist since the age of 16.\n\nAside from his scholarship, Graeber has been active in the Global Justice movement, and played an early and influential role in the Occupy Wall Street protests.`,
+        link: 'https://en.wikipedia.org/wiki/David_Graeber',
+        infoSrc: 'https://www.theguardian.com/books/2015/mar/21/books-interview-david-graeber-the-utopia-of-rules'
       },
     ],
     'Assassinations': [
@@ -3780,13 +3780,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 24th, 1875',
+        title: 'William Bross Lloyd (1875 - 1946)',
+        imgSrc: require('./assets/eventPhotos/williamLloyd.jpg'),
+        description: `William Bross Lloyd (February 24, 1875 – June 30, 1946) was an American attorney and political activist. The oldest son of the muckraking journalist Henry Demarest Lloyd and Jessie Bross, daughter of Chicago Tribune founder William Bross, William Bross Lloyd is best remembered as a founding member and financial angel of the fledgling Communist Labor Party of America, forerunner of the Communist Party USA.\n\nLloyd would be one of 20 Communists tried for conspiring to overthrow the US government in a major Chicago trial, which was prosecuted by future Chicago judge Frank D. Comerford and defended by celebrated attorney Clarence Darrow. The trial, which ran from May 10 to August 2, 1920, resulted in convictions for all of the defendants. Lloyd received a sentence of from 1 to 5 years in prison but remained free on bail pending resolution of the appeal process. Though the appeals process was exhausted in 1922, Lloyd was no longer seen as a threatening advocate of communism by that date and his sentence was accordingly commuted.`,
+        link: 'https://en.wikipedia.org/wiki/William_Bross_Lloyd',
+        infoSrc: 'https://en.wikipedia.org/wiki/William_Bross_Lloyd'
       },
     ],
     'Assassinations': [
@@ -5752,13 +5752,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'March 21st, 1961',
+        title: 'Yanis Varoufakis (1961 -)',
+        imgSrc: require('./assets/eventPhotos/yanisVaroufakis.jpg'),
+        description: `Ioannis "Yanis" Varoufakis is a Greek economist, academic, philosopher and politician. He has been Secretary-General of DiEM25, a left-wing political party, since he founded it in 2018. A former member of Syriza, he served as Minister of Finance from January to July 2015 under Prime Minister Alexis Tsipras. Varoufakis was a member of the Hellenic Parliament for Athens B from January to September 2015; he regained a parliamentary seat in July 2019.\n\nIn January 2015, Varoufakis was appointed Greek Minister of Finance. He led negotiations with Greece's creditors during the government-debt crisis. However, he failed to reach an agreement with the European troika (European Commission, European Central Bank, and International Monetary Fund) leading to the 2015 bailout referendum. The referendum rejected the troika bailout terms, and the day afterwards Varoufakis resigned as Minister of Finance, being replaced by Euclid Tsakalotos. On 24 August, Varoufakis voted against the third bailout package; in the ensuing September snap election, he did not stand for reelection. Varoufakis has since appeared in numerous debates, lectures and interviews, describing in detail what he sees as corruption and anti-democratic governance within the European Union.\n\n In February 2016, he launched the Democracy in Europe Movement 2025 (DiEM25) In the 2019 legislative election, MeRA25 was the sixth most voted-for party, amassing nine parliamentary seats, with Varoufakis himself returning to the Hellenic Parliament. In December 2018, Varoufakis launched the Progressive International with United States Senator Bernie Sanders.`,
+        link: 'https://www.theguardian.com/books/2017/may/03/yanis-varoufakis-greece-greatest-political-memoir',
+        infoSrc: 'https://en.wikipedia.org/wiki/Yanis_Varoufakis'
       },
     ],
     'Assassinations': [
@@ -6296,13 +6296,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 1st, 1942',
+        title: 'Richard Wolff (1942 -)',
+        imgSrc: require('./assets/eventPhotos/richardWolff.jpg'),
+        description: `Richard David Wolff (born April 1, 1942) is an American economist, known for his work on economic methodology and class analysis. He is Professor Emeritus of Economics at the University of Massachusetts Amherst, and currently a Visiting Professor in the Graduate Program in International Affairs of the New School University in New York.\n\nIn 1988, Wolff co-founded "Rethinking Marxism", a still running academic journal dedicated to Marxist analyses of economics, culture, and society. Today, Wolff hosts the weekly 30-minute-long program Economic Update, which is produced by the non-profit Democracy at Work, which he co-founded. Wolff is featured regularly in television, print, and internet media; the New York Times Magazine has named him "America's most prominent Marxist economist".`,
+        link: 'https://www.democracyatwork.info/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Richard_D._Wolff'
       },
     ],
     'Assassinations': [
@@ -8880,13 +8880,22 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 9, 1877',
+        title: 'Peter Maurin (1877-1949)',
+        imgSrc: require('./assets/eventPhotos/peterMaurin.jpg'),
+        description: `Peter Maurin was a French Catholic social activist, theologian, and De La Salle Brother who founded the anarchist Catholic Worker Movement in 1933 with Dorothy Day. Aside from his writings in the publication "Catholic Worker", Maurin expressed his philosophy through short pieces of verse that became known as Easy Essays.`,
+        link: 'https://en.wikipedia.org/wiki/Peter_Maurin',
+        infoSrc: 'https://en.wikipedia.org/wiki/Peter_Maurin'
+      },
+      {
+        category: 'Birthdays',
+        date: 'May 9th, 1800',
+        title: 'John Brown (1800 - 1859)',
+        imgSrc: require('./assets/eventPhotos/johnBrown.jpg'),
+        description: `John Brown was an American abolitionist. Brown advocated the use of armed insurrection to overthrow the institution of slavery in the United States. He first gained national attention when he led small groups of volunteers during the Bleeding Kansas crisis of 1856. He was dissatisfied with the pacifism of the organized abolitionist movement: "These men are all talk. What we need is action—action!" In May 1856, Brown and his supporters killed five supporters of slavery in the Pottawatomie massacre, a response to the sacking of Lawrence, Kansas by pro-slavery forces. Brown then commanded anti-slavery forces at the Battle of Black Jack (June 2) and the Battle of Osawatomie (August 30, 1856).\n\nIn October 1859, Brown led a raid on the federal armory at Harpers Ferry, Virginia (today West Virginia), intending to start a slave liberation movement that would spread south through the mountainous regions of Virginia and North Carolina. He seized the armory, but seven people were killed, and ten or more were injured. Brown intended to arm slaves with weapons from the armory, but only a small number of local slaves joined his revolt. Within 36 hours, those of Brown's men who had not fled were killed or captured by local farmers, militiamen, and U.S. Marines, the latter led by Robert E. Lee. Brown was hastily tried for treason against the Commonwealth of Virginia, the murder of five men, and inciting a slave insurrection; he was found guilty on all counts and was hanged. He was the first person executed for treason in the history of the United States.`,
+        link: 'https://en.wikipedia.org/wiki/John_Brown_(abolitionist)',
+        infoSrc: 'https://en.wikipedia.org/wiki/John_Brown_(abolitionist)'
       },
     ],
     'Assassinations': [
@@ -13649,13 +13658,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'July 18th, 1918',
+        title: 'Nelson Mandela (1918 - 2013)',
+        imgSrc: require('./assets/eventPhotos/nelsonMandela.jpg'),
+        description: `Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, political leader and philanthropist who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997.\n\nAs a lawyer in Johannesburg, he became involved in anti-colonial and African nationalist politics, joining the ANC in 1943 and co-founding its Youth League in 1944. After the National Party's white-only government established apartheid, a system of racial segregation that privileged whites, he and the ANC committed themselves to its overthrow. He was repeatedly arrested for seditious activities and was unsuccessfully prosecuted in the 1956 Treason Trial. Influenced by Marxism, he secretly joined the banned South African Communist Party (SACP).\n\nAlthough initially committed to non-violent protest, in association with the SACP he co-founded the militant Umkhonto we Sizwe in 1961 and led a sabotage campaign against the government. He was arrested and imprisoned in 1962, and subsequently sentenced to life imprisonment for conspiring to overthrow the state following the Rivonia Trial. Mandela served 27 years in prison. Amid growing domestic and international pressure, and with fears of a racial civil war, President F. W. de Klerk released him in 1990. Mandela and de Klerk led efforts to negotiate an end to apartheid, which resulted in the 1994 multiracial general election in which Mandela led the ANC to victory and became president.\n\nLeading a broad coalition government which promulgated a new constitution, Mandela emphasised reconciliation between the country's racial groups and created the Truth and Reconciliation Commission to investigate past human rights abuses. Economically, Mandela's administration retained its predecessor's liberal framework despite his own socialist beliefs, also introducing measures to encourage land reform, combat poverty and expand healthcare services.`,
+        link: 'https://en.wikipedia.org/wiki/Nelson_Mandela',
+        infoSrc: 'https://en.wikipedia.org/wiki/Nelson_Mandela'
       },
     ],
     'Assassinations': [
@@ -18010,13 +18019,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 20th, 1878',
+        title: 'Upton Sinclair (1878 - 1968)',
+        imgSrc: require('./assets/eventPhotos/uptonSinclair.jpg'),
+        description: `Upton Beall Sinclair Jr. was an American writer who wrote nearly 100 books and other works in several genres. Sinclair's work was well known and popular in the first half of the 20th century, and he won the Pulitzer Prize for Fiction in 1943. Sinclair was an outspoken socialist, and his books are particularly notable for depicting the scandalous working conditions of the laboring class, particularly in the book "The Jungle".\n\nSinclair was inspired to write "The Jungle" after spending six months researching the Chicago meatpacking industry. He intended to "set forth the breaking of human hearts by a system which exploits the labor of men and women for profit". The novel featured Jurgis Rudkus, a Lithuanian immigrant who works in a meat factory in Chicago, his teenaged wife Ona Lukoszaite, and their extended family. Sinclair portrays their mistreatment by Rudkus' employers and the wealthy. His descriptions of the unsanitary and inhumane conditions that workers suffered served to shock and galvanize readers. Jack London called Sinclair's book "the Uncle Tom's Cabin of wage slavery", and it caused the domestic and foreign purchases of American meat fell by half, leading to federal regulation of the meat industry.\n\nIt is worth noting that Sinclair was a racist. With the income from "The Jungle", he founded the utopian community Helicon Home Colony in Englewood, New Jersey, which excluded black and Jewish people. The colony burned down under suspicious circumstances within a year.\n\nIn the 1920s, Sinclair moved to Monrovia, California (near Los Angeles), where he founded the state's chapter of the American Civil Liberties Union. In 1934, Sinclair ran in the California gubernatorial election as a Democrat. Sinclair's platform, known as the End Poverty in California movement (EPIC), galvanized the support of the Democratic Party. Sinclair gained its nomination, but was defeated by the incumbent Frank Merriam. For his campaign, he was expelled by the Socialist Party, which forbid members from being active within other parties.`,
+        link: 'https://en.wikipedia.org/wiki/Upton_Sinclair',
+        infoSrc: 'https://en.wikipedia.org/wiki/Upton_Sinclair'
       },
     ],
     'Assassinations': [
@@ -20193,6 +20202,15 @@ export const eventLibrary = {
         description: `Robert George Seale is an American political activist. He and fellow activist Huey P. Newton co-founded the Black Panther Party.\n\nBobby Seale and Huey P. Newton were heavily inspired by the teachings of activist Malcolm X, who was assassinated in 1965. The two joined together in October 1966 to create the Black Panther Party for Self-Defense, which adopted the late activist's slogan "freedom by any means necessary" as their own.\n\nSeale and Newton founded the group to organize the black community and express their desires and needs in order to resist the racism and classism perpetuated by the system. Seale described the Panthers as "an organization that represents black people and many white radicals relate to this and understand that the Black Panther Party is a righteous revolutionary front against this racist decadent, capitalistic system."`,
         link: 'https://en.wikipedia.org/wiki/Bobby_Seale',
         infoSrc: 'https://en.wikipedia.org/wiki/Bobby_Seale'
+      },
+      {
+        category: 'Birthdays',
+        date: 'October 22nd, 1887',
+        title: 'Jack Reed (1887 - 1920)',
+        imgSrc: require('./assets/eventPhotos/jackReed.jpg'),
+        description: `John "Jack" Silas Reed (October 22, 1887 – October 17, 1920) was an American journalist, poet, and communist activist. Reed first gained prominence as a war correspondent during the first World War, and later became best known for his coverage of the October Revolution in Petrograd, Russia, which he wrote about in his book Ten Days That Shook the World.\n\nAs the U.S. entered World War I, Reed was marginalized for his anti-war sentiments and set sail with his partner Bryant from New York to Europe. The pair were going as working journalists to report on the sensational developments taking place in the fledgling republic of Russia. They were in Petrograd for the October Revolution. Reed was an enthusiastic supporter of the new revolutionary socialist government, and met both Leon Trotsky and Lenin while there.\n\nHe made a trip back to America, where he vehemently defended the new Soviet Republic and was arrested three times, the last for violating the Sedition Act. After being acquitted, Reed returned to the USSR and met again with Lenin and Trotsky. He died from spotted typhus while trying to return to the United States in 1920.`,
+        link: 'https://en.wikipedia.org/wiki/John_Reed_(journalist)',
+        infoSrc: 'https://en.wikipedia.org/wiki/John_Reed_(journalist)'
       },
     ],
     'Assassinations': [
