@@ -1264,13 +1264,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 16th, 1900',
+        title: 'Juan Sanchez (1900 - 1972)',
+        imgSrc: require('./assets/eventPhotos/juanSanchez.jpg'),
+        description: `Juan López Sanchez was a Spanish construction worker, anarchist and member of the Confederación Nacional del Trabajo (CNT), and one of the founders of the Federación Sindicalista Libertaria. During the Spanish Civil War (1936–39) he was Minister of Commerce under Francisco Largo Caballero.\n\nAfter the fascists won the civil war, Sanchez spent several years in exile before returning to Spain where he lived without persecution and participated in the "vertical" trade union movement authorized by the dictatorship of General Francisco Franco.`,
+        link: 'https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_S%C3%A1nchez',
+        infoSrc: 'https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_S%C3%A1nchez'
       },
     ],
     'Assassinations': [
@@ -1400,13 +1400,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 20th, 1901',
+        title: 'Juan García Oliver',
+        imgSrc: require('./assets/eventPhotos/juanGarcia.jpg'),
+        description: `Juan García Oliver (1901–1980) was a Spanish anarcho-syndicalist revolutionary, affiliated with the Confederación Nacional del Trabajo (CNT) and Minister of Justice of the Second Spanish Republic.\n\nHe was a leading figure of anarchism in Spain and fought on the side of the republic against fascists in the Spanish Civil War.`,
+        link: 'https://en.wikipedia.org/wiki/Juan_Garc%C3%ADa_Oliver',
+        infoSrc: 'https://en.wikipedia.org/wiki/Juan_Garc%C3%ADa_Oliver'
       },
     ],
     'Assassinations': [
@@ -3372,13 +3372,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 18th, 1887',
+        title: 'Juan Peiró',
+        imgSrc: require('./assets/eventPhotos/juanPeiro.jpg'),
+        description: `Joan Peiró i Belis (sometimes Juan Peiró) was a Catalan anarchist activist, writer, editor of the anarchist newspaper Solidaridad Obrera, two-time Secretary General of the Confederación Nacional del Trabajo (CNT) and Minister of Industry of the Second Spanish Republic during the Spanish Civil War.\n\nFollowing the fall of the republic in 1939, Peiró fled to France, where he was turned over to Nazi Germany by the Vichy Regime in France. He was executed after the Gestapo turned him over to the Franco government in Spain.`,
+        link: 'https://en.wikipedia.org/wiki/Joan_Peir%C3%B3',
+        infoSrc: 'https://en.wikipedia.org/wiki/Joan_Peir%C3%B3'
       },
     ],
     'Assassinations': [
@@ -14610,13 +14610,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'August 1st, 1837',
+        title: 'Mother Jones (1837 - 1930)',
+        imgSrc: require('./assets/eventPhotos/motherJones.jpg'),
+        description: `Mary G. Harris Jones, known as Mother Jones from 1897 onwards, was an Irish-born American schoolteacher and dressmaker who became a prominent union organizer, community organizer, and activist. She helped coordinate major strikes and co-founded the Industrial Workers of the World.\n\nFighting to abolish child labor was one of her flagship issues. In 1903, Jones organized children who were working in mills and mines to participate in a "Children's Crusade", a march from Kensington, Philadelphia to Oyster Bay, New York, the hometown of President Theodore Roosevelt with banners demanding "We want to go to school and not the mines!"\n\nMother Jones was present during the Paint Creek–Cabin Creek strike of 1912 in West Virginia, speaking and organizing despite a shooting war between United Mine Workers members and the private army of the mine owners. Jones was arrested on 13 February 1913, brought before a military court, and accused of conspiring to commit murder among other charges. She was sentenced to twenty years in the state penitentiary, but released after eighty-five days.`,
+        link: 'https://en.wikipedia.org/wiki/Paint_Creek%E2%80%93Cabin_Creek_strike_of_1912',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mother_Jones'
       },
     ],
     'Assassinations': [
@@ -15018,13 +15018,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'August 7th, 1890',
+        title: 'Elizabeth Gurley Flynn (1890 - 1964)',
+        imgSrc: require('./assets/eventPhotos/elizabethFlynn.jpg'),
+        description: `Elizabeth Gurley Flynn was a labor leader, activist, and feminist who played a leading role in the Industrial Workers of the World (IWW). Flynn was a vigorous proponent of women's rights, birth control, and women's suffrage. She joined the Communist Party USA in 1936 and late in life, in 1961, became its chairwoman. She died during a visit to the Soviet Union, where she was accorded a state funeral with processions in the Red Square attended by over 25,000 people.\n\nFlynn was also a founding member of the American Civil Liberties Union, but was expelled in 1940 during purge of all communists from ACLU leadership. This decision was reversed twelve years after her death, in 1976.\n\nIn 1948, she was arrested, along with eleven other prominent members of the Communist Party, for violating the Smith Act. She served two years in prison, and continued her political activism after her release.`,
+        link: 'https://www.nytimes.com/1976/06/22/archives/aclu-reverses-ouster-of-elizabeth-gurley-flynn.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Elizabeth_Gurley_Flynn'
       },
     ],
     'Assassinations': [
@@ -15365,6 +15365,15 @@ export const eventLibrary = {
         description: `Mario Roberto Santucho was an Argentine revolutionary and guerrilla combatant, founder of the Partido Revolucionario de los Trabajadores (Workers' Revolutionary Party, PRT) and leader of Argentina's largest Marxist guerrilla group, the Ejército Revolucionario del Pueblo (People's Revolutionary Army, ERP).\n\nSantucho and a significant part of the PRT leadership were killed on July 19, 1976, as part of a covert ambush carried out by a paramilitary task force connected to the Argentine Armed Forces. His and his wife's remains were never found.\n\nThis attack was part of the "Dirty War" perpetrated by the US-backed Argentinian dictatorship against left-wing dissidents (including students, guerrilla fighters, labor activists, and journalists). It is estimated that around 30,000 people were murdered due to this persecution.`,
         link: 'https://en.wikipedia.org/wiki/Dirty_War',
         infoSrc: 'https://en.wikipedia.org/wiki/Mario_Roberto_Santucho'
+      },
+      {
+        category: 'Birthdays',
+        date: 'August 12th, 1861',
+        title: 'Luigi Galleani (1861 - 1931)',
+        imgSrc: require('./assets/eventPhotos/luigiGalleani.jpg'),
+        description: `Luigi Galleani was an Italian anarchist active in the United States from 1901 to 1919. He is best known for his enthusiastic advocacy of "propaganda of the deed", i.e. the use of violence to eliminate those he viewed as tyrants and oppressors and to act as a catalyst to the overthrow of existing government institutions. From 1914 to 1932, Galleani's followers in the United States (known as i Galleanisti) carried out a series of bombings and assassination attempts against institutions and persons they viewed as class enemies. After Galleani was deported from the United States to Italy in June 1919, his colleagues are alleged to have carried out the Wall Street bombing of 1920, which resulted in the deaths of 38 people.`,
+        link: 'https://en.wikipedia.org/wiki/Luigi_Galleani',
+        infoSrc: 'https://en.wikipedia.org/wiki/Luigi_Galleani'
       },
     ],
     'Assassinations': [
