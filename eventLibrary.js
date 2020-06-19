@@ -252,13 +252,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 3rd, 1793',
+        title: 'Lucretia Mott (1793 - 1880)',
+        imgSrc: require('./assets/eventPhotos/lucretiaMott.jpg'),
+        description: `Lucretia Mott was a U.S. Quaker, abolitionist, women's rights activist, pacifist, and social reformer. She had formed the idea of reforming the position of women in society when she was amongst the women excluded from the World Anti-Slavery Convention in 1840. In 1848 she was invited by Jane Hunt to a meeting that led to the first meeting about women's rights. Mott helped write the Declaration of Sentiments during the 1848 Seneca Falls Convention.\n\nWhen slavery was outlawed in 1865, she advocated giving former slaves who had been bound to slavery laws within the boundaries of the United States, whether male or female, the right to vote. She remained a central figure in the abolition and suffrage movement until her death in 1880.`,
+        link: 'https://en.wikipedia.org/wiki/Lucretia_Mott',
+        infoSrc: 'https://en.wikipedia.org/wiki/Lucretia_Mott'
       },
     ],
     'Assassinations': [
@@ -868,9 +868,18 @@ export const eventLibrary = {
         date: 'January 26th, 1944',
         title: 'Angela Davis (1944 - )',
         imgSrc: require('./assets/eventPhotos/angelaDavis.jpg'),
-        description: `Angela Yvonne Davis is an American political activist, philosopher, academic, and author. She is a professor emerita at the University of California, Santa Cruz. Ideologically a Marxist, Davis was a member of the Communist Party USA until 1991, after which she joined the breakaway Committees of Correspondence for Democracy and Socialism. She is the author of over ten books on class, feminism, and the U.S. prison system.\n\nBorn to an African American family in Birmingham, Alabama, Davis studied French at Brandeis University and philosophy at the University of Frankfurt in West Germany. Returning to the U.S., she studied at the University of California, San Diego before moving to East Germany, where she gained a doctorate at the Humboldt University of Berlin. Back in the U.S., she joined the Communist Party and, as a Marxist feminist, involved herself in a range of leftist causes, including the second-wave feminist movement, the Black Panther Party, and the campaign against the Vietnam War. In 1969, she was hired as an acting assistant professor of philosophy at the University of California, Los Angeles (UCLA). UCLA's governing Board of Regents soon fired her due to her Communist Party membership; after a court ruled this illegal, the university fired her again, this time for her use of inflammatory language.\n\nIn 1970, firearms registered to Davis were used in an armed takeover of a courtroom in Marin County, California, in which four people were killed. She was prosecuted for three capital felonies, including conspiracy to murder. After over a year in jail, she was acquitted of the charges in 1972. Much of her work has focused on the abolition of prisons - in 1997 she co-founded Critical Resistance, an organization working to abolish the prison–industrial complex.\n\nPraised by many Marxists and others on the left, Davis has received various awards, including the Lenin Peace Prize. Davis has been inducted into the National Women's Hall of Fame. Davis was Time magazine's "Woman of the Year" for 1971 in its 2020 "100 Women of the Year" edition.`,
+        description: `Angela Yvonne Davis is an American political activist, philosopher, academic, and author. She is a professor emerita at the University of California, Santa Cruz. Ideologically a Marxist, Davis was a member of the Communist Party USA until 1991, after which she joined the breakaway Committees of Correspondence for Democracy and Socialism. She is the author of over ten books on class, feminism, and the U.S. prison system.\n\nBorn to an African American family in Birmingham, Alabama, Davis studied French at Brandeis University and philosophy at the University of Frankfurt in West Germany. Back in the U.S., she joined the Communist Party and, as a Marxist feminist, involved herself in a range of leftist causes, including the second-wave feminist movement, the Black Panther Party, and the campaign against the Vietnam War. In 1969, she was hired as an acting assistant professor of philosophy at the University of California, Los Angeles (UCLA). UCLA's governing Board of Regents soon fired her due to her Communist Party membership; after a court ruled this illegal, the university fired her again, this time for her use of inflammatory language.\n\nPraised by many Marxists and others on the left, Davis has received various awards, including the Lenin Peace Prize. Davis has been inducted into the National Women's Hall of Fame. Davis was Time magazine's "Woman of the Year" for 1971 in its 2020 "100 Women of the Year" edition.`,
         link: 'https://www.theguardian.com/us-news/2020/jun/15/angela-davis-on-george-floyd-as-long-as-the-violence-of-racism-remains-no-one-is-safe',
         infoSrc: 'https://en.wikipedia.org/wiki/Angela_Davis'
+      },
+      {
+        category: 'Birthdays',
+        date: 'January 12th, 1920',
+        title: 'James Farmer (1920 - 1999)',
+        imgSrc: require('./assets/eventPhotos/jamesFarmer.jpg'),
+        description: `James Leonard Farmer Jr. was an American civil rights activist and leader in the Civil Rights Movement "who pushed for nonviolent protest to dismantle segregation, and served alongside Martin Luther King Jr."\n\nHe was the initiator and organizer of the first Freedom Ride in 1961, which eventually led to the desegregation of interstate transportation in the United States.`,
+        link: 'https://en.wikipedia.org/wiki/James_Farmer',
+        infoSrc: 'https://en.wikipedia.org/wiki/James_Farmer'
       },
     ],
     'Assassinations': [
@@ -1078,7 +1087,15 @@ export const eventLibrary = {
       },
     ],
     'Other': [
-
+      {
+        category: '',
+        date: '',
+        title: '',
+        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
+        description: ``,
+        link: '',
+        infoSrc: ''
+      },
     ],
     'Birthdays': [
       {
@@ -1089,6 +1106,15 @@ export const eventLibrary = {
         description: `Pierre-Joseph Proudhon was a French politician, philosopher and the founder of mutualist philosophy. He was the first person to declare himself an anarchist, using that term, and is widely regarded as one of the ideology's most influential theorists. Proudhon is even considered by many to be the "father of anarchism". He became a member of the French Parliament after the Revolution of 1848, whereafter he referred to himself as a federalist.\n\nProudhon favored workers' associations or co-operatives as well as individual worker/peasant possession over private ownership or the nationalization of land and workplaces. He considered social revolution to be achievable in a peaceful manner. In The Confessions of a Revolutionary, Proudhon asserted that "Anarchy is Order Without Power", the phrase which much later inspired in the view of some the anarchist circled-A symbol, today "one of the most common graffiti on the urban landscape".\n\nIt is worth noting that, despite his egalitarian beliefs in other respects, Proudhon was an avowed sexist and anti-semite. One notorious (unpublished) quote reads "The Jew is the enemy of the human race. This race must be sent back to Asia, or exterminated. H. Heine, A. Weil, and others are simply secret spies; Rothschild, Crémieux, Marx, Fould, evil choleric, envious, bitter men who hate us."\n\nProudhon also unsuccessfully tried to create a national bank, to be funded by what became an abortive attempt at an income tax on capitalists and shareholders. Similar in some respects to a credit union, it would have given interest-free loans.`,
         link: 'https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon',
         infoSrc: 'https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon',
+      },
+      {
+        category: 'Birthdays',
+        date: 'January 15th, 1929',
+        title: 'MLK Jr. (1929 - 1968)',
+        imgSrc: require('./assets/eventPhotos/mlkJr.jpg'),
+        description: `Martin Luther King Jr. was an American Christian minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. King is best known for advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi.\n\nOn October 14, 1964, King won the Nobel Peace Prize for combating racial inequality through nonviolent resistance. In 1965, he helped organize the Selma to Montgomery marches. In his final years, he expanded his focus to include opposition towards poverty, capitalism, and the Vietnam War.\n\nFor his activism, he was the target of multiple assassination attempts, arrested 23 times, and surveilled and harassed by the police. In particular, FBI Director J. Edgar Hoover harassed Dr. King by making him a target of COINTELPRO, a secret program where FBI agents spied on, infiltrated, and attempted to discredit "subversive" political movements.\n\nIn 1968, King and the Southern Christian Leadership Conference organized the "Poor People's Campaign" to address issues of economic justice. King traveled the country to assemble "a multiracial army of the poor" that would march on Washington to engage in nonviolent civil disobedience at the Capitol until Congress created an "economic bill of rights" for poor Americans.\n\nBefore the plans for the march could come to fruition, however, King was assassinated in Memphis, Tennessee while supporting striking black sanitation workers. James Earl Rey was convicted for the murder, but speculation of government involvement has persisted for decades after his death.`,
+        link: 'https://en.wikipedia.org/wiki/COINTELPRO',
+        infoSrc: 'https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.'
       },
     ],
   },
@@ -1128,13 +1154,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 16th, 1900',
+        title: 'Juan Sanchez (1900 - 1972)',
+        imgSrc: require('./assets/eventPhotos/juanSanchez.jpg'),
+        description: `Juan López Sanchez was a Spanish construction worker, anarchist and member of the Confederación Nacional del Trabajo (CNT), and one of the founders of the Federación Sindicalista Libertaria. During the Spanish Civil War (1936–39) he was Minister of Commerce under Francisco Largo Caballero.\n\nAfter the fascists won the civil war, Sanchez spent several years in exile before returning to Spain where he lived without persecution and participated in the "vertical" trade union movement authorized by the dictatorship of General Francisco Franco.`,
+        link: 'https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_S%C3%A1nchez',
+        infoSrc: 'https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_S%C3%A1nchez'
       },
     ],
     'Assassinations': [
@@ -1264,13 +1290,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: 'Birthdays',
-        date: 'January 16th, 1900',
-        title: 'Juan Sanchez (1900 - 1972)',
-        imgSrc: require('./assets/eventPhotos/juanSanchez.jpg'),
-        description: `Juan López Sanchez was a Spanish construction worker, anarchist and member of the Confederación Nacional del Trabajo (CNT), and one of the founders of the Federación Sindicalista Libertaria. During the Spanish Civil War (1936–39) he was Minister of Commerce under Francisco Largo Caballero.\n\nAfter the fascists won the civil war, Sanchez spent several years in exile before returning to Spain where he lived without persecution and participated in the "vertical" trade union movement authorized by the dictatorship of General Francisco Franco.`,
-        link: 'https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_S%C3%A1nchez',
-        infoSrc: 'https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_S%C3%A1nchez'
+        category: '',
+        date: '',
+        title: '',
+        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
+        description: ``,
+        link: '',
+        infoSrc: ''
       },
     ],
     'Assassinations': [
@@ -2424,9 +2450,18 @@ export const eventLibrary = {
         date: 'February 4th, 1869',
         title: 'Big Bill Haywood (1869 - 1928)',
         imgSrc: require('./assets/eventPhotos/billHaywood.jpg'),
-        description: `William Dudley "Big Bill" Haywood (February 4, 1869 – May 18, 1928) was a founding member and leader of the Industrial Workers of the World (IWW) and a member of the executive committee of the Socialist Party of America. During the first two decades of the 20th century, Haywood was involved in several important labor battles, including the Colorado Labor Wars, the Lawrence Textile Strike, and other textile strikes in Massachusetts and New Jersey.\n\nHaywood was an advocate of industrial unionism, a labor philosophy that favors organizing all workers in an industry under one union, regardless of the specific trade or skill level. He believed that workers of all ethnicities should be united, and favored direct action over political action.\n\nWhen Haywood spoke at a labor convention in Louisiana, where interracial meetings where illegal, he successfully asked the white workers to not exclude their black counterparts from unionizing with them:\n\n"You work in the same mills together. Sometimes a black man and a white man chop down the same tree together. You are meeting in a convention now to discuss the conditions under which you labor. Why not be sensible about this and call the Negroes into the Convention? If it is against the law, this is one time when the law should be broken."\n\nHaywood was reknowned for leading strikes in times of crisis. When martial law was declared during the Lawrence Textile Strike, Haywood traveled to the strike and implemented many innovative tactics to help the workers involved. One such ploy was to very publicly send the hungry children of striking workers to host families in other states, garnering good press for the working families.\n\nBig Bill Haywood was arrested for esponsiage, along with 164 other members of the IWW, in 1917. He was convicted, and, while temporarily released from prison due to an appeal, fled to the Soviet Union, where he served as labor advisor to Vladimir Lenin, and where would spend the rest of life.`,
+        description: `William Dudley "Big Bill" Haywood (February 4, 1869 – May 18, 1928) was a founding member and leader of the Industrial Workers of the World (IWW) and a member of the executive committee of the Socialist Party of America. During the first two decades of the 20th century, Haywood was involved in several important labor battles, including the Colorado Labor Wars, the Lawrence Textile Strike, and other textile strikes in Massachusetts and New Jersey.\n\nHaywood was an advocate of industrial unionism, a labor philosophy that favors organizing all workers in an industry under one union, regardless of the specific trade or skill level. He believed that workers of all ethnicities should be united, and favored direct action over political action.\n\nHaywood was renowned for leading strikes in times of crisis. When martial law was declared during the Lawrence Textile Strike, Haywood traveled to the strike and implemented many innovative tactics to help the workers involved. One such ploy was to very publicly send the hungry children of striking workers to host families in other states, garnering good press for the working families.\n\nIn 1917, Big Bill Haywood was arrested for esponsiage, along with 164 other members of the IWW. He was convicted, and, while temporarily released from prison due to an appeal, fled to the Soviet Union, where he served as labor advisor to Vladimir Lenin, and where would spend the rest of life.`,
         link: 'https://en.wikipedia.org/wiki/Bill_Haywood',
         infoSrc: 'https://en.wikipedia.org/wiki/Bill_Haywood'
+      },
+      {
+        category: 'Birthdays',
+        date: 'February 4th, 1913',
+        title: 'Rosa Parks (1913 - 2005)',
+        imgSrc: require('./assets/eventPhotos/rosaParks.jpg'),
+        description: `Rosa Louise McCauley Parks was an American activist in the civil rights movement best known for her pivotal role in the Montgomery bus boycott. The United States Congress has called her "the first lady of civil rights" and "the mother of the freedom movement".\n\nParks was not the first person to resist bus segregation, but the National Association for the Advancement of Colored People (NAACP) believed that she was the best candidate for seeing through a court challenge after her arrest for civil disobedience in violating Alabama segregation laws.\n\nParks' prominence in the community and her willingness to become a controversial figure inspired the black community to boycott the Montgomery buses for over a year, the first major direct action campaign of the post-war civil rights movement.\n\nParks' act of defiance and the Montgomery bus boycott became important symbols of the movement. She became an international icon of resistance to racial segregation.`,
+        link: 'http://teacher.scholastic.com/rosa/interview.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Rosa_Parks'
       },
     ],
     'Assassinations': [
@@ -2968,7 +3003,7 @@ export const eventLibrary = {
         date: 'February 12th, 1961',
         title: 'David Graeber (1961 - )',
         imgSrc: require('./assets/eventPhotos/davidGraeber.jpg'),
-        description: `David Rolfe Graeber is an American anthropologist, anarchist activist and author known for his books "Debt: The First 5000 Years", "The Utopia of Rules", and "Bullshit Jobs: A Theory". He is currently a professor of anthropology at the London School of Economics.\n\nGraeber's parents, who were in their forties when Graeber was born, were self-taught working-class intellectuals in New York. His father was a member of the Youth Communist Leauge, and fought in the Spanish Civil War. Graeber grew up in a New York apartment cooperative described by Business Week magazine as "suffused with radical politics.", and Graeber has stated that he has been an anarchist since the age of 16.\n\nAside from his scholarship, Graeber has been active in the Global Justice movement, and played an early and influential role in the Occupy Wall Street protests.`,
+        description: `David Rolfe Graeber is an American anthropologist, anarchist activist and author known for his books "Debt: The First 5000 Years", "The Utopia of Rules", and "Bullshit Jobs: A Theory". He is currently a professor of anthropology at the London School of Economics.\n\nGraeber's parents were self-taught working-class intellectuals in New York. His father was a member of the Youth Communist Leaugue, and fought in the Spanish Civil War. Graeber has stated that he has been an anarchist since the age of 16.\n\nAside from his scholarship, Graeber has been active in the Global Justice movement, and played an early and influential role in the Occupy Wall Street protests.`,
         link: 'https://en.wikipedia.org/wiki/David_Graeber',
         infoSrc: 'https://www.theguardian.com/books/2015/mar/21/books-interview-david-graeber-the-utopia-of-rules'
       },
@@ -3784,7 +3819,7 @@ export const eventLibrary = {
         date: 'February 24th, 1875',
         title: 'William Bross Lloyd (1875 - 1946)',
         imgSrc: require('./assets/eventPhotos/williamLloyd.jpg'),
-        description: `William Bross Lloyd (February 24, 1875 – June 30, 1946) was an American attorney and political activist. The oldest son of the muckraking journalist Henry Demarest Lloyd and Jessie Bross, daughter of Chicago Tribune founder William Bross, William Bross Lloyd is best remembered as a founding member and financial angel of the fledgling Communist Labor Party of America, forerunner of the Communist Party USA.\n\nLloyd would be one of 20 Communists tried for conspiring to overthrow the US government in a major Chicago trial, which was prosecuted by future Chicago judge Frank D. Comerford and defended by celebrated attorney Clarence Darrow. The trial, which ran from May 10 to August 2, 1920, resulted in convictions for all of the defendants. Lloyd received a sentence of from 1 to 5 years in prison but remained free on bail pending resolution of the appeal process. Though the appeals process was exhausted in 1922, Lloyd was no longer seen as a threatening advocate of communism by that date and his sentence was accordingly commuted.`,
+        description: `William Bross Lloyd (February 24, 1875 – June 30, 1946) was an American attorney and political activist. The oldest son of the muckraking journalist Henry Demarest Lloyd and Jessie Bross, daughter of Chicago Tribune founder William Bross, William Bross Lloyd is best remembered as a founding member and financial angel of the fledgling Communist Labor Party of America, forerunner of the Communist Party USA.\n\nLloyd would be one of 20 Communists tried for conspiring to overthrow the US government in a major Chicago trial, which was prosecuted by future Chicago judge Frank D. Comerford and defended by celebrated attorney Clarence Darrow. The trial, which ran from May 10 to August 2, 1920, resulted in convictions for all of the defendants.\n\nLloyd received a sentence of from 1 to 5 years in prison but remained free on bail pending resolution of the appeal process. Though the appeals process was exhausted in 1922, Lloyd was no longer seen as a threatening advocate of communism by that date and his sentence was accordingly commuted.`,
         link: 'https://en.wikipedia.org/wiki/William_Bross_Lloyd',
         infoSrc: 'https://en.wikipedia.org/wiki/William_Bross_Lloyd'
       },
@@ -4464,8 +4499,8 @@ export const eventLibrary = {
         date: 'March 5th, 1871',
         title: 'Rosa Luxemburg (1871 - 1919)',
         imgSrc: require('./assets/eventPhotos/rosaLuxemburg.jpg'),
-        description: `Rosa Luxemburg was a Polish Marxist, philosopher, economist, anti-war activist and revolutionary socialist who became a naturalized German citizen at the age of 28. Successively, she was a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD) and the Communist Party of Germany (KPD).\n\nAfter the SPD supported German involvement in World War I in 1915, Luxemburg and Karl Liebknecht co-founded the anti-war Spartacus League (Spartakusbund) which eventually became the KPD. During the November Revolution, she co-founded the newspaper Die Rote Fahne (The Red Flag), the central organ of the Spartacist movement. Luxemburg considered the Spartacist uprising of January 1919 a blunder, but supported the attempted overthrow of the government and rejected any attempt at a negotiated solution.\n\nFriedrich Ebert's majority SPD government crushed the revolt and the Spartakusbund by sending in the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Freikorps troops captured and summarily executed Luxemburg and Liebknecht during the rebellion. Luxemburg's body was thrown in the Landwehr Canal in Berlin.\n\nDue to her pointed criticism of both the Leninist and the more moderate social democratic schools of socialism, Luxemburg has had a somewhat ambivalent reception among scholars and theorists of the political left. Nonetheless, Luxemburg and Liebknecht were extensively idolized as communist martyrs by the East German communist regime. The German Federal Office for the Protection of the Constitution asserts that idolization of Luxemburg and Liebknecht is an important tradition of German far-left thought.`,
-        link: 'https://en.wikipedia.org/wiki/Rosa_Luxemburg',
+        description: `Rosa Luxemburg was a Polish Marxist, philosopher, economist, anti-war activist and revolutionary socialist who became a naturalized German citizen at the age of 28. Successively, she was a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD) and the Communist Party of Germany (KPD).\n\nIn 1918-19, Luxemberg publicly supported a violent rebellion against the German state. She was captured and summarily executed by the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Her body was thrown in the Landwehr Canal in Berlin.\n\nDue to her pointed criticism of both the Leninist and the more moderate social democratic schools of socialism, Luxemburg's legacy is a radical, non-Leninist school of revolutionary socialist thought.`,
+        link: 'https://www.versobooks.com/blogs/4203-the-many-interpretations-of-rosa-luxemburg-s-legacy',
         infoSrc: 'https://en.wikipedia.org/wiki/Rosa_Luxemburg'
       },
     ],
@@ -5276,13 +5311,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'March 17th, 1912',
+        title: 'Bayard Rustin (1912 - 1987)',
+        imgSrc: require('./assets/eventPhotos/bayardRustin.jpg'),
+        description: `Bayard Rustin was an American leader in social movements for civil rights, socialism, nonviolence, and gay rights.\n\nRustin worked with A. Philip Randolph on the March on Washington Movement in 1941 to press for an end to racial discrimination in employment. Rustin later organized Freedom Rides and helped to organize the Southern Christian Leadership Conference to strengthen Martin Luther King Jr.'s leadership, teaching King about nonviolence and later serving as an organizer for the March on Washington for Jobs and Freedom.\n\nDuring the 1970s and 1980s, Rustin served on many humanitarian missions, such as aiding refugees from Communist Vietnam and Cambodia. At the time of his death in 1987, he was on a humanitarian mission in Haiti.`,
+        link: 'https://en.wikipedia.org/wiki/Bayard_Rustin',
+        infoSrc: 'https://www.nps.gov/people/bayard-rustin.htm'
       },
     ],
     'Assassinations': [
@@ -6232,7 +6267,7 @@ export const eventLibrary = {
         date: 'March 31st, 1927',
         title: 'César Chávez (1927 - 1993)',
         imgSrc: require('./assets/eventPhotos/cesarChavez.jpg'),
-        description: `César Estrada Chávez was an American labor leader, community organizer, and Latino American civil rights activist. Along with Dolores Huerta, he co-founded the National Farm Workers Association (NFWA), which later merged to become the United Farm Workers (UFW) union. Ideologically, his world-view combined leftist politics with Roman Catholic social teachings.\n\nIn the early 1970s, Chavez sought to expand the UFW's influence outside California by opening branches in other U.S. states. He also pushed a campaign against illegal immigration into the U.S., which generated violence along the U.S.-Mexico border. Interested in co-operatives as a form of organization, he established a remote commune in the foothills of the Tehachapi Mountains.\n\nHis increased isolation and emphasis on unrelenting campaigning alienated many of the California farmworkers who had previously supported him and by 1973 the UFW had lost most of the contracts and membership it won during the late 1960s. By the late 1970s, his tactics had forced growers to recognize the UFW as the bargaining agent for 50,000 field workers in California and Florida. He also campaigned for the Democratic Party politician Robert F. Kennedy.\n\nA controversial figure, UFW critics raised concerns about Chavez's firm personal control of the union, the purges of those he deemed disloyal, and the personality cult built around him, while farm-owners considered him a communist subversive. For organized labor and leftist groups in the U.S. he became an icon and he posthumously became a "folk saint" among Mexican Americans. His birthday is a federal commemorative holiday in several U.S. states, while many places are named after him, and in 1994, he posthumously received the Presidential Medal of Freedom.`,
+        description: `César Estrada Chávez was an American labor leader, community organizer, and Latino American civil rights activist. Along with Dolores Huerta, he co-founded the National Farm Workers Association (NFWA), which later merged to become the United Farm Workers (UFW) union. Ideologically, his world-view combined leftist politics with Roman Catholic social teachings.\n\nIn the early 1970s, Chavez sought to expand the UFW's influence outside California by opening branches in other U.S. states. He also pushed a campaign against illegal immigration into the U.S., which generated violence along the U.S.-Mexico border. Interested in co-operatives as a form of organization, he established a remote commune in the foothills of the Tehachapi Mountains.\n\nA controversial figure, UFW critics raised concerns about Chavez's firm personal control of the union, the purges of those he deemed disloyal, and the personality cult built around him, while farm-owners considered him a communist subversive. For organized labor and leftist groups in the U.S. he became an icon and he posthumously became a "folk saint" among Mexican Americans.`,
         link: 'https://en.wikipedia.org/wiki/Cesar_Chavez',
         infoSrc: 'https://www.bloomsbury.com/us/the-crusades-of-cesar-chavez-9781608197101/'
       },
@@ -6840,13 +6875,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 9th, 1898',
+        title: 'Paul Robeson (1898 - 1976)',
+        imgSrc: require('./assets/eventPhotos/paulRobeson.jpg'),
+        description: `Paul Leroy Robeson was an American bass baritone concert artist and stage and film actor who became famous both for his cultural accomplishments and for his political activism.\n\nHis political activities began with his involvement with unemployed workers and anti-imperialist students whom he met while studying in London, and continued with support for the Republican cause in the Spanish Civil War and his opposition to fascism.\n\nIn the United States, he also became active in the Civil Rights Movement and other social justice campaigns. His sympathies for the Soviet Union and for communism, and his criticism of the United States government and its foreign policies, caused him to be blacklisted during the McCarthy era.`,
+        link: 'https://en.wikipedia.org/wiki/Paul_Robeson',
+        infoSrc: 'https://en.wikipedia.org/wiki/Paul_Robeson'
       },
     ],
     'Assassinations': [
@@ -7860,13 +7895,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 24th, 1954',
+        title: 'Mumia Abu-Jamal (1954 - )',
+        imgSrc: require('./assets/eventPhotos/mumiaJamal.jpg'),
+        description: `Mumia Abu-Jamal is a political activist and journalist who was convicted of murder and sentenced to death in 1982 for the murder of Philadelphia police officer Daniel Faulkner. The trial has become very controversial - Amnesty International issued a statement in 2000, saying "the proceedings used to convict and sentence Mumia Abu-Jamal to death were in violation of minimum international standards that govern fair trial procedures and the use of the death penalty".\n\nAbu-Jamal became widely known while on death row for his writings and commentary on the criminal justice system in the United States. He is also a journalist with Prison Radio. After numerous appeals, his death penalty sentence was overturned by a Federal court. In 2011, the prosecution agreed to a sentence of life imprisonment without parole. He entered the general prison population early the following year.`,
+        link: 'https://www.democracynow.org/2016/10/7/mumia_abu_jamal_on_mass_incarceration',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mumia_Abu-Jamal'
       },
     ],
     'Assassinations': [
@@ -9573,7 +9608,7 @@ export const eventLibrary = {
         date: 'May 19th, 1890',
         title: 'Hồ Chí Minh (1890 - 1969)',
         imgSrc: require('./assets/eventPhotos/hoChiMinh.jpg'),
-        description: `Hồ Chí Minh, born Nguyễn Sinh Cung and also known as Bác Hồ ("Uncle Ho"), was a North Vietnamese revolutionary and politician. He served as Prime Minister of North Vietnam from 1945 to 1955 and President from 1945 to 1969. Ideologically a Marxist–Leninist, he served as Chairman and First Secretary of the Workers' Party of Vietnam.\n\nBecause he spent 30 years traveling the world in his youth, Hồ could speak fluently as well as read and write professionally in French, English, Russian, Cantonese and Mandarin as well as his mother tongue Vietnamese. In addition, he was reported to speak conversational Esperanto. In the 1920s, he was bureau chief/editor of many newspapers which he established to criticize French Colonial Government of Indochina and serving communism propaganda purposes. Examples are Le Paria (The Pariah), plublished in Paris, and Thanh Nien (Youth).\n\nHồ Chí Minh led the Việt Minh independence movement from 1941 onward, establishing the Communist-ruled Democratic Republic of Vietnam (North Vietnam) in 1945 and defeating the French Union in 1954 at the Battle of Điện Biên Phủ, ending the First Indochina War. He was a key figure in the People's Army of Vietnam and the Việt Cộng during the Vietnam War, which lasted from 1955 to 1975. North Vietnam was victorious and was reunified with the Republic of South Vietnam (South Vietnam) in 1976. Saigon, the former capital of South Vietnam, was renamed Ho Chi Minh City in his honor. Ho officially stepped down from power in 1965 due to health problems and died in 1969.\n\n`,
+        description: `Hồ Chí Minh, born Nguyễn Sinh Cung and also known as Bác Hồ ("Uncle Ho"), was a North Vietnamese revolutionary and politician. He served as Prime Minister of North Vietnam from 1945 to 1955 and President from 1945 to 1969. Ideologically a Marxist–Leninist, he served as Chairman and First Secretary of the Workers' Party of Vietnam.\n\nBecause he spent 30 years traveling the world in his youth, Hồ could speak fluently as well as read and write professionally in French, English, Russian, Cantonese and Mandarin as well as his mother tongue Vietnamese. In addition, he was reported to speak conversational Esperanto. In the 1920s, he was bureau chief/editor of many newspapers which he established to criticize French Colonial Government of Indochina and serving communism propaganda purposes. Examples are Le Paria (The Pariah), plublished in Paris, and Thanh Nien (Youth).\n\nHồ Chí Minh led the Việt Minh independence movement from 1941 onward, establishing the Communist-ruled Democratic Republic of Vietnam (North Vietnam) in 1945 and defeating the French Union in 1954 at the Battle of Điện Biên Phủ, ending the First Indochina War. He was a key figure in the People's Army of Vietnam and the Việt Cộng during the Vietnam War, which lasted from 1955 to 1975. North Vietnam was victorious and was reunified with the Republic of South Vietnam (South Vietnam) in 1976.\n\n`,
         link: 'https://en.wikipedia.org/wiki/Ho_Chi_Minh',
         infoSrc: 'https://en.wikipedia.org/wiki/Ho_Chi_Minh'
       },
@@ -10729,7 +10764,7 @@ export const eventLibrary = {
         date: 'June 5th, 1868',
         title: 'James Connolly (1868 - 1916)',
         imgSrc: require('./assets/eventPhotos/jamesConnolly.jpg'),
-        description: `James Connolly was a Scottish-born Irish republican and socialist leader. He was a member of the Industrial Workers of the World and founder of the Irish Socialist Republican Party. With James Larkin, he was centrally involved in the Dublin lock-out of 1913, as a result of which the two men formed the Irish Citizen Army (ICA) that year. He opposed British rule in Ireland, and was one of the leaders of the Easter Rising of 1916. He was executed by firing squad following the Rising.`,
+        description: `James Connolly was a Scottish-born Irish republican and socialist leader. He was a member of the Industrial Workers of the World and founder of the Irish Socialist Republican Party. With James Larkin, he was centrally involved in the Dublin lock-out of 1913, as a result of which the two men formed the Irish Citizen Army (ICA) that year.\n\nHe opposed British rule in Ireland, and was one of the leaders of the Easter Rising of 1916. He was executed by firing squad following the Rising.`,
         link: 'https://en.wikipedia.org/wiki/Easter_Rising',
         infoSrc: 'https://en.wikipedia.org/wiki/James_Connolly'
       },
@@ -11341,7 +11376,7 @@ export const eventLibrary = {
         date: 'June 14th, 1928',
         title: 'Che Guevara (1928 - 1967)',
         imgSrc: require('./assets/eventPhotos/cheGuevara.jpg'),
-        description: `Ernesto "Che" Guevara was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a ubiquitous countercultural symbol of rebellion and global insignia in popular culture.\n\nFollowing the Cuban Revolution, Guevara performed a number of key roles in the new government. These included reviewing the appeals and firing squads for those convicted as war criminals during the revolutionary tribunals, instituting agrarian land reform as minister of industries, helping spearhead a successful nationwide literacy campaign, serving as both national bank president and instructional director for Cuba's armed forces, and traversing the globe as a diplomat on behalf of Cuban socialism. Such positions also allowed him to play a central role in training the militia forces who repelled the Bay of Pigs Invasion, and bringing Soviet nuclear-armed ballistic missiles to Cuba, which preceded the 1962 Cuban Missile Crisis.\n\nAdditionally, Guevara was a prolific writer and diarist, composing a seminal manual on guerrilla warfare, along with a best-selling memoir about his youthful continental motorcycle journey. His experiences and studying of Marxism–Leninism led him to posit that the Third World's underdevelopment and dependence was an intrinsic result of imperialism, neocolonialism and monopoly capitalism, with the only remedy being proletarian internationalism and world revolution. Guevara left Cuba in 1965 to foment revolution abroad, first unsuccessfully in Congo-Kinshasa and later in Bolivia, where he was captured by CIA-assisted Bolivian forces and summarily executed.\n\nGuevara remains both a revered and reviled historical figure, polarized in the collective imagination in a multitude of biographies, memoirs, essays, documentaries, songs, and films. As a result of his perceived martyrdom, poetic invocations for class struggle, and desire to create the consciousness of a "new man" driven by moral rather than material incentives, Guevara has evolved into a quintessential icon of various leftist movements. In contrast, his ideological critics on the right accuse him of authoritarianism and sanctifying violence against his political opponents.`,
+        description: `Ernesto "Che" Guevara was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a ubiquitous countercultural symbol of rebellion and global insignia in popular culture.\n\nFollowing the Cuban Revolution, Guevara performed a number of key roles in the new government. These included reviewing the appeals and firing squads for those convicted as war criminals during the revolutionary tribunals, instituting agrarian land reform as minister of industries, helping spearhead a successful nationwide literacy campaign, serving as both national bank president and instructional director for Cuba's armed forces, and traversing the globe as a diplomat on behalf of Cuban socialism.\n\nHis life experiences and studying of Marxism–Leninism led him to posit that the Third World's underdevelopment and dependence was an intrinsic result of imperialism, neocolonialism and monopoly capitalism, with the only remedy being proletarian internationalism and world revolution. Guevara left Cuba in 1965 to foment revolution abroad, first unsuccessfully in Congo-Kinshasa and later in Bolivia, where he was captured by CIA-assisted Bolivian forces and summarily executed.`,
         link: 'https://en.wikipedia.org/wiki/Che_Guevara',
         infoSrc: 'https://en.wikipedia.org/wiki/Che_Guevara'
       },
@@ -12089,7 +12124,7 @@ export const eventLibrary = {
         date: 'June 25th, 1903',
         title: 'George Orwell (1903 - 1950)',
         imgSrc: require('./assets/eventPhotos/georgeOrwell.jpg'),
-        description: `Eric Arthur Blair, better known by his pen name George Orwell, was an English novelist and essayist, journalist and critic. His work is characterised by lucid prose, biting social criticism, opposition to totalitarianism, and outspoken support of democratic socialism.\n\nAs a writer, Orwell produced literary criticism and poetry, fiction and polemical journalism; and is best known for his allegory for the Soviet Union "Animal Farm" (1945) and the dystopian novel "Nineteen Eighty-Four" (1949). Orwell should also be noted for his first hand-account of the Spanish Civil War, "Homage to Catalonia" (1938).\n\nIn "Homage to Catalonia", Orwell describes fighting for the Republican faction, describing in detail the ways in which the anarchist movement re-structured their economony and military to be more egalitarian. He was eventually shot in the throat, declared unfit for service, and returned to England to recover.\n\nOrwell's experiences in Catalonia made him a vehement anti-Stalinist, but still remained a democratic socialist throughout the rest of his life.`,
+        description: `Eric Arthur Blair, better known by his pen name George Orwell, was an English novelist and essayist, journalist and critic. His work is characterised by lucid prose, biting social criticism, opposition to totalitarianism, and outspoken support of democratic socialism.\n\nAs a writer, Orwell produced literary criticism and poetry, fiction and polemical journalism; and is best known for his allegory for the Soviet Union "Animal Farm" (1945) and the dystopian novel "Nineteen Eighty-Four" (1949). Orwell should also be noted for his first hand-account of the Spanish Civil War, "Homage to Catalonia" (1938).\n\nIn "Homage to Catalonia", Orwell describes fighting for the Republican faction, describing in detail the ways in which the anarchist movement re-structured their economony and military to be more egalitarian. He was eventually shot in the throat, declared unfit for service, and returned to England to recover.\n\nOrwell's experiences in Catalonia made him a vehement anti-Stalinist, but he still remained a democratic socialist throughout the rest of his life.`,
         link: 'https://en.wikipedia.org/wiki/George_Orwell',
         infoSrc: 'https://en.wikipedia.org/wiki/George_Orwell'
       },
@@ -12298,13 +12333,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 28th, 1947',
+        title: 'Mark Clark (1947 - 1969)',
+        imgSrc: require('./assets/eventPhotos/markClark.jpg'),
+        description: `Mark Clark (June 28, 1947 – December 4, 1969) was an American activist and member of the Black Panther Party (BPP). After decided to join the Black Panther Party after reading their literature and the Ten Point Program, later organizing a local Peoria chapter.\n\nAt the age of 22, he, along with Fred Hampton, was assassinated when the Chicago Police Department committed a raid against BPP headquarters. He was shot in the heart and died instantly.`,
+        link: 'https://en.wikipedia.org/wiki/Mark_Clark_(activist)',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mark_Clark_(activist)'
       },
     ],
     'Assassinations': [
@@ -13522,13 +13557,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'July 16th, 1947',
+        title: 'Assata Shakur (1947 - )',
+        imgSrc: require('./assets/eventPhotos/assataShakur.jpg'),
+        description: `Assata Olugbala Shakur (born JoAnne Deborah Byron) is a former member of the Black Liberation Army (BLA), an underground Black Power organization that engaged against guerrilla warfare against the United States government from 1970 to 1981. Shakur was one of the targets of the FBI's COINTELPRO program, directed against black Power movement groups and activists.\n\nAfter being involved in a shootout with New Jersey police officers, Shakur was convicted on multiple counts of assault and murder and imprisoned. In 1979, BLA members freed her in a dramatic, but bloodless, prison escape. Shakur successfully sought political asylum in Cuba, where she still lives today.`,
+        link: 'https://en.wikipedia.org/wiki/Black_Liberation_Army',
+        infoSrc: 'https://en.wikipedia.org/wiki/Assata_Shakur'
       },
     ],
     'Assassinations': [
@@ -14542,13 +14577,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'July 31st, 1921',
+        title: 'Whitney Young Jr. (1921 - 1971)',
+        imgSrc: require('./assets/eventPhotos/whitneyYoung.jpg'),
+        description: `Whitney Moore Young Jr. was an American civil rights leader. He spent most of his career working to end employment discrimination in the United States and turning the National Urban League from a relatively passive civil rights organization into one that aggressively worked for equitable access to socioeconomic opportunity for the historically disenfranchised.`,
+        link: 'https://en.wikipedia.org/wiki/Whitney_Young',
+        infoSrc: 'https://en.wikipedia.org/wiki/Whitney_Young'
       },
     ],
     'Assassinations': [
@@ -15439,7 +15474,7 @@ export const eventLibrary = {
         date: 'August 13th, 1926',
         title: 'Fidel Castro (1926 - 2016)',
         imgSrc: require('./assets/eventPhotos/fidelCastro.png'),
-        description: `Fidel Alejandro Castro Ruz 13 August 1926 – 25 November 2016) was a Cuban revolutionary and politician who served as Prime Minister of Cuba from 1959 to 1976 and President from 1976 to 2008. Ideologically a Marxist-Leninist and Cuban nationalist, he also served as the First Secretary of the Communist Party of Cuba from 1961 until 2011. Under his administration the Republic of Cuba became a one-party communist state; industry and business were nationalized, and state socialist reforms were implemented throughout society.\n\nThe longest-serving non-royal head of state in the 20th and 21st centuries, Castro polarized opinion throughout the world. His supporters view him as a champion of socialism and anti-imperialism whose revolutionary regime advanced economic and social justice while securing Cuba's independence from US hegemony. Critics view him as a tyrannical dictator whose administration oversaw human-rights abuses, the exodus of many Cubans, and the impoverishment of the country's economy. Castro was decorated with various international awards and significantly influenced different individuals and groups across the world.`,
+        description: `Fidel Alejandro Castro Ruz was a Cuban revolutionary and politician who served as Prime Minister of Cuba from 1959 to 1976 and President from 1976 to 2008. Ideologically a Marxist-Leninist and Cuban nationalist, he also served as the First Secretary of the Communist Party of Cuba from 1961 until 2011. Under his administration the Republic of Cuba became a one-party communist state; industry and business were nationalized, and state socialist reforms were implemented throughout society.\n\nThe longest-serving non-royal head of state in the 20th and 21st centuries, Castro polarized opinion throughout the world. His supporters view him as a champion of socialism and anti-imperialism whose revolutionary regime advanced economic and social justice while securing Cuba's independence from US hegemony. Critics view him as a tyrannical dictator whose administration oversaw human-rights abuses, the exodus of many Cubans, and the impoverishment of the country's economy.`,
         link: 'https://en.wikipedia.org/wiki/Fidel_Castro',
         infoSrc: 'https://en.wikipedia.org/wiki/Fidel_Castro'
       },
@@ -17280,13 +17315,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 9th, 1918',
+        title: 'Col. Stone Johnson (1918 - 2012)',
+        imgSrc: require('./assets/eventPhotos/stoneJohnson.jpg'),
+        description: `Colonel Stone Johnson was a black activist in the Civil Rights Movement. A railway worker and union representative by trade, he got involved in the civil rights movement in Birmingham, Alabama in the mid 1950s, working with Fred Shuttlesworth. He started a civil rights organization called the Civil Rights Guards that protected homes and business involved in the movement, usually while armed.\n\nJohnson may be best known for having helped to carry a Ku Klux Klan bomb away from Bethel Baptist Church in Birmingham, AL and serving as a bodyguard to Martin Luther King Jr. He also provided armed protection to nonviolent activists in Anniston, Alabama during the 1961 Freedom Rides, rescuing them from a segregationist mob.\n\nAn oft-repeated remark of Johnson, when asked how he'd managed to protect civil rights leaders given his commitment to nonviolence, Johnson replied, "With my nonviolent .38 special."`,
+        link: 'https://www.al.com/spotnews/2012/01/birmingham_civil_rights_activi.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Colonel_Stone_Johnson'
       },
     ],
     'Assassinations': [
@@ -17552,13 +17587,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 13th, 1947',
+        title: 'Geronimo Pratt (1947 - 2011)',
+        imgSrc: require('./assets/eventPhotos/geronimoPratt.jpg'),
+        description: `Elmer "Geronimo" Pratt, also known as Geronimo Ji-Jaga and Geronimo Ji-Jaga Pratt, was a decorated military veteran and a high-ranking member of the Black Panther Party in the United States in the late 1960s and early 1970s. He moved to Los Angeles, where he studied at UCLA under the GI Bill and joined the Black Panther Party. Pratt was also a target of the FBI's COINTEL program, which sought to subvert black power movements.\n\nIn 1972, Pratt was wrongfully convicted for murder and served 27 years in prison, eight of which were in solitary confinement. Pratt was freed in 1997 when his conviction was vacated due to the prosecution concealing wiretaps that proved he was not at the scene of the murder.`,
+        link: 'https://en.wikipedia.org/wiki/Black_Panther_Party',
+        infoSrc: 'https://en.wikipedia.org/wiki/Geronimo_Pratt'
       },
     ],
     'Assassinations': [
@@ -18109,7 +18144,7 @@ export const eventLibrary = {
         date: 'September 21st, 1909',
         title: 'Kwame Nkrumah (1909 - 1972)',
         imgSrc: require('./assets/eventPhotos/kwameNkrumah.jpg'),
-        description: `Kwame Nkrumah was a Ghanaian politician and revolutionary. He was the first Prime Minister and President of Ghana, having led the Gold Coast to independence from Britain in 1957. An influential advocate of pan-Africanism, Nkrumah was a founding member of the Organization of African Unity and winner of the Lenin Peace Prize from the Soviet Union in 1962. According to Ali Mazrui, "there is little doubt that, quite consciously, Nkrumah saw himself as an African Lenin. He wanted to go down in history as a major political theorist—and he wanted a particular stream of thought to bear his own name. Hence the term 'Nkrumahism'—a name for an ideology that he hoped would assume the same historic and revolutionary status as 'Leninism'."\n\nIn 1960, Ghanaians approved a new constitution and elected Nkrumah President. His administration funded national industrial and energy projects, developed a strong national education system and promoted a pan-Africanist culture. Under Nkrumah, Ghana played a leading role in African international relations during the decolonization period.\n\nIn 1964, a constitutional amendment made Ghana a one-party state, with Nkrumah as president for life of both the nation and its party. Nkrumah was deposed in 1966 by the National Liberation Council which under the supervision of international financial institutions privatized many of the country's state corporations. John Stockwell, a former CIA agent, wrote that the CIA was intimately involved in the coup that ousted him from power.\n\nNkrumah lived the rest of his life in Guinea, of which he was named honorary co-president.`,
+        description: `Kwame Nkrumah was a Ghanaian politician and revolutionary. He was the first Prime Minister and President of Ghana, having led the Gold Coast to independence from Britain in 1957. An influential advocate of pan-Africanism, Nkrumah was a founding member of the Organization of African Unity and winner of the Lenin Peace Prize from the Soviet Union in 1962.\n\nIn 1960, Ghanaians approved a new constitution and elected Nkrumah President. His administration funded national industrial and energy projects, developed a strong national education system and promoted a pan-Africanist culture. Under Nkrumah, Ghana played a leading role in African international relations during the decolonization period.\n\nIn 1964, a constitutional amendment made Ghana a one-party state, with Nkrumah as president for life of both the nation and its party. Nkrumah was deposed in 1966 by the National Liberation Council which under the supervision of international financial institutions privatized many of the country's state corporations. John Stockwell, a former CIA agent, wrote that the CIA was intimately involved in the coup that ousted him from power.\n\nNkrumah lived the rest of his life in Guinea, of which he was named honorary co-president.`,
         link: 'https://www.jstor.org/stable/2934320',
         infoSrc: 'https://en.wikipedia.org/wiki/Kwame_Nkrumah'
       },
@@ -21591,13 +21626,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'November 11th, 1914',
+        title: 'Daisy Bates (1914 - 1999)',
+        imgSrc: require('./assets/eventPhotos/daisyBates.jpg'),
+        description: `Daisy Bates was an American civil rights activist, publisher, journalist, and lecturer who played a leading role in the Little Rock Integration Crisis of 1957. Her mother was raped and murdered by three white men, who went unpunished.\n\nBates was active in the NAACP, becoming head of the Arkansas state chapter in the 1950s. In this role, she played an essential role in helping the Little Rock Nine enroll in Little Rock Central High School, an all-white high school - organizing their protection, advising the families, and using her home as an official checkpoint for the students before and after school.`,
+        link: 'https://en.wikipedia.org/wiki/Daisy_Bates_(activist)',
+        infoSrc: 'https://en.wikipedia.org/wiki/Daisy_Bates_(activist)'
       },
     ],
     'Assassinations': [
@@ -23431,7 +23466,7 @@ export const eventLibrary = {
         date: 'December 8th, 1882',
         title: 'Thomas Mooney (1882 - 1942)',
         imgSrc: require('./assets/eventPhotos/thomasMooney.jpg'),
-        description: `Thomas Joseph Mooney was an American political activist and labor leader, who was convicted with Warren K. Billings of the San Francisco Preparedness Day Bombing of 1916. Convicted on scant evidence, Mooney served 22 years in prison before finally being pardoned in 1939. He was known for being a militant IWW organizer and for publishing the socialist magazine "The Revolt".`,
+        description: `Thomas Joseph Mooney was an American political activist and labor leader, who was convicted with Warren K. Billings of the San Francisco Preparedness Day Bombing of 1916. Convicted on scant evidence, Mooney served 22 years in prison before finally being pardoned in 1939.\n\nHe was known for being a militant IWW organizer and for publishing the socialist magazine "The Revolt".`,
         link: 'https://en.wikipedia.org/wiki/Thomas_Mooney',
         infoSrc: 'https://en.wikipedia.org/wiki/Thomas_Mooney'
       },
@@ -24111,7 +24146,7 @@ export const eventLibrary = {
         date: 'December 18th, 1878',
         title: 'Joseph Stalin (1878 - 1953)',
         imgSrc: require('./assets/eventPhotos/josephStalin.jpg'),
-        description: `Joseph Vissarionovich Stalin was a Georgian revolutionary and Soviet politician who led the Soviet Union from the mid-1920s until 1953 as the general secretary of the Communist Party of the Soviet Union (1922–1952) and premier of the Soviet Union (1941–1953). Despite initially governing the Soviet Union as part of a collective leadership, he eventually consolidated power to become the country's primary leader (detractors would say "dictator") by the 1930s. A communist ideologically committed to the Leninist interpretation of Marxism, Stalin formalised these ideas as Marxism–Leninism, while his own policies are simply known as Stalinism.\n\nBorn to a poor family in Gori in the Russian Empire (now Georgia), Stalin joined the Marxist Russian Social Democratic Labour Party as a youth. He edited the party's newspaper, Pravda, and raised funds for Vladimir Lenin's Bolshevik faction via robberies, kidnappings, and protection rackets. Repeatedly arrested, he underwent several internal exiles.\n\nAfter the Bolsheviks seized power during the 1917 October Revolution and created a one-party state under Lenin's newly renamed Communist Party, Stalin joined its governing Politburo. Serving in the Russian Civil War before overseeing the Soviet Union's establishment in 1922, Stalin assumed leadership over the country following Lenin's 1924 death. Under Stalin, "Socialism in One Country" became a central tenet of the party's dogma.\n\nThrough the Five-Year Plans, the country underwent agricultural collectivisation and rapid industrialisation, creating a centralised command economy. This led to significant disruptions in food production that contributed to the famine of 1932–33. To eradicate accused "enemies of the working class", Stalin instituted the "Great Purge", in which over a million were imprisoned and at least 700,000 executed between 1934 and 1939. By 1937, he had successfully consolidated his power.\n\nWidely considered one of the 20th century's most significant figures, Stalin was the subject of a pervasive personality cult within the international Marxist–Leninist movement, which revered him as a champion of the working class and socialism. Since the dissolution of the Soviet Union in 1991, Stalin has retained popularity in Russia and Georgia as a victorious wartime leader who established the Soviet Union as a major world power. Conversely, his oppressive government has been widely condemned for overseeing mass repression, ethnic cleansing, deportations, hundreds of thousands of executions, and famines that killed millions.`,
+        description: `Joseph Vissarionovich Stalin was a Georgian revolutionary and Soviet politician who led the Soviet Union from the mid-1920s until 1953 as the general secretary of the Communist Party of the Soviet Union (1922–1952) and premier of the Soviet Union (1941–1953). A communist ideologically committed to the Leninist interpretation of Marxism, Stalin formalised these ideas as Marxism–Leninism, while his own policies are simply known as Stalinism.\n\nThrough the Five-Year Plans, the country underwent agricultural collectivisation and rapid industrialisation, creating a centralised command economy. This led to significant disruptions in food production that contributed to the famine of 1932–33. To eradicate accused "enemies of the working class", Stalin instituted the "Great Purge", in which over a million were imprisoned and at least 700,000 executed between 1934 and 1939.\n\nWidely considered one of the 20th century's most significant figures, Stalin is revered by some as a champion of the working class and socialism, while critics have condemned his government for overseeing mass political repression, ethnically based deportations, hundreds of thousands of executions, and famines that killed millions.`,
         link: 'https://en.wikipedia.org/wiki/Joseph_Stalin',
         infoSrc: 'https://en.wikipedia.org/wiki/Joseph_Stalin'
       },
@@ -24315,7 +24350,7 @@ export const eventLibrary = {
         date: 'December 21st, 1949',
         title: 'Thomas Sankara (1949 - 1987)',
         imgSrc: require('./assets/eventPhotos/thomasSankara.jpg'),
-        description: `Thomas Sankara was a Burkinabé revolutionary and President of Burkina Faso from 1983 to 1987. A Marxist–Leninist and pan-Africanist, he was viewed by supporters as a charismatic and iconic figure of revolution and is sometimes referred to as "Africa's Che Guevara".\n\nSankara came into power when allies instigated a coup on his behalf in 1983. He immediately launched programmes for social, ecological and economic change and renamed the country from the French colonial name Upper Volta to Burkina Faso ("Land of Incorruptible People"), with its people being called Burkinabé ("upright people"). His foreign policies were centred on anti-imperialism, with his government eschewing all foreign aid, pushing for odious debt reduction, nationalising all land and mineral wealth and averting the power and influence of the International Monetary Fund and World Bank.\n\nHis domestic policies were focused on preventing famine with agrarian self-sufficiency and land reform, prioritising education with a nationwide literacy campaign and promoting public health by vaccinating 2.5 million children against meningitis, yellow fever and measles. Other components of his national agenda included planting over 10 million trees to combat the growing desertification of the Sahel, redistributing land from feudal landlords to peasants, suspending rural poll taxes and domestic rents and establishing a road and railway construction programme. On the local level, Sankara called on every village to build a medical dispensary and had over 350 communities build schools with their own labour.\n\nMoreover, he outlawed female genital mutilation, forced marriages and polygamy. He appointed women to high governmental positions and encouraged them to work outside the home and stay in school, even if pregnant. Sankara encouraged the prosecution of officials accused of corruption, counter-revolutionaries and "lazy workers" in Popular Revolutionary Tribunals.\n\nSome of his policies alienated and antagonised the Burkinabé middle class, the tribal leaders who were stripped of their long-held traditional privileges of forced labour and tribute payments, and the governments of France and its ally the Ivory Coast. On 15 October 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
+        description: `Thomas Sankara was a Burkinabé revolutionary and President of Burkina Faso from 1983 to 1987. A Marxist–Leninist and pan-Africanist, he was viewed by supporters as a charismatic and iconic figure of revolution and is sometimes referred to as "Africa's Che Guevara".\n\nSankara came into power when allies instigated a coup on his behalf in 1983. He immediately launched programmes for social, ecological and economic change and renamed the country from the French colonial name Upper Volta to Burkina Faso ("Land of Incorruptible People"), with its people being called Burkinabé ("upright people").\n\nHis administration was known for refusing all foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literarcy, women's rights, and public health.\n\nOn 15 October 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
         link: 'https://en.wikipedia.org/wiki/Thomas_Sankara',
         infoSrc: 'https://en.wikipedia.org/wiki/Thomas_Sankara'
       },
@@ -24655,7 +24690,7 @@ export const eventLibrary = {
         date: 'December 26th, 1893',
         title: 'Mao Zedong (1893 - 1976)',
         imgSrc: require('./assets/eventPhotos/maoZedong.jpg'),
-        description: `Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who became the founding father of the People's Republic of China (PRC), which he ruled as the chairman of the Communist Party of China from its establishment in 1949 until his death in 1976. Ideologically a Marxist–Leninist, his theories, military strategies, and political policies are collectively known as Maoism.\n\nA controversial figure, Mao is regarded as one of the most important and influential individuals in modern world history. He is also known as a political intellect, theorist, military strategist, poet, and visionary. During Mao's era, China was involved in the Korean War, the Sino-Soviet split, the Vietnam War, and the rise of Khmer Rouge; in particular, in 1972, Mao welcomed U.S. President Richard Nixon in Beijing, signalling the start of a policy of opening China to the world.\n\nSupporters credit him with driving imperialism out of China, modernising the nation and building it into a world power, promoting the status of women, improving education and health care, as well as increasing life expectancy of the average Chinese citizen. Conversely, his regime has been called autocratic and totalitarian, and condemned for bringing about mass repression and destroying religious and cultural artifacts and sites. It was additionally responsible for vast numbers of deaths with estimates ranging from 30 to 80 million victims through starvation, persecution, prison labour and mass executions.`,
+        description: `Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who became the founding father of the People's Republic of China (PRC), which he ruled as the chairman of the Communist Party of China from its establishment in 1949 until his death in 1976. Ideologically a Marxist–Leninist, his theories, military strategies, and political policies are collectively known as Maoism.\n\nA controversial figure, Mao is regarded as one of the most important and influential individuals in modern world history. He is also known as a political intellect, theorist, military strategist, poet, and visionary. During Mao's era, China was involved in the Korean War, the Sino-Soviet split, the Vietnam War, and the rise of Khmer Rouge; in particular, in 1972, Mao welcomed U.S. President Richard Nixon in Beijing, signalling the start of a policy of opening China to the world.\n\nSupporters credit him with driving imperialism out of China, modernising the nation and building it into a world power, promoting the status of women, improving education and health care, as well as increasing life expectancy of the average Chinese citizen.\n\nConversely, his regime has been called autocratic and totalitarian, and condemned for bringing about mass repression and destroying religious and cultural artifacts and sites. It was additionally responsible for vast numbers of deaths with estimates ranging from 30 to 80 million victims through starvation, persecution, prison labour and mass executions.`,
         link: 'https://en.wikipedia.org/wiki/Mao_Zedong',
         infoSrc: 'https://en.wikipedia.org/wiki/Mao_Zedong'
       },
