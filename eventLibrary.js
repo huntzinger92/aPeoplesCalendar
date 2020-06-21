@@ -399,13 +399,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'January 5th, 1855',
+        title: 'Dundalli (1820 - 1855)',
+        imgSrc: require('./assets/eventPhotos/Individuals/dundalli.jpg'),
+        description: `Dundalli (1820- 1855) was an Aboriginal lawman who figured prominently in accounts of conflict between European settlers and indigenous aboriginal peoples in the area of Brisbane in South East Queensland. Traditionally described as a murderer, savage and terrorist, he is now thought variously to have been a guerilla leader or to have coordinated a decade-long resistance to white colonization the area.\n\nIn the escalating tensions between indigenous people and settlers around Brisbane, Dundalli's role as a tribal elder led to widespread speculation as to his instigation of various violent conflicts. Despite this perception, modern historians note that he had not exacted revenge for his brother's murder at the hands of a settler and rival tribe, and had saved at least one settler's life in a raid, suggesting Dundalli had adopted a more conciliatory policy of moderation rather than "savage" violence.\n\nIn 1854, Dundalli entered Brisbane to be paid for removing a felled tree, and was arrested by the police. Tried and convicted for murder on flimsy evidence, he was hanged a few months later, on January 5th.`,
+        link: 'https://eprints.usq.edu.au/7257/2/Connors_ANZLH_2006_PV.pdf',
+        infoSrc: 'https://en.wikipedia.org/wiki/Dundalli'
       },
     ],
     'Other': [
@@ -739,13 +739,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'January 10th, 1929',
+        title: 'Julio Mella (1903 - 1929)',
+        imgSrc: require('./assets/eventPhotos/Individuals/julioMella.jpg'),
+        description: `Julio Antonio Mella McPartland was an activist and is known as one of the founders of the "internationalized" Cuban Communist Party, in 1925 by leaders of the party in Moscow, Soviet Union. After becoming a political activist, Mella had studied law in the University of Havana but was expelled in 1925.\n\nAt the time of his murder, he was working as a Cuban Marxist revolutionary in Mexico, working with other exiles and supporters to organize the overthrow of General Gerardo Machado in Cuba. Mella was assassinated on January 10, 1929, while walking home at night. It is unknown who killed Mella, as both Machado and the Cuban Communist Party, which was afraid Mella had come under the influence of Trotsky (who lived in Mexico at the time), had cause to assassinate him.`,
+        link: 'https://en.wikipedia.org/wiki/Julio_Antonio_Mella',
+        infoSrc: 'https://en.wikipedia.org/wiki/Julio_Antonio_Mella'
       },
     ],
     'Other': [
@@ -868,7 +868,7 @@ export const eventLibrary = {
         date: 'January 26th, 1944',
         title: 'Angela Davis (1944 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/angelaDavis.jpg'),
-        description: `Angela Yvonne Davis is an American political activist, philosopher, academic, and author. She is a professor emerita at the University of California, Santa Cruz. Ideologically a Marxist, Davis was a member of the Communist Party USA until 1991, after which she joined the breakaway Committees of Correspondence for Democracy and Socialism. She is the author of over ten books on class, feminism, and the U.S. prison system.\n\nBorn to an African American family in Birmingham, Alabama, Davis studied French at Brandeis University and philosophy at the University of Frankfurt in West Germany. Back in the U.S., she joined the Communist Party and, as a Marxist feminist, involved herself in a range of leftist causes, including the second-wave feminist movement, the Black Panther Party, and the campaign against the Vietnam War. In 1969, she was hired as an acting assistant professor of philosophy at the University of California, Los Angeles (UCLA). UCLA's governing Board of Regents soon fired her due to her Communist Party membership; after a court ruled this illegal, the university fired her again, this time for her use of inflammatory language.\n\nPraised by many Marxists and others on the left, Davis has received various awards, including the Lenin Peace Prize. Davis has been inducted into the National Women's Hall of Fame. Davis was Time magazine's "Woman of the Year" for 1971 in its 2020 "100 Women of the Year" edition.`,
+        description: `Angela Yvonne Davis is an American political activist, philosopher, academic, and author. She is a professor emerita at the University of California, Santa Cruz. Ideologically a Marxist, Davis was a member of the Communist Party USA until 1991, after which she joined the breakaway Committees of Correspondence for Democracy and Socialism. She is the author of over ten books on class, feminism, and the U.S. prison system.\n\nBorn to an African American family in Birmingham, Alabama, Davis studied French at Brandeis University and philosophy at the University of Frankfurt in West Germany. Back in the U.S., she joined the Communist Party and, as a Marxist feminist, involved herself in a range of leftist causes, including the second-wave feminist movement, the Black Panther Party, and the campaign against the Vietnam War.\n\nIn 1970, UCLA's governing Board of Regents soon fired her due to her Communist Party membership; after a court ruled this illegal, the university fired her again, this time for her use of inflammatory language.\n\nPraised by many Marxists and others on the left, Davis has received various awards, including the Lenin Peace Prize. Davis has been inducted into the National Women's Hall of Fame. Davis was Time magazine's "Woman of the Year" for 1971 in its 2020 "100 Women of the Year" edition.`,
         link: 'https://www.theguardian.com/us-news/2020/jun/15/angela-davis-on-george-floyd-as-long-as-the-violence-of-racism-remains-no-one-is-safe',
         infoSrc: 'https://en.wikipedia.org/wiki/Angela_Davis'
       },
@@ -1013,8 +1013,8 @@ export const eventLibrary = {
         date: 'January 14th, 1921',
         title: 'Murray Bookchin (1921 - 2006)',
         imgSrc: require('./assets/eventPhotos/Individuals/murrayBookchin.jpg'),
-        description: `Murray Bookchin was an American social theorist, author, orator, historian, and political philosopher. A pioneer in the environmental movement, Bookchin formulated and developed the theory of social ecology and urban planning, within anarchist, libertarian socialist, and environmental philosophy.\n\nHe was the author of two dozen books covering topics in politics, philosophy, history, urban affairs, and social ecology. Among the most important were Our Synthetic Environment (1962), Post-Scarcity Anarchism (1971), The Ecology of Freedom (1982) and Urbanization Without Cities (1987). In the late 1990s he became disenchanted with what he saw as an increasingly apolitical "lifestylism" of the contemporary anarchist movement, stopped referring to himself as an anarchist, and founded his own libertarian socialist ideology called Communalism, which seeks to reconcile Marxist and anarchist thought.\n\nBookchin was a prominent anti-capitalist and advocate of social decentralisation along ecological and democratic lines. His ideas have influenced social movements since the 1960s, including the New Left, the anti-nuclear movement, the anti-globalization movement, Occupy Wall Street, and, most notably, Abdullah Öcalan's concept of democratic confederalism and its application in Rojava.`,
-        link: 'https://en.wikipedia.org/wiki/Murray_Bookchin',
+        description: `Murray Bookchin was an American social theorist, author, orator, historian, and political philosopher. A pioneer in the environmental movement, Bookchin formulated and developed the theory of social ecology and urban planning, within anarchist, libertarian socialist, and environmental philosophy.\n\nHe was the author of two dozen books covering topics in politics, philosophy, history, urban affairs, and social ecology. Among the most important were "Our Synthetic Environment", "Post-Scarcity Anarchism", and "The Ecology of Freedom". In the late 1990s he became disenchanted with what he saw as an increasingly apolitical "lifestylism" of the contemporary anarchist movement, stopped referring to himself as an anarchist, and founded his own libertarian socialist ideology called "Communalism", which seeks to reconcile Marxist and anarchist thought.\n\nBookchin was a prominent anti-capitalist and advocate of social decentralisation along ecological and democratic lines. His ideas have influenced social movements since the 1960s, including the New Left, the anti-nuclear movement, the anti-globalization movement, Occupy Wall Street, and, most notably, Abdullah Öcalan's concept of democratic confederalism and its application in Rojava.`,
+        link: 'https://reason.com/1979/10/01/interview-with-murray-bookchin/',
         infoSrc: 'https://en.wikipedia.org/wiki/Murray_Bookchin'
       },
     ],
@@ -1077,13 +1077,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'January 15th, 1919',
+        title: 'Rosa Luxemburg (1871 - 1919)',
+        imgSrc: require('./assets/eventPhotos/Individuals/rosaLuxemburg.jpg'),
+        description: `Rosa Luxemburg was a Polish Marxist, philosopher, economist, anti-war activist and revolutionary socialist who became a naturalized German citizen at the age of 28. Successively, she was a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD) and the Communist Party of Germany (KPD).\n\nIn 1918-19, Luxemberg publicly supported a violent rebellion against the German state. She was captured and summarily executed by the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Her body was thrown in the Landwehr Canal in Berlin.\n\nDue to her pointed criticism of both the Leninist and the more moderate social democratic schools of socialism, Luxemburg's legacy is a radical, non-Leninist school of revolutionary socialist thought.`,
+        link: 'https://www.versobooks.com/blogs/4203-the-many-interpretations-of-rosa-luxemburg-s-legacy',
+        infoSrc: 'https://en.wikipedia.org/wiki/Rosa_Luxemburg'
       },
     ],
     'Other': [
@@ -1103,7 +1103,7 @@ export const eventLibrary = {
         date: 'January 15th, 1809',
         title: 'Pierre-Joseph Proudhon (1820 - 1865)',
         imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: `Pierre-Joseph Proudhon was a French politician, philosopher and the founder of mutualist philosophy. He was the first person to declare himself an anarchist, using that term, and is widely regarded as one of the ideology's most influential theorists. Proudhon is even considered by many to be the "father of anarchism". He became a member of the French Parliament after the Revolution of 1848, whereafter he referred to himself as a federalist.\n\nProudhon favored workers' associations or co-operatives as well as individual worker/peasant possession over private ownership or the nationalization of land and workplaces. He considered social revolution to be achievable in a peaceful manner. In The Confessions of a Revolutionary, Proudhon asserted that "Anarchy is Order Without Power", the phrase which much later inspired in the view of some the anarchist circled-A symbol, today "one of the most common graffiti on the urban landscape".\n\nIt is worth noting that, despite his egalitarian beliefs in other respects, Proudhon was an avowed sexist and anti-semite. One notorious (unpublished) quote reads "The Jew is the enemy of the human race. This race must be sent back to Asia, or exterminated. H. Heine, A. Weil, and others are simply secret spies; Rothschild, Crémieux, Marx, Fould, evil choleric, envious, bitter men who hate us."\n\nProudhon also unsuccessfully tried to create a national bank, to be funded by what became an abortive attempt at an income tax on capitalists and shareholders. Similar in some respects to a credit union, it would have given interest-free loans.`,
+        description: `Pierre-Joseph Proudhon was a French politician, philosopher and the founder of mutualist philosophy. He was the first person to declare himself an anarchist, using that term, and is widely regarded as one of the ideology's most influential theorists. Proudhon is even considered by many to be the "father of anarchism". He became a member of the French Parliament after the Revolution of 1848, whereafter he referred to himself as a federalist.\n\nProudhon favored workers' associations or co-operatives as well as individual worker/peasant possession over private ownership or the nationalization of land and workplaces. In The Confessions of a Revolutionary, Proudhon asserted that "Anarchy is Order Without Power", the phrase which much later inspired in the view of some the anarchist circled-A symbol, today "one of the most common graffiti on the urban landscape".\n\nIt is worth noting that, despite his egalitarian beliefs in other respects, Proudhon was an avowed sexist and anti-semite. One notorious (unpublished) quote reads "The Jew is the enemy of the human race. This race must be sent back to Asia, or exterminated."\n\nProudhon also unsuccessfully tried to create a national bank, to be funded by what became an abortive attempt at an income tax on capitalists and shareholders. Similar in some respects to a credit union, it would have given interest-free loans.`,
         link: 'https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon',
         infoSrc: 'https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon',
       },
@@ -1566,7 +1566,7 @@ export const eventLibrary = {
         date: 'January 22nd, 1891',
         title: 'Antonio Gramsci (1891 - 1937)',
         imgSrc: require('./assets/eventPhotos/Individuals/antonioGramsci.png'),
-        description: `Antonio Francesco Gramsci was an Italian Marxist philosopher and communist politician. He wrote on political theory, sociology and linguistics. He attempted to break from the economic determinism of traditional Marxist thought and so is considered a key neo-Marxist. He was a founding member and one-time leader of the Communist Party of Italy and was imprisoned by Benito Mussolini's Fascist regime.\n\nGramsci is perhaps best known for his theory of cultural hegemony, which describes how the state and ruling capitalist class use cultural institutions to maintain power in capitalist societies. In Gramsci's view, this class develops a dominant culture using ideology rather than violence, economic force, or coercion. Hegemonic culture propagates its own values and norms so that they become the "common sense" values of all and thus maintain the status quo. By this mechanism, Gramsci theorized, capitalists maintain their power without the use of coercive force.`,
+        description: `Antonio Francesco Gramsci was an Italian Marxist philosopher and communist politician. He wrote on political theory, sociology and linguistics. He attempted to break from the economic determinism of traditional Marxist thought and so is considered a key neo-Marxist.\n\nHe was a founding member and one-time leader of the Communist Party of Italy and was imprisoned by Benito Mussolini's Fascist regime.`,
         link: 'https://revisesociology.com/2016/06/23/gramscis-humanist-marxism/',
         infoSrc: 'https://en.wikipedia.org/wiki/Antonio_Gramsci'
       },
@@ -2253,13 +2253,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'February 1st, 1931',
+        title: 'Farabundo Martí (1893 - 1931)',
+        imgSrc: require('./assets/eventPhotos/Individuals/farabundoMarti.jpg'),
+        description: `Agustín Farabundo Martí Rodríguez, popularly known as Farabundo Martí, was a Marxist-Leninist activist and a revolutionary leader in El Salvador during the 1932 Salvadoran peasant massacre. Martí is also known for co-founding of the Communist Party of Central America, as well as helping lead a communist alternative to the Red Cross known as "International Red Aid".\n\nIn 1931, Martí returned to El Salvador and helped start a guerrilla revolt of indigenous farmers. The Communist-led peasant uprising against dictator Maximiliano Hernández Martínez, fomented by collapsing coffee prices, enjoyed some initial success, but was soon drowned in a bloodbath, being crushed by the Salvadoran military ten days after it had begun. Over 30,000 indigenous people were killed at what was to be a "peaceful meeting" in 1932; this became known as "La Matanza" ("The Slaughter").\n\nFor his role in the uprising, Martí was executed by Salvadoran President Hernández Martínez.`,
+        link: 'https://en.wikipedia.org/wiki/La_Matanza',
+        infoSrc: 'https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD'
       },
     ],
     'Other': [
@@ -3622,13 +3622,20 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'February 21st, 1965',
+        title: 'Malcolm X (1925 - 1965)',
+        imgSrc: require('./assets/eventPhotos/Individuals/malcolmX.jpg'),
+        description: `El-Hajj Malik El-Shabazz, born Malcolm Little, was an American Muslim minister and human rights activist who was a popular figure during the civil rights movement. He is best known for his staunch and controversial black racial advocacy, and for his time spent as a vocal spokesman for the Nation of Islam.\n\nHis policy of allowing for violent self-defense (i.e., achieving freedom "by any means necessary") and opposition to integration stood in stark contrast to his contemporary Martin Luther King Jr., whom Malcolm referred to as a "chump".\n\nOn February 21, 1965, he was preparing to address the Organization of Afro-American Unity in Manhattan's Audubon Ballroom when a quarrel broke out. As Malcolm X and his bodyguards tried to quell the disturbance, a man rushed forward and shot him once in the chest with a sawed-off shotgun and two other men charged the stage firing semi-automatic handguns. Malcolm X was pronounced dead at 3:30 pm, shortly after arriving at Columbia Presbyterian Hospital. The gunman were identified as members of Nation of Islam and convicted of murder.`
+      },
+      {
+        category: 'Assassinations',
+        date: 'February 21st, 1934',
+        title: 'Augusto Sandino (1895 - 1934)',
+        imgSrc: require('./assets/eventPhotos/Individuals/augustoSandino.jpg'),
+        description: `Augusto C. Sandino was a Nicaraguan revolutionary and leader of a rebellion between 1927 and 1933 against the U.S. military occupation of Nicaragua.\n\nAlthough he was called a "bandit" by the United States government, his guerilla style warfare against U.S. forces made him a hero throughout much of Latin America, where he became a symbol of resistance to United States domination. His life served as an inspiration to both Che Guevara and Fidel Castro\n\nOn February 21, 1934, Sandino attended a round of talks with Sacasa, the Nicaraguan President. On leaving Sacasa's Presidential Palace, Sandino and five others were stopped in their car at the main gate by local National Guardsmen and were ordered to leave their car. They took Sandino, his brother Socrates, and his two generals to a crossroads section in Larreynaga and executed them.`,
+        link: 'https://www.nicaragua.com/blog/nicaragua-augusto-sandino-national-hero/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Augusto_C%C3%A9sar_Sandino'
       },
     ],
     'Other': [
@@ -3751,7 +3758,7 @@ export const eventLibrary = {
         date: 'February 23rd, 1868',
         title: 'W.E.B. Dubois (1868 - 1963)',
         imgSrc: require('./assets/eventPhotos/Individuals/webDubois.jpg'),
-        description: `William Edward Burghardt Du Bois was an American sociologist, socialist, historian, civil rights activist, Pan-Africanist, author, writer and editor. Du Bois grew up in a relatively tolerant and integrated community, and after completing graduate work at the University of Berlin and Harvard, where he was the first African American to earn a doctorate. He was also one of the founders of the National Association for the Advancement of Colored People (NAACP).\n\nDu Bois was a prolific author. His collection of essays, "The Souls of Black Folk", is a seminal work in African-American literature; and his 1935 magnum opus, "Black Reconstruction in America", challenged the prevailing orthodoxy that blacks were responsible for the failures of the Reconstruction Era. Borrowing a phrase from Frederick Douglass, he popularized the use of the term "color line" to represent the injustice of the separate but equal doctrine prevalent in American social and political life.\n\nDu Bois believed that capitalism was a primary cause of racism, and he was generally sympathetic to socialist causes throughout his life. Because of this, he was spied upon by the U.S. government, who eventually indicted him for acting as an agent of a foreign state while advocating for nuclear disarmament. Notably, the NAACP did not support him during Dubois' trial, which ultimately failed to convict him.`,
+        description: `William Edward Burghardt Du Bois was an American sociologist, socialist, historian, civil rights activist, Pan-Africanist, author, writer and editor. Du Bois grew up in a relatively tolerant and integrated community, and after completing graduate work at the University of Berlin and Harvard, where he was the first African American to earn a doctorate. He was also one of the founders of the National Association for the Advancement of Colored People (NAACP).\n\nDu Bois was a prolific author. His collection of essays, "The Souls of Black Folk", is a seminal work in African-American literature; and his 1935 magnum opus, "Black Reconstruction in America", challenged the prevailing orthodoxy that blacks were responsible for the failures of the Reconstruction Era. Borrowing a phrase from Frederick Douglass, he popularized the use of the term "color line" to represent the injustice of the separate but equal doctrine prevalent in American social and political life.\n\nDu Bois believed that capitalism was a primary cause of racism, and he was generally sympathetic to socialist causes throughout his life. Because of this, he was spied upon by the U.S. government, who eventually indicted him for acting as an agent of a foreign state while advocating for nuclear disarmament. Notably, the NAACP did not support Dubois during his trial, which ultimately failed to convict him.`,
         link: 'http://bostonreview.net/race-politics/andrew-lanham-when-w-e-b-du-bois-was-un-american',
         infoSrc: 'https://en.wikipedia.org/wiki/W._E._B._Du_Bois'
       },
@@ -5596,7 +5603,7 @@ export const eventLibrary = {
         date: 'March 21st, 1961',
         title: 'Yanis Varoufakis (1961 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/yanisVaroufakis.jpg'),
-        description: `Ioannis "Yanis" Varoufakis is a Greek economist, academic, philosopher and politician. He has been Secretary-General of DiEM25, a left-wing political party, since he founded it in 2018. A former member of Syriza, he served as Minister of Finance from January to July 2015 under Prime Minister Alexis Tsipras. Varoufakis was a member of the Hellenic Parliament for Athens B from January to September 2015; he regained a parliamentary seat in July 2019.\n\nIn January 2015, Varoufakis was appointed Greek Minister of Finance. He led negotiations with Greece's creditors during the government-debt crisis. However, he failed to reach an agreement with the European troika (European Commission, European Central Bank, and International Monetary Fund) leading to the 2015 bailout referendum. The referendum rejected the troika bailout terms, and the day afterwards Varoufakis resigned as Minister of Finance, being replaced by Euclid Tsakalotos. Varoufakis has since appeared in numerous debates, lectures and interviews, describing in detail what he sees as corruption and anti-democratic governance within the European Union.\n\nIn February 2016, he launched the Democracy in Europe Movement 2025 (DiEM25) In the 2019 legislative election, DiEM25 was the sixth most voted-for party, amassing nine parliamentary seats, with Varoufakis himself returning to the Hellenic Parliament. In December 2018, Varoufakis launched the Progressive International with United States Senator Bernie Sanders.`,
+        description: `Ioannis "Yanis" Varoufakis is a Greek economist, academic, philosopher and politician. He has been Secretary-General of DiEM25, a left-wing political party, since he founded it in 2018.\n\nIn January 2015, Varoufakis was appointed Greek Minister of Finance. He led tense negotiations with Greece's creditors during the government-debt crisis. He failed, however, to reach an agreement with the European troika (European Commission, European Central Bank, and International Monetary Fund) leading to the 2015 bailout referendum. The referendum rejected the troika bailout terms, and the day afterwards Varoufakis resigned as Minister of Finance, being replaced by Euclid Tsakalotos.\n\nVaroufakis has since appeared in numerous debates, lectures and interviews, describing in detail what he sees as corruption and anti-democratic governance within the European Union.\n\nIn February 2016, he launched the Democracy in Europe Movement 2025 (DiEM25) In the 2019 legislative election, DiEM25 was the sixth most voted-for party, amassing nine parliamentary seats, with Varoufakis himself returning to the Hellenic Parliament. In December 2018, Varoufakis launched the Progressive International with United States Senator Bernie Sanders.`,
         link: 'https://www.theguardian.com/books/2017/may/03/yanis-varoufakis-greece-greatest-political-memoir',
         infoSrc: 'https://en.wikipedia.org/wiki/Yanis_Varoufakis'
       },
@@ -5864,13 +5871,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'March 25th, 1903',
+        title: 'Julio Mella (1903 - 1929)',
+        imgSrc: require('./assets/eventPhotos/Individuals/julioMella.jpg'),
+        description: `Julio Antonio Mella McPartland was an activist and is known as one of the founders of the "internationalized" Cuban Communist Party, in 1925 by leaders of the party in Moscow, Soviet Union. After becoming a political activist, Mella had studied law in the University of Havana but was expelled in 1925.\n\nAt the time of his murder, he was working as a Cuban Marxist revolutionary in Mexico, working with other exiles and supporters to organize the overthrow of General Gerardo Machado in Cuba. Mella was assassinated on January 10, 1929, while walking home at night. It is unknown who killed Mella, as both Machado and the Cuban Communist Party, which was afraid Mella had come under the influence of Trotsky (who lived in Mexico at the time), had cause to assassinate him.`,
+        link: 'https://en.wikipedia.org/wiki/Julio_Antonio_Mella',
+        infoSrc: 'https://en.wikipedia.org/wiki/Julio_Antonio_Mella'
       },
     ],
     'Assassinations': [
@@ -6344,7 +6351,7 @@ export const eventLibrary = {
         date: 'April 1st, 1942',
         title: 'Richard Wolff (1942 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/richardWolff.jpg'),
-        description: `Richard David Wolff (born April 1, 1942) is an American economist, known for his work on economic methodology and class analysis. He is Professor Emeritus of Economics at the University of Massachusetts Amherst, and currently a Visiting Professor in the Graduate Program in International Affairs of the New School University in New York.\n\nIn 1988, Wolff co-founded "Rethinking Marxism", a still running academic journal dedicated to Marxist analyses of economics, culture, and society. Today, Wolff hosts the weekly 30-minute-long program Economic Update, which is produced by the non-profit Democracy at Work, which he co-founded. Wolff is featured regularly in television, print, and internet media; the New York Times Magazine has named him "America's most prominent Marxist economist".`,
+        description: `Richard David Wolff (born April 1, 1942) is an American economist, known for his work on economic methodology and class analysis. He is Professor Emeritus of Economics at the University of Massachusetts Amherst, and currently a Visiting Professor in the Graduate Program in International Affairs of the New School University in New York.\n\nIn 1988, Wolff co-founded "Rethinking Marxism", a still running academic journal dedicated to Marxist analyses of economics, culture, and society.\n\nToday, Wolff hosts the weekly 30-minute-long program Economic Update, which is produced by the non-profit Democracy at Work, which he co-founded. Wolff is featured regularly in television, print, and internet media; the New York Times Magazine has named him "America's most prominent Marxist economist".`,
         link: 'https://www.democracyatwork.info/',
         infoSrc: 'https://en.wikipedia.org/wiki/Richard_D._Wolff'
       },
@@ -6555,13 +6562,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'April 4th, 1968',
+        title: 'MLK Jr. (1929 - 1968)',
+        imgSrc: require('./assets/eventPhotos/Individuals/mlkJr.jpg'),
+        description: `Martin Luther King Jr. was an American Christian minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. King is best known for advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi.\n\nOn October 14, 1964, King won the Nobel Peace Prize for combating racial inequality through nonviolent resistance. In 1965, he helped organize the Selma to Montgomery marches. In his final years, he expanded his focus to include opposition towards poverty, capitalism, and the Vietnam War.\n\nFor his activism, he was the target of multiple assassination attempts, arrested 23 times, and surveilled and harassed by the police. In particular, FBI Director J. Edgar Hoover harassed Dr. King by making him a target of COINTELPRO, a secret program where FBI agents spied on, infiltrated, and attempted to discredit "subversive" political movements.\n\nIn 1968, King and the Southern Christian Leadership Conference organized the "Poor People's Campaign" to address issues of economic justice. King traveled the country to assemble "a multiracial army of the poor" that would march on Washington to engage in nonviolent civil disobedience at the Capitol until Congress created an "economic bill of rights" for poor Americans.\n\nBefore the plans for the march could come to fruition, however, King was assassinated in Memphis, Tennessee while supporting striking black sanitation workers. James Earl Rey was convicted for the murder, but speculation of government involvement has persisted for decades after his death.`,
+        link: 'https://kinginstitute.stanford.edu/encyclopedia/assassination-martin-luther-king-jr',
+        infoSrc: 'https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.'
       },
     ],
     'Other': [
@@ -6963,13 +6970,22 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'April 10th, 1919',
+        title: 'Emiliano Zapata (1879 - 1919)',
+        imgSrc: require('./assets/eventPhotos/Individuals/emilianoZapata.jpg'),
+        description: `Emiliano Zapata Salazar was a leading figure in the Mexican Revolution, the main leader of the peasant revolution in the state of Morelos, and the inspiration of the agrarian movement called Zapatismo.\n\nZapata was born in the rural village of Anenecuilco in Morelos State, where peasant communities were under increasing pressure from the small landowning class who monopolized land and water resources for sugar cane production with the support of dictator Porfirio Díaz.\n\nEarly on, Zapata participated in political movements against Diaz and the landowning hacendados, and when the Revolution broke out in 1910 he was positioned as a central leader of the peasant revolt in Morelos. Zapata was responsible for defeating and ousting various invading armies from Morelos on multiple occasions.\n\nOn April 10, 1919, Jesús Guajardo invited Zapata to a meeting, intimating that he intended to defect to the revolutionaries. When Zapata arrived at the meeting, however, Guajardo's men riddled him with bullets instead.`,
+        link: 'https://en.wikipedia.org/wiki/Plan_of_Ayala',
+        infoSrc: 'https://en.wikipedia.org/wiki/Emiliano_Zapata'
+      },
+      {
+        category: 'Assassinations',
+        date: 'April 10th, 1993',
+        title: 'Chris Hani (1942 - 1993)',
+        imgSrc: require('./assets/eventPhotos/Individuals/chrisHani.jpg'),
+        description: `Chris Hani, born Martin Thembisile Hani, was the leader of the South African Communist Party and chief of staff of uMkhonto we Sizwe, the armed wing of the African National Congress (ANC). He received military training in the Soviet Union and served in campaigns in the Zimbabwean War of Liberation, also called the Rhodesian Bush War.\n\nHani was a fierce opponent of the apartheid government, but supported the suspension of the ANC's armed struggle in favour of negotiations after becoming head of the party in 1991. He was assassinated by Janusz Walus, an anti-communist Polish immigrant, on 10 April 1993.`,
+        link: 'https://web.archive.org/web/20170225112546/http://www.sacp.org.za/main.php?ID=2294',
+        infoSrc: 'https://en.wikipedia.org/wiki/Chris_Hani'
       },
     ],
     'Other': [
@@ -8584,13 +8600,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 4th, 1952',
+        title: 'Ruth First (1952 - 1982)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ruthFirst.jpg'),
+        description: `Ruth First was a South African anti-apartheid activist and scholar.\n\nFollowing four years of harassment by the state, Ruth alongside 155 other activists were all acquitted of charges of treason. After the state of emergency that followed the Sharpeville massacre in 1960, she was listed and banned. First could not attend meetings, publish, and or be quoted. In 1963, she was imprisoned and held in isolation without charge for 117 days under the Ninety-Day Detention Law, the first white woman to be detained under this law.\n\nIn November of 1982, First was assassinated by South African police in Mozambique, where she was working in exile.`,
+        link: 'https://www.sahistory.org.za/people/ruth-heloise-first',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ruth_First'
       },
     ],
     'Assassinations': [
@@ -8659,6 +8675,15 @@ export const eventLibrary = {
         description: `Born in Trier, Germany, Marx studied law and philosophy at university. His best-known works are the 1848 pamphlet, The Communist Manifesto, and the three-volume Das Kapital (1867–1883). His political and philosophical thought had enormous influence on subsequent intellectual, economic and political history, and his name has been used as an adjective, a noun and a school of social theory.\n\nMarx's critical theories about society, economics and politics – collectively understood as Marxism – hold that human societies develop through class conflict. In capitalism, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour power in return for wages. \n\nEmploying a critical approach known as historical materialism, Marx predicted that, like previous socio-economic systems, capitalism produced internal tensions which would lead to its self-destruction and replacement by a new system known as socialism.`,
         link: 'https://en.wikipedia.org/wiki/Karl_Marx',
         infoSrc: 'https://en.wikipedia.org/wiki/Karl_Marx'
+      },
+      {
+        category: 'Birthdays',
+        date: 'May 5th, 1893',
+        title: 'Farabundo Martí (1893 - 1931)',
+        imgSrc: require('./assets/eventPhotos/Individuals/farabundoMarti.jpg'),
+        description: `Agustín Farabundo Martí Rodríguez, popularly known as Farabundo Martí, was a Marxist-Leninist activist and a revolutionary leader in El Salvador during the 1932 Salvadoran peasant massacre. Martí is also known for co-founding of the Communist Party of Central America, as well as helping lead a communist alternative to the Red Cross known as "International Red Aid".\n\nIn 1931, Martí returned to El Salvador and helped start a guerrilla revolt of indigenous farmers. The Communist-led peasant uprising against dictator Maximiliano Hernández Martínez, fomented by collapsing coffee prices, enjoyed some initial success, but was soon drowned in a bloodbath, being crushed by the Salvadoran military ten days after it had begun. Over 30,000 indigenous people were killed at what was to be a "peaceful meeting" in 1932; this became known as "La Matanza" ("The Slaughter").\n\nFor his role in the uprising, Martí was executed by Salvadoran President Hernández Martínez.`,
+        link: 'https://en.wikipedia.org/wiki/La_Matanza',
+        infoSrc: 'https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD'
       },
     ],
     'Assassinations': [
@@ -9545,13 +9570,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 18th, 1895',
+        title: 'Augusto Sandino (1895 - 1934)',
+        imgSrc: require('./assets/eventPhotos/Individuals/augustoSandino.jpg'),
+        description: `Augusto C. Sandino was a Nicaraguan revolutionary and leader of a rebellion between 1927 and 1933 against the U.S. military occupation of Nicaragua.\n\nAlthough he was called a "bandit" by the United States government, his guerilla style warfare against U.S. forces made him a hero throughout much of Latin America, where he became a symbol of resistance to United States domination. His life served as an inspiration to both Che Guevara and Fidel Castro\n\nOn February 21, 1934, Sandino attended a round of talks with Sacasa, the Nicaraguan President. On leaving Sacasa's Presidential Palace, Sandino and five others were stopped in their car at the main gate by local National Guardsmen and were ordered to leave their car. They took Sandino, his brother Socrates, and his two generals to a crossroads section in Larreynaga and executed them.`,
+        link: 'https://www.nicaragua.com/blog/nicaragua-augusto-sandino-national-hero/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Augusto_C%C3%A9sar_Sandino'
       },
     ],
     'Assassinations': [
@@ -10306,7 +10331,7 @@ export const eventLibrary = {
         date: 'May 29th, 1944',
         title: 'Maurice Bishop (1944 - 1983)',
         imgSrc: require('./assets/eventPhotos/Individuals/mauriceBishop.jpg'),
-        description: `Maurice Rupert Bishop was a Grenadian revolutionary and the leader of New Jewel Movement – popular efforts in the areas of socio-economic development, education, and black liberation. Bishop headed the People's Revolutionary Government of Grenada from 1979 to 1983, when he was dismissed from his post and shot in a coup, leading to civil unrest and a US invasion of the country.\n\nAlthough Bishop grew up in Grenada, he left to study in London as a young adult. While there, Bishop acquired a law degree and studied the works of Lenin, Mao Zedong, and Julius Nyerere.\n\nIn 1970, he returned to Grenada and was active politically, representing striking nurses in court and leading the "New Jewel Movement", which ultimately put him in power. In 1979, the New Jewel Movement successfully led a coup against Eric Gairy and made Bishop the Prime Minister of Grenada\n\nAmong Bishop's core principles were workers' rights, women's rights, and the struggle against racism and apartheid. Women were given equal pay and paid maternity leave, and sex discrimination was made illegal. Organisations for education, health care, youth affairs, and literacy were also established. Due to his efforts, illiteracy greatly declined and the unemployment rate dropped from 54% to 14%.\n\nIn 1983, disputes within the party culminated in Bishop, along with seven members of his cabinet, being captured and executed. After his assassination, the Organization of Eastern Caribbean States and Grenada's governor-general Paul Scoon appealed to the United States for help. Within the month, Ronald Reagan launched an invasion of Grenada.`,
+        description: `Maurice Rupert Bishop was a Grenadian revolutionary and the leader of New Jewel Movement – popular efforts in the areas of socio-economic development, education, and black liberation. Bishop headed the People's Revolutionary Government of Grenada from 1979 to 1983, when he was dismissed from his post and shot in a coup, leading to civil unrest and a US invasion of the country.\n\nAlthough Bishop grew up in Grenada, he left to study in London as a young adult. While there, Bishop acquired a law degree and studied the works of Lenin, Mao Zedong, and Julius Nyerere.\n\nIn 1970, he returned to Grenada and was active politically, representing striking nurses in court and leading the "New Jewel Movement", which ultimately put him in power. In 1979, the New Jewel Movement successfully led a coup against Eric Gairy and made Bishop the Prime Minister of Grenada.\n\nAmong Bishop's core principles were workers' rights, women's rights, and the struggle against racism and apartheid. Women were given equal pay and paid maternity leave, and sex discrimination was made illegal. Organisations for education, health care, youth affairs, and literacy were also established. Due to his efforts, illiteracy and unemployment greatly declined.\n\nIn 1983, disputes within the party culminated in Bishop, along with seven members of his cabinet, being captured and executed. After his assassination, the Organization of Eastern Caribbean States (OECS) and Grenada's governor-general Paul Scoon appealed to the United States for help. Within the month, Ronald Reagan launched an invasion of Grenada.`,
         link: 'https://www.zinnedproject.org/news/tdih/grenada-revolution/',
         infoSrc: 'https://en.wikipedia.org/wiki/Maurice_Bishop'
       },
@@ -11265,13 +11290,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'June 12th, 1963',
+        title: 'Medgar Evers (1925 - 1963)',
+        imgSrc: require('./assets/eventPhotos/Individuals/medgarEvers.jpg'),
+        description: `Medgar Wiley Evers was an American civil rights activist in Mississippi, the state's field secretary for the NAACP, and a World War II veteran who had served in the United States Army. He worked to overturn segregation at the University of Mississippi, end the segregation of public facilities, and expand opportunities for African Americans, which included the enforcement of voting rights.\n\nEvers was assassinated in 1963 by Byron De La Beckwith, a member of the White Citizens' Council in Jackson, Mississippi. His murder and the resulting trials inspired civil rights protests; his life and these events inspired numerous works of art, music, and film. All-white juries failed to reach verdicts in the first two trials of Beckwith in the 1960s. He was convicted in 1994 in a new state trial based on new evidence.`,
+        link: 'https://web.archive.org/web/20130611071827/http://mememorial.org/medgar-w-evers-civil-rights-activist/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Medgar_Evers'
       },
     ],
     'Other': [
@@ -12210,7 +12235,7 @@ export const eventLibrary = {
         date: 'June 26th, 1908',
         title: 'Salvador Allende (1908 - 1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),
-        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; he was Latin America's first ever Marxist to be elected president in a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. He clashed with the right-wing parties that controlled Congress and with the judiciary. On 11 September 1973, the military moved to oust Allende in a coup d'état supported by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990, ending more than four decades of uninterrupted democratic governance. The military junta that took over dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
+        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; he was Latin America's first ever Marxist to be elected president in a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. He clashed with the right-wing parties that controlled Congress and with the judiciary.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
         link: 'https://en.wikipedia.org/wiki/Salvador_Allende',
         infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
       },
@@ -12287,7 +12312,7 @@ export const eventLibrary = {
         date: 'June 27th, 1880',
         title: 'Helen Keller (1880 - 1968)',
         imgSrc: require('./assets/eventPhotos/Individuals/helenKeller.jpg'),
-        description: `Helen Adams Keller (June 27, 1880 – June 1, 1968) was an American author, socialist, anti-racist, and disability rights advocate. She was the first deaf-blind person to earn a Bachelor of Arts degree. The story of Keller and her teacher, Anne Sullivan, was made famous by Keller's autobiography, The Story of My Life, and its adaptations for film and stage, The Miracle Worker. Her birthplace in West Tuscumbia, Alabama, is now a museum and sponsors an annual "Helen Keller Day".\n\nIn 1909 Keller joined the American Socialist Party and campaigned for its candidates, including Eugene Debs, the SP leader who ran for U.S. president from his prison cell in 1920. She supported striking workers, including those murdered in 1914 in the Colorado Ludlow Massacre by hired mercenaries, and called owner John D. Rockefeller a “monster of capitalism.” She defined herself as a “militant suffragist,” campaigning for women’s right to vote because she believed this was linked to the struggle for socialism.\n\nContemporary critics lambasted Keller for her socialism. In a 1924 letter to social reformer U.S. Sen. Robert La Folette, she replied: “So long as I confine my activities to social service and the blind, they compliment me extravagantly, calling me ‘arch priestess of the sightless,’ ‘wonder woman,’ and a ‘modern miracle.’ But when it comes to a discussion of poverty, and I maintain that it is the result of wrong economics — that the industrial system under which we live is at the root of much of the physical deafness and blindness in the world — that is a different matter!” By the time Keller died in 1968 at 87, the FBI had kept her under surveillance for most of her adult life.`,
+        description: `Helen Adams Keller (June 27, 1880 – June 1, 1968) was an American author, socialist, anti-racist, and disability rights advocate. She was the first deaf-blind person to earn a Bachelor of Arts degree. The story of Keller and her teacher, Anne Sullivan, was made famous by Keller's autobiography, The Story of My Life, and its adaptations for film and stage, The Miracle Worker.\n\nIn 1909 Keller joined the American Socialist Party and campaigned for its candidates, including Eugene Debs, the SP leader who ran for U.S. president from his prison cell in 1920. She supported striking workers, including those murdered in 1914 in the Colorado Ludlow Massacre by hired mercenaries, and called owner John D. Rockefeller a “monster of capitalism.” She defined herself as a “militant suffragist,” campaigning for women’s right to vote because she believed this was linked to the struggle for socialism.\n\nContemporary critics lambasted Keller for her socialism. In a 1924 letter to social reformer U.S. Sen. Robert La Folette, she replied: “So long as I confine my activities to social service and the blind, they compliment me extravagantly, calling me ‘arch priestess of the sightless,’ ‘wonder woman,’ and a ‘modern miracle.’ But when it comes to a discussion of poverty, and I maintain that it is the result of wrong economics — that the industrial system under which we live is at the root of much of the physical deafness and blindness in the world — that is a different matter!”\n\nBy the time Keller died in 1968 at 87, the FBI had kept her under surveillance for most of her adult life.`,
         link: 'https://www.workers.org/2016/03/24250/',
         infoSrc: 'https://www.workers.org/2016/03/24250/'
       },
@@ -12355,9 +12380,18 @@ export const eventLibrary = {
         date: 'June 28th, 1947',
         title: 'Mark Clark (1947 - 1969)',
         imgSrc: require('./assets/eventPhotos/Individuals/markClark.jpg'),
-        description: `Mark Clark (June 28, 1947 – December 4, 1969) was an American activist and member of the Black Panther Party (BPP). After decided to join the Black Panther Party after reading their literature and the Ten Point Program, later organizing a local Peoria chapter.\n\nAt the age of 22, he, along with Fred Hampton, was assassinated when the Chicago Police Department committed a raid against BPP headquarters. He was shot in the heart and died instantly.`,
+        description: `Mark Clark was an American activist and member of the Black Panther Party (BPP). After decided to join the Black Panther Party after reading their literature and the Ten Point Program, later organizing a local Peoria chapter.\n\nAt the age of 22, he, along with Fred Hampton, was assassinated when the Chicago Police Department committed a raid against BPP headquarters. He was shot in the heart and died instantly.`,
         link: 'https://en.wikipedia.org/wiki/Mark_Clark_(activist)',
         infoSrc: 'https://en.wikipedia.org/wiki/Mark_Clark_(activist)'
+      },
+      {
+        category: 'Birthdays',
+        date: 'June 28th, 1942',
+        title: 'Chris Hani (1942 - 1993)',
+        imgSrc: require('./assets/eventPhotos/Individuals/chrisHani.jpg'),
+        description: `Chris Hani, born Martin Thembisile Hani, was the leader of the South African Communist Party and chief of staff of uMkhonto we Sizwe, the armed wing of the African National Congress (ANC). He received military training in the Soviet Union and served in campaigns in the Zimbabwean War of Liberation, also called the Rhodesian Bush War.\n\nHani was a fierce opponent of the apartheid government, but supported the suspension of the ANC's armed struggle in favour of negotiations after becoming head of the party in 1991. He was assassinated by Janusz Walus, an anti-communist Polish immigrant, on 10 April 1993.`,
+        link: 'https://web.archive.org/web/20170225112546/http://www.sacp.org.za/main.php?ID=2294',
+        infoSrc: 'https://en.wikipedia.org/wiki/Chris_Hani'
       },
     ],
     'Assassinations': [
@@ -13724,7 +13758,7 @@ export const eventLibrary = {
         date: 'July 18th, 1918',
         title: 'Nelson Mandela (1918 - 2013)',
         imgSrc: require('./assets/eventPhotos/Individuals/nelsonMandela.jpg'),
-        description: `Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, political leader and philanthropist who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997.\n\nAs a lawyer in Johannesburg, he became involved in anti-colonial and African nationalist politics, joining the ANC in 1943 and co-founding its Youth League in 1944. After the National Party's white-only government established apartheid, a system of racial segregation that privileged whites, he and the ANC committed themselves to its overthrow. He was repeatedly arrested for seditious activities and was unsuccessfully prosecuted in the 1956 Treason Trial. Influenced by Marxism, he secretly joined the banned South African Communist Party (SACP).\n\nAlthough initially committed to non-violent protest, in association with the SACP he co-founded the militant Umkhonto we Sizwe in 1961 and led a sabotage campaign against the government. He was arrested and imprisoned in 1962, and subsequently sentenced to life imprisonment for conspiring to overthrow the state following the Rivonia Trial. Mandela served 27 years in prison. Amid growing domestic and international pressure, and with fears of a racial civil war, President F. W. de Klerk released him in 1990. Mandela and de Klerk led efforts to negotiate an end to apartheid, which resulted in the 1994 multiracial general election in which Mandela led the ANC to victory and became president.\n\nLeading a broad coalition government which promulgated a new constitution, Mandela emphasised reconciliation between the country's racial groups and created the Truth and Reconciliation Commission to investigate past human rights abuses. Economically, Mandela's administration retained its predecessor's liberal framework despite his own socialist beliefs, also introducing measures to encourage land reform, combat poverty and expand healthcare services.`,
+        description: `Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, political leader and philanthropist who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election.\n\nHis government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997.\n\nAlthough initially committed to non-violent protest, in association with the SACP he co-founded the militant Umkhonto we Sizwe in 1961 and led a sabotage campaign against the government. He was arrested and imprisoned in 1962, and subsequently sentenced to life imprisonment for conspiring to overthrow the state following the Rivonia Trial. Mandela served 27 years in prison.\n\nAmid growing domestic and international pressure, and with fears of a racial civil war, President F. W. de Klerk released him in 1990. Mandela and de Klerk led efforts to negotiate an end to apartheid, which resulted in the 1994 multiracial general election in which Mandela led the ANC to victory and became president.`,
         link: 'https://en.wikipedia.org/wiki/Nelson_Mandela',
         infoSrc: 'https://en.wikipedia.org/wiki/Nelson_Mandela'
       },
@@ -14071,13 +14105,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'July 29th, 1992',
+        title: 'Tavio Amorin (1958 - 1992)',
+        imgSrc: require('./assets/eventPhotos/Individuals/tavioAmorin.jpg'),
+        description: `Tavio Ayao Tobias Amorin was a socialist Togolese politician committed to the cause of human rights. He led the Togolese Pan-African Socialist Party, whose politics were influenced by previous pan-African leaders like Kwame Nkrumah.\n\nTavio was relentless in his criticisms of the government. In his role as the Chair of Political Affairs, Human Rights, and Liberties Commission, he worked to expose the human rights abuses in Togo.\n\nHe was eventually assassinated by state police for his outspoken criticisms of the state, and no one has yet been brought to justice for his murder.`,
+        link: 'https://en.wikipedia.org/wiki/Tavio_Amorin',
+        infoSrc: 'https://www.huffpost.com/entry/tavio-amorin_b_5a061f6be4b0cc46c52e6a64'
       },
     ],
     'Other': [
@@ -14615,13 +14649,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'July 31st, 1914',
+        title: 'Jean Jaurès (1859 - 1914)',
+        imgSrc: require('./assets/eventPhotos/Individuals/jeanJaures.jpg'),
+        description: `Auguste Marie Joseph Jean Léon Jaurès, commonly referred to as Jean Jaurès, was a French Socialist leader. Initially a moderate republican, he was later one of the first social democrats, eventually becoming the leader of the French Socialist Party, which opposed Jules Guesde's revolutionary Socialist Party of France. The two parties merged in 1905 in the French Section of the Workers' International (SFIO).\n\nToday, a key aspect his legacy was his antimilitarism. Jaurès was an early opponent of the draft and desperately tried to prevent war between France and Germany before World War I, going so far as to try and organize a general strike in both countries to force their leaders to negotiate diplomatically.\n\nIn 1914, Jaurès returned to Paris from a diplomatic meeting in Brussels to advocate against the coming war. He was assassinated by a French nationalist at the outbreak of World War I, and remains one of the main historical figures of the French Left.`,
+        link: 'https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s'
       },
     ],
     'Other': [
@@ -15148,13 +15182,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'August 8th, 1879',
+        title: 'Emiliano Zapata (1879 - 1919)',
+        imgSrc: require('./assets/eventPhotos/Individuals/emilianoZapata.jpg'),
+        description: `Emiliano Zapata Salazar was a leading figure in the Mexican Revolution, the main leader of the peasant revolution in the state of Morelos, and the inspiration of the agrarian movement called Zapatismo.\n\nZapata was born in the rural village of Anenecuilco in Morelos State, where peasant communities were under increasing pressure from the small landowning class who monopolized land and water resources for sugar cane production with the support of dictator Porfirio Díaz.\n\nEarly on, Zapata participated in political movements against Diaz and the landowning hacendados, and when the Revolution broke out in 1910 he was positioned as a central leader of the peasant revolt in Morelos. Zapata was responsible for defeating and ousting various invading armies from Morelos on multiple occasions.`,
+        link: 'https://en.wikipedia.org/wiki/Plan_of_Ayala',
+        infoSrc: 'https://en.wikipedia.org/wiki/Emiliano_Zapata'
       },
     ],
     'Assassinations': [
@@ -15780,13 +15814,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'August 17th, 1982',
+        title: 'Ruth First (1952 - 1982)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ruthFirst.jpg'),
+        description: `Ruth First was a South African anti-apartheid activist and scholar.\n\nFollowing four years of harassment by the state, Ruth alongside 155 other activists were all acquitted of charges of treason. After the state of emergency that followed the Sharpeville massacre in 1960, she was listed and banned. First could not attend meetings, publish, and or be quoted. In 1963, she was imprisoned and held in isolation without charge for 117 days under the Ninety-Day Detention Law, the first white woman to be detained under this law.\n\nIn November of 1978, First was assassinated by South African police while working in exile in Mozambique.`,
+        link: 'https://www.sahistory.org.za/people/ruth-heloise-first',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ruth_First'
       },
     ],
     'Other': [
@@ -15848,13 +15882,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'August 18th, 1944',
+        title: 'Ernst Thälmann (1886 - 1944)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ernstThalmann.jpg'),
+        description: `Ernst Thälmann was a German communist politician. He was leader of the Communist Party of Germany (KPD) from 1925 to 1933. A committed Stalinist, Thälmann played a major role during the political instability of the Weimar Republic. Especially in its final years, when the KPD explicitly sought the overthrow of the liberal democracy of the republic.\n\nAfter the Reichstag Fire on 27th February, 1933, the Nazi Party launched a new wave of violence and arrests against members of the KPD and other left-wing opponents of the regime. This included Thälmann, who was arrested, tortured, and imprisoned on 3rd March 1933. He was kept in solitary confinement for eleven years, before finally being executed at the Buchenwald concentration camp in 1944.`,
+        link: 'https://en.wikipedia.org/wiki/Ernst_Th%C3%A4lmann',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ernst_Th%C3%A4lmann'
       },
     ],
     'Other': [
@@ -16052,13 +16086,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'August 21st, 1940',
+        title: 'Leon Trotsky (1879 - 1940)',
+        imgSrc: require('./assets/eventPhotos/Individuals/leonTrotsky.jpg'),
+        description: `Leon Trotsky was a Soviet revolutionary, Marxist theorist and politician whose particular strain of Marxist thought is known as Trotskyism. Key characteristics of Trotskyist thought include the concepts of "Permanent Revolution" and the "United Front" of revolutionaries and reformers against common enemies.\n\nTrotsky joined the Bolshevik Party a few weeks before the October Revolution and immediately became a leader within the party, thus also playing a key role in the October Revolution. Trotsky became more prominent from March 1918 to January 1925 as the leader of the Red Army in the post of Commissar for Military and Naval Affairs. He was also a vital leading figure in the Red victory in the Russian Civil War and one of the seven members of the first Politburo.\n\nAfter the rise of Joseph Stalin, Trotsky was removed from his positions and eventually expelled from the Soviet Union in February 1929. He spent the rest of his life in exile, and was assassinated in 1940 in Mexico City by Ramón Mercader, a Soviet agent.`,
+        link: 'https://www.britannica.com/biography/Leon-Trotsky',
+        infoSrc: 'https://en.wikipedia.org/wiki/Leon_Trotsky'
       },
     ],
     'Other': [
@@ -16666,7 +16700,7 @@ export const eventLibrary = {
         date: 'August 30th, 1948',
         title: 'Fred Hampton (1948 - 1969)',
         imgSrc: require('./assets/eventPhotos/Individuals/fredHampton.jpg'),
-        description: `Fredrick Allen Hampton was an American activist and revolutionary socialist. He came to prominence in Chicago as chairman of the Illinois chapter of the Black Panther Party (BPP), and deputy chairman of the national BPP. In this capacity, he founded a prominent multicultural political organization, the Rainbow Coalition that initially included the Black Panthers, Young Patriots and the Young Lords, and an alliance among major Chicago street gangs to help them end infighting, and work for social change.\n\nIn 1967, Hampton was identified by the Federal Bureau of Investigation as a radical threat. The FBI tried to subvert his activities in Chicago, sowing disinformation among these groups and placing a counterintelligence operative in the local Panthers. In December 1969, Hampton was assassinated in his bed during a predawn raid at his Chicago apartment by a tactical unit of the Cook County State's Attorney's Office in conjunction with the Chicago Police Department and the Federal Bureau of Investigation; during the raid, another Panther was killed and several seriously wounded.\n\nAt a press conference the next day, the police announced the arrest team had been attacked by the "violent" and "extremely vicious" Panthers and had defended themselves accordingly. In a second press conference on December 8, the police leadership praised the assault team for their "remarkable restraint", "bravery", and "professional discipline" in not killing all the Panthers present. Photographic evidence was presented of bullet holes allegedly made by shots fired by the Panthers, but this was soon challenged by reporters. It was later found that all but one of nearly 100 shots were fired by police.\n\nHis death was ruled a justified homicde at the time, although a civil lawsuit filed on behalf of the survivors and the relatives of Hampton and Clark won $1.85 million dollars in damages in 1982.`,
+        description: `Fredrick Allen Hampton was an American activist and revolutionary socialist. He came to prominence in Chicago as chairman of the Illinois chapter of the Black Panther Party (BPP), and deputy chairman of the national BPP. In this capacity, he founded a prominent multicultural political organization, the Rainbow Coalition that initially included the Black Panthers, Young Patriots and the Young Lords, and an alliance among major Chicago street gangs to help them end infighting, and work for social change.\n\nIn 1967, Hampton was identified by the Federal Bureau of Investigation as a radical threat. The FBI tried to subvert his activities in Chicago, sowing disinformation among these groups and placing a counterintelligence operative in the local Panthers. In December 1969, Hampton was assassinated in his bed during a predawn raid at his Chicago apartment by a tactical unit of the Cook County State's Attorney's Office in conjunction with the Chicago Police Department and the Federal Bureau of Investigation; during the raid, another Panther was killed and several seriously wounded.\n\nAt a press conference the next day, the police announced the arrest team had been attacked by the "violent" and "extremely vicious" Panthers and had defended themselves accordingly. In a second press conference on December 8, the police leadership praised the assault team for their "remarkable restraint", "bravery", and "professional discipline" in not killing all the Panthers present. Photographic evidence was presented of bullet holes allegedly made by shots fired by the Panthers, but this was soon challenged by reporters. It was later found that all but one of nearly 100 shots were fired by police.`,
         link: 'https://en.wikipedia.org/wiki/Fred_Hampton',
         infoSrc: 'https://en.wikipedia.org/wiki/Fred_Hampton'
       },
@@ -16934,13 +16968,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 3rd, 1859',
+        title: 'Jean Jaurès (1859 - 1914)',
+        imgSrc: require('./assets/eventPhotos/Individuals/jeanJaures.jpg'),
+        description: `Auguste Marie Joseph Jean Léon Jaurès, commonly referred to as Jean Jaurès, was a French Socialist leader. Initially a moderate republican, he was later one of the first social democrats, eventually becoming the leader of the French Socialist Party, which opposed Jules Guesde's revolutionary Socialist Party of France. The two parties merged in 1905 in the French Section of the Workers' International (SFIO).\n\nToday, a key aspect his legacy was his antimilitarism. Jaurès was an early opponent of the draft and desperately tried to prevent war between France and Germany before World War I, going so far as to try and organize a general strike in both countries to force their leaders to negotiate diplomatically.\n\nIn 1914, Jaurès returned to Paris from a diplomatic meeting in Brussels to advocate against the coming war. He was assassinated by a French nationalist at the outbreak of World War I, and remains one of the main historical figures of the French Left.`,
+        link: 'https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s'
       },
     ],
     'Assassinations': [
@@ -17489,13 +17523,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 11th, 1973',
+        title: 'Salvador Allende (1908 - 1973)',
+        imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),
+        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; he was Latin America's first ever Marxist to be elected president in a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. He clashed with the right-wing parties that controlled Congress and with the judiciary.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of a gunshot wound, which the new government claimed was self-inflicted. Although this conclusion was supported by later investigations, speculations of Allende being murdered continue to this day.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
+        link: 'https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat',
+        infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
       },
     ],
     'Other': [
@@ -17829,13 +17863,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'September 16th, 1973',
+        title: 'Víctor Jara (1932 - 1973)',
+        imgSrc: require('./assets/eventPhotos/Individuals/victorJara.jpg'),
+        description: `Víctor Lidio Jara Martínez was a Chilean teacher, theater director, poet, singer-songwriter and communist political activist. He developed Chilean theater by directing a broad array of works, ranging from locally produced plays to world classics, as well as the experimental work of playwrights such as Ann Jellicoe. He also played a pivotal role among neo-folkloric musicians who established the Nueva Canción Chilena (New Chilean Song) movement. This led to an uprising of new sounds in popular music during the administration of President Salvador Allende.\n\nJust a few days after the coup that ousted Allende from power, Jara was arrested, tortured, and killed by the dictatorship of Augusto Pincochet. Jara is one of many "desaparecidos", people who vanished under the Pinochet government and were most likely tortured and killed. Thirty-six years after his first burial, he received a full funeral on 3 December 2009 in Santiago.`,
+        link: 'https://en.wikipedia.org/wiki/Nueva_Canci%C3%B3n_Chilena',
+        infoSrc: 'https://en.wikipedia.org/wiki/V%C3%ADctor_Jara'
       },
     ],
     'Other': [
@@ -18094,7 +18128,7 @@ export const eventLibrary = {
         date: 'September 20th, 1878',
         title: 'Upton Sinclair (1878 - 1968)',
         imgSrc: require('./assets/eventPhotos/Individuals/uptonSinclair.jpg'),
-        description: `Upton Beall Sinclair Jr. was an American writer who wrote nearly 100 books and other works in several genres. Sinclair's work was well known and popular in the first half of the 20th century, and he won the Pulitzer Prize for Fiction in 1943. Sinclair was an outspoken socialist, and his books are particularly notable for depicting the scandalous working conditions of the laboring class, particularly in the book "The Jungle".\n\nSinclair was inspired to write "The Jungle" after spending six months researching the Chicago meatpacking industry. He intended to "set forth the breaking of human hearts by a system which exploits the labor of men and women for profit". The novel featured Jurgis Rudkus, a Lithuanian immigrant who works in a meat factory in Chicago, his teenaged wife Ona Lukoszaite, and their extended family. Sinclair portrays their mistreatment by Rudkus' employers and the wealthy. His descriptions of the unsanitary and inhumane conditions that workers suffered served to shock and galvanize readers. Jack London called Sinclair's book "the Uncle Tom's Cabin of wage slavery", and it caused the domestic and foreign purchases of American meat fell by half, leading to federal regulation of the meat industry.\n\nIt is worth noting that Sinclair was a racist. With the income from "The Jungle", he founded the utopian community Helicon Home Colony in Englewood, New Jersey, which excluded black and Jewish people. The colony burned down under suspicious circumstances within a year.\n\nIn the 1920s, Sinclair moved to Monrovia, California (near Los Angeles), where he founded the state's chapter of the American Civil Liberties Union. In 1934, Sinclair ran in the California gubernatorial election as a Democrat. Sinclair's platform, known as the End Poverty in California movement (EPIC), galvanized the support of the Democratic Party. Sinclair gained its nomination, but was defeated by the incumbent Frank Merriam. For his campaign, he was expelled by the Socialist Party, which forbid members from being active within other parties.`,
+        description: `Upton Beall Sinclair Jr. was an American writer who wrote nearly 100 books and other works in several genres. Sinclair was an outspoken socialist, and his books are particularly notable for depicting the scandalous working conditions of the laboring class, particularly in the book "The Jungle".\n\nSinclair was inspired to write "The Jungle" after spending six months researching the Chicago meatpacking industry. His descriptions of the unsanitary and inhumane conditions that workers suffered served to shock and galvanize readers. Jack London called Sinclair's book "the Uncle Tom's Cabin of wage slavery", and it caused the domestic and foreign purchases of American meat fell by half, leading to federal regulation of the meat industry.\n\nIt is worth noting that Sinclair was a racist. With the income from "The Jungle", he founded the utopian community Helicon Home Colony in Englewood, New Jersey, which excluded black and Jewish people. The colony burned down under suspicious circumstances within a year.\n\nIn the 1920s, Sinclair moved to Monrovia, California (near Los Angeles), where he founded the state's chapter of the American Civil Liberties Union. In 1934, Sinclair ran in the California gubernatorial election as a Democrat. Sinclair's platform, known as the End Poverty in California movement (EPIC), galvanized the support of the Democratic Party. Sinclair gained its nomination, but was defeated by the incumbent Frank Merriam.`,
         link: 'https://en.wikipedia.org/wiki/Upton_Sinclair',
         infoSrc: 'https://en.wikipedia.org/wiki/Upton_Sinclair'
       },
@@ -18103,7 +18137,7 @@ export const eventLibrary = {
         date: 'September 20th, 1758',
         title: 'Jean-Jacques Dessalines (1758 - 1806)',
         imgSrc: require('./assets/eventPhotos/Individuals/jacquesDessalines.jpg'),
-        description: `Jean-Jacques Dessalines was a leader of the Haitian Revolution and the first ruler of an independent Haiti under the 1805 constitution. Under Dessalines, Haiti became the first country in the Americas to permanently abolish slavery.\n\nThe Haitian Revolution was the only slave uprising that led to the founding of a state which was both free from slavery and ruled by non-whites and former captives. Initially regarded as governor-general, Dessalines was later named Emperor of Haiti as Jacques I (1804–1806) by the generals of the Haitian Revolution Army. He is regarded as one of the founding fathers of Haiti.\n\nDessalines was born a slave and was not free until the slave uprising of 1791. As the slave rebellions developed into a revolutionary movement, he served as principal lieutenant to the movement's leader, Toussaint Louverture, helping lead the Haitian armies to many victories in battle over the French. After Louverture's betrayal and death, Dessalines became the leader of the Haitian Revolution in 1802, eventually leading the colony to its independence. In 1804, he ordered mass killings of all the French remaining on the island, leading to the deaths of 3000-5000 French people of all ages and sexes.\n\nAfter achieving freedom from France, Dessalines imposed a strict regimen of labor on the Haitian population, leading to widespread resentment of his rule. Eventually, he was assassinated by his own people in 1806, leading to civil war on the island.`,
+        description: `Jean-Jacques Dessalines was a leader of the Haitian Revolution and the first ruler of an independent Haiti under the 1805 constitution. Under Dessalines, Haiti became the first country in the Americas to permanently abolish slavery.\n\nThe Haitian Revolution was the only slave uprising that led to the founding of a state which was both free from slavery and ruled by non-whites and former captives. Initially regarded as governor-general, Dessalines was later named Emperor of Haiti as Jacques I (1804–1806) by the generals of the Haitian Revolution Army. He is regarded as one of the founding fathers of Haiti.\n\nAs the slave rebellions developed into a revolutionary movement, he served as principal lieutenant to the movement's leader, Toussaint Louverture, helping lead the Haitian armies to many victories in battle over the French.\n\nAfter Louverture's betrayal and death, Dessalines became the leader of the Haitian Revolution in 1802, eventually leading the colony to its independence. In 1804, he ordered mass killings of all the French remaining on the island, leading to the deaths of 3000-5000 French people of all ages and sexes.\n\nAfter achieving freedom from France, Dessalines imposed a strict regimen of labor on the Haitian population, leading to widespread resentment of his rule. Eventually, he was assassinated by his own people in 1806, leading to civil war on the island.`,
         link: 'https://en.wikipedia.org/wiki/Haitian_Revolution',
         infoSrc: 'https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines'
       },
@@ -18783,7 +18817,7 @@ export const eventLibrary = {
         date: 'September 30th, 1933*',
         title: 'Michael Parenti (1933 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/michaelParenti.jpg'),
-        description: `*this birth date is unconfirmed\n\nMichael John Parenti (born 1933) is an American political scientist and cultural critic. He has taught at American and international universities and has been a guest lecturer before campus and community audiences.\n\nParenti is particularly notable for his scholarly work "Blackshirts & Reds: Rational Fascism and the Overthrow of Communism", which details political and living conditions in the Soviet Bloc, and "To Kill a Nation: The Attack on Yugoslavia", which vehemently condemned the NATO bombing of the country.`,
+        description: `*This exact day of birth is still unconfirmed\n\nMichael John Parenti (born 1933) is an American political scientist and cultural critic. He has taught at American and international universities and has been a guest lecturer before campus and community audiences.\n\nParenti is particularly notable for his scholarly work "Blackshirts & Reds: Rational Fascism and the Overthrow of Communism", which details political and living conditions in the Soviet Bloc, and "To Kill a Nation: The Attack on Yugoslavia", which vehemently condemned the NATO bombing of the country.`,
         link: 'http://www.michaelparenti.org/',
         infoSrc: 'https://en.wikipedia.org/wiki/Michael_Parenti'
       },
@@ -19191,7 +19225,7 @@ export const eventLibrary = {
         date: 'October 6th, 1917',
         title: 'Fannie Lou Hamer (1917 - 1977)',
         imgSrc: require('./assets/eventPhotos/Individuals/fannieLouHamer.jpg'),
-        description: `Fannie Lou Hamer was an American voting and women's rights activist, community organizer, and a leader in the civil rights movement. She was the co-founder and vice-chair of the Freedom Democratic Party, which she represented at the 1964 Democratic National Convention. Hamer also organized Mississippi's Freedom Summer along with the Student Nonviolent Coordinating Committee (SNCC). She was also a co-founder of the National Women's Political Caucus, an organization created to recruit, train, and support women of all races who wish to seek election to government office.\n\nWhile having surgery in 1961 to remove a tumor, 44-year-old Hamer was also given a hysterectomy without consent by a white doctor; this was a frequent occurrence under Mississippi's compulsory sterilization plan to reduce the number of poor blacks in the state. Hamer is credited with coining the phrase "Mississippi appendectomy" as a euphemism for the involuntary or uninformed sterilization of black women, common in the South in the 1960s.\n\nHamer began civil rights activism in 1962, continuing until her health declined nine years later. She was known for her use of spiritual hymnals and quotes and her resilience in leading the civil rights movement for black women in Mississippi. She was extorted, threatened, harassed, shot at, and assaulted by white supremacists and police while trying to register for and exercise her right to vote. She later helped and encouraged thousands of African-Americans in Mississippi to become registered voters, and helped hundreds of disenfranchised people in her area through her work in programs like the Freedom Farm Cooperative, which she formed to subvert state oppression of black people in the agricultural industry.`,
+        description: `Fannie Lou Hamer was an American voting and women's rights activist, community organizer, and a leader in the civil rights movement. She was the co-founder and vice-chair of the Freedom Democratic Party, which she represented at the 1964 Democratic National Convention. She was also a co-founder of the National Women's Political Caucus, an organization created to recruit, train, and support women of all races who wish to seek election to government office.\n\nWhile having surgery in 1961 to remove a tumor, 44-year-old Hamer was also given a hysterectomy without consent by a white doctor; this was a frequent occurrence under Mississippi's compulsory sterilization plan to reduce the number of poor blacks in the state. Hamer is credited with coining the phrase "Mississippi appendectomy" as a euphemism for the involuntary or uninformed sterilization of black women, common in the South in the 1960s.\n\nHamer was extorted, threatened, harassed, shot at, and assaulted by white supremacists and police while trying to register for and exercise her right to vote. She later helped and encouraged thousands of African-Americans in Mississippi to become registered voters, and helped hundreds of disenfranchised people in her area through her work in programs like the Freedom Farm Cooperative, which she formed to subvert state oppression of black people in the agricultural industry.`,
         link: 'https://en.wikipedia.org/wiki/Fannie_Lou_Hamer',
         infoSrc: 'https://en.wikipedia.org/wiki/Fannie_Lou_Hamer'
       },
@@ -19259,7 +19293,7 @@ export const eventLibrary = {
         date: 'October 7th, 1967',
         title: 'Michelle Alexander (1967 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/michelleAlexander.jpg'),
-        description: `Michelle Alexander is a writer, civil rights advocate, and visiting professor at Union Theological Seminary. She is best known for her 2010 book "The New Jim Crow: Mass Incarceration in the Age of Colorblindness" and is an opinion columnist for The New York Times.\n\nIn "The New Jim Crow", Alexander describes how oppressed minorities are "subject to legalized discrimination in employment, housing, public benefits, and jury service, just as their parents, grandparents, and great-grandparents once were". Alexander also illustrates how people "whose only crime is drug addiction or possession of a small amount of drugs for recreational use" find themselves permanently locked out of the mainstream society and the racial biases of how the drug war is waged.`,
+        description: `Michelle Alexander is a writer, civil rights advocate, and visiting professor at Union Theological Seminary. She is best known for her 2010 book "The New Jim Crow: Mass Incarceration in the Age of Colorblindness" and is an opinion columnist for The New York Times.\n\nIn "The New Jim Crow", Alexander describes how oppressed minorities are "subject to legalized discrimination in employment, housing, public benefits, and jury service, just as their parents, grandparents, and great-grandparents once were". Alexandar also demonstrates how people "whose only crime is drug addiction or possession of a small amount of drugs for recreational use" find themselves permanently locked out of the mainstream society, as well as the racial biases of how the drug war has been waged.`,
         link: 'https://www.americanswhotellthetruth.org/portraits/michelle-alexander',
         infoSrc: 'https://en.wikipedia.org/wiki/Michelle_Alexander'
       },
@@ -19810,13 +19844,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'October 15th, 1987',
+        title: 'Thomas Sankara (1949 - 1987)',
+        imgSrc: require('./assets/eventPhotos/Individuals/thomasSankara.jpg'),
+        description: `Thomas Sankara was a Burkinabé revolutionary and President of Burkina Faso from 1983 to 1987. A Marxist–Leninist and pan-Africanist, he was viewed by supporters as a charismatic and iconic figure of revolution and is sometimes referred to as "Africa's Che Guevara".\n\nSankara came into power when allies instigated a coup on his behalf in 1983. He immediately launched programmes for social, ecological and economic change and renamed the country from the French colonial name Upper Volta to Burkina Faso ("Land of Incorruptible People"), with its people being called Burkinabé ("upright people").\n\nHis administration was known for refusing all foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literarcy, women's rights, and public health.\n\nOn 15 October 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
+        link: 'http://www.thomassankara.net/26-years-ago-thomas-sankara-was-assassinated-circumstances-yet-to-be-clarified-but-an-ever-growing-popularity/?lang=en',
+        infoSrc: 'https://en.wikipedia.org/wiki/Thomas_Sankara'
       },
     ],
     'Other': [
@@ -20082,13 +20116,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'October 19th, 1983',
+        title: 'Maurice Bishop (1944 - 1983)',
+        imgSrc: require('./assets/eventPhotos/Individuals/mauriceBishop.jpg'),
+        description: `Maurice Rupert Bishop was a Grenadian revolutionary and the leader of New Jewel Movement – popular efforts in the areas of socio-economic development, education, and black liberation. Bishop headed the People's Revolutionary Government of Grenada from 1979 to 1983, when he was dismissed from his post and shot in a coup, leading to civil unrest and a US invasion of the country.\n\nAlthough Bishop grew up in Grenada, he left to study in London as a young adult. While there, Bishop acquired a law degree and studied the works of Lenin, Mao Zedong, and Julius Nyerere.\n\nIn 1970, he returned to Grenada and was active politically, representing striking nurses in court and leading the "New Jewel Movement", which ultimately put him in power. In 1979, the New Jewel Movement successfully led a coup against Eric Gairy and made Bishop the Prime Minister of Grenada.\n\nAmong Bishop's core principles were workers' rights, women's rights, and the struggle against racism and apartheid. Women were given equal pay and paid maternity leave, and sex discrimination was made illegal. Organisations for education, health care, youth affairs, and literacy were also established. Due to his efforts, illiteracy and unemployment greatly declined.\n\nIn 1983, disputes within the party culminated in Bishop, along with seven members of his cabinet, being captured and executed. After his assassination, the Organization of Eastern Caribbean States (OECS) and Grenada's governor-general Paul Scoon appealed to the United States for help. Within the month, Ronald Reagan launched an invasion of Grenada.`,
+        link: 'https://www.zinnedproject.org/news/tdih/grenada-revolution/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Maurice_Bishop'
       },
     ],
     'Other': [
@@ -21385,8 +21419,8 @@ export const eventLibrary = {
         date: 'November 7th, 1879',
         title: 'Leon Trotsky (1879 - 1940)',
         imgSrc: require('./assets/eventPhotos/Individuals/leonTrotsky.jpg'),
-        description: `Leon Trotsky was a Soviet revolutionary, Marxist theorist and politician whose particular strain of Marxist thought is known as Trotskyism. Key characteristics of Trotskyist thought include the concepts of "Permanent Revolution" and the "United Front" of revolutionaries and reformers against common enemies.\n\nTrotsky joined the Bolshevik Party a few weeks before the October Revolution, thus immediately becoming a leader within the party, and was one of the leaders of the October Revolution. Trotsky became more prominent from March 1918 to January 1925 as the leader of the Red Army in the post of Commissar for Military and Naval Affairs. Trotsky was a vital leading figure in the Red victory in the Russian Civil War. He was one of the seven members of the first Politburo.\n\nAfter the rise of Joseph Stalin, Trotsky was removed from his positions and eventually expelled from the Soviet Union in February 1929. He spent the rest of his life in exile, and was assassinated in 1940 in Mexico City by Ramón Mercader, a Soviet agent.`,
-        link: 'https://en.wikipedia.org/wiki/Leon_Trotsky',
+        description: `Leon Trotsky was a Soviet revolutionary, Marxist theorist and politician whose particular strain of Marxist thought is known as Trotskyism. Key characteristics of Trotskyist thought include the concepts of "Permanent Revolution" and the "United Front" of revolutionaries and reformers against common enemies.\n\nTrotsky joined the Bolshevik Party a few weeks before the October Revolution and immediately became a leader within the party, thus also playing a key role in the October Revolution. Trotsky became more prominent from March 1918 to January 1925 as the leader of the Red Army in the post of Commissar for Military and Naval Affairs. He was also a vital leading figure in the Red victory in the Russian Civil War and one of the seven members of the first Politburo.\n\nAfter the rise of Joseph Stalin, Trotsky was removed from his positions and eventually expelled from the Soviet Union in February 1929. He spent the rest of his life in exile, and was assassinated in 1940 in Mexico City by Ramón Mercader, a Soviet agent.`,
+        link: 'https://www.britannica.com/biography/Leon-Trotsky',
         infoSrc: 'https://en.wikipedia.org/wiki/Leon_Trotsky'
       },
       {
@@ -22410,13 +22444,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'November 22nd, 1906',
+        title: 'Antonio Guiteras (1906 - 1935)',
+        imgSrc: require('./assets/eventPhotos/Individuals/antonioGuiteras.jpg'),
+        description: `Antonio Guiteras y Holmes was a revolutionary socialist in Cuba during the 1930s.\n\nBorn in Bala Cynwyd, Pennsylvania, USA, he participated in the radical government installed after the overthrow of the autocratic right wing Cuban President Gerardo Machado y Morales in 1933. He first became widely known as a student leader and associate of Julio Antonio Mella, a Cuban Communist revolutionary.\n\nAccording to the New York Times, Guiteras died in a firefight while trying to flee the country of Cuba.`,
+        link: 'https://en.wikipedia.org/wiki/Antonio_Guiteras',
+        infoSrc: 'http://www.latinamericanstudies.org/cuba-news/guiteras.htm'
       },
     ],
     'Assassinations': [
@@ -23237,13 +23271,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'December 4th, 1969',
+        title: 'Fred Hampton (1948 - 1969)',
+        imgSrc: require('./assets/eventPhotos/Individuals/fredHampton.jpg'),
+        description: `Fredrick Allen Hampton was an American activist and revolutionary socialist. He came to prominence in Chicago as chairman of the Illinois chapter of the Black Panther Party (BPP), and deputy chairman of the national BPP. In this capacity, he founded a prominent multicultural political organization, the Rainbow Coalition that initially included the Black Panthers, Young Patriots and the Young Lords, and an alliance among major Chicago street gangs to help them end infighting, and work for social change.\n\nIn 1967, Hampton was identified by the Federal Bureau of Investigation as a radical threat. The FBI tried to subvert his activities in Chicago, sowing disinformation among these groups and placing a counterintelligence operative in the local Panthers. In December 1969, Hampton was assassinated in his bed during a predawn raid at his Chicago apartment by a tactical unit of the Cook County State's Attorney's Office in conjunction with the Chicago Police Department and the Federal Bureau of Investigation; during the raid, another Panther was killed and several seriously wounded.\n\nAt a press conference the next day, the police announced the arrest team had been attacked by the "violent" and "extremely vicious" Panthers and had defended themselves accordingly. In a second press conference on December 8, the police leadership praised the assault team for their "remarkable restraint", "bravery", and "professional discipline" in not killing all the Panthers present. Photographic evidence was presented of bullet holes allegedly made by shots fired by the Panthers, but this was soon challenged by reporters. It was later found that all but one of nearly 100 shots were fired by police.\n\nHis death was ruled a justified homicde at the time, although a civil lawsuit filed on behalf of the survivors and the relatives of Hampton and Clark won $1.85 million dollars in damages in 1982.`,
+        link: 'https://www.zinnedproject.org/materials/assassination-of-fred-hampton',
+        infoSrc: 'https://en.wikipedia.org/wiki/Fred_Hampton'
       },
     ],
     'Other': [
@@ -24396,7 +24430,7 @@ export const eventLibrary = {
         title: 'Thomas Sankara (1949 - 1987)',
         imgSrc: require('./assets/eventPhotos/Individuals/thomasSankara.jpg'),
         description: `Thomas Sankara was a Burkinabé revolutionary and President of Burkina Faso from 1983 to 1987. A Marxist–Leninist and pan-Africanist, he was viewed by supporters as a charismatic and iconic figure of revolution and is sometimes referred to as "Africa's Che Guevara".\n\nSankara came into power when allies instigated a coup on his behalf in 1983. He immediately launched programmes for social, ecological and economic change and renamed the country from the French colonial name Upper Volta to Burkina Faso ("Land of Incorruptible People"), with its people being called Burkinabé ("upright people").\n\nHis administration was known for refusing all foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literarcy, women's rights, and public health.\n\nOn 15 October 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
-        link: 'https://en.wikipedia.org/wiki/Thomas_Sankara',
+        link: 'http://www.thomassankara.net/',
         infoSrc: 'https://en.wikipedia.org/wiki/Thomas_Sankara'
       },
     ],
