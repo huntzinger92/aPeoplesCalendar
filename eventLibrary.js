@@ -2580,13 +2580,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 6th, 1919',
+        title: 'Seattle General Strike (1919)',
+        imgSrc: require('./assets/eventPhotos/Events/seattleGeneralStrike.jpg'),
+        description: `The Seattle General Strike of 1919 was a five-day general work stoppage by more than 65,000 workers in the city of Seattle, Washington from February 6 to 11. Dissatisfied workers in several unions began the strike to gain higher wages after two years of World War I wage controls. Government officials, the press, and much of the public viewed the strike as a radical attempt to subvert American institutions.\n\nDuring the strike, a cooperative body made up of rank and file workers from all the striking locals was formed, called the General Strike Committee. It acted as a "virtual counter-government for the city." The committee organized to provide essential services for the people of Seattle during the work stoppage. A system of food distribution was also established, which distributed as many as 30,000 meals each day.\n\nArmy veterans created an alternative to the police in order to maintain order. A group called the "Labor War Veteran's Guard" forbade the use of force and did not carry weapons, and used "persuasion only." Major General John F. Morrison, stationed in Seattle, claimed that he had never seen "a city so quiet and orderly."\n\nImmediately following the general strike's end, thirty-nine IWW members were arrested as "ringleaders of anarchy", despite their playing a marginal role in the development of events.`,
+        link: 'http://depts.washington.edu/labhist/strike/index.shtml',
+        infoSrc: 'https://en.wikipedia.org/wiki/Seattle_General_Strike'
       },
     ],
     'Birthdays': [
@@ -2727,13 +2727,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 8th, 1805',
+        title: 'Auguste Blanqui (1805 - 1881)',
+        imgSrc: require('./assets/eventPhotos/Individuals/louisBlanqui.jpg'),
+        description: `Louis Auguste Blanqui was a French socialist and political activist, notable for his revolutionary theory of Blanquism and being elected president of the Paris Commune while imprisoned.\n\nBlanqui was a non-Marxist socialist who believed in immediate, violent revolution to overturn the capitalist order. Because of his unrelenting radicalism, he spent 33 years of his life in prison, leading to the nickname "l’enfermé", or "the locked-up one".`,
+        link: 'https://en.wikipedia.org/wiki/Blanquism',
+        infoSrc: 'https://www.britannica.com/biography/Auguste-Blanqui'
       },
     ],
     'Assassinations': [
@@ -3464,13 +3464,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 19th, 1910',
+        title: 'Philadelphia General Strike (1910)',
+        imgSrc: require('./assets/eventPhotos/Events/philadelphiaGeneralStrike.jpg'),
+        description: `The General Strike of 1910 was a labor strike by trolley workers of the Philadelphia Rapid Transit Company (PRT) that grew to a citywide riot and general strike in Philadelphia, Pennsylvania.\n\nOn February 19, 1910, PRT fired 173 workers, all of them members of the union, "for the good of the service" and hired replacement workers from New York City. Immediately after the firings, the union leadership ordered the strike, taking their respective trolley cars off the streets effective at 1:00 that afternoon.\n\nWith the union threatening a general strike to hobble the city if strike breakers were brought in, PRT brought in 600 strike breakers, while denying they had done so. The final straw for calling a general strike was the National Guard entering the city to provide protection for PRT's few remaining workers. Members of other unions throughout the city saw this as a clear signal that the city and state governments were uniting in favor of the companies against the unions, and the entire city began a general strike.\n\nThe tactic was successful, and eventually brought PRT to the negotiating table.`,
+        link: 'https://en.wikipedia.org/wiki/Philadelphia_general_strike_(1910)',
+        infoSrc: 'https://en.wikipedia.org/wiki/Philadelphia_general_strike_(1910)'
       },
     ],
     'Birthdays': [
@@ -4568,13 +4568,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'March 6th, 1984',
+        title: "UK Miners' Strike (1984-85)",
+        imgSrc: require('./assets/eventPhotos/Events/britishMinersStrike.jpg'),
+        description: `The miners' strike of 1984-85 was a major industrial action to shut down the British coal industry in an attempt to prevent colliery closures. It was led by Arthur Scargill of the National Union of Mineworkers (NUM) against the National Coal Board (NCB), a government agency. Opposition to the strike was led by the Conservative government of Prime Minister Margaret Thatcher, who wanted to reduce the power of the trade unions.\n\nThe BBC called it "the most bitter industrial dispute in British history". The number of person-days of work lost to the strike was over 26 million, making it the largest since the 1926 general strike.labor The journalist Seumas Milne said of the strike, "it has no real parallel – in size, duration and impact – anywhere in the world"`,
+        link: 'http://news.bbc.co.uk/onthisday/hi/dates/stories/march/12/newsid_3503000/3503346.stm',
+        infoSrc: 'https://en.wikipedia.org/wiki/UK_miners%27_strike_(1984%E2%80%9385)'
       },
     ],
     'Birthdays': [
@@ -7501,13 +7501,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'April 18th, 1912',
+        title: 'Paint Creek Strike (1912)',
+        imgSrc: require('./assets/eventPhotos/Events/paintCreek.png'),
+        description: `The Paint Creek–Cabin Creek Strike was a confrontation between striking coal miners and coal operators in Kanawha County, West Virginia, centered on the area enclosed by two streams, Paint Creek and Cabin Creek. It is considered part of the "Coal Wars", a series of armed conflicts between workers and coal companies from the 1890s - 1930s.\n\nThe strike lasted from April 18, 1912 through July 1913 and over 5,000 workers participated. The confrontation directly caused perhaps fifty violent deaths, as well as many more deaths indirectly caused by starvation and malnutrition among the striking miners. In terms of casualties, it counts among the worst conflicts in American labor union history.`,
+        link: 'https://www.wvencyclopedia.org/articles/1798',
+        infoSrc: 'https://en.wikipedia.org/wiki/Paint_Creek%E2%80%93Cabin_Creek_strike_of_1912'
       },
     ],
     'Birthdays': [
@@ -8385,13 +8385,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 1st',
+        title: 'May Day',
+        imgSrc: require('./assets/eventPhotos/Events/mayDay.jpg'),
+        description: `International Workers' Day, also known as labor Day or May Day, is a celebration of laborers and the working classes that is promoted by the international labor movement, and occurs every year on May 1st. The date was chosen in 1889 by the Marxist International Socialist Congress to commemorate a notable campaign for the eight-hour day, which culminated in the Haymarket Affair in Chicago on May 4th, 1886. May Day subsequently became an annual event.\n\nThis campaign for the eight-hour day began as a general strike on May 1st, 1886. On May 4th, the police acted to disperse a public assembly in support of the strike when an unidentified person threw a bomb. The police responded by firing on the workers. The ensuing violence led to the deaths of seven police officers, four to eight civilians, and wounded approximately one hundred people on either side.\n\nHundreds of labor leaders and sympathizers were later rounded-up and four were executed by hanging, after a trial that was perceived as a miscarriage of justice. The following day in Milwaukee Wisconsin, state militia fired on a crowd of strikers killing seven, including a schoolboy and a man feeding chickens in his yard.`,
+        link: 'https://archive.iww.org/history/library/misc/origins_of_mayday/',
+        infoSrc: 'https://en.wikipedia.org/wiki/International_Workers%27_Day'
       },
     ],
     'Birthdays': [
@@ -8589,13 +8589,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 4th, 1886',
+        title: 'The Haymarket Affair (1886)',
+        imgSrc: require('./assets/eventPhotos/Events/haymarketAffair.jpg'),
+        description: `The Haymarket affair (also known as the Haymarket massacre, Haymarket riot, or Haymarket Square riot) was the aftermath of a bombing that took place at a labor demonstration on May 4, 1886, at Haymarket Square in Chicago.\n\nIt began as a peaceful rally in support of workers striking for an eight-hour work day, the day after police killed one and injured several workers. After police began trying to disperse the rally, an unknown person threw a dynamite bomb at the police. The bomb blast and ensuing gunfire resulted in the deaths of seven police officers, four to eight civilians, and wounded approximately one hundred people on either side.\n\nIn the internationally publicized legal proceedings that followed, eight anarchists were convicted of conspiracy. Seven were sentenced to death and one to a term of 15 years in prison. Illinois Governor Richard J. Oglesby commuted two of the sentences to terms of life in prison; another committed suicide in jail rather than face the gallows. The other four were hanged on November 11, 1887.\n\nAmong supporters of the labor movement in the United States and abroad and others, the trial was widely believed to have been unfair, and even a serious miscarriage of justice. The Haymarket Affair was commemorated by the creation of the holiday "May Day", which honors the struggles of the working classes and is celebrated on May 1st of every year.`,
+        link: 'https://en.wikipedia.org/wiki/Haymarket_affair',
+        infoSrc: 'https://www.britannica.com/event/Haymarket-Affair'
       },
     ],
     'Birthdays': [
@@ -8657,13 +8657,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 5th, 1931',
+        title: 'Battle of Evarts (1931)',
+        imgSrc: require('./assets/eventPhotos/Events/battleOfEvarts.jpg'),
+        description: `The Battle of Evarts occurred in Harlan, Kentucky during the Harlan County Wars. The coal miners went on strike for improved working conditions, higher wages, and more housing options for their families.\n\nThe titular battle began when armed miners confronted a motorcade of supplies being delivered to scabs. The shooting only lasted 15 minutes, but killed four people, including Jim Daniels, one of the most hated anti-union deputies in the county, and wounded several more.\n\nThe strike ended when the Kentucky National Guard was called in to put an end to the violence.`,
+        link: 'https://en.wikipedia.org/wiki/Battle_of_Evarts',
+        infoSrc: 'https://parallelnarratives.com/remembering-bloody-harlan/'
       },
     ],
     'Birthdays': [
@@ -8672,7 +8672,7 @@ export const eventLibrary = {
         date: 'May 5th, 1818',
         title: 'Karl Marx (1818 - 1883)',
         imgSrc: require('./assets/eventPhotos/Individuals/karlMarx.jpg'),
-        description: `Born in Trier, Germany, Marx studied law and philosophy at university. His best-known works are the 1848 pamphlet, The Communist Manifesto, and the three-volume Das Kapital (1867–1883). His political and philosophical thought had enormous influence on subsequent intellectual, economic and political history, and his name has been used as an adjective, a noun and a school of social theory.\n\nMarx's critical theories about society, economics and politics – collectively understood as Marxism – hold that human societies develop through class conflict. In capitalism, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour power in return for wages. \n\nEmploying a critical approach known as historical materialism, Marx predicted that, like previous socio-economic systems, capitalism produced internal tensions which would lead to its self-destruction and replacement by a new system known as socialism.`,
+        description: `Born in Trier, Germany, Marx studied law and philosophy at university. His best-known works are the "The Communist Manifesto" and the three-volume "Das Kapital". His political and philosophical thought had enormous influence on subsequent intellectual, economic and political history, and his name has been used as an adjective, a noun and a school of social theory.\n\nMarx's critical theories about society, economics and politics – collectively understood as Marxism – hold that human societies develop through class conflict. In capitalism, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labor power in return for wages. \n\nEmploying a critical approach known as historical materialism, Marx predicted that, like previous socio-economic systems, capitalism produced internal tensions which would lead to its self-destruction and replacement by a new system known as socialism.`,
         link: 'https://en.wikipedia.org/wiki/Karl_Marx',
         infoSrc: 'https://en.wikipedia.org/wiki/Karl_Marx'
       },
@@ -8938,13 +8938,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 9th, 1934',
+        title: 'West Coast Waterfront Strike (1934)',
+        imgSrc: require('./assets/eventPhotos/Events/waterfrontStrike.jpg'),
+        description: `In the spring and summer of 1934, over 12,000 longshoremen on the West Coast of the United States went out on strike from their waterfront jobs for 83 days. The ranks of longshoremen were soon strengthened by the other craft workers in the marine industries, including sailors, engineers, firemen, and more.\n\nAt its height, almost 35,000 West Coast maritime workers participated in the strike, and, for four days in July, 130,000 workers in San Francisco held a general strike in solidarity with the maritime workers.\n\nThe strike lasted until October of 1934, and labor unions were granted significantly more power over the hiring and working conditions of the docks. During the striking months, nine people were killed, hundreds were arrested, and the clampdown on shipping cost the waterfront employers an estimated $45 million.\n\nThe ILWU continues to recognize "Bloody Thursday" (July 5th, when police officers shot into a crowd of strikers) by shutting down all West Coast ports in honor of all the workers killed by police during the strike.`,
+        link: 'https://en.wikipedia.org/wiki/1934_West_Coast_waterfront_strike',
+        infoSrc: 'https://depts.washington.edu/dock/34strikehistory_intro.shtml'
       },
     ],
     'Birthdays': [
@@ -9083,13 +9083,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 11th, 1894',
+        title: 'Pullman Strike',
+        imgSrc: require('./assets/eventPhotos/Events/pullmanStrike.jpg'),
+        description: `The Pullman Strike was a nationwide railroad strike in the United States that lasted from May 11 to July 20, 1894, and a turning point for US labor law. It pitted the American Railway Union (ARU) against the Pullman Company, the main railroads, and the federal government of the United States under President Grover Cleveland.\n\nThe conflict began in Pullman, Chicago, on May 11 when nearly 4,000 factory employees of the Pullman Company began a wildcat strike in response to recent reductions in wages. After a federal injuction to stop the strike was ignored, 12,000 troops were sent in to forcibly break the strike. All in all, 30 strikers were killed, 57 were wounded, and property damage exceeded $80 million.\n\nThe Pullman Strike was a watershed moment in American labor history - Eugene V. Debs, who led the strike, was arrested and imprisoned, greatly radicalizing his politics, and the political aftermath led President Cleveland to declare "Labor Day" a national holiday in an effort to appease organized labor.`,
+        link: 'https://www.britannica.com/event/Pullman-Strike',
+        infoSrc: 'https://en.wikipedia.org/wiki/Pullman_Strike'
       },
     ],
     'Birthdays': [
@@ -9366,13 +9366,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 15th, 1891*',
+        title: 'Sid Hatfield (1891? - 1921)',
+        imgSrc: require('./assets/eventPhotos/Individuals/sidHatfield.jpg'),
+        description: `*1891 or 1893\n\nWilliam "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting Baldwin-Felts Detective Agency.\n\nHe is most know for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occured when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
+        link: 'https://www.wvencyclopedia.org/articles/1576',
+        infoSrc: 'https://en.wikipedia.org/wiki/Sid_Hatfield'
       },
     ],
     'Assassinations': [
@@ -9616,13 +9616,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'May 19th, 1920',
+        title: 'The Battle of Matewan (1920)',
+        imgSrc: require('./assets/eventPhotos/Events/battleOfMatewan.jpg'),
+        description: `The Battle of Matewan (also known as the Matewan massacre) was a shootout in the town of Matewan in Mingo County and the Pocahontas Coalfield mining district, in southern West Virginia. It occurred on May 19, 1920 between local coal miners, including Matewan Police Chief Sid Hatfield, and the Baldwin–Felts Detective Agency.\n\nThe Baldwin-Felts agents had come to Matewan to evict several families from their homes that morning. When they tried to leave, Hatfield confronted the agents and a gunfight broke out, killing ten people, including seven of the Baldwin-Felts detectives.\n\nHatfield survived and was immediately regarded as a hero by the coal miners. He was later assassinated while standing trial for murder by other Baldwin-Felts agents, increasing the tensions between coal company workers and owners.`,
+        link: 'https://www.wvencyclopedia.org/articles/1576',
+        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Matewan'
       },
     ],
     'Labor': [
@@ -10399,7 +10399,7 @@ export const eventLibrary = {
         date: 'May 30th, 1814',
         title: 'Mikhail Bakunin (1814 - 1876)',
         imgSrc: require('./assets/eventPhotos/Individuals/mikhailBakunin.jpg'),
-        description: `Mikhail Alexandrovich Bakunin was a Russian revolutionary anarchist and founder of collectivist anarchism. He is considered among the most influential figures of anarchism and a major founder of the social anarchist tradition. Bakunin's prestige as an activist also made him one of the most famous ideologues in Europe, gaining substantial influence among radicals throughout Russia and Europe.\n\nBakunin is remembered as a major figure in the history of anarchism, an opponent of Marxism, especially of the dictatorship of the proletariat, and for his predictions that Marxist regimes would be one-party dictatorships over the proletariat, not by the proletariat. His book, God and the State, has been widely translated and remains in print. Bakunin continues to influence anarchists such as Noam Chomsky.\n\nIt is worth noting that Bakunin espoused anti-Semitic views in some of his works, writing "...and where there is centralisation of the state, there must necessarily be a central bank, and where such a bank exists, the parasitic Jewish nation, speculating with the Labour of the people, will be found."\n\nHis biographer Mark Leier wrote that, "Bakunin had a significant influence on later thinkers, ranging from Peter Kropotkin and Errico Malatesta to the Wobblies and Spanish anarchists in the Civil War to Herbert Marcuse, E.P. Thompson, Neil Postman, and A.S. Neill, down to the anarchists gathered these days under the banner of 'anti-globalization.'"`,
+        description: `Mikhail Alexandrovich Bakunin was a Russian revolutionary anarchist and founder of collectivist anarchism. He is considered among the most influential figures of anarchism and a major founder of the social anarchist tradition. Bakunin's prestige as an activist also made him one of the most famous ideologues in Europe, gaining substantial influence among radicals throughout Russia and Europe.\n\nBakunin is remembered as a major figure in the history of anarchism, an opponent of Marxism, especially of the dictatorship of the proletariat, and for his predictions that Marxist regimes would be one-party dictatorships over the proletariat, not by the proletariat. His book, God and the State, has been widely translated and remains in print. Bakunin continues to influence anarchists such as Noam Chomsky.\n\nIt is worth noting that Bakunin espoused anti-Semitic views in some of his works, writing "...and where there is centralisation of the state, there must necessarily be a central bank, and where such a bank exists, the parasitic Jewish nation, speculating with the labor of the people, will be found."\n\nHis biographer Mark Leier wrote that, "Bakunin had a significant influence on later thinkers, ranging from Peter Kropotkin and Errico Malatesta to the Wobblies and Spanish anarchists in the Civil War to Herbert Marcuse, E.P. Thompson, Neil Postman, and A.S. Neill, down to the anarchists gathered these days under the banner of 'anti-globalization.'"`,
         link: 'https://en.wikipedia.org/wiki/Mikhail_Bakunin',
         infoSrc: 'https://en.wikipedia.org/wiki/Mikhail_Bakunin',
       },
@@ -10860,13 +10860,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 6th, 1835',
+        title: 'Philadelphia General Strike (1835)',
+        imgSrc: require('./assets/eventPhotos/Events/philadelphiaGeneralStrike1.jpg'),
+        description: `The 1835 Philadelphia general strike took place in Philadelphia, Pennsylvania. It was the first general strike in North America and involved some 20,000 workers who struck for a ten-hour workday and increased wages. The strike ended in complete victory for the workers and paved the way for a ten-hour day in the American and European labor movements more broadly.\n\nInfluenced by labor agitation in Boston, in 1835 unskilled Irish workers on the Schuylkill River coal wharves went on strike for a ten-hour day. The coal heavers were soon joined by workers from many other trades, including leather dressers, printers, carpenters, bricklayers, masons, house painters, bakers, and city employees.\n\nOn June 6, a mass meeting of workers, lawyers, doctors, and a few businessmen, was held in the State House courtyard. The meeting unanimously adopted a set of resolutions giving full support to the workers' demand for wage increases and a shorter workday, as well as increased wages for women workers and a boycott of any coal merchant who worked his men more than ten hours.\n\nThe strike quickly came to a close after city public works employees joined the action. The Philadelphia city government announced that the "hours of labor of the working men employed under the authority of the city corporation would be from 'six to six' during the summers season, allowing one hour for breakfast, and one for dinner." On June 22, three weeks after the coal heavers initially struck, the ten-hour system and an increase in wages for piece-workers was adopted in the city.`,
+        link: 'https://journals.psu.edu/pmhb/article/view/30723/30478',
+        infoSrc: 'https://en.wikipedia.org/wiki/1835_Philadelphia_general_strike'
       },
     ],
     'Birthdays': [
@@ -12016,13 +12016,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 23rd, 1947',
+        title: 'Taft-Hartley Act (1947)',
+        imgSrc: require('./assets/eventPhotos/Events/taftHartley.jpg'),
+        description: `The Labor Management Relations Act of 1947, better known as the Taft–Hartley Act, is a United States federal law that restricts the activities and power of labor unions. It was enacted by the 80th United States Congress over the veto of President Harry S. Truman, becoming law on June 23, 1947.\n\nTaft-Hartley was introduced in the aftermath of a major strike wave in 1945 and 1946. Though it was enacted by the Republican-controlled 80th Congress, the law received significant support from congressional Democrats, many of whom joined with their Republican colleagues in voting to override Truman's veto.\n\nThe Taft–Hartley Act prohibits unions from engaging in several "unfair labor practices." Among the practices prohibited by the act are jurisdictional strikes, wildcat strikes, solidarity or political strikes, secondary boycotts, secondary and mass picketing, closed shops, and monetary donations by unions to federal political campaigns. The NLRA also allowed states to pass right-to-work laws banning union shops.`,
+        link: 'https://jacobinmag.com/2017/12/taft-hartley-unions-right-to-work',
+        infoSrc: 'https://en.wikipedia.org/wiki/Taft%E2%80%93Hartley_Act'
       },
     ],
     'Birthdays': [
@@ -12288,13 +12288,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 27th, 1905',
+        title: 'Founding of the IWW',
+        imgSrc: require('./assets/eventPhotos/Organizations/IWW.png'),
+        description: `The Industrial Workers of the World (IWW), members of which are commonly termed "Wobblies", is an international labor union that was founded in 1905 in Chicago, Illinois, in the United States. The IWW promotes the concept of "One Big Union", and contends that all workers should be united as a social class to supplant capitalism and wage labor with industrial democracy.\n\nThe IWW was officially founded in Chicago, Illinois in June 1905. A convention was held of 200 socialists and radical trade unionists from all over the United States who strongly opposed the policies of the American Federation of Labor (AFL). The IWW opposed the American Federation of Labor's acceptance of capitalism and its refusal to include unskilled workers in craft unions.\n\nThe IWW's founders included many historically important labor activists and socialist thinkers, including Big Bill Haywood, James Connolly, Daniel De Leon, Eugene V. Debs, Thomas Hagerty, Lucy Parsons, Mary Harris "Mother" Jones, Frank Bohn, William Trautmann, Vincent Saint John, Ralph Chaplin, and others.`,
+        link: 'https://iww.org/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World'
       },
     ],
     'Birthdays': [
@@ -13471,13 +13471,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 14th, 1877',
+        title: 'The Great Railroad Strike of 1877',
+        imgSrc: require('./assets/eventPhotos/Events/greatRailroadStrike.jpg'),
+        description: `The Great Railroad Strike of 1877 began on July 14 in Martinsburg, West Virginia, after the Baltimore and Ohio Railroad (B&O) cut wages for the third time in a year. This strike finally ended some 69 days later, after it was put down by unofficial militias, the National Guard, and federal troops.\n\nBecause of economic problems and pressure on wages by the railroads, workers in numerous other cities, including New York, Pennsylvania, Maryland, Illinois, and Missouri, also went out on strike.\n\nAn estimated 100 people were killed in the unrest across the country, and more than one hundred million dollars worth of property was damaged. In Martinsburg, Pittsburgh, Philadelphia and other cities, workers burned down and destroyed both physical facilities and the rolling stock of the railroads - engines and railroad cars.\n\nDue to this unrest and other labor efforts, the B&O became the first major employer to offer a pension plan in 1884.`,
+        link: 'https://en.wikipedia.org/wiki/Great_Railroad_Strike_of_1877',
+        infoSrc: 'https://libcom.org/history/1877-the-great-railroad-strike'
       },
     ],
     'Birthdays': [
@@ -13811,13 +13811,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 19th, 1877',
+        title: 'The Pittsburgh Railroad Strike (1877)',
+        imgSrc: require('./assets/eventPhotos/Events/pittsburghRailroadStrike.jpg'),
+        description: `The Pittsburgh railway strike occurred in Pittsburgh, Pennsylvania, as part of the Great Railroad Strike of 1877. It was one of many incidents of strikes, labor unrest and violence in cities across the United States, including several in Pennsylvania. An estimated 53 civilians were killed and 109 were injured. Eight soldiers were killed in clashes, and another 15 were wounded.\n\nThe stirke began on July 19 when one crew, led by Conductor Ryan, sent word that they would not take out their train. Striking workers refused to cede control of the trains to the company, and by midnight up to 1,400 strikers had gathered in the Pennsylvania Railroad rail yards, stopping the movement of some 1,500 cars.\n\nBy the morning of the 21st, it had become clear that many of the Pittsburgh police and local militia had sided with the strikers and were refusing to take action against them. The Pennsylvania National Guard were sent in to forcibly quell the rebellion, and the protest turned into a riot after troops shot into a crowd of people for ten minutes, killing women and children. Rioters began looting, setting fire to the train cars, and exchanged fire with the national guard soldiers.`,
+        link: 'https://www.heinzhistorycenter.org/blog/western-pennsylvania-history/picturing-protest-great-railroad-strike-1877',
+        infoSrc: 'https://en.wikipedia.org/wiki/Pittsburgh_railroad_strike_of_1877'
       },
     ],
     'Birthdays': [
@@ -14015,13 +14015,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 22nd, 1877',
+        title: 'St. Louis General Strike (1877)',
+        imgSrc: require('./assets/eventPhotos/Events/stlGeneralStrike.jpg'),
+        description: `The 1877 St. Louis general strike was one of the first general strikes in the United States. It grew out of the Great Railroad Strike of 1877, which was a national period of strikes and rioting due to economic depression. The St. Louis strike was largely organized by the Knights of Labor and the Marxist-leaning Workingmen's Party, the main radical political party of the era.\n\nIn East St. Louis, Illinois, on July 22, train workers held a secret meeting, resolved to call for an increase in wages, and strike if their demands were not met. The demand was made and rejected that same night, and so, effective at midnight, the strike began in East St. Louis. Within hours, strikers virtually controlled the city.\n\nAlthough the strike was mostly bloodless, the protestors seized the city's Union Depot, stopped freight and some passenger trains from passing through the city, and destroyed much property, including flour mills, sugar refineries, and dismantling over forty factories. The strike ended when the National Guard and U.S. Marshals began to successfully break up demonstrations by force five days later.`,
+        link: 'https://en.wikipedia.org/wiki/1877_St._Louis_general_strike',
+        infoSrc: 'https://www.stltoday.com/news/archives/look-back-250-class-conflict-erupts-on-st-louis-streets-in-1877-general-strike/article_10ecf069-5795-5664-a745-4057509378af.html'
       },
     ],
     'Birthdays': [
@@ -14083,13 +14083,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 23rd, 1877',
+        title: 'Scranton General Strike (1877)',
+        imgSrc: require('./assets/eventPhotos/Events/scrantonStrike.jpg'),
+        description: `The Scranton general strike was a widespread work stoppage in 1877 by workers in Scranton, Pennsylvania, which took place as part of the Great Railroad Strike, and was the last in a number of violent outbreaks across Pennsylvania.\n\nThe strike began on July 23 when railroad workers walked off the job in protest of recent wage cuts and continued into mid-November. By July 26th, it grew to include perhaps thousands of workers from a variety of industries.\n\nViolence erupted on August 1st after angry strikers attacked the town's mayor and then clashed with local militia. The militia shot into the crowd, leaving four dead and many more wounded.\n\nThe next day, state national guard arrived to Scranton and imposed martial law. Comparatively minor acts of violence continued throughout the strike.`,
+        link: 'https://www.nytimes.com/1877/07/25/archives/a-general-strike-at-scranton-the-employes-of-the-lackawanna-iron.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Scranton_general_strike'
       },
     ],
     'Birthdays': [
@@ -14287,13 +14287,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 26th, 1877',
+        title: 'The Chicago Railroad Strike (1877)',
+        imgSrc: require('./assets/eventPhotos/Events/chicagoRailroadStrike.png'),
+        description: `The Chicago railroad strike of 1877 was a series of work stoppages and civil unrest in Chicago, Illinois, which occurred as part of the larger national strikes and rioting of the Great Railroad Strike of 1877.\n\nOn July 24th and 25th various industries began to go on strike, and Chicago's local government prepared for unrest as other cities across the nation grappled with general strikes and rioting. Large crowds, up to 25,000 people, began to gather and demand various labor reforms. On July 26th, violent clashes between protestors and police reached a fever ptich in the "Battle of the Viaduct", police and members of the crowd exchanged gunfire.\n\nBy that evening, the police had successfully dispersed crowds throughout the city. 14 to 30 rioters were dead or dying, and 35 to 100 civilians and 9 to 13 policemen were wounded.`,
+        link: 'http://www.encyclopedia.chicagohistory.org/pages/1037.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Chicago_railroad_strike_of_1877'
       },
     ],
     'Birthdays': [
@@ -14717,13 +14717,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'August 1st, 1921',
+        title: 'Sid Hatfield (1891? - 1921)',
+        imgSrc: require('./assets/eventPhotos/Individuals/sidHatfield.jpg'),
+        description: `William "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting Baldwin-Felts Detective Agency.\n\nHe is most know for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occured when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
+        link: 'https://www.wvencyclopedia.org/articles/1576',
+        infoSrc: 'https://en.wikipedia.org/wiki/Sid_Hatfield'
       },
     ],
     'Other': [
@@ -14831,13 +14831,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 3rd, 1981',
+        title: 'PATCO Strike (1981)',
+        imgSrc: require('./assets/eventPhotos/Events/patcoStrike.jpg'),
+        description: `After negotiations between the union and the FAA broke down, the Professional Air Traffic Controllers Organization (PATCO) declared a strike on August 3, 1981, seeking better working conditions, better pay, and a 32-hour workweek. In striking, the union violated a law which prohibits strikes by federal government employees.\n\nDespite supporting PATCO's effort in his 1980 campaign, Ronald Reagan declared the PATCO strike a "peril to national safety" and ordered them back to work under the terms of the Taft–Hartley Act. Reagan demanded those remaining on strike return to work within 48 hours or officially forfeit their positions.\n\nOnly 1,300 of the nearly 13,000 controllers returned to work. PATCO also disobeyed a federal court injunction ordering an end to the strike and to return to work. On August 5, following the PATCO workers' refusal to return to work, Reagan fired the 11,345 striking air traffic controllers who had ignored the order and banned them from federal service for life. PATCO was also decertified by the Federal Labor Relations Authority a few months later.`,
+        link: 'https://www.wnycstudios.org/podcasts/takeaway/segments/164690-strike-changed-american-labor',
+        infoSrc: 'https://en.wikipedia.org/wiki/Professional_Air_Traffic_Controllers_Organization_(1968)#August_1981_strike'
       },
     ],
     'Birthdays': [
@@ -16334,13 +16334,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'August 25th, 1921',
+        title: 'Battle of Blair Mountain (1921)',
+        imgSrc: require('./assets/eventPhotos/Events/battleOfBlairMountain.jpg'),
+        description: `The Battle of Blair Mountain was the largest labor uprising in United States history and the largest armed uprising since the American Civil War. The conflict occurred in Logan County, West Virginia, as part of the Coal Wars, a series of early-20th-century labor disputes in Appalachia. Up to 100 people were killed, and nearly one thousand miners were arrested on multiple charges, including murder and treason.\n\nFor five days, from late August to early September 1921, some 10,000 armed coal miners confronted 3,000 lawmen and strikebreakers who were backed by coal mine operators during the miners' attempt to unionize the southwestern West Virginia coalfields. The battle ended after approximately one million rounds were fired, aerial bombardment of the miners, and the United States Army, intervening on orders from the president.`,
+        link: 'https://www.history.com/news/americas-largest-labor-uprising-the-battle-of-blair-mountain',
+        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain'
       },
     ],
     'Labor': [
@@ -19618,13 +19618,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'October 12th, 1898',
+        title: 'The Battle of Virden (1898)',
+        imgSrc: require('./assets/eventPhotos/Events/battleOfVirden.jpg'),
+        description: `The Battle of Virden, also known as the Virden Massacre, was a labor union conflict in central Illinois that occurred on October 12, 1898. After a local chapter of the United Mine Workers of America began striking at a mine in Virden, Illinois, the Chicago-Virden Coal Company hired black strikebreakers from Birmingham, Alabama and shipped them to Virden by train.\n\nThe company hired armed detectives or security guards to accompany the strikebreakers. An armed conflict broke out when armed miners surrounded the train as it arrived in town. The detectives shot first, but strikers the were also armed. A total of four detectives and seven striking mine workers were killed, with five guards, thirty miners, and an unrecorded number of strikebreakers wounded.\n\nAfter this incident, Illinois Governor John Tanner ordered the national guard to prevent any more strikebreakers from coming into the state by force. The next month, the Chicago-Virden Coal Company relented and allowed the unionization of its workers.`,
+        link: 'https://en.wikipedia.org/wiki/Battle_of_Virden',
+        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Virden'
       },
     ],
     'Birthdays': [
@@ -21259,13 +21259,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 5th, 1916',
+        title: 'The Everett Massacre (1916)',
+        imgSrc: require('./assets/eventPhotos/Events/everettMassacre.jpg'),
+        description: `The Everett Massacre (also known as Bloody Sunday) was an armed confrontation in Everett, Washington between local authorities and members of the Industrial Workers of the World (IWW) union.\n\nThe Seattle IWW sent three hundred of its members up to Everett to demonstrate in solidarity with striking shingle workers there. Upon arriving at the dock, however, they were greeted by Snohomish County Sheriff McRae and two hundred "citizen deputies", who refused to let them land.\n\nGunfire was exchanged, and at least seven people were killed and forty-three were wounded. Despite this violence, striking workers in Everett continued with their planned demonstration, and were promptly taken to jail by McRae.`,
+        link: 'https://depts.washington.edu/iww/everett_intro.shtml',
+        infoSrc: 'https://en.wikipedia.org/wiki/Everett_massacre'
       },
     ],
     'Birthdays': [
@@ -24769,7 +24769,7 @@ export const eventLibrary = {
         date: 'December 26th, 1893',
         title: 'Mao Zedong (1893 - 1976)',
         imgSrc: require('./assets/eventPhotos/Individuals/maoZedong.jpg'),
-        description: `Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who became the founding father of the People's Republic of China (PRC), which he ruled as the chairman of the Communist Party of China from its establishment in 1949 until his death in 1976. Ideologically a Marxist–Leninist, his theories, military strategies, and political policies are collectively known as Maoism.\n\nA controversial figure, Mao is regarded as one of the most important and influential individuals in modern world history. He is also known as a political intellect, theorist, military strategist, poet, and visionary. During Mao's era, China was involved in the Korean War, the Sino-Soviet split, the Vietnam War, and the rise of Khmer Rouge; in particular, in 1972, Mao welcomed U.S. President Richard Nixon in Beijing, signalling the start of a policy of opening China to the world.\n\nSupporters credit him with driving imperialism out of China, modernising the nation and building it into a world power, promoting the status of women, improving education and health care, as well as increasing life expectancy of the average Chinese citizen.\n\nConversely, his regime has been called autocratic and totalitarian, and condemned for bringing about mass repression and destroying religious and cultural artifacts and sites. It was additionally responsible for vast numbers of deaths with estimates ranging from 30 to 80 million victims through starvation, persecution, prison labour and mass executions.`,
+        description: `Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who became the founding father of the People's Republic of China (PRC), which he ruled as the chairman of the Communist Party of China from its establishment in 1949 until his death in 1976. Ideologically a Marxist–Leninist, his theories, military strategies, and political policies are collectively known as Maoism.\n\nA controversial figure, Mao is regarded as one of the most important and influential individuals in modern world history. He is also known as a political intellect, theorist, military strategist, poet, and visionary. During Mao's era, China was involved in the Korean War, the Sino-Soviet split, the Vietnam War, and the rise of Khmer Rouge; in particular, in 1972, Mao welcomed U.S. President Richard Nixon in Beijing, signalling the start of a policy of opening China to the world.\n\nSupporters credit him with driving imperialism out of China, modernising the nation and building it into a world power, promoting the status of women, improving education and health care, as well as increasing life expectancy of the average Chinese citizen.\n\nConversely, his regime has been called autocratic and totalitarian, and condemned for bringing about mass repression and destroying religious and cultural artifacts and sites. It was additionally responsible for vast numbers of deaths with estimates ranging from 30 to 80 million victims through starvation, persecution, prison labor and mass executions.`,
         link: 'https://en.wikipedia.org/wiki/Mao_Zedong',
         infoSrc: 'https://en.wikipedia.org/wiki/Mao_Zedong'
       },
