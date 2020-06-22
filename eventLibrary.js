@@ -2749,13 +2749,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'February 8th, 1887',
+        title: 'The Dawes Act (1887)',
+        imgSrc: require('./assets/eventPhotos/Events/dawesAct.jpg'),
+        description: `The Dawes Act of 1887 authorized the U.S. to subdivide Native American tribal communal landholdings into allotments for Native American heads of families and individuals. This would convert traditional systems of land tenure into a state-imposed systems of private property by forcing Native Americans to "assume a capitalist and proprietary relationship with property" that did not previously exist in their cultures. The act declared remaining lands after allotment as "surplus" and available for sale, including to non-Natives.\n\nBetween 1887 and 1934, Native Americans "lost control of about 100 million acres of land" or about "two-thirds of the land base they held in 1887" as a result of the act. The loss of land and the break-up of traditional leadership of tribes produced negative cultural and social effects that have since prompted scholars to refer to the act as one of the most destructive U.S. policies for Native Americans in history.`,
+        link: 'https://www.history.com/this-day-in-history/cleveland-signs-the-dawes-severalty-act',
+        infoSrc: 'https://en.wikipedia.org/wiki/Dawes_Act'
       },
     ],
   },
@@ -3640,13 +3640,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'February 21st, 1848',
+        title: 'Communist Manifesto Published (1848)',
+        imgSrc: require('./assets/eventPhotos/Books/communistManifesto.jpg'),
+        description: `On February 21st, 1848, The Communist Manifesto, written by Karl Marx with the assistance of Friedrich Engels, was published in London by a group of German-born revolutionary socialists known as the Communist League.\n\nThe famous political pamphlet actually fell into obscurity on its initial publishing, only becoming influential decades later as Marx became more well-known due to his support for the Paris Commune and leadership in the First International.\n\nIn the Manifesto, Marx and Engels succinctly state the materialist and class-centric conception of history characteristic of Marxism, and call for a forcible overthrow of the existing capitalist order.`,
+        link: 'https://www.marxists.org/archive/marx/works/1848/communist-manifesto/',
+        infoSrc: 'https://www.history.com/this-day-in-history/marx-publishes-manifesto'
       },
     ],
   },
@@ -7330,13 +7330,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Other',
+        date: 'April 15th, 1949',
+        title: 'Pacifica Radio 1st Broadcast (1949)',
         imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `Pacifica Foundation is an American non-profit organization based out of Berkeley, California, which owns five independently operated, non-commercial, listener-supported radio stations.\n\nPacifica Network, operated by the foundation, was the first public radio network in the United States and it is the world's oldest listener-funded radio network. Today, two of its most well-known programs are Democracy Now! and Free Speech Radio News. Its first broadcast was on this day, in 1949.\n\nThe Pacifica Radio Archives, housed at station KPFK in Los Angeles, is the oldest public radio archive in the United States documenting more than five decades of grassroots political, cultural, and performing arts history, including interviews with John Coltrane, James Baldwin, and Langston Hughes.`,
+        link: 'https://pacifica.org/about_history.php',
+        infoSrc: 'https://pacifica.org/'
       },
     ],
   },
@@ -9252,13 +9252,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 13th, 1985',
+        title: 'MOVE Bombing (1985)',
+        imgSrc: require('./assets/eventPhotos/Events/moveBombing.jpg'),
+        description: `In Philadelphia, Pennsylvania, on May 13, 1985, the Philadelphia Police bombed a residential home occupied by the black militant anarcho-primitivist group MOVE, and the Philadelphia Fire Department let the subsequent fire burn out of control following a standoff. The standoff with MOVE, a black liberation organization, was initiated by the Philadelphia police to serve an eviction notice. Ten people, including 4 children, died in the fire.\n\nEyewitnesses claim that the victims were prevented from fleeing the fire by police gunfire upon escape. Police Commissioner Sambor infamously ordered the fire department to "let the fire burn", destroying 65 nearby homes. Althought an investigation found that the law enforcement and fire department actions were negligent, no criminal charges were filed.`,
+        link: 'https://en.wikipedia.org/wiki/1985_MOVE_bombing',
+        infoSrc: 'https://www.theguardian.com/us-news/2020/may/10/move-1985-bombing-reconciliation-philadelphia'
       },
     ],
   },
@@ -10145,13 +10145,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Other',
+        date: 'May 26th, 1938',
+        title: 'House Committee on Un-American Activities (1938)',
         imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On May 26, 1938, the House Committee on Un-American Activities (HUAC) was established as a special investigating committee, reorganized from its previous incarnations as the Fish Committee and the McCormack-Dickstein Committee, to investigate alleged disloyalty and subversive activities on the part of private citizens, public employees, and those organizations suspected of having communist or fascist ties. It became a permenant committee in 1948.\n\nThe HUAC is perhaps most notorious for causing de facto media censorship among artists suspected of having communist sympathies. Blacklisted artists whose careers were damaged by the committee included Charlie Chaplin, Orson Welles, Alan Lomax, Paul Robeson, and Yip Harburg.`,
+        link: 'https://en.wikipedia.org/wiki/House_Un-American_Activities_Committee',
+        infoSrc: 'https://en.wikipedia.org/wiki/House_Un-American_Activities_Committee'
       },
     ],
   },
@@ -10485,13 +10485,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 31st, 1921',
+        title: 'Tulsa Race Massacre (1921)',
+        imgSrc: require('./assets/eventPhotos/Events/tulsaMassacre.jpg'),
+        description: `The Tulsa Race Massacre took place on May 31 and June 1, 1921, when mobs of white residents attacked black residents and businesses of the Greenwood District in Tulsa, Oklahoma. It has been called "the single worst incident of racial violence in American history", with estimates ranging from 75-300 people killed, 800 wounded, and 10,000 black families made homeless from the destruction of property.\n\nThe massacre began over Memorial Day weekend after 19-year-old Dick Rowland, a black shoeshiner, was accused of assaulting Sarah Page, the 17-year-old white elevator operator of the nearby Drexel Building. An armed group of black men showed up to the jail to counter the lynch mob had been formed, and shots rang out as a white member of the mob tried to disarm one of the black men. The initial violence left ten people dead, and a mob of enraged white people stormed black neighborhoods, indiscriminately killing people and destroying property.\n\nFor 75 years (until 1996), the massacre was largely omitted from local, state, and national histories. It was not recognized in the Tulsa Tribune feature of "Fifteen Years Ago Today" or "Twenty-five Years Ago Today", and a 2017 report detailing the history of the Tulsa Fire Department from 1897 until the date of publication makes no mention of the 1921 fire.`,
+        link: 'https://www.nytimes.com/2020/06/19/opinion/tulsa-race-riot-massacre-graves.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Tulsa_race_massacre'
       },
     ],
   },
@@ -11301,13 +11301,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 12th, 1901',
+        title: 'Ratification of the Platt Amendment (1901)',
+        imgSrc: require('./assets/eventPhotos/Events/plattAmendment.jpg'),
+        description: `In 1901, the U.S. refused to withdraw occupying troops from Cuba (leftover from the Spanish-American War) until the seven conditions of the Platt Amendment were ratified in the new Cuban constitution. These conditions defined the terms of Cuban–U.S. relations to be an unequal one of U.S. dominance over Cuba, both politically and economically.\n\nFollowing acceptance of the amendment, the United States ratified a tariff that gave Cuban sugar preference in the U.S. market and protection to select U.S. products in the Cuban market. Over $200 million was spent by American companies on Cuban sugar between 1903 and 1913, and this investment into sugar led to land being concentrated into the hands of the largest sugar mills, with estimates that 20% of all Cuban land was owned by these mills.`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnempire12.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Platt_Amendment'
       },
     ],
   },
@@ -11777,13 +11777,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 19th, 1865',
+        title: 'Juneteenth (1865)',
+        imgSrc: require('./assets/eventPhotos/Events/juneteenth.jpg'),
+        description: `Juneteenth (a portmanteau of June and nineteenth) is a holiday celebrating the emancipation of those who had been enslaved in the United States. Originating in Texas, it is now celebrated annually on the 19th of June throughout the United States, with varying official recognition.\n\nSpecifically, it commemorates Union army general Gordon Granger announcing federal orders in Galveston, Texas, on June 19, 1865, proclaiming that all slaves in Texas were free. Juneteenth is the oldest nationally celebrated commemoration of the ending of slavery in the United States.`,
+        link: 'https://en.wikipedia.org/wiki/Juneteenth',
+        infoSrc: 'https://www.juneteenth.com/history.htm'
       },
     ],
   },
@@ -13504,13 +13504,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'July 14th, 1889',
+        title: 'Second International Founded (1889)',
+        imgSrc: require('./assets/eventPhotos/Organizations/secondInternational.jpg'),
+        description: `The Second International was an organisation of socialist and labour parties formed at a Paris meeting in which delegations from twenty countries participated. The Second International continued the work of the dissolved First International, though excluding the powerful anarcho-syndicalist movement and trade unions.\n\nNotable members included Vladimir Lenin, Rosa Luxemburg, Karl Kautsky, and Jean Jaurès.\n\nAmong the Second International's most famous actions were its 1889 declaration of May 1st as International Workers' Day (also known as Labor Day) and its 1910 declaration of the International Women's Day on the 8th of March, after the main day of the women's marches in 1917 during the Russian Revolution. It also initiated the international campaign for the eight-hour working day.`,
+        link: 'https://www.jacobinmag.com/2017/07/second-international-bernstein-rosa-luxemburg-unions-world-war',
+        infoSrc: 'https://en.wikipedia.org/wiki/Second_International'
       },
     ],
   },
@@ -18010,13 +18010,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 18th, 1918',
+        title: 'Eugene V. Debs Sentencing (1918)',
+        imgSrc: require('./assets/eventPhotos/Events/debsStatement.jpg'),
+        description: `Eugene V. Debs was a prominent labor organizer and socialist politician in early twentieth century America. His speeches critical of the Woodrow Wilson administration and the war earned the enmity of President Woodrow Wilson, who later called Debs a "traitor to his country". On June 16, 1918, Debs made a speech in Canton, Ohio urging resistance to the military draft of World War I. He was arrested on June 30 and charged with ten counts of sedition.\n\nHe was found guilty on September 12th. At his sentencing hearing on the 18th, Debs gave a speech to the court that is now a classic of socialist literature. Here is a short excerpt:\n\n"Your Honor, years ago I recognized my kinship with all living beings, and I made up my mind that I was not one bit better than the meanest on earth. I said then, and I say now, that while there is a lower class, I am in it, and while there is a criminal element I am of it, and while there is a soul in prison, I am not free."`,
+        link: 'https://en.wikipedia.org/wiki/Eugene_V._Debs',
+        infoSrc: 'https://www.marxists.org/archive/debs/works/1918/court.htm'
       },
     ],
   },
@@ -18699,13 +18699,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 28th, 1864',
+        title: 'First International Founded (1864)',
+        imgSrc: require('./assets/eventPhotos/Organizations/firstInternational.png'),
+        description: `The International Workingmen's Association (IWA), often called the First International, was an international organisation which aimed at uniting a variety of different left-wing ideologies and trade unions that were based on the working class and class struggle. It was founded in 1864 in a workmen's meeting held in St. Martin's Hall, London.\n\nNotable members of the IWA included Pierre-Joseph Proudhon, Wilhelm Liebknecht, Louis Auguste Blanqui, Karl Marx, and Mikhail Bakunin. The organization was polarized on the issue of state power (followers of Bakunin and Proudhon categorically opposed state power and considered Marx's ideas inherently authoritarian), and split on this basis after its Fifth Congress in 1872.`,
+        link: 'https://www.marxists.org/archive/steklov/history-first-international/index.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/International_Workingmen%27s_Association'
       },
     ],
   },
@@ -19515,13 +19515,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 10th, 2013',
+        title: 'Socialist Rifle Association Founded (2013)',
+        imgSrc: require('./assets/eventPhotos/Organizations/SRA.png'),
+        description: `The Socialist Rifle Association (SRA) is an American socialist firearm organization that is dedicated to "providing working class people the information they need to be effectively armed for self and community defense".\n\nThe SRA describes the mission of their organization as "to provide an alternate to the mainstream, toxic, right-wing, and non-inclusive gun culture that has dominated the firearms community for decades. We seek to provide a safe, inclusive, and left-leaning platform for talking about gun rights and self defense, free from racist and reactionary prejudices, while providing a platform for the working class to obtain the skills necessary for all aspects of community defense".`,
+        link: 'https://socialistra.org/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Socialist_Rifle_Association'
       },
     ],
   },
