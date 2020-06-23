@@ -13153,7 +13153,7 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'July 9th, 1882',
-        title: 'C. E. Ruthenberg',
+        title: 'C. E. Ruthenberg (1882 - 1927)',
         imgSrc: require('./assets/eventPhotos/Individuals/ceRuthenberg.jpg'),
         description: `Charles Emil Ruthenberg (July 9, 1882 – March 1, 1927) was an American Marxist politician and a founder and head of the Communist Party USA (CPUSA), an organization which still exists today. Ruthenberg was an organizer for and, later, secretary of Local Cuyahoga County from 1909 to 1919. In addition, Ruthenberg contributed material to the official organ of the Socialist Party of Ohio, The Ohio Socialist and edited various socialist newspapers. During this time Ruthenberg traveled to many cities throughout the American Northeast and Midwest, speaking to labor groups, trade union organizations, and anti-war groups, building a network of contacts.\n\nAfter American entry into World War I, Ruthenberg continued to publicly attack the imperialist conflict and America's participation in it. He was charged with violating the Espionage Act, accused of obstructing the draft in connection with a speech given at a rally on May 17, 1917. Shortly after his release from prison, he participated in the 1919 Cleveland May Day march, attended by over 20,000 people. The police attacked the protestors, killing two and injuring hundreds.`,
         link: 'https://www.peoplesworld.org/article/charles-e-ruthenberg-the-first-leader-of-the-communist-party-usa/',
