@@ -274,13 +274,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'January 3rd, 1973',
+        title: 'Ellsberg Charged With Espionage (1973)',
+        imgSrc: require('./assets/eventPhotos/Individuals/danielEllsberg.jpg'),
+        description: `Daniel Ellsberg is an American economist, activist and former United States military analyst who, while employed by the RAND Corporation, precipitated a national political controversy in 1971 when he released the Pentagon Papers, a top-secret Pentagon study of the U.S. government decision-making in relation to the Vietnam War.\n\nOn January 3, 1973, Ellsberg was charged under the Espionage Act of 1917 along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Due to governmental misconduct and illegal evidence-gathering he was dismissed of all charges against Ellsberg on May 11, 1973.`,
+        link: 'https://www.npr.org/2018/01/19/579101965/daniel-ellsberg-explains-why-he-leaked-the-pentagon-papers',
+        infoSrc: 'https://en.wikipedia.org/wiki/Daniel_Ellsberg'
       },
     ],
   },
@@ -4217,13 +4217,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'March 1st, 1921',
+        title: 'Kronstadt Rebellion (1921)',
+        imgSrc: require('./assets/eventPhotos/Events/kronstadtRebellion.jpg'),
+        description: `The Kronstadt rebellion was an insurrection of the Soviet sailors, soldiers and civilians of the port city of Kronstadt against the Bolshevik government of the Russian SFSR. It was the last major revolt against the Bolshevik regime on Russian territory during the Russian Civil War.\n\nLed by Stepan Petrichenko, the rebels, including many Communists disappointed in the direction of the Bolshevik government, demanded a series of reforms, such as the election of new soviets, freedom of press and organization for anarchists and trade unionists, end persecution of the peasant class, and the dissolution of the bureaucratic organs of government created during the civil war.\n\nThe revolt began on March 1st and was crushed by force on March 18th by the Red Army. Although there are no reliable figures for rebel battle losses, historians estimate that from 1,200–2,168 persons were executed after the revolt and a similar number were detained in the Solovki Prison Camp.`,
+        link: 'https://libcom.org/history/1921-the-kronstadt-rebellion',
+        infoSrc: 'https://en.wikipedia.org/wiki/Kronstadt_rebellion'
       },
     ],
     'Labor': [
@@ -6755,13 +6755,22 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 7th, 1931',
+        title: 'Daniel Ellsberg (1931 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/danielEllsberg.jpg'),
+        description: `Daniel Ellsberg is an American economist, activist and former United States military analyst who, while employed by the RAND Corporation, precipitated a national political controversy in 1971 when he released the Pentagon Papers, a top-secret Pentagon study of the U.S. government decision-making in relation to the Vietnam War.\n\nOn January 3, 1973, Ellsberg was charged under the Espionage Act of 1917 along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Due to governmental misconduct and illegal evidence-gathering he was dismissed of all charges against Ellsberg on May 11, 1973.`,
+        link: 'https://www.npr.org/2018/01/19/579101965/daniel-ellsberg-explains-why-he-leaked-the-pentagon-papers',
+        infoSrc: 'https://en.wikipedia.org/wiki/Daniel_Ellsberg'
+      },
+      {
+        category: 'Birthdays',
+        date: 'April 7th, 1925',
+        title: 'Edward Herman (1925 - 2017)',
+        imgSrc: require('./assets/eventPhotos/Individuals/edwardHerman.jpg'),
+        description: `Edward Samuel Herman was an American economist, media scholar and social critic. Herman is known for his media criticism, in particular his propaganda model hypothesis developed with Noam Chomsky, a frequent co-writer.\n\nTheir most well-known work together is "Manufacturing Consent".`,
+        link: 'https://en.wikipedia.org/wiki/Edward_S._Herman',
+        infoSrc: 'https://en.wikipedia.org/wiki/Edward_S._Herman'
       },
     ],
     'Assassinations': [
@@ -7172,13 +7181,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 13th, 1957',
+        title: 'Amy Goodman (1957 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/amyGoodman.png'),
+        description: `Amy Goodman is an American broadcast journalist, syndicated columnist, investigative reporter, and author. Her investigative journalism career includes coverage of the East Timor independence movement and Chevron Corporation's actions in Nigeria. Goodman has been arrested when covering anti-war protests at the RNC, as well as charged with riot for covering attacks on Dakota Pipeline Access protestors.\n\nSince 1996, she has been the main host of Democracy Now!, a progressive global news program broadcast daily on radio, television and the Internet. She is the recipient of numerous awards, including the Thomas Merton Award in 2004, a Right Livelihood Award in 2008, and an Izzy Award in 2009 for "special achievement in independent media".`,
+        link: 'https://www.democracynow.org/2017/5/22/watch_tavis_smiley_interviews_amy_goodman',
+        infoSrc: 'https://en.wikipedia.org/wiki/Amy_Goodman'
       },
     ],
     'Assassinations': [
@@ -9851,13 +9860,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 22nd, 1942',
+        title: 'Richard Oakes (1942 - 1972)',
+        imgSrc: require('./assets/eventPhotos/Individuals/richardOakes.jpg'),
+        description: `Richard Oakes was a Mohawk Native American activist. He spurred Native American studies in university curricula and is credited for helping to change US federal government Termination policies of Native American peoples and culture. Oakes led a 19-month occupation of Alcatraz Island with LaNada Means, approximately 50 California State University students, and 37 others.\n\nIn 1972, Oakes was shot and killed in Sonoma, California, by Michael Morgan, a YMCA camp manager. Oakes allegedly violently confronted him, and Morgan responded by drawing a handgun and fatally shooting Oakes. Oakes was unarmed when he was shot. Morgan claimed he acted in self-defense and was acquitted on charges of voluntary manslaughter.`,
+        link: 'https://www.npr.org/sections/thetwo-way/2017/05/22/529504340/richard-oakes-who-occupied-alcatraz-for-native-rights-gets-a-birthday-honor',
+        infoSrc: 'https://en.wikipedia.org/wiki/Richard_Oakes_(activist)'
       },
     ],
     'Assassinations': [
@@ -11369,13 +11378,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 13th, 1971',
+        title: 'Pentagon Papers (1971)',
+        imgSrc: require('./assets/eventPhotos/Individuals/danielEllsberg.jpg'),
+        description: `The Pentagon Papers were a leaked document detailing the United States Department of Defense history of the United States' political and military involvement in Vietnam from 1945 to 1967. The papers were released by Daniel Ellsberg, who had worked on the study.\n\nThey were first brought to the attention of the public on the front page of The New York Times on this day in 1971. A 1996 article in The New York Times said that the Pentagon Papers had demonstrated, among other things, that the Johnson Administration "systematically lied, not only to the public but also to Congress."\n\nOn January 3, 1973, Ellsberg was charged under the Espionage Act of 1917 along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Due to governmental misconduct and illegal evidence-gathering he was dismissed of all charges against Ellsberg on May 11, 1973.`,
+        link: 'https://www.nytimes.com/1971/06/13/archives/vietnam-archive-pentagon-study-traces-3-decades-of-growing-u-s.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Pentagon_Papers'
       },
     ],
   },
@@ -11505,13 +11514,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 15th, 1917',
+        title: 'Espionage Act (1917)',
+        imgSrc: require('./assets/eventPhotos/Events/espionageAct.jpg'),
+        description: `The Espionage Act of 1917 is a United States federal law passed on June 15, 1917, shortly after the U.S. entry into World War I. Within a month of the law's passing, the Department of Justice used it as a justification to raid International Worker's of the World (IWW) headquarters, seizing property and arresting over one hundred members on various charges.\n\nAmong those charged with offenses under the Act are Victor L. Berger, Eugene V. Debs, Emma Goldman, Alexander Berkman, Julius and Ethel Rosenberg, Daniel Ellsberg, Chelsea Manning, Julian Assange, and Edward Snowden.\n\nA 2015 study by the PEN American Center found that almost all of the non-government representatives they interviewed, including activists, lawyers, journalists and whistleblowers, "thought the Espionage Act had been used inappropriately in leak cases that have a public interest component." PEN wrote, "experts described it as 'too blunt an instrument,' 'aggressive, broad and suppressive,' a 'tool of intimidation,' 'chilling of free speech,' and a 'poor vehicle for prosecuting leakers and whistleblowers.'"`,
+        link: 'https://pen.org/sites/default/files/Secret%20Sources%20report.pdf',
+        infoSrc: 'https://en.wikipedia.org/wiki/Espionage_Act_of_1917'
       },
     ],
   },
@@ -11891,13 +11900,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 21st, 1983',
+        title: 'Edward Snowden (1983 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/edwardSnowden.jpg'),
+        description: `Edward Joseph Snowden is an American whistleblower who copied and leaked highly classified information from the National Security Agency (NSA) in 2013 when he was a CIA employee and subcontractor. His disclosures revealed numerous global surveillance programs, many run by the NSA and the Five Eyes Intelligence Alliance with the cooperation of telecommunication companies and European governments, and prompted a cultural discussion about national security and individual privacy.\n\nIn 2013, the United States Department of Justice unsealed charges against Snowden of two counts of violating the Espionage Act of 1917 and theft of government property and revoked his passport. Two days later, he flew into a Moscow Airport, where Russian authorities noted that his U.S. passport had been cancelled, and he was restricted to the airport terminal for over one month. Russia later granted Snowden the right of asylum with an initial visa for residence for one year, and he continues to reside there on extension today.`,
+        link: 'https://www.theguardian.com/us-news/ng-interactive/2019/sep/13/edward-snowden-interview-whistleblowing-russia-ai-permanent-record',
+        infoSrc: 'https://en.wikipedia.org/wiki/Edward_Snowden'
       },
     ],
     'Assassinations': [
@@ -11948,13 +11957,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 22nd, 1945',
+        title: 'Nigerian General Strike (1945)',
+        imgSrc: require('./assets/eventPhotos/Individuals/michaelImoudu.jpg'),
+        description: `In 1945, a general strike involving tens of thousands of workers began with railway workers, then spread to other nationalised industries including dock and civil service workers, with workers at private firms supporting the strike and refusing to cross picket lines.\n\nEstimates of involvement range between 42,000 to 200,000 workers making it one of the largest strikes in colonial Africa up until that point. The general strike took off on June 22 and went on for 45 days. Nigerian labor leader Michael Imoudu played a key role in initiating the strike.`,
+        link: 'https://en.wikipedia.org/wiki/Michael_Imoudu',
+        infoSrc: 'https://libcom.org/library/1945-nigerian-general-strike?fbclid=IwAR0jkREpLgiYuTbQmpvfcMycRnBhR2njPGEV5LcUqWLU6V5RI3ixzLk8Vtk'
       },
     ],
     'Birthdays': [
@@ -12290,7 +12299,7 @@ export const eventLibrary = {
       {
         category: 'Labor',
         date: 'June 27th, 1905',
-        title: 'Founding of the IWW',
+        title: 'Founding of the IWW (1905)',
         imgSrc: require('./assets/eventPhotos/Organizations/IWW.png'),
         description: `The Industrial Workers of the World (IWW), members of which are commonly termed "Wobblies", is an international labor union that was founded in 1905 in Chicago, Illinois, in the United States. The IWW promotes the concept of "One Big Union", and contends that all workers should be united as a social class to supplant capitalism and wage labor with industrial democracy.\n\nThe IWW was officially founded in Chicago, Illinois in June 1905. A convention was held of 200 socialists and radical trade unionists from all over the United States who strongly opposed the policies of the American Federation of Labor (AFL). The IWW opposed the American Federation of Labor's acceptance of capitalism and its refusal to include unskilled workers in craft unions.\n\nThe IWW's founders included many historically important labor activists and socialist thinkers, including Big Bill Haywood, James Connolly, Daniel De Leon, Eugene V. Debs, Thomas Hagerty, Lucy Parsons, Mary Harris "Mother" Jones, Frank Bohn, William Trautmann, Vincent Saint John, Ralph Chaplin, and others.`,
         link: 'https://iww.org/',
@@ -16053,13 +16062,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'August 21, 1831',
+        title: "Nat Turner's Rebellion (1831)",
+        imgSrc: require('./assets/eventPhotos/Events/natTurnerRebellion.jpg'),
+        description: `Nat Turner's Rebellion was a rebellion of black slaves that took place in Southampton County, Virginia, in August 1831, led by Nat Turner. Fugitive enslaved people killed from 55 to 65 people, at least 51 being white. The group spared a few homes "because Turner believed the poor white inhabitants 'thought no better of themselves than they did of negroes.'"\n\nThe state executed 56 slaves accused of being part of the rebellion, and many non-participant slaves were punished in the frenzy. Approximately 120 slaves and free blacks were murdered by militias and mobs in the area. State legislatures passed new laws prohibiting education of slaves and free black people, restricting rights of assembly and other civil liberties for free black people, and requiring white ministers to be present at all worship services.`,
+        link: 'https://www.jacobinmag.com/2016/10/birth-of-a-nation-nat-turner-nate-parker',
+        infoSrc: 'https://en.wikipedia.org/wiki/Nat_Turner%27s_slave_rebellion'
       },
     ],
     'Labor': [
@@ -16606,13 +16615,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'August 29th, 1786',
+        title: "Shay's Rebellion (1786)",
+        imgSrc: require('./assets/eventPhotos/Events/shaysRebellion.jpg'),
+        description: `Shays' Rebellion was an armed uprising in Western Massachusetts in opposition to a debt crisis among the citizenry and the state government's increased efforts to collect taxes both on individuals and their trades. American Revolutionary War veteran Daniel Shays led four thousand rebels (called Shaysites) in a protest against economic and civil rights injustices.\n\nThe rebellion stoked some anti-democratic sentiment during the 1787 Constitutional Convention, which was dominated by strong-government advocates. Notably, Delegate Oliver Ellsworth of Connecticut argued that because the people could not be trusted (as exemplified by Shays' Rebellion), the members of the federal House of Representatives should be chosen by state legislatures, not by popular vote.`,
+        link: 'https://www.zinnedproject.org/news/tdih/shays-rebellion',
+        infoSrc: 'https://en.wikipedia.org/wiki/Shays%27_Rebellion'
       },
     ],
     'Labor': [
@@ -17093,13 +17102,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
+        category: 'Labor',
+        date: 'September 5th, 1917',
+        title: 'DoJ raids IWW HQ (1917)',
+        imgSrc: require('./assets/eventPhotos/Individuals/haywoodMugshot.jpg'),
+        description: `Using the newly passed Espionage Act of 1917 as justification, the Department of Justice raided forty-eight IWW meeting halls on September 5, 1917. The Department of Justice, with the approval of President Woodrow Wilson, then proceeded to arrest 165 IWW members for "conspiring to hinder the draft, encourage desertion, and intimidate others in connection with labor disputes."\n\nAmong those arrested was the well-known "Big Bill" Haywood, a radical labor organizer. He was successfully convicted, and skipped bail before his sentencing, fleeing to the Soviet Union and acting as a labor advisor to Vladimir Lenin.`,
         link: '',
-        infoSrc: ''
+        infoSrc: 'https://depts.washington.edu/iww/justice_dept.shtml'
       },
     ],
     'Birthdays': [
@@ -17240,13 +17249,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 7th, 1902',
+        title: 'Michael Imoudu (1902 - 2005)',
+        imgSrc: require('./assets/eventPhotos/Individuals/michaelImoudu.jpg'),
+        description: `Michael Athokhamien Imoudu was a Nigerian labour union leader. Imoudu started labour union activities as a member of the Railway Workers Union (RWU), which became one of the most militant unions in the country during the colonial period. The union was formed in 1931 at a time where many trade organizations were more similar to social undertakings than an industrial movement.\n\nImoudu was released from prison by the government in 1945, presumably as a means to de-escalate labor tensions. A large rally was held to welcome him back to Lagos, however, and on 21 and 22 June 1945, Imoudu led a radical wing of the organized union to organize a general strike that became an important moment in Nigeria's history.`,
+        link: 'https://libcom.org/library/1945-nigerian-general-strike?fbclid=IwAR0jkREpLgiYuTbQmpvfcMycRnBhR2njPGEV5LcUqWLU6V5RI3ixzLk8Vtk',
+        infoSrc: 'https://en.wikipedia.org/wiki/Michael_Imoudu'
       },
     ],
     'Assassinations': [
@@ -18144,13 +18153,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'September 20th, 1972',
+        title: 'Richard Oakes (1942 - 1972)',
+        imgSrc: require('./assets/eventPhotos/Individuals/richardOakes.jpg'),
+        description: `Richard Oakes was a Mohawk Native American activist. He spurred Native American studies in university curricula and is credited for helping to change US federal government Termination policies of Native American peoples and culture. Oakes led a 19-month occupation of Alcatraz Island with LaNada Means, approximately 50 California State University students, and 37 others.\n\nOn this day in 1972, Oakes was shot and killed in Sonoma, California, by Michael Morgan, a YMCA camp manager. Oakes allegedly violently confronted him, and Morgan responded by drawing a handgun and fatally shooting Oakes. Oakes was unarmed when he was shot. Morgan claimed he acted in self-defense and was acquitted on charges of voluntary manslaughter.`,
+        link: 'https://www.npr.org/sections/thetwo-way/2017/05/22/529504340/richard-oakes-who-occupied-alcatraz-for-native-rights-gets-a-birthday-honor',
+        infoSrc: 'https://en.wikipedia.org/wiki/Richard_Oakes_(activist)'
       },
     ],
     'Other': [
@@ -19879,13 +19888,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'October 16th, 1859',
+        title: "Raid on Harper's Ferry (1859)",
+        imgSrc: require('./assets/eventPhotos/Events/harpersFerry.jpg'),
+        description: `John Brown's raid on Harpers Ferry was an effort by abolitionist John Brown, from October 16 to 18, 1859, to initiate a slave revolt in Southern states by taking over a United States arsenal at Harpers Ferry, Virginia and arming slaves with the weapons there.\n\nBrown's raid was defeated by a company of U.S. Marines. He was convicted of treason and hanged on December 2nd, 1859. Later, president of the Confederacy Jefferson Davis cited the attack as grounds for Southerners to leave the Union, "even if it rushes us into a sea of blood".`,
+        link: 'https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry',
+        infoSrc: 'https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry'
       },
     ],
     'Labor': [
@@ -22286,13 +22295,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 20th, 1969',
+        title: 'Occupation of Alcatraz (1969-71)',
+        imgSrc: require('./assets/eventPhotos/Events/alcatrazOccupation.jpg'),
+        description: `The Occupation of Alcatraz was a 19-month long protest when 89 American Indians and their supporters occupied Alcatraz Island. The protest was led by Richard Oakes, among others. This group lived on the island together until the protest was forcibly ended by the U.S. government. The group claimed that, under the Treaty of Fort Laramie between the U.S. and the Lakota tribe, all retired, abandoned, or out-of-use federal land was returned to the Indians who once occupied it.\n\nBy late May of 1971, the government had cut off all electrical power and all telephone service to the island. Left without power, fresh water, and in the face of diminishing public support and sympathy, the number of occupiers began to dwindle. On June 11, 1971, a large force of government officers removed the remaining 15 people from the island.`,
+        link: 'https://www.kqed.org/news/11788540/a-look-back-at-the-occupation-of-alcatraz-50-years-later',
+        infoSrc: 'https://en.wikipedia.org/wiki/Occupation_of_Alcatraz'
       },
     ],
     'Labor': [
@@ -22376,13 +22385,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'November 21st, 1870',
+        title: 'Alexander Berkman (1870 - 1936)',
+        imgSrc: require('./assets/eventPhotos/Individuals/alexanderBerkman.jpg'),
+        description: `Alexander Berkman (November 21, 1870 – June 28, 1936) was a leading member of the anarchist movement in the early 20th century, famous for both his political activism and his writing. He was the one-time lover and lifelong friend of anarchist Emma Goldman. In 1892, undertaking an act of propaganda of the deed, Berkman made an unsuccessful attempt to assassinate businessman Henry Clay Frick, for which he served 14 years in prison.\n\nOn their release from prison (for conspiring against the draft), Berkman and Goldman were arrested and deported to Russia. Initially supportive of the Bolshevik revolution, Berkman and Goldman soon became disillusioned, voicing their opposition to the Soviets' use of terror after seizing power and their repression of fellow revolutionaries.`,
+        link: 'https://en.wikipedia.org/wiki/Alexander_Berkman',
+        infoSrc: 'https://en.wikipedia.org/wiki/Alexander_Berkman'
       },
     ],
     'Assassinations': [
@@ -24153,13 +24162,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 17th, 1987',
+        title: 'Chelsea Manning (1987 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/chelseaManning.jpg'),
+        description: `Chelsea Elizabeth Manning is an American activist and whistleblower. She is a former United States Army soldier who was convicted by court-martial in July 2013 of violations of the Espionage Act and other offenses, after disclosing to WikiLeaks nearly 750,000 classified, or unclassified but sensitive, military and diplomatic documents.\n\nAmong the documents released was the infamous "Collateral Murder" video, which depicted two American helicopters firing on Reuters journalists and children. Manning was imprisoned from 2010 until 2017, when her sentence was commuted by Barack Obama.`,
+        link: 'https://www.theguardian.com/us-news/2018/oct/07/chelsea-manning-wikileaks-whistleblowing-interview-carole-cadwalladr',
+        infoSrc: 'https://en.wikipedia.org/wiki/Chelsea_Manning'
       },
     ],
     'Assassinations': [
@@ -24811,13 +24820,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'February 27th, 1973',
+        title: 'Wounded Knee Occupation (1973)',
+        imgSrc: require('./assets/eventPhotos/Events/woundedKneeOccupation.jpg'),
+        description: `The Wounded Knee Occupation began on this day in 1973, when approximately 200 Oglala Lakota and followers of the American Indian Movement (AIM) seized and occupied the town of Wounded Knee, South Dakota, on the Pine Ridge Indian Reservation. Paul Manhart S.J. and ten other residents of the area were apprehended at gunpoint and taken hostage.\n\nThe rebellion followed the failure of an effort of the Oglala Sioux Civil Rights Organization (OSCRO) to impeach tribal president Richard Wilson, whom they accused of corruption and abuse of opponents. Additionally, the rebels criticized the United States government's failure to fulfill treaties with Native American people and demanded the reopening of treaty negotiations.\n\nThe activists chose the site of the 1890 Wounded Knee Massacre for its symbolic value, and the town was promptly surrounded by nearly one thousand federal agents. Tribal leaders called off the occupation after 71 days, due to the death of a young Lakota man by U.S. sniper fire. The terms of ending the occuption included a mandated meeting at Chief Fools Crow's land to discuss reinstating an 1868 Treaty.`,
+        link: 'https://www.theatlantic.com/national/archive/2012/10/occupy-wounded-knee-a-71-day-siege-and-a-forgotten-civil-rights-movement/263998/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Wounded_Knee_Massacre'
       },
     ],
     'Labor': [
@@ -24947,13 +24956,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'December 29th, 1890',
+        title: 'Wounded Knee Massacre (1890)',
+        imgSrc: require('./assets/eventPhotos/Events/woundedKneeMassacre.jpg'),
+        description: `The Wounded Knee Massacre was a domestic massacre of several hundred Lakota people, almost half of whom were women and children, by soldiers of the United States Army. It occurred on this day in 1890, near Wounded Knee Creek in South Dakota, following a botched attempt to disarm the Lakota camp.\n\nAccording to the journalist Charles Allen who witnessed the massacre, the fighting began when soldiers tried to disarm a deaf Native American, and the gun went off in a struggle. Soldiers began firing indiscriminately, and, although the Lakota fought back, many of them had been disarmed by this point.\n\nBy the time the massacre was over, as many as 300 men, women, and children of the Lakota had been killed and 51 were wounded Twenty soldiers were awarded the Medal of Honor.`,
+        link: 'https://www.pbs.org/weta/thewest/program/episodes/eight/likegrass.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Wounded_Knee_Massacre'
       },
     ],
     'Labor': [
