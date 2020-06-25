@@ -8398,7 +8398,7 @@ export const eventLibrary = {
         date: 'May 1st',
         title: 'May Day',
         imgSrc: require('./assets/eventPhotos/Events/mayDay.jpg'),
-        description: `International Workers' Day, also known as labor Day or May Day, is a celebration of laborers and the working classes that is promoted by the international labor movement, and occurs every year on May 1st. The date was chosen in 1889 by the Marxist International Socialist Congress to commemorate a notable campaign for the eight-hour day, which culminated in the Haymarket Affair in Chicago on May 4th, 1886. May Day subsequently became an annual event.\n\nThis campaign for the eight-hour day began as a general strike on May 1st, 1886. On May 4th, the police acted to disperse a public assembly in support of the strike when an unidentified person threw a bomb. The police responded by firing on the workers. The ensuing violence led to the deaths of seven police officers, four to eight civilians, and wounded approximately one hundred people on either side.\n\nHundreds of labor leaders and sympathizers were later rounded-up and four were executed by hanging, after a trial that was perceived as a miscarriage of justice. The following day in Milwaukee Wisconsin, state militia fired on a crowd of strikers killing seven, including a schoolboy and a man feeding chickens in his yard.`,
+        description: `International Workers' Day, also known as labor Day or May Day, is a celebration of laborers and the working classes that is promoted by the international labor movement, and occurs every year on May 1st. The date was chosen in 1889 by the Second International to commemorate a notable campaign for the eight-hour day, which culminated in the deadly Haymarket Affair in Chicago on May 4th, 1886. May Day subsequently became an annual event.\n\nThe Haymarket Affair began with a general strike that demanded an eight-hour day. On May 4th, the police acted to disperse a public assembly in support of the strike when an unidentified person threw a bomb. The police responded by firing on the crowd of protestors. The ensuing violence led to the deaths of seven police officers, four to eight civilians, and wounded approximately one hundred people on either side.\n\nHundreds of labor leaders and sympathizers were later rounded-up and four were executed by hanging after conviction in a trial widely perceived as a miscarriage of justice. The following day in Milwaukee Wisconsin, state militia fired on a crowd of strikers killing seven, including a schoolboy and a man feeding chickens in his yard.`,
         link: 'https://archive.iww.org/history/library/misc/origins_of_mayday/',
         infoSrc: 'https://en.wikipedia.org/wiki/International_Workers%27_Day'
       },
@@ -8613,7 +8613,7 @@ export const eventLibrary = {
         date: 'May 4th, 1952',
         title: 'Ruth First (1952 - 1982)',
         imgSrc: require('./assets/eventPhotos/Individuals/ruthFirst.jpg'),
-        description: `Ruth First was a South African anti-apartheid activist and scholar.\n\nFollowing four years of harassment by the state, Ruth alongside 155 other activists were all acquitted of charges of treason. After the state of emergency that followed the Sharpeville massacre in 1960, she was listed and banned. First could not attend meetings, publish, and or be quoted. In 1963, she was imprisoned and held in isolation without charge for 117 days under the Ninety-Day Detention Law, the first white woman to be detained under this law.\n\nIn November of 1982, First was assassinated by South African police in Mozambique, where she was working in exile.`,
+        description: `Ruth First was a South African anti-apartheid activist and scholar.\n\nAs an anti-apartheid activist, First had been harassed for years by the South African government. In 1956, First, alongside 155 other activists, were all charged and acquitted of treason in the country's infamous "Treason Trial".\n\nAfter the state of emergency that followed the Sharpeville massacre in 1960, she was banned from political participation. First could not attend meetings, publish, and or be quoted. In 1963, she was imprisoned and held in isolation without charge for 117 days under the Ninety-Day Detention Law, the first white woman to be detained under this law.\n\nIn August of 1982, First was assassinated by South African police in Mozambique, where she was working in exile.`,
         link: 'https://www.sahistory.org.za/people/ruth-heloise-first',
         infoSrc: 'https://en.wikipedia.org/wiki/Ruth_First'
       },
@@ -9377,9 +9377,9 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'May 15th, 1891*',
-        title: 'Sid Hatfield (1891? - 1921)',
+        title: 'Sid Hatfield (1891 - 1921)',
         imgSrc: require('./assets/eventPhotos/Individuals/sidHatfield.jpg'),
-        description: `*1891 or 1893\n\nWilliam "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting Baldwin-Felts Detective Agency.\n\nHe is most know for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occured when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
+        description: `*1891 or 1893\n\nWilliam "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting Baldwin-Felts Detective Agency.\n\nHe is most known for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occured when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
         link: 'https://www.wvencyclopedia.org/articles/1576',
         infoSrc: 'https://en.wikipedia.org/wiki/Sid_Hatfield'
       },
@@ -12244,7 +12244,7 @@ export const eventLibrary = {
         date: 'June 26th, 1908',
         title: 'Salvador Allende (1908 - 1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),
-        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on this day in 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
+        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on this day in 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.`,
         link: 'https://jacobinmag.com/2019/09/salvador-allende-chile-revolucion-democratica-frente-amplio',
         infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
       },
@@ -14728,9 +14728,9 @@ export const eventLibrary = {
       {
         category: 'Assassinations',
         date: 'August 1st, 1921',
-        title: 'Sid Hatfield (1891? - 1921)',
+        title: 'Sid Hatfield (1891 - 1921)',
         imgSrc: require('./assets/eventPhotos/Individuals/sidHatfield.jpg'),
-        description: `William "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting Baldwin-Felts Detective Agency.\n\nHe is most know for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occured when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
+        description: `William "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting, family-evicting Baldwin-Felts Detective Agency.\n\nHe is most knowm for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occured when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
         link: 'https://www.wvencyclopedia.org/articles/1576',
         infoSrc: 'https://en.wikipedia.org/wiki/Sid_Hatfield'
       },
@@ -15827,7 +15827,7 @@ export const eventLibrary = {
         date: 'August 17th, 1982',
         title: 'Ruth First (1952 - 1982)',
         imgSrc: require('./assets/eventPhotos/Individuals/ruthFirst.jpg'),
-        description: `Ruth First was a South African anti-apartheid activist and scholar.\n\nFollowing four years of harassment by the state, Ruth alongside 155 other activists were all acquitted of charges of treason. After the state of emergency that followed the Sharpeville massacre in 1960, she was listed and banned. First could not attend meetings, publish, and or be quoted. In 1963, she was imprisoned and held in isolation without charge for 117 days under the Ninety-Day Detention Law, the first white woman to be detained under this law.\n\nIn November of 1978, First was assassinated by South African police while working in exile in Mozambique.`,
+        description: `Ruth First was a South African anti-apartheid activist and scholar.\n\nAs an anti-apartheid activist, First had been harassed for years by the South African government. In 1956, First, alongside 155 other activists, were all charged and acquitted of treason in the country's infamous "Treason Trial".\n\nAfter the state of emergency that followed the Sharpeville massacre in 1960, she was banned from political participation. First could not attend meetings, publish, and or be quoted. In 1963, she was imprisoned and held in isolation without charge for 117 days under the Ninety-Day Detention Law, the first white woman to be detained under this law.\n\nIn August of 1982, First was assassinated by South African police in Mozambique, where she was working in exile.`,
         link: 'https://www.sahistory.org.za/people/ruth-heloise-first',
         infoSrc: 'https://en.wikipedia.org/wiki/Ruth_First'
       },
@@ -17532,7 +17532,7 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: 'Birthdays',
+        category: 'Assassinations',
         date: 'September 11th, 1973',
         title: 'Salvador Allende (1908 - 1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),

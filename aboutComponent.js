@@ -10,23 +10,27 @@ export function About() {
         <StyledText text="A People's Calendar" style={{fontSize: 24,}}/>
       </View>
       <StyledText
-        text="A People's Calendar seeks to spread the knowledge of working class movements throughout history."
+        text="A People's Calendar (aPC) seeks to promote the worldwide history of working class movements and liberation struggles."
         style={styles.aboutText}
       />
       <StyledText
-        text="While hardly comprehensive, this calendar strives to highlight all forms of working class struggle, from union agitation to indigenous resistance to slave revolts to communist revolution, and to do so in a format that is easy to access and read from."
+        text="Unfortunately, this history is often overwhelming in complexity and suppressed/obscured by various oppressive forces."
         style={styles.aboutText}
       />
       <StyledText
-        text="The source of information for all calendar events is provided with the description of the event."
+        text="While in no way comprehensive, it is my hope that this project makes this history easier to approach and study. Although I do my best to fact-check the summaries of each event, this calendar is ultimately meant to provide a jumping off point for users to research the history and form their own opinions."
         style={styles.aboutText}
       />
       <StyledText
-        text="We are always looking out for important events, people, and texts that are missing from the calendar. Feel free to contact us with suggestions, and please consider donating to help make such additions and upkeep happen more quickly."
+        text="The figures and events included here are not presented with my endorsement, but shared with the understanding that the history of all working class struggle is worth knowing, in both its successes and its failures."
         style={styles.aboutText}
       />
-      <TouchableOpacity style={{marginLeft: 'auto', marginRight: 'auto', borderWidth: 1, borderRadius: 10, backgroundColor: '#1c1c1c', marginTop: 13, padding: 10, justifyContent: 'center', alignContent: 'center'}} onPress={() => Linking.openURL('https://trevorspheresmith.com/contact')}>
-        <StyledText text='Contact Us' style={{fontSize: 27, color: 'white'}}/>
+      <StyledText
+        text="I am always looking out for important events, people, and texts that are missing from the calendar. Feel free to contact me with suggestions, and please consider donating to help make such additions and upkeep happen more quickly."
+        style={styles.aboutText}
+      />
+      <TouchableOpacity style={styles.contactButton} onPress={() => Linking.openURL('https://www.patreon.com/apeoplescalendar')}>
+        <StyledText text='Contact' style={{fontSize: 27, color: 'white', marginLeft: 15, marginRight: 15,}}/>
       </TouchableOpacity>
     </ScrollView>
   );

@@ -6,14 +6,15 @@ export const styles = StyleSheet.create({
     marginLeft: 'auto',
     marginRight: 'auto',
     marginTop: 15,
+    marginBottom: 15,
     borderWidth: 1,
     borderRadius: 5,
     backgroundColor: 'white',
     padding: 15,
   },
   aboutText: {
-    fontSize: 17,
-    marginBottom: 3,
+    fontSize: 16,
+    marginBottom: 4,
   },
   allEventsWrapper: {
     marginTop: 10,
@@ -35,6 +36,17 @@ export const styles = StyleSheet.create({
     justifyContent: 'space-between',
     height: '100%',
     backgroundColor: '#f0f0f0',
+  },
+  contactButton: {
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    borderWidth: 1,
+    borderRadius: 10,
+    backgroundColor: '#1c1c1c',
+    marginTop: 13,
+    padding: 10,
+    justifyContent: 'center',
+    alignContent: 'center'
   },
   descriptionDateWrapper: {
     marginBottom: 10,
@@ -76,6 +88,9 @@ export const styles = StyleSheet.create({
     borderRadius: 5,
     backgroundColor: 'white',
     padding: 15,
+  },
+  everythingNotFooter: {
+
   },
   sourceWrapper: {
     marginTop: 8,
@@ -130,7 +145,9 @@ export const styles = StyleSheet.create({
     width: 160,
   },
   onThisDay: {
-    marginBottom: 10,
+    paddingTop: 0,
+    paddingBottom: 10,
+    borderBottomWidth: 1,
   },
   specificEventButton: {
     borderBottomWidth: 1,

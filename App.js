@@ -110,7 +110,7 @@ export default class App extends React.Component {
           }
           <TouchableOpacity
             style={[styles.bottomButton, {marginLeft: 1}]}
-            onPress={() => Linking.openURL('https://www.patreon.com')}
+            onPress={() => Linking.openURL('https://www.patreon.com/apeoplescalendar?fan_landing=true')}
           >
             <StyledText text='Donate' style={styles.bottomButtonText}/>
           </TouchableOpacity>
