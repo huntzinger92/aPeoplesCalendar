@@ -83,24 +83,24 @@ export const eventLibrary = {
   '1-1': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'January 1st, 1791',
+        title: 'Haitian Independence (1804)',
+        imgSrc: require('./assets/eventPhotos/Events/haitianRevolution.jpg'),
+        description: `The Haitian Revolution was a successful insurrection by self-liberated slaves against French colonial rule in Saint-Domingue, now the sovereign state of Haiti. The revolt began on August 22nd, 1791, and Haiti didn't achieve independence from France until this day in 1804. The Haitian Revolution was the only slave uprising that led to the founding of a state which was both free from slavery, and ruled by non-whites and former captives.\n\nThe revolt began when thousands of slaves began to kill their masters and plunged the colony into civil war after a well-attended vodou ceremony. Within the next ten days, slaves had taken control of the entire Northern Province in an unprecedented slave revolt. The slaves sought revenge on their masters through "pillage, rape, torture, mutilation, and death". Over 200,000 black people died from the initial uprising until independence.\n\nToussaint Louverture was a notable military leader of the revolution, but died shortly before independence was won. His former lieutenant Jean-Jacques Dessalines became the first leader of the newly independent nation on January 1st, 1804.`,
+        link: 'https://en.wikipedia.org/wiki/Haitian_Revolution',
+        infoSrc: 'https://en.wikipedia.org/wiki/Haitian_Revolution'
       },
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'January 1st, 1994',
+        title: 'Zapatista Uprising (1994)',
+        imgSrc: require('./assets/eventPhotos/Events/zapatistaUprising.jpg'),
+        description: `On this day in 1994, the Zapatista Army of National Liberation (EZLN), an indigenous armed organisation, declared war on the Mexican Government, demanding "work, land, housing, food, health, education, independence, liberty, democracy, justice and peace." This action was taken at least partly in response to the enactment of the North American Free Trade Agreement (NAFTA), which was perceived as a threat to the lives of indigenous people in Chiapas.\n\nFollowing this war declaration, armed indigenous rebels seized four towns in Chiapas, Mexico, releasing nearly 200 predominantly indigenous prisoners and destroying land records. The fighting lasted eleven days and estimates of those killed range from 300-400. The EZLN remains active to this day.`,
+        link: 'http://www.internationalaffairs.org.au/news-item/the-zapatista-movement-the-fight-for-indigenous-rights-in-mexico/',
+        infoSrc: 'https://libcom.org/history/1994-the-zapatista-uprising'
       },
     ],
     'Labor': [
@@ -278,7 +278,7 @@ export const eventLibrary = {
         date: 'January 3rd, 1973',
         title: 'Ellsberg Charged With Espionage (1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/danielEllsberg.jpg'),
-        description: `Daniel Ellsberg is an American economist, activist and former United States military analyst who, while employed by the RAND Corporation, precipitated a national political controversy in 1971 when he released the Pentagon Papers, a top-secret Pentagon study of the U.S. government decision-making in relation to the Vietnam War.\n\nOn January 3, 1973, Ellsberg was charged under the Espionage Act of 1917 along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Due to governmental misconduct and illegal evidence-gathering he was dismissed of all charges against Ellsberg on May 11, 1973.`,
+        description: `Daniel Ellsberg is an American economist, activist and former United States military analyst who, while employed by the RAND Corporation, precipitated a national political controversy in 1971 when he released the Pentagon Papers, a top-secret Pentagon study of the U.S. government decision-making in relation to the Vietnam War.\n\nOn this day in 1973, Ellsberg was charged under the Espionage Act of 1917 along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Due to governmental misconduct and illegal evidence-gathering he was dismissed of all charges against Ellsberg on May 11, 1973.`,
         link: 'https://www.npr.org/2018/01/19/579101965/daniel-ellsberg-explains-why-he-leaked-the-pentagon-papers',
         infoSrc: 'https://en.wikipedia.org/wiki/Daniel_Ellsberg'
       },
@@ -796,13 +796,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 11th, 1907',
+        title: 'Abraham Joshua Heschel (1907 - 1972)',
+        imgSrc: require('./assets/eventPhotos/Individuals/joshuaHeschel.jpg'),
+        description: `Rabbi Abraham Joshua Heschel, born on this day in 1907, was a Polish-born American rabbi and one of the leading Jewish theologians and Jewish philosophers of the 20th century.\n\nHeschel was active in the civil rights movement, marching with him in Selma, Alabama. At the Vatican Council II, as representative of American Jews, Heschel was also responsible for persuading the Catholic Church to remove anti-Semitic language from its doctrine, including references to "deicide" and expectations of conversion to Christianity.`,
+        link: 'https://www.youtube.com/watch?v=FEXK9xcRCho',
+        infoSrc: 'https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel'
       },
     ],
     'Assassinations': [
@@ -877,7 +877,7 @@ export const eventLibrary = {
         date: 'January 12th, 1920',
         title: 'James Farmer (1920 - 1999)',
         imgSrc: require('./assets/eventPhotos/Individuals/jamesFarmer.jpg'),
-        description: `James Leonard Farmer Jr. was an American civil rights activist and leader in the Civil Rights Movement "who pushed for nonviolent protest to dismantle segregation, and served alongside Martin Luther King Jr."\n\nHe was the initiator and organizer of the first Freedom Ride in 1961, which eventually led to the desegregation of interstate transportation in the United States.`,
+        description: `James Leonard Farmer Jr. was an American civil rights activist and leader in the Civil Rights Movement who pushed for nonviolent protest to dismantle segregation, and served alongside Martin Luther King Jr.\n\nHe was the initiator and organizer of the first Freedom Ride in 1961, which eventually led to the desegregation of interstate transportation in the United States.`,
         link: 'https://en.wikipedia.org/wiki/James_Farmer',
         infoSrc: 'https://en.wikipedia.org/wiki/James_Farmer'
       },
@@ -976,13 +976,13 @@ export const eventLibrary = {
   '1-14': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'January 14th, 2011',
+        title: 'Tunisian Revolution (2011)',
+        imgSrc: require('./assets/eventPhotos/Events/tunisianRevolution.jpg'),
+        description: `The Tunisian Revolution was an intensive 28-day campaign of civil resistance. It included a series of street demonstrations which took place in Tunisia and led to the president Zine El Abidine Ben Ali's 23-year reign on this day in January 2011. The revolution has brought a thorough democratisation of the country's political process.\n\nThe protests were sparked by the self-immolation of Mohamed Bouazizi, a disgruntled street merchant whose wares had been seized, on 17 December 2010. 28 days later, Ben Ali fled to Saudi Arabia and officially resigned from his post. Notably, the police and army defected from the state and sided with protestors after Ben Ali was ousted from power. Labor unions also played an integral role in the protests.`,
+        link: 'https://www.aljazeera.com/indepth/inpictures/2015/12/tunisian-revolution-151215102459580.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Tunisian_Revolution'
       },
     ],
     'Rebellion': [
@@ -1540,13 +1540,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'January 22nd, 1932',
+        title: 'La Matanza (1932)',
+        imgSrc: require('./assets/eventPhotos/Events/laMatanza.jpg'),
+        description: `La Matanza ("The Massacre") was a peasant and communist uprising that occurred in the El Salvador on this day in 1932. The Salvadoran army, being vastly superior in terms of weapons and soldiers, executed those who stood against it. Although both peasants and communist rebels (led by Farabundo Martí) rebelled at the same time, it is not confirmed that the two uprisings were coordinated.\n\nRegardless, the Salvadoran government did not make a distinction between either movement and violently repressed agitation from both groups. The rebellion was a mixture of protest and insurrection which ended in ethnocide, claiming the lives of an estimated 30,000 people, many of them indigenous Pipil people.`,
+        link: 'https://www.zinnedproject.org/news/tdih/la-matanza',
+        infoSrc: 'https://en.wikipedia.org/wiki/La_Matanza'
       },
     ],
     'Labor': [
@@ -1733,13 +1733,13 @@ export const eventLibrary = {
   '1-25': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'January 25th, 2011',
+        title: `Egyptian "Day of Anger" (2011)`,
+        imgSrc: require('./assets/eventPhotos/Events/tahrirSquare.jpg'),
+        description: `On this day in 2011, known as the "Day of Anger" in Egypt, millions of Egyptians took the streets in protests that took place in different cities across Egypt, including Cairo, Alexandria, Suez and Ismaïlia. The protests began weeks of civil disobedience that successfully ousted Hosni Mubarak from power on February 11th.\n\nJournalist and activist Hossam el-Hamalawy gave this statement to Al-Jazeera:\n\n"People are fed up of Mubarak and of his dictatorship and of his torture chambers and of his failed economic policies. If Mubarak is not overthrown tomorrow then it will be the day after. If it's not the day after it's going to be next week."\n\n`,
+        link: 'https://english.alaraby.co.uk/english/blog/2017/1/28/egypts-day-of-rage-six-years-on',
+        infoSrc: 'https://en.wikipedia.org/wiki/Timeline_of_the_Egyptian_revolution_of_2011#25_January_%E2%80%93_Day_of_Anger'
       },
     ],
     'Rebellion': [
@@ -2220,13 +2220,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'February 1st, 1960',
+        title: 'Greensboro Sit-ins Begin (1960)',
+        imgSrc: require('./assets/eventPhotos/Events/greensboroSitin.jpg'),
+        description: `On this day in 1960, the "Greensboro Four" sat down at the 66-seat L-shaped stainless steel lunch counter inside the F. W. Woolworth Company store in Greensboro, North Carolina. The four men had purchased toothpaste and other products from a desegregated counter at the store with no problems, but were then refused service at the store's lunch counter when they each asked for a cup of coffee.\n\nThe four students returned the next day, and within a few days the protest included hundreds of students. The Greensboro Sit-in sparked a movement of sit-in protests against segregation across the country, continuing into the summer and expanding to other places of discrimination, such as swimming pools, parks, and art galleries.\n\nOn July 25th, the Greensboro Woolworth's finally ended its discriminatory policies. Four years later, the Civil Rights Act of 1964 mandated desegregation in public accommodations.`,
+        link: 'https://www.blackpast.org/african-american-history/greensboro-sit-ins-1960/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Greensboro_sit-ins'
       },
     ],
     'Labor': [
@@ -2512,13 +2512,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 5th, 1919',
+        title: 'La Canadenca Strike (1919)',
+        imgSrc: require('./assets/eventPhotos/Events/canadencaStrike.jpg'),
+        description: `The Canadenca strike was a general strike that began on this day in 1919, in Catalonia, Spain. The strike was initiated after an energy company, La Canadenca, reduced wages and fired over one hundred striking workers who were protesting the pay cuts. This and the curbing of labour rights prompted the rest of the workers at La Canadenca to go on strike and demand the readmission of those sacked and wage increases.\n\nThe strike soon spread to other companies in the sector via the CNT’s union for water, gas and electricity workers. The lack of electricity in the city affected transport, hampering the provision of supplies and paralysing 70% of factories in the province of Barcelona.\n\nA state of war was declared by the government and over 3,000 workers were detained. Despite this, the strike ended after two days on the conditions of no reprecussions for participating workers, an increase in wages, and, most notably, an 8 hour work day.`,
+        link: 'https://books.google.com/books?id=iN8I1fl9hl0C&pg=PT215&lpg=PT215&dq=La+Canadenca+strike&source=bl&ots=GCbBklHEAI&sig=ACfU3U2vuyLI-PjXZOCWwChMk7LJqALpHg&hl=en&sa=X&ved=2ahUKEwjAx7n-iZzqAhVOGs0KHQU1DUI4ChDoATABegQIChAB#v=onepage&q=La%20Canadenca%20strike&f=false',
+        infoSrc: 'https://www.barcelona.cat/infobarcelona/en/barcelona-marks-the-centenary-of-the-canadenca-strike_797743.html'
       },
     ],
     'Birthdays': [
@@ -3045,13 +3045,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'February 13th, 1960',
+        title: 'Nashville Sit-ins Begin (1960)',
+        imgSrc: require('./assets/eventPhotos/Events/nashvilleSitins.jpg'),
+        description: `The Nashville sit-ins began on this day in 1960. The protest was part of a nonviolent direct action campaign to end racial segregation at lunch counters in downtown Nashville, Tennessee. The sit-in campaign, coordinated by the Nashville Student Movement and the Nashville Christian Leadership Council, was notable for its early success and its emphasis on disciplined nonviolence in the face of harassment and assault by counter-protestors.\n\nThe Nashville sit-ins, along with the Greensboro sit-ins, became part of a broader movement on civil disobedience against discriminatory policies that spread across the southern United States. The Nashville sit-ins ended on May 10th, when six downtown stores began serving black customers for the first time.`,
+        link: 'https://www.blackpast.org/african-american-history/nashville-sit-ins-1960/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Nashville_sit-ins'
       },
     ],
     'Labor': [
@@ -3877,13 +3877,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'February 25th, 1946',
+        title: 'Columbia Race Riot (1946)',
+        imgSrc: require('./assets/eventPhotos/Events/columbiaRaceRiot.jpg'),
+        description: `The Columbia Race Riot began on this day in 1946, in Columbia, Tennessee. Like other outbreaks of violence in the South in the immediate postwar era, this incident involved military veterans who were unwilling to accept prevailing racial norms upon returning to their hometowns.\n\nIt began when a young white male clerk began harassing the black mother of WWII veteran James Stephenson. Stephenson and the clerk began to fight and the veteran threw the clerk through a window. He and his mother were arrested for disturbing the peace.\n\nThat night, a white mob began to gather outside of the black-owned businesses part of town, called "Mink Side". Rumors were that Stephenson may be lynched, and an armed black crowd began to gather as well. Four policemen tried to enter Mink Side, and, after refusing to heed commands to stop from the black community, were wounded by gunfire.\n\nThe next day, several officers stormed the district, firing randomly into buildings, stealing cash and goods, searching homes without warrants, and took any guns, rifles, and shotguns they could find. When the sweep was over, more than one hundred blacks had been arrested, and about three hundred weapons from the black community had been confiscated.\n\nIn a highly publicized trial, lawyers from the NAACP managed to acquit 23 of 25 blacks of attempted murder charges, and the remaining charges were dropped by prosecutors.`,
+        link: 'https://www.blackpast.org/african-american-history/the-columbia-race-riot-1946/',
+        infoSrc: 'https://tennesseeencyclopedia.net/entries/columbia-race-riot-1946/'
       },
     ],
     'Labor': [
@@ -4625,13 +4625,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'March 7th, 1965',
+        title: `"Bloody Sunday" in Selma (1965)`,
+        imgSrc: require('./assets/eventPhotos/Events/bloodySunday.jpeg'),
+        description: `Bloody Sunday was an attack by police on civil rights protestors that happened on this day in 1965. The several hundred protestors were making their first of three attempts to march 54 miles, from Selma, Alabama to the state capitol, Montgomery, in protest of voting discrimination and segregationist repression.\n\nThe protest went according to plan until the marchers crossed the Edmund Pettus Bridge, where they encountered a wall of state troopers and county posse waiting for them on the other side. The police began assaulting the demonstrators, knocking many to the ground and beating them with nightsticks. Another detachment of troopers fired tear gas, and mounted troopers charged the crowd on horseback. One marcher, a fourteen year old girl, required 28 stiches in the back of her head.\n\nThis assault ended the first attempt of protestors to march to Montgomery, but it brought international attention to the protest. On March 21st, a third attempt was made to march to Montgomery, this one successful and culminating in 25,000 people marching to the State Capitol Building. The protest was a watershed moment in the civil rights struggle, and, by the next year, 11,000 black people successfully registered to vote in Selma.`,
+        link: 'http://digital.wustl.edu/e/eop/eopweb/you0015.0111.115revandrewyoung.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Selma_to_Montgomery_marches#%22Bloody_Sunday%22_events'
       },
     ],
     'Labor': [
@@ -4919,13 +4919,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'March 11th, 1926',
+        title: 'Ralph Abernathy (1926 - 1990)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ralphAbernathy.jpg'),
+        description: `Ralph David Abernathy Sr. was an American civil rights activist and Baptist minister, born on this day in 1926. As a leader of the Civil Rights Movement, he was a close friend and mentor of Martin Luther King Jr. He collaborated with King to create the Montgomery Improvement Association which led to the Montgomery bus boycott and co-founded the Southern Christian Leadership Conference (SCLC).\n\nAbernathy is noted for leading, among other demonstrations, the Poor People's Campaign in Washington, D.C., testifying in Congress in favor of the Voting Rights Act of 1982, and brokering a deal between Native Americans and the U.S. government during the Wounded Knee Incident of 1973. His tombstone reads "I tried".`,
+        link: 'https://www.wnyc.org/story/dr-and-mrs-ralph-abernathy-interview/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ralph_Abernathy'
       },
     ],
     'Assassinations': [
@@ -5022,13 +5022,13 @@ export const eventLibrary = {
   '3-13': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'March 13th, 1979',
+        title: 'Revolution in Grenada (1979)',
+        imgSrc: require('./assets/eventPhotos/Events/grenadaRevolution.jpg'),
+        description: `On this day in 1979, The People's Revolutionary Government (PRG) was proclaimed after the New Jewel Movement overthrew the government of Grenada in a socialist revolution. Maurice Bishop, leader of the New Jewel Movement, became Prime Minister.\n\nThe regime was particularly active in developing social policies: a Centre for Popular Education was established to coordinate government initiatives in education, including literacy campaigns. The learning of Grenada Creole was allowed at school. In the health sector, medical consultations were made free of charge with the help of Cuba, which provided doctors, and milk was distributed to pregnant women and children. The government also began setting up a system of financial loans and equipment for farmers, and agricultural cooperatives were being set up to develop the activity.\n\nThe government ruled by decree, having suspended the constitution the previous regime, until a factional conflict broke out, which resulted in Maurice Bishop's exeuction. Ronald Reagan launched an invasion a few weeks later, in October of 1983.`,
+        link: 'https://www.jacobinmag.com/2019/09/grenada-revolution-maurice-bishop-reagan',
+        infoSrc: 'https://en.wikipedia.org/wiki/People%27s_Revolutionary_Government_(Grenada)'
       },
     ],
     'Rebellion': [
@@ -5362,13 +5362,13 @@ export const eventLibrary = {
   '3-18': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'March 28th, 1871',
+        title: 'Paris Commune Begins (1871)',
+        imgSrc: require('./assets/eventPhotos/Events/parisCommune.jpg'),
+        description: `The Paris Commune was a radical socialist and revolutionary government that formed in Paris on this day in 1871. A hotbed of working-class radicalism, the Paris Commune was a watershed moment in revolutionary left history. A few months after it was formed, the commune was attacked and defeated by the French National Army on May 21st, 1871, beginning the so-called "Bloody Week".\n\nThe government of the Paris Commune developed a set of policies that tended towards a progressive, secular, and highly democratic social democracy, although its existence was too brief to implement all of them. Among these policies were the separation of church and state, abolition of child labour, abolishment of interest on some forms of debt, as well as the right of employees to take over and run an enterprise if it was deserted by its original owner.\n\nThe Paris Commune was analyzed by many communist thinkers, most notably Karl Marx, who called it a "dictatorship of the proletariat." Vladimir Lenin danced in the snow when the newly formed Bolshevik goverment lasted longer than the Paris Commune. It inspired similar revolutionary attempts around the world, including in Moscow (1905), Petrograd (1917), Shanghai (1927 and 1967), and Seattle (2020).`,
+        link: 'https://www.jacobinmag.com/2015/05/kristin-ross-communal-luxury-paris-commune/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Paris_Commune'
       },
     ],
     'Rebellion': [
@@ -5577,13 +5577,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'March 21st, 1965',
+        title: `Selma-Montgomery March (1965)`,
+        imgSrc: require('./assets/eventPhotos/Events/selmaMarch.jpg'),
+        description: `The Selma to Montgomery marches were three protest marches, held in 1965, along the 54-mile highway from Selma, Alabama, to the state capitol of Montgomery. The marches were organized by nonviolent activists to demonstrate the desire of African-American citizens to exercise their constitutional right to vote, in defiance of segregationist repression. By highlighting racial injustice, they contributed to passage that year of the Voting Rights Act, a landmark federal achievement of the civil rights movement.\n\nThe first attempt to make the march happened on March 7th. After attempting to cross the Edmund Pettus Bridge, police began assaulting the demonstrators, knocking many to the ground, beating them with nightsticks, and firing teargas. One marcher, a fourteen year old girl, required 28 stiches in the back of her head.\n\nThis assault ended the first attempt of protestors to march to Montgomery, but it brought international attention to the protest. After a federal court ruled that the march was legal, finally, on this day in 1965, a third and successful attempt to march to Montgomery. By its end, 25,000 people marched to steps of the State Capitol Building in Montgomery. The protest was a watershed moment in the civil rights struggle, and, by the next year, 11,000 black people successfully registered to vote in Selma.`,
+        link: 'http://digital.wustl.edu/e/eop/eopweb/you0015.0111.115revandrewyoung.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Selma_to_Montgomery_marches#%22Bloody_Sunday%22_events'
       },
     ],
     'Labor': [
@@ -6505,13 +6505,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 3rd, 1964',
+        title: `"The Ballot or The Bullet" Speech`,
+        imgSrc: require('./assets/eventPhotos/Events/ballotBullet.jpg'),
+        description: `On this day in 1964, Malcolm X delivered the famous "The Ballot or the Bullet" speech at Cory Methodist Church in Cleveland, Ohio. Malcolm X advised African Americans to judiciously exercise their right to vote, but he cautioned that, if the government continued to prevent African Americans from attaining full equality, it might be necessary for them to take up arms. Here is a brief excerpt:\n\n"I went to a white school over here in Mason, Michigan. The white man made the mistake of letting me read his history books. He made the mistake of teaching me that Patrick Henry was a patriot, and George Washington – wasn't nothing non-violent about ol' Pat, or George Washington. 'Liberty or death' is was what brought about the freedom of whites in this country from the English.\n\nThis is why I say it's the ballot or the bullet. It's liberty or it's death. It's freedom for everybody or freedom for nobody.\n\n...\n\nA revolution is bloody, but America is in a unique position. She's the only country in history in the position actually to become involved in a bloodless revolution. All she's got to do is give the Black man in this country everything that's due him. Everything."`,
+        link: 'http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtid=3&psid=3624',
+        infoSrc: 'https://en.wikipedia.org/wiki/The_Ballot_or_the_Bullet'
       },
     ],
   },
@@ -7611,13 +7611,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 19th, 1960',
+        title: 'Looby House Bombing (1960)',
+        imgSrc: require('./assets/eventPhotos/Events/loobyBombing.jpg'),
+        description: `Z. Alexander Looby was a Nashville politician and famous civil rights attorney who worked with the NAACP. He is notable for his defense of the 25 black men charged with murder as part of the 1946 Columbia Race Riots and supporting the students participating in the Nashville Sit-ins of 1960.\n\nOn this day in 1960, a bundle of dynamite was lobbed towards the front of the house of Z. Alexander Looby, a Nashville councilman and famed civil rights attorney. Rolling onto the home’s concrete foundation, it detonated, the blast destroying the front of the house.\n\nLooby survived, and the bombing was the catalyst for a march held later that day, in which nearly 3,000 people marched to City Hall in total silence. Once the crowd converged on City Hall, they were met on the steps of the plaza by Mayor Ben West, who admitted to the crowd that he supported desgregating the lunch counters.`,
+        link: 'https://en.wikipedia.org/wiki/Z._Alexander_Looby',
+        infoSrc: 'https://www.atlasobscura.com/places/site-of-the-looby-house-bombing'
       },
     ],
   },
@@ -7896,13 +7896,13 @@ export const eventLibrary = {
   '4-24': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'April 24th, 1916',
+        title: 'Easter Rising (1916)',
+        imgSrc: require('./assets/eventPhotos/Events/easterRising.jpg'),
+        description: `The Easter Rising was an armed insurrection in Ireland that began on this day in 1916. The Rising was launched by Irish republicans to end British rule in Ireland and establish an independent Irish Republic while the United Kingdom was fighting the First World War. It was the most significant uprising in Ireland since the rebellion of 1798 and the first armed action of the Irish revolutionary period.\n\nThe rebellion was a collaboration of multiple militant Irish organizations, including the Irish Volunteers, the Irish Citizen Army, and Cumann na mBan, an Irish women's paramilitary force. Notable leaders include schoolmaster and Irish language activist Patrick Pearse and socialist James Connolly. Together, they seized strategically important buildings in Dublin and proclaimed an Irish Republic.\n\nThe Easter Rising lasted for six days and killed nearly 500 people, wounding 2,600 more. Sixteen of the Rising's leaders were executed in May 1916, but the insurrection, the nature of the executions, and subsequent political developments ultimately contributed to an increase in popular support for Irish independence.`,
+        link: 'http://www.easter1916.net/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Easter_Rising'
       },
     ],
     'Rebellion': [
@@ -8530,13 +8530,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 3rd, 1926',
+        title: 'Salford General Strike (1926)',
+        imgSrc: require('./assets/eventPhotos/Events/salfordStrike.jpg'),
+        description: `The Salford General Strike began on this day in 1926. It was a planned due to coal mine owners proposing drastic reductions in pay for the miners in June of 1925. The strike included workers from mines, shipyards, mill workers, and engineers, and is one of the first general strikes in UK history.\n\nThe dockers firmly refused to allow any movement of goods on the docks, causing a bread shortage. The government tried to forcibly move flour and grain to bakeries, but were prevented from doing so by the mill workers and dockers.`,
+        link: 'https://libcom.org/history/general-strike-salford-1911-edmund-ruth-frow',
+        infoSrc: 'http://www.salfordstar.com/article.asp?id=100'
       },
     ],
     'Birthdays': [
@@ -9125,13 +9125,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 11th, 1973',
+        title: 'Ellsberg Charged With Espionage (1973)',
+        imgSrc: require('./assets/eventPhotos/Individuals/danielEllsberg.jpg'),
+        description: `Daniel Ellsberg is an American economist, activist and former United States military analyst who, while employed by the RAND Corporation, precipitated a national political controversy in 1971 when he released the Pentagon Papers, a top-secret Pentagon study of the U.S. government decision-making in relation to the Vietnam War.\n\nOn January 3rd, 1973, Ellsberg was charged under the Espionage Act of 1917 along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Due to governmental misconduct and illegal evidence-gathering he was dismissed of all charges against Ellsberg on on this day in 1973.`,
+        link: 'https://www.npr.org/2018/01/19/579101965/daniel-ellsberg-explains-why-he-leaked-the-pentagon-papers',
+        infoSrc: 'https://en.wikipedia.org/wiki/Daniel_Ellsberg'
       },
     ],
   },
@@ -9193,13 +9193,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 12th, 1968',
+        title: "Poor People's March (1968)",
+        imgSrc: require('./assets/eventPhotos/Events/poorPeoplesMarch.jpg'),
+        description: `The Poor People's Campaign, or Poor People's March on Washington, was a 1968 effort to gain economic justice for poor people in the United States. It was organized by Martin Luther King, Jr. and the Southern Christian Leadership Conference (SCLC), and carried out under the leadership of Ralph Abernathy in the wake of King's assassination.\n\nAfter presenting an organized set of demands to Congress and executive agencies, participants set up a 3,000-person protest camp on the Washington Mall, where they stayed for six weeks in the spring of 1968. Among those demands was a proposal for an "economic bill of rights" that included a commitment to full employment, a guaranteed annual income measure, and more low-income housing. for poor Americans of all races.`,
+        link: 'https://www.theatlantic.com/politics/archive/2018/04/mlk-last-march/555953/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Poor_People%27s_Campaign'
       },
     ],
   },
@@ -9759,13 +9759,13 @@ export const eventLibrary = {
   '5-21': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'May 21st, 1871',
+        title: 'Paris Commune Dissolves (1871)',
+        imgSrc: require('./assets/eventPhotos/Events/parisCommune.jpg'),
+        description: `The Paris Commune was a radical socialist and revolutionary government that formed in Paris on March 18th, 1871. A hotbed of working-class radicalism, the Paris Commune was a watershed moment in revolutionary left history. A few months after it was formed, the commune was attacked and defeated by the French National Army on this day in 1871, beginning the so-called "Bloody Week".\n\nAfter crushing the rebellion, the French government imprisoned almost 44,000 for their role in the uprising, and estimated deaths from the fighting are around 20,000.\n\nThe government of the Paris Commune developed a set of policies that tended towards a progressive, secular, and highly democratic social democracy, although its existence was too brief to implement all of them. Among these policies were the separation of church and state, abolition of child labour, abolishment of interest on some forms of debt, as well as the right of employees to take over and run an enterprise if it was deserted by its original owner.\n\nThe Paris Commune was analyzed by many communist thinkers, most notably Karl Marx, who called it a "dictatorship of the proletariat." Vladimir Lenin danced in the snow when the newly formed Bolshevik goverment lasted longer than the Paris Commune. It inspired similar revolutionary attempts around the world, including in Moscow (1905), Petrograd (1917), Shanghai (1927 and 1967), and Seattle (2020).`,
+        link: 'https://www.jacobinmag.com/2015/05/kristin-ross-communal-luxury-paris-commune/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Paris_Commune'
       },
     ],
     'Rebellion': [
@@ -10358,13 +10358,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 29th, 1851',
+        title: `"Ain't I a Woman?" Speech (1851)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/sojournerTruth.jpg'),
+        description: `Sojourner Truth was an American abolitionist and women's rights activist. Truth was born into slavery in Swartekill, New York, but escaped with her infant daughter to freedom in 1826. After going to court to recover her son in 1828, she became the first black woman to win such a case against a white man.\n\nOn this day in 1851, she gave what's now known as the "Ain't I a Woman?" speech, which was delivered to the Women's Convention in Akron, Ohio. Here is a short excerpt (from Marius Robinson's transcription):\n\n"I want to say a few words about this matter. I am a woman's rights. [sic] I have as much muscle as any man, and can do as much work as any man. I have plowed and reaped and husked and chopped and mowed, and can any man do more than that? I have heard much about the sexes being equal. I can carry as much as any man, and can eat as much too, if I can get it. I am as strong as any man that is now.\n\nAs for intellect, all I can say is, if a woman have a pint, and a man a quart – why can't she have her little pint full? You need not be afraid to give us our rights for fear we will take too much, – for we can't take more than our pint'll hold."`,
+        link: 'https://en.wikipedia.org/wiki/Sojourner_Truth',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ain%27t_I_a_Woman%3F'
       },
     ],
   },
@@ -12082,13 +12082,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'June 24th, 1976',
+        title: 'Radom Riots (1976)',
+        imgSrc: require('./assets/eventPhotos/Events/radomRiots.jpg'),
+        description: `Occurring on this day in 1976, the Radom riots were related to the nationwide workers' protest against the government decision to implement a previously unannounced increase in the prices of food and meat. They took the form of a spontaneous demonstration by workers on the city streets, a demonstration during which some public office buildings were severely damaged and many shops were looted. A similar demonstration also took place in a large tractor factory in Ursus, near Warsaw.\n\nAlthough the authorities arrested and prosecuted many hundreds of protesters, within 24 hours, the price raises were reversed. Viewed in retrospect, the 1976 workers' protest against official economic policy was a turning point in Poland for both the process of government decision-making and in the evolution of a social movement of self-assertion.`,
+        link: 'https://en.wikipedia.org/wiki/June_1976_protests',
+        infoSrc: 'https://libcom.org/library/poznan-1956-radom-1976'
       },
     ],
     'Labor': [
@@ -12150,13 +12150,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'June 25th, 1876',
+        title: 'Battle of Little Bighorn (1876)',
+        imgSrc: require('./assets/eventPhotos/Events/littleBighorn.jpg'),
+        description: `The Battle of the Little Bighorn, known to the Lakota and other Plains Indians as the Battle of the Greasy Grass, was an armed engagement between combined forces of the Lakota, Northern Cheyenne, and Arapaho tribes and the 7th Cavalry Regiment of the United States Army. The battle, which resulted in the defeat of U.S. forces, was the most significant action of the Great Sioux War.\n\nIt began on this day in 1876 when Colonel Custer, who was killed in the fighting, led an attack against an encampment of combined tribes. His strategy was to seize as many "non-combatants" as possible (i.e., women, the disabled, and children), and force the men to surrender to protect their families. Custer drastically underestimated the amount of Native Americans present, however, and no member of his attacking battalion survived their charge on the Native Americans.\n\nUnfortunately, the Native American victory did not have momentum in their battle against the seizure of their lands. Days later, Crazy Horse (a leader in the Sioux resistance) surrendered to the government and died in custody. As a result of the battle, the U.S. government threatened to withhold all food aid to reservations if the Sioux did not cease hostilities and cede South Dakota land. Threatened with starvation, they complied in 1877.`,
+        link: 'https://www.zinnedproject.org/news/tdih/battle-little-big-horn/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_the_Little_Bighorn'
       },
     ],
     'Labor': [
@@ -12244,8 +12244,8 @@ export const eventLibrary = {
         date: 'June 26th, 1908',
         title: 'Salvador Allende (1908 - 1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),
-        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; he was Latin America's first ever Marxist to be elected president in a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. He clashed with the right-wing parties that controlled Congress and with the judiciary.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
-        link: 'https://en.wikipedia.org/wiki/Salvador_Allende',
+        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on this day in 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
+        link: 'https://jacobinmag.com/2019/09/salvador-allende-chile-revolucion-democratica-frente-amplio',
         infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
       },
     ],
@@ -12312,7 +12312,7 @@ export const eventLibrary = {
         date: 'June 27th, 1869',
         title: 'Emma Goldman (1869 - 1940)',
         imgSrc: require('./assets/eventPhotos/Individuals/emmaGoldman.jpg'),
-        description: `Emma Goldman was an anarchist political activist and writer. She played a pivotal role in the development of anarchist political philosophy in North America and Europe in the first half of the 20th century.\n\nBorn in Kaunas, Russian Empire (now Lithuania) to a Jewish family, Goldman emigrated to the United States in 1885. Attracted to anarchism after the Chicago Haymarket affair, Goldman became a writer and a renowned lecturer on anarchist philosophy, women's rights, and social issues, attracting crowds of thousands. She and anarchist writer Alexander Berkman, her lover and lifelong friend, planned to assassinate industrialist and financier Henry Clay Frick as an act of "propaganda of the deed". Frick survived the attempt on his life in 1892, and Berkman was sentenced to 22 years in prison. Goldman was imprisoned several times in the years that followed, for "inciting to riot" and illegally distributing information about birth control.\n\nIn 1917, Goldman and Berkman were sentenced to two years in jail for conspiring to "induce persons not to register" for the newly instated draft. After their release from prison, they were arrested—along with 248 others—and deported to Russia. Initially supportive of that country's October Revolution that brought the Bolsheviks to power, Goldman changed her opinion in the wake of the Kronstadt rebellion; she denounced the Soviet Union for its violent repression of independent voices. She left the Soviet Union and in 1923 published a book about her experiences, My Disillusionment in Russia.\n\nDuring her life, Goldman was lionized as a freethinking "rebel woman" by admirers, and denounced by detractors as an advocate of politically motivated murder and violent revolution. Her writing and lectures spanned a wide variety of issues, including prisons, atheism, freedom of speech, militarism, capitalism, marriage, free love, and homosexuality. Although she distanced herself from first-wave feminism and its efforts toward women's suffrage, she developed new ways of incorporating gender politics into anarchism.`,
+        description: `Emma Goldman was an anarchist political activist and writer. She played a pivotal role in the development of anarchist political philosophy in North America and Europe in the first half of the 20th century.\n\nAttracted to anarchism after the Chicago Haymarket affair, Goldman became a writer and a renowned lecturer on anarchist philosophy, women's rights, and social issues, attracting crowds of thousands. She and anarchist writer Alexander Berkman, her lover and lifelong friend, planned to assassinate industrialist and financier Henry Clay Frick as an act of "propaganda of the deed". Frick survived the attempt on his life in 1892, and Berkman was sentenced to 22 years in prison. Goldman was imprisoned several times in the years that followed, for "inciting to riot" and illegally distributing information about birth control.\n\nAfter their release from prison, Goldman and Berkman were again arrested and deported to Russia. Initially supportive of that country's October Revolution that brought the Bolsheviks to power, Goldman changed her opinion in the wake of the Kronstadt rebellion; she denounced the Soviet Union for its violent repression of independent voices. She left the Soviet Union and in 1923 published a book about her experiences, My Disillusionment in Russia.\n\nDuring her life, Goldman was lionized as a freethinking "rebel woman" by admirers, and denounced by detractors as an advocate of politically motivated murder and violent revolution. Her writing and lectures spanned a wide variety of issues, including prisons, atheism, freedom of speech, militarism, capitalism, marriage, free love, and homosexuality.`,
         link: 'https://en.wikipedia.org/wiki/Emma_Goldman',
         infoSrc: 'https://en.wikipedia.org/wiki/Emma_Goldman'
       },
@@ -12321,7 +12321,7 @@ export const eventLibrary = {
         date: 'June 27th, 1880',
         title: 'Helen Keller (1880 - 1968)',
         imgSrc: require('./assets/eventPhotos/Individuals/helenKeller.jpg'),
-        description: `Helen Adams Keller (June 27, 1880 – June 1, 1968) was an American author, socialist, anti-racist, and disability rights advocate. She was the first deaf-blind person to earn a Bachelor of Arts degree. The story of Keller and her teacher, Anne Sullivan, was made famous by Keller's autobiography, The Story of My Life, and its adaptations for film and stage, The Miracle Worker.\n\nIn 1909 Keller joined the American Socialist Party and campaigned for its candidates, including Eugene Debs, the SP leader who ran for U.S. president from his prison cell in 1920. She supported striking workers, including those murdered in 1914 in the Colorado Ludlow Massacre by hired mercenaries, and called owner John D. Rockefeller a “monster of capitalism.” She defined herself as a “militant suffragist,” campaigning for women’s right to vote because she believed this was linked to the struggle for socialism.\n\nContemporary critics lambasted Keller for her socialism. In a 1924 letter to social reformer U.S. Sen. Robert La Folette, she replied: “So long as I confine my activities to social service and the blind, they compliment me extravagantly, calling me ‘arch priestess of the sightless,’ ‘wonder woman,’ and a ‘modern miracle.’ But when it comes to a discussion of poverty, and I maintain that it is the result of wrong economics — that the industrial system under which we live is at the root of much of the physical deafness and blindness in the world — that is a different matter!”\n\nBy the time Keller died in 1968 at 87, the FBI had kept her under surveillance for most of her adult life.`,
+        description: `Helen Adams Keller, born on this day in 1880, was an American author, socialist, anti-racist, and disability rights advocate. She was the first deaf-blind person to earn a Bachelor of Arts degree.\n\nIn 1909, Keller joined the American Socialist Party and campaigned for its candidates, including Eugene Debs, the SP leader who ran for U.S. president from his prison cell in 1920. She supported striking workers, including those murdered the 1914 Colorado Ludlow Massacre, and called owner John D. Rockefeller a “monster of capitalism.” She defined herself as a “militant suffragist,” campaigning for women’s right to vote because she believed this was linked to the struggle for socialism.\n\nContemporary critics lambasted Keller for her socialism. In a 1924 letter to a U.S. Senator, she wrote “So long as I confine my activities to social service and the blind, they compliment me extravagantly, calling me ‘arch priestess of the sightless,’ ‘wonder woman,’ and a ‘modern miracle.’ But when it comes to a discussion of poverty, and I maintain that it is the result of wrong economics — that the industrial system under which we live is at the root of much of the physical deafness and blindness in the world — that is a different matter!”\n\nBy the time Keller died in 1968 at 87, the FBI had kept her under surveillance for most of her adult life.`,
         link: 'https://www.workers.org/2016/03/24250/',
         infoSrc: 'https://www.workers.org/2016/03/24250/'
       },
@@ -12374,13 +12374,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 28th, 1956',
+        title: 'The Poznan Revolt (1956)',
+        imgSrc: require('./assets/eventPhotos/Events/poznanRevolt.jpg'),
+        description: `The Poznan Revolt began on this day in 1956, in Poznan, Poland. It was a workers' revolt that took the form of large-scale street demonstrations. It arose from the failure of the political authorities to take action on the various economic grievances of workers in a large machinery plant against local management decisions. In the course of the march to the town square, many workers from other factories joined in as a sign of solidarity.\n\nThe purpose of the demonstration was not to revolt against the authorities, however, but rather to bring home to the public the poor working conditions in the factory and to appeal to officialdom for some improvement. Commenting subsequently on the character of the demonstration, a perceptive eyewitness observed that it had been "reminiscent of the January 1905 Petersburg march [on the Czar's palace] rather than the activities of workers in the second half of the 20th century."\n\nAfter being shot at by police, the peaceful protest turned into a riot, with various shops and official buildings being destroyed. Approximately seventy-five people were reported to have been killed, several hundreds were wounded, and uncounted numbers of others were subject to beatings and physical abuse.\n\nThe Poznan Revolt shattered the image of the party's and government's seemingly indisputable authority, and it became the catalyst for a large movement toward social and political change throughout Poland.`,
+        link: 'https://en.wikipedia.org/wiki/Pozna%C5%84_protests_of_1956',
+        infoSrc: 'https://libcom.org/library/poznan-1956-radom-1976'
       },
     ],
     'Birthdays': [
@@ -14274,13 +14274,13 @@ export const eventLibrary = {
   '7-26': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'July 26th, 1953',
+        title: 'Cuban Revolution (1953-58)',
+        imgSrc: require('./assets/eventPhotos/Events/cubanRevolution.jpg'),
+        description: `The Cuban Revolution was an armed revolt conducted by Fidel Castro's revolutionary 26th of July Movement and its allies against the U.S.-backed dictatorship of Cuban President Fulgencio Batista. The revolution began on this day in 1953, and continued sporadically until the rebels finally ousted Batista on the 31st of December, 1958, replacing his government with a revolutionary socialist state.\n\nThe Cuban Revolution had powerful domestic and international repercussions. In particular, it made Cuba's relationship with the United States significantly more antagonistic. In the immediate aftermath of the revolution, Castro's government began a program of nationalization, centralization of the press and political consolidation that transformed Cuba's economy and civil society. The revolution also ushered in an era of Cuban intervention in foreign military conflicts, perhaps most notably siding with anti-apartheid fighters against the government in South Africa (1962-74).\n\nToday is celebrated in Cuba as the Day of the Revolution (Dia de la Revolución). Castro's 26th of July Movement later reformed along communist lines, becoming the Communist Party in October of 1965.`,
+        link: 'https://www.jacobinmag.com/2015/06/cuban-revolution-fidel-che-raul-castro/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Cuban_Revolution'
       },
     ],
     'Rebellion': [
@@ -14651,7 +14651,7 @@ export const eventLibrary = {
         date: 'July 31st, 1921',
         title: 'Whitney Young Jr. (1921 - 1971)',
         imgSrc: require('./assets/eventPhotos/Individuals/whitneyYoung.jpg'),
-        description: `Whitney Moore Young Jr. was an American civil rights leader. He spent most of his career working to end employment discrimination in the United States and turning the National Urban League from a relatively passive civil rights organization into one that aggressively worked for equitable access to socioeconomic opportunity for the historically disenfranchised.`,
+        description: `Whitney Moore Young Jr. was an American civil rights leader born on this day in 1921.\n\nHe spent most of his career working to end employment discrimination in the United States and turning the National Urban League from a relatively passive civil rights organization into one that aggressively worked for equitable access to socioeconomic opportunity for the historically disenfranchised.`,
         link: 'https://en.wikipedia.org/wiki/Whitney_Young',
         infoSrc: 'https://en.wikipedia.org/wiki/Whitney_Young'
       },
@@ -14886,13 +14886,13 @@ export const eventLibrary = {
   '8-4': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
+        category: 'Revolution',
+        date: 'August 4th, 1984',
+        title: 'Burkina Faso Founded (1984)',
+        imgSrc: require('./assets/eventPhotos/Individuals/thomasSankara.jpg'),
+        description: `On this day in 1984, the country of Upper Volta, a French colonial name, became Burkina Faso, which means "Land of the Upright People". This was done by the National Council of the Revolution (NCR), led by Thomas Sankara, the new head of state of Burkina Faso.\n\nHis administration was known for refusing all foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literarcy, women's rights, and public health, including vaccinating over two and a half million children against meningitis, yellow fever and measles.\n\nOn 15 October 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
         link: '',
-        infoSrc: ''
+        infoSrc: 'https://www.jacobinmag.com/2015/05/thomas-sankara-burkina-faso-assassination/'
       },
     ],
     'Rebellion': [
@@ -16119,13 +16119,13 @@ export const eventLibrary = {
   '8-22': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'August 22nd, 1791',
+        title: 'Haitian Revolution Begins (1791)',
+        imgSrc: require('./assets/eventPhotos/Events/haitianRevolution.jpg'),
+        description: `The Haitian Revolution was a successful insurrection by self-liberated slaves against French colonial rule in Saint-Domingue, now the sovereign state of Haiti. The revolt began on this day in 1791, and Haiti didn't achieve independence from France until 1804. The Haitian Revolution was the only slave uprising that led to the founding of a state which was both free from slavery, and ruled by non-whites and former captives.\n\nThe revolt began when thousands of slaves began to kill their masters and plunged the colony into civil war after a well-attended vodou ceremony. Within the next ten days, slaves had taken control of the entire Northern Province in an unprecedented slave revolt. The slaves sought revenge on their masters through "pillage, rape, torture, mutilation, and death". Over 200,000 black people died from the initial uprising until independence.\n\nToussaint Louverture was a notable military leader of the revolution, but died shortly before independence was won. His former lieutenant Jean-Jacques Dessalines became the first leader of the newly independent nation in 1804.`,
+        link: 'https://en.wikipedia.org/wiki/Haitian_Revolution',
+        infoSrc: 'https://en.wikipedia.org/wiki/Haitian_Revolution'
       },
     ],
     'Rebellion': [
@@ -16591,13 +16591,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'August 28th, 1963',
+        title: `"I Have a Dream" Speech (1963)`,
+        imgSrc: require('./assets/eventPhotos/Events/dreamSpeech.jpg'),
+        description: `On this day in 1963, Martin Luther King Jr. gave the "I Have a Dream" speech to over 250,000 civil rights supporters from the steps of the Lincoln Memorial, during the March on Washington for Jobs and Freedom in Washington, D.C. The speech was a defining moment of the civil rights movement and among the most iconic speeches in American history. Here is a brief excerpt:\n\n"In a sense we've come to our nation's capital to cash a check. When the architects of our republic wrote the magnificent words of the Constitution and the Declaration of Independence, they were signing a promissory note to which every American was to fall heir. This note was a promise that all men, yes, black men as well as white men, would be guaranteed the 'unalienable Rights' of 'Life, Liberty and the pursuit of Happiness.'\n\nIt is obvious today that America has defaulted on this promissory note, insofar as her citizens of color are concerned. Instead of honoring this sacred obligation, America has given the Negro people a bad check, a check which has come back marked "'insufficient funds.'"`,
+        link: 'https://www.americanrhetoric.com/speeches/mlkihaveadream.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/I_Have_a_Dream'
       },
     ],
   },
@@ -16955,13 +16955,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 3rd, 2016',
+        title: 'Dakota Access Protestors (2016)',
+        imgSrc: require('./assets/eventPhotos/Events/dakotaPipelineDog.jpg'),
+        description: `The Dakota Access Pipeline protests were grassroots movements that began in early 2016 in reaction to the approved construction of Energy Transfer Partners' Dakota Access Pipeline in the northern United States. Many in the Standing Rock tribe and surrounding communities considered the pipeline and its intended crossing beneath the Missouri River to constitute a threat to the region's drinking and irrigation water, as well as to cultural sites of historic importance.\n\nOn this day in 2016, the Dakota Access Pipeline company used bulldozers to dig up part of the pipeline route that contained possible Native graves and burial artifacts; the land was subject to a pending legal injunction. Protestors stormed the land and were attacked by a private security firm, armed with attack dogs and pepper spray.\n\nAmy Goodman, journalist with Democracy Now!, followed the protestors and recorded them being attacked by the firm. Goodman was later issued an arrest warrant by a state prosecutor for her actions.`,
+        link: 'https://www.youtube.com/watch?v=kuZcx2zEo4k',
+        infoSrc: 'https://en.wikipedia.org/wiki/Dakota_Access_Pipeline_protests#Security_firm_use_of_dogs_and_pepper_spray_against_protesters'
       },
     ],
     'Labor': [
@@ -17363,13 +17363,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 9th, 1971',
+        title: 'Attica Prison Riot (1971)',
+        imgSrc: require('./assets/eventPhotos/Events/atticaPrisonRiot.jpg'),
+        description: `The Attica Prison uprising, also known as the Attica Prison rebellion or Attica Prison riot, occurred at the Attica Correctional Facility in Attica, New York, United States, on this day in 1971. Based upon prisoners' demands for better living conditions and political rights, the uprising was one of the most well-known and significant flashpoints of the Prisoners' Rights Movement.\n\nThe rebellion began two weeks after the killing of George Jackson at San Quentin State Prison, when the 1,281 of the Attica prison's approximately 2,200 inmates rioted and took control of the prison, taking 42 staff hostage. After four days of fruitless negotiations and escalating tensions between prisoners and police, Gov. Nelson Rockefeller (who refused to come to the scene in person) ordered that the prison be retaken; 39 people were killed in a 15-minute assault by state police.`,
+        link: 'https://www.zinnedproject.org/materials/attica-prison-uprising/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Attica_Prison_riot'
       },
     ],
     'Labor': [
@@ -17537,7 +17537,7 @@ export const eventLibrary = {
         title: 'Salvador Allende (1908 - 1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),
         description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; he was Latin America's first ever Marxist to be elected president in a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. He clashed with the right-wing parties that controlled Congress and with the judiciary.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of a gunshot wound, which the new government claimed was self-inflicted. Although this conclusion was supported by later investigations, speculations of Allende being murdered continue to this day.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
-        link: 'https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat',
+        link: 'https://www.jacobinmag.com/2016/09/chile-coup-santiago-allende-social-democracy-september-11-2',
         infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
       },
     ],
@@ -17664,6 +17664,15 @@ export const eventLibrary = {
         description: `Elmer "Geronimo" Pratt, also known as Geronimo Ji-Jaga and Geronimo Ji-Jaga Pratt, was a decorated military veteran and a high-ranking member of the Black Panther Party in the United States in the late 1960s and early 1970s. He moved to Los Angeles, where he studied at UCLA under the GI Bill and joined the Black Panther Party. Pratt was also a target of the FBI's COINTEL program, which sought to subvert black power movements.\n\nIn 1972, Pratt was wrongfully convicted for murder and served 27 years in prison, eight of which were in solitary confinement. Pratt was freed in 1997 when his conviction was vacated due to the prosecution concealing wiretaps that proved he was not at the scene of the murder.`,
         link: 'https://en.wikipedia.org/wiki/Black_Panther_Party',
         infoSrc: 'https://en.wikipedia.org/wiki/Geronimo_Pratt'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 13th, 1964',
+        title: 'Tavis Smiley (1964 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/tavisSmiley.jpg'),
+        description: `Tavis Smiley (/ˈtævɪs/; born September 13, 1964) is an American talk show host and author. Smiley was born in Gulfport, Mississippi, and grew up in Bunker Hill, Indiana. From 2010 to 2013, Smiley and Cornel West worked together to host their own radio talk show, Smiley & West.\n\nIn 2012, Smiley participated in a "Poverty Tour" with Princeton University professor Cornel West to promote their book The Rich and the Rest of Us: A Poverty Manifesto. The stated aim of the tour was to highlight the plight of the impoverished population of the United States prior to the 2012 presidential election, whose candidates Smiley and West stated had ignored the plight of the poor.`,
+        link: 'https://pnhp.org/news/smiley-and-west-the-rich-and-the-rest-of-us/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Tavis_Smiley'
       },
     ],
     'Assassinations': [
@@ -17907,13 +17916,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 17th, 2011',
+        title: 'Occupy Wall Street (2011)',
+        imgSrc: require('./assets/eventPhotos/Events/occupyWallStreet.jpg'),
+        description: `Occupy Wall Street (OWS) was a protest movement against economic inequality that began on this day in Zuccotti Park, located in New York City's Wall Street financial district, in 2011. It gave rise to the wider Occupy movement in the United States and other countries.\n\n The OWS slogan, "We are the 99%", refers to income and wealth inequality in the U.S. between the wealthiest 1% and the rest of the population. To achieve their goals, protesters acted on consensus-based decisions made in general assemblies which emphasized redress through direct action.`,
+        link: 'https://www.rferl.org/a/what_does_the_occupy_wall_street_movement_want/24356295.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Occupy_Wall_Street'
       },
     ],
     'Labor': [
@@ -18278,13 +18287,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 22nd, 1928',
+        title: 'James Lawson (1928 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/jamesLawson.jpg'),
+        description: `James Morris Lawson, Jr. (born on this day in 1928) is an American activist and university professor. He was a leading theoretician and tactician of nonviolence within the Civil Rights Movement. During the 1960s, he served as a mentor to the Nashville Student Movement and the Student Nonviolent Coordinating Committee.\n\nLawson was expelled from Vanderbilt University for his role in organizing the Nashville Sit-ins in 1960. He later served as a pastor in Los Angeles, California, for 25 years.`,
+        link: 'http://repository.wustl.edu/concern/videos/mp48sf472',
+        infoSrc: 'https://en.wikipedia.org/wiki/James_Lawson_(activist)'
       },
     ],
     'Assassinations': [
@@ -18980,13 +18989,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 2nd, 1968',
+        title: 'Tlatelolco Massacre (1968)',
+        imgSrc: require('./assets/eventPhotos/Events/tlatelolcoMassacre.jpg'),
+        description: `On this day in 1968, around 10,000 university and high school students gathered in the Plaza de las Tres Culturas to protest the government's actions and listen peacefully to speeches. The crowd, which also included non-students such as residential neighbors, bystanders, and children, was fired upon by the Mexican military that evening.\n\nAlthough the Mexican government said gunfire from the surrounding apartments prompted the army's attack, multiple eyewitness accounts claim they saw a military flare go up as a sign to begin firing on the crowd. The government also had hidden soldiers with machine guns in the apartment buildings they claimed they were fired upon from.\n\nEstimates of the total killed range from 300-400, and over 1,300 people were arrested. The event radicalized Subcomandante Marcos, who later became a prominent member of the Zapatistas, an indigenous group that seeks liberation from the Mexican government.`,
+        link: 'https://www.npr.org/templates/story/story.php?storyId=97546687',
+        infoSrc: 'https://en.wikipedia.org/wiki/Tlatelolco_massacre'
       },
     ],
   },
@@ -19116,13 +19125,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 4th, 1984',
+        title: 'Sankara U.N. Speech (1984)',
+        imgSrc: require('./assets/eventPhotos/Events/sankaraSpeech.jpg'),
+        description: `Thomas Sankara (1949 – 1987) was a militant social justice campaigner and President of Burkina Faso from 1983 to 1987. A Marxist–Leninist and pan-Africanist, he was viewed by supporters as a charismatic and iconic figure of revolution and is sometimes referred to as "Africa's Che Guevara".\n\nOn this day in 1984, he gave a notable speech at the United Stations. Sankara had been in power for just over a year by this point. Here is an excerpt from the speech where he expresses international solidarity with oppressed peoples all over the world:\n\n"Let me say to those who are listening to me now that I speak not only on behalf of Burkina Faso, my country which I love so much, but also on behalf of all those who suffer, wherever they may be.\n\nI speak on behalf of those millions of human beings who are in ghettos because their skin is black, or because they have a different kind of culture, those whose status is hardly higher than that of an animal.\n\nI suffer, too, on behalf of those Indians who have been massacred, trampled on and humiliated and who, for centuries, have been confined to reservations, so that they do not have any aspirations to any rights whatsoever, so that their culture cannot become enriched through contact with other cultures, including that of the invader.\n\nI speak out on behalf of those who are unemployed because of a structurally unjust system which has now been completely disrupted, the unemployed who have been reduced to seeing their lives as only the reflection of the lives of those who have more than themselves.\n\nI speak on behalf of women throughout the entire world who suffer from a system of exploitation imposed on them by men".`,
+        link: 'https://en.wikipedia.org/wiki/Thomas_Sankara',
+        infoSrc: 'https://www.marxists.org/archive/sankara/1984/october/04.htm'
       },
     ],
   },
@@ -19276,13 +19285,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'October 7th, 2019',
+        title: 'Chilean Protests and Strikes (2019-20)',
+        imgSrc: require('./assets/eventPhotos/Events/chileProtests.jpg'),
+        description: `On this day in 2019, protests and riots began throughout Chile in response to a raise in the Santiago Metro's subway fare, the increased cost of living, privatisation and inequality prevalent in the country. The protests have been considered the "worst civil unrest" having occurred in Chile since the end of Augusto Pinochet's military dictatorship due to the scale of damage to public infrastructure, the number of protesters, and the measures taken by the government.\n\nOn the 25th of October, over a million people took to the streets throughout Chile to protest against President Piñera, demanding his resignation. As of December 29th, 2019, 29 people have died, nearly 2,500 have been injured, and 2,840 have been arrested. Human rights organisations have received several reports of violations conducted against protesters by security forces, including torture, sexual abuse and sexual assault.`,
+        link: 'https://en.wikipedia.org/wiki/2019%E2%80%932020_Chilean_protests',
+        infoSrc: 'https://en.wikipedia.org/wiki/2019%E2%80%932020_Chilean_protests'
       },
     ],
     'Labor': [
@@ -19864,13 +19873,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 15th, 1966',
+        title: 'Black Panther Party Founded (1966)',
+        imgSrc: require('./assets/eventPhotos/Events/blackPanthers.jpg'),
+        description: `The Black Panther Party (BPP) was a revolutionary socialist political organization founded by Marxist college students Bobby Seale and Huey Newton on this day in 1966, in Oakland, California.\n\nFrom its inception, the Black Panther Party's core practice was its open carry armed citizens' patrols ("copwatching") to monitor the behavior of officers of the Oakland Police Department and challenge police brutality in the city. In 1969, a variety of community social programs became a core activity. The Party instituted the Free Breakfast for Children Programs to address food injustice, and community health clinics for education and treatment of diseases including sickle cell anemia, tuberculosis, and later HIV/AIDS.\n\nThe BPP has had a volatile history, with many of its members, including founder Huey Newton, being involved in fatal conflicts with police, and the organization being targeted for harassment and violence as part of the FBI's COINTEL program.`,
+        link: 'https://www.jacobinmag.com/2016/10/black-panther-party-fifty-year-anniversary-founding',
+        infoSrc: 'https://en.wikipedia.org/wiki/Black_Panther_Party'
       },
     ],
   },
@@ -20498,13 +20507,13 @@ export const eventLibrary = {
   '10-25': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'October 25th, 1917',
+        title: 'October Revolution (1917)',
+        imgSrc: require('./assets/eventPhotos/Events/octoberRevolution.jpg'),
+        description: `The October Revolution, also known as the Bolshevik Revolution, began on this day in Russia, in 1917. Led by the Bolshevik Party of Vladimir Lenin, the revolution took place through an armed insurrection in Petrograd and was instrumental in the larger Russian Revolution of 1917–1923. The following day, the Winter Palace (the seat of the Provisional government located in Petrograd, then capitol of Russia) was captured.\n\nLong-awaited elections were held on November 12th. In contrast to their majority in the Soviets (local council governments), the Bolsheviks only won 175 seats in the 715-seat legislative body, coming in second behind the Socialist Revolutionary Party, which won 370 seats. On its first and only day in session, the Constituent Assembly came into conflict with the Soviets, and it rejected Soviet decrees on peace and land, resulting in the Constituent Assembly being dissolved by the Bolsheviks in January.\n\nThe political situation devolved into a civil war between the Bolsheviks, the Whites (counter-revolutionaries), Makhnovists, independence movements, and other socialist factions. Eventually, the Bolsheviks defeated all rival parties militarily and formed the Union of Soviet Socialist Republics (USSR) in 1922.`,
+        link: 'https://en.wikipedia.org/wiki/Russian_Revolution',
+        infoSrc: 'https://en.wikipedia.org/wiki/October_Revolution'
       },
     ],
     'Rebellion': [
@@ -21110,13 +21119,13 @@ export const eventLibrary = {
   '11-3': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'November 3rd, 1970',
+        title: 'Allende Assumes Office (1970)',
+        imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),
+        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on this day in 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
+        link: 'https://jacobinmag.com/2019/09/salvador-allende-chile-revolucion-democratica-frente-amplio',
+        infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
       },
     ],
     'Rebellion': [
@@ -22317,13 +22326,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'November 20th, 1920',
+        title: 'Dr. Robert Hayling (1920 - 2015)',
+        imgSrc: require('./assets/eventPhotos/Individuals/robertHayling.jpg'),
+        description: `Dr. Robert B. Hayling has been hailed as the "father" of St. Augustine's civil rights movement. He organized demonstrations and coordinated visiting activists, including Dr. Martin Luther King.\n\nDr. Hayling brought direct action to the local chapter of the NAACP by organizing young people into a youth council within the organization. At his dental office, Dr. Hayling taught them methods of nonviolent activism. He arranged picketing and sit-ins at white-only restaurants, and wade-ins at a white-only pool and beach, and was arrested many times for his activism, as well as being assaulted by the Ku Klux Klan.\n\nDr. Hayling is also remembered for this quote: "I and the others have armed. We will shoot first and answer questions later. We are not going to die like Medgar Evers." Accordingly, civil rights activists drove out KKK members who were terrorizing their neighborhoods at night with gunfire. Dr. Hayling died in 2015, at the age of 86.`,
+        link: 'https://www.visitstaugustine.com/history/black_history/dr_robert_hayling/',
+        infoSrc: 'https://www.visitstaugustine.com/history/black_history/dr_robert_hayling/'
       },
     ],
     'Assassinations': [
@@ -22760,13 +22769,13 @@ export const eventLibrary = {
   '11-27': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'November 27th, 1917',
+        title: 'Free Territory of Ukraine (1917)',
+        imgSrc: require('./assets/eventPhotos/Events/freeTerritory.jpg'),
+        description: `Makhnovia, also known as the Free Territory of Ukraine, was established on this day in 1917 with the capture of the Ukrainian city of Huliaipole. The Free Territory was an attempt to form a stateless anarchist society during the Ukrainian Revolution of 1917 to 1921. It existed from 1918 to 1921, during which time "free soviets" and libertarian communes operated under the protection of Nestor Makhno's Revolutionary Insurrectionary Army.\n\nAs Makhnovia self-organized along anarchist principles, references to "control" and "government" are highly contentious. For example, the Makhnovists, often cited as a form of government (with Nestor Makhno as their "leader"), played a purely military role, with Makhno himself functioning as little more than a military strategist and advisor. The economy of Makhnovia was market socialist and anarcho-communist in character (depending on the region) - where money was used, production was organized in the form of worker cooperatives.\n\nThe Bolsheviks were openly hostile to the Free Territory. On November 26, 1920, less than two weeks after the Revolutionary Insurrectionary Army assisted Bolshevik forces in defeating the White Army, Makhno's headquarters staff and many of his subordinate commanders were arrested at a Red Army planning conference to which they had been invited by Moscow, and executed. Nestor Makhno fled the region several months later, settling in Paris, France.`,
+        link: 'https://libcom.org/library/nestro-makhno-russian-civil-war',
+        infoSrc: 'https://en.wikipedia.org/wiki/Makhnovia'
       },
     ],
     'Rebellion': [
@@ -23315,13 +23324,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'December 5th, 1955',
+        title: 'Montgomery Bus Boycott Begins (1955)',
+        imgSrc: require('./assets/eventPhotos/Events/busBoycott.jpg'),
+        description: `The Montgomery Bus Boycott in Montgomery, Alabama was a crucial event in the 20th Century Civil Rights Movement. It began on this day in 1955. Just four days prior, Rosa Parks had refused to give up her seat on the bus for a white man and was subsequently arrested. The leader of the local NAACP chapter, E.D. Nixon, used the arrest to launch a bus boycott to fight the city’s segregated bus policy.\n\nThe boycott had widespread support in the black community, and black taxi drivers lowered their fares to match the cost of taking a bus in solidarity. In response, the membership of the "White Citizen's Council" dramatically increased.\n\nMany acts of terrorism were committed by whites in response to the boycott - the homes of Martin Luther King Jr. and Ralph Abernathy were firebombed, boycotters were often physically attacked, and dozens of activists were arrested.\n\nThe boycott ended on December 20th of 1956, when the city passed an ordinance allowing black members to sit where they wanted on the bus. The campaign of white terrorism continued, however, and all within the month that followed integration on buses, multiple churches were bombed, buses were subject to sniper fire, and at least one black man was lynched.`,
+        link: 'https://www.blackpast.org/african-american-history/montgomery-bus-boycott-1955-56/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Montgomery_bus_boycott'
       },
     ],
     'Labor': [
@@ -24140,13 +24149,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'December 17th, 2010',
+        title: 'Mohamed Bouazizi Self-Immolation (2010)',
+        imgSrc: require('./assets/eventPhotos/Individuals/mohamedBouazizi.jpg'),
+        description: `Tarek el-Tayeb Mohamed Bouazizi (29 March 1984 – 4 January 2011) was a Tunisian street vendor who set himself on fire on this day in 2010, which became a catalyst for the Tunisian Revolution and the wider Arab Spring against autocratic regimes.\n\nHis self-immolation was in response to the confiscation of his wares by police, mistreatment by city officials, and desperation of his own economic condition. Anti-government protests in Tunisia began within hours of his self-immolation, In 2011, Bouazizi was posthumously awarded the Sakharov Prize for his contribution to "historic changes in the Arab world"`,
+        link: 'https://en.wikipedia.org/wiki/Mohamed_Bouazizi',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mohamed_Bouazizi'
       },
     ],
     'Labor': [
