@@ -30,7 +30,7 @@ export class SpecificEvent extends React.Component {
             <Image
               style={styles.descriptionImg}
               source={this.props.event.imgSrc}
-              resizeMode={'cover'}
+              resizeMode={'contain'}
             />
           </View>
           <View style={styles.descriptionTextWrapper}>

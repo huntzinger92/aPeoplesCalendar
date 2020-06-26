@@ -102,16 +102,16 @@ export const styles = StyleSheet.create({
 
   },
   eventCategoryHeader: {
-    fontSize: 23,
+    fontSize: 26,
     fontWeight: 'bold',
     marginLeft: 'auto',
     marginRight: 'auto',
-    marginTop: 4,
-    marginBottom: 4,
+    marginTop: 6,
+    marginBottom: 6,
   },
   eventCategoryText: {
-    fontSize: 20,
-    marginLeft: 10,
+    fontSize: 22,
+    marginLeft: 3,
     padding: 5,
   },
   footer: {
@@ -152,6 +152,8 @@ export const styles = StyleSheet.create({
   specificEventButton: {
     borderBottomWidth: 1,
     padding: 1,
+    paddingTop: 8,
+    paddingBottom: 8,
   },
   text: {
     fontSize: 16,

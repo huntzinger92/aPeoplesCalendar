@@ -1,12 +1,27 @@
 import React from 'react';
+//built in components
 import { StatusBar, Text, View, ScrollView, BackHandler, TouchableOpacity, Linking } from 'react-native';
+//custom components
 import {StyledText} from './styledText.js';
 import {CalendarDisplay} from './calendarDisplay.js';
 import {About} from './aboutComponent.js';
+//donateComponent.js is not used, but keeping it here in case I decide to build a donate view
 import {Donate} from './donateComponent.js';
+//eventLibrary (big JSON of all events)
 import {eventLibrary} from './eventLibrary.js';
+//styles
 import {styles} from './styles.js';
 import DateTimePicker from '@react-native-community/datetimepicker';
+//donation prompt alert:
+import AwesomeAlert from 'react-native-awesome-alerts';
+//local storage of display settings (currently only used to handle when donation prompt displays, but will include notification scheduling eventually)
+import AsyncStorage from '@react-native-community/async-storage';
+
+//notification stuff (on To Do list, expo's docs are a bit complicated)
+//import {Constants, Notifications, Permissions} from 'expo';
+//import Constants from 'expo-constants';
+//import * as Notifications from 'expo-notifications';
+//import * as Permissions from 'expo-permissions';
 
 var initTodayString = (new Date().getMonth() + 1 + '-' + new Date().getDate());
 
@@ -17,25 +32,42 @@ export default class App extends React.Component {
       display: 'main', //main or about
       showDatePicker: false,
       events: eventLibrary[initTodayString], //events from selected day, to display in CalendarDisplay
+      showDonationPrompt: false,
     };
     this.setDisplay = this.setDisplay.bind(this);
     this.setNewDate = this.setNewDate.bind(this);
     this.toggleDatePicker = this.toggleDatePicker.bind(this);
-    this.handleDonate = this.handleDonate.bind(this);
+    this.declineDonation = this.declineDonation.bind(this);
+    this.acceptDonation = this.acceptDonation.bind(this);
 
     this.today = new Date();
     this.todayString = initTodayString;
     this.calendarDisplayRef = React.createRef();
+    this.donationMessage = "A calendar full of working class movements should be free of ads trying to commodify every second of your life.\n\nDonating a bit helps me keep this calendar growing and up to date."
   };
 
-  /*backHandler = BackHandler.addEventListener('hardwareBackPress', () => {
-    if (this.state.display !== 'main') {
-      this.setState({display: 'main'});
-      return true;
+  async componentDidMount() {
+    //causes a re-render on Fridays, but probably better than a ternary operator in the initial setting of state
+    if (this.today.getDay() === 5) {
+      let hasSeenDonation = await AsyncStorage.getItem('@hasSeenDonation');
+      if (hasSeenDonation === false) {
+        this.setState({
+          showDonationPrompt: true,
+        });
+        try {
+          await AsyncStorage.setItem('@hasSeenDonation', "true")
+        } catch (e) {
+
+        };
+      };
     } else {
-      BackHandler.exitApp();
+      try {
+        await AsyncStorage.setItem('@hasSeenDonation', "false")
+      } catch (e) {
+
+      };
     };
-  });*/
+  };
 
   setDisplay(component) {
     //component should only ever be main or about
@@ -70,11 +102,17 @@ export default class App extends React.Component {
     });
   };
 
-  handleDonate() {
-    //this.setState({
-      //display: 'donate'
-    //});
-    //Linking.openUrl('http://www.paypal.com');
+  acceptDonation() {
+    this.setState({
+      showDonationPrompt: false,
+    });
+    Linking.openURL('https://www.patreon.com/apeoplescalendar');
+  };
+
+  declineDonation() {
+    this.setState({
+      showDonationPrompt: false,
+    });
   };
 
   render() {
@@ -123,6 +161,34 @@ export default class App extends React.Component {
             display="default"
             onChange={this.setNewDate}
           />
+        }
+        {this.state.showDonationPrompt &&
+          <AwesomeAlert
+          show={this.state.showDonationPrompt}
+          contentContainerStyle={{borderRadius: 5, elevation: 5, borderWidth: 1, backgroundColor: '#f0f0f0'}}
+          title="Help keep this app capitalist free!"
+          titleStyle={{fontSize: 22, fontWeight: 'bold', textAlign: 'center'}}
+          message={this.donationMessage}
+          messageStyle={{fontSize: 18,}}
+          closeOnTouchOutside={true}
+          closeOnHardwareBackPress={true}
+          showCancelButton={true}
+          showConfirmButton={true}
+          cancelText="Decline"
+          confirmText="Donate!"
+          confirmButtonColor="#6fdb65"
+          confirmButtonTextStyle={{fontSize: 20}}
+          confirmButtonStyle={{borderRadius: 5}}
+          cancelButtonColor="#cfcfcf"
+          cancelButtonTextStyle={{fontSize: 20}}
+          cancelButtonStyle={{borderRadius: 5}}
+          onCancelPressed={() => {
+            this.declineDonation();
+          }}
+          onConfirmPressed={() => {
+            this.acceptDonation();
+          }}
+        />
         }
       </View>
     );

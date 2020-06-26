@@ -75,7 +75,7 @@ export class CalendarDisplay extends React.Component {
       <View style={styles.main}>
         {this.state.display === 'all' && <View style={styles.allEventsWrapper}>
           <View style={styles.onThisDay}>
-            <StyledText text='On This Day in History' style={{fontSize: 22, textAlign: 'center', fontWeight: 'bold'}}/>
+            <StyledText text='On This Day in History' style={{fontSize: 27, textAlign: 'center', fontWeight: 'bold'}}/>
           </View>
           {this.props.events['Revolution'][0].description.length > 0 && <View style={[styles.eventCategory, ]}>
             <TouchableOpacity

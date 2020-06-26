@@ -3,82 +3,8 @@
 //  each day has 6 categories - Revolution, Rebellion, Labor, Birthdays, Assassinations, and other
 //      each category has a list of events
 //          each event has 7 props, all strings (category redundant, but may help) - category, date, title, description, img, infoSrc, and link
+//category, description, and date are displayed in specific event view, title is displayed in the main calendarDisplay. infoSrc is the link of a button marked "Source", and link prop is a link to a button titled "readMore"
 
-//each paragraph needs to have a 450 character count limit before beginning a new one (currently not in effect). All line breaks need to be double.
-
-//generic empty day:
-/*
-'Revolution': [
-  {
-    category: '',
-    date: '',
-    title: '',
-    imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-    description: ``,
-    link: '',
-    infoSrc: ''
-  },
-],
-'Rebellion': [
-  {
-    category: '',
-    date: '',
-    title: '',
-    imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-    description: ``,
-    link: '',
-    infoSrc: ''
-  },
-],
-'Labor': [
-  {
-    category: '',
-    date: '',
-    title: '',
-    imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-    description: ``,
-    link: '',
-    infoSrc: ''
-  },
-],
-'Birthdays': [
-  {
-    category: '',
-    date: '',
-    title: '',
-    imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-    description: ``,
-    link: '',
-    infoSrc: ''
-  },
-],
-'Assassinations': [
-  {
-    category: '',
-    date: '',
-    title: '',
-    imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-    description: ``,
-    link: '',
-    infoSrc: ''
-  },
-],
-'Other': [
-  {
-    category: '',
-    date: '',
-    title: '',
-    imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-    description: ``,
-    link: '',
-    infoSrc: ''
-  },
-],
-},
-*/
-
-
-//use this as your actual event library once you get up and running
 export const eventLibrary = {
   '1-1': {
     'Revolution': [
@@ -2477,13 +2403,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'February 4th, 1793',
+        title: 'Fugitive Slave Act (1793)',
+        imgSrc: require('./assets/eventPhotos/Events/fugitiveSlaveAct.jpg'),
+        description: `The Fugitive Slave Act of 1793 was an Act of the United States Congress to give effect to the Fugitive Slave Clause of the US Constitution (Article 4, Section 2, Clause 3), which was later overruled by the Thirteenth Amendment. The former guaranteed a right for a slaveholder to recover an escaped slave, and declared that the children of any escaped slave were still property of the slaveowner\n\nNotably, George Washington used the Fugitive Slave Act twice to try and recover one of his escaped slaves, named Oney Judge. Oney later gave an interview in the 1840s, stating that, even fifty years after escaping, she and her child could still be claimed as the legal property of Washington's descendants due to this law.`,
+        link: 'http://marthawashington.us/items/show/4',
+        infoSrc: 'https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1793'
       },
     ],
   },
@@ -7646,13 +7572,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'April 20th, 1914',
+        title: 'Ludlow Massacre (1914)',
+        imgSrc: require('./assets/eventPhotos/Events/ludlowMassacre.jpg'),
+        description: `The Ludlow Massacre was a massacre perpetrated by anti-striker militia during the Colorado Coalfield War. The Colorado National Guard and Colorado Fuel and Iron Company guards attacked a tent colony of 1,200 striking coal miners and their families in Ludlow, Colorado, on April 20, 1914, with the National Guard using machine guns to fire into the colony.\n\nApproximately 21 people, including miners' wives and children, were killed. The chief owner of the mine, John D. Rockefeller, Jr., was widely excoriated for having orchestrated the massacre. In retaliation for the massacre at Ludlow, the miners armed themselves and attacked dozens of anti-union establishments over the next ten days, destroying property and engaging in several skirmishes with the Colorado National Guard along a 40-mile front from Trinidad to Walsenburg.\n\nAn estimated 69 to 199 deaths occurred during the strike. Historian Thomas G. Andrews has called it the "deadliest strike in the history of the United States", and the entire series of events is commonly known as the Colorado Coalfield War. Although the strikers' demands were not met, the event electrified national discussions of labor and had a positive impact on labor rights in the long run.`,
+        link: 'https://www.zinnedproject.org/news/tdih/ludlow-massacre/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ludlow_Massacre'
       },
     ],
     'Birthdays': [
@@ -9633,6 +9559,15 @@ export const eventLibrary = {
         link: 'https://www.wvencyclopedia.org/articles/1576',
         infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Matewan'
       },
+      {
+        category: 'Rebellion',
+        date: 'May 19th, 1713',
+        title: 'Boston Bread Riots (1713)',
+        imgSrc: require('./assets/eventPhotos/Events/bostonBreadRiots.jpg'),
+        description: `In the early 1710s, Andrew Belcher, a wealthy merchant, had been exporting grain to the Caribbean because the profit was greater there. In 1713, Boston experienced a severe food shortage crisis.\n\nOn this day in 1713, two hundred people rioted on the Boston Common. They then attacked Belcher's ships, broke into his warehouses looking for corn, and shot the lieutenant governor when he tried to interfere.`,
+        link: 'https://en.wikipedia.org/wiki/Boston_Bread_riot',
+        infoSrc: 'https://www.historyisaweapon.com/defcon1/zinnvil3.html'
+      },
     ],
     'Labor': [
       {
@@ -10426,13 +10361,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 30th, 1741',
+        title: 'The New York Conspiracy Panic (1741)',
+        imgSrc: require('./assets/eventPhotos/Events/nyConspiracy.jpg'),
+        description: `The Conspiracy of 1741, also known as the Negro Plot of 1741 or the Slave Insurrection of 1741, was a purported plot by slaves and poor whites in the British colony of New York in 1741 to revolt and level New York City with a series of fires. Historians disagree as to whether such a plot existed and, if there was one, its scale.\n\nThe city of New York was hysterical with paranoia over poor whites and slaves collaborating to burn the city down. During the court cases, the prosecution kept changing the grounds of accusation and repeatedly ignored the alibis proferred by slaveowners for their slaves' non-involvement. At its height, over half of the city's male slaves over the age of 16 were implicated in the plot and jailed.\n\nOn this day in 1741, the first two victims, two slaves named Kofi and Quaco, were hanged. After the hysteria ended, eighteen slaves were hanged, thirteen burned alive, four whites were executed, and dozens of people had been deported out of the city.`,
+        link: 'https://www.britannica.com/event/New-York-slave-rebellion-of-1741',
+        infoSrc: 'https://en.wikipedia.org/wiki/New_York_Conspiracy_of_1741'
       },
     ],
   },
@@ -11790,7 +11725,7 @@ export const eventLibrary = {
         date: 'June 19th, 1865',
         title: 'Juneteenth (1865)',
         imgSrc: require('./assets/eventPhotos/Events/juneteenth.jpg'),
-        description: `Juneteenth (a portmanteau of June and nineteenth) is a holiday celebrating the emancipation of those who had been enslaved in the United States. Originating in Texas, it is now celebrated annually on the 19th of June throughout the United States, with varying official recognition.\n\nSpecifically, it commemorates Union army general Gordon Granger announcing federal orders in Galveston, Texas, on June 19, 1865, proclaiming that all slaves in Texas were free. Juneteenth is the oldest nationally celebrated commemoration of the ending of slavery in the United States.`,
+        description: `Juneteenth (a portmanteau of June and nineteenth) is a holiday celebrating the emancipation of those who had been enslaved in the United States. Originating in Texas, it is now celebrated annually on the 19th of June throughout the United States, with varying official recognition.\n\nSpecifically, it commemorates Union army general Gordon Granger announcing federal orders in Galveston, Texas, on this day in 1865, proclaiming that all slaves in Texas were free. Juneteenth is the oldest nationally celebrated commemoration of the ending of slavery in the United States.`,
         link: 'https://en.wikipedia.org/wiki/Juneteenth',
         infoSrc: 'https://www.juneteenth.com/history.htm'
       },
@@ -12176,8 +12111,8 @@ export const eventLibrary = {
         date: 'June 25th, 1903',
         title: 'George Orwell (1903 - 1950)',
         imgSrc: require('./assets/eventPhotos/Individuals/georgeOrwell.jpg'),
-        description: `Eric Arthur Blair, better known by his pen name George Orwell, was an English novelist and essayist, journalist and critic. His work is characterised by lucid prose, biting social criticism, opposition to totalitarianism, and outspoken support of democratic socialism.\n\nAs a writer, Orwell produced literary criticism and poetry, fiction and polemical journalism; and is best known for his allegory for the Soviet Union "Animal Farm" (1945) and the dystopian novel "Nineteen Eighty-Four" (1949). Orwell should also be noted for his first hand-account of the Spanish Civil War, "Homage to Catalonia" (1938).\n\nIn "Homage to Catalonia", Orwell describes fighting for the Republican faction, describing in detail the ways in which the anarchist movement re-structured their economony and military to be more egalitarian. He was eventually shot in the throat, declared unfit for service, and returned to England to recover.\n\nOrwell's experiences in Catalonia made him a vehement anti-Stalinist, but he still remained a democratic socialist throughout the rest of his life.`,
-        link: 'https://en.wikipedia.org/wiki/George_Orwell',
+        description: `Eric Arthur Blair, better known by his pen name George Orwell, was an English novelist and essayist, journalist, and critic, born on this day in 1903. His work is characterised by lucid prose, biting social criticism, opposition to totalitarianism, and outspoken support of democratic socialism.\n\nAs a writer, Orwell produced literary criticism and poetry, fiction and polemical journalism; and is best known for his allegory for the Soviet Union "Animal Farm" (1945) and the dystopian novel "Nineteen Eighty-Four" (1949). Orwell should also be noted for his first hand-account of the Spanish Civil War, "Homage to Catalonia" (1938).\n\nIn "Homage to Catalonia", Orwell writes about fighting for the Republican faction, describing in detail the ways in which the anarchist movement re-structured their economony and military to be more egalitarian. He was eventually shot in the throat, declared unfit for service, and returned to England to recover.\n\nOrwell's experiences in Catalonia made him a vehement anti-Stalinist, but he still remained a democratic socialist throughout the rest of his life.`,
+        link: 'https://www.pakistantoday.com.pk/2013/02/18/1984-an-interview-with-george-orwell/',
         infoSrc: 'https://en.wikipedia.org/wiki/George_Orwell'
       },
     ],
@@ -12244,7 +12179,7 @@ export const eventLibrary = {
         date: 'June 26th, 1908',
         title: 'Salvador Allende (1908 - 1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),
-        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on this day in 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.`,
+        description: `Salvador Allende was a Chilean socialist politician and physician born on this day in 1908. Allende was President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on November 3rd, 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.`,
         link: 'https://jacobinmag.com/2019/09/salvador-allende-chile-revolucion-democratica-frente-amplio',
         infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
       },
@@ -14890,8 +14825,8 @@ export const eventLibrary = {
         date: 'August 4th, 1984',
         title: 'Burkina Faso Founded (1984)',
         imgSrc: require('./assets/eventPhotos/Individuals/thomasSankara.jpg'),
-        description: `On this day in 1984, the country of Upper Volta, a French colonial name, became Burkina Faso, which means "Land of the Upright People". This was done by the National Council of the Revolution (NCR), led by Thomas Sankara, the new head of state of Burkina Faso.\n\nHis administration was known for refusing all foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literarcy, women's rights, and public health, including vaccinating over two and a half million children against meningitis, yellow fever and measles.\n\nOn 15 October 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
-        link: '',
+        description: `On this day in 1984, the country of Upper Volta, a French colonial name, became Burkina Faso, which means "Land of the Upright People". This was declared by the National Council of the Revolution (NCR), led by Thomas Sankara, the new head of state of Burkina Faso.\n\nHis administration was known for refusing all foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literarcy, women's rights, and public health, including vaccinating over two and a half million children against meningitis, yellow fever and measles.\n\nOn 15 October 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
+        link: 'https://en.wikipedia.org/wiki/Burkina_Faso',
         infoSrc: 'https://www.jacobinmag.com/2015/05/thomas-sankara-burkina-faso-assassination/'
       },
     ],
@@ -17371,6 +17306,15 @@ export const eventLibrary = {
         link: 'https://www.zinnedproject.org/materials/attica-prison-uprising/',
         infoSrc: 'https://en.wikipedia.org/wiki/Attica_Prison_riot'
       },
+      {
+        category: 'Rebellion',
+        date: 'September 9th, 1739',
+        title: 'Stono Slave Rebellion (1739)',
+        imgSrc: require('./assets/eventPhotos/Events/stonoRebellion.jpg'),
+        description: `The Stono Rebellion was a slave rebellion that began on this day in 1739, in the colony of South Carolina. It was the largest slave uprising in the British mainland colonies, with 25 colonists and 35 to 50 Africans killed. The uprising was led by native Africans who were likely from the Central African Kingdom of Kongo, as some of the rebels spoke Portuguese.\n\nThe slaves were making their way to Spanish Florida, as the Spanish had promised freedom to any slave who managed to escape from the British colonies. As the slaves made their way south, they killed approximately two dozen white people and seized weapons and ammunition, before being attacked by a well-armed milita.\n\nAround 50 slaves and 25 militiamen were killed in the fighting, and the rebellion was quelled. The Stono Rebellion was directly responsible for the "Negro Act of 1740", which slave freedom of movement and education in South Carolina.`,
+        link: 'https://www.blackpast.org/african-american-history/stono-rebellion-1739/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Stono_Rebellion'
+      },
     ],
     'Labor': [
       {
@@ -19311,7 +19255,7 @@ export const eventLibrary = {
         date: 'October 7th, 1967',
         title: 'Michelle Alexander (1967 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/michelleAlexander.jpg'),
-        description: `Michelle Alexander is a writer, civil rights advocate, and visiting professor at Union Theological Seminary. She is best known for her 2010 book "The New Jim Crow: Mass Incarceration in the Age of Colorblindness" and is an opinion columnist for The New York Times.\n\nIn "The New Jim Crow", Alexander describes how oppressed minorities are "subject to legalized discrimination in employment, housing, public benefits, and jury service, just as their parents, grandparents, and great-grandparents once were". Alexandar also demonstrates how people "whose only crime is drug addiction or possession of a small amount of drugs for recreational use" find themselves permanently locked out of the mainstream society, as well as the racial biases of how the drug war has been waged.`,
+        description: `Michelle Alexander is a writer, civil rights advocate, and visiting professor at Union Theological Seminary. She is best known for her 2010 book "The New Jim Crow: Mass Incarceration in the Age of Colorblindness" and is an opinion columnist for The New York Times.\n\nIn "The New Jim Crow", Alexander describes how oppressed minorities are "subject to legalized discrimination in employment, housing, public benefits, and jury service, just as their parents, grandparents, and great-grandparents once were". Alexander makes a compelling case for how "people whose only crime is drug addiction or possession of a small amount of drugs for recreational use" find themselves permanently locked out of the mainstream society, as well as the racial biases of how the drug war has been waged.`,
         link: 'https://www.americanswhotellthetruth.org/portraits/michelle-alexander',
         infoSrc: 'https://en.wikipedia.org/wiki/Michelle_Alexander'
       },
@@ -19535,7 +19479,7 @@ export const eventLibrary = {
       {
         category: 'Other',
         date: 'October 10th, 2013',
-        title: 'Socialist Rifle Association Founded (2013)',
+        title: 'SRA Founded (2013)',
         imgSrc: require('./assets/eventPhotos/Organizations/SRA.png'),
         description: `The Socialist Rifle Association (SRA) is an American socialist firearm organization that is dedicated to "providing working class people the information they need to be effectively armed for self and community defense".\n\nThe SRA describes the mission of their organization as "to provide an alternate to the mainstream, toxic, right-wing, and non-inclusive gun culture that has dominated the firearms community for decades. We seek to provide a safe, inclusive, and left-leaning platform for talking about gun rights and self defense, free from racist and reactionary prejudices, while providing a platform for the working class to obtain the skills necessary for all aspects of community defense".`,
         link: 'https://socialistra.org/',
@@ -22100,13 +22044,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 17th, 1747',
+        title: 'Knowles Riot (1747)',
+        imgSrc: require('./assets/eventPhotos/Events/knowlesRiot.jpg'),
+        description: `The Knowles Riot, also known as the Impressment Riot of 1747, was a three-day riot in Boston that began on this day in 1747. It was in response to the impressment (conscription) of 46 Bostonians by Admiral Charles Knowles into the navy.\n\nHundreds of mostly working-class rioters rampaged through Boston, surrounded the house of the governor, assaulted the sheriff, and imprisoned the deputy sheriff, along with several naval officers. The governor ordered the militia to suppress the riot, but they refused, leading him to flee the city.\n\nThe rioters were later famously condemned by a merchants' group as a "Riotous Tumultuous Assembly of Foreign Seamen, Servants, Negroes, and Other Persons of Mean and Vile Condition."`,
+        link: 'https://en.wikipedia.org/wiki/Knowles_Riot',
+        infoSrc: 'https://en.wikipedia.org/wiki/Knowles_Riot'
       },
     ],
     'Labor': [
