@@ -889,13 +889,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'January 13th, 1949',
+        title: 'Durban Riots (1949)',
+        imgSrc: require('./assets/eventPhotos/Events/durbanRiots.jpg'),
+        description: `The Durban riots were an anti-Indian pogrom that began on this day in 1949, primarily by African people targeting poor Indians in Durban, South Africa. The two days of rioting were exceptionally violent, resulting in rape, immolation, and massacre of Indians and the looting and burning of their properties, claiming 142 lives and creating 40,000 Indian refugees.\n\nAlthough this incident was the worst anti-Indian violence in the region, Durban continued to have ethnic tensions and episodes of violence between Indians and native Africans for the next several decades.`,
+        link: 'https://www.iol.co.za/thepost/this-month-marks-70-years-since-the-horrific-1949-race-riots-18783849',
+        infoSrc: 'https://en.wikipedia.org/wiki/Durban_riots'
       },
     ],
   },
@@ -4441,9 +4441,18 @@ export const eventLibrary = {
         date: 'March 5th, 1871',
         title: 'Rosa Luxemburg (1871 - 1919)',
         imgSrc: require('./assets/eventPhotos/Individuals/rosaLuxemburg.jpg'),
-        description: `Rosa Luxemburg was a Polish Marxist, philosopher, economist, anti-war activist and revolutionary socialist who became a naturalized German citizen at the age of 28. Successively, she was a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD) and the Communist Party of Germany (KPD).\n\nIn 1918-19, Luxemberg publicly supported a violent rebellion against the German state. She was captured and summarily executed by the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Her body was thrown in the Landwehr Canal in Berlin.\n\nDue to her pointed criticism of both the Leninist and the more moderate social democratic schools of socialism, Luxemburg's legacy is a radical, non-Leninist school of revolutionary socialist thought.`,
+        description: `Rosa Luxemburg was a Polish Marxist, philosopher, economist, anti-war activist and revolutionary socialist who was born on this day in 1871. Successively, she was a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD) and the Communist Party of Germany (KPD).\n\nIn 1918-19, Luxemberg publicly supported a violent rebellion against the German state. She was captured and summarily executed by the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Her body was thrown in the Landwehr Canal in Berlin.\n\nDue to her pointed criticism of both the Leninist and the more moderate social democratic schools of socialism, Luxemburg's legacy is a radical, non-Leninist school of revolutionary socialist thought.`,
         link: 'https://www.versobooks.com/blogs/4203-the-many-interpretations-of-rosa-luxemburg-s-legacy',
         infoSrc: 'https://en.wikipedia.org/wiki/Rosa_Luxemburg'
+      },
+      {
+        category: 'Birthdays',
+        date: 'March 5th, 1871',
+        title: 'John R. Lawson (1871)',
+        imgSrc: require('./assets/eventPhotos/Individuals/johnLawson.jpg'),
+        description: `John Rankin Lawson was a Colorado union leader and businessman born on this day in 1871. He was the leader of District 15 of the United Mine Workers of America (UMWA) at the time of the Colorado Coalfield War and the Ludlow Massacre (a brutal and violent suppression of a coal worker's strike).\n\nAlthough there were dozens of people were killed during the Ludlow Massacre, Lawson was the only convicted of murder, for the death of a deputy sheriff who died at Ludlow. He was sentenced to a life of hard labor, but was freed on appeal to the Colorado Supreme Court.`,
+        link: 'https://history.denverlibrary.org/colorado-biographies/john-r-lawson-1871-1945',
+        infoSrc: 'https://en.wikipedia.org/wiki/John_R._Lawson'
       },
     ],
     'Assassinations': [
@@ -5547,13 +5556,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 21st, 1960',
+        title: 'Sharpeville Massacre (1960)',
+        imgSrc: require('./assets/eventPhotos/Events/sharpevilleMassacre.jpg'),
+        description: `The Sharpeville massacre, which happened on this day in 1960, occured at the police station in the South African township of Sharpeville. After a day of demonstrations against segregation laws, a crowd of about 7,000 protesters went to the police station. The South African Police opened fire on the crowd, killing 69 people and injuring 180 others. 29 children were casualties of the violence, and many people were shot in the back as they fled.\n\nA storm of international protest followed the Sharpeville shootings, including sympathetic demonstrations in many countries and condemnation by the United Nations. Sharpeville marked a turning point in South Africa's history; the country found itself increasingly isolated in the international community.\n\nThe Sharpeville massacre contributed to the banning of the PAC and ANC (anti-apartheid groups) as illegal organisations. The massacre was one of the catalysts for a shift from passive resistance to armed resistance by these organisations.`,
+        link: 'https://www.sahistory.org.za/article/sharpeville-massacre-21-march-1960',
+        infoSrc: 'https://en.wikipedia.org/wiki/Sharpeville_massacre'
       },
     ],
   },
@@ -9347,13 +9356,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'May 16th, 1771',
+        title: 'Battle of Alamance (1771)',
+        imgSrc: require('./assets/eventPhotos/Events/alamance.jpg'),
+        description: `The War of the Regulation, also known as Regulator Movement, was an uprising in British America's Carolina colonies, lasting from about 1765 to 1771, in which citizens took up arms against colonial officials, whom they viewed as corrupt, saying their "highest study is the promotion of their wealth". Historian Howard Zinn considered this a form of class conflict, as the Regulators described themselves as poor peasants, oppressed by the wealthier classes.\n\nOn this day in 1771, these tensions came to a head in the Battle of Alamance, which was fought between several thousand rebel Regulators and a North Carolina milita. Approximately two dozen men were killed. Notably, most ex-Regulators did not support the American government in the Revolutionary War that began five years later.`,
+        link: 'https://en.wikipedia.org/wiki/War_of_the_Regulation',
+        infoSrc: 'https://www.historyisaweapon.com/defcon1/zinntyr4.html'
       },
     ],
     'Labor': [
@@ -9863,13 +9872,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 23rd, 1926',
+        title: 'Joe Slovo (1926 - 1995)',
+        imgSrc: require('./assets/eventPhotos/Individuals/joeSlovo.jpg'),
+        description: `Joe Slovo was a South African politician and opponent of the apartheid system born on this day in 1926. A Marxist-Leninist, he was a long-time leader and theorist in the South African Communist Party (SACP), a leading member of the African National Congress (ANC), and a commander of the ANC's military wing Umkhonto we Sizwe (MK).\n\nSlovo was married to Ruth First, another prominent South African anti-apartheid activist who was assassinated by the government. He was, along with First, arrested and detained for two months during the Treason Trial of 1956, and lived in exile from 1963 to 1990, conducting operations against the apartheid régime from the United Kingdom, Angola, Mozambique, and Zambia.`,
+        link: 'https://www.sahistory.org.za/people/joe-slovo',
+        infoSrc: 'https://en.wikipedia.org/wiki/Joe_Slovo'
       },
     ],
     'Assassinations': [
@@ -12153,13 +12162,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'June 26th, 1975',
+        title: 'AIM-FBI Shootout (1975)',
+        imgSrc: require('./assets/eventPhotos/Events/aimFBI.jpg'),
+        description: `On this day in 1975, there was a shootout at Pine Ridge Reservation in South Dakota between two FBI agents, who drove in with unmarked cars, and several members of the American Indian Movement (AIM), a Native American rights group operating out of the reservation at the time. Both FBI agents were wounded by gunfire before appearing to be shot execution-style, and a member of AIM, Joseph Stuntz, was also fatally shot.\n\nAfter being extradited from Canada through a false witness statement, indigenous rights activist Leonard Peltier was convicted in a controversial 1977 trial and sentenced to two consecutive terms of life imprisonment for first-degree for the killing of the agents. As detailed in the book "In the Spirit of Crazy Horse", his trials and conviction are considered highly controversial and Amnesty International has raised concerns about their fairness.`,
+        link: 'https://montanapioneer.com/an-interview-with-leonard-peltier/',
+        infoSrc: 'https://reason.com/2015/06/26/40th-anniversary-of-pine-ridge-shootout/'
       },
     ],
     'Labor': [
@@ -12182,6 +12191,15 @@ export const eventLibrary = {
         description: `Salvador Allende was a Chilean socialist politician and physician born on this day in 1908. Allende was President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on November 3rd, 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.`,
         link: 'https://jacobinmag.com/2019/09/salvador-allende-chile-revolucion-democratica-frente-amplio',
         infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
+      },
+      {
+        category: 'Birthdays',
+        date: 'June 26th, 1952',
+        title: 'Olive Morris',
+        imgSrc: require('./assets/eventPhotos/Individuals/oliveMorris.jpg'),
+        description: `Morris, Olive Elaine, activist (1952-1979) was born on 26th June 1952 in Harewood, St Catherine’s, Jamaica. When she was nine years old, she, and her brother, Basil, left their maternal grandmother and joined her mother and father in Lavender Hill, south London.\n\nOlive became a member of the youth section of the Black Panther Movement (later the Black Workers Movement), along with others such as Linton Kwesi Johnson, Clovis Reid and Farrukh Dhondy. Olive was also a founding member of the Brixton Black Women’s Group. She died prematurely from non-Hodgkinson's lymphoma at the age of 27.`,
+        link: 'http://libcom.org/history/morris-olive-elaine-1952-1979',
+        infoSrc: 'http://libcom.org/history/morris-olive-elaine-1952-1979'
       },
     ],
     'Assassinations': [
@@ -12247,7 +12265,7 @@ export const eventLibrary = {
         date: 'June 27th, 1869',
         title: 'Emma Goldman (1869 - 1940)',
         imgSrc: require('./assets/eventPhotos/Individuals/emmaGoldman.jpg'),
-        description: `Emma Goldman was an anarchist political activist and writer. She played a pivotal role in the development of anarchist political philosophy in North America and Europe in the first half of the 20th century.\n\nAttracted to anarchism after the Chicago Haymarket affair, Goldman became a writer and a renowned lecturer on anarchist philosophy, women's rights, and social issues, attracting crowds of thousands. She and anarchist writer Alexander Berkman, her lover and lifelong friend, planned to assassinate industrialist and financier Henry Clay Frick as an act of "propaganda of the deed". Frick survived the attempt on his life in 1892, and Berkman was sentenced to 22 years in prison. Goldman was imprisoned several times in the years that followed, for "inciting to riot" and illegally distributing information about birth control.\n\nAfter their release from prison, Goldman and Berkman were again arrested and deported to Russia. Initially supportive of that country's October Revolution that brought the Bolsheviks to power, Goldman changed her opinion in the wake of the Kronstadt rebellion; she denounced the Soviet Union for its violent repression of independent voices. She left the Soviet Union and in 1923 published a book about her experiences, My Disillusionment in Russia.\n\nDuring her life, Goldman was lionized as a freethinking "rebel woman" by admirers, and denounced by detractors as an advocate of politically motivated murder and violent revolution. Her writing and lectures spanned a wide variety of issues, including prisons, atheism, freedom of speech, militarism, capitalism, marriage, free love, and homosexuality.`,
+        description: `Emma Goldman was an anarchist political activist and writer. She played a pivotal role in the development of anarchist political philosophy in North America and Europe in the first half of the 20th century.\n\nAttracted to anarchism after the Haymarket affair, Goldman became a writer and a renowned lecturer. She and anarchist writer Alexander Berkman, her lover and lifelong friend, planned to assassinate industrialist and financier Henry Clay Frick as an act of "propaganda of the deed". Frick survived the attempt on his life, and Berkman was sentenced to 22 years in prison. Goldman was imprisoned several times in the years that followed for "inciting to riot" and illegally distributing information about birth control.\n\nAfter their release from prison, Goldman and Berkman were again arrested and deported to Russia. Initially supportive of that country's October Revolution that brought the Bolsheviks to power, Goldman changed her opinion in the wake of the Kronstadt rebellion; she denounced the Soviet Union for its violent repression of independent voices. She left the Soviet Union and in 1923 published a book about her experiences, My Disillusionment in Russia.\n\nDuring her life, Goldman was lionized as a freethinking "rebel woman" by admirers, and denounced by detractors as an advocate of politically motivated murder and violent revolution. Her writing and lectures spanned a wide variety of issues, including prisons, atheism, freedom of speech, militarism, capitalism, marriage, free love, and homosexuality.`,
         link: 'https://en.wikipedia.org/wiki/Emma_Goldman',
         infoSrc: 'https://en.wikipedia.org/wiki/Emma_Goldman'
       },
@@ -13834,13 +13852,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'July 20th, 1591',
+        title: 'Anne Hutchinson (1591 - 1643)',
+        imgSrc: require('./assets/eventPhotos/Individuals/anneHutchinson.jpg'),
+        description: `Anne Hutchinson was a Puritan spiritual advisor, religious reformer, and an important participant in the Antinomian Controversy which shook the infant Massachusetts Bay Colony from 1636 to 1638. Hutchinson was known for being a powerful speaker, and insisted on the ability of women to read the bible for themselves, among other "unauthorized" interpretations of the gospel.\n\nOn November 7th, 1637, Hutchinson was brought to trial, where she was called a heretic and an instrument of the devil, and was exiled from the Puritan community for her beliefs. Thirty-five families, supporters of Hutchinson, followed her to settle Long Island.\n\nHutchinson is a key figure in the history of religious freedom in England's American colonies and the history of women in ministry, challenging the authority of the ministers. She has been called "the most famous - or infamous - English woman in colonial American history".`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnint6.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Anne_Hutchinson'
       },
     ],
     'Assassinations': [
@@ -13869,13 +13887,13 @@ export const eventLibrary = {
   '7-21': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'July 21st, 1936',
+        title: 'Revolutionary Catalonia (1936)',
+        imgSrc: require('./assets/eventPhotos/Events/catalonia.jpg'),
+        description: `Revolutionary Catalonia was the part of Catalonia (an autonomous region in northeast Spain) controlled by various anarchist, communist, and socialist trade unions, parties, and militias of the Spanish Civil War period. On this day in 1936, the "Central Committee of Anti-Fascist Militas of Catalonia" was founded and it became the main governing body of the region.\n\nThe growing influence of the Marxist-Leninist Spanish Communist Party government and their desire to nationalize revolutionary committees and militias brought it into conflict with the anarchist CNT, resulting in the eventual replacement of the CNT by the PCE as the dominant political force in Catalonia until the arrival of the fascists. Notably, this conflict left writer George Orwell bitter about the role that Marxist-Leninist groups played in suppressing anarchist movements, and he was a committed anti-Stalinist for the rest of his life.\n\nThis anarchist period of Catalonia was deeply rooted in the ideas of anarcho-syndicalism and anarcho-communism. Catalonia was the first and only territory in Spanish history that has been rooted in these ideas, and its existence has been influential in socialist history. This revolution was influenced by the ideas of Peter Kropotkin and his book The Conquest of Bread, a seminal anarcho-communist text.`,
+        link: 'https://www.jacobinmag.com/2017/05/george-orwell-spain-barcelona-may-days',
+        infoSrc: 'https://en.wikipedia.org/wiki/Revolutionary_Catalonia'
       },
     ],
     'Rebellion': [
@@ -14220,13 +14238,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'July 26th, 1909',
+        title: 'Tragic Week (1909)',
+        imgSrc: require('./assets/eventPhotos/Events/tragicWeek.jpg'),
+        description: `The Tragic Week was a series of violent confrontations between the Spanish army and anarchists, socialists and republicans of Barcelona and other cities in Catalonia, Spain, that began on this day in 1909. It was caused by the calling-up of reserve troops by Premier Antonio Maura to be sent as reinforcements when Spain renewed military-colonial activity in Morocco. Many of these reservists were the only breadwinners for their families, while the wealthy were able to hire substitutes.\n\nThese actions, coupled with anarchist, anti-militarist, and anti-colonial philosophies shared by many in the city, resulted in the calling of a general strike against Maura's attempt at conscription. By the next day, workers had occupied much of central Barcelona, halting troop trains and overturning trams. Just a few days later, there was street fighting, with a general eruption of riots, strikes, and the burnings of convents.\n\nThe Spanish government declared a "state of war" and used the national army to put down the rebellion by force. Over one hundred civilians were killed and more than 1,700 individuals were indicted in military courts for "armed rebellion"`,
+        link: 'https://libcom.org/files/The%20tragic%20week,%20Spain%201909.pdf',
+        infoSrc: 'https://en.wikipedia.org/wiki/Tragic_Week_(Spain)'
       },
     ],
     'Labor': [
@@ -17533,13 +17551,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 12th, 1944',
+        title: 'Leonard Peltier (1944)',
+        imgSrc: require('./assets/eventPhotos/Individuals/leonardPeltier.jpg'),
+        description: `Leonard Peltier, born on this day in 1944, is an American indigenous rights activist and an enrolled member of the Turtle Mountain Chippewa, and is of Lakota and Dakota descent. After being extradited from Canada through a false witness statement, he was convicted in a controversial 1977 trial and sentenced to two consecutive terms of life imprisonment for first-degree murder of murdering two Federal Bureau of Investigation (FBI) agents in a shooting on the Pine Ridge Indian Reservation in South Dakota.\n\nAs detailed by In the Spirit of Crazy Horse, his trials and conviction are considered highly controversial and Amnesty International has raised concerns about their fairness. On January 18, 2017, the Office of the Pardon Attorney announced that President Barack Obama had denied Peltier's application for clemency.`,
+        link: 'https://montanapioneer.com/an-interview-with-leonard-peltier/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Leonard_Peltier'
       },
     ],
     'Assassinations': [
@@ -19259,6 +19277,15 @@ export const eventLibrary = {
         link: 'https://www.americanswhotellthetruth.org/portraits/michelle-alexander',
         infoSrc: 'https://en.wikipedia.org/wiki/Michelle_Alexander'
       },
+      {
+        category: 'Birthdays',
+        date: 'October 7th, 1931',
+        title: 'Desmond Tutu (1931 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/desmondTutu.jpg'),
+        description: `Desmond Mpilo Tutu, born on this day in 1931, is a South African Anglican cleric and theologian known for his work as an anti-apartheid and human rights activist.\n\nHe was the Bishop of Johannesburg from 1985 to 1986 and then the Archbishop of Cape Town from 1986 to 1996, in both cases being the first black African to hold the position. Theologically, he sought to fuse ideas from black theology with African theology.`,
+        link: 'https://www.pbs.org/wgbh/pages/frontline/shows/mandela/interviews/tutu.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Desmond_Tutu'
+      },
     ],
     'Assassinations': [
       {
@@ -19727,13 +19754,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 14th, 1906',
+        title: 'Hannah Arendt (1906 - 1975)',
+        imgSrc: require('./assets/eventPhotos/Individuals/hannahArendt.jpg'),
+        description: `Johanna "Hannah" Cohn Arendt was a German-American philosopher and political theorist. Her many books and articles on topics ranging from totalitarianism to epistemology have had a lasting influence on political theory. She is widely considered one of the most important political philosophers of the twentieth century.\n\nHer works cover a broad range of topics, but is perhaps best known for those dealing with the nature of power and evil, politics, direct democracy, authority, and totalitarianism. Arendt coined the phrase "banality of evil" when attempting to explain how ordinary people become actors in totalitiarian systems in her work "Eichmann in Jerusalem: A Report on the Banality of Evil".`,
+        link: 'http://www.openculture.com/2013/07/hannah-arendt-1964-tv-interview.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Hannah_Arendt'
       },
     ],
     'Assassinations': [
@@ -21408,13 +21435,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'November 7th, 1637',
+        title: 'Anne Hutchinson Trial (1637)',
+        imgSrc: require('./assets/eventPhotos/Individuals/anneHutchinson.jpg'),
+        description: `Anne Hutchinson (1591 – 1643) was a Puritan spiritual advisor, religious reformer, and an important participant in the Antinomian Controversy which shook the infant Massachusetts Bay Colony from 1636 to 1638. Hutchinson was known for being a powerful speaker, and insisted on the ability of women to read the bible for themselves, among other "unauthorized" interpretations of the gospel.\n\nOn this day in 1637, Hutchinson was brought to trial, where she was called a heretic and an instrument of the devil, and was exiled from the Puritan community for her beliefs. Thirty-five families, supporters of Hutchinson, followed her to settle Long Island.`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnint6.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Anne_Hutchinson#Civil_trial:_day_1'
       },
     ],
   },
@@ -24273,13 +24300,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'December 19st, 1956',
+        title: 'Treason Trial Begins (1956)',
+        imgSrc: require('./assets/eventPhotos/Events/treasonTrial.jpg'),
+        description: `The Treason Trial was a trial in Johannesburg in which 156 people, including Nelson Mandela, were arrested in a raid and accused of treason in South Africa in 1956. The main trial lasted until 1961, when all of the defendants were found not guilty.\n\nOn December 5th, 1956, the South African Police's Security Branch raided and arrested 140 people from around the country on the charge of treason as they enforced the Suppression of Communism Act. On this that year, 153 prisoners were driven to the Johannesburg Drill Hall for a preliminary hearing to examine the state's evidence, and South Africa's infamous "Treason Trial" began.\n\nAn attempt by the prosecutor to proceed with the case was interrupted three times by the noise of 5,000 Black South Africans, who, hoping to attend the case, surrounded the streets of the Drill Hall and sung Nkosi Sikeleli Afrika.`,
+        link: 'https://omalley.nelsonmandela.org/omalley/index.php/site/q/03lv01538/04lv01600/05lv01615/06lv01616.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/1956_Treason_Trial'
       },
     ],
   },

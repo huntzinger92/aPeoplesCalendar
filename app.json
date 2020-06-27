@@ -2,6 +2,7 @@
   "expo": {
     "name": "A People's Calendar",
     "slug": "aPeoplesCalendar",
+    "version": "1.0.0",
     "description": "A People's Calendar (aPC) seeks to promote history of working class struggle in all its forms - indigenous resistance against colonization, labor struggles, black liberation, queer liberation, and revolution. Although inspired by Howard Zinn's 'A People's History of the United States', the history here is not limited to events in the Americas. The figures and events presented are not presented with the author's endorsement, but shared with the understanding that the history of all liberation struggle is worth knowing, in both its successes and its failures.",
     "platforms": [
       "ios",
@@ -23,7 +24,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.aPeoplesCalendar.aPC",
+      "supportsTablet": true,
+      "buildNumber": "1.0.0"
     },
+    "android": {
+      "package": "com.aPeoplesCalendar.aPC",
+      "versionCode": 1
+    }
   }
 }

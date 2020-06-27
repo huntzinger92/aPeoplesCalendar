@@ -23,6 +23,17 @@ import AsyncStorage from '@react-native-community/async-storage';
 //import * as Notifications from 'expo-notifications';
 //import * as Permissions from 'expo-permissions';
 
+var everyDayString = Object.keys(eventLibrary);
+var count = 0;
+for (var i = 0; i < everyDayString.length; i++) {
+  var day = eventLibrary[everyDayString[i]];
+  //if day has no entries, increment count by one
+  if (!day['Revolution'][0].description && !day['Rebellion'][0].description && !day['Labor'][0].description && !day['Birthdays'][0].description && !day['Assassinations'][0].description && !day['Other'][0].description) {
+    count++;
+  };
+};
+console.log('amount of empty days: ' + count);
+
 var initTodayString = (new Date().getMonth() + 1 + '-' + new Date().getDate());
 
 export default class App extends React.Component {
