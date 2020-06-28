@@ -2304,13 +2304,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 3rd, 1821',
+        title: 'Elizabeth Blackwell (1821 - 1910)',
+        imgSrc: require('./assets/eventPhotos/Individuals/elizabethBlackwell.jpg'),
+        description: `Elizabeth Blackwell, born on this day in 1821, was a British physician, notable as the first woman to receive a medical degree in the United States, and the first woman on the Medical Register of the General Medical Council. Blackwell played an important role in both the United States and the United Kingdom as a social awareness and moral reformer, and pioneered in promoting education for women in medicine.\n\nBlackwell also founded the "New York Dispensary for Indigent Women and Children" to, in her words, "give poor women an opportunity of consulting physicians of their own sex". Her contributions remain celebrated with the Elizabeth Blackwell Medal, awarded annually to a woman who has made significant contribution to the promotion of women in medicine.`,
+        link: 'https://en.wikipedia.org/wiki/NewYork-Presbyterian_Lower_Manhattan_Hospital',
+        infoSrc: 'https://en.wikipedia.org/wiki/Elizabeth_Blackwell'
       },
     ],
     'Assassinations': [
@@ -3469,13 +3469,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 20th, 1805',
+        title: 'Angelina Grimké (1805 - 1879)',
+        imgSrc: require('./assets/eventPhotos/Individuals/angelinaGrimke.jpg'),
+        description: `Angelina Emily Grimké Weld (February 20, 1805 – October 26, 1879) was an American abolitionist, political activist, women's rights advocate, and supporter of the women's suffrage movement. She and her sister Sarah Moore Grimké are the only white Southern women who became abolitionists.\n\nHere is an excerpt from a speech she gave at an integrated abolitionist meeting at Pennsylvania Hall in Philadelphia:\n\n"Those voices without ought to awaken and call out our warmest sympathies. Deluded beings! "they know not what they do." They know not that they are undermining their own rights and their own happiness, temporal and eternal. Do you ask, "what has the North to do with slavery?" Hear it -- hear it. Those voices without tell us that the spirit of slavery is here, and has been roused to wrath by our abolition speeches and conventions"\n\nBy the next day, Pennsylvania Hall was destroyed by arson. Angelina was the final speaker in the Hall.`,
+        link: 'https://www.womenshistory.org/education-resources/biographies/angelina-grimke-weld',
+        infoSrc: 'https://en.wikipedia.org/wiki/Angelina_Grimk%C3%A9'
       },
     ],
     'Assassinations': [
@@ -9880,6 +9880,15 @@ export const eventLibrary = {
         link: 'https://www.sahistory.org.za/people/joe-slovo',
         infoSrc: 'https://en.wikipedia.org/wiki/Joe_Slovo'
       },
+      {
+        category: 'Birthdays',
+        date: 'May 23rd, 1810',
+        title: 'Margaret Fuller (1810 - 1850)',
+        imgSrc: require('./assets/eventPhotos/Individuals/margaretFuller.jpg'),
+        description: `Sarah Margaret Fuller Ossoli, born on this day in 1810, was an American journalist, editor, critic, translator, and women's rights advocate associated with the American transcendentalism movement. She was the first American female war correspondent, writing for Horace Greeley's New-York Tribune.\n\nHer book "Woman in the Nineteenth Century" is considered the first major feminist work in the United States, and later feminists like Susan B. Anthony cited her as an inspiration. Fuller was also an advocate of abolishing slavery and prison reform.`,
+        link: 'https://www.biography.com/writer/margaret-fuller',
+        infoSrc: 'https://en.wikipedia.org/wiki/Margaret_Fuller'
+      },
     ],
     'Assassinations': [
       {
@@ -10144,13 +10153,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 27th, 1818',
+        title: 'Amelia Bloomer (1818 - 1894)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ameliaBloomer.png'),
+        description: `Amelia Jenks Bloomer, born on this day in 1818, was an American women's rights advocate. Even though she did not create the women's clothing reform style known as bloomers, her name became associated with it because of her early and strong advocacy.\n\nBy publishing the maganize "The Lily", she became the first woman to own, operate and edit a newspaper for women. Notably, Bloomer also introduced Susan B. Anthony and Elizabeth Cady Stanton to each other.`,
+        link: 'https://en.wikipedia.org/wiki/The_Lily_(newspaper)',
+        infoSrc: 'https://en.wikipedia.org/wiki/Amelia_Bloomer'
       },
     ],
     'Assassinations': [
@@ -11376,6 +11385,15 @@ export const eventLibrary = {
         link: 'https://en.wikipedia.org/wiki/Che_Guevara',
         infoSrc: 'https://en.wikipedia.org/wiki/Che_Guevara'
       },
+      {
+        category: 'Birthdays',
+        date: 'June 14th, 1811',
+        title: 'Harriet Beecher Stowe (1811 - 1896)',
+        imgSrc: require('./assets/eventPhotos/Individuals/harrietStowe.jpg'),
+        description: `Harriet Elisabeth Beecher Stowe, born on this day in 1811, was an American abolitionist and author.\n\nShe is best known for her novel Uncle Tom's Cabin (1852), which was incredibly influential within the Northern anti-slavery movement.`,
+        link: 'https://www.womenshistory.org/education-resources/biographies/harriet-beecher-stowe',
+        infoSrc: 'https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe'
+      },
     ],
     'Assassinations': [
       {
@@ -11640,13 +11658,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 18th, 1804',
+        title: 'George Thompson (1804 - 1878)',
+        imgSrc: require('./assets/eventPhotos/Individuals/georgeThompson.jpg'),
+        description: `George Donisthorpe Thompson, born on this day in 1804, was a British anti-slavery orator and activist who toured giving lectures and worked for legislation while serving as a Member of Parliament. He was arguably one of the most important abolitionists and human rights lecturers in the United Kingdom and the United States.\n\nThompson grew up in a household that directly profited from the slave trade. His father worked on ships that transported enslaved Africans to the Caribbean and the Americas, and these stories convinced him slavery had to be abolished. He was friends with Frederick Douglass, and, on one visit to the United States, had to flee the country due to threats of violence from pro-slavery parties.`,
+        link: 'https://en.wikipedia.org/wiki/George_Thompson_(abolitionist)',
+        infoSrc: 'http://frederickdouglassinbritain.com/abolitionists/GeorgeThompson/'
       },
     ],
     'Assassinations': [
@@ -12990,13 +13008,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'July 7th, 1834',
+        title: 'Tappan Riot (1834)',
+        imgSrc: require('./assets/eventPhotos/Events/tappanRiots.jpg'),
+        description: `On this day in 1834, New York City was torn by a huge antiabolitionist riot (known as the Farren or Tappan Riot) that lasted for nearly a week until it was put down by military force. The riot arose from tensions in the city as abolitionists became more politically active, blacks demanded more dignity and freedom for themselves, and the city experienced a large immigration of Irish people.\n\nWhite mobs, thousands strong, destroyed homes of black people and white abolitionists. At times, the rioters controlled whole sections of the city. The riot was forcbily ended by the New York National Guard.`,
+        link: 'https://en.wikipedia.org/wiki/New_York_anti-abolitionist_riots_(1834)',
+        infoSrc: 'https://www.blackpast.org/african-american-history/events-african-american-history/the-anti-abolition-riots-1834/'
       },
     ],
   },
@@ -13806,13 +13824,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'July 19th, 1848',
+        title: 'Seneca Falls Convention (1848)',
+        imgSrc: require('./assets/eventPhotos/Events/senecaFalls.jpg'),
+        description: `On this day, the Seneca Falls Convention was began. It was the first women's rights convention and advertised itself as "a convention to discuss the social, civil, and religious condition and rights of woman". Held in the Wesleyan Chapel of the town of Seneca Falls, New York, it spanned two days and became a national, annual event in 1850 (held in Worcester, Massachusetts).\n\nNotable speakers at the convention include Lucretia Mott, Elizabeth Cady Stanton, and Frederick Douglass, who was the meeting's only black member. At its conclusion, the convention issued a "Declaration of Sentiments", which became "the single most important factor in spreading news of the women's rights movement around the country in 1848 and into the future", according to historian Judith Wellman.`,
+        link: 'https://www.history.com/topics/womens-rights/seneca-falls-convention',
+        infoSrc: 'https://en.wikipedia.org/wiki/Declaration_of_Sentiments'
       },
     ],
   },
@@ -17753,13 +17771,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'September 15th, 1845',
+        title: 'Allegheny Strike (1845)',
+        imgSrc: require('./assets/eventPhotos/Events/alleghenyStrike.jpg'),
+        description: `On this day, the Allegheny Textile Strike of 1845 began in Pittsburgh, Pennsylvania. The strike was led by women and children, and part of a series of strikes that took place between 1845-1848.\n\nMore than 400 textile workers struck to push for a ten hour day without a pay cut from their typical 12 hour day. In October, some workers began flinging mud and destroying factory fences with axes, presumably to scare off some scabs that had replaced them. This behavior scandalized the strike and damaged some public support of it.\n\nThe strike was initially unsuccessful, but, following a similar strike in 1848, a law was passed limiting the working day to 10 hours. Unfortunately, this achievement was undercut by an amendment that allowed workers to sign a contract allowing the workday to increase back to 12 hours.`,
+        link: 'https://explorepahistory.com/hmarker.php?markerId=1-A-BD',
+        infoSrc: 'https://en.wikipedia.org/wiki/Allegheny_Textile_Strikes_of_1845_and_1848'
       },
     ],
     'Birthdays': [
@@ -17885,6 +17903,15 @@ export const eventLibrary = {
         description: `Occupy Wall Street (OWS) was a protest movement against economic inequality that began on this day in Zuccotti Park, located in New York City's Wall Street financial district, in 2011. It gave rise to the wider Occupy movement in the United States and other countries.\n\n The OWS slogan, "We are the 99%", refers to income and wealth inequality in the U.S. between the wealthiest 1% and the rest of the population. To achieve their goals, protesters acted on consensus-based decisions made in general assemblies which emphasized redress through direct action.`,
         link: 'https://www.rferl.org/a/what_does_the_occupy_wall_street_movement_want/24356295.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Occupy_Wall_Street'
+      },
+      {
+        category: 'Rebellion',
+        date: 'September 17th, 1849',
+        title: 'Harriet Tubman Escapes (1849)',
+        imgSrc: require('./assets/eventPhotos/Individuals/harrietTubman.jpg'),
+        description: `Harriet Tubman (1822 – 1913) was an American abolitionist and political activist. On this day in 1849, she escaped from slavery and subsequently made some 13 missions to rescue approximately 70 enslaved people, including family and friends, using the network of antislavery activists and safe houses known as the Underground Railroad.\n\nDuring the American Civil War, she served as an armed scout and spy for the Union Army. In her later years, Tubman was an activist in the struggle for women's suffrage. She was friends with both John Brown and Frederick Douglass, and was a renowned for her heroism in her lifetime.`,
+        link: 'https://www.womenshistory.org/education-resources/biographies/harriet-tubman',
+        infoSrc: 'https://en.wikipedia.org/wiki/Harriet_Tubman'
       },
     ],
     'Labor': [
@@ -22501,13 +22528,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'November 23rd, 1803',
+        title: 'Theodore Weld (1803 - 1895)',
+        imgSrc: require('./assets/eventPhotos/Individuals/theodoreWeld.jpg'),
+        description: `Theodore Dwight Weld, born on this day in 1803, was one of the architects of the American abolitionist movement during its formative years from 1830 through 1844, playing a role as writer, editor, speaker, and organizer. He is best known for his co-authorship of the authoritative compendium "American Slavery As It Is: Testimony of a Thousand Witnesses", published in 1839.\n\nHarriet Beecher Stowe partly based Uncle Tom’s Cabin on Weld's text, and it is regarded as second only to that work in its influence on the antislavery movement. Weld remained dedicated to the abolitionist movement until slavery was ended by the Thirteenth Amendment to the United States Constitution in 1865.`,
+        link: 'https://www.nationalabolitionhalloffameandmuseum.org/theodore-dwight-weld.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Theodore_Dwight_Weld'
       },
     ],
     'Assassinations': [
@@ -22705,13 +22732,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'November 26th, 1792',
+        title: 'Sarah Grimké (1792 - 1873)',
+        imgSrc: require('./assets/eventPhotos/Individuals/sarahGrimke.jpg'),
+        description: `Sarah Moore Grimké, born on this day in 1792, was an American abolitionist, widely held to be the mother of the women's suffrage movement. Born and reared in South Carolina to a prominent, slave-owning planter family, she moved to Philadelphia, Pennsylvania, in the 1820s and became a Quaker. She and her sister Angelina Grimké are the only white Southern women who became abolitionists.\n\nHere is an excerpt from her a series of articles she wrote titled "Letters on the Condition of Women and the Equality of the Sexes" (1838):\n\n"I ask no favors for my sex, I surrender not our claim to equality. All I ask of our brethren is that they will take their feet from off our necks, and permit us to stand upright on the ground which God has designed us to occupy...To me, it is perfectly clear that whatsoever it is morally right for a man to do, it is morally right for a woman to do."`,
+        link: 'https://www.womenshistory.org/education-resources/biographies/sarah-moore-grimke',
+        infoSrc: 'https://en.wikipedia.org/wiki/Sarah_Moore_Grimk%C3%A9'
       },
     ],
     'Assassinations': [
@@ -23203,13 +23230,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'December 3rd, 1847',
+        title: 'First North Star Edition (1847)',
+        imgSrc: require('./assets/eventPhotos/Organizations/northStar.jpg'),
+        description: `Frederick Douglass (1817 – 1895) was an American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, gaining note for his oratory and incisive antislavery writings.\n\nOn this day in 1847, he published the first edition of his abolitionist periodical "The North Star". The North Star's slogan was "Right is of no Sex—Truth is of no Color—God is the Father of us all, and all we are Brethren."`,
+        link: 'https://en.wikipedia.org/wiki/Frederick_Douglass',
+        infoSrc: 'https://en.wikipedia.org/wiki/The_North_Star_(anti-slavery_newspaper)'
       },
     ],
   },
