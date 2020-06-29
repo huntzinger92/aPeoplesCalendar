@@ -156,6 +156,8 @@ export default class App extends React.Component {
       };
     };
     this.setDisplay('search');
+    //exit out of specific event display:
+    this.calendarDisplayRef.current.setDisplay('all');
   };
 
   trackSearchText(text) {

@@ -9876,7 +9876,7 @@ export const eventLibrary = {
         date: 'May 23rd, 1926',
         title: 'Joe Slovo (1926 - 1995)',
         imgSrc: require('./assets/eventPhotos/Individuals/joeSlovo.jpg'),
-        description: `Joe Slovo was a South African politician and opponent of the apartheid system born on this day in 1926. A Marxist-Leninist, he was a long-time leader and theorist in the South African Communist Party (SACP), a leading member of the African National Congress (ANC), and a commander of the ANC's military wing Umkhonto we Sizwe (MK).\n\nSlovo was married to Ruth First, another prominent South African anti-apartheid activist who was assassinated by the government. He was, along with First, arrested and detained for two months during the Treason Trial of 1956, and lived in exile from 1963 to 1990, conducting operations against the apartheid régime from the United Kingdom, Angola, Mozambique, and Zambia.`,
+        description: `Joe Slovo was a South African politician and opponent of the apartheid system born on this day in 1926. A Marxist-Leninist, he was a long-time leader and theorist in the South African Communist Party (SACP), a leading member of the African National Congress (ANC), and a commander of the ANC's military wing Umkhonto we Sizwe (MK).\n\nSlovo was married to Ruth First, another prominent South African anti-apartheid activist who was assassinated by the government. He, along with First, was arrested and detained for two months during the Treason Trial of 1956, and lived in exile from 1963 to 1990, conducting operations against the apartheid régime from the United Kingdom, Angola, Mozambique, and Zambia.`,
         link: 'https://www.sahistory.org.za/people/joe-slovo',
         infoSrc: 'https://en.wikipedia.org/wiki/Joe_Slovo'
       },
@@ -17650,7 +17650,7 @@ export const eventLibrary = {
         date: 'September 13th, 1964',
         title: 'Tavis Smiley (1964 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/tavisSmiley.jpg'),
-        description: `Tavis Smiley (/ˈtævɪs/; born September 13, 1964) is an American talk show host and author. Smiley was born in Gulfport, Mississippi, and grew up in Bunker Hill, Indiana. From 2010 to 2013, Smiley and Cornel West worked together to host their own radio talk show, Smiley & West.\n\nIn 2012, Smiley participated in a "Poverty Tour" with Princeton University professor Cornel West to promote their book The Rich and the Rest of Us: A Poverty Manifesto. The stated aim of the tour was to highlight the plight of the impoverished population of the United States prior to the 2012 presidential election, whose candidates Smiley and West stated had ignored the plight of the poor.`,
+        description: `Tavis Smiley, born on this day in 1964, is an American talk show host and author. Smiley was born in Gulfport, Mississippi, and grew up in Bunker Hill, Indiana. From 2010 to 2013, Smiley and Cornel West worked together to host their own radio talk show, Smiley & West.\n\nIn 2012, Smiley participated in a "Poverty Tour" with Princeton University professor Cornel West to promote their book The Rich and the Rest of Us: A Poverty Manifesto. The stated aim of the tour was to highlight the plight of the impoverished population of the United States prior to the 2012 presidential election, whose candidates Smiley and West stated had ignored the plight of the poor.`,
         link: 'https://pnhp.org/news/smiley-and-west-the-rich-and-the-rest-of-us/',
         infoSrc: 'https://en.wikipedia.org/wiki/Tavis_Smiley'
       },
