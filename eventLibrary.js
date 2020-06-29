@@ -6442,7 +6442,7 @@ export const eventLibrary = {
       {
         category: 'Other',
         date: 'April 3rd, 1964',
-        title: `"The Ballot or The Bullet" Speech`,
+        title: `"The Ballot or The Bullet" Speech (1964)`,
         imgSrc: require('./assets/eventPhotos/Events/ballotBullet.jpg'),
         description: `On this day in 1964, Malcolm X delivered the famous "The Ballot or the Bullet" speech at Cory Methodist Church in Cleveland, Ohio. Malcolm X advised African Americans to judiciously exercise their right to vote, but he cautioned that, if the government continued to prevent African Americans from attaining full equality, it might be necessary for them to take up arms. Here is a brief excerpt:\n\n"I went to a white school over here in Mason, Michigan. The white man made the mistake of letting me read his history books. He made the mistake of teaching me that Patrick Henry was a patriot, and George Washington – wasn't nothing non-violent about ol' Pat, or George Washington. 'Liberty or death' is was what brought about the freedom of whites in this country from the English.\n\nThis is why I say it's the ballot or the bullet. It's liberty or it's death. It's freedom for everybody or freedom for nobody.\n\n...\n\nA revolution is bloody, but America is in a unique position. She's the only country in history in the position actually to become involved in a bloodless revolution. All she's got to do is give the Black man in this country everything that's due him. Everything."`,
         link: 'http://www.digitalhistory.uh.edu/disp_textbook.cfm?smtid=3&psid=3624',
@@ -12213,9 +12213,9 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'June 26th, 1952',
-        title: 'Olive Morris',
+        title: 'Olive Morris (1952 - 1979)',
         imgSrc: require('./assets/eventPhotos/Individuals/oliveMorris.jpg'),
-        description: `Morris, Olive Elaine, activist (1952-1979) was born on 26th June 1952 in Harewood, St Catherine’s, Jamaica. When she was nine years old, she, and her brother, Basil, left their maternal grandmother and joined her mother and father in Lavender Hill, south London.\n\nOlive became a member of the youth section of the Black Panther Movement (later the Black Workers Movement), along with others such as Linton Kwesi Johnson, Clovis Reid and Farrukh Dhondy. Olive was also a founding member of the Brixton Black Women’s Group. She died prematurely from non-Hodgkinson's lymphoma at the age of 27.`,
+        description: `Morris, Olive Elaine, activist was born on this day in 1952, in Harewood, St Catherine’s, Jamaica. When she was nine years old, she, and her brother, Basil, left their maternal grandmother and joined her mother and father in Lavender Hill, south London.\n\nOlive became a member of the youth section of the Black Panther Movement (later the Black Workers Movement), along with others such as Linton Kwesi Johnson, Clovis Reid and Farrukh Dhondy. Olive was also a founding member of the Brixton Black Women’s Group. She died prematurely from non-Hodgkinson's lymphoma at the age of 27.`,
         link: 'http://libcom.org/history/morris-olive-elaine-1952-1979',
         infoSrc: 'http://libcom.org/history/morris-olive-elaine-1952-1979'
       },

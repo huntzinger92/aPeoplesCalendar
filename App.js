@@ -2,12 +2,11 @@
 
 import React from 'react';
 //built in components
-import { StatusBar, Text, View, ScrollView, BackHandler, TouchableOpacity, Linking, TextInput } from 'react-native';
+import { StatusBar, Keyboard, Text, View, ScrollView, BackHandler, TouchableOpacity, Linking, TextInput } from 'react-native';
 //custom components
 import {StyledText} from './styledText.js';
 import {CalendarDisplay} from './calendarDisplay.js';
 import {About} from './aboutComponent.js';
-import {SearchResults} from './searchResults.js';
 //donateComponent.js is not used, but keeping it here in case I decide to build a donate view
 import {Donate} from './donateComponent.js';
 //eventLibrary (big JSON of all events)
@@ -49,7 +48,7 @@ export default class App extends React.Component {
       showDatePicker: false,
       events: eventLibrary[initTodayString], //events from selected day, to display in CalendarDisplay
       showDonationPrompt: false,
-      searchValue: 'sankara'
+      searchValue: 'Search the calendar!'
     };
     this.setDisplay = this.setDisplay.bind(this);
     this.setNewDate = this.setNewDate.bind(this);
@@ -62,8 +61,29 @@ export default class App extends React.Component {
     this.todayString = initTodayString;
     this.calendarDisplayRef = React.createRef();
     this.donationMessage = "A calendar full of working class movements should be free of ads trying to commodify every second of your life.\n\nDonating a bit helps me keep this calendar growing and up to date."
-    this.searchEventsResult = [];
+    //searchEventsResult is used as a "artificial" day, passed to calendarDisplay. This allows search results to retain the same look and functionality of any calendar day
+    this.searchEventsResult = {
+      'Revolution': [{description: ''}],
+      'Rebellion': [{description: ''}],
+      'Labor': [{description: ''}],
+      'Birthdays': [{description: ''}],
+      'Assassinations': [{description: ''}],
+      'Other': [{description: ''}],
+    };
   };
+
+  backHandler = BackHandler.addEventListener('hardwareBackPress', () => {
+    if (this.state.display !== 'main') {
+      this.setState({
+        display: 'main',
+        searchValue: 'Search the calendar!'
+      });
+      return true;
+    } else {
+      BackHandler.exitApp();
+    };
+  });
+
 
   async componentDidMount() {
     //causes a re-render on Fridays, but probably better than a ternary operator in the initial setting of state
@@ -89,12 +109,27 @@ export default class App extends React.Component {
   };
 
   searchEvents() {
-    //iterate over each day, each day's category, each day's category's list of events, see if searchText is in the event's description
-    //if it is, append the means of finding it to this.searchEventsResult
-    //after that setState display: 'searchResults', which will give a list of TouchableOpacities that link to specific events?
-    console.log('searchEvents is running with searchValue as ' + this.state.searchValue);
+    //iterate over each day, each day's category, each day's category's list of events, see if this.state.searchValue is in the event's description
+    //if it is, add that event to the "artificial" day that is created from search results (held as this.searchEventsResult)
+    //this day is then passed to calendarDisplay, retaining all the funcitonality of a calendar day's events
+
+    //dismiss Keyboard
+    Keyboard.dismiss();
+    if (this.state.searchValue.length < 3) {
+      alert('Search value must be three characters or longer!');
+      return '';
+    };
     //clear out any previous search results
-    this.searchEventsResult = [];
+    this.searchEventsResult = {
+      'Revolution': [{description: ''}],
+      'Rebellion': [{description: ''}],
+      'Labor': [{description: ''}],
+      'Birthdays': [{description: ''}],
+      'Assassinations': [{description: ''}],
+      'Other': [{description: ''}],
+    };
+    //create lowerCase searchValue string
+    var lowerSearchValue = this.state.searchValue.toLowerCase();
     //create a list of every day in a year (used as a key in eventLibrary)
     var everyDayString = Object.keys(eventLibrary);
     //create a list of categories
@@ -107,10 +142,15 @@ export default class App extends React.Component {
         for (var k = 0; k < day[categories[j]].length; k++) {
           //finally, we arrive at a specific event object - check to see if searchText in event's description prop
           var lowerDescription = day[categories[j]][k].description.toLowerCase();
-          if (lowerDescription.includes(this.state.searchValue)) {
+          if (lowerDescription.includes(lowerSearchValue)) {
             //if the search term is included, add the event to the results class variable
-            console.log(day[categories[j]][k].title);
-            this.searchEventsResult.push(day[categories[j]][k]);
+            //this.searchEventsResult.push(day[categories[j]][k]);
+            //if the list of events under the given category is just a placeholder (i.e., description: ''), then overwrite it; else, append to end of list
+            if (!this.searchEventsResult[categories[j]][0].description) {
+              this.searchEventsResult[categories[j]][0] = day[categories[j]][k];
+            } else {
+              this.searchEventsResult[categories[j]].push(day[categories[j]][k]);
+            };
           };
         };
       };
@@ -119,8 +159,7 @@ export default class App extends React.Component {
   };
 
   trackSearchText(text) {
-    var lowerText = text.toLowerCase();
-    this.setState({searchValue: lowerText});
+    this.setState({searchValue: text});
   };
 
   setDisplay(component) {
@@ -149,6 +188,13 @@ export default class App extends React.Component {
       events: eventLibrary[this.todayString],
       showDatePicker: false,
     });
+    //if coming from a search or about, need to reset the app display:
+    if (this.state.display !== 'main') {
+      this.setState({
+        display: 'main',
+        searchValue: 'Search the calendar!'
+      });
+    };
     //exit out of specific event display:
     this.calendarDisplayRef.current.setDisplay('all');
     //console.log((this.today.getMonth() + 1) + '-' + this.today.getDate());
@@ -184,19 +230,26 @@ export default class App extends React.Component {
           <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 25, color: 'white'}}/>
         </TouchableOpacity>
         <View style={styles.searchBar}>
-          <TouchableOpacity onPress={() => this.searchEvents()}>
-            <AntDesign name="search1" size={28} color="black" />
+          <TouchableOpacity
+            onPress={() => this.searchEvents()}
+            style={styles.iconContainer}
+          >
+            <AntDesign name="search1" size={28} color="black" style={styles.iconSearch}/>
           </TouchableOpacity>
           <TextInput
+            style={[styles.searchField, this.state.searchValue === 'Search the calendar!' ? {color: 'grey'} : {color: 'black'}]}
             onChangeText={(text) => this.trackSearchText(text)}
             value={this.state.searchValue}
+            maxLength={40}
+            onSubmitEditing={() => this.searchEvents()}
+            onFocus= {() => this.setState({searchValue : ''})}
           />
         </View>
         <ScrollView style={styles.everythingNotFooter}>
           <View style={styles.mainContent}>
-            {this.state.display === 'main' && <CalendarDisplay date={this.today} events={this.state.events} todayString={this.todayString} ref={this.calendarDisplayRef}/>}
+            {this.state.display === 'main' && <CalendarDisplay appDisplay={this.state.display} date={this.today} events={this.state.events} todayString={this.todayString} ref={this.calendarDisplayRef}/>}
             {this.state.display === 'about' && <About/>}
-            {this.state.display === 'search' && <SearchResults events={this.searchEventsResult}/>}
+            {this.state.display === 'search' && <CalendarDisplay appDisplay={this.state.display} date={this.today} events={this.searchEventsResult} todayString={this.todayString} ref={this.calendarDisplayRef}/>}
             {this.state.display === 'donate' && <Donate/>}
           </View>
         </ScrollView>

@@ -1,3 +1,5 @@
+//note: this component is deprecated and not used currently
+
 import React from 'react';
 import { Text, View, ScrollView, BackHandler, TouchableOpacity } from 'react-native';
 import {StyledText} from './styledText.js';

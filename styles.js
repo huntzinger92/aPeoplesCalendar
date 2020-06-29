@@ -125,6 +125,16 @@ export const styles = StyleSheet.create({
     padding: 8,
     backgroundColor: '#1c1c1c',
   },
+  iconContainer: {
+    width: '8%',
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginLeft: 5,
+    marginRight: 3,
+  },
+  iconSearch: {
+    alignSelf: 'center'
+  },
   linkContainer: {
     flexDirection: 'row',
     justifyContent: 'space-around',
@@ -152,9 +162,13 @@ export const styles = StyleSheet.create({
   searchBar: {
     flexDirection: 'row',
     height: 50,
-    borderColor: 'gray',
-    borderWidth: 1,
+    borderColor: 'black',
+    borderBottomWidth: 1,
     alignContent: 'center',
+  },
+  searchField: {
+    width: '92%',
+    fontSize: 24,
   },
   specificEventButton: {
     borderBottomWidth: 1,
