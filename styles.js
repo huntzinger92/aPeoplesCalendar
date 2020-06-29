@@ -149,6 +149,13 @@ export const styles = StyleSheet.create({
     paddingBottom: 10,
     borderBottomWidth: 1,
   },
+  searchBar: {
+    flexDirection: 'row',
+    height: 50,
+    borderColor: 'gray',
+    borderWidth: 1,
+    alignContent: 'center',
+  },
   specificEventButton: {
     borderBottomWidth: 1,
     padding: 1,

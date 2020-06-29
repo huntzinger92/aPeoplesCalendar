@@ -1,10 +1,13 @@
+//to do: bring up and dismiss keyboard when click on text input in search bar, consider extracting search logic out into 'search bar' component
+
 import React from 'react';
 //built in components
-import { StatusBar, Text, View, ScrollView, BackHandler, TouchableOpacity, Linking } from 'react-native';
+import { StatusBar, Text, View, ScrollView, BackHandler, TouchableOpacity, Linking, TextInput } from 'react-native';
 //custom components
 import {StyledText} from './styledText.js';
 import {CalendarDisplay} from './calendarDisplay.js';
 import {About} from './aboutComponent.js';
+import {SearchResults} from './searchResults.js';
 //donateComponent.js is not used, but keeping it here in case I decide to build a donate view
 import {Donate} from './donateComponent.js';
 //eventLibrary (big JSON of all events)
@@ -16,6 +19,8 @@ import DateTimePicker from '@react-native-community/datetimepicker';
 import AwesomeAlert from 'react-native-awesome-alerts';
 //local storage of display settings (currently only used to handle when donation prompt displays, but will include notification scheduling eventually)
 import AsyncStorage from '@react-native-community/async-storage';
+//icons
+import { AntDesign } from '@expo/vector-icons';
 
 //notification stuff (on To Do list, expo's docs are a bit complicated)
 //import {Constants, Notifications, Permissions} from 'expo';
@@ -40,21 +45,24 @@ export default class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      display: 'main', //main or about
+      display: 'main', //main, about, or search
       showDatePicker: false,
       events: eventLibrary[initTodayString], //events from selected day, to display in CalendarDisplay
       showDonationPrompt: false,
+      searchValue: 'sankara'
     };
     this.setDisplay = this.setDisplay.bind(this);
     this.setNewDate = this.setNewDate.bind(this);
     this.toggleDatePicker = this.toggleDatePicker.bind(this);
     this.declineDonation = this.declineDonation.bind(this);
     this.acceptDonation = this.acceptDonation.bind(this);
+    this.searchEvents = this.searchEvents.bind(this);
 
     this.today = new Date();
     this.todayString = initTodayString;
     this.calendarDisplayRef = React.createRef();
     this.donationMessage = "A calendar full of working class movements should be free of ads trying to commodify every second of your life.\n\nDonating a bit helps me keep this calendar growing and up to date."
+    this.searchEventsResult = [];
   };
 
   async componentDidMount() {
@@ -80,8 +88,48 @@ export default class App extends React.Component {
     };
   };
 
+  searchEvents() {
+    //iterate over each day, each day's category, each day's category's list of events, see if searchText is in the event's description
+    //if it is, append the means of finding it to this.searchEventsResult
+    //after that setState display: 'searchResults', which will give a list of TouchableOpacities that link to specific events?
+    console.log('searchEvents is running with searchValue as ' + this.state.searchValue);
+    //clear out any previous search results
+    this.searchEventsResult = [];
+    //create a list of every day in a year (used as a key in eventLibrary)
+    var everyDayString = Object.keys(eventLibrary);
+    //create a list of categories
+    var categories = ['Revolution', 'Rebellion', 'Labor', 'Birthdays', 'Assassinations', 'Other'];
+    //iterate through each day
+    for (var i = 0; i < everyDayString.length; i++) {
+      var day = eventLibrary[everyDayString[i]];
+      //if day has no entries, increment count by one
+      for (var j = 0; j < categories.length; j++) {
+        for (var k = 0; k < day[categories[j]].length; k++) {
+          //finally, we arrive at a specific event object - check to see if searchText in event's description prop
+          var lowerDescription = day[categories[j]][k].description.toLowerCase();
+          if (lowerDescription.includes(this.state.searchValue)) {
+            //if the search term is included, add the event to the results class variable
+            console.log(day[categories[j]][k].title);
+            this.searchEventsResult.push(day[categories[j]][k]);
+          };
+        };
+      };
+    };
+    this.setDisplay('search');
+  };
+
+  trackSearchText(text) {
+    var lowerText = text.toLowerCase();
+    this.setState({searchValue: lowerText});
+  };
+
   setDisplay(component) {
-    //component should only ever be main or about
+    //component should only ever be main, search, or about
+    if (component === 'all') {
+      this.setState({
+        searchValue: ''
+      });
+    };
     this.setState({
       display: component,
     });
@@ -135,10 +183,20 @@ export default class App extends React.Component {
         <TouchableOpacity style={styles.header} onPress={() => this.toggleDatePicker()}>
           <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 25, color: 'white'}}/>
         </TouchableOpacity>
+        <View style={styles.searchBar}>
+          <TouchableOpacity onPress={() => this.searchEvents()}>
+            <AntDesign name="search1" size={28} color="black" />
+          </TouchableOpacity>
+          <TextInput
+            onChangeText={(text) => this.trackSearchText(text)}
+            value={this.state.searchValue}
+          />
+        </View>
         <ScrollView style={styles.everythingNotFooter}>
           <View style={styles.mainContent}>
             {this.state.display === 'main' && <CalendarDisplay date={this.today} events={this.state.events} todayString={this.todayString} ref={this.calendarDisplayRef}/>}
             {this.state.display === 'about' && <About/>}
+            {this.state.display === 'search' && <SearchResults events={this.searchEventsResult}/>}
             {this.state.display === 'donate' && <Donate/>}
           </View>
         </ScrollView>

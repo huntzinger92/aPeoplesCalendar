@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, View, ScrollView, BackHandler, TouchableOpacity } from 'react-native';
 import {StyledText} from './styledText.js';
 import {styles} from './styles.js';
-//uncomment eventLibrary import once you get up and running
+
 import {eventLibrary} from './eventLibrary.js';
 import {SpecificEvent} from './specificEvent.js';
 import { Ionicons } from '@expo/vector-icons';
@@ -25,7 +25,7 @@ export class CalendarDisplay extends React.Component {
     this.handleExpandCollapse = this.handleExpandCollapse.bind(this);
 
     //this.colorScheme = {'Revolution': '#eb8f8f', 'Rebellion': '#ebbd8f', 'Labor': '#ceeb8f', 'Birthdays': '#c38feb', 'Assassinations': '#8f91eb', 'Other': '#b5c4b9'}
-    this.colorScheme = {'Revolution': '#de4d43', 'Rebellion': '#de4d43', 'Labor': '#de4d43', 'Birthdays': '#de4d43', 'Assassinations': '#de4d43', 'Other': '#de4d43'}
+    this.colorScheme = {'Revolution': '#de4d43', 'Rebellion': '#de4d43', 'Labor': '#de4d43', 'Birthdays': '#de4d43', 'Assassinations': '#de4d43', 'Other': '#de4d43'};
   };
 
   backHandler = BackHandler.addEventListener('hardwareBackPress', () => {
@@ -62,15 +62,14 @@ export class CalendarDisplay extends React.Component {
   setSpecificEvent(event) {
     this.setState({
       display: 'specific',
-      event: event
+      specificEvent: event
     });
   };
 
   render() {
-    //three possible views:
+    //two possible views:
     //display === 'all' will show categories and specific event buttons
     //display === 'specific' will render a specific event's view, passing props to the SpecificEvent component
-    //{this.props.events['Revolution'][0].description.length > 0 &&
     return (
       <View style={styles.main}>
         {this.state.display === 'all' && <View style={styles.allEventsWrapper}>
@@ -186,7 +185,7 @@ export class CalendarDisplay extends React.Component {
           </View>}
         </View>}
         {this.state.display === 'specific' &&
-          <SpecificEvent event={this.state.event} setDisplay={this.setDisplay} colorScheme={this.colorScheme}/>
+          <SpecificEvent event={this.state.specificEvent} setDisplay={this.setDisplay} colorScheme={this.colorScheme}/>
         }
       </View>
     );

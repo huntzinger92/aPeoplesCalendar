@@ -10243,13 +10243,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 28th, 1830',
+        title: 'Indian Removal Act (1830)',
+        imgSrc: require('./assets/eventPhotos/Events/indianRemovalAct.jpg'),
+        description: `The Indian Removal Act was signed into law on this day in 1830 by United States President Andrew Jackson. The law authorized the president to negotiate with southern Native American tribes for their removal to federal territory west of the Mississippi River in exchange for white settlement of their ancestral lands.\n\nThe law is considered unitary act of systematic genocide because it discriminated against an ethnic group in such a way as to effectively guarantee the death of vast numbers of its population. The Act was signed by Andrew Jackson and it was strongly enforced by his and his successor's administrations.\n\nThe enforcement of this law directly led to the infamous "Trail of Tears", which killed over 10,000 indigenous peoples. Although some tribes left peacefully, other tribes fought back, leading to the Second Seminole War of 1835.`,
+        link: 'https://www.britannica.com/topic/Indian-Removal-Act',
+        infoSrc: 'https://en.wikipedia.org/wiki/Indian_Removal_Act'
       },
     ],
   },
@@ -15252,13 +15252,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'August 9th, 1814',
+        title: 'Treaty of Fort Jackson (1814)',
+        imgSrc: require('./assets/eventPhotos/Events/jacksonTreaty.png'),
+        description: `The Treaty of Fort Jackson (also known as the Treaty with the Creeks) was signed on this day in 1814 at Fort Jackson in Alabama. The treaty was agreed upon in the aftermath of defeat of the Red Stick (Upper Creek) resistance by U.S. forces at the Battle of Horseshoe Bend.\n\nThe treaty was the "largest single Indian cession of southern American land", according to historian Michael Rogin - around 23 million acres in Alabama and Georgia. Notably, the U.S. forces won with the battle with the help of allied Cherokee and Lower Creek forces friendly to the American side.\n\nThe terms of various treaties with the Creek nation would go on to be consistently violated by Americans colonizing the south.`,
+        link: 'https://www.nps.gov/articles/treaty-of-fort-jackson.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Treaty_of_Fort_Jackson'
       },
     ],
   },
@@ -16494,13 +16494,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'August 27th, 1832',
+        title: 'Black Hawk Surrenders (1832)',
+        imgSrc: require('./assets/eventPhotos/Individuals/blackHawk.jpg'),
+        description: `Black Hawk (1767 – 1838) was a band leader and warrior of the Sauk Native American tribe in what is now the Midwest of the United States. Although he had inherited an important historic sacred bundle from his father, he was not a hereditary civil chief.\n\nBlack Hawk earned his status as a war chief or captain by his actions; leading raiding and war parties as a young man, and then a band of Sauk warriors during the Black Hawk War of 1832, which was an apparent attempt by Black Hawk to resettle indigenous land lost in the disputed Treaty of St. Louis thirty years prior.\n\nOn August 1st, the Battle of Bad Axe, which was effectively a massacre. When Sauk people attempted to surrender, they were gunned down by American soldiers instead. Many Sauk, including children, were shot or drowned while attempting to cross the Mississippi River into safety. Although Black Hawk successfuly fled the massacre, on this day in 1832, he surrendered to the American government and was imprisoned.`,
+        link: 'https://en.wikipedia.org/wiki/Black_Hawk_(Sauk_leader)',
+        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Bad_Axe'
       },
     ],
   },
@@ -19182,13 +19182,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 5th, 1813',
+        title: 'Battle of the Thames (1813)',
+        imgSrc: require('./assets/eventPhotos/Events/battleThames.png'),
+        description: `Tecumseh (1768 – 1813) was a Native American Shawnee warrior and chief who became the primary leader of a large, multi-tribal confederacy in the early 19th century. Growing up during the American Revolutionary War and the Northwest Indian War, Tecumseh was exposed to warfare and envisioned the establishment of an independent Native American nation east of the Mississippi River under British protection, and established a confederacy of tribes to fight off colonization efforts.\n\nOn this day in 1813, Tecumseh and his second in command Roundhead were killed in The Battle of the Thames, fought as part of the War of 1812 between America and Tecumseh's Confederacy and British allies. Tecumseh's death resulted in the dissoluion of his tribal alliances, and many Native Americans began to move West, across the Mississippi River.`,
+        link: 'https://en.wikipedia.org/wiki/Tecumseh',
+        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_the_Thames'
       },
     ],
   },
@@ -19864,7 +19864,7 @@ export const eventLibrary = {
         date: 'October 15th, 1987',
         title: 'Thomas Sankara (1949 - 1987)',
         imgSrc: require('./assets/eventPhotos/Individuals/thomasSankara.jpg'),
-        description: `Thomas Sankara was a Burkinabé revolutionary and President of Burkina Faso from 1983 to 1987. A Marxist–Leninist and pan-Africanist, he was viewed by supporters as a charismatic and iconic figure of revolution and is sometimes referred to as "Africa's Che Guevara".\n\nSankara came into power when allies instigated a coup on his behalf in 1983. He immediately launched programmes for social, ecological and economic change and renamed the country from the French colonial name Upper Volta to Burkina Faso ("Land of Incorruptible People"), with its people being called Burkinabé ("upright people").\n\nHis administration was known for refusing all foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literarcy, women's rights, and public health.\n\nOn 15 October 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
+        description: `Thomas Sankara was a Burkinabé revolutionary and President of Burkina Faso from 1983 to 1987. A Marxist–Leninist and pan-Africanist, he was viewed by supporters as a charismatic and iconic figure of revolution and is sometimes referred to as "Africa's Che Guevara".\n\nSankara came into power when allies instigated a coup on his behalf in 1983. He immediately launched programmes for social, ecological and economic change and renamed the country from the French colonial name Upper Volta to Burkina Faso ("Land of Incorruptible People"), with its people being called Burkinabé ("upright people").\n\nHis administration was known for refusing all foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literarcy, women's rights, and public health.\n\nOn this day in 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
         link: 'http://www.thomassankara.net/26-years-ago-thomas-sankara-was-assassinated-circumstances-yet-to-be-clarified-but-an-ever-growing-popularity/?lang=en',
         infoSrc: 'https://en.wikipedia.org/wiki/Thomas_Sankara'
       },
