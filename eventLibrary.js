@@ -3574,6 +3574,15 @@ export const eventLibrary = {
         link: 'https://www.marxists.org/archive/marx/works/1848/communist-manifesto/',
         infoSrc: 'https://www.history.com/this-day-in-history/marx-publishes-manifesto'
       },
+      {
+        category: 'Other',
+        date: 'February 21st, 1828',
+        title: 'Cherokee Phoenix 1st Edition (1828)',
+        imgSrc: require('./assets/eventPhotos/Events/cherokeePhoenix.jpg'),
+        description: `On this day in 1828, the first newspaper published by Native Americans began publishing. It was called the Cherokee Phoenix, and, as the title suggests, was written by Cherokees, assimilating into white culture in order to try and survive the process of colonization.\n\nThe Cherokee Phoenix was written in both English and the written Cherokee language, which the tribe's chief, Sequoyah, had invented. Although the paper ceased publication in 1834, it was revived in the 20th century and continues to publish today.`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnasl7.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Cherokee_Phoenix'
+      },
     ],
   },
   '2-22': {
@@ -11825,13 +11834,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 20th, 1829',
+        title: 'Speckled Snake Speaks (1829)',
+        imgSrc: require('./assets/eventPhotos/Events/snakeSpeaks.jpg'),
+        description: `Speckled Snake was a Native American man over one hundred years old. On this day in 1829, he gave a speech to a council of Indian chiefs on the nature of Andrew Jackson's policy of removal of indigenous people. Here is an excerpt:\n\n"...But when the white man had warmed himself before the Indians' fire and filled himself with their hominy, he became very large. With a step he bestrode the mountains, and his feet covered the plains and the valleys. His hand grasped the eastern and the western sea, and his head rested on the moon.\n\nThen he became our Great Father. He loved his red children, and he said, 'Get a little further, lest I tread on thee.'\n\nBrothers! I have listened to a great many talks from our great father. But they always began and ended in this - 'Get a little further; you are too near me.'`,
+        link: 'http://peelersplace.weebly.com/uploads/1/6/5/8/16589814/chief_speckled_snake_speech.pdf',
+        infoSrc: 'https://www.historyisaweapon.com/defcon1/zinnasl7.html'
       },
     ],
   },
@@ -20244,13 +20253,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'December 28th, 1837',
+        title: 'Osceola Captured (1837)',
+        imgSrc: require('./assets/eventPhotos/Individuals/osceola.jpg'),
+        description: `Osceola (1804 - 1838, Asi-yahola in Creek) was an influential leader of the Seminole people in Florida, and a leader of violent Seminole resistance against colonization. Although he was raised in the Creek tradition, Osceola became part of what was known as the Seminole people after moving to Florida as a child.\n\nOsceola's successful attack on military forces on December 28th, 1835 served as a catalyst for beginning the Second Seminole War against the United States. Although they were successful that day, it was on this day in 1837 that Osceola was captured, by General Joseph Hernández.\n\nGeneral Hernández agreed to meet with Osceola under a white flag of truce, but promptly arrested Osceola and 81 of his followers. This action has been described as "one of the most disgraceful acts in American military history." Osceola died from illness a few months after his capture, on January 30th, 1838.`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnasl7.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Osceola'
       },
     ],
     'Labor': [
@@ -24404,13 +24413,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'December 20th, 1828',
+        title: 'Georgia Discriination Against Cherokees (1828)',
+        imgSrc: require('./assets/eventPhotos/Events/cherokeeDeported.jpg'),
+        description: `On this day in 1828, the state legislature of Georgia, fearful that the United States would not enforce (as a matter of federal policy) the removal of the Cherokee people from their historic lands in the state, enacted a series of laws which stripped the Cherokee of their rights under the laws of the state. This was ostensibly an attempt to force the Cherokee to leave the state.\n\nAmong other forms of discrimination, Cherokee could not dig for gold discovered on their land, any Cherokee caught advising others to not migrate westward could be jailed, and no Cherokee could testify in court against a white man. The Cherokee Nation sued the state of Georgia and lost; on appeal, the Supreme Court declined to rule on the case.\n\nA year later, the Supreme Court ruled that the Cherokee Nation was a sovereign entity and that the Georgia laws were illegal, however President Andrew Jackson flagrantly violated this ruling and directed the expulsion of the Cherokee Nation. This led directly to the infamous "Trail of Tears".`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnasl7.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Cherokee_Nation_v._Georgia'
       },
     ],
   },
@@ -24904,13 +24913,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'December 28th, 1835',
+        title: 'Osceola Strikes Back (1835)',
+        imgSrc: require('./assets/eventPhotos/Individuals/osceola.jpg'),
+        description: `Osceola (1804 - 1838, Asi-yahola in Creek) was an influential leader of the Seminole people in Florida, and a leader of violent Seminole resistance against colonization. Although he was raised in the Creek tradition, Osceola became part of what was known as the Seminole people after moving to Florida as a child.\n\nOn this day in 1835, Osceola killed the Indian agent who had formerly imprisoned and chained him, Wiley Thompson. Osceola and his followers shot six others outside Fort King, while another group of Seminole ambushed and killed nearly every member of a column of US Army, more than 100 troops. These nearly simultaneous attacks catalyzed the Second Seminole War with the United States.`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnasl7.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Osceola'
       },
     ],
     'Labor': [
