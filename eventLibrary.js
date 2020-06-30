@@ -1170,13 +1170,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'January 17th, 1935',
+        title: 'Zunyi Conference Ends (1935)',
+        imgSrc: require('./assets/eventPhotos/Events/zunyiConference.jpg'),
+        description: `The Zunyi Conference was a three day meeting of the Communist Party of China (CPC) that ended on this day in 1935, during the Long March (a retreat of Chinese Communist Party forces from an attacks of a nationalist military). This meeting involved a power struggle between the leadership of Bo Gu and the opposition, led by Mao Zedong. The result was in Mao's favor, and he left the meeting in position to take over military command and become the leader of the Communist Party.\n\nThe Red Army had been fleeing their overwhelmed base of operations at Jiangxi-Fujian for several months by this point, and this conference involved the debate/accountability of CPC leadership for various tactical and strategic failures. The CPC went on to achieve a new base of operations in Shaanxi Province, and continued its revolutionary activity from there.\n\nThe Zunyi Conference was completely unacknowledged until the 1950s and still no detailed descriptions were available until the fiftieth anniversary in 1985, and has beocome a popular tourist destination in China.`,
+        link: 'http://en.chinaculture.org/library/2008-02/15/content_34014.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Zunyi_Conference'
       },
     ],
   },
@@ -1545,13 +1545,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'January 23rd, 2014',
+        title: 'South Africa Platinum Strike (2014)',
+        imgSrc: require('./assets/eventPhotos/Events/southAfrica2014Strike.jpg'),
+        description: `On this day in 2014, the longest wage strike in South African history began. Almost 70 000 platinum mine workers went on strike to demand large wage increases. The majority of these mine workers belong to a newly formed trade union, Association of Mines and Construction Union (AMCU), under the leadership of Joseph Mathunjwa.\n\nThe strike lasted five months, and on June 23rd, 2014, both the platinum companies and AMCU settled for a pay increase spread over three years. Notably, several mine assets were sold off by the companies due to the burden of the strike.`,
+        link: 'https://en.wikipedia.org/wiki/2014_South_African_platinum_strike',
+        infoSrc: 'https://www.sahistory.org.za/article/2014-south-african-platinum-strike-longest-wage-strike-south-africa'
       },
     ],
     'Birthdays': [
@@ -3847,13 +3847,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'February 25th, 1956',
+        title: 'Khrushchev Denounces Stalin (1956)',
+        imgSrc: require('./assets/eventPhotos/Individuals/nikitaKhrushchev.jpg'),
+        description: `"On the Cult of Personality and Its Consequences" was a report delivered by Soviet leader Nikita Khrushchev to the 20th Congress of the Communist Party of the Soviet Union on this day in 1956. Khrushchev's speech was sharply critical of the reign of the deceased Joseph Stalin, particularly with respect to the purges which had especially marked the last years of the 1930s.\n\nThe speech was a decisive turning point in not just Soviet history, but international communist history more broadly. It led, in part, to the Sino-Soviet Split (deterioration of relations between the USSR and communist China) and the so called "Khrushchev Thaw", a relaxation of censorship and gulag-detention policies by the Soviet state.`,
+        link: 'https://www.britannica.com/event/Khrushchevs-secret-speech',
+        infoSrc: 'https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences'
       },
     ],
   },
@@ -5814,6 +5814,15 @@ export const eventLibrary = {
         link: 'https://en.wikipedia.org/wiki/Julio_Antonio_Mella',
         infoSrc: 'https://en.wikipedia.org/wiki/Julio_Antonio_Mella'
       },
+      {
+        category: 'Birthdays',
+        date: 'March 25th, 1873',
+        title: 'Rudolf Rocker (1873 - 1958)',
+        imgSrc: require('./assets/eventPhotos/Individuals/rudolfRocker.jpg'),
+        description: `Johann Rudolf Rocker, born on this day in 1873, was a German anarchist writer and activist. Though often described as an anarcho-syndicalist, he was a self-professed anarchist without adjectives, believing that anarchist schools of thought represented "only different methods of economy" and that the first objective for anarchists was "to secure the personal and social freedom of men".\n\nRocker was involved in helping organize a number of labor strikes and represented the federation at the International Anarchist Congress in Amsterdam in 1907. Rocker also wrote a number of important texts on the history and practice of anarchism, and he was well-read in his lifetime - his readers included figures Thomas Mann, Albert Einstein, Herbert Read, and Bertrand Russell.`,
+        link: 'https://libcom.org/library/london-years-rudolf-rocker',
+        infoSrc: 'https://en.wikipedia.org/wiki/Rudolf_Rocker'
+      },
     ],
     'Assassinations': [
       {
@@ -7070,13 +7079,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 12th, 1921',
+        title: 'Shanghai Massacre (1921)',
+        imgSrc: require('./assets/eventPhotos/Events/shanghaiMassacre.jpg'),
+        description: `The Shanghai massacre of April 12th, 1927 was the violent suppression of Communist Party of China (CPC) organizations in Shanghai by the military forces of Generalissimo Chiang Kai-shek and conservative factions in the Kuomintang. Following the incident, those conservative forces carried out a full-scale purge of Communists in all areas under their control, and even more violent suppression occurred in Guangzhou and Changsha.\n\nBefore dawn on April 12th, nationalist troops began to attack district offices controlled by the union workers. Under an emergency decree, Chiang ordered the 26th Army to disarm the workers' militias. The union workers organized a mass meeting denouncing Chiang Kai-shek the next day, and thousands of workers and students went to the headquarters of the 2nd Division of the 26th Army to protest. Soldiers opened fire, killing 100 and wounding many more.\n\nThis incident marked the beginning of a prolonged purge of communists from the Wuhan province, and the ensuing violence killed over 300,000 people in less than three years. Notably, Stalin sent a telegram to the Chinese communists on June 1st, urging them to organize militarily against the government.`,
+        link: 'https://en.wikipedia.org/wiki/Shanghai_massacre',
+        infoSrc: 'https://www.socialistalternative.org/2017/04/12/china-90-years-chiang-kai-sheks-shanghai-massacre/'
       },
     ],
   },
@@ -8522,13 +8531,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'May 4th, 1919',
+        title: 'May 4th Movement (1919)',
+        imgSrc: require('./assets/eventPhotos/Events/may4thMovement.jpg'),
+        description: `The May Fourth Movement began on this day in 1919, growing out student protests in Beijing. The demonstrations sparked nation-wide protests and spurred an upsurge in Chinese nationalism, a shift towards political mobilization, a shift away from cultural activities, a move towards a mass base and a move away from traditional intellectual and political elites.\n\nOn the afternoon of May 4, over 4,000 students of Yenching University, Peking University and other schools marched from many points to gather in front of Tiananmen. They shouted such slogans as "struggle for the sovereignty externally, get rid of the national traitors at home", "do away with the Twenty-One Demands", and "don't sign the Versailles Treaty".\n\nThe next day, students in Beijing as a whole went on strike and in the larger cities across China, students, patriotic merchants, and workers joined protests. The demonstrators skillfully appealed to the newspapers and sent representatives to carry the word across the country. In Shanghai, a general strike of merchants and workers nearly devastated the entire Chinese economy.\n\nIn the years that followed, many Chinese political thinkers turned to leftist politics in the wake of the political upheaval of the May 4th Movement. In 1939, Mao Zedong claimed that the May Fourth Movement was a stage leading toward the fulfillment of his own communist revolution.`,
+        link: 'https://www.britannica.com/event/May-Fourth-Movement',
+        infoSrc: 'https://en.wikipedia.org/wiki/May_Fourth_Movement'
       },
     ],
     'Labor': [
@@ -15423,13 +15432,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 12th, 1946',
+        title: 'South Africa Miner Strike (1946)',
+        imgSrc: require('./assets/eventPhotos/Events/southAfricaMiners.jpg'),
+        description: `On this day in 1946, nearly 100,000 black South African mine workers of the Witwatersrand went on strike in support of a demand for higher wages - 10 shillings a day. They continued the strike for a week in the face of the most savage police terror, in which officially 1,248 workers were wounded and a very large number - officially only 9 - were killed.\n\nLawless police and army violence smashed the strike. The resources of the racist state were mobilised, almost on a war footing, against the unarmed workmen. A profound result of the strike was the effect it had on the thinking of the national liberation movement - almost immediately it shifted significantly from a policy of concession to more dynamic and militant forms of struggle.`,
+        link: 'https://en.wikipedia.org/wiki/1946_African_Mine_Workers%27_Union_strike',
+        infoSrc: 'https://www.sahistory.org.za/article/1946-african-mineworkers-strike'
       },
     ],
     'Birthdays': [
@@ -15447,7 +15456,7 @@ export const eventLibrary = {
         date: 'August 12th, 1861',
         title: 'Luigi Galleani (1861 - 1931)',
         imgSrc: require('./assets/eventPhotos/Individuals/luigiGalleani.jpg'),
-        description: `Luigi Galleani was an Italian anarchist active in the United States from 1901 to 1919. He is best known for his enthusiastic advocacy of "propaganda of the deed", i.e. the use of violence to eliminate those he viewed as tyrants and oppressors and to act as a catalyst to the overthrow of existing government institutions. From 1914 to 1932, Galleani's followers in the United States (known as i Galleanisti) carried out a series of bombings and assassination attempts against institutions and persons they viewed as class enemies. After Galleani was deported from the United States to Italy in June 1919, his colleagues are alleged to have carried out the Wall Street bombing of 1920, which resulted in the deaths of 38 people.`,
+        description: `Luigi Galleani was an Italian anarchist active in the United States from 1901 to 1919. He is best known for his enthusiastic advocacy of "propaganda of the deed", i.e. the use of violence to eliminate those he viewed as tyrants and oppressors and to act as a catalyst to the overthrow of existing government institutions.\n\nFrom 1914 to 1932, Galleani's followers in the United States (known as i Galleanisti) carried out a series of bombings and assassination attempts against institutions and persons they viewed as class enemies. After Galleani was deported from the United States to Italy in June 1919, his colleagues are alleged to have carried out the Wall Street bombing of 1920, which resulted in the deaths of 38 people.`,
         link: 'https://en.wikipedia.org/wiki/Luigi_Galleani',
         infoSrc: 'https://en.wikipedia.org/wiki/Luigi_Galleani'
       },
@@ -15704,13 +15713,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 16th, 2012',
+        title: 'Marikana Massacre (2012)',
+        imgSrc: require('./assets/eventPhotos/Events/marikanaMassacre.jpeg'),
+        description: `On this day in 2012, The Marikana massacre took place in South Africa. It was the most lethal use of force by South African security forces against civilians since 1976. The shootings to the Sharpeville massacre in 1960 (also another instance of police firing on crowds in South Africa). The incident took place on the 25-year anniversary of a nationwide South African miners' strike\n\nThe Marikana massacre started as a wildcat strike at a mine owned by Lonmin in the Marikana area, close to Rustenburg, South Africa. Although there had been a few violent clashes before August 16th, it was on this day that striking workers gathered, armed with machetes. After clashes with police, shooting between both parties began. From this day alone, over 34 miners were killed and 76 were injured.`,
+        link: 'https://www.theguardian.com/world/2015/may/19/marikana-massacre-untold-story-strike-leader-died-workers-rights',
+        infoSrc: 'https://en.wikipedia.org/wiki/Marikana_massacre'
       },
     ],
     'Birthdays': [
@@ -16937,13 +16946,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'September 3rd, 2013',
+        title: 'South Africa Miners Strike (2013)',
+        imgSrc: require('./assets/eventPhotos/Events/southAfrica2013Strike.jpg'),
+        description: `On this day in 2013, an estimated 80,000 - 90,000 gold miners went on strike in South Africa, demanding a 60% wage increase to $775 per month.\n\nMining in South Africa has a troubled past, with colonizers enforcing de facto slave labor in the early 20th century to the government using live ammunition to massacre 34 striking miners just a year prior to this strike. The year 2013 was called "The Year of the Strike" in South Africa by reporter Alec Hogg, with over tens of thousands of auto manufacturing, agricultural, and construction workers also going on strike in the same year.`,
+        link: 'https://theweek.com/articles/460495/everything-need-know-about-south-african-gold-miners-strike',
+        infoSrc: 'https://www.theguardian.com/world/2013/sep/03/south-africa-gold-miners-strike'
       },
     ],
     'Birthdays': [
@@ -20292,13 +20301,13 @@ export const eventLibrary = {
   '10-22': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'October 22nd, 1935',
+        title: 'Long March Ends (1935)',
+        imgSrc: require('./assets/eventPhotos/Events/longMarch.jpg'),
+        description: `The Long March was a famous military retreat undertaken by the Red Army of the Communist Party of China that lasted 370 days, ending on this day in 1935 in Shaanxi Province. The Long March was an incredibly arduous journey - estimates are that the journey took around 6000 miles, and only 8,000 of the original 100,000 soldiers who began the march arrived in Shaanxi.\n\nThe Long March was also notable because it resulted in the leadership of Mao Zedong of the CCP, and the event galvanized popular support the communist movement. From their base in Shannxi Province, the revolutionary army went on to defeat nationalist forces, after the conclusion of World War II.`,
+        link: 'https://www.britannica.com/event/Long-March',
+        infoSrc: 'https://en.wikipedia.org/wiki/Long_March'
       },
     ],
     'Rebellion': [
@@ -21398,13 +21407,13 @@ export const eventLibrary = {
   '11-7': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'November 7th, 1931',
+        title: 'Jiangxi-Fujian Soviet Forms (1931)',
+        imgSrc: require('./assets/eventPhotos/Events/jiangxiFujian.jpg'),
+        description: `Central Revolutionary Base, commonly called the Jiangxi–Fujian Soviet, was the largest component territory of the Chinese Soviet Republic, an unrecognized state established in November 1931 by Mao Zedong and Zhu De during the Chinese civil war. It served as the county seat and headquarters of the Chinese Soviet government.\n\nOn this day in 1931, with the Soviet Union's help, the "Chinese Soviet Republic" was born, though the majority of China was still under the control of the nationalist Government of the Republic of China. On November 7th, they had an open ceremony for the new country, and Mao Zedong and other Communists attended a military parade. Claiming its own bank, printing its own money, and collecting tax through its own tax bureau, the modern Chinese Communist Party considers this the beginning of Two Chinas.\n\nThe Jiangxi-Fujian base area was defended ably by the First Red Front Armyn but in 1934 it was finally overrun by the Kuomintang government's National Revolutionary Army in the Fifth of its Encirclement Campaigns. This last campaign in 1934-35 precipitated the most famous of the communist army retreats known collectively as the "Long March".`,
+        link: 'https://en.wikipedia.org/wiki/Jiangxi%E2%80%93Fujian_Soviet',
+        infoSrc: 'https://www.britannica.com/topic/Jiangxi-Soviet'
       },
     ],
     'Rebellion': [

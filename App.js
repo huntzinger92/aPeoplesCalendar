@@ -27,7 +27,8 @@ import { AntDesign } from '@expo/vector-icons';
 //import * as Notifications from 'expo-notifications';
 //import * as Permissions from 'expo-permissions';
 
-/*var everyDayString = Object.keys(eventLibrary);
+/*
+var everyDayString = Object.keys(eventLibrary);
 var count = 0;
 for (var i = 0; i < everyDayString.length; i++) {
   var day = eventLibrary[everyDayString[i]];
@@ -36,7 +37,8 @@ for (var i = 0; i < everyDayString.length; i++) {
     count++;
   };
 };
-console.log('amount of empty days: ' + count);*/
+console.log('amount of empty days: ' + count);
+*/
 
 var initTodayString = (new Date().getMonth() + 1 + '-' + new Date().getDate());
 
