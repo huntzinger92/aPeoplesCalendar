@@ -496,13 +496,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'January 8th, 1811',
+        title: 'The German Coast Uprising (1811)',
+        imgSrc: require('./assets/eventPhotos/Events/germanCoastUprising.jpg'),
+        description: `The German Coast Uprising was a revolt of black slaves in parts of the Territory of Orleans on that began on this day 1811. It was the largest slave revolt in American history. Confrontations with militia and executions after various trials killed 95 black people, while only two whites were killed.\n\nOn the first day, 64-125 enslaved men marched from sugar plantations in and near present-day LaPlace on the German Coast toward the city of New Orleans, collecting more men as they traveled. During their two-day, twenty-mile march, the men burned five plantation houses (three completely), several sugarhouses, and crops, armed with little more than hand tools.\n\nThe revolt ended when white planters, aided by Native American trackers, captured and executed Charles Deslondes (suspected leader of the revolt). In the following days, nearly one hundred slaves were either sentenced to death in unfair trials or hunted down and summarily executed.`,
+        link: 'https://ushistoryscene.com/article/german-coast-uprising/',
+        infoSrc: 'https://en.wikipedia.org/wiki/1811_German_Coast_uprising'
       },
     ],
     'Labor': [
@@ -1354,9 +1354,9 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'January 20th, 1901',
-        title: 'Juan García Oliver',
+        title: 'Juan García Oliver (1901 - 1980)',
         imgSrc: require('./assets/eventPhotos/Individuals/juanGarcia.jpg'),
-        description: `Juan García Oliver (1901–1980) was a Spanish anarcho-syndicalist revolutionary, affiliated with the Confederación Nacional del Trabajo (CNT) and Minister of Justice of the Second Spanish Republic.\n\nHe was a leading figure of anarchism in Spain and fought on the side of the republic against fascists in the Spanish Civil War.`,
+        description: `Juan García Oliver, born on this day in 1901, was a Spanish anarcho-syndicalist revolutionary, affiliated with the Confederación Nacional del Trabajo (CNT) and Minister of Justice of the Second Spanish Republic.\n\nHe was a leading figure of anarchism in Spain and fought on the side of the republic against fascists in the Spanish Civil War.`,
         link: 'https://en.wikipedia.org/wiki/Juan_Garc%C3%ADa_Oliver',
         infoSrc: 'https://en.wikipedia.org/wiki/Juan_Garc%C3%ADa_Oliver'
       },
@@ -2449,13 +2449,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 5th, 1813',
+        title: 'J.W. Loguen (1813 - 1872)',
+        imgSrc: require('./assets/eventPhotos/Individuals/jwLoguen.jpg'),
+        description: `Rev. Jermain Wesley Loguen, born on this day into slavery, was an African-American abolitionist and bishop of the African Methodist Episcopal Zion Church, and an author of the slave narrative "The Rev. J. W. Loguen, as a Slave and as a Freeman, a Narrative of Real Life".\n\nAt the age of 21, he escaped slavery via the Underground Railroad, and his home as a free man went on to become a major stop in the railroad. He also founded schools for black children in Utica and his city of resident, Syracuse, New York.\n\nOn October 1, 1851, a slave he was harboring known as "Jerry" was arrested under the Fugitive Slave Act of 1850. The anti-slavery Liberty Party was holding its state convention in the city and, when word of the arrest spread, several hundred abolitionists broke into the city jail and freed Jerry. The event came to be widely known as the Jerry Rescue.`,
+        link: 'https://www.nationalabolitionhalloffameandmuseum.org/jermain-wesley-loguen.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jermain_Wesley_Loguen'
       },
     ],
     'Assassinations': [
@@ -3335,7 +3335,7 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'February 18th, 1887',
-        title: 'Juan Peiró',
+        title: 'Juan Peiró (1887 - 1942)',
         imgSrc: require('./assets/eventPhotos/Individuals/juanPeiro.jpg'),
         description: `Joan Peiró i Belis (sometimes Juan Peiró) was a Catalan anarchist activist, writer, editor of the anarchist newspaper Solidaridad Obrera, two-time Secretary General of the Confederación Nacional del Trabajo (CNT) and Minister of Industry of the Second Spanish Republic during the Spanish Civil War.\n\nFollowing the fall of the republic in 1939, Peiró fled to France, where he was turned over to Nazi Germany by the Vichy Regime in France. He was executed after the Gestapo turned him over to the Franco government in Spain.`,
         link: 'https://en.wikipedia.org/wiki/Joan_Peir%C3%B3',
@@ -7972,13 +7972,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 25th, 1845',
+        title: 'Mexican-American War (1845)',
+        imgSrc: require('./assets/eventPhotos/Events/mexicanAmericanWar.jpg'),
+        description: `The Mexican–American War was an armed conflict between the United States and Mexico that began on this day in 1845. It began in the wake of the 1845 U.S. annexation of Texas, which Mexico still considered Mexican territory. The war was part of President James K. Polk's vehemently expansionist policy - he had campaigned on annexing both Texas and California, land that was claimed by the Mexican government at the time, by force, if necessary.\n\nTensions had already been rising between either government, but the act that initiated the war was Polk ordering troops to occupy contested land, between the Nueces River and Rio Grande. On this day in 1846, a 2,000-man Mexican cavalry detachment attacked a 70-man U.S. patrol under the command of Captain Seth Thornton in the area of contested land.\n\nPolk asserted that American blood had been shed on American soil (which Abraham Lincoln called it "a bold falsification of history"), and a formal declaration of war from the U.S. soon followed. The outcome of the war resulted in the U.S. acquiring control over Texas, California, and large parts of New Mexico, Arizona, Colorado, Utah, and Nevada in the Treaty of Guadalupe Hidalgo. Notably, an "All-Mexico Movement" in the U.S. opposed the treaty, demanding that the country annex all Mexican territory.`,
+        link: 'https://socialistworker.org/2019/03/05/a-page-out-of-the-empires-playbook',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War'
       },
     ],
   },
@@ -8569,6 +8569,15 @@ export const eventLibrary = {
         description: `Ruth First was a South African anti-apartheid activist and scholar.\n\nAs an anti-apartheid activist, First had been harassed for years by the South African government. In 1956, First, alongside 155 other activists, were all charged and acquitted of treason in the country's infamous "Treason Trial".\n\nAfter the state of emergency that followed the Sharpeville massacre in 1960, she was banned from political participation. First could not attend meetings, publish, and or be quoted. In 1963, she was imprisoned and held in isolation without charge for 117 days under the Ninety-Day Detention Law, the first white woman to be detained under this law.\n\nIn August of 1982, First was assassinated by South African police in Mozambique, where she was working in exile.`,
         link: 'https://www.sahistory.org.za/people/ruth-heloise-first',
         infoSrc: 'https://en.wikipedia.org/wiki/Ruth_First'
+      },
+      {
+        category: 'Birthdays',
+        date: 'May 4th, 1903',
+        title: 'Hu Yepin (1903 - 1931)',
+        imgSrc: require('./assets/eventPhotos/Individuals/huYepin.jpg'),
+        description: `Hu Yepin was a Chinese writer, poet, and playwright. A prominent member of the League of Left-Wing Writers, he was one of the Five Martyrs of the Left League executed in February 1931 by the Kuomintang government.\n\nHu was the first husband of the celebrated writer Ding Ling, who was also a member of the Left League, and a close friend of the writer Shen Congwen.`,
+        link: 'https://en.wikipedia.org/wiki/Hu_Yepin',
+        infoSrc: 'https://en.wikipedia.org/wiki/Hu_Yepin'
       },
     ],
     'Assassinations': [
@@ -13458,13 +13467,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'July 14th, 1822',
+        title: `Vesey's Uprising (1822)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/denmarkVesey.jpg'),
+        description: `Denmark Vesey (c. 1767 - July 2, 1822) was a literate, skilled carpenter and leader of African Americans in Charleston, South Carolina. On this day in 1822, he planned a large slave revolt in Charleston, Virginia that would have involved thousands of slaves rising against their masters and sailing to Haiti for freedom. In June, 1822 he was accused and convicted of being the leader of this planned slave revolt and executed on July 2nd.\n\nIn the aftermath of Vesey's and others' convictions, authorities blamed "black religion" for contributing to the uprising, noting that Vesey had co-founded a local African Methodist Episcopal (AME) Church. The reverend of the church was driven out of the state, Charleston officials ordered the large congregation to be dispersed and the building razed, and no black church officially met in Charleston until after the Civil War.`,
+        link: 'https://www.theatlantic.com/magazine/archive/1861/06/denmark-vesey/396239/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Denmark_Vesey'
       },
     ],
     'Labor': [
@@ -17846,13 +17855,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 16th, 1920',
+        title: 'The Wall Street Bombing (1920)',
+        imgSrc: require('./assets/eventPhotos/Events/wallStreetBombing.jpg'),
+        description: `The Wall Street bombing occurred at 12:01 pm on this day in 1920, in the Financial District of Manhattan, New York City. It was the deadliest act of terrorism on U.S. soil at that point, killing 38, seriously injuring 143, with hundreds more sustaining mild injuries.\n\nAlthough the bombing was never solved, investigators and historians believe the Wall Street bombing was carried out by Galleanists (Italian anarchists), a group responsible for multiple episodes of political violence in the U.S.\n\nThe next day, the authorities released the contents of flyers found in a post office box in the Wall Street area just before the explosion. Printed in red ink on white paper, they said: "Remember, we will not tolerate any longer. Free the political prisoners, or it will be sure death for all of you." At the bottom it was signed "American Anarchist Fighters".`,
+        link: 'https://www.britannica.com/event/Wall-Street-bombing-of-1920',
+        infoSrc: 'https://en.wikipedia.org/wiki/Wall_Street_bombing'
       },
     ],
     'Labor': [
@@ -18042,6 +18051,15 @@ export const eventLibrary = {
         description: `Eugene V. Debs was a prominent labor organizer and socialist politician in early twentieth century America. His speeches critical of the Woodrow Wilson administration and the war earned the enmity of President Woodrow Wilson, who later called Debs a "traitor to his country". On June 16, 1918, Debs made a speech in Canton, Ohio urging resistance to the military draft of World War I. He was arrested on June 30 and charged with ten counts of sedition.\n\nHe was found guilty on September 12th. At his sentencing hearing on the 18th, Debs gave a speech to the court that is now a classic of socialist literature. Here is a short excerpt:\n\n"Your Honor, years ago I recognized my kinship with all living beings, and I made up my mind that I was not one bit better than the meanest on earth. I said then, and I say now, that while there is a lower class, I am in it, and while there is a criminal element I am of it, and while there is a soul in prison, I am not free."`,
         link: 'https://en.wikipedia.org/wiki/Eugene_V._Debs',
         infoSrc: 'https://www.marxists.org/archive/debs/works/1918/court.htm'
+      },
+      {
+        category: 'Other',
+        date: 'September 18th, 1850',
+        title: 'Fugitive Slave Act (1850)',
+        imgSrc: require('./assets/eventPhotos/Events/fugitiveSlaveAct.jpg'),
+        description: `The Fugitive Slave Act of 1850 was passed on this day by the United States Congress, as part of the Compromise of 1850 between Southern slave-holding interests and Northern Free-Soilers. This law greatly expanded on racial terror of the previous Fugitive Slave Act of 1793, written with the intent to enforce Article 4, Section 2, Clause 3 of the United States Constitution, which required the return of runaway enslaved people.\n\nThe Fugitive Slave Act of 1850 compelled all authorities in free states to return fugitives of enslavement to their masters, penalizing officials who did not arrest an alleged runaway slave, preventing suspected slaves from asking for a jury trial or testifing on their own behalf, and subjecting any person aiding a runaway slave by providing food or shelter with six months' imprisonment and a $1,000 fine.\n\nThe Act was one of the most controversial elements of the 1850 compromise; abolitionists nicknamed it the "Bloodhound Bill". The political fallout from its passage is considered one of the causes of the Civil War.`,
+        link: 'https://www.britannica.com/event/Fugitive-Slave-Acts',
+        infoSrc: 'https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850'
       },
     ],
   },
@@ -18476,13 +18494,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 25th, 1800',
+        title: 'Gabriel Prosser Captured (1775 - 1800)',
+        imgSrc: require('./assets/eventPhotos/Individuals/gabrielProsser.jpg'),
+        description: `Gabriel Prosser was the leader of an unsuccessful slave revolt in Richmond, Virginia in 1800. Little is known of Prosser’s life before the revolt that catapulted him into notoriety. Prosser’s two brothers, Solomon and Martin and his wife, Nanny, were all owned by Thomas Prosser and all participated in the insurrection.\n\nAt the time of the insurrection, Gabriel Prosser was twenty-four years old, six feet two inches, literate, and a blacksmith by trade. He was described by a contemporary as "a fellow of courage and intellect above his rank in life." With the help of other slaves, Prosser devised a plan to seize control of Richmond by killing all of the whites (except the Methodists, Quakers and Frenchmen) and then establishing a Kingdom of Virginia with himself as monarch.\n\nUnfortunately, Prosser was betrayed twice - first by his fellow slaves, who told their owner about his plan, and then by slaves in Norfolk, who turned a fleeing Prosser in to the authorities for a bounty. It was on this day in 1800 that Prosser was captured. He was executed, along with two of his brothers and 23 other slaves, a few weeks later on October 6th.`,
+        link: 'https://en.wikipedia.org/wiki/Gabriel_Prosser',
+        infoSrc: 'https://www.blackpast.org/african-american-history/prosser-gabriel-1775-1800/'
       },
     ],
     'Labor': [
@@ -18732,6 +18750,15 @@ export const eventLibrary = {
         link: 'https://www.marxists.org/archive/steklov/history-first-international/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/International_Workingmen%27s_Association'
       },
+      {
+        category: 'Other',
+        date: 'September 28th, 1829',
+        title: `David Walker's Appeal (1829)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/davidWalker.jpg'),
+        description: `David Walker (September 28, 1796 – August 6, 1830) was an American abolitionist, writer, and anti-slavery activist. On this day in 1829 (coincidentally his birthday), while living in Boston, Massachusetts, he published "An Appeal to the Coloured Citizens of the World", a call for black unity and a fight against slavery.\n\nThe text was widely known and has become regarded as one of the most important political documents of the 19th century, influencing multiple generations of black leaders that came after it, including Frederick Douglass, W.E.B. Du Bois, Martin Luther King, and Malcolm X. Perhaps not suprisingly, the text infuriated southern slaveowners; the state of Georgia offered a $10,000 bounty for Walker alive and $1,000 for him dead.\n\nWalker died the next year, soon after publishing the third edition of his Appeal. Although foul play was suspected, historians consider it more likely he died of tuberculosis, which his daughter had passed away from a week prior. David Walker's son, Edward G. Walker, was an attorney and in 1866 was one of the first two black men elected to the Massachusetts State Legislature.`,
+        link: `https://en.wikipedia.org/wiki/David_Walker_(abolitionist)#Walker's_1829_Appeal`,
+        infoSrc: 'http://www.davidwalkermemorial.org/appeal'
+      },
     ],
   },
   '9-29': {
@@ -18884,13 +18911,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'October 1st, 1851',
+        title: `The "Jerry Rescue" (1851)`,
+        imgSrc: require('./assets/eventPhotos/Events/jerryRescue.jpg'),
+        description: `On this day in 1851, William "Jerry" Henry was arrested in Syracuse as a fugitive slave. Earlier that year, the pro-slavery Secretary of State Daniel Webster had warned that the new Fugitive Slave Act (passed in 1850) would be enforced even "here in Syracuse in the midst of the next Anti-Slavery Convention." The arrest was considered a message that the locally-unpopular law would be enforced by federal authorities.\n\nThe abolitionist Liberty Party was holding a state convention in Syracuse and, when the arrest became known, several hundred abolitionists broke into the city jail and freed the fugitive. The event came to be widely known as the "Jerry Rescue".\n\nJerry himself was hidden in Syracuse for several days, then was taken to the Orson Ames House in Mexico, New York, and from there to Oswego, before crossing Lake Ontario into freedom in Canada. Many of the prominent members of the jailbreak also fled to Canada, including Reverend J.W. Loguen and minister Samuel Ringgold Ward.`,
+        link: 'http://www.nyhistory.com/gerritsmith/jerry.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jerry_Rescue'
       },
     ],
     'Labor': [
@@ -18928,13 +18955,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 1st, 1838',
+        title: 'Trail of Tears (1838)',
+        imgSrc: require('./assets/eventPhotos/Events/trailOfTears.jpg'),
+        description: `The Trail of Tears was a series of forced relocations of approximately 60,000 Native Americans in the United States from their ancestral homelands in the Southeastern United States, to areas to the west of the Mississippi River that had been designated as Indian Territory. It was on this day in 1838 that the first group of Native Americans, over 12,000 Cherokee, in hundreds of covered wagons, began traveling westward.\n\nThe relocated peoples suffered from exposure, disease, and starvation while en route to their new designated reserve, and approximately 4,000 died before reaching their destinations or shortly after from disease. The name "Trail of Tears" at least in part came from the description of a Choctaw leader of the journey, who called it "a trail of tears and death".`,
+        link: 'https://en.wikipedia.org/wiki/Trail_of_Tears',
+        infoSrc: 'https://georgiainfo.galileo.usg.edu/thisday/gahistory/10/01/final-council-meeting-before-trail-of-tears#:~:text=On%20Oct.,government%20in%20their%20new%20home.'
       },
     ],
   },
@@ -19663,13 +19690,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 12th, 1904',
+        title: 'Ding Ling (1904 - 1986)',
+        imgSrc: require('./assets/eventPhotos/Individuals/dingLing.jpg'),
+        description: `Jiang Bingzhi, better known by her pen name Ding Ling was born on this day in 1904 and is considered one of China’s most popular 20th century authors. In her early career, Ding Ling initially wrote highly successful short stories centring on young, unconventional Chinese women. Around 1930 she became a major literary figure of the "leftist" literature.\n\nIn 1931, her husband, communist poet Hu Yepin, was executed in Shanghai by the Kuomintang government for his association with the Communists. Shortly thereafter, she joined the Chinese Communist Party and almost all of her fiction from this time on was in support of its goals.\n\nDespite this, in 1957 she was denounced as a "rightist", purged from the party, and her fiction and essays were banned. She spent five years in jail during the Cultural Revolution and was sentenced to do manual labor on a farm for twelve years before being "rehabilitated" in 1978.`,
+        link: 'https://en.wikipedia.org/wiki/Ding_Ling',
+        infoSrc: 'https://www.britannica.com/biography/Ding-Ling'
       },
     ],
     'Assassinations': [
@@ -22682,13 +22709,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'November 25th, 1904',
+        title: 'Ba Jin (1904 - 2005)',
+        imgSrc: require('./assets/eventPhotos/Individuals/baJin.jpg'),
+        description: `Li Yaotang, better known by his pen name Ba Jin and also known as Li Pei Kan, was a Chinese author, political activist, and dissident born on this day in 1904. He is best known for his novel The Family and is considered to be one of the most important and widely read Chinese writers of the 20th century.\n\nInfluenced by Kropotkin, Ba Jin's politics drew heavily from anarchist political thinking. From 1927 to 1928 Ba Jin lived in France, meeting many anarchists, including Alexander Berkman, translating some of his works.\n\nBa Jin was persecuted by Mao's Cultural Revolution - he was forced to rewrite some of his works accomodate state dogma and his wife died while being denied medical care by the government. He was officially rehabilitated by the PRC in 1977 and went on to serve as national chairman of the Chinese Writers' Association.`,
+        link: 'https://en.wikipedia.org/wiki/Ba_Jin',
+        infoSrc: 'http://www.revoltlib.com/people/ba-jin/view.php'
       },
     ],
     'Assassinations': [
