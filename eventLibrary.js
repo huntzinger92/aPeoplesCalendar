@@ -893,7 +893,7 @@ export const eventLibrary = {
         date: 'January 13th, 1949',
         title: 'Durban Riots (1949)',
         imgSrc: require('./assets/eventPhotos/Events/durbanRiots.jpg'),
-        description: `The Durban riots were an anti-Indian pogrom that began on this day in 1949, primarily by African people targeting poor Indians in Durban, South Africa. The two days of rioting were exceptionally violent, resulting in rape, immolation, and massacre of Indians and the looting and burning of their properties, claiming 142 lives and creating 40,000 Indian refugees.\n\nAlthough this incident was the worst anti-Indian violence in the region, Durban continued to have ethnic tensions and episodes of violence between Indians and native Africans for the next several decades.`,
+        description: `The Durban riots were an anti-Indian pogrom that began on this day in 1949, committed primarily by African people targeting poor Indians in Durban, South Africa. The two days of rioting were exceptionally violent, resulting in rape, immolation, and massacre of Indians and the looting and burning of their properties, claiming 142 lives and creating 40,000 Indian refugees.\n\nAlthough this incident was the worst anti-Indian violence in the region, Durban continued to have ethnic tensions and episodes of violence between Indians and native Africans for the next several decades.`,
         link: 'https://www.iol.co.za/thepost/this-month-marks-70-years-since-the-horrific-1949-race-riots-18783849',
         infoSrc: 'https://en.wikipedia.org/wiki/Durban_riots'
       },
@@ -5569,7 +5569,7 @@ export const eventLibrary = {
         date: 'March 21st, 1960',
         title: 'Sharpeville Massacre (1960)',
         imgSrc: require('./assets/eventPhotos/Events/sharpevilleMassacre.jpg'),
-        description: `The Sharpeville massacre, which happened on this day in 1960, occured at the police station in the South African township of Sharpeville. After a day of demonstrations against segregation laws, a crowd of about 7,000 protesters went to the police station. The South African Police opened fire on the crowd, killing 69 people and injuring 180 others. 29 children were casualties of the violence, and many people were shot in the back as they fled.\n\nA storm of international protest followed the Sharpeville shootings, including sympathetic demonstrations in many countries and condemnation by the United Nations. Sharpeville marked a turning point in South Africa's history; the country found itself increasingly isolated in the international community.\n\nThe Sharpeville massacre contributed to the banning of the PAC and ANC (anti-apartheid groups) as illegal organisations. The massacre was one of the catalysts for a shift from passive resistance to armed resistance by these organisations.`,
+        description: `The Sharpeville massacre, which happened on this day in 1960, occurred at the police station in the South African township of Sharpeville. After a day of demonstrations against segregation laws, a crowd of about 7,000 protesters went to the police station. The South African Police opened fire on the crowd, killing 69 people and injuring 180 others. 29 children were casualties of the violence, and many people were shot in the back as they fled.\n\nA storm of international protest followed the Sharpeville shootings, including sympathetic demonstrations in many countries and condemnation by the United Nations. Sharpeville marked a turning point in South Africa's history; the country found itself increasingly isolated in the international community.\n\nThe Sharpeville massacre contributed to the banning of the PAC and ANC (anti-apartheid groups) as illegal organisations. The massacre was one of the catalysts for a shift from passive resistance to armed resistance by these organisations.`,
         link: 'https://www.sahistory.org.za/article/sharpeville-massacre-21-march-1960',
         infoSrc: 'https://en.wikipedia.org/wiki/Sharpeville_massacre'
       },
@@ -7316,13 +7316,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'April 16th, 1842',
+        title: 'Creole Slave Revolt Succeeds (1842)',
+        imgSrc: require('./assets/eventPhotos/Events/creoleSlaveRevolt.jpg'),
+        description: `The revolt aboard the slave ship Creole occurred on November 7th, 1841. It has been ranked as the "most successful slave revolt in US history", resulting in 128 slaves winning their freedoms. Two persons died as a result of the revolt, a black slave and a white slave trader.\n\nOn November 7th, 19 slaves rebelled and took control of the deck of the ship, killing one slave trader in the process. The slaves then demanded to be sailed to Liberia, but settled on the British West Indies instead, as the African coast was too far away.\n\nThey reached Nassau, a major port city in the West Indies two days later. The slaves were detained, and the British government considered charging the slaves with piracy. On this day in 1842, the Admiralty Court in Nassau ordered the last mutineers to be released on April 16, 1842, and the slaves won their freedom.`,
+        link: 'https://www.zinnedproject.org/news/tdih/the-creole-case/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Creole_case'
       },
     ],
     'Labor': [
@@ -7360,13 +7360,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 16th, 1862',
+        title: 'Emancipation Act (1862)',
+        imgSrc: require('./assets/eventPhotos/Events/emancipationAct.jpg'),
+        description: `Passed on this day, the Compensated Emancipation Act was a law that ended slavery in the District of Columbia, providing slave owners compensation for releasing their slaves. The Act was signed into law by President Abraham Lincoln, who was keen on offering slave owners compensation for forfeiting their "property" as a means to not alienate border states in the Civil War.\n\nThis law was the only time the U.S. federal government gave direct aid to slaveowners, although many state governments and other countries have done so. It offered $300 per slave forfeited and $100 to any freed slave, on condition that they move to Haiti or Liberia. Dr. John Rock, a black physician in Boston, said this:\n\n"Why talk about compensating masters? Compensate them for what? What do you owe them? What does the slave owe them? What does society owe them? Compensate the master? ...It is the slave who ought to be compensated. The property of the South is by right the property of the slave..."\n\n3,185 slaves were freed as a direct result of the Compensated Emanicpation Act, and the anniversary of its passing is still recognized as the holiday "Emanicpation Day" in Washington D.C.`,
+        link: 'https://www.nytimes.com/2019/04/16/opinion/when-slaveowners-got-reparations.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/District_of_Columbia_Compensated_Emancipation_Act'
       },
     ],
   },
@@ -8380,13 +8380,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 1st, 1866',
+        title: 'Memphis Massacre (1866)',
+        imgSrc: require('./assets/eventPhotos/Events/memphisRiots.jpg'),
+        description: `The Memphis Massacre was a series of violent events that began on this day in 1866, continuing for two more days before the violence subsided. The racial violence was ignited by political, social, and racial tensions following the American Civil War, in the early stages of Reconstruction.\n\nThe violence began when a large group of black Union veterans, women, and children gathered in the street, forming an impromptu street party. Police were sent to disperse the crowd, and, after the ex-soldiers refused to disperse, The four officers, being outnumbered, retreated and called for reinforcements. The soldiers gave chase and gunfire broke out, killing one cop.\n\nThis led to mobs of white residents, including policemen, firefighters, and city officials, rampaging through black neighborhoods and the houses of freedmen, attacking, raping, and killing black soldiers and civilians. Families were burned alive as their houses were set on fire and the mob prevented them from fleeing. In total, 46 black and 2 white people were killed, 75 persons injured (mostly black), over 100 robbed, and 5 black women testified they were raped.`,
+        link: 'https://en.wikipedia.org/wiki/Memphis_riots_of_1866',
+        infoSrc: 'https://www.blackpast.org/african-american-history/memphis-riot-1866/'
       },
     ],
   },
@@ -9341,7 +9341,7 @@ export const eventLibrary = {
         date: 'May 15th, 1891*',
         title: 'Sid Hatfield (1891 - 1921)',
         imgSrc: require('./assets/eventPhotos/Individuals/sidHatfield.jpg'),
-        description: `*1891 or 1893\n\nWilliam "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting Baldwin-Felts Detective Agency.\n\nHe is most known for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occured when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
+        description: `*1891 or 1893\n\nWilliam "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting Baldwin-Felts Detective Agency.\n\nHe is most known for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occurred when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
         link: 'https://www.wvencyclopedia.org/articles/1576',
         infoSrc: 'https://en.wikipedia.org/wiki/Sid_Hatfield'
       },
@@ -10294,13 +10294,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'May 29th, 1969',
+        title: 'Cordobazo Uprising (1969)',
+        imgSrc: require('./assets/eventPhotos/Events/cordobazo.jpg'),
+        description: `The Cordobazo was a civil uprising in the city of Córdoba, Argentina that began on this day in 1969, under the military dictatorship of General Juan Carlos Onganía. The labor union CGT de los Argentinos, headed in Cordoba by Agustín Tosco, alled for National strike on May 30, 1969, but in Cordoba they decided to do a general strike one day earlier.\n\nThe strike came in the wake of mass repression and acts of state violence against student and union activists in Argentina. After the police opened fire on thousands of protestors, killing one worker named Maximo Mena, the strike escalated into a citywide revolt, leading to widespread destruction of property and seizing of city spaces.\n\nThe uprising was an important moment in working class Argentinian history, and has been mythologized by various left parties there.`,
+        infoSrc: 'https://libcom.org/library/working-class-protest-popular-revolt-urban-insurrection-argentina-1969-cordobazo',
+        link: 'https://en.wikipedia.org/wiki/Cordobazo'
       },
     ],
     'Labor': [
@@ -11878,13 +11878,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 21st, 1922',
+        title: 'Herrin Massacre (1922)',
+        imgSrc: require('./assets/eventPhotos/Events/herrinMassacre.jpg'),
+        description: `The Herrin Massacre began on this day in Herrin, Illinois, in a coal mining area during a nationwide strike by the United Mineworkers of America (UMWA). Months prior, the UMWA had called a national miners' strike. The owner of the local Illinois mine, W.J. Lester, negotiated with the union to allow his mine to remain open and for miners to go back to work, as long as no coal was shipped out.\n\nBy June, over 60,000 tons of coal had been dug up and the Lester decided to break his agreement with the miners and sell the coal anyway. Early in the morning of June 21, a truck carrying Lester's guards and strikebreakers was ambushed near Carbondale, Illinois on its way to the mine. The union miners marched into Herrin, looted the hardware store of its firearms and ammunition, and laid seige to the mine.\n\nThe strikebreakers working in the mine surrendered to the union workers firing upon them, and were captured as prisoners. Despite promises of safety, they were massacred by the union miners. Twenty-three miners were killed, most of whom were members of the strikebreaking group. W.J. Lester, the owner of the mine, made a handsome profit from selling his mine after the massacre occurred.`,
+        link: 'https://www.npr.org/1997/08/31/1007484/the-herrin-massacre',
+        infoSrc: 'https://en.wikipedia.org/wiki/Herrin_massacre'
       },
     ],
     'Birthdays': [
@@ -11911,13 +11911,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 21st 1866',
+        title: 'Southern Homestead Act (1866)',
+        imgSrc: require('./assets/eventPhotos/Events/southernHomesteadAct.jpg'),
+        description: `Signed into law on this day, the Southern Homestead Act opened up 46,398,544.87 acres (about 46 million acres or 190,000 km²) of public land for sale in the Southern states of Alabama, Arkansas, Florida, Louisiana, and Mississippi. Until January 1, 1867, the bill specified, only free Blacks and loyal Whites would be allowed access to these lands. Homesteaders were required to occupy and improve the land for five years before acquiring full ownership.\n\nMany Southern bureaucrats often obstructed or violated the law, notably not informing blacks of their right to land (thus delaying and allowing Confederates to be eligible, from 1867 onwards). It was also difficult for freed slaves to take advantage of the opportunity just from lack of materials, often lacking seed, animals, and farm tools.\n\nDespite this, free Blacks entered about 6,500 claims to homesteads, and about 1,000 of these eventually resulted in property certificates. The law was repealed a decade later as part of a growing coalition of cooperation between Northern and Southern capitalists (this cooperation became more explicit with the Compromise of 1877, which resulted in federal troops withdrawing from Southern states).`,
+        link: 'https://en.wikipedia.org/wiki/Southern_Homestead_Act_of_1866',
+        infoSrc: 'https://www.zinnedproject.org/news/tdih/southern-homestead-act/'
       },
     ],
   },
@@ -12618,13 +12618,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'July 1st, 1917',
+        title: 'St. Louis Race Massacre (1917)',
+        imgSrc: require('./assets/eventPhotos/Events/stLouisMassacre.jpeg'),
+        description: `The city of East St. Louis, Illinois was the scene of one of the bloodiest race riots in the 20th century.  Racial tensions began to increase in February, 1917 when 470 African American workers were hired to replace white workers who had gone on strike against the Aluminum Ore Company. The use of non-white strikebreaking workers often fractured class solidarity along racial lines.\n\nAt a city council meeting, angry white workers lodged formal complaints against black migrations to the Mayor of East St. Louis. After the meeting had ended, news of an attempted robbery of a white man by an armed black man began to circulate through the city. As a result of this news, white mobs formed and rampaged through downtown, beating all African Americans who were found. The mobs also stopped trolleys and streetcars, pulling black passengers out and beating them on the streets and sidewalks.\n\nIn spite of this terrorization of the black community, no meanginful protection or reform was offered by the city government. On this day in 1917, the racial violence resumed at a fever pitch, with white mobs gunning down men, women, and children and burning down the homes of black families with them trapped inside. Over one hundred black people were killed.`,
+        link: 'https://www.smithsonianmag.com/smithsonian-institution/east-st-louis-race-riot-left-dozens-dead-devastating-community-on-the-rise-180963885/?fbclid=IwAR1t-1N7GGCk6c62UHzz9ooslraSFEGeoEq_-qBlqgdM5xjh7ZVrvnSIoZ8',
+        infoSrc: 'https://www.blackpast.org/african-american-history/east-st-louis-race-riot-1917/'
       },
     ],
   },
@@ -12899,13 +12899,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'July 5th',
+        title: `Douglass's 4th of July Speech (1852)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/frederickDouglass.jpg'),
+        description: `"What to the Slave Is the Fourth of July?" is the title now given to a speech by Frederick Douglass delivered on this day in 1852, in Corinthian Hall, Rochester, New York, addressing the Rochester Ladies' Anti-Slavery Society. The speech is perhaps the most widely known of all of Frederick Douglass' writings save his autobiographies. Here is a brief excerpt.\n\n"What, to the American slave, is your 4th of July? I answer: a day that reveals to him, more than all other days in the year, the gross injustice and cruelty to which he is the constant victim.\n\nTo him, your celebration is a sham; your boasted liberty, an unholy license; your national greatness, swelling vanity; your sounds of rejoicing are empty and heartless; your denunciations of tyrants, brass fronted impudence; your shouts of liberty and equality, hollow mockery; your prayers and hymns, your sermons and thanksgivings, with all your religious parade, and solemnity, are, to him, mere bombast, fraud, deception, impiety, and hypocrisy—a thin veil to cover up crimes which would disgrace a nation of savages.\n\nThere is not a nation on the earth guilty of practices, more shocking and bloody, than are the people of these United States, at this very hour."`,
+        link: 'https://www.thenation.com/article/archive/what-slave-fourth-july-frederick-douglass/',
+        infoSrc: 'https://www.thenation.com/article/archive/what-slave-fourth-july-frederick-douglass/'
       },
     ],
   },
@@ -14599,13 +14599,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'July 30th, 1866',
+        title: 'New Orleans Massacre (1866)',
+        imgSrc: require('./assets/eventPhotos/Events/newOrleansMassacre.jpeg'),
+        description: `The New Orleans Massacre, also known as the New Orleans Race Riot, occurred on this day in 1866.  While the riot was typical of numerous racial conflicts during Reconstruction, this incident had special significance. It galvanized national opposition to the moderate Reconstruction policies of President Andrew Johnson and ushered in much more sweeping Congressional Reconstruction in 1867.\n\nThe riot took place outside the Mechanics Institute in New Orleans, as black and white delegates attended the Louisiana Constitutional Convention. As a delegation of 130 black New Orleans residents marched behind the U.S. flag toward the Mechanics Institute, Mayor Monroe (who had supported the Confederacy) organized and led a mob of ex-Confederates, white supremacists, and members of the New Orleans Police Force to the Institute to block their way.\n\nOnce the marchers reached the Institute, the police and white mob members attacked them, beating some of the marchers while others rushed inside the building for safety. As the firing continued, some delegates attempted to flee or surrender. Some of those who surrendered, mostly blacks, were killed on the spot. Those who ran were chased, as the killing spread over several blocks around the Institute. Altogether, 238 people were killed and 46 were wounded, including 200 black Union veterans.`,
+        link: 'https://en.wikipedia.org/wiki/New_Orleans_massacre_of_1866',
+        infoSrc: 'https://www.blackpast.org/african-american-history/new-orleans-massacre-1866/'
       },
     ],
   },
@@ -14728,7 +14728,7 @@ export const eventLibrary = {
         date: 'August 1st, 1921',
         title: 'Sid Hatfield (1891 - 1921)',
         imgSrc: require('./assets/eventPhotos/Individuals/sidHatfield.jpg'),
-        description: `William "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting, family-evicting Baldwin-Felts Detective Agency.\n\nHe is most knowm for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occured when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
+        description: `William "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting, family-evicting Baldwin-Felts Detective Agency.\n\nHe is most knowm for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occurred when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
         link: 'https://www.wvencyclopedia.org/articles/1576',
         infoSrc: 'https://en.wikipedia.org/wiki/Sid_Hatfield'
       },
@@ -16525,7 +16525,7 @@ export const eventLibrary = {
         date: 'August 27th, 1832',
         title: 'Black Hawk Surrenders (1832)',
         imgSrc: require('./assets/eventPhotos/Individuals/blackHawk.jpg'),
-        description: `Black Hawk (1767 – 1838) was a band leader and warrior of the Sauk Native American tribe in what is now the Midwest of the United States. Although he had inherited an important historic sacred bundle from his father, he was not a hereditary civil chief.\n\nBlack Hawk earned his status as a war chief or captain by his actions; leading raiding and war parties as a young man, and then a band of Sauk warriors during the Black Hawk War of 1832, which was an apparent attempt by Black Hawk to resettle indigenous land lost in the disputed Treaty of St. Louis thirty years prior.\n\nOn August 1st, the Battle of Bad Axe, which was effectively a massacre. When Sauk people attempted to surrender, they were gunned down by American soldiers instead. Many Sauk, including children, were shot or drowned while attempting to cross the Mississippi River into safety. Although Black Hawk successfuly fled the massacre, on this day in 1832, he surrendered to the American government and was imprisoned.`,
+        description: `Black Hawk (1767 – 1838) was a band leader and warrior of the Sauk Native American tribe in what is now the Midwest of the United States. Although he had inherited an important historic sacred bundle from his father, he was not a hereditary civil chief.\n\nBlack Hawk earned his status as a war chief or captain by his actions; leading raiding and war parties as a young man, and then a band of Sauk warriors during the Black Hawk War of 1832, which was an apparent attempt by Black Hawk to resettle indigenous land lost in the disputed Treaty of St. Louis thirty years prior.\n\nOn August 1st, the "Battle of Bad Axe" - effectively a massacre - occurred when Sauk people attempted to surrender. Instead of accepting the surrender, American soldiers gunned them down instead. Many Sauk, including children, were shot or drowned while attempting to cross the Mississippi River into safety. Although Black Hawk successfuly fled the massacre, it was on this day in 1832 that he surrendered to the American government and was imprisoned.`,
         link: 'https://en.wikipedia.org/wiki/Black_Hawk_(Sauk_leader)',
         infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Bad_Axe'
       },
@@ -16997,13 +16997,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 3rd, 1865',
+        title: 'Original 33 Expelled (1865)',
+        imgSrc: require('./assets/eventPhotos/Events/original33.jpg'),
+        description: `The "Original 33" were the first 33 African-American members of the Georgia General Assembly who were elected to office in 1868, during the Reconstruction era. They were among the first African-American state legislators in the United States, and 24 of the members were ministers.\n\nAfter most of the legislators voted for losing candidates in the legislature's elections for the U.S. Senate, the white majority conspired to remove the black and mixed-ethnicity members from the Assembly. On this day in 1865, the Georgia legislators voted to expel all black members of the General Assembly (4 of the 33 were allowed to stay due to being 1/8 or less black).\n\nThe expelled members appealed to the federal government and state courts. In protest of the expulsion, former represenative Phillip Joiner led a 25 mile march to Camilla, the county seat on September 19th. There, they were attacked by an armed white mob, and approximately a dozen marchers were killed. The Camilla Massacre began the era of de facto voting discrimination and political disenfranchisement of the black population in Georgia.`,
+        link: 'https://en.wikipedia.org/wiki/Original_33',
+        infoSrc: 'https://www.georgiapol.com/2018/02/01/original-33-georgia-general-assembly/'
       },
     ],
   },
@@ -18121,13 +18121,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 19th, 1868',
+        title: 'Camilla Massacre (1868)',
+        imgSrc: require('./assets/eventPhotos/Events/original33.jpg'),
+        description: `The "Original 33" were the first 33 African-American members of the Georgia General Assembly who were elected to office in 1868, during the Reconstruction era. They were among the first African-American state legislators in the United States, and were expelled by the white members of the General Assembly, who claimed blacks could not hold office in Georgia.\n\nThe expelled members appealed to the federal government and state courts. In protest of the expulsion, former represenative Phillip Joiner led a 25 mile march to Camilla, the county seat on September 19th. There, they were attacked by an armed white mob - approximately a dozen marchers were killed and 30-40 wounded. The Camilla Massacre began the era of de facto voting discrimination and political disenfranchisement of the black population in Georgia.\n\nAlthough the expelled legislators eventually won a case in the Georgia Supreme Court (White v. Clements) that gave them the right to hold office, voter intimidation and de facto voting discrimination heightened to such a degree that Georgia went almost sixty years without having a single black legislator in its state congress, although they were legally allowed to do so.`,
+        link: 'https://en.wikipedia.org/wiki/Camilla_massacre',
+        infoSrc: 'https://www.zinnedproject.org/news/tdih/camilla-massacre/'
       },
     ],
   },
