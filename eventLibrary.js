@@ -2903,13 +2903,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'February 12, 1837',
+        title: 'New York Flour Riot (1837)',
+        imgSrc: require('./assets/eventPhotos/Events/flourRiot.jpg'),
+        description: `The Flour Riot of 1837 was a food riot that broke out in New York City on this day in 1837, and it lasted less than a day. The incident grew out of a public meeting called to protest runaway prices. Earlier that year, flour prices had more than doubled, going from $5.67 a barrel to $12 a barrel. There were also rumors that only four weeks' worth of flour were left.\n\nAt the meeting, an orator initiated the riot by saying this to the gathered crowd: "Fellow citiznes! Mr. Hart has now 53,000 barrels of flour in his store; let us go and offer him eight dollars a barrel, and if he does not take it...".\n\nHungry workers plundered private storerooms filled with sacks of hoarded flour and forty people were arrested. The riot was a sign of the impending financial crisis known as the Panic of 1837, that hit the American economy the following month.`,
+        link: 'https://www.newyorker.com/magazine/1931/11/14/the-flour-riot-of-1837',
+        infoSrc: 'https://en.wikipedia.org/wiki/Flour_riot_of_1837'
       },
     ],
     'Labor': [
@@ -8461,20 +8461,20 @@ export const eventLibrary = {
   '5-3': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'May 3rd, 1842',
+        title: `Dorr's Rebellion Parade (1842)`,
+        imgSrc: require('./assets/eventPhotos/Events/dorrsRebellion.png'),
+        description: `The Dorr Rebellion (1841–1842) was an attempt by white working class residents to force broader democracy in the U.S. state of Rhode Island, where a small rural elite was in control of government - owning land was a qualification to vote. It was led by affluent lawyer Thomas Wilson Dorr, who mobilized the disenfranchised to demand changes to the state's electoral rules.\n\nIn 1841, the movement held a "People's Convention", where they designed their own state constitution, ratifying it and electing Dorr for governor the following year. Despite protests from Dorr and others, this constitution still would have only enfranchised whites.\n\nOn this day in 1842, the Dorr movement held an inaugartion parade of working class people in support of Dorr. Dorr himself led a fiasco of an attack on the state arsenal, and quickly fled the state. Eventually, Dorr returned to the state and was arrested and convicted of treason.\n\nDorrites made a case to the Supreme Court that the "People's Convention" constituion was the legitimate one for Rhode Island, but lost the case in Luther v. Borden. Notably, this Supreme Court case set a long standing precedent that the Court would not interfere in "political" questions, which it would leave to the executive and legislative branches.`,
+        link: 'https://en.wikipedia.org/wiki/Dorr_Rebellion',
+        infoSrc: 'https://libcom.org/history/dorr-rebellion-1833-1849'
       },
     ],
     'Rebellion': [
       {
         category: '',
         date: '',
-        title: '',
+        title: ``,
         imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
         description: ``,
         link: '',
@@ -8975,13 +8975,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'May 10th, 1849',
+        title: 'Astor Place Riot (1849)',
+        imgSrc: require('./assets/eventPhotos/Events/astorPlace.jpg'),
+        description: `The Astor Place Riot occurred on this day in 1849, at the now-demolished Astor Opera House in Manhattan. The riot left between 22 and 31 rioters dead, and more than 120 people injured. It was the deadliest to that date of a number of civic disturbances in Manhattan, which generally pitted immigrants and nativists against each other, or together against the wealthy who controlled the city's police and the state militia.\n\nAlthough the underlying cause of the riot was class conflict, this was expressed in preference over two famous actors performing Shakespeare at the opera house - one, William Macready, was British, and the other, Edwin Forrest, was an American star.\n\nWith the British and American talents serving as proxies for aristocratic and working class sensibilities respectively, the riot began during a performance of Macready's. Shouting "Burn the damn den of the aristocracy", the crowd (mostly working class native Americans and Irish immigrants) threw stones at the building, battled with police, and attempted to set fire to the opera house.`,
+        link: 'https://allthatsinteresting.com/astor-place-riot',
+        infoSrc: 'https://en.wikipedia.org/wiki/Astor_Place_Riot'
       },
     ],
     'Labor': [
@@ -10856,6 +10856,15 @@ export const eventLibrary = {
         description: `The 1835 Philadelphia general strike took place in Philadelphia, Pennsylvania. It was the first general strike in North America and involved some 20,000 workers who struck for a ten-hour workday and increased wages. The strike ended in complete victory for the workers and paved the way for a ten-hour day in the American and European labor movements more broadly.\n\nInfluenced by labor agitation in Boston, in 1835 unskilled Irish workers on the Schuylkill River coal wharves went on strike for a ten-hour day. The coal heavers were soon joined by workers from many other trades, including leather dressers, printers, carpenters, bricklayers, masons, house painters, bakers, and city employees.\n\nOn June 6, a mass meeting of workers, lawyers, doctors, and a few businessmen, was held in the State House courtyard. The meeting unanimously adopted a set of resolutions giving full support to the workers' demand for wage increases and a shorter workday, as well as increased wages for women workers and a boycott of any coal merchant who worked his men more than ten hours.\n\nThe strike quickly came to a close after city public works employees joined the action. The Philadelphia city government announced that the "hours of labor of the working men employed under the authority of the city corporation would be from 'six to six' during the summers season, allowing one hour for breakfast, and one for dinner." On June 22, three weeks after the coal heavers initially struck, the ten-hour system and an increase in wages for piece-workers was adopted in the city.`,
         link: 'https://journals.psu.edu/pmhb/article/view/30723/30478',
         infoSrc: 'https://en.wikipedia.org/wiki/1835_Philadelphia_general_strike'
+      },
+      {
+        category: 'Labor',
+        date: 'June 6th, 1836',
+        title: 'Union of Journeymen Tailors Found Guilty (1836)',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: `In the early 19th century U.S., the legality of trade unions was in question. Some courts called them "conspiracies to restrain trade", and were therefore illegal. In 1836, twenty-five members of the Union Society of Journeymen Tailors were found guilty of "conspiracy to injure trade, riot, assault, and battery".\n\nOn this day the same year, 27,000 people gathered in City Hall Park to protest the court decision. A radical pamphlet circulated, titled "The Rich Against the Poor", that denounced the judge who issued the decision as a "tool of aristocracy".\n\nThe protestors established a "Committee of Correspondence" that comprised of people working in trades, and that organization went on to found the working class Equal Rights party.`,
+        link: 'https://books.google.com/books?id=ipw1joa9xMoC&pg=PA324&lpg=PA324&dq=judge+edwards+tool+of+aristocracy&source=bl&ots=nBZtPHzrD4&sig=ACfU3U3PnRA5HTG-kVWu839Mlrf70pwo2Q&hl=en&sa=X&ved=2ahUKEwi7rfqb-K_qAhWFU80KHYg3AVgQ6AEwAHoECAcQAQ#v=onepage&q=judge%20edwards%20tool%20of%20aristocracy&f=false',
+        infoSrc: 'https://www.historyisaweapon.com/defcon1/zinnother10.html'
       },
     ],
     'Birthdays': [
@@ -12787,13 +12796,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'July 4th, 1839',
+        title: 'Anti-Rent Movement Begins (1839)',
+        imgSrc: require('./assets/eventPhotos/Events/antiRent.jpg'),
+        description: `On this day in 1839, angry tenant farmers on New York's oldest estate assembled in the Albany County village of Berne to adopt a declaration of independence from their landlord. Their previous landlord, Stephen van Rensselaer III, who owned all 726,000 acre of the effectively feudal estate of Rensselaerwyck had passed away a few months prior.\n\nThe farmers issued a declaration of independence, which said "We will take up the ball of the Revolution where our fathers stopped it and roll it to the final consummation of freedom and independence of the masses.". Thus began the longest rent strike in United States history, the Anti-Rent War.\n\nThe rebellion lasted for six years, during which time the farmers fought off attempts to collect rent by force. In 1844, the movement formed a prominent political party, known as the "Antirenter" party. In 1846, provisions for tenants' rights - abolishing feudal tenures and outlawing leases lasting longer than twelve years - were added to the New York Constitution.`,
+        link: 'https://en.wikipedia.org/wiki/Anti-Rent_War',
+        infoSrc: 'http://alloveralbany.com/archive/2014/11/21/the-anti-rent-war'
       },
     ],
     'Labor': [
