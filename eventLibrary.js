@@ -2442,7 +2442,7 @@ export const eventLibrary = {
         date: 'February 5th, 1919',
         title: 'La Canadenca Strike (1919)',
         imgSrc: require('./assets/eventPhotos/Events/canadencaStrike.jpg'),
-        description: `The Canadenca strike was a general strike that began on this day in 1919, in Catalonia, Spain. The strike was initiated after an energy company, La Canadenca, reduced wages and fired over one hundred striking workers who were protesting the pay cuts. This and the curbing of labour rights prompted the rest of the workers at La Canadenca to go on strike and demand the readmission of those sacked and wage increases.\n\nThe strike soon spread to other companies in the sector via the CNT’s union for water, gas and electricity workers. The lack of electricity in the city affected transport, hampering the provision of supplies and paralysing 70% of factories in the province of Barcelona.\n\nA state of war was declared by the government and over 3,000 workers were detained. Despite this, the strike ended after two days on the conditions of no reprecussions for participating workers, an increase in wages, and, most notably, an 8 hour work day.`,
+        description: `The Canadenca strike was a general strike that began on this day in 1919, in Catalonia, Spain. The strike was initiated after an energy company, La Canadenca, reduced wages and fired over one hundred striking workers who were protesting the pay cuts. This and the curbing of labor rights prompted the rest of the workers at La Canadenca to go on strike and demand the readmission of those sacked and wage increases.\n\nThe strike soon spread to other companies in the sector via the CNT’s union for water, gas and electricity workers. The lack of electricity in the city affected transport, hampering the provision of supplies and paralysing 70% of factories in the province of Barcelona.\n\nA state of war was declared by the government and over 3,000 workers were detained. Despite this, the strike ended after two days on the conditions of no reprecussions for participating workers, an increase in wages, and, most notably, an 8 hour work day.`,
         link: 'https://books.google.com/books?id=iN8I1fl9hl0C&pg=PT215&lpg=PT215&dq=La+Canadenca+strike&source=bl&ots=GCbBklHEAI&sig=ACfU3U2vuyLI-PjXZOCWwChMk7LJqALpHg&hl=en&sa=X&ved=2ahUKEwjAx7n-iZzqAhVOGs0KHQU1DUI4ChDoATABegQIChAB#v=onepage&q=La%20Canadenca%20strike&f=false',
         infoSrc: 'https://www.barcelona.cat/infobarcelona/en/barcelona-marks-the-centenary-of-the-canadenca-strike_797743.html'
       },
@@ -2932,6 +2932,15 @@ export const eventLibrary = {
         description: `David Rolfe Graeber is an American anthropologist, anarchist activist and author known for his books "Debt: The First 5000 Years", "The Utopia of Rules", and "Bullshit Jobs: A Theory". He is currently a professor of anthropology at the London School of Economics.\n\nGraeber's parents were self-taught working-class intellectuals in New York. His father was a member of the Youth Communist Leaugue, and fought in the Spanish Civil War. Graeber has stated that he has been an anarchist since the age of 16.\n\nAside from his scholarship, Graeber has been active in the Global Justice movement, and played an early and influential role in the Occupy Wall Street protests.`,
         link: 'https://en.wikipedia.org/wiki/David_Graeber',
         infoSrc: 'https://www.theguardian.com/books/2015/mar/21/books-interview-david-graeber-the-utopia-of-rules'
+      },
+      {
+        category: 'Birthdays',
+        date: 'February 12th, 1880',
+        title: 'John L. Lewis (1880 - 1969)',
+        imgSrc: require('./assets/eventPhotos/Individuals/johnLewis.jpg'),
+        description: `John Llewellyn Lewis, born on this day in 1880, was an American leader of organized labor who served as president of the United Mine Workers of America (UMW) from 1920 to 1960. A major player in the history of coal mining, he was the driving force behind the founding of the Congress of Industrial Organizations (CIO), which established the United Steel Workers of America and helped organize millions of other industrial workers in the 1930s.\n\nAfter resigning as head of the CIO in 1941, he took the Mine Workers out of the CIO in 1942 and in 1944 took the union into the American Federation of Labor (AFL). Coal miners for 40 years hailed him as their leader, whom they credited with bringing high wages, pensions and medical benefits.`,
+        link: 'https://aflcio.org/about/history/labor-history-people/john-lewis',
+        infoSrc: 'https://en.wikipedia.org/wiki/John_L._Lewis'
       },
     ],
     'Assassinations': [
@@ -4648,13 +4657,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'March 8th, 1857',
+        title: `International Women's Day`,
+        imgSrc: require('./assets/eventPhotos/Events/internationalWomensDay.jpg'),
+        description: `On this day in 1857, garment workers in New York City protested against inhumane working conditions, low wages, and for equal rights for women. Their protest was attacked and broken up by police. On the same day in 1908, 15,000 women marched in NYC for shorter work hours, better pay, voting rights, and an end to child labor. The slogan "Bread and Roses" emerged, with bread symbolizing economic security and roses for better living standards.\n\nInternational Women’s Day (then International Working Women’s Day) was introduced during the International Conference of Working Women in Copenhagen, Denmark. Clara Zetkin, a German socialist, suggested a holiday honoring the strike of garment workers in the U.S. The proposal received unanimous approval from the 100 women from 17 countries.`,
+        link: 'https://en.wikipedia.org/wiki/International_Women%27s_Day',
+        infoSrc: 'https://www.yesmagazine.org/democracy/2013/03/09/where-did-international-women-s-day-come-from/'
       },
     ],
     'Birthdays': [
@@ -5310,7 +5319,7 @@ export const eventLibrary = {
         date: 'March 28th, 1871',
         title: 'Paris Commune Begins (1871)',
         imgSrc: require('./assets/eventPhotos/Events/parisCommune.jpg'),
-        description: `The Paris Commune was a radical socialist and revolutionary government that formed in Paris on this day in 1871. A hotbed of working-class radicalism, the Paris Commune was a watershed moment in revolutionary left history. A few months after it was formed, the commune was attacked and defeated by the French National Army on May 21st, 1871, beginning the so-called "Bloody Week".\n\nThe government of the Paris Commune developed a set of policies that tended towards a progressive, secular, and highly democratic social democracy, although its existence was too brief to implement all of them. Among these policies were the separation of church and state, abolition of child labour, abolishment of interest on some forms of debt, as well as the right of employees to take over and run an enterprise if it was deserted by its original owner.\n\nThe Paris Commune was analyzed by many communist thinkers, most notably Karl Marx, who called it a "dictatorship of the proletariat." Vladimir Lenin danced in the snow when the newly formed Bolshevik goverment lasted longer than the Paris Commune. It inspired similar revolutionary attempts around the world, including in Moscow (1905), Petrograd (1917), Shanghai (1927 and 1967), and Seattle (2020).`,
+        description: `The Paris Commune was a radical socialist and revolutionary government that formed in Paris on this day in 1871. A hotbed of working-class radicalism, the Paris Commune was a watershed moment in revolutionary left history. A few months after it was formed, the commune was attacked and defeated by the French National Army on May 21st, 1871, beginning the so-called "Bloody Week".\n\nThe government of the Paris Commune developed a set of policies that tended towards a progressive, secular, and highly democratic social democracy, although its existence was too brief to implement all of them. Among these policies were the separation of church and state, abolition of child labor, abolishment of interest on some forms of debt, as well as the right of employees to take over and run an enterprise if it was deserted by its original owner.\n\nThe Paris Commune was analyzed by many communist thinkers, most notably Karl Marx, who called it a "dictatorship of the proletariat." Vladimir Lenin danced in the snow when the newly formed Bolshevik goverment lasted longer than the Paris Commune. It inspired similar revolutionary attempts around the world, including in Moscow (1905), Petrograd (1917), Shanghai (1927 and 1967), and Seattle (2020).`,
         link: 'https://www.jacobinmag.com/2015/05/kristin-ross-communal-luxury-paris-commune/',
         infoSrc: 'https://en.wikipedia.org/wiki/Paris_Commune'
       },
@@ -6028,13 +6037,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'March 28th, 1886',
+        title: 'Clara Lemlich (1886 - 1982)',
+        imgSrc: require('./assets/eventPhotos/Individuals/claraLemlich.jpg'),
+        description: `Clara Lemlich Shavelson, born on this day in 1886, was a leader of the Uprising of 20,000, the massive strike of shirtwaist workers in New York's garment industry in 1909, where she spoke in Yiddish and called for action. Later blacklisted from the industry for her labor union work, she became a member of the Communist Party USA and a consumer activist.\n\nBefore the shirtwaist strike began, Clara had been listening to men speak about the disadvantages and cautions about the shirtwaist workers going on a general strike at a union meeting. After four hours of this, she rose and declared in Yiddish that she wanted to say a few words of her own. She declared that the shirtwaist workers would go on a general strike, which received a standing ovation from the audience. Clara then took an oath swearing that if she became a traitor to the cause she now voted for, then that the hand she now held high wither from her arm.\n\nThe strike was successful - under a "Protocol of Peace", factory owners and the union agreed to end the strike under improved wages, working conditions, and hours.`,
+        link: 'https://www.nytimes.com/2018/08/01/obituaries/overlooked-clara-lemlich-shavelson.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Clara_Lemlich'
       },
     ],
     'Assassinations': [
@@ -7270,13 +7279,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 15th, 1889',
+        title: 'A. Philip Randolph (1889 - 1979)',
+        imgSrc: require('./assets/eventPhotos/Individuals/aPhilipRandolph.jpg'),
+        description: `Asa Philip Randolph, born on this day in 1889, was an American labor unionist, civil rights activist, and socialist politician. Randolph's activism was instrumental in pressuring both Franklin D. Roosevelt and Harry Truman to end segregation in defense industries and armed services, respectively. In 1963, he also masterminded and led the "March on Washington", at which MLK Jr. delivered his "I Have a Dream" speech.\n\nAs a labor organizer, his greatest success came with the Brotherhood of Sleeping Car Porters, who elected him President in 1925. This would become one the first predominantly African-American labor unions. Because porters were not unionized, most suffered poor working conditions and were underpaid, despite the industry booming at the time.\n\nAfter years of bitter struggle, the Pullman Company finally began to negotiate with the Brotherhood in 1935, and agreed to a contract with them in 1937. Employees gained $2,000,000 in pay increases, a shorter workweek, and overtime pay.`,
+        link: 'https://www.blackpast.org/african-american-history/randolph-asa-philip-1889-1979/',
+        infoSrc: 'https://en.wikipedia.org/wiki/A._Philip_Randolph'
       },
     ],
     'Assassinations': [
@@ -9734,7 +9743,7 @@ export const eventLibrary = {
         date: 'May 21st, 1871',
         title: 'Paris Commune Dissolves (1871)',
         imgSrc: require('./assets/eventPhotos/Events/parisCommune.jpg'),
-        description: `The Paris Commune was a radical socialist and revolutionary government that formed in Paris on March 18th, 1871. A hotbed of working-class radicalism, the Paris Commune was a watershed moment in revolutionary left history. A few months after it was formed, the commune was attacked and defeated by the French National Army on this day in 1871, beginning the so-called "Bloody Week".\n\nAfter crushing the rebellion, the French government imprisoned almost 44,000 for their role in the uprising, and estimated deaths from the fighting are around 20,000.\n\nThe government of the Paris Commune developed a set of policies that tended towards a progressive, secular, and highly democratic social democracy, although its existence was too brief to implement all of them. Among these policies were the separation of church and state, abolition of child labour, abolishment of interest on some forms of debt, as well as the right of employees to take over and run an enterprise if it was deserted by its original owner.\n\nThe Paris Commune was analyzed by many communist thinkers, most notably Karl Marx, who called it a "dictatorship of the proletariat." Vladimir Lenin danced in the snow when the newly formed Bolshevik goverment lasted longer than the Paris Commune. It inspired similar revolutionary attempts around the world, including in Moscow (1905), Petrograd (1917), Shanghai (1927 and 1967), and Seattle (2020).`,
+        description: `The Paris Commune was a radical socialist and revolutionary government that formed in Paris on March 18th, 1871. A hotbed of working-class radicalism, the Paris Commune was a watershed moment in revolutionary left history. A few months after it was formed, the commune was attacked and defeated by the French National Army on this day in 1871, beginning the so-called "Bloody Week".\n\nAfter crushing the rebellion, the French government imprisoned almost 44,000 for their role in the uprising, and estimated deaths from the fighting are around 20,000.\n\nThe government of the Paris Commune developed a set of policies that tended towards a progressive, secular, and highly democratic social democracy, although its existence was too brief to implement all of them. Among these policies were the separation of church and state, abolition of child labor, abolishment of interest on some forms of debt, as well as the right of employees to take over and run an enterprise if it was deserted by its original owner.\n\nThe Paris Commune was analyzed by many communist thinkers, most notably Karl Marx, who called it a "dictatorship of the proletariat." Vladimir Lenin danced in the snow when the newly formed Bolshevik goverment lasted longer than the Paris Commune. It inspired similar revolutionary attempts around the world, including in Moscow (1905), Petrograd (1917), Shanghai (1927 and 1967), and Seattle (2020).`,
         link: 'https://www.jacobinmag.com/2015/05/kristin-ross-communal-luxury-paris-commune/',
         infoSrc: 'https://en.wikipedia.org/wiki/Paris_Commune'
       },
@@ -10033,13 +10042,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'March 25th, 1911',
+        title: 'Triangle Shirtwaist Factory Fire (1911)',
+        imgSrc: require('./assets/eventPhotos/Events/shirtwaistFactoryFire.jpg'),
+        description: `On this day in 1911, the Triangle Shirtwaist Factory Fire took place in the Greenwich Village neighborhood of Manhattan, New York City. It was the deadliest industrial disaster in the history of the city, and one of the deadliest in U.S. history.\n\nThe fire caused the deaths of 146 garment workers – 123 women and girls and 23 men – who either burned to death, choked on smoke, or jumped to their deaths from high windows. Most of the victims were recent Italian and Jewish immigrant women and girls aged 14 to 23.\n\nThe death toll was high in part because the doors to the stairwells and exits were locked (a then-common practice to prevent workers from taking unauthorized breaks and to reduce theft). The incident led to legislation requiring improved factory safety standards and helped spur the growth of the International Ladies' Garment Workers' Union (ILGWU), which fought for better working conditions for sweatshop workers.\n\nThe owners (who survived the fire by fleeing to the roof when it began), were acquitted of manslaughter charges, but found liable for wrongful death. Although they had to pay out $75 per victim killed, their insurance provider paid them out $400 per casualty. Two years later, one of the owners was arrested and fined $20 for again locking his doors during factory hours.`,
+        link: 'https://aflcio.org/about/history/labor-history-events/triangle-shirtwaist-fire',
+        infoSrc: 'https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire'
       },
     ],
     'Birthdays': [
@@ -13524,7 +13533,7 @@ export const eventLibrary = {
         date: 'July 14th, 1889',
         title: 'Second International Founded (1889)',
         imgSrc: require('./assets/eventPhotos/Organizations/secondInternational.jpg'),
-        description: `The Second International was an organisation of socialist and labour parties formed at a Paris meeting in which delegations from twenty countries participated. The Second International continued the work of the dissolved First International, though excluding the powerful anarcho-syndicalist movement and trade unions.\n\nNotable members included Vladimir Lenin, Rosa Luxemburg, Karl Kautsky, and Jean Jaurès.\n\nAmong the Second International's most famous actions were its 1889 declaration of May 1st as International Workers' Day (also known as Labor Day) and its 1910 declaration of the International Women's Day on the 8th of March, after the main day of the women's marches in 1917 during the Russian Revolution. It also initiated the international campaign for the eight-hour working day.`,
+        description: `The Second International was an organisation of socialist and labor parties formed at a Paris meeting in which delegations from twenty countries participated. The Second International continued the work of the dissolved First International, though excluding the powerful anarcho-syndicalist movement and trade unions.\n\nNotable members included Vladimir Lenin, Rosa Luxemburg, Karl Kautsky, and Jean Jaurès.\n\nAmong the Second International's most famous actions were its 1889 declaration of May 1st as International Workers' Day (also known as Labor Day) and its 1910 declaration of the International Women's Day on the 8th of March, after the main day of the women's marches in 1917 during the Russian Revolution. It also initiated the international campaign for the eight-hour working day.`,
         link: 'https://www.jacobinmag.com/2017/07/second-international-bernstein-rosa-luxemburg-unions-world-war',
         infoSrc: 'https://en.wikipedia.org/wiki/Second_International'
       },
@@ -14711,13 +14720,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 1st, 1944',
+        title: 'Philadelphia Transit Strike (1944)',
+        imgSrc: require('./assets/eventPhotos/Events/philadelphiaTransitStrike.jpg'),
+        description: `The Philadelphia Transit Strike of 1944 was a sickout strike by white transit workers in Philadelphia that began on this day in 1944, lasting until August 6. The strike was triggered by the decision of the Philadelphia Transportation Company (PTC), made under prolonged pressure from the federal government in view of significant wartime labor shortages, to allow black employees to hold non-menial jobs that were previously reserved for white workers only.\n\nThe strike was widely unpopula and paralyzed the public transport system in Philadelphia for several days, bringing the city to a standstill and crippling its war production.\n\nInvoking the authority of the Smith–Connally Act, President Roosevelt sent 8,000 United States Army troops to the city to seize and operate the transit system, and threatened to draft any PRTEU member who did not return to the job within 48 hours. This act broke the strike, and black workers were allowed to work in non-menial roles on the transit system.`,
+        link: 'http://northerncity.library.temple.edu/exhibits/show/civil-rights-in-a-northern-cit/collections/philadelphia-transit-strike-of/what--the-philadelphia-transit',
+        infoSrc: 'https://en.wikipedia.org/wiki/Philadelphia_transit_strike_of_1944'
       },
     ],
     'Birthdays': [
@@ -16848,13 +16857,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 1st, 1907',
+        title: 'Walter Reuther (1907 - 1970)',
+        imgSrc: require('./assets/eventPhotos/Individuals/walterReuther.jpg'),
+        description: `Walter Philip Reuther, born on this day in 1907, was an American leader of organized labor and civil rights activist who built the United Automobile Workers (UAW) into one of the most progressive labor unions in American history. He saw labor movements not as narrow special interest groups but as instruments to advance social justice and human rights in democratic societies.\n\nHe leveraged the UAW's resources and influence to advocate for workers' rights, civil rights, women's rights, universal health care, public education, affordable housing, environmental stewardship and nuclear nonproliferation around the world. Reuther survived two attempted assassinations, including one at home where he was struck by a 12-gauge shotgun blast fired through his kitchen window.\n\nReuther was an ally of MLK Jr. and César Chavez, marching with the former on several occasions. A lifetime environmentalist, Reuther played a critical role in funding and organizing the first Earth Day on April 22, 1970.`,
+        link: 'https://aflcio.org/about/history/labor-history-people/walter-reuther',
+        infoSrc: 'https://en.wikipedia.org/wiki/Walter_Reuther'
       },
     ],
     'Assassinations': [
@@ -17260,7 +17269,7 @@ export const eventLibrary = {
         date: 'September 7th, 1902',
         title: 'Michael Imoudu (1902 - 2005)',
         imgSrc: require('./assets/eventPhotos/Individuals/michaelImoudu.jpg'),
-        description: `Michael Athokhamien Imoudu was a Nigerian labour union leader. Imoudu started labour union activities as a member of the Railway Workers Union (RWU), which became one of the most militant unions in the country during the colonial period. The union was formed in 1931 at a time where many trade organizations were more similar to social undertakings than an industrial movement.\n\nImoudu was released from prison by the government in 1945, presumably as a means to de-escalate labor tensions. A large rally was held to welcome him back to Lagos, however, and on 21 and 22 June 1945, Imoudu led a radical wing of the organized union to organize a general strike that became an important moment in Nigeria's history.`,
+        description: `Michael Athokhamien Imoudu was a Nigerian labor union leader. Imoudu started labor union activities as a member of the Railway Workers Union (RWU), which became one of the most militant unions in the country during the colonial period. The union was formed in 1931 at a time where many trade organizations were more similar to social undertakings than an industrial movement.\n\nImoudu was released from prison by the government in 1945, presumably as a means to de-escalate labor tensions. A large rally was held to welcome him back to Lagos, however, and on 21 and 22 June 1945, Imoudu led a radical wing of the organized union to organize a general strike that became an important moment in Nigeria's history.`,
         link: 'https://libcom.org/library/1945-nigerian-general-strike?fbclid=IwAR0jkREpLgiYuTbQmpvfcMycRnBhR2njPGEV5LcUqWLU6V5RI3ixzLk8Vtk',
         infoSrc: 'https://en.wikipedia.org/wiki/Michael_Imoudu'
       },
@@ -17750,13 +17759,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 14th, 1879',
+        title: 'Margaret Sanger (1879 - 1966)',
+        imgSrc: require('./assets/eventPhotos/Individuals/margaretSanger.jpg'),
+        description: `Margaret Higgins Sanger, born on this day in 1879, was an American birth control activist, sex educator, writer, and nurse. Sanger popularized the term "birth control", opened the first birth control clinic in the United States, and established organizations that evolved into the Planned Parenthood Federation of America.\n\nSanger also worked with African American leaders and professionals who saw a need for birth control in their communities. In 1930, she opened a clinic in Harlem, staffed with black doctors, by securing funding from the Julius Rosenwald Fund. Sanger did not tolerate bigotry among her staff, nor would she tolerate any refusal to work within interracial projects. The clinic was publicized in the African-American press as well as in black churches, and it received approval from W.E.B. Du Bois.`,
+        link: 'https://www.plannedparenthood.org/files/9214/7612/8734/Sanger_Fact_Sheet_Oct_2016.pdf',
+        infoSrc: 'https://en.wikipedia.org/wiki/Margaret_Sanger'
       },
     ],
     'Assassinations': [
@@ -22386,6 +22395,15 @@ export const eventLibrary = {
         link: 'https://www.visitstaugustine.com/history/black_history/dr_robert_hayling/',
         infoSrc: 'https://www.visitstaugustine.com/history/black_history/dr_robert_hayling/'
       },
+      {
+        category: 'Birthdays',
+        date: 'November 20th, 1884',
+        title: 'Norman Thomas (1884 - 1968)',
+        imgSrc: require('./assets/eventPhotos/Individuals/normanThomas.jpg'),
+        description: `Norman Mattoon Thomas, born on this day in 1884, was an American Presbyterian minister who achieved fame as a socialist, pacifist, and six-time presidential candidate for the Socialist Party of America. He was a vehement anti-racist who played an early role in dismantling Jim Crow laws, and was deeply critical of Israel's policies towards Arabs.\n\nNotably, Martin Luther King Jr. called him "one of the bravest men I've ever met". For Thomas's 80th birthday, he wrote:\n\n"I can think of no man who has done more than you to inspire the vision of a society free of injustice and exploitation...Your pursuit of racial and economic democracy at home, and of sanity and peace in the world, has been awesome in scope. It is with deep admiration and indebtedness that I carry the inspiration of your life to Oslo."`,
+        link: 'https://popularresistance.org/the-bravest-man-i-ever-met-by-dr-martin-luther-king-jr-1965/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Norman_Thomas'
+      },
     ],
     'Assassinations': [
       {
@@ -22639,13 +22657,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 24th, 1909',
+        title: 'New York Shirtwaist Strike (1909)',
+        imgSrc: require('./assets/eventPhotos/Events/shirtwaistStrike1909.jpg'),
+        description: `The New York Shirtwaist Strike of 1909, which began on this day, was a labor strike primarily involving Jewish women working in New York shirtwaist factories. It was the largest strike by female American workers up to that date, with more than 15,000 women joining the strike. It was led by Clara Lemlich and the International Ladies' Garment Workers' Union, also supported by the National Women's Trade Union League of America (NWTUL).\n\nIn February of 1910, the NWTUL settled with the factory owners, gaining improved wages, working conditions, and hours. The end of the strike was followed only a year later by the Triangle Shirtwaist Factory Fire, which exposed the plight of immigrant women working in dangerous and difficult conditions and facilitated participation in the garment unions.`,
+        link: 'http://projects.leadr.msu.edu/makingmodernus/exhibits/show/the-triangle-shirtwaist-factor/new-york-shirtwaist-strike-of-',
+        infoSrc: 'https://en.wikipedia.org/wiki/New_York_shirtwaist_strike_of_1909'
       },
     ],
     'Birthdays': [

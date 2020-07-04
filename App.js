@@ -180,10 +180,14 @@ export default class App extends React.Component {
 
   setNewDate(event, date) {
     //console.log('setNewDate running');
-    if (date === undefined) {
+    //console.log(event);
+    //console.log(date);
+    if (date === undefined || event["type"] === 'dismissed') {
       //when the user taps out of date menu to close it, the date variable is undefined, which throws an error when navigating
-      //in this case, revert back to today's date
-      this.today = new Date();
+      //in this case, hide the calendar and don't do any date logic
+      this.setState({showDatePicker: false});
+      return '';
+      //this.today = new Date();
     } else {
       this.today = date;
     };
