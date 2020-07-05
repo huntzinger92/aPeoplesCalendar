@@ -643,13 +643,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'January 10th, 1860',
+        title: 'Pemberton Mill Collapse (1860)',
+        imgSrc: require('./assets/eventPhotos/Events/pembertonMillCollapse.jpg'),
+        description: `On this day in 1860, the Pemberton Mill in Lawrence, Massachusetts collapsed, killing around 150 people, mostly Scotch and Irish women workers. More than 300 people, including children, were injured in the collapse.\n\nJohn B. Tuttle, superintendent of brickwork, told the architect Charles Bigelow he thought the walls insufficient, and another engineer testified in court he knew the building was not well-made. Despite this, no one was every punished for the disaster. The Pemberton Mill was rebuilt and still stands today.`,
+        link: 'https://historicipswich.org/2019/01/10/pemberton-mill-in-lawrence-collapses-and-burns-killing-workers-january-10-1860/',
+        infoSrc: 'https://www.newenglandhistoricalsociety.com/pemberton-mill-disaster/'
       },
     ],
     'Birthdays': [
@@ -6355,13 +6355,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'April 2nd, 1863',
+        title: 'Richmond Bread Riot (1863)',
+        imgSrc: require('./assets/eventPhotos/Events/richmondBreadRiots.jpg'),
+        description: `The Richmond Bread Riot, which began on this day in 1863, was the largest of several bread riots that took place in the Confederacy during the Civil War. Richmond, Virginia had been suffering an economic crisis in which overcrowding, skyrocketing rent prices, and unaffordable food led to widespread suffering among the poor.\n\nThousands of people, mostly poor women, protested and demanded a meeting with the governor of Virginia. When this meeting was denied, the crowd took the streets, chanting "We celebrate our right to live! We are starving!" and "Bread or blood!"\n\nThey then began attacking government warehouses, grocery stores, and various mercantile establishments, seizing food, clothing, and wagons, as well as jewelry and other luxury goods. Over sixty rioters were arrested, and the Confederacy government censored reporting of the event in the press, for fear it would hurt the morale of the war effort.`,
+        link: 'https://en.wikipedia.org/wiki/Southern_bread_riots#Richmond_bread_riots',
+        infoSrc: 'https://www.encyclopediavirginia.org/bread_riot_richmond#start_entry'
       },
     ],
     'Labor': [
@@ -11839,13 +11839,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 20th, 1848',
+        title: 'Albert Parsons (1848 - 1887)',
+        imgSrc: require('./assets/eventPhotos/Individuals/albertParsons.jpg'),
+        description: `Albert Richard Parsons, born on this day in 1848, was a pioneering American socialist and later anarchist newspaper editor, orator, and labor activist. His wife was the renowned anarchist and labor activist Lucy Parsons, whom the Chicago Police characterized as "more dangerous than a thousand rioters".\n\nAfter fighting in the Civil War, he settled in Texas and became an activist for the rights of former slaves, and later a Republican official during reconstruction. With his wife, he moved to Chicago in 1873 and worked in newspapers and became a labor activist.\n\nIt was there that Albert Parsons became one of four Chicago radical leaders controversially convicted of conspiracy and hanged following the Haymarket affair. Lucy Parsons continued her activism after his death, going on to help found the International Worker's of the World (IWW).`,
+        link: 'https://blackrosefed.org/albert-parsons-anarchist-and-labor-martyr/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Albert_Parsons'
       },
     ],
     'Assassinations': [
@@ -11903,6 +11903,15 @@ export const eventLibrary = {
         description: `The Herrin Massacre began on this day in Herrin, Illinois, in a coal mining area during a nationwide strike by the United Mineworkers of America (UMWA). Months prior, the UMWA had called a national miners' strike. The owner of the local Illinois mine, W.J. Lester, negotiated with the union to allow his mine to remain open and for miners to go back to work, as long as no coal was shipped out.\n\nBy June, over 60,000 tons of coal had been dug up and the Lester decided to break his agreement with the miners and sell the coal anyway. Early in the morning of June 21, a truck carrying Lester's guards and strikebreakers was ambushed near Carbondale, Illinois on its way to the mine. The union miners marched into Herrin, looted the hardware store of its firearms and ammunition, and laid seige to the mine.\n\nThe strikebreakers working in the mine surrendered to the union workers firing upon them, and were captured as prisoners. Despite promises of safety, they were massacred by the union miners. Twenty-three miners were killed, most of whom were members of the strikebreaking group. W.J. Lester, the owner of the mine, made a handsome profit from selling his mine after the massacre occurred.`,
         link: 'https://www.npr.org/1997/08/31/1007484/the-herrin-massacre',
         infoSrc: 'https://en.wikipedia.org/wiki/Herrin_massacre'
+      },
+      {
+        category: 'Labor',
+        date: 'June 21st, 1877',
+        title: 'Molly Maguires Executed (1877)',
+        imgSrc: require('./assets/eventPhotos/Events/mollyMaguiresExecuted.jpg'),
+        description: `The Molly Maguires were a secret society based among the Irish coal miners in the anthracite (coal) fields of northern Pennsylvania in the 1860s and 1870s, associated with labor activism there. After the Great Panic of 1873, mine owners imposed a new contract on the workforce which lowered pay rates by between 10 and 20%. This led to the Long Strike of 1875 which lasted seven months and saw the governor order in troops to the region.\n\nWhen the strike failed, some Irish-American miners turned to tactics that had been employed in Ireland in the late 17th and 18th centuries - using oath bound societies, anonymous threats and in some cases violent retribution on those deemed hostile to their community. The Molly Maguires society emerged from this historical backdrop.\n\nIn 1876-77, twenty suspected Molly Maguires were convicted of murder and other crimes on the basis of very dubious evidence (mostly testimony from an undercover Pinkerton Agent). It was on this day in 1877 that six of the convicted men were hanged in the prison at Pottsville, and four at Mauch Chunk, Carbon County. American historian of labor Philip Foner concluded that they were likely framed due to their labor activism.`,
+        link: 'https://en.wikipedia.org/wiki/Molly_Maguires',
+        infoSrc: 'https://www.theirishstory.com/2013/07/09/the-molly-maguires/#.XwIr9ShKiM8'
       },
     ],
     'Birthdays': [
@@ -12816,13 +12825,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 4th, 1863',
+        title: 'Immigration Act of 1864',
+        imgSrc: require('./assets/eventPhotos/Events/immigrants.jpg'),
+        description: `Passed on this day in 1864, the Immigration Act legalized labor recruitment practices similar to indentured servitude to encourage immigration to the United States and economic development. It allowed employers, such as railroad and mining interests, to contract an immigrant workers to come to the United States under guidelines established by the federal government. Under the law, immigrant workers would pay for their passage with up to a year’s wages.\n\nThis law provided corporations with cheap labor that could (and would) be used to break strikes. In the face of vociferous protests by labor organizations, Congress repealed this law in 1868.`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnother10.html',
+        infoSrc: 'https://immigrationhistory.org/item/immigration-act-of-1864/'
       },
     ],
     'Birthdays': [
@@ -17039,13 +17048,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 4th, 1863',
+        title: 'Mobile Bread Riot (1863)',
+        imgSrc: require('./assets/eventPhotos/Events/mobileBreadRiot.jpg'),
+        description: `The Mobile Bread Riot, which occurred on this day in 1863, was one of several bread riots that took place in the South during the Civil War. The riot was culmination of rising prices and food shortages caused by the Union's naval blockade of Mobile Bay and Confederate general John C. Pemberton's order to not let any corn leave the state of Mississippi.\n\nThe scale of inflation was staggering - molasses, which before the war sold for less than $.30 per gallon, rose to $7.00 per gallon; the cost of a barrel of flour rose from $44.00 to more than $400.00. On this day, hundreds of rioters took to the streets, chanting "Bread or blood!", looting stores and destorying property.\n\nNotably, Confederate general Dabney H. Maury dispatched the Seventeenth Alabama Regiment to quell the riot, but the soldiers refused to intervene.`,
+        link: 'https://www.nytimes.com/1863/10/01/archives/the-bread-riot-in-mobile-two-outbreaks-in-one-day-arrivals-in-the.html',
+        infoSrc: 'http://www.encyclopediaofalabama.org/article/h-3536'
       },
     ],
     'Labor': [
@@ -24039,11 +24048,20 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'December 14th, 1852',
-        title: 'Daniel De Leon',
+        title: 'Daniel De Leon (1852 - 1914)',
         imgSrc: require('./assets/eventPhotos/Individuals/danielDeLeon.jpg'),
         description: `Daniel De Leon was an American socialist newspaper editor, politician, Marxist theoretician, and trade union organizer. He is regarded as the forefather of the idea of revolutionary industrial unionism and was the leading figure in the Socialist Labor Party of America from 1890 until the time of his death.\n\nDe Leon is also notable for splitting with "Big Bill" Haywood on the matter of electoral politics. Haywood supported direct action - working outside the system - while De Leon supported political action via a socialist political party. Eventually, this disagreement caused De Leon to leave the IWW entirely.`,
         link: 'https://en.wikipedia.org/wiki/Daniel_De_Leon',
         infoSrc: 'https://en.wikipedia.org/wiki/Daniel_De_Leon'
+      },
+      {
+        category: 'Birthdays',
+        date: 'December 14th, 1910',
+        title: 'Philip Foner (1910 - 1994)',
+        imgSrc: require('./assets/eventPhotos/Individuals/philipFoner.jpg'),
+        description: `Philip Sheldon Foner, bornon this day in 1910, was an American labor historian and teacher. Foner was a prolific author and editor of more than 100 books, and is considered a pioneer in his extensive works on the role of radicals, blacks, and women in American labor and political history, which were generally neglected in mainstream academia at the time.\n\nIn 1941, Foner became a public figure as one among 26 persons fired from teaching and staff positions at City College of New York for political views, following an investigation of communist influence in education by a state legislative committee, known as the Rapp-Coudert Committee. Foner's three brothers were also fired, and he became blacklisted from working in academia.\n\nToday, Foner is perhaps most strongly remembered for his works "A History of the Labor Movement of the United States" and "The Life and Writings of Frederick Douglass", both completed while under censorship.`,
+        link: 'https://www.nytimes.com/1994/12/15/obituaries/philip-s-foner-labor-historian-and-professor-84.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Philip_S._Foner'
       },
     ],
     'Assassinations': [

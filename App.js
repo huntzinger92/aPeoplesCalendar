@@ -262,26 +262,30 @@ export default class App extends React.Component {
           </View>
         </ScrollView>
         <View style={styles.footer}>
-          {this.state.display === 'main' && <TouchableOpacity
+
+          {this.state.display !== 'about' && <TouchableOpacity
             onPress={() => this.setDisplay('about')}
             style={styles.bottomButton}
           >
             <StyledText text='About' style={styles.bottomButtonText}/>
           </TouchableOpacity>
           }
-          {this.state.display !== 'main' && <TouchableOpacity
+
+          {this.state.display === 'about' && <TouchableOpacity
             onPress={() => this.setDisplay('main')}
             style={styles.bottomButton}
           >
             <StyledText text='Back' style={styles.bottomButtonText}/>
           </TouchableOpacity>
           }
+
           <TouchableOpacity
             style={[styles.bottomButton, {marginLeft: 1}]}
             onPress={() => Linking.openURL('https://www.patreon.com/apeoplescalendar?fan_landing=true')}
           >
             <StyledText text='Donate' style={styles.bottomButtonText}/>
           </TouchableOpacity>
+
         </View>
         {this.state.showDatePicker &&
           <DateTimePicker
