@@ -3619,13 +3619,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 22nd, 1860',
+        title: `New England Shoemakers' Strike (1860)`,
+        imgSrc: require('./assets/eventPhotos/Events/lynnStrike.jpg'),
+        description: `The New England Shoemakers Strike began on this day in 1860 when 3,000 shoemakers walked off their jobs in Lynn, Massachusetts.\n\nIn a few days, shoeworkers throughout New England joined the strike - in Natick, Newburyport, Haverhill, Marblehead, and other Massachusetts towns, as well as towns in New Hampshire and Maine. Within a week, strikes had begun in all the shoe towns of New England. Newspapers called it "The Revolution at the North" and the "Beginning of the Conflict Between Capital and Labour."\n\nApproximately 20,000 workers went on strike across New England which made it the largest mass walkout in American history prior to the Civil War. It ended in April with modest gains for shoemakers, including pay increases and owner recognition of some labor unions.`,
+        link: 'https://en.wikipedia.org/wiki/New_England_Shoemakers_Strike_of_1860',
+        infoSrc: 'https://libcom.org/history/1860-the-lynn-shoe-strike'
       },
     ],
     'Birthdays': [
@@ -3832,13 +3832,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 25th, 1913',
+        title: 'Paterson Silk Strike (1913)',
+        imgSrc: require('./assets/eventPhotos/Events/patersonSilkStrike.jpg'),
+        description: `The Paterson Silk Strike was a work stoppage involving silk mill workers in Paterson, New Jersey that began on this day in 1913. The workers demanded an establishment of an eight-hour day and improved working conditions. The strike included over 24,000 workers from different industries and lasted five months, ending on July 28th.\n\nDuring the course of the strike, approximately 1,850 strikers were arrested, including Industrial Workers of the World (IWW) leaders William Dudley Haywood and Elizabeth Gurley Flynn. The event was also remarkable for its non-violence, given its scale and the time period - only two people died. \n\nUltimately, the strike was not successful in meeting its immediate demands, although the Paterson Silk Strike is regarded as a pivotal event in advancing the 20th century labor movement toward improved working conditions.`,
+        link: 'https://socialwelfare.library.vcu.edu/organizations/labor/paterson-silk-strike-1913/',
+        infoSrc: 'https://en.wikipedia.org/wiki/1913_Paterson_silk_strike'
       },
     ],
     'Birthdays': [
@@ -4341,13 +4341,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 3rd, 1863',
+        title: 'Enrollment Act of 1863',
+        imgSrc: require('./assets/eventPhotos/Events/enrollmentAct.jpg'),
+        description: `The Enrollment Act of 1863, passed on this day, was an Act passed by the United States Congress during the American Civil War to provide fresh manpower for the Union Army. The Act was the first genuine national conscription law.\n\nThe law required the enrollment of every male citizen and those immigrants (aliens) who had filed for citizenship, between 20 and 45 years of age, unless exempted by the Act. Notably, this law allowed anyone to avoid service by paying $300 or hiring a substitute to take their place. A "Song of the Conscripts" was written in protest. One line read:\n\n"Since poverty has been our crime, we bow to thy decree; We are the poor and have no wealth to purchase liberty.`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnother10.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Enrollment_Act'
       },
     ],
   },
@@ -7551,13 +7551,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 19th, 1806',
+        title: 'Sarah Bagley (1806 - 1889)',
+        imgSrc: require('./assets/eventPhotos/Individuals/sarahBagley.jpg'),
+        description: `Sarah George Bagley, born on this day in 1806, was a labor leader in New England during the 1840s. She played a key role in the labor organizing and political activities of the Lowell Mill Girls, publishing in their newspapers. She advocated shorter workdays for factory operatives and mechanics and campaigned to make ten hours of labor per day the maximum in Massachusetts.\n\nBagley also opposed the Mexican-American War, demanded prison reform, and established a sliding-scale medical practice in Albany, New York.`,
+        link: 'http://projects.leadr.msu.edu/youngamerica/exhibits/show/sarahbagley/bagley',
+        infoSrc: 'https://en.wikipedia.org/wiki/Sarah_Bagley'
       },
     ],
     'Assassinations': [
@@ -12748,13 +12748,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 3rd, 1835',
+        title: 'Paterson Textile Strike (1835)',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: `On this day in 1835, 2,000 workers (most of whom were children) went on strike from 20 textile mills in Paterson, New Jersey to demand better work hours. Previously, workers had been forced to work 13 hours per day Monday through Saturday, and were regularly fined for minor disciplinary infractions.\n\nIn response to the strike, employers reduced hours to twelve on weekdays and nine on Saturday. This reduction broke the strike, and most of the workers returned to the mills. Strike leaders and their families were permanently barred from employment in Paterson, having been blacklisted by the mill owners.`,
+        link: 'https://en.wikipedia.org/wiki/1835_Paterson_textile_strike',
+        infoSrc: 'https://www.zinnedproject.org/news/tdih/paterson-silkworkers-strike/'
       },
     ],
     'Birthdays': [
@@ -13417,13 +13417,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'July 13th, 1863',
+        title: 'NYC Draft Riots (1863)',
+        imgSrc: require('./assets/eventPhotos/Events/draftRiots.jpg'),
+        description: `The New York City Draft Riots, which began on this day in 1863, were violent disturbances in Lower Manhattan, widely regarded as the culmination of white working-class discontent with new laws passed by Congress that year to draft men to fight in the ongoing American Civil War.\n\nThe rioters were overwhelmingly white working-class men, mostly Irish or of Irish descent, who feared free black people competing for work and resented that wealthier men, who could afford to pay a $300 (equivalent to $6,200 in 2019) commutation fee to hire a substitute, were spared from the draft. Although the event began as anger against the draft, it quickly devolved into a race riot.\n\nThe exact death toll during the New York draft riots is unknown, but according to historian James M. McPherson, 119 or 120 people were killed; most of those killed were Irish, who were the majority of the rioters. Eleven blacks were killed in the violence, all due to being lynched. The event lasted three days and was suppressed by the U.S. Army on Lincoln's orders. The race riot remains the largest civil and most racially-charged urban disturbance in American history.`,
+        link: 'https://www.washingtonpost.com/lifestyle/style/the-new-york-draft-riots-of-1863/2013/04/26/a1aacf52-a620-11e2-a8e2-5b98cb59187f_story.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/New_York_City_draft_riots'
       },
     ],
     'Labor': [
@@ -14652,13 +14652,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 31st, 1835',
+        title: 'Washington Navy Yard Strike (1835)',
+        imgSrc: require('./assets/eventPhotos/Events/washingtonNavyYard.jpg'),
+        description: `The Washington Navy Yard Labor Strike of 1835 is considered the first strike of federal civilian employees. The strike began on this day in 1835 and lasted just over two weeks. The strike was in support of the movement advocating a ten-hour work day and for a redress of grievances such as newly imposed lunch hour regulations.\n\nThe strike failed in its objectives for two reasons. First, the Secretary of the Navy refused to change the shipyard working hours. Second, many of the striking workers (who were white) went on to attack the capitol's free black population in an incident known as the "Snow Riot", and this killed public support for the strike itself.\n\nAll public workers would receive a ten hour day five years later, in 1840.`,
+        link: 'https://en.wikipedia.org/wiki/Snow_Riot',
+        infoSrc: 'https://en.wikipedia.org/wiki/1835_Washington_Navy_Yard_labor_strike'
       },
     ],
     'Birthdays': [
@@ -22661,7 +22661,7 @@ export const eventLibrary = {
         date: 'November 24th, 1909',
         title: 'New York Shirtwaist Strike (1909)',
         imgSrc: require('./assets/eventPhotos/Events/shirtwaistStrike1909.jpg'),
-        description: `The New York Shirtwaist Strike of 1909, which began on this day, was a labor strike primarily involving Jewish women working in New York shirtwaist factories. It was the largest strike by female American workers up to that date, with more than 15,000 women joining the strike. It was led by Clara Lemlich and the International Ladies' Garment Workers' Union, also supported by the National Women's Trade Union League of America (NWTUL).\n\nIn February of 1910, the NWTUL settled with the factory owners, gaining improved wages, working conditions, and hours. The end of the strike was followed only a year later by the Triangle Shirtwaist Factory Fire, which exposed the plight of immigrant women working in dangerous and difficult conditions and facilitated participation in the garment unions.`,
+        description: `The New York Shirtwaist Strike of 1909, which began on this day, was a labor strike primarily involving Jewish women working in New York shirtwaist factories. It was the largest strike by female American workers up to that date, with more than 15,000 women joining the strike. It was led by Clara Lemlich and the International Ladies' Garment Workers' Union, also supported by the National Women's Trade Union League of America (NWTUL).\n\nIn February of 1910, the NWTUL settled with the factory owners, gaining improved wages, working conditions, and hours. The end of the strike was followed just a year later by the Triangle Shirtwaist Factory Fire, which exposed the plight of immigrant women working in dangerous and difficult conditions and facilitated participation in the garment unions.`,
         link: 'http://projects.leadr.msu.edu/makingmodernus/exhibits/show/the-triangle-shirtwaist-factor/new-york-shirtwaist-strike-of-',
         infoSrc: 'https://en.wikipedia.org/wiki/New_York_shirtwaist_strike_of_1909'
       },
@@ -25114,13 +25114,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'December 30th, 1828',
+        title: `Dover Mill Women's Strike (1828)`,
+        imgSrc: require('./assets/eventPhotos/Events/doverMillStrike.jpg'),
+        description: `On this day in 1828, the first women's only strike in United States history took place. In the early 1800s, young women were often implied in textile mills and garment factories. Unmarried Dover mill girls lived in dorms managed by the mill company, worked eleven hour days, and were fined for being late.\n\nAfter the factory's ownership changed hands in 1828 and wages were reduced (for only the women employees), hundreds of the workers decided to strike. They formed a procession over a half mile long, complete with "artillery and martial music".\n\nDespite this enthusiasm, the strike was not successful and the women returned to work at reduced wages three days later.`,
+        link: 'http://www.dover.nh.gov/government/city-operations/library/history/the-strike-of-the-mill-girls.html',
+        infoSrc: 'http://www.dover.nh.gov/government/city-operations/library/history/the-strike-of-the-mill-girls.html'
       },
     ],
     'Birthdays': [
