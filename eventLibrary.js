@@ -204,7 +204,7 @@ export const eventLibrary = {
         date: 'January 3rd, 1973',
         title: 'Ellsberg Charged With Espionage (1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/danielEllsberg.jpg'),
-        description: `Daniel Ellsberg is an American economist, activist and former United States military analyst who, while employed by the RAND Corporation, precipitated a national political controversy in 1971 when he released the Pentagon Papers, a top-secret Pentagon study of the U.S. government decision-making in relation to the Vietnam War.\n\nOn this day in 1973, Ellsberg was charged under the Espionage Act of 1917 along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Due to governmental misconduct and illegal evidence-gathering he was dismissed of all charges against Ellsberg on May 11, 1973.`,
+        description: `Daniel Ellsberg is an American economist, activist and former United States military analyst who, while employed by the RAND Corporation, precipitated a national political controversy in 1971 when he released the Pentagon Papers, a top-secret Pentagon study of the U.S. government decision-making in relation to the Vietnam War.\n\nOn this day in 1973, Ellsberg was charged under the Espionage Act of 1917 along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Due to governmental misconduct and illegal evidence-gathering Daniel Ellsberg was dismissed of all charges on May 11, 1973.`,
         link: 'https://www.npr.org/2018/01/19/579101965/daniel-ellsberg-explains-why-he-leaked-the-pentagon-papers',
         infoSrc: 'https://en.wikipedia.org/wiki/Daniel_Ellsberg'
       },
@@ -3623,7 +3623,7 @@ export const eventLibrary = {
         date: 'February 22nd, 1860',
         title: `New England Shoemakers' Strike (1860)`,
         imgSrc: require('./assets/eventPhotos/Events/lynnStrike.jpg'),
-        description: `The New England Shoemakers Strike began on this day in 1860 when 3,000 shoemakers walked off their jobs in Lynn, Massachusetts.\n\nIn a few days, shoeworkers throughout New England joined the strike - in Natick, Newburyport, Haverhill, Marblehead, and other Massachusetts towns, as well as towns in New Hampshire and Maine. Within a week, strikes had begun in all the shoe towns of New England. Newspapers called it "The Revolution at the North" and the "Beginning of the Conflict Between Capital and Labour."\n\nApproximately 20,000 workers went on strike across New England which made it the largest mass walkout in American history prior to the Civil War. It ended in April with modest gains for shoemakers, including pay increases and owner recognition of some labor unions.`,
+        description: `The New England Shoemakers Strike began on this day in 1860 when 3,000 shoemakers walked off their jobs in Lynn, Massachusetts.\n\nIn a few days, shoeworkers throughout New England joined the strike - in Natick, Newburyport, Haverhill, Marblehead, and other Massachusetts towns, as well as towns in New Hampshire and Maine. Within a week, strikes had begun in all the shoe towns of New England. Newspapers called it "The Revolution at the North" and the "Beginning of the Conflict Between Capital and labor."\n\nApproximately 20,000 workers went on strike across New England which made it the largest mass walkout in American history prior to the Civil War. It ended in April with modest gains for shoemakers, including pay increases and owner recognition of some labor unions.`,
         link: 'https://en.wikipedia.org/wiki/New_England_Shoemakers_Strike_of_1860',
         infoSrc: 'https://libcom.org/history/1860-the-lynn-shoe-strike'
       },
@@ -4466,9 +4466,9 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'March 5th, 1871',
-        title: 'John R. Lawson (1871)',
+        title: 'John R. Lawson (1871 - 1945)',
         imgSrc: require('./assets/eventPhotos/Individuals/johnLawson.jpg'),
-        description: `John Rankin Lawson was a Colorado union leader and businessman born on this day in 1871. He was the leader of District 15 of the United Mine Workers of America (UMWA) at the time of the Colorado Coalfield War and the Ludlow Massacre (a brutal and violent suppression of a coal worker's strike).\n\nAlthough there were dozens of people were killed during the Ludlow Massacre, Lawson was the only convicted of murder, for the death of a deputy sheriff who died at Ludlow. He was sentenced to a life of hard labor, but was freed on appeal to the Colorado Supreme Court.`,
+        description: `John Rankin Lawson was a Colorado union leader and businessman born on this day in 1871. He was the leader of District 15 of the United Mine Workers of America (UMWA) at the time of the Colorado Coalfield War and the Ludlow Massacre (a brutal and violent suppression of a coal worker's strike).\n\nAlthough there were dozens of people were killed during the Ludlow Massacre, Lawson was the only person convicted of murder - for the death of a deputy sheriff who died at Ludlow. He was sentenced to a life of hard labor, but was freed on appeal to the Colorado Supreme Court.`,
         link: 'https://history.denverlibrary.org/colorado-biographies/john-r-lawson-1871-1945',
         infoSrc: 'https://en.wikipedia.org/wiki/John_R._Lawson'
       },
@@ -5677,13 +5677,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'March 23rd, 1932',
+        title: 'Norris-La Guardia Act (1932)',
+        imgSrc: require('./assets/eventPhotos/Events/norrisLaGuardia.jpg'),
+        description: `The Norris–La Guardia Act, passed on this day in 1932, is United States federal labor law that bans yellow-dog contracts (contracts where employers can legally prevent workers from unionizing), stops the federal courts from issuing injunctions against nonviolent labor disputes, and created a positive right of noninterference by employers against workers joining trade unions.\n\nThe common title comes from the names of the sponsors of the legislation: Senator George W. Norris of Nebraska and Representative Fiorello H. La Guardia of New York shown above. The law stopped years of anti-union activity, enabled by the precedent of various court cases (including "In re Debs"), making it much easier for workers to legally organize.`,
+        link: 'https://en.wikipedia.org/wiki/Norris%E2%80%93La_Guardia_Act_of_1932',
+        infoSrc: 'https://www.britannica.com/event/Norris-La-Guardia-Act'
       },
     ],
     'Birthdays': [
@@ -8277,13 +8277,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'April 30th, 1894',
+        title: `Coxey's Army (1894)`,
+        imgSrc: require('./assets/eventPhotos/Events/coxeysArmy.jpg'),
+        description: `Coxey's Army was a protest march by unemployed workers from the United States, led by Ohio businessman Jacob Coxey. They marched from Ohio to Washington, D.C. to protest unemployment and present a proposal for a $500 million jobs bill during what was the worst economic depression in United States history at that time.\n\nCoxey's Army was thousands strong and enjoyed national popularity - other "Coxey's Armies" formed around the country, particularly among unemployed rail workers. One group in Oregon even commandeered a train to facilitate their westward travel.\n\nOn this day in 1894, Coxey's Army arrived at the capitol and became the first significant popular protest march on Washington D.C. Coxey and Carl Browne, his second in command, were greeted by one thousand police officers on arrival and beaten and arrested. Coxey later organized another march on D.C. in 1914.`,
+        link: 'https://www.smithsonianmag.com/smithsonian-institution/how-ragtag-band-reformers-organized-first-protest-march-washington-dc-180951270/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Coxey%27s_Army'
       },
     ],
     'Labor': [
@@ -9098,9 +9098,9 @@ export const eventLibrary = {
       {
         category: 'Other',
         date: 'May 11th, 1973',
-        title: 'Ellsberg Charged With Espionage (1973)',
+        title: 'Ellsberg Espionage Charges Dropped (1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/danielEllsberg.jpg'),
-        description: `Daniel Ellsberg is an American economist, activist and former United States military analyst who, while employed by the RAND Corporation, precipitated a national political controversy in 1971 when he released the Pentagon Papers, a top-secret Pentagon study of the U.S. government decision-making in relation to the Vietnam War.\n\nOn January 3rd, 1973, Ellsberg was charged under the Espionage Act of 1917 along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Due to governmental misconduct and illegal evidence-gathering he was dismissed of all charges against Ellsberg on on this day in 1973.`,
+        description: `Daniel Ellsberg is an American economist, activist and former United States military analyst who, while employed by the RAND Corporation, precipitated a national political controversy in 1971 when he released the Pentagon Papers, a top-secret Pentagon study of the U.S. government decision-making in relation to the Vietnam War.\n\nOn January 3rd, 1973, Ellsberg was charged under the Espionage Act of 1917 along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Due to governmental misconduct and illegal evidence-gathering all charges against Dnaiel Ellsberg were dropped on this day in 1973.`,
         link: 'https://www.npr.org/2018/01/19/579101965/daniel-ellsberg-explains-why-he-leaked-the-pentagon-papers',
         infoSrc: 'https://en.wikipedia.org/wiki/Daniel_Ellsberg'
       },
@@ -10178,13 +10178,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 27th, 1895',
+        title: 'In re Debs (1895)',
+        imgSrc: require('./assets/eventPhotos/Individuals/debsMugshot.jpg'),
+        description: `In re Debs (Latin: "In the matter of Debs") was a legal case in which the U.S. Supreme Court, on this day in 1895, unanimously upheld the government’s use of the injunction against a labor strike, specifically the Pullman Strike of the following year.\n\nThe Pullman Strike was a large national railroad strike led by the American Railway Union (ARU), involving around 250,000 workers in 27 states. The federal government obtained an injunction against the union, Eugene V. Debs, and other boycott leaders, ordering them to stop interfering with trains that carried mail cars. After the strikers refused, President Grover Cleveland forcbily ended the strke with military force.\n\nDebs and four other ARU leaders were arrested and charged with violating the injuction. After the Supreme Court sided with the government, Debs was sentenced to prison and the ARU dissolved.\n\nIn re Debs contributed to a widely held belief that the Supreme Court was simply a tool of the wealthy and big business - for the next 40 years business interests hostile to labor unions found the courts willing partners in suppressing strikes through injunction. This practice ended in 1932 with the Norris–La Guardia Act.`,
+        link: 'https://en.wikipedia.org/wiki/Pullman_Strike',
+        infoSrc: 'https://www.britannica.com/topic/In-re-Debs'
       },
     ],
     'Birthdays': [
@@ -12961,13 +12961,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 6th, 1935',
+        title: 'Wagner Act (1935)',
+        imgSrc: require('./assets/eventPhotos/Events/wagnerAct.jpg'),
+        description: `The National Labor Relations Act of 1935 (also known as the Wagner Act) is a foundational statute of United States labor law which guarantees the right of private sector employees to organize into trade unions, engage in collective bargaining, and take collective action such as strikes.\n\nBecoming effective on this day in 1935, the law also set up a permanent three-member National Labor Relations Board (NLRB) with the power to hear and resolve labor disputes through quasi-judicial proceedings, and banned employers from refusing to negotiate with any union ratified by this board.\n\nCorporate interest was heavily against the law, and, when it was challenged in court, the U.S. Supreme Court eventually upheld (5–4) the constitutionality of the Wagner Act in "National Labor Relations Board v. Jones & Laughlin Steel Corp." Parts of the law would later be repealed or amended with the Taft-Hartley Act (1947).`,
+        link: 'https://en.wikipedia.org/wiki/National_Labor_Relations_Act_of_1935',
+        infoSrc: 'https://www.britannica.com/topic/Wagner-Act'
       },
     ],
     'Birthdays': [
@@ -24487,9 +24487,9 @@ export const eventLibrary = {
       {
         category: 'Other',
         date: 'December 20th, 1828',
-        title: 'Georgia Discriination Against Cherokees (1828)',
+        title: 'Georgia Discrimination Against Cherokees (1828)',
         imgSrc: require('./assets/eventPhotos/Events/cherokeeDeported.jpg'),
-        description: `On this day in 1828, the state legislature of Georgia, fearful that the United States would not enforce (as a matter of federal policy) the removal of the Cherokee people from their historic lands in the state, enacted a series of laws which stripped the Cherokee of their rights under the laws of the state. This was ostensibly an attempt to force the Cherokee to leave the state.\n\nAmong other forms of discrimination, Cherokee could not dig for gold discovered on their land, any Cherokee caught advising others to not migrate westward could be jailed, and no Cherokee could testify in court against a white man. The Cherokee Nation sued the state of Georgia and lost; on appeal, the Supreme Court declined to rule on the case.\n\nA year later, the Supreme Court ruled that the Cherokee Nation was a sovereign entity and that the Georgia laws were illegal, however President Andrew Jackson flagrantly violated this ruling and directed the expulsion of the Cherokee Nation. This led directly to the infamous "Trail of Tears".`,
+        description: `On this day in 1828, the state legislature of Georgia, fearful that the United States would not enforce (as a matter of federal policy) the removal of the Cherokee people from their historic lands in the state, enacted a series of laws which stripped the Cherokee of their rights under the laws of the state. This was ostensibly an attempt to force the Cherokee to leave the state.\n\nAmong other forms of discrimination, Cherokee could not dig for gold discovered on their land, any Cherokee caught advising others to not migrate westward could be jailed, and no Cherokee could testify in court against a white man. The Cherokee Nation sued the state of Georgia and lost; on appeal, the Supreme Court declined to rule on the case.\n\nA year later, the Supreme Court ruled that the Cherokee Nation was a sovereign entity and that the Georgia laws were illegal, however President Andrew Jackson flagrantly violated this ruling and ordered the expulsion of the Cherokee Nation. This led directly to the infamous "Trail of Tears".`,
         link: 'https://www.historyisaweapon.com/defcon1/zinnasl7.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Cherokee_Nation_v._Georgia'
       },

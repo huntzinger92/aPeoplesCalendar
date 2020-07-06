@@ -27,17 +27,39 @@ import { AntDesign } from '@expo/vector-icons';
 //import * as Notifications from 'expo-notifications';
 //import * as Permissions from 'expo-permissions';
 
+//the code below checks for amount of empty days and total event count in the calendar
 /*
 var everyDayString = Object.keys(eventLibrary);
-var count = 0;
+var emptyCount = 0;
+var totalEventsCount = 0;
 for (var i = 0; i < everyDayString.length; i++) {
   var day = eventLibrary[everyDayString[i]];
   //if day has no entries, increment count by one
   if (!day['Revolution'][0].description && !day['Rebellion'][0].description && !day['Labor'][0].description && !day['Birthdays'][0].description && !day['Assassinations'][0].description && !day['Other'][0].description) {
-    count++;
+    emptyCount++;
+  } else {
+    if (day['Revolution'][0].description) {
+      totalEventsCount += day['Revolution'].length;
+    };
+    if (day['Rebellion'][0].description) {
+      totalEventsCount += day['Rebellion'].length;
+    };
+    if (day['Labor'][0].description) {
+      totalEventsCount += day['Labor'].length;
+    };
+    if (day['Birthdays'][0].description) {
+      totalEventsCount += day['Birthdays'].length;
+    };
+    if (day['Assassinations'][0].description) {
+      totalEventsCount += day['Assassinations'].length;
+    };
+    if (day['Other'][0].description) {
+      totalEventsCount += day['Other'].length;
+    };
   };
 };
-console.log('amount of empty days: ' + count);
+console.log('amount of empty days: ' + emptyCount);
+console.log('amount of events: ' + totalEventsCount);
 */
 
 var initTodayString = (new Date().getMonth() + 1 + '-' + new Date().getDate());
