@@ -14,7 +14,7 @@ export const eventLibrary = {
         title: 'Haitian Independence (1804)',
         imgSrc: require('./assets/eventPhotos/Events/haitianRevolution.jpg'),
         description: `The Haitian Revolution was a successful insurrection by self-liberated slaves against French colonial rule in Saint-Domingue, now the sovereign state of Haiti. The revolt began on August 22nd, 1791, and Haiti didn't achieve independence from France until this day in 1804. The Haitian Revolution was the only slave uprising that led to the founding of a state which was both free from slavery, and ruled by non-whites and former captives.\n\nThe revolt began when thousands of slaves began to kill their masters and plunged the colony into civil war after a well-attended vodou ceremony. Within the next ten days, slaves had taken control of the entire Northern Province in an unprecedented slave revolt. The slaves sought revenge on their masters through "pillage, rape, torture, mutilation, and death". Over 200,000 black people died from the initial uprising until independence.\n\nToussaint Louverture was a notable military leader of the revolution, but died shortly before independence was won. His former lieutenant Jean-Jacques Dessalines became the first leader of the newly independent nation on January 1st, 1804.`,
-        link: 'https://en.wikipedia.org/wiki/Haitian_Revolution',
+        link: 'https://www.blackpast.org/global-african-history/haitian-revolution-1791-1804/',
         infoSrc: 'https://en.wikipedia.org/wiki/Haitian_Revolution'
       },
     ],
@@ -183,7 +183,7 @@ export const eventLibrary = {
         title: 'Lucretia Mott (1793 - 1880)',
         imgSrc: require('./assets/eventPhotos/Individuals/lucretiaMott.jpg'),
         description: `Lucretia Mott was a U.S. Quaker, abolitionist, women's rights activist, pacifist, and social reformer. She had formed the idea of reforming the position of women in society when she was amongst the women excluded from the World Anti-Slavery Convention in 1840. In 1848 she was invited by Jane Hunt to a meeting that led to the first meeting about women's rights. Mott helped write the Declaration of Sentiments during the 1848 Seneca Falls Convention.\n\nWhen slavery was outlawed in 1865, she advocated giving former slaves who had been bound to slavery laws within the boundaries of the United States, whether male or female, the right to vote. She remained a central figure in the abolition and suffrage movement until her death in 1880.`,
-        link: 'https://en.wikipedia.org/wiki/Lucretia_Mott',
+        link: 'https://www.womenshistory.org/education-resources/biographies/lucretia-mott',
         infoSrc: 'https://en.wikipedia.org/wiki/Lucretia_Mott'
       },
     ],
@@ -670,7 +670,7 @@ export const eventLibrary = {
         title: 'Julio Mella (1903 - 1929)',
         imgSrc: require('./assets/eventPhotos/Individuals/julioMella.jpg'),
         description: `Julio Antonio Mella McPartland was an activist and is known as one of the founders of the "internationalized" Cuban Communist Party, in 1925 by leaders of the party in Moscow, Soviet Union. After becoming a political activist, Mella had studied law in the University of Havana but was expelled in 1925.\n\nAt the time of his murder, he was working as a Cuban Marxist revolutionary in Mexico, working with other exiles and supporters to organize the overthrow of General Gerardo Machado in Cuba. Mella was assassinated on January 10, 1929, while walking home at night. It is unknown who killed Mella, as both Machado and the Cuban Communist Party, which was afraid Mella had come under the influence of Trotsky (who lived in Mexico at the time), had cause to assassinate him.`,
-        link: 'https://en.wikipedia.org/wiki/Julio_Antonio_Mella',
+        link: 'https://www.marxists.org/archive/mella/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Julio_Antonio_Mella'
       },
     ],
@@ -804,7 +804,7 @@ export const eventLibrary = {
         title: 'James Farmer (1920 - 1999)',
         imgSrc: require('./assets/eventPhotos/Individuals/jamesFarmer.jpg'),
         description: `James Leonard Farmer Jr. was an American civil rights activist and leader in the Civil Rights Movement who pushed for nonviolent protest to dismantle segregation, and served alongside Martin Luther King Jr.\n\nHe was the initiator and organizer of the first Freedom Ride in 1961, which eventually led to the desegregation of interstate transportation in the United States.`,
-        link: 'https://en.wikipedia.org/wiki/James_Farmer',
+        link: 'https://www.britannica.com/biography/James-Farmer',
         infoSrc: 'https://en.wikipedia.org/wiki/James_Farmer'
       },
     ],
@@ -1030,7 +1030,7 @@ export const eventLibrary = {
         title: 'Pierre-Joseph Proudhon (1820 - 1865)',
         imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
         description: `Pierre-Joseph Proudhon was a French politician, philosopher and the founder of mutualist philosophy. He was the first person to declare himself an anarchist, using that term, and is widely regarded as one of the ideology's most influential theorists. Proudhon is even considered by many to be the "father of anarchism". He became a member of the French Parliament after the Revolution of 1848, whereafter he referred to himself as a federalist.\n\nProudhon favored workers' associations or co-operatives as well as individual worker/peasant possession over private ownership or the nationalization of land and workplaces. In The Confessions of a Revolutionary, Proudhon asserted that "Anarchy is Order Without Power", the phrase which much later inspired in the view of some the anarchist circled-A symbol, today "one of the most common graffiti on the urban landscape".\n\nIt is worth noting that, despite his egalitarian beliefs in other respects, Proudhon was an avowed sexist and anti-semite. One notorious (unpublished) quote reads "The Jew is the enemy of the human race. This race must be sent back to Asia, or exterminated."\n\nProudhon also unsuccessfully tried to create a national bank, to be funded by what became an abortive attempt at an income tax on capitalists and shareholders. Similar in some respects to a credit union, it would have given interest-free loans.`,
-        link: 'https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon',
+        link: 'https://www.marxists.org/reference/subject/economics/proudhon/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon',
       },
       {
@@ -1828,13 +1828,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 27th, 1850',
+        title: 'Samuel Gompers (1850 - 1924)',
+        imgSrc: require('./assets/eventPhotos/Individuals/samuelGompers.jpg'),
+        description: `Samuel Gompers, born on this day in 1850, was British immigrant to America and a key figure in American labor history. Gompers founded the American Federation of Labor (AFL), and served as the organization's president from 1886 to 1894, and from 1895 until his death in 1924. He promoted harmony among the different craft unions that comprised the AFL and supported collective bargaining to secure shorter hours and higher wages for laborers.\n\nAlthough Gompers began his career sympathetic to socialist and Georgist thought, he became increasingly conservative throughout his career, making "peace" with capitalist labor relations rather than seeking to abolish them. This led to a split in the labor movement, with the International Workers of the World (IWW) representing the more radical advocation of labor. Gompers successfully led the anti-socialist faction within the AFL.`,
+        link: 'https://aflcio.org/about/history/labor-history-people/samuel-gompers',
+        infoSrc: 'https://en.wikipedia.org/wiki/Samuel_Gompers'
       },
     ],
     'Assassinations': [
@@ -2173,7 +2173,7 @@ export const eventLibrary = {
         title: 'Langston Hughes (1901 - 1967)',
         imgSrc: require('./assets/eventPhotos/Individuals/langstonHughes.jpg'),
         description: `James Mercer Langston Hughes was an American poet, social activist, novelist, playwright, and columnist from Joplin, Missouri. He moved to New York City as a young man, where he made his career. One of the earliest innovators of the then-new literary art form called jazz poetry, Hughes is best known as a leader of the Harlem Renaissance.\n\nHughes was a communist sympathizer - his poetry was frequently published in the CPUSA newspaper and he was involved in initiatives supported by Communist organizations, such as the drive to free the Scottsboro Boys, a group of black teens falsely accused of rape. During the Spanish Civil War, Hughes traveled there as a correspondent for the Baltimore Afro-American.\n\nAfter being compelled to testify for a Senate Committee led by Joseph McCarthy, Hughes distanced himself from leftist politics, saying "[My not joining the Communist Party] was based on strict discipline and the acceptance of directives that I, as a writer, did not wish to accept."`,
-        link: 'https://en.wikipedia.org/wiki/Langston_Hughes',
+        link: 'https://www.britannica.com/biography/Langston-Hughes',
         infoSrc: 'https://en.wikipedia.org/wiki/Langston_Hughes'
       },
     ],
@@ -2377,7 +2377,7 @@ export const eventLibrary = {
         title: 'Big Bill Haywood (1869 - 1928)',
         imgSrc: require('./assets/eventPhotos/Individuals/billHaywood.jpg'),
         description: `William Dudley "Big Bill" Haywood (February 4, 1869 – May 18, 1928) was a founding member and leader of the Industrial Workers of the World (IWW) and a member of the executive committee of the Socialist Party of America. During the first two decades of the 20th century, Haywood was involved in several important labor battles, including the Colorado Labor Wars, the Lawrence Textile Strike, and other textile strikes in Massachusetts and New Jersey.\n\nHaywood was an advocate of industrial unionism, a labor philosophy that favors organizing all workers in an industry under one union, regardless of the specific trade or skill level. He believed that workers of all ethnicities should be united, and favored direct action over political action.\n\nHaywood was renowned for leading strikes in times of crisis. When martial law was declared during the Lawrence Textile Strike, Haywood traveled to the strike and implemented many innovative tactics to help the workers involved. One such ploy was to very publicly send the hungry children of striking workers to host families in other states, garnering good press for the working families.\n\nIn 1917, Big Bill Haywood was arrested for esponsiage, along with 164 other members of the IWW. He was convicted, and, while temporarily released from prison due to an appeal, fled to the Soviet Union, where he served as labor advisor to Vladimir Lenin, and where would spend the rest of life.`,
-        link: 'https://en.wikipedia.org/wiki/Bill_Haywood',
+        link: 'https://www.marxists.org/archive/haywood-b/1922/04/prisoners.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Bill_Haywood'
       },
       {
@@ -3279,7 +3279,7 @@ export const eventLibrary = {
         title: 'Huey Newton (1942 - 1989)',
         imgSrc: require('./assets/eventPhotos/Individuals/hueyNewton.jpg'),
         description: `Huey Percy Newton was an African-American political activist and Marxist-Leninist revolutionary who, along with fellow Merritt College student Bobby Seale, co-founded the Black Panther Party (1966–1982). Together with Seale, Newton created a ten-point program which laid out guidelines for how the African-American community could achieve liberation.\n\nIn the 1960s, under Newton's leadership, the Black Panther Party founded over 60 community support programs (renamed survival programs in 1971) including food banks, medical clinics, HIV support groups, sickle cell anemia tests, prison busing for families of inmates, legal advice seminars, clothing banks, housing cooperates, and their own ambulance service.\n\nThe most famous of these programs was the Free Breakfast for Children program which fed thousands of impoverished children daily during the early 1970s. Newton also co-founded the Black Panther newspaper service which became one of America's most widely distributed African-American newspapers. In 1967, he was involved in a shootout which led to the death of the police officer John Frey. Although arrested for the murder of Frey, the charges were eventually dismissed.\n\nDespite graduating from high school not knowing how to read, he taught himself literacy by reading Plato's Republic and earned a Ph.D. in social philosophy from the University of California at Santa Cruz's History of Consciousness program in 1980. In 1989, he was murdered in Oakland, California by Tyrone Robinson, a member of the Black Guerrilla Family.`,
-        link: 'https://en.wikipedia.org/wiki/Huey_P._Newton',
+        link: 'http://digital.wustl.edu/e/eii/eiiweb/new5427.0458.119hueypnewton.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Huey_P._Newton'
       },
     ],
@@ -3404,7 +3404,7 @@ export const eventLibrary = {
         title: 'Philadelphia General Strike (1910)',
         imgSrc: require('./assets/eventPhotos/Events/philadelphiaGeneralStrike.jpg'),
         description: `The General Strike of 1910 was a labor strike by trolley workers of the Philadelphia Rapid Transit Company (PRT) that grew to a citywide riot and general strike in Philadelphia, Pennsylvania.\n\nOn February 19, 1910, PRT fired 173 workers, all of them members of the union, "for the good of the service" and hired replacement workers from New York City. Immediately after the firings, the union leadership ordered the strike, taking their respective trolley cars off the streets effective at 1:00 that afternoon.\n\nWith the union threatening a general strike to hobble the city if strike breakers were brought in, PRT brought in 600 strike breakers, while denying they had done so. The final straw for calling a general strike was the National Guard entering the city to provide protection for PRT's few remaining workers. Members of other unions throughout the city saw this as a clear signal that the city and state governments were uniting in favor of the companies against the unions, and the entire city began a general strike.\n\nThe tactic was successful, and eventually brought PRT to the negotiating table.`,
-        link: 'https://en.wikipedia.org/wiki/Philadelphia_general_strike_(1910)',
+        link: 'https://philadelphiaencyclopedia.org/archive/general-strike-of-1910/',
         infoSrc: 'https://en.wikipedia.org/wiki/Philadelphia_general_strike_(1910)'
       },
     ],
@@ -3770,8 +3770,8 @@ export const eventLibrary = {
         date: 'February 24th, 1875',
         title: 'William Bross Lloyd (1875 - 1946)',
         imgSrc: require('./assets/eventPhotos/Individuals/williamLloyd.jpg'),
-        description: `William Bross Lloyd (February 24, 1875 – June 30, 1946) was an American attorney and political activist. The oldest son of the muckraking journalist Henry Demarest Lloyd and Jessie Bross, daughter of Chicago Tribune founder William Bross, William Bross Lloyd is best remembered as a founding member and financial angel of the fledgling Communist Labor Party of America, forerunner of the Communist Party USA.\n\nLloyd would be one of 20 Communists tried for conspiring to overthrow the US government in a major Chicago trial, which was prosecuted by future Chicago judge Frank D. Comerford and defended by celebrated attorney Clarence Darrow. The trial, which ran from May 10 to August 2, 1920, resulted in convictions for all of the defendants.\n\nLloyd received a sentence of from 1 to 5 years in prison but remained free on bail pending resolution of the appeal process. Though the appeals process was exhausted in 1922, Lloyd was no longer seen as a threatening advocate of communism by that date and his sentence was accordingly commuted.`,
-        link: 'https://en.wikipedia.org/wiki/William_Bross_Lloyd',
+        description: `William Bross Lloyd, born on this day in 1875, was an American attorney and political activist. The oldest son of the muckraking journalist Henry Demarest Lloyd and Jessie Bross, daughter of Chicago Tribune founder William Bross, William Bross Lloyd is best remembered as a founding member and financial angel of the fledgling Communist Labor Party of America, forerunner of the Communist Party USA.\n\nLloyd would be one of 20 Communists tried for conspiring to overthrow the US government in a major Chicago trial, which was prosecuted by future Chicago judge Frank D. Comerford and defended by celebrated attorney Clarence Darrow. The trial, which ran from May 10 to August 2, 1920, resulted in convictions for all of the defendants.\n\nLloyd received a sentence of from 1 to 5 years in prison but remained free on bail pending resolution of the appeal process. Though the appeals process was exhausted in 1922, Lloyd was no longer seen as a threatening advocate of communism by that date and his sentence was accordingly commuted.`,
+        link: 'https://spartacus-educational.com/USAlloydWB.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/William_Bross_Lloyd'
       },
       {
@@ -3779,7 +3779,7 @@ export const eventLibrary = {
         date: 'February 24th, 1954',
         title: 'Aurora Levins Morales (1954 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/auroraMorales.jpg'),
-        description: `Aurora Levins Morales (born February 24, 1954) is a Puerto Rican Jewish writer and poet. She is significant within Latina feminism and Third World feminism as well as other social justice movements.\n\nIn her collection of essays "Medicine Stories: History, Culture, and the Politics of Integrity", Levins Morales questions traditional accounts of American history and their consistent exclusion of people of color. She argues that traditional historical narratives have had devastating effects on those it has silenced, and oppressed. In an attempt to “heal” this historical trauma of oppression, she designs a “medicinal” history that gives centrality to the marginalized, particularly Puerto Rican women.\n\nLevins Morales strives to make visible those who have been absent from history books while also emphasizing resistance efforts.`,
+        description: `Aurora Levins Morales, born on this day in 1954, is a Puerto Rican Jewish writer and poet. She is significant within Latina feminism and Third World feminism as well as other social justice movements.\n\nIn her collection of essays "Medicine Stories: History, Culture, and the Politics of Integrity", Levins Morales questions traditional accounts of American history and their consistent exclusion of people of color. She argues that traditional historical narratives have had devastating effects on those it has silenced, and oppressed. In an attempt to “heal” this historical trauma of oppression, she designs a “medicinal” history that gives centrality to the marginalized, particularly Puerto Rican women.\n\nLevins Morales strives to make visible those who have been absent from history books while also emphasizing resistance efforts.`,
         link: 'http://www.auroralevinsmorales.com/blog',
         infoSrc: 'https://en.wikipedia.org/wiki/Aurora_Levins_Morales'
       },
@@ -9065,7 +9065,7 @@ export const eventLibrary = {
       {
         category: 'Labor',
         date: 'May 11th, 1894',
-        title: 'Pullman Strike',
+        title: 'Pullman Strike (1894)',
         imgSrc: require('./assets/eventPhotos/Events/pullmanStrike.jpg'),
         description: `The Pullman Strike was a nationwide railroad strike in the United States that lasted from May 11 to July 20, 1894, and a turning point for US labor law. It pitted the American Railway Union (ARU) against the Pullman Company, the main railroads, and the federal government of the United States under President Grover Cleveland.\n\nThe conflict began in Pullman, Chicago, on May 11 when nearly 4,000 factory employees of the Pullman Company began a wildcat strike in response to recent reductions in wages. After a federal injuction to stop the strike was ignored, 12,000 troops were sent in to forcibly break the strike. All in all, 30 strikers were killed, 57 were wounded, and property damage exceeded $80 million.\n\nThe Pullman Strike was a watershed moment in American labor history - Eugene V. Debs, who led the strike, was arrested and imprisoned, greatly radicalizing his politics, and the political aftermath led President Cleveland to declare "Labor Day" a national holiday in an effort to appease organized labor.`,
         link: 'https://www.britannica.com/event/Pullman-Strike',
@@ -13180,7 +13180,7 @@ export const eventLibrary = {
         date: 'July 9th, 1882',
         title: 'C. E. Ruthenberg (1882 - 1927)',
         imgSrc: require('./assets/eventPhotos/Individuals/ceRuthenberg.jpg'),
-        description: `Charles Emil Ruthenberg (July 9, 1882 – March 1, 1927) was an American Marxist politician and a founder and head of the Communist Party USA (CPUSA), an organization which still exists today. Ruthenberg was an organizer for and, later, secretary of Local Cuyahoga County from 1909 to 1919. In addition, Ruthenberg contributed material to the official organ of the Socialist Party of Ohio, The Ohio Socialist and edited various socialist newspapers. During this time Ruthenberg traveled to many cities throughout the American Northeast and Midwest, speaking to labor groups, trade union organizations, and anti-war groups, building a network of contacts.\n\nAfter American entry into World War I, Ruthenberg continued to publicly attack the imperialist conflict and America's participation in it. He was charged with violating the Espionage Act, accused of obstructing the draft in connection with a speech given at a rally on May 17, 1917. Shortly after his release from prison, he participated in the 1919 Cleveland May Day march, attended by over 20,000 people. The police attacked the protestors, killing two and injuring hundreds.`,
+        description: `Charles Emil Ruthenberg, born on this day in 1882, was an American Marxist politician and a founder and head of the Communist Party USA (CPUSA), an organization which still exists today. Ruthenberg was an organizer for and, later, secretary of Local Cuyahoga County from 1909 to 1919.\n\nIn addition, Ruthenberg contributed material to the official organ of the Socialist Party of Ohio, The Ohio Socialist and edited various socialist newspapers. During this time, Ruthenberg traveled to many cities throughout the American Northeast and Midwest, speaking to labor groups, trade union organizations, and anti-war groups, building a network of contacts.\n\nAfter American entry into World War I, Ruthenberg continued to publicly attack the imperialist conflict and America's participation in it. He was charged with violating the Espionage Act, accused of obstructing the draft in connection with a speech given at a rally on May 17, 1917. Shortly after his release from prison, he participated in the 1919 Cleveland May Day march, attended by over 20,000 people. The police attacked the protestors, killing two and injuring hundreds.`,
         link: 'https://www.peoplesworld.org/article/charles-e-ruthenberg-the-first-leader-of-the-communist-party-usa/',
         infoSrc: 'https://en.wikipedia.org/wiki/C._E._Ruthenberg'
       },
@@ -14514,13 +14514,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'July 29th, 1902',
+        title: 'Jacob Joseph Funeral Riot (1902)',
+        imgSrc: require('./assets/eventPhotos/Events/jacobJosephRiot.jpg'),
+        description: `On this day in 1902, a massive funeral procession for revered Rabbi Jacob Joseph was attacked by a group of factory workers and police.\n\nAs the melee escalated into a full-scale riot, with employees of a local factory throwing water, paper, wood, and iron from its upper floors onto the crowd, hundreds of of New York City policemen arrived and proceeded to pummel and arrest the mourners rather than the instigators. Factory workers poured out into the streets and joined the police in beating Jewish mourners.\n\nAlthough historians have cited this ugly incident as a vivid example of Irish Catholic antisemitism, noting that both the workers and policemen were "predominantly Irish," recent historical research shows that the factory workers were mostly Germans, not Irish, and that the police were following standard practice in quelling a riot. It is a notable example of anti-Semitic violence regardless.`,
+        link: 'https://en.wikipedia.org/wiki/Jacob_Joseph#Death',
+        infoSrc: 'https://www.jstor.org/stable/25144476?seq=1'
       },
     ],
     'Labor': [
@@ -16912,13 +16912,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 2nd, 1885',
+        title: 'Rock Springs Massacre (1885)',
+        imgSrc: require('./assets/eventPhotos/Events/rockSpringsMassacre.jpg'),
+        description: `The Rock Springs Massacre occurred on this day in 1885, in the present-day United States city of Rock Springs, Wyoming. The riot, and resulting massacre of immigrant Chinese miners by white immigrant miners, was the result of racial prejudice toward the Chinese miners, who were perceived to be taking jobs from their white counterparts.\n\nThe Union Pacific Coal Department found it economically beneficial to give preference in hiring to Chinese miners, who were willing to work for lower wages than their white counterparts, angering the white miners. When the rioting ended, at least 28 Chinese miners were dead and 15 were injured. Rioters burned 78 Chinese homes, resulting in approximately $150,000 in property damage.\n\nMost of the Chinese population fled Rock Springs after this incident. This was only one episode of anti-Chinese violence among many; Chinese immigrants were often terrorized and discriminated against in this period of American history.`,
+        link: 'https://en.wikipedia.org/wiki/Anti-Chinese_sentiment_in_the_United_States',
+        infoSrc: 'https://en.wikipedia.org/wiki/Rock_Springs_massacre'
       },
     ],
     'Labor': [
@@ -16934,13 +16934,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 2nd, 1839',
+        title: 'Henry George (1839 - 1897)',
+        imgSrc: require('./assets/eventPhotos/Individuals/henryGeorge.jpg'),
+        description: `Henry George, born on this day in 1839, was an American political economist and journalist. Today, he is perhaps best remembered for advotcating the "single tax" on land (known as the Land Value Tax or LVT).\n\nGeorge also inspired the economic philosophy known as "Georgism", which is based on the belief that, although people should own the value they produce themselves, economic value derived from land and other natural resources should belong equally to all members of society. George and Karl Marx were aware of each other and feuded over conflicting ideas about the nature of capitalism.\n\nHis writing was immensely popular in 19th century America. His most famous work, Progress and Poverty (1879), sold millions of copies worldwide, probably more than any other American book before that time. The book investigates the paradox of increasing inequality and poverty amid economic and technological progress, the cyclic nature of industrialized economies, and the use of rent capture such as land value tax and other anti-monopoly reforms as a remedy for these and other social problems.`,
+        link: 'https://www.henrygeorge.org/bob/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Henry_George'
       },
     ],
     'Assassinations': [
@@ -16993,7 +16993,7 @@ export const eventLibrary = {
       {
         category: 'Labor',
         date: 'September 3rd, 2013',
-        title: 'South Africa Miners Strike (2013)',
+        title: `South Africa Miners' Strike (2013)`,
         imgSrc: require('./assets/eventPhotos/Events/southAfrica2013Strike.jpg'),
         description: `On this day in 2013, an estimated 80,000 - 90,000 gold miners went on strike in South Africa, demanding a 60% wage increase to $775 per month.\n\nMining in South Africa has a troubled past, with colonizers enforcing de facto slave labor in the early 20th century to the government using live ammunition to massacre 34 striking miners just a year prior to this strike. The year 2013 was called "The Year of the Strike" in South Africa by reporter Alec Hogg, with over tens of thousands of auto manufacturing, agricultural, and construction workers also going on strike in the same year.`,
         link: 'https://theweek.com/articles/460495/everything-need-know-about-south-african-gold-miners-strike',
@@ -17007,7 +17007,7 @@ export const eventLibrary = {
         title: 'Jean Jaurès (1859 - 1914)',
         imgSrc: require('./assets/eventPhotos/Individuals/jeanJaures.jpg'),
         description: `Auguste Marie Joseph Jean Léon Jaurès, commonly referred to as Jean Jaurès, was a French Socialist leader. Initially a moderate republican, he was later one of the first social democrats, eventually becoming the leader of the French Socialist Party, which opposed Jules Guesde's revolutionary Socialist Party of France. The two parties merged in 1905 in the French Section of the Workers' International (SFIO).\n\nToday, a key aspect his legacy was his antimilitarism. Jaurès was an early opponent of the draft and desperately tried to prevent war between France and Germany before World War I, going so far as to try and organize a general strike in both countries to force their leaders to negotiate diplomatically.\n\nIn 1914, Jaurès returned to Paris from a diplomatic meeting in Brussels to advocate against the coming war. He was assassinated by a French nationalist at the outbreak of World War I, and remains one of the main historical figures of the French Left.`,
-        link: 'https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s',
+        link: 'https://www.marxists.org/archive/jaures/',
         infoSrc: 'https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s'
       },
     ],
@@ -21582,11 +21582,20 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'November 8th, 1897',
-        title: 'Dorothy Day (1897-1980)',
+        title: 'Dorothy Day (1897 - 1980)',
         imgSrc: require('./assets/eventPhotos/Individuals/dorothyDay.jpg'),
         description: `Dorothy Day (November 8, 1897 – November 29, 1980) was an American journalist, social activist and anarchist who, after a bohemian youth, became a Catholic Christian without in any way abandoning her social and anarchist activism. She was perhaps the best-known political radical in the American Catholic Church and is heavily associated with the Catholic Worker Movement, which she co-founded with Peter Maurin.\n\nThe Catholic Worker movement started when the first issue of the Catholic Worker appeared on May 1, 1933, priced at one cent, and published continuously since then. It was aimed at those suffering the most in the depths of the Great Depression, "those who think there is no hope for the future", and announced to them that "the Catholic Church has a social program...there are men of God who are working not only for their spiritual but for their material welfare." It accepted no advertising and did not pay its staff.\n\nLike many newspapers of the day, including those for which Day had been writing, it was an unapologetic example of advocacy journalism. It provided coverage of strikes, explored working conditions, especially of women and black workers, and explicated papal teaching on social issues. Its viewpoint was partisan and stories were designed to move its readers to take action locally, for example, by patronizing laundries recommended by the Laundry Workers' Union. Its advocacy of federal child labor laws put it at odds with the American Church hierarchy from its first issue.\n\nDay's activism continued throughout the rest of her life, resulting in multiple arrests. In the summer of 1973, she joined César Chávez in his campaign for farm laborers in the fields of California and was arrested at the age of 75 for defying an injunction against picketing, spending ten days in jail.`,
-        link: 'https://en.wikipedia.org/wiki/Dorothy_Day',
+        link: 'https://sojo.net/magazine/december-1976/interview-dorothy-day',
         infoSrc: 'https://en.wikipedia.org/wiki/Dorothy_Day'
+      },
+      {
+        category: 'Birthdays',
+        date: 'November 8th, 1862',
+        title: 'Ed Boyce (1862 - 1941)',
+        imgSrc: require('./assets/eventPhotos/Individuals/edBoyce.jpg'),
+        description: `Edward "Ed" Boyce, born on this day in 1862, was president of the Western Federation of Miners (WFM), a radical American labor organizer and a socialist state represenative. Boyce was arrested for his role in the 1892 Coeur d'Alene labor strike and inspired "Big Bill" Haywood (co-founder of the IWW) to join his first union.\n\nIn 1894, Boyce was elected to the Idaho state senate. There, he battled for the eight-hour day for miners, the establishment of an arbitration board to settle labor disputes, an investigation of the 1892 mining war, and the banning of "yellow-dog" contracts (contracts prohibiting workers from joining the union). He was so disillusioned by the political process he resigned after one term.`,
+        link: 'https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=5727&context=etd',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ed_Boyce'
       },
     ],
     'Assassinations': [
@@ -21789,7 +21798,7 @@ export const eventLibrary = {
         title: 'Daisy Bates (1914 - 1999)',
         imgSrc: require('./assets/eventPhotos/Individuals/daisyBates.jpg'),
         description: `Daisy Bates was an American civil rights activist, publisher, journalist, and lecturer who played a leading role in the Little Rock Integration Crisis of 1957. Her mother was raped and murdered by three white men, who went unpunished.\n\nBates was active in the NAACP, becoming head of the Arkansas state chapter in the 1950s. In this role, she played an essential role in helping the Little Rock Nine enroll in Little Rock Central High School, an all-white high school - organizing their protection, advising the families, and using her home as an official checkpoint for the students before and after school.`,
-        link: 'https://en.wikipedia.org/wiki/Daisy_Bates_(activist)',
+        link: 'https://docsouth.unc.edu/sohp/G-0009/G-0009.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Daisy_Bates_(activist)'
       },
     ],
@@ -21857,7 +21866,7 @@ export const eventLibrary = {
         title: 'Elizabeth Stanton (1815 - 1902)',
         imgSrc: require('./assets/eventPhotos/Individuals/elizabethStanton.jpg'),
         description: `Elizabeth Cady Stanton was an American suffragist, social activist, abolitionist, and leading figure of the early women's rights movement.\n\nHer "Declaration of Sentiments", presented at the Seneca Falls Convention held in 1848 in Seneca Falls, New York, is often credited with initiating the first organized women's rights and women's suffrage movements in the United States.`,
-        link: 'https://en.wikipedia.org/wiki/Elizabeth_Cady_Stanton',
+        link: 'https://www.womenshistory.org/education-resources/biographies/elizabeth-cady-stanton',
         infoSrc: 'https://en.wikipedia.org/wiki/Elizabeth_Cady_Stanton'
       },
     ],
@@ -22175,7 +22184,7 @@ export const eventLibrary = {
         title: 'Knowles Riot (1747)',
         imgSrc: require('./assets/eventPhotos/Events/knowlesRiot.jpg'),
         description: `The Knowles Riot, also known as the Impressment Riot of 1747, was a three-day riot in Boston that began on this day in 1747. It was in response to the impressment (conscription) of 46 Bostonians by Admiral Charles Knowles into the navy.\n\nHundreds of mostly working-class rioters rampaged through Boston, surrounded the house of the governor, assaulted the sheriff, and imprisoned the deputy sheriff, along with several naval officers. The governor ordered the militia to suppress the riot, but they refused, leading him to flee the city.\n\nThe rioters were later famously condemned by a merchants' group as a "Riotous Tumultuous Assembly of Foreign Seamen, Servants, Negroes, and Other Persons of Mean and Vile Condition."`,
-        link: 'https://en.wikipedia.org/wiki/Knowles_Riot',
+        link: 'https://www.newenglandhistoricalsociety.com/press-gangs-cause-boston-riot-1747-2/',
         infoSrc: 'https://en.wikipedia.org/wiki/Knowles_Riot'
       },
     ],
@@ -22478,7 +22487,7 @@ export const eventLibrary = {
         title: 'Alexander Berkman (1870 - 1936)',
         imgSrc: require('./assets/eventPhotos/Individuals/alexanderBerkman.jpg'),
         description: `Alexander Berkman (November 21, 1870 – June 28, 1936) was a leading member of the anarchist movement in the early 20th century, famous for both his political activism and his writing. He was the one-time lover and lifelong friend of anarchist Emma Goldman. In 1892, undertaking an act of propaganda of the deed, Berkman made an unsuccessful attempt to assassinate businessman Henry Clay Frick, for which he served 14 years in prison.\n\nOn their release from prison (for conspiring against the draft), Berkman and Goldman were arrested and deported to Russia. Initially supportive of the Bolshevik revolution, Berkman and Goldman soon became disillusioned, voicing their opposition to the Soviets' use of terror after seizing power and their repression of fellow revolutionaries.`,
-        link: 'https://en.wikipedia.org/wiki/Alexander_Berkman',
+        link: 'http://www.gutenberg.org/ebooks/34406',
         infoSrc: 'https://en.wikipedia.org/wiki/Alexander_Berkman'
       },
     ],
@@ -22954,7 +22963,7 @@ export const eventLibrary = {
         title: 'Friedrich Engels (1820 - 1895)',
         imgSrc: require('./assets/eventPhotos/Individuals/friedrichEngels.jpg'),
         description: `Friedrich Engels was a German philosopher, historian, communist, social scientist, sociologist, journalist and businessman. His father was an owner of large textile factories in Salford, England, and Barmen, Prussia (now Wuppertal, Germany).\n\nEngels developed what is now known as Marxist theory together with Karl Marx and in 1845 he published The Condition of the Working Class in England, based on personal observations and research in English cities. In 1848, Engels co-authored The Communist Manifesto with Marx and also authored and co-authored (primarily with Marx) many other works.\n\nLater, Engels supported Marx financially, allowing him to do research and write Das Kapital. After Marx's death, Engels edited the second and third volumes of Das Kapital. Additionally, Engels organised Marx's notes on the Theories of Surplus Value, which were later published as the "fourth volume" of Das Kapital. In 1884, he published The Origin of the Family, Private Property and the State on the basis of Marx's ethnographic research.`,
-        link: 'https://en.wikipedia.org/wiki/Friedrich_Engels',
+        link: 'https://www.britannica.com/biography/Friedrich-Engels',
         infoSrc: 'https://en.wikipedia.org/wiki/Friedrich_Engels',
       },
     ],
@@ -23566,7 +23575,7 @@ export const eventLibrary = {
         title: 'Noam Chomsky (1928 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/noamChomsky.jpg'),
         description: `Avram Noam Chomsky is an American linguist, philosopher, cognitive scientist, historian, social critic, and political activist. Sometimes called "the father of modern linguistics", Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science. He holds a joint appointment as Institute Professor Emeritus at the Massachusetts Institute of Technology (MIT) and Laureate Professor at the University of Arizona, and is the author of more than 100 books on topics such as linguistics, war, politics, and mass media. Ideologically, he aligns with anarcho-syndicalism and libertarian socialism.\n\nAn outspoken opponent of U.S. involvement in the Vietnam War, which he saw as an act of American imperialism, in 1967 Chomsky rose to national attention for his antiwar essay "The Responsibility of Intellectuals". Associated with the New Left, he was arrested multiple times for his activism and placed on President Richard Nixon's Enemies List.\n\nIn collaboration with Edward S. Herman, Chomsky later articulated the propaganda model of media criticism in their work Manufacturing Consent and worked to expose the Indonesian occupation of East Timor.`,
-        link: 'https://en.wikipedia.org/wiki/Noam_Chomsky',
+        link: 'https://chomsky.info/interviews/',
         infoSrc: 'https://en.wikipedia.org/wiki/Noam_Chomsky'
       },
     ],
@@ -23634,7 +23643,7 @@ export const eventLibrary = {
         title: 'Thomas Mooney (1882 - 1942)',
         imgSrc: require('./assets/eventPhotos/Individuals/thomasMooney.jpg'),
         description: `Thomas Joseph Mooney was an American political activist and labor leader, who was convicted with Warren K. Billings of the San Francisco Preparedness Day Bombing of 1916. Convicted on scant evidence, Mooney served 22 years in prison before finally being pardoned in 1939.\n\nHe was known for being a militant IWW organizer and for publishing the socialist magazine "The Revolt".`,
-        link: 'https://en.wikipedia.org/wiki/Thomas_Mooney',
+        link: 'https://en.wikipedia.org/wiki/Preparedness_Day_Bombing',
         infoSrc: 'https://en.wikipedia.org/wiki/Thomas_Mooney'
       },
     ],
@@ -23702,7 +23711,7 @@ export const eventLibrary = {
         title: 'Peter Kropotkin (1842 - 1921)',
         imgSrc: require('./assets/eventPhotos/Individuals/peterKropotkin.jpg'),
         description: `Pyotr Alexeyevich Kropotkin was a Russian activist, writer, revolutionary, scientist, economist, sociologist, historian, essayist, researcher, political scientist, biologist, geographer, and philosopher who advocated anarcho-communism.\n\nBorn into an aristocratic land-owning family, he attended a military school and later served as an officer in Siberia, where he participated in several geological expeditions. He was imprisoned for his activism in 1874 and managed to escape two years later. He spent the next 41 years in exile in Switzerland, France (where he was imprisoned for almost four years) and in England. While in exile, Kropotkin gave lectures and published widely on anarchism and geography. He returned to Russia after the Russian Revolution in 1917 but was disappointed by the Bolshevik state.\n\nKropotkin was a proponent of a decentralised communist society free from central government and based on voluntary associations of self-governing communities and worker-run enterprises. He wrote many books, pamphlets, and articles, the most prominent being The Conquest of Bread and Fields, Factories and Workshops; and his principal scientific offering, "Mutual Aid: A Factor of Evolution". He also contributed the article on anarchism to the Encyclopædia Britannica Eleventh Edition and left unfinished a work on anarchist ethical philosophy.`,
-        link: 'https://en.wikipedia.org/wiki/Peter_Kropotkin',
+        link: 'https://libcom.org/library/mutual-aid-peter-kropotkin',
         infoSrc: 'https://en.wikipedia.org/wiki/Peter_Kropotkin'
       },
       {
@@ -24051,7 +24060,7 @@ export const eventLibrary = {
         title: 'Daniel De Leon (1852 - 1914)',
         imgSrc: require('./assets/eventPhotos/Individuals/danielDeLeon.jpg'),
         description: `Daniel De Leon was an American socialist newspaper editor, politician, Marxist theoretician, and trade union organizer. He is regarded as the forefather of the idea of revolutionary industrial unionism and was the leading figure in the Socialist Labor Party of America from 1890 until the time of his death.\n\nDe Leon is also notable for splitting with "Big Bill" Haywood on the matter of electoral politics. Haywood supported direct action - working outside the system - while De Leon supported political action via a socialist political party. Eventually, this disagreement caused De Leon to leave the IWW entirely.`,
-        link: 'https://en.wikipedia.org/wiki/Daniel_De_Leon',
+        link: 'https://www.marxists.org/archive/deleon/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Daniel_De_Leon'
       },
       {
@@ -24242,7 +24251,7 @@ export const eventLibrary = {
         title: 'Mohamed Bouazizi Self-Immolation (2010)',
         imgSrc: require('./assets/eventPhotos/Individuals/mohamedBouazizi.jpg'),
         description: `Tarek el-Tayeb Mohamed Bouazizi (29 March 1984 – 4 January 2011) was a Tunisian street vendor who set himself on fire on this day in 2010, which became a catalyst for the Tunisian Revolution and the wider Arab Spring against autocratic regimes.\n\nHis self-immolation was in response to the confiscation of his wares by police, mistreatment by city officials, and desperation of his own economic condition. Anti-government protests in Tunisia began within hours of his self-immolation, In 2011, Bouazizi was posthumously awarded the Sakharov Prize for his contribution to "historic changes in the Arab world"`,
-        link: 'https://en.wikipedia.org/wiki/Mohamed_Bouazizi',
+        link: 'https://www.aljazeera.com/news/2015/12/mohamed-bouazizi-arab-spring-worth-dying-151228093743375.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Mohamed_Bouazizi'
       },
     ],
@@ -24332,7 +24341,7 @@ export const eventLibrary = {
         title: 'Joseph Stalin (1878 - 1953)',
         imgSrc: require('./assets/eventPhotos/Individuals/josephStalin.jpg'),
         description: `Joseph Vissarionovich Stalin was a Georgian revolutionary and Soviet politician who led the Soviet Union from the mid-1920s until 1953 as the general secretary of the Communist Party of the Soviet Union (1922–1952) and premier of the Soviet Union (1941–1953). A communist ideologically committed to the Leninist interpretation of Marxism, Stalin formalised these ideas as Marxism–Leninism, while his own policies are simply known as Stalinism.\n\nThrough the Five-Year Plans, the country underwent agricultural collectivisation and rapid industrialisation, creating a centralised command economy. This led to significant disruptions in food production that contributed to the famine of 1932–33. To eradicate accused "enemies of the working class", Stalin instituted the "Great Purge", in which over a million were imprisoned and at least 700,000 executed between 1934 and 1939.\n\nWidely considered one of the 20th century's most significant figures, Stalin is revered by some as a champion of the working class and socialism, while critics have condemned his government for overseeing mass political repression, ethnically based deportations, hundreds of thousands of executions, and famines that killed millions.`,
-        link: 'https://en.wikipedia.org/wiki/Joseph_Stalin',
+        link: 'https://www.britannica.com/biography/Joseph-Stalin',
         infoSrc: 'https://en.wikipedia.org/wiki/Joseph_Stalin'
       },
     ],
@@ -24468,7 +24477,7 @@ export const eventLibrary = {
         title: 'Marta Russell (1951 - 2013)',
         imgSrc: require('./assets/eventPhotos/Individuals/martaRussell.jpg'),
         description: `Marta Russell was an American writer and disability rights activist. Her book, "Beyond Ramps: Disability at the End of the Social Contract published in 1998" analyzes the relationship between disability, social Darwinism, and economic austerity under capitalism.\n\nHer political views, which she described as "left, not liberal," informed her writing on topics such as healthcare, the prison-industrial complex, physician-assisted suicide, poverty, ableism, and the Americans with Disabilities Act of 1990.`,
-        link: 'https://en.wikipedia.org/wiki/Marta_Russell',
+        link: 'https://solidarity-us.org/atc/169/p4113/',
         infoSrc: 'https://en.wikipedia.org/wiki/Marta_Russell'
       },
     ],
@@ -24876,7 +24885,7 @@ export const eventLibrary = {
         title: 'Mao Zedong (1893 - 1976)',
         imgSrc: require('./assets/eventPhotos/Individuals/maoZedong.jpg'),
         description: `Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who became the founding father of the People's Republic of China (PRC), which he ruled as the chairman of the Communist Party of China from its establishment in 1949 until his death in 1976. Ideologically a Marxist–Leninist, his theories, military strategies, and political policies are collectively known as Maoism.\n\nA controversial figure, Mao is regarded as one of the most important and influential individuals in modern world history. He is also known as a political intellect, theorist, military strategist, poet, and visionary. During Mao's era, China was involved in the Korean War, the Sino-Soviet split, the Vietnam War, and the rise of Khmer Rouge; in particular, in 1972, Mao welcomed U.S. President Richard Nixon in Beijing, signalling the start of a policy of opening China to the world.\n\nSupporters credit him with driving imperialism out of China, modernising the nation and building it into a world power, promoting the status of women, improving education and health care, as well as increasing life expectancy of the average Chinese citizen.\n\nConversely, his regime has been called autocratic and totalitarian, and condemned for bringing about mass repression and destroying religious and cultural artifacts and sites. It was additionally responsible for vast numbers of deaths with estimates ranging from 30 to 80 million victims through starvation, persecution, prison labor and mass executions.`,
-        link: 'https://en.wikipedia.org/wiki/Mao_Zedong',
+        link: 'https://www.britannica.com/biography/Mao-Zedong',
         infoSrc: 'https://en.wikipedia.org/wiki/Mao_Zedong'
       },
     ],
@@ -24996,13 +25005,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'December 28th, 1869',
+        title: 'Knights of Labor Founded (1869)',
+        imgSrc: require('./assets/eventPhotos/Organizations/knightsOfLabor.jpg'),
+        description: `Knights of Labor (K of L) was an American labor federation active in the late 19th century, founded on this day in 1869. It operated in the United States as well in Canada, Great Britain, and Australia. In 1886, 20% of all workers were affiliated - nearly 800,000 members.\n\nThe Knights of Labor demanded an eight hour work day, an end to child and convict labor, and supported worker cooperatives. In some cases it acted as a labor union, negotiating with employers. K of L was notable in its ambition to organize across lines of gender and race and in the inclusion of both skilled and unskilled labor, although its support of the Chinese Exclusion Act is a notable exception to this.\n\nAfter a rapid expansion in the mid-1880s, the organization went into decline, primarily losing members to the American Federation of Labor (AFL).`,
+        link: 'https://www.history.com/topics/19th-century/knights-of-labor',
+        infoSrc: 'https://en.wikipedia.org/wiki/Knights_of_Labor'
       },
     ],
     'Birthdays': [

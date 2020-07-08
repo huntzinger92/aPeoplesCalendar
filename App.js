@@ -28,7 +28,7 @@ import { AntDesign } from '@expo/vector-icons';
 //import * as Permissions from 'expo-permissions';
 
 //the code below checks for amount of empty days and total event count in the calendar
-/*
+///*
 var everyDayString = Object.keys(eventLibrary);
 var emptyCount = 0;
 var totalEventsCount = 0;
@@ -60,7 +60,7 @@ for (var i = 0; i < everyDayString.length; i++) {
 };
 console.log('amount of empty days: ' + emptyCount);
 console.log('amount of events: ' + totalEventsCount);
-*/
+//*/
 
 var initTodayString = (new Date().getMonth() + 1 + '-' + new Date().getDate());
 
