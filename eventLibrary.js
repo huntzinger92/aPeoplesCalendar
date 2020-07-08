@@ -4172,13 +4172,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'March 1st, 1886',
+        title: 'Great Southwest Railroad Strike (1886)',
+        imgSrc: require('./assets/eventPhotos/Events/greatSouthwestRailroad.jpg'),
+        description: `The Great Southwest Railroad Strike of 1886 was a labor union strike involving more than 200,000 workers that began on this day in 1886. Railroad workers in five states struck against the Union Pacific and Missouri Pacific railroads, owned by railroad magnate Jay Gould. At the time of the strike, he controlled approximately 12% of all railroad in the U.S.\n\nAt least ten people were killed. The striking workers sabotaged rail lines and stopped traffic as far away as St. Louis. After two months of protest, the strike was called off on May 4th, without the workers winning their demands. The failure of the strike led directly to the collapse of the Knights of Labor and the formation of the American Federation of Labor (AFL).`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnbaron11.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Great_Southwest_railroad_strike_of_1886'
       },
     ],
     'Birthdays': [
@@ -6298,13 +6298,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'April 1st, 1891',
+        title: 'Coal Creek War Begins (1891)',
+        imgSrc: require('./assets/eventPhotos/Events/coalCreekWar.jpg'),
+        description: `The Coal Creek War was an early 1890s armed labor uprising in the southeastern United States that took place primarily in Anderson County, Tennessee. This labor conflict ignited during 1891 when coal mine owners in the Coal Creek watershed began to remove and replace their company-employed, private coal miners then on the payroll with convict laborers leased out by the Tennessee state prison system, used in this case as strikebreakers.\n\nCoal workers at the Tennessee Coal Mining Company (TCMC) began their strike on this day in 1891, demanding to be paid in cash, not scrip (currency only usable at company stores) and to be allowed to check the weight of their haul (they were paid by weight, but not allowed to check the company's measurement). On July 14th, armed miners surrounded the stockades where leased convicts were held and sent them by train out of the city.\n\nAfter repeated attacks on mine property and the stockades where the prisoners were being kept, on October 31st, 1891 when the miners finally burned the stockades to the ground and freed the hundreds of convicts being held there. On Nov. 2nd, another band attacked stockades in a different location and freed those prisoners as well. From these two events alone, at least 453 convicts were set free.\n\nThe strike was forcibily put down by state militia, ending with the arrest of hundreds of miners. All but one were either acquitted or merely fined. Tennessee ended its policy of allowing convict labor in 1892.`,
+        link: 'https://libcom.org/files/stockade-stood-burning-rebellion-and-convict-lease-tennessees-coalfields-1891-1895-1.pdf',
+        infoSrc: 'https://en.wikipedia.org/wiki/Coal_Creek_War'
       },
     ],
     'Birthdays': [
@@ -8220,13 +8220,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'April 29th, 1899',
+        title: `Coeur d'Alene Uprising (1899)`,
+        imgSrc: require('./assets/eventPhotos/Events/coeurUprising.jpg'),
+        description: `In April 1899, in Coeur d'Alene, Idaho, the Western Federation of Miners (WFM) was launching an organizing drive of the few mines in the area that had not yet unionized. The superintendent Albert Burch declared that the company would rather "shut down and remain closed twenty years" than to recognize the union and then fired seventeen workers he believed to be union members and demanded that all other union men collect their back pay and quit.\n\nOn this day in 1899, 250 union members seized a train in Burke, northeast of Wallace and began making their way to the Bunker Hill mine in Wardener (valued around $250,000). At each stop through Burke Canyon, more miners climbed aboard, eventually numbering over one thousand.\n\nUpon arriving at the mine, the men carried three thousand pounds (1,400 kg) of dynamite into the mill and detonated it, completely destroying the mill. The group also burned down the company office, the boarding house, and the home of the mine manager. The miners re-boarded the "Dynamite Express" and returned the way they came.\n\nState authorities used federal troops to commit mass arrests - over 1,000 men were rounded up and put into a "bullpen.", included some elected officials and at least one sheriff. Most were released within two weeks, although some were held until December.`,
+        link: 'https://en.wikipedia.org/wiki/1899_Coeur_d%27Alene_labor_confrontation',
+        infoSrc: 'https://en.wikipedia.org/wiki/1899_Coeur_d%27Alene_labor_confrontation'
       },
     ],
     'Birthdays': [
@@ -9335,13 +9335,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 15th, 1893',
+        title: 'Western Federation of Miners Founded (1893)',
+        imgSrc: require('./assets/eventPhotos/Organizations/wfm.jpg'),
+        description: `The Western Federation of Miners (WFM) was a radical labor union that gained a reputation for militancy in the mines of the western United States and British Columbia. Its efforts to organize both hard rock miners and smelter workers brought it into sharp conflicts – and often pitched battles – with both employers and governmental authorities. It was one of the organizations at the heart of the Colorado Coal Wars.\n\nThe organization's earliest years were radical, adopting an explicitly socialist platform in 1901. "Big Bill" Haywood, who had joined the WFM as a secretary, was a prominent member during this time.\n\nThe WFM played a role in founding the International Workers of the World (IWW) in 1905, however the split between revolutionaries and reformists led to the WFM withdrawing from the organization several years later and joining the American Federation of Labor (AFL). Because of this, Haywood and prominent labor leader Vincent St. John quit the WFM and channeling their efforts through the IWW instead.`,
+        link: 'https://www.marxists.org/glossary/orgs/w/e.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Western_Federation_of_Miners'
       },
     ],
     'Birthdays': [
@@ -12612,13 +12612,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 1st, 1892',
+        title: 'Homestead Strike Begins (1892)',
+        imgSrc: require('./assets/eventPhotos/Events/homesteadStrike.jpg'),
+        description: `The Homestead Strike was an industrial lockout and strike which began on this day in 1892, culminating in a battle between strikers and private security agents on July 6th. Unlike earlier strikes in American history (such as the Great Railroad Strike of 1877), the Homestead Strike was organized and purposeful, a harbinger of the type of worker organization to come in the modern era of labor relations.\n\nIn order to break the union at the Carnegie Steel Factory, Henry Clay Frick locked workers out of the factory on June 28th. On July 1st, thousands of workers began striking. Frick hired the Pinkerton Agency to guard strikebreaking workers he was bringing on a barge (the factory was on a river), but the workers were patroling a ten-mile stretch of the river to prevent them from making it to the factory.\n\nOn July 6th, the Pinkertons attempted to land under cover of darkness around four in the morning, however there were thousands of striking workers and sympathizers waiting for them on the riverbank. When Pinkertons attempted to land, gunfire erupted, killing four and injuring twenty-three on both sides. The Pinkertons eventually surrendered to the crowd, however many were beaten unconscious after leaving the boat.\n\nThe strike was forcibly ended by state militia and the miners were defeated. The union there, the Amalgamated Association of Iron and Steel Workers, collapsed and the union returned to workin August. For his role in breaking the union, anarchists Alexander Berkman and Emma Goldman unsuccessfully attempted to assassinate Henry Clay Frick.`,
+        link: 'https://aflcio.org/about/history/labor-history-events/1892-homestead-strike',
+        infoSrc: 'https://en.wikipedia.org/wiki/Homestead_strike'
       },
     ],
     'Birthdays': [
@@ -13301,13 +13301,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 11th, 1892',
+        title: `Coeur d'Alene Strike (1892)`,
+        imgSrc: require('./assets/eventPhotos/Events/coeurStrike.jpg'),
+        description: `On this day in 1892, the Coeur d'Alene Strike (taking place in Coeur d'Alene, Idaho) erupted in violence when labor union miners discovered they had been infiltrated by a Pinkerton agent who had routinely provided union information to the mine owners. The miners had declared a strike to demand that a "living wage" of $3.50 per day be paid to every man working underground, both skilled and unskilled. This solidarity between unskilled and skilled labor (a principle known as industrial unionism) was unusual for the era.\n\nOn the morning of July 11th, gunfire erupted between striking workers and scabs working in the mines. The "battle" was won by the striking miners after they dynamited one of the mills, destroying the building and crushing one non-union worker inside. The rest of the strikebreakers promptly surrendered and were taken prisoner.\n\nLater that evening, striking workers placed explosives beneath an ore mill and gave its manager the choice between firing the strikebreakers or having his mill destroyed. He chose the former. Before the day was over, six people were killed and dozens were wounded.\n\nFollowing this violence, martial law was declared in Coeur d'Alene and the town was under military rule by the Idaho National Guard for four months. Hundreds of miners were illegaly detained, without hearings or formam charges. The event was disastrous for the local miners' union. In an effort to reorganize the workforce, the Western Federation of Miners (WFM) was founded the following year.`,
+        link: 'https://www.britannica.com/event/Coeur-dAlene-riots',
+        infoSrc: 'https://en.wikipedia.org/wiki/1892_Coeur_d%27Alene_labor_strike'
       },
     ],
     'Birthdays': [
@@ -13499,7 +13499,7 @@ export const eventLibrary = {
         title: `Vesey's Uprising (1822)`,
         imgSrc: require('./assets/eventPhotos/Individuals/denmarkVesey.jpg'),
         description: `Denmark Vesey (c. 1767 - July 2, 1822) was a literate, skilled carpenter and leader of African Americans in Charleston, South Carolina. On this day in 1822, he planned a large slave revolt in Charleston, Virginia that would have involved thousands of slaves rising against their masters and sailing to Haiti for freedom. In June, 1822 he was accused and convicted of being the leader of this planned slave revolt and executed on July 2nd.\n\nIn the aftermath of Vesey's and others' convictions, authorities blamed "black religion" for contributing to the uprising, noting that Vesey had co-founded a local African Methodist Episcopal (AME) Church. The reverend of the church was driven out of the state, Charleston officials ordered the large congregation to be dispersed and the building razed, and no black church officially met in Charleston until after the Civil War.`,
-        link: 'https://www.theatlantic.com/magazine/archive/1861/06/denmark-vesey/396239/',
+        link: 'https://www.theatlantic. https://en.wikipedia.org/wiki/Coal_Creek_Warcom/magazine/archive/1861/06/denmark-vesey/396239/',
         infoSrc: 'https://en.wikipedia.org/wiki/Denmark_Vesey'
       },
     ],
@@ -20520,13 +20520,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'October 24th, 1871',
+        title: 'Chinese Massacre of 1871',
+        imgSrc: require('./assets/eventPhotos/Events/chineseMassacre1871.jpg'),
+        description: `The Chinese Massacre of 1871 was a race riot that occurred on this day in Los Angeles, California when a mob of around 500 white and mestizo persons entered Chinatown and attacked, robbed, and murdered Chinese residents. The massacre took place on Calle de los Negros, also known as "Negro Alley". The mob gathered after hearing that a policeman had been shot and a rancher killed by Chinese. Historian John Johnson has described this as the largest mass lynching in American history.\n\nAn estimated 17 to 20 Chinese immigrants were hanged by the mob in the course of the riot, but most had already been shot to death. At least one was mutilated, when someone cut off a finger to get his diamond ring. Ten men of the mob were prosecuted and eight were convicted of manslaughter in these deaths. The convictions were overturned on appeal due to technicalities.`,
+        link: 'http://www.laweekly.com/how-los-angeles-covered-up-the-massacre-of-17-chinese/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Chinese_massacre_of_1871'
       },
     ],
     'Labor': [
@@ -21007,13 +21007,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'October 31st, 1891',
+        title: 'Coal Creek Strikers Free Prisoners (1891)',
+        imgSrc: require('./assets/eventPhotos/Events/coalCreekWar.jpg'),
+        description: `The Coal Creek War was an early 1890s armed labor uprising in the southeastern United States that took place primarily in Anderson County, Tennessee. This labor conflict ignited during 1891 when coal mine owners in the Coal Creek watershed began to remove and replace their company-employed, private coal miners then on the payroll with convict laborers leased out by the Tennessee state prison system, used in this case as strikebreakers.\n\nCoal workers at the Tennessee Coal Mining Company (TCMC) went on strike on April 1st, 1891, demanding to be paid in cash, not scrip (currency only usable at company stores) and to be allowed to check the weight of their haul (they were paid by weight, but not allowed to check the company's measurement). On July 14th, armed miners surrounded the stockades where leased convicts were held and sent them by train out of the city.\n\nAfter repeated attacks on mine property and the stockades where the prisoners were being kept, it was on this day in 1891 when the miners finally burned the stockades to the ground and freed the hundreds of convicts being held there. On Nov. 2nd, another band attacked stockades in a different location and freed those prisoners as well. From these two events alone, at least 453 convicts were set free.\n\nThe strike was forcibily put down by state militia, ending with the arrest of hundreds of miners. All but one were either acquitted or merely fined. Tennessee ended its policy of allowing convict labor in 1892.`,
+        link: 'https://libcom.org/files/stockade-stood-burning-rebellion-and-convict-lease-tennessees-coalfields-1891-1895-1.pdf',
+        infoSrc: 'https://en.wikipedia.org/wiki/Coal_Creek_War'
       },
     ],
     'Birthdays': [
@@ -21569,13 +21569,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 8th, 1892',
+        title: 'New Orleans General Strike (1892)',
+        imgSrc: require('./assets/eventPhotos/Events/newOrleansGeneralStrike.jpg'),
+        description: `The New Orleans general strike was a city-wide strike in New Orleans, Louisiana that began on this day in 1892. The general strike grew out of a strike by three unions who joined forces to go on strike the two weeks prior. The three unions, collectively known as the "Triple Alliance", were an alliance of black and white workers. The New Orleans Board of Trade announced it would sign contracts agreeing to the terms - but only with the white unions, however this offer was steadfastly refused.\n\nEventually, other union leaders in the city began calling for a strike in support of the Triple Alliance, and, on this day in 1892, a multi-racial coalition of 25,000 workers across the entire city went on strike. Efforts by the city to find strikebreaking workers, both from within and outside of New Orleans, failed.\n\nAfter just three days, the Board of Trade agreed to binding arbitration to settle the strike, with employers agreeing to sit down with both white and black union leaders. After 48 hours of negotiations, the employers agreed to the 10-hour day and overtime pay for the Triple Alliance workers. Members of other unions also won reduced hours and higher pay.`,
+        link: 'https://neworleanshistorical.org/items/show/1406',
+        infoSrc: 'https://en.wikipedia.org/wiki/1892_New_Orleans_general_strike'
       },
     ],
     'Birthdays': [
@@ -22607,13 +22607,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 23rd, 1887',
+        title: 'Thibodaux Massacre (1887)',
+        imgSrc: require('./assets/eventPhotos/Events/thibodauxMassacre.jpg'),
+        description: `The Thibodaux Massacre took place in Thibodaux, Louisiana on this day, in 1887. Ten thousand black sugar cane workers, determined to unionize for a living wage, chose to combine their minimal power in a strike during the crucial harvest season, during which there was a narrow window of time to harvest the cane and the planters would be unlikely to find strikebreakers.\n\nJudge Taylor Beattie, an ex-Confederate soldier and slaveowner, declared martial law and gathered up hundreds of white men to form a paramilitary group to suppress the strikers, close the borders to the city, and monitor all movement of black people in the area. Not wanting to be boxed in, black strikers fired on the city border guards. In retalitation, the paramilitary forces initiated three days of violence against mostly unarmed black workers and their families.\n\nEstimates of the total number of dead range from 35-60, making it one of the deadliest strikes in American labor history. Despite the women and children killed, the Southern press heralded the white perpetrators of the violence. One participant, Andrew Price, went on to be elected to Congress. Black farmworkers did make a large effort to unionize again until the 1930s.`,
+        link: 'https://en.wikipedia.org/wiki/Thibodaux_massacre',
+        infoSrc: 'https://www.blackpast.org/african-american-history/the-thibodaux-massacre-november-23-1887/'
       },
     ],
     'Birthdays': [
