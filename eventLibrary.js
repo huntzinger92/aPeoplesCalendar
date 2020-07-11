@@ -450,13 +450,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 7th, 1884',
+        title: 'Arturo Giovannitti (1884 - 1959)',
+        imgSrc: require('./assets/eventPhotos/Individuals/arturoGiovannitti.jpg'),
+        description: `Arturo M. Giovannitti, born on this day in 1884, was an Italian-American union leader, socialist political activist, and poet. Giovannitti was a member of the International Workers of the World (IWW), and is best remembered for his leadership and subsequent arrest in the 1912 Lawrence Textile Strike.\n\nAlong with "Smiling Joe" Ettor, Giovannitti was sent to Lawrence to help rally and organize striking workers there. When a striking worker was shot and killed, Ettor and Giovannitti were arrested as accomplices to the murder on little to no evidence.\n\nWhile in jail, he wrote many poems, "The Walker" in particular becoming well-known. The trial made the textile strike a national controvery and resulted in "Big Bill" Haywood and Elizabeth Gurley Flynn coming in to lead the strike in their stead. Months after the strike itself ended, Ettor, Giovannitti, and a third co-defendant were acquitted of all charges.`,
+        link: 'https://www.historyisaweapon.com/defcon1/giovannittijury.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Arturo_Giovannitti'
       },
     ],
     'Assassinations': [
@@ -711,13 +711,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'January 11th, 1912',
+        title: 'Lawrence Textile Strike (1912)',
+        imgSrc: require('./assets/eventPhotos/Events/lawrenceTextileStrike.jpg'),
+        description: `The Lawrence Textile Strike, also known as the Bread and Roses Strike, was a strike of immigrant workers in Lawrence, Massachusetts that began on this day in 1912. It was led by the Industrial Workers of the World (IWW) and united immigrant workers of over forty nationalities. Prompted by a two-hour pay cut corresponding to a new law shortening the workweek for women, the strike spread rapidly through the town, growing to more than twenty thousand workers and involving nearly every mill in Lawrence.\n\nNational attention to the strike greatly increased when two IWW leaders, "Smiling Joe" Ettor and Arturo Giovannitti, were arrested on fabricated charges related to the murder of a striking worker. Upon their arrest, "Big Bill" Haywood and Elizabeth Gurley Flynn took over leadership of the strike. They further sensationalized the condition of the striking workers by ostentatiously sending their hungry children to stay with families and supporters in New York City.\n\nStriking workers and families were brutalized by police. When authorities tried to prevent more children from leaving the city, the police attacked a crowd of parents and their children, causing one pregnant woman to miscarry. Growing national sympathy for the strikers finally led the mill owners to agree to worker demands, and the parties agreed on significant pay raises to return to work. Ettor and Giovannitti were in prison for months after the strike ended, but were eventually acquitted of all charges.`,
+        link: 'https://libcom.org/history/articles/lawrence-textile-strike-1912',
+        infoSrc: 'https://en.wikipedia.org/wiki/1912_Lawrence_textile_strike'
       },
     ],
     'Birthdays': [
@@ -2376,7 +2376,7 @@ export const eventLibrary = {
         date: 'February 4th, 1869',
         title: 'Big Bill Haywood (1869 - 1928)',
         imgSrc: require('./assets/eventPhotos/Individuals/billHaywood.jpg'),
-        description: `William Dudley "Big Bill" Haywood (February 4, 1869 - May 18, 1928) was a founding member and leader of the Industrial Workers of the World (IWW) and a member of the executive committee of the Socialist Party of America. During the first two decades of the 20th century, Haywood was involved in several important labor battles, including the Colorado Labor Wars, the Lawrence Textile Strike, and other textile strikes in Massachusetts and New Jersey.\n\nHaywood was an advocate of industrial unionism, a labor philosophy that favors organizing all workers in an industry under one union, regardless of the specific trade or skill level. He believed that workers of all ethnicities should be united, and favored direct action over political action.\n\nHaywood was renowned for leading strikes in times of crisis. When martial law was declared during the Lawrence Textile Strike, Haywood traveled to the strike and implemented many innovative tactics to help the workers involved. One such ploy was to very publicly send the hungry children of striking workers to host families in other states, garnering good press for the working families.\n\nIn 1917, Big Bill Haywood was arrested for esponsiage, along with 164 other members of the IWW. He was convicted, and, while temporarily released from prison due to an appeal, fled to the Soviet Union, where he served as labor advisor to Vladimir Lenin, and where would spend the rest of life.`,
+        description: `William Dudley "Big Bill" Haywood (February 4, 1869 - May 18, 1928) was a founding member and leader of the Industrial Workers of the World (IWW) and a member of the executive committee of the Socialist Party of America. During the first two decades of the 20th century, Haywood was involved in several important labor battles, including the Colorado Labor Wars, the Lawrence Textile Strike, and other textile strikes in Massachusetts and New Jersey.\n\nHaywood was an advocate of industrial unionism, a labor philosophy that favors organizing all workers in an industry under one union, regardless of the specific trade or skill level. He believed that workers of all ethnicities should be united, and favored direct action over political action.\n\nHaywood was renowned for leading strikes in times of crisis. When martial law was declared during the Lawrence Textile Strike, Haywood traveled to the strike and implemented many innovative tactics to help the workers involved. One such ploy was to very publicly send the hungry children of striking workers to host families in other states, garnering good press for the working families.\n\nIn 1917, Big Bill Haywood was arrested for espionage, along with 164 other members of the IWW. He was convicted, and, while temporarily released from prison due to an appeal, fled to the Soviet Union, where he served as labor advisor to Vladimir Lenin and spend the rest of life.`,
         link: 'https://www.marxists.org/archive/haywood-b/1922/04/prisoners.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Bill_Haywood'
       },
@@ -2642,13 +2642,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 8th, 1912',
+        title: 'San Diego Free Speech Fight (1912)',
+        imgSrc: require('./assets/eventPhotos/Events/sanDiegoFreeSpeech.jpg'),
+        description: `"Free Speech Fights" refers to to struggles over free speech involving the Industrial Workers of the World (IWW) in the early 20th century. The IWW members, along with other radical groups, were often met with opposition (violent and otherwise) from local governments and especially business leaders, in their attempts to exercise their right to free speech.\n\nOn this day in 1912, a San Diego city ordinance that banned giving speeches on the street became effective. It was directly targeted at IWW members, whose street "preaching" became explicitly illegal. The ordinance was met with immediate civil disobdience by labor activists, and several were immediately arrested. Over five thousand IWW members came to San Diego to protest the free speech limitation, and the city's jail capacity was strained.\n\nVigilantes began transporting arrested IWW members to the county border and beat them, and one city official who opposed the ordinance was threatened with lynching. Police indiscriminately used fire hoses on crowds of protestors, including women and children. By the fall of 1912, the protest movement petered out and the Free Speech Fight in San Diego was lost.`,
+        link: 'https://archive.iww.org/history/library/misc/DJones2005/',
+        infoSrc: 'https://libcom.org/history/1912-san-diego-free-spech-fight'
       },
     ],
     'Birthdays': [
@@ -4047,13 +4047,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 28, 1860',
+        title: 'Victor L. Berger (1860 - 1929)',
+        imgSrc: require('./assets/eventPhotos/Individuals/victorBerger.jpg'),
+        description: `Victor L. Berger, born on this day in 1860, was an Austrian-American socialist politician and journalist who was a founding member of the Social Democratic Party of America and its successor, the Socialist Party of America.\n\nBorn in Austria-Hungary, Berger immigrated to the United States as a young man and became an important and influential socialist journalist in Wisconsin, helping to establish the so-called "Sewer Socialist" movement. In 1910, he was elected as the first Socialist to the U.S. House of Representatives, representing a district in Milwaukee, Wisconsin.\n\nIn 1919, Berger was convicted of violating the Espionage Act for publicizing his anti-interventionist views and as a result was denied the seat to which he had been twice elected in the House of Representatives. The verdict was eventually overturned by the Supreme Court in 1921, and Berger was elected to three successive terms in the 1920s.`,
+        link: 'https://emke.uwm.edu/entry/victor-l-berger/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Victor_L._Berger'
       },
     ],
     'Assassinations': [
@@ -5901,13 +5901,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'March 26th, 1876',
+        title: `Kate O'Hare (1876 - 1948)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/kateOHare.jpg'),
+        description: `Carrie Katherine "Kate" Richards O'Hare, born on this day in 1876, was an American Socialist Party activist, editor, and orator best known for her controversial imprisonment during World War I and advocation for prison reform.\n\nFor giving an anti-war speech in Bowman, North Dakota, O'Hare was convicted and sent to prison by federal authorities for violating the Espionage Act of 1917, an act criminalizing interference with recruitment and enlistment of military personnel. With no federal penitentiaries for women existing at the time, she was delivered to Missouri State Penitentiary on a five-year sentence in 1919, but was pardoned in 1920 after a nationwide campaign to secure her release.`,
+        link: 'https://historicmissourians.shsmo.org/historicmissourians/name/o/ohare/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Kate_Richards_O%27Hare'
       },
     ],
     'Assassinations': [
@@ -6649,13 +6649,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 6th, 1882',
+        title: 'Rose Schneiderman (1882 - 1972)',
+        imgSrc: require('./assets/eventPhotos/Individuals/roseSchneiderman.jpg'),
+        description: `Rose Schneiderman, born on this day in 1882, was a Polish-born American socialist and feminist of Jewish heritage, and one of the most prominent female labor union leaders.\n\nAs a member of the New York Women's Trade Union League, she drew attention to unsafe workplace conditions following the Triangle Shirtwaist Factory fire of 1911, and as a suffragist she helped to pass the New York state referendum of 1917 that gave women the right to vote.\n\nSchneiderman was also a founding member of the American Civil Liberties Union and served on the National Recovery Administration's Labor Advisory Board under President Franklin D. Roosevelt. She is credited with coining the phrase "Bread and Roses" to indicate a worker's right to something higher than subsistence living.`,
+        link: 'https://jwa.org/encyclopedia/article/schneiderman-rose',
+        infoSrc: 'https://en.wikipedia.org/wiki/Rose_Schneiderman'
       },
     ],
     'Assassinations': [
@@ -6730,9 +6730,18 @@ export const eventLibrary = {
         date: 'April 7th, 1925',
         title: 'Edward Herman (1925 - 2017)',
         imgSrc: require('./assets/eventPhotos/Individuals/edwardHerman.jpg'),
-        description: `Edward Samuel Herman was an American economist, media scholar and social critic. Herman is known for his media criticism, in particular his propaganda model hypothesis developed with Noam Chomsky, a frequent co-writer.\n\nTheir most well-known work together is "Manufacturing Consent".`,
+        description: `Edward Samuel Herman was an American economist, media scholar and social critic. Herman is known for his media criticism, in particular his propaganda model hypothesis developed with Noam Chomsky, a frequent co-writer.\n\nTheir most well-known co-authored work is "Manufacturing Consent".`,
         link: 'https://en.wikipedia.org/wiki/Edward_S._Herman',
         infoSrc: 'https://en.wikipedia.org/wiki/Edward_S._Herman'
+      },
+      {
+        category: 'Birthdays',
+        date: 'April 7th, 1872',
+        title: 'William Monroe Trotter (1872 - 1934)',
+        imgSrc: require('./assets/eventPhotos/Individuals/williamTrotter.jpg'),
+        description: `William Monroe Trotter, born on this day in 1872, was a newspaper editor and real estate businessman based in Boston, Massachusetts, and an activist for African-American civil rights. He was an early opponent of the accommodationist race policies of Booker T. Washington, and in 1901 founded the Boston Guardian, an independent African-American newspaper he used to express that opposition.\n\nTrotter was a key founding member of the "Niagra Movement" with W.E.B. Du Bois and contributed to the formation of the National Association for the Advancement of Colored People (NAACP), although he never participated in the group after its formation due to a bitter split with Du Bois.`,
+        link: 'https://trotter.umich.edu/article/timeline-william-monroe-trotters-life',
+        infoSrc: 'https://en.wikipedia.org/wiki/William_Monroe_Trotter'
       },
     ],
     'Assassinations': [
@@ -12196,6 +12205,15 @@ export const eventLibrary = {
         link: 'https://www.pakistantoday.com.pk/2013/02/18/1984-an-interview-with-george-orwell/',
         infoSrc: 'https://en.wikipedia.org/wiki/George_Orwell'
       },
+      {
+        category: 'Birthdays',
+        date: 'June 25th, 1881',
+        title: 'Crystal Eastman (1881 - 1928)',
+        imgSrc: require('./assets/eventPhotos/Individuals/crystalEastman.jpg'),
+        description: `Crystal Catherine Eastman, born on this day in 1881, was an American lawyer, antimilitarist, feminist, socialist, and journalist.\n\nToday she is best remembered as a leader in the fight for women's suffrage, a co-founder of the radical arts and politics magazine The Liberator, co-founder of the Women's International League for Peace and Freedom, and co-founder in 1920 of the American Civil Liberties Union (ACLU).`,
+        link: 'https://www.aclu.org/other/crystal-eastman',
+        infoSrc: 'https://en.wikipedia.org/wiki/Crystal_Eastman'
+      },
     ],
     'Assassinations': [
       {
@@ -12768,13 +12786,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'July 3rd, 1860',
+        title: 'Charlotte Perkins Gilman (1860 - 1935)',
+        imgSrc: require('./assets/eventPhotos/Individuals/charlotteGilman.jpg'),
+        description: `Charlotte Perkins Gilman, born on this day in 1860, was a prominent American humanist, writer, socialist, and feminist. She was a utopian feminist and served as a role model for future generations of feminists because of her unorthodox concepts and lifestyle, such as leaving her husband (rare for the era) and living with another woman in what was possibly, though unconfirmed, a romantic relationship.\n\nGilman is best remembered today for her semi-autobiographical short story "The Yellow Wallpaper", which she wrote after a severe bout of postpartum psychosis and describes the way in which sick women were maligned in a sexist society She was also an advocate for assisted suicide for the chronically ill, and died from a self-inflicted chloroform overdose in 1935 when dying of breast cancer`,
+        link: 'https://www.gutenberg.org/files/1952/1952-h/1952-h.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman'
       },
     ],
     'Assassinations': [
@@ -13029,13 +13047,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 7th, 1903',
+        title: `March of the Mill Children (1903)`,
+        imgSrc: require('./assets/eventPhotos/Events/childrensMarch.jpg'),
+        description: `The March of the Mill Children was a three-week trek from Philadelphia to New York by striking child and adult textile workers launched on this day in 1903 by Mother Jones. At the time, approximately one out of six children under the age of sixteen were employed, according to the 1900 census.\n\nThe march began when Mother Jones tried to get newspapers to report on the conditions of child workers and they informed her that they would not run the stories about child labor because of the mill owners holding stock in the papers. Jones replied "Well, I've got stock in these little children and I'll arrange a little publicity."\n\nThe march successfully won that publicity, bringing national attention to the plight of working children. On July 29th, Jones and fellow marchers arrived at Roosevelt’s Sagamore Hill summer home, where he refused to meet with them. Although the strike was an initial failure, it galvanized support for anti-child labor laws to be passed on the national level, which finally occured with the Fair Labor Standards Act of 1938.`,
+        link: 'https://www.zinnedproject.org/news/tdih/mother-jones-march-mill-children/',
+        infoSrc: 'https://philadelphiaencyclopedia.org/archive/march-of-the-mill-children/'
       },
     ],
     'Birthdays': [
@@ -13334,13 +13352,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'July 11th, 1905',
+        title: 'Niagra Movement Founded (1905)',
+        imgSrc: require('./assets/eventPhotos/Events/niagraMovement.jpg'),
+        description: `The Niagara Movement was a black civil rights organization founded in 1905 by a group of black civil rights activists, led by W.E.B. Du Bois and William Monroe Trotter. It was named for the "mighty current" of change the group wanted to effect and Niagara Falls, near Fort Erie, Ontario, where the first meeting took place, on this day in July 1905. It is considered a precursor to the NAACP, which was founded by many of the same activists.\n\nThe Niagara Movement was organized to oppose racial segregation and disenfranchisement. It opposed what its members believed were policies of accommodation and conciliation promoted by African-American leaders such as Booker T. Washington. During this three day meeting, Monroe and Du Bois co-authored a "Declaration of Principles", which defined the group's philosophy and demands: politically, socially and economically (full text is linked under "Learn More" below).`,
+        link: 'https://glc.yale.edu/niagaras-declaration-principles-1905',
+        infoSrc: 'https://en.wikipedia.org/wiki/Niagara_Movement'
       },
     ],
   },
@@ -16184,13 +16202,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 22nd, 1909',
+        title: 'Pressed Steel Car Strike (1909)',
+        imgSrc: require('./assets/eventPhotos/Events/pressedSteelCarStrike.jpg'),
+        description: `The Pressed Steel Car Strike of 1909 was an American labor strike which lasted from July to September in Pittsburgh, Pennsylvania. The strike was triggered on July 10th, a payday on which many workers were shorter in their pay than usual. Management refused to speak with the workers' representatives and James Rider, manager of The Pressed Steel Car Company, responded to their strike by hiring Pearl Bergoff, a notorious owner of a strike-breaking paramilitary force.\n\nThe walkout drew national attention when it climaxed on this day in 1909, in a bloody battle between strikers, private security agents, and the Pennsylvania State Police. Sherrif Harry Exley, who had been assisting in evicting workers from their company homes, was killed by a mob of angry strikers. In the ensuing violence, at least between 12 and 26 people were killed.\n\nThe strike was settled on September 8th when Pressed Steel Car agreed to a wage increase, the posting of wage rates, and ending abuses in company housing practices. The Pressed Steel Car Strike was a precursor to the Great Steel Strike of 1919.`,
+        link: 'https://www.post-gazette.com/business/businessnews/2009/08/16/Pressed-Steel-Car-strike-in-McKees-Rocks-reaches-centennial-anniversary/stories/200908160200',
+        infoSrc: 'https://en.wikipedia.org/wiki/Pressed_Steel_Car_strike_of_1909'
       },
     ],
     'Birthdays': [
@@ -18205,7 +18223,7 @@ export const eventLibrary = {
         date: 'September 20th, 1899',
         title: 'Havana General Strike (1899)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: `In the aftermath of the U.S. military occupation of Cuba, a gathering of thousands of workers in Havana launched a general strike for the eight-hour day in September 1899. The striking workers issued a statement, saying "...we have determined to promote the struggle between the worker and the capitalist. For the workers of Cuba will no longer tolerate remaining in total subjection." The American General William Ludlow ordered the mayor of Havana to arrest eleven strike leaders, and U.S. troops occupied railroad stations and docks.\n\nOn this day that year, the Los Angeles Herald reported "The strike has assumed serious proportions. It is now estimated that there are 32,000 striking masons, painters, carpenters, cartmen and laundry workers, and if, as is threatened, the hackmen, stevedores and strike, within the next few days there will be another 4000...".`,
+        description: `In the aftermath of the U.S. military occupation of Cuba, a gathering of thousands of workers in Havana launched a general strike for the eight-hour day in September 1899.\n\nThe striking workers issued a statement, saying "...we have determined to promote the struggle between the worker and the capitalist. For the workers of Cuba will no longer tolerate remaining in total subjection." The American General William Ludlow ordered the mayor of Havana to arrest eleven strike leaders, and U.S. troops occupied railroad stations and docks.\n\nOn this day that year, the Los Angeles Herald reported "The strike has assumed serious proportions. It is now estimated that there are 32,000 striking masons, painters, carpenters, cartmen and laundry workers, and if, as is threatened, the hackmen, stevedores and strike, within the next few days there will be another 4000...".`,
         link: 'https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LAH18990921.2.97&e=-------en--20--1--txt-txIN--------1',
         infoSrc: 'https://www.historyisaweapon.com/defcon1/zinnempire12.html'
       },
@@ -18346,13 +18364,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'September 22nd, 1919',
+        title: 'Great Steel Strike of 1919',
+        imgSrc: require('./assets/eventPhotos/Events/greatSteelStrike.jpg'),
+        description: `The Great Steel Strike of 1919 was an attempt by the weakened Amalgamated Association of Iron, Steel and Tin Workers (AA) to organize the United States steel industry in the wake of World War I. The strike began on this day in 1919, shutting down half the steel industry, including almost all mills in Pueblo, Colorado; Chicago, Illinois, Wheeling, West Virginia; Johnstown, Pennsylvania; Cleveland, Ohio; Lackawanna, New York; and Youngstown, Ohio.\n\nPublic opinion was generally against the strike. Factory owners claimed that the steelworker strike was being masterminded by communists and revolutionaries (the October Revolution had occured less than two years prior), and played on nativist xenophobia by noting that a large number of steelworkers were immigrants.\n\nThe strike collapsed on January 8th, 1920, and the AA labor union was decimated in the aftermath of the strike's failure.`,
+        link: 'https://libcom.org/history/us-national-steel-strike-1919-jeremy-brecher',
+        infoSrc: 'https://en.wikipedia.org/wiki/Steel_strike_of_1919'
       },
     ],
     'Birthdays': [
@@ -18831,13 +18849,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'September 29th, 1909',
+        title: 'Missoula Free Speech Fight (1909)',
+        imgSrc: require('./assets/eventPhotos/Individuals/elizabethFlynn.jpg'),
+        description: `"Free Speech Fights" refers to to struggles over free speech involving the Industrial Workers of the World (IWW) in the early 20th century. The IWW members, along with other radical groups, were often met with opposition (violent and otherwise) from local governments and especially business leaders, in their attempts to exercise their right to free speech.\n\nOn this day in 1909, a 19 year old Elizabeth Gurley Flynn (a prominent member of the IWW) and her husband Jack Jones were arrested for speaking on a street corner in Missoula, Montana. Flynn put out the word, declaring, "we need volunteers to go to jail". IWW poured in from the surrounding territory, getting arrested and overwhelming the local jail facilities. Some were offered immediate release, but they refused and insisted on a jury trial to remain in jail.\n\nEventually, on October 8th, the city had had enough with the IWW members and dropped all charges related to the exercise of speech, allowing them to speak where they wished, provided they didn't block the flow of traffic.`,
+        link: 'https://en.wikipedia.org/wiki/Free_speech_fights#Missoula_free_speech_fight',
+        infoSrc: 'https://libcom.org/history/1909-missoula-free-speech-fight'
       },
     ],
     'Birthdays': [
@@ -19171,13 +19189,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'October 4th, 1907',
+        title: 'General Levee Strike (1907)',
+        imgSrc: require('./assets/eventPhotos/Events/newOrleans1907.jpg'),
+        description: `In the autumn of 1907, both black and white longshore workers launched an extended general strike against their shipping company employers. The general strike began as a sympathy strike with screwmen (skilled workers responsible for tightly compressing and packing cotton bales into the holds of ships).\n\nOn this day in 1907, all of the shipping lines locked out the screwmen, black and white alike, for failing to meet employer bale quotas. 9,000 dockworkers, black and white, struck the New Orleans port that evening in a show of solidarity with the screwmen. Freight handlers from the Southern Pacific line also struck, ending any work on the port.\n\nDuring the second week of the strike, employers launched strong attempts to create a racial break among the black and white strikers. Shippers also revived the White League, a group designed to intimidate black strikers. Despite the attempts, strikers remained united, with some unions noting that if the employers played successfully played one racial group against the other, they would all face starvation wages. The strike lasted twenty days, ending on October 24th, and striking workers won most of their demands.`,
+        link: 'https://en.wikipedia.org/wiki/New_Orleans_dock_workers_and_unionization#The_1907_General_Levee_Strike',
+        infoSrc: 'https://en.wikipedia.org/wiki/New_Orleans_dock_workers_and_unionization#The_1907_General_Levee_Strike'
       },
     ],
     'Birthdays': [
@@ -19323,8 +19341,17 @@ export const eventLibrary = {
         title: 'Fannie Lou Hamer (1917 - 1977)',
         imgSrc: require('./assets/eventPhotos/Individuals/fannieLouHamer.jpg'),
         description: `Fannie Lou Hamer was an American voting and women's rights activist, community organizer, and a leader in the civil rights movement. She was the co-founder and vice-chair of the Freedom Democratic Party, which she represented at the 1964 Democratic National Convention. She was also a co-founder of the National Women's Political Caucus, an organization created to recruit, train, and support women of all races who wish to seek election to government office.\n\nWhile having surgery in 1961 to remove a tumor, 44-year-old Hamer was also given a hysterectomy without consent by a white doctor; this was a frequent occurrence under Mississippi's compulsory sterilization plan to reduce the number of poor blacks in the state. Hamer is credited with coining the phrase "Mississippi appendectomy" as a euphemism for the involuntary or uninformed sterilization of black women, common in the South in the 1960s.\n\nHamer was extorted, threatened, harassed, shot at, and assaulted by white supremacists and police while trying to register for and exercise her right to vote. She later helped and encouraged thousands of African-Americans in Mississippi to become registered voters, and helped hundreds of disenfranchised people in her area through her work in programs like the Freedom Farm Cooperative, which she formed to subvert state oppression of black people in the agricultural industry.`,
-        link: 'https://en.wikipedia.org/wiki/Fannie_Lou_Hamer',
+        link: 'https://americanarchive.org/catalog/cpb-aacip_28-bg2h70895r',
         infoSrc: 'https://en.wikipedia.org/wiki/Fannie_Lou_Hamer'
+      },
+      {
+        category: 'Birthdays',
+        date: 'October 6th, 1885',
+        title: `"Smiling Joe" Ettor (1885 - 1948)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/joeEttor.jpg'),
+        description: `Joseph James "Smiling Joe" Ettor, born on this day in 1885, was an Italian-American trade union organizer who, in the middle-1910s, was one of the leading public faces of the Industrial Workers of the World (IWW). Although he is best remembered for his role in the Lawrence Textile Strike of 1912, Ettor had been active in several strikes in the years leading up to it. He was also governing General Executive Board of the IWW from 1908-1914.\n\nEttor was particularly useful for organizing immigrant workers because he could speak five languages, and he used these skills as a leader of the Lawrence Textile Strike. During the strike, a worker was shot and killed, and he and the other IWW leader present, Arturo Giovannitti, were arrested as accomplices on little to no evidence. The arrests were controversial, and both were eventually acquitted of charges of having been an accessory to the murder.`,
+        link: 'https://libcom.org/history/joseph-ettor-1885-1948',
+        infoSrc: 'https://en.wikipedia.org/wiki/Joseph_James_Ettor'
       },
     ],
     'Assassinations': [
@@ -19402,6 +19429,15 @@ export const eventLibrary = {
         description: `Desmond Mpilo Tutu, born on this day in 1931, is a South African Anglican cleric and theologian known for his work as an anti-apartheid and human rights activist.\n\nHe was the Bishop of Johannesburg from 1985 to 1986 and then the Archbishop of Cape Town from 1986 to 1996, in both cases being the first black African to hold the position. Theologically, he sought to fuse ideas from black theology with African theology.`,
         link: 'https://www.pbs.org/wgbh/pages/frontline/shows/mandela/interviews/tutu.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Desmond_Tutu'
+      },
+      {
+        category: 'Birthdays',
+        date: 'October 7th, 1879',
+        title: 'Joe Hill (1879 - 1915)',
+        imgSrc: require('./assets/eventPhotos/Individuals/joeHill.jpg'),
+        description: `Joe Hill, born on this day in 1879, was a Swedish-American labor activist, songwriter, and member of the Industrial Workers of the World (IWW). Hill, an immigrant worker frequently facing unemployment and underemployment, became a popular songwriter and cartoonist for the union. His most famous songs include "The Preacher and the Slave", "There Is Power in a Union", and "Casey Jones—the Union Scab", which describes the harsh lives itinerant workers, and call for them to organize to improve their working conditions.\n\nIn 1914, John G. Morrison, a Salt Lake City area grocer and former policeman, and his son were shot and killed by two men. The same evening, Hill arrived at a doctor's office with a gunshot wound, and briefly mentioned a fight over a woman. He refused to explain further, even after he was accused of the grocery store murders on the basis of his injury. Hill was convicted of the murders in a controversial trial and executed on November 19th, despite widespread calls for clemency, including from President Woodrow Wilson and Helen Keller.`,
+        link: 'https://aflcio.org/about/history/labor-history-people/joe-hill',
+        infoSrc: 'https://en.wikipedia.org/wiki/Joe_Hill'
       },
     ],
     'Assassinations': [
@@ -21393,6 +21429,15 @@ export const eventLibrary = {
         link: 'https://uncpress.org/book/9780807848296/black-marxism/',
         infoSrc: 'https://en.wikipedia.org/wiki/Cedric_Robinson'
       },
+      {
+        category: 'Birthdays',
+        date: 'November 5th, 1857',
+        title: 'Ida Tarbell (1857 - 1944)',
+        imgSrc: require('./assets/eventPhotos/Individuals/idaTarbell.jpg'),
+        description: `Ida Minerva Tarbell, born on this day in 1857, was an American writer, investigative journalist, biographer, feminist, and lecturer. She was one of the leading muckrakers of the late 19th and early 20th centuries and pioneered investigative journalism. Born in Pennsylvania at the onset of the oil boom,\n\nTarbell is best known for her 1904 book, The History of the Standard Oil Company. It has been called a "masterpiece of investigative journalism", by historian J. North Conway, as well as "the single most influential book on business ever published in the United States" by historian Daniel Yergin.\n\nThe work would contribute to the dissolution of the Standard Oil monopoly and helped usher in multiple pieces of anti-trust reform, including the Clayton Antitrust Act and the creation of the Federal Trade Commission (FTC).`,
+        link: 'https://www.smithsonianmag.com/history/the-woman-who-took-on-the-tycoon-651396/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ida_Tarbell'
+      },
     ],
     'Assassinations': [
       {
@@ -22366,13 +22411,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'November 19th, 1915',
+        title: 'Joe Hill (1879 - 1915)',
+        imgSrc: require('./assets/eventPhotos/Individuals/joeHill.jpg'),
+        description: `Joe Hill, born on October 7th 1879, was a Swedish-American labor activist, songwriter, and member of the Industrial Workers of the World (IWW). Hill, an immigrant worker frequently facing unemployment and underemployment, became a popular songwriter and cartoonist for the union. His most famous songs include "The Preacher and the Slave", "There Is Power in a Union", and "Casey Jones—the Union Scab", which describes the harsh lives itinerant workers, and call for them to organize to improve their working conditions.\n\nIn 1914, John G. Morrison, a Salt Lake City area grocer and former policeman, and his son were shot and killed by two men. The same evening, Hill arrived at a doctor's office with a gunshot wound, and briefly mentioned a fight over a woman. He refused to explain further, even after he was accused of the grocery store murders on the basis of his injury. Hill was convicted of the murders in a controversial trial and executed on this day in 1915, despite widespread calls for clemency, including from President Woodrow Wilson and Helen Keller.\n\nAfter his arrest, Hill wrote the following about his case: "Owing to the prominence of Mr. Morrison, there had to be a 'goat' [scapegoat] and the undersigned being, as they thought, a friendless tramp, a Swede, and worst of all, an IWW, had no right to live anyway, and was therefore duly selected to be 'the goat'."`,
+        link: 'https://aflcio.org/about/history/labor-history-people/joe-hill',
+        infoSrc: 'https://en.wikipedia.org/wiki/Joe_Hill'
       },
     ],
     'Other': [
