@@ -4349,6 +4349,15 @@ export const eventLibrary = {
         link: 'https://www.historyisaweapon.com/defcon1/zinnother10.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Enrollment_Act'
       },
+      {
+        category: 'Other',
+        date: 'March 3rd, 1919',
+        title: 'Schenk v. United States (1919)',
+        imgSrc: require('./assets/eventPhotos/Individuals/charlesSchenck.jpg'),
+        description: `Schenck v. United States, decided on this day in 1919, helped define the limits of the First Amendment right to free speech, particularly during wartime. The ruling created the "clear and present danger" standard, which explains when the consequences of speech allow the government to limit it.\n\nIn this case, the court ruled that encouraging would-be soldiers to resist the draft was not protected by the 1st amendment. The Supreme Court made this ruling unanimously, upholding socialist activist Charles Schenck’s conviction under the Espionage Act of 1917, after he distributed leaflets urging young men to resist the draft during World War I.`,
+        link: 'https://en.wikipedia.org/wiki/Schenck_v._United_States',
+        infoSrc: 'http://landmarkcases.c-span.org/Case/5/Schenck-v-United-States#:~:text=Charles%20Schenck%20was%20arrested%20under,ruled%20to%20uphold%20the%20Act.'
+      },
     ],
   },
   '3-4': {
@@ -5642,13 +5651,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 22nd, 1917',
+        title: 'American Protective League (1917)',
+        imgSrc: require('./assets/eventPhotos/Organizations/americanProtectiveLeague.jpg'),
+        description: `The American Protective League (APL, 1917 - 1919) was a volunteer organization of private citizens that worked with Federal law enforcement agencies during the World War I era to identify suspected German sympathizers and to counteract the activities of radicals, anarchists, anti-war activists, and left-wing labor and political organizations.\n\nOn this day in 1917, the APL got formal approval from the Department of Justice, and later received authorization from the Attorney General to carry on its letterhead the words "Organized with the Approval and Operating under the Direction of the United States Department of Justice, Bureau of Investigation."\n\nTeams of APL members conducted numerous raids and surveillance activities aimed at those who failed to register for the draft and at German immigrants who were suspected of sympathies for Germany. The APL was also accused of illegally detaining citizens associated with anarchist, labor, and pacifist movements. Thousands of APL members joined authorities in New York City for three days of checking registration cards, resulting in more than 75,000 arrests.\n\nThe APL formally disbanded a few months after the conclusion of World War I.`,
+        link: 'https://www.whitehousehistory.org/the-american-protective-league-and-white-house-security-during-world-war-one',
+        infoSrc: 'https://en.wikipedia.org/wiki/American_Protective_League'
       },
     ],
   },
@@ -6306,6 +6315,15 @@ export const eventLibrary = {
         link: 'https://libcom.org/files/stockade-stood-burning-rebellion-and-convict-lease-tennessees-coalfields-1891-1895-1.pdf',
         infoSrc: 'https://en.wikipedia.org/wiki/Coal_Creek_War'
       },
+      {
+        category: 'Labor',
+        date: 'April 1st, 1918',
+        title: 'IWW Espionage Trial Begins (1918)',
+        imgSrc: require('./assets/eventPhotos/Events/iwwTrial.jpg'),
+        description: `Using the newly passed Espionage Act of 1917 as justification, the Department of Justice raided forty-eight International Workers of the World (IWW) meeting halls on September 5th, 1917. The Department of Justice, with the approval of President Woodrow Wilson, then proceeded to arrest 165 IWW members for "conspiring to hinder the draft, encourage desertion, and intimidate others in connection with labor disputes."\n\nOf the 165 arrested, only 101 actually stood trial. The trial, which began on this day the next year, was unusual in the way that the prosection did not try to demonstrate the guilt of individuals, but rather to indict the IWW as a whole, by reading inflammatory passages from seized documents; accordingly, the defense testified about the plight of the working man and the evils of capitalism.\n\nAll defendants were found guilty on all charges brought by the prosecution, and many IWW members served several years in prison. Among those convicted was the "Big Bill" Haywood, a well-known leader of the IWW, however he skipped bail before his sentencing and fled to the Soviet Union, where he would spend the rest of his life.`,
+        link: 'https://www.thenation.com/article/archive/iww-trial/',
+        infoSrc: 'https://depts.washington.edu/iww/justice_dept.shtml'
+      },
     ],
     'Birthdays': [
       {
@@ -6757,13 +6775,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 7th, 1917',
+        title: 'Socialist Party of America Convention (1917)',
+        imgSrc: require('./assets/eventPhotos/Organizations/socialistPartyUSA.png'),
+        description: `On this day in 1917, a few hundred members of the Socialist Party of America (SPA) gathered at Planters Hotel in St. Louis, Missouri, for an emeregency meeting regarding the U.S.'s entry to World War I. The gathering was called by the governing National Executive Committee of the SPA to make clear the Socialist Party's position on American entry into World War I, although it was controversial whether or not the committee had the authority to do this within the party.\n\nRegardless, the emergency convention ratified the "St. Louis Resolution on War and Militarism", a lengthy and radical document, which reaffirmed the SPA's "unalterable opposition to the war just declared by the government of the United States," branding American entry "a crime against the people of the United States and against the nations of the world."\n\nThe resolution pledged the Socialist Party to "continuous, active, and public opposition to the war, through demonstrations, mass petitions, and all other means within our power" and promised to conduct "consistent propaganda against military training" and "vigorous resistance" to "all reactionary measures," such as conscription, postal and press censorship, and restrictions upon free speech and freedom of assembly. These measures would soon be made illegal with the 1917 Espionage Act, passed later that year.`,
+        link: 'https://www.marxists.org/history/usa/parties/spusa/1917/0407-hillquit-convkeynote.pdf',
+        infoSrc: 'https://en.wikipedia.org/wiki/Socialist_Party_of_Missouri#Emergency_National_Convention'
       },
     ],
   },
@@ -8534,13 +8552,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 3rd, 1920',
+        title: `Andrea Salsedo's Body Found (1920)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/andreaSalsedo.jpg'),
+        description: `Andrea Salsedo (1881 - 1920) was an Italian anarchist and associate of Luigi Galleani. A committed anarchist since his youth, Salsedo soon became involved in local politics, and was part of the anarchist club Circolo Sociale founded by Galleani, who was in Italy on exile. There he met his friend Galleani and supported him in the creation and distribution of, as well as writing for, his magazine "Cronaca Sovversiva".\n\nAll associates of Galleani were put under surveillance by the U.S. government because of suspected bombings by anarchists, typically targeting wealthy capitalists or building associated with them. On Feburary 25th, 1920, he was arrested, held without any allowed communication or trial for eight weeks, and beaten. On this day that year, his body was discovered on the ground outside the office where he was held, presumably having fallen 14 stories. The cause of his death, suicide or homicide, remains disputed.`,
+        link: 'https://libcom.org/history/andrea-salsedo-pantelleria',
+        infoSrc: 'https://en.wikipedia.org/wiki/Andrea_Salsedo'
       },
     ],
   },
@@ -10410,6 +10428,15 @@ export const eventLibrary = {
         link: 'https://en.wikipedia.org/wiki/Mikhail_Bakunin',
         infoSrc: 'https://en.wikipedia.org/wiki/Mikhail_Bakunin',
       },
+      {
+        category: 'Birthdays',
+        date: 'May 30th, 1886',
+        title: 'Randolph Bourne (1886 - 1918)',
+        imgSrc: require('./assets/eventPhotos/Individuals/randolphBourne.jpg'),
+        description: `Randolph Silliman Bourne, born on this day in 1918, was a progressive writer, disability advocate, and pacifist born in Bloomfield, New Jersey and a graduate of Columbia University. He is considered to be a spokesman for the young radical voices during World War I.\n\nBourne is best known for his essays, especially his unfinished work "The State," discovered after he died. In this essay, he coined the well-known phrase "war is the health of the state," by which Bourne lamented governments' success at arrogating authority and resources during conflicts.\n\nBourne was also disfigured from a difficult birth and suffered from tuberculosis of the spine at a young age, resulting in stunted growth and a hunched back. Bourne chronicled these life experiences in his essay "The Handicapped - by one of them", now considered a foundational work in disability studies.`,
+        link: 'http://c250.columbia.edu/c250_celebrates/remarkable_columbians/randolph_bourne.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Randolph_Bourne'
+      },
     ],
     'Assassinations': [
       {
@@ -11534,7 +11561,7 @@ export const eventLibrary = {
         date: 'June 15th, 1917',
         title: 'Espionage Act (1917)',
         imgSrc: require('./assets/eventPhotos/Events/espionageAct.jpg'),
-        description: `The Espionage Act of 1917 is a United States federal law passed on June 15, 1917, shortly after the U.S. entry into World War I. Within a month of the law's passing, the Department of Justice used it as a justification to raid International Worker's of the World (IWW) headquarters, seizing property and arresting over one hundred members on various charges.\n\nAmong those charged with offenses under the Act are Victor L. Berger, Eugene V. Debs, Emma Goldman, Alexander Berkman, Julius and Ethel Rosenberg, Daniel Ellsberg, Chelsea Manning, Julian Assange, and Edward Snowden.\n\nA 2015 study by the PEN American Center found that almost all of the non-government representatives they interviewed, including activists, lawyers, journalists and whistleblowers, "thought the Espionage Act had been used inappropriately in leak cases that have a public interest component." PEN wrote, "experts described it as 'too blunt an instrument,' 'aggressive, broad and suppressive,' a 'tool of intimidation,' 'chilling of free speech,' and a 'poor vehicle for prosecuting leakers and whistleblowers.'"`,
+        description: `The Espionage Act of 1917 is a United States federal law passed on this day in 1917, shortly after the U.S. entry into World War I. Within a month of the law's passing, the Department of Justice used it as a justification to raid International Worker's of the World (IWW) headquarters, seizing property and arresting over one hundred members on various charges.\n\nAmong those charged with offenses under the Act are Victor L. Berger, Eugene V. Debs, Emma Goldman, Alexander Berkman, Julius and Ethel Rosenberg, Daniel Ellsberg, Chelsea Manning, Julian Assange, and Edward Snowden.\n\nA 2015 study by the PEN American Center found that almost all of the non-government representatives they interviewed, including activists, lawyers, journalists and whistleblowers, "thought the Espionage Act had been used inappropriately in leak cases that have a public interest component." PEN wrote, "experts described it as 'too blunt an instrument,' 'aggressive, broad and suppressive,' a 'tool of intimidation,' 'chilling of free speech,' and a 'poor vehicle for prosecuting leakers and whistleblowers.'"`,
         link: 'https://pen.org/sites/default/files/Secret%20Sources%20report.pdf',
         infoSrc: 'https://en.wikipedia.org/wiki/Espionage_Act_of_1917'
       },
@@ -12667,9 +12694,18 @@ export const eventLibrary = {
         date: 'July 1st, 1917',
         title: 'St. Louis Race Massacre (1917)',
         imgSrc: require('./assets/eventPhotos/Events/stLouisMassacre.jpeg'),
-        description: `The city of East St. Louis, Illinois was the scene of one of the bloodiest race riots in the 20th century.  Racial tensions began to increase in February, 1917 when 470 African American workers were hired to replace white workers who had gone on strike against the Aluminum Ore Company. The use of non-white strikebreaking workers often fractured class solidarity along racial lines.\n\nAt a city council meeting, angry white workers lodged formal complaints against black migrations to the Mayor of East St. Louis. After the meeting had ended, news of an attempted robbery of a white man by an armed black man began to circulate through the city. As a result of this news, white mobs formed and rampaged through downtown, beating all African Americans who were found. The mobs also stopped trolleys and streetcars, pulling black passengers out and beating them on the streets and sidewalks.\n\nIn spite of this terrorization of the black community, no meanginful protection or reform was offered by the city government. On this day in 1917, the racial violence resumed at a fever pitch, with white mobs gunning down men, women, and children and burning down the homes of black families with them trapped inside. Over one hundred black people were killed.`,
+        description: `The city of East St. Louis, Illinois was the scene of one of the bloodiest race riots in the 20th century. Racial tensions began to increase in February, 1917 when 470 African American workers were hired to replace white workers who had gone on strike against the Aluminum Ore Company. The use of non-white strikebreaking workers often fractured class solidarity along racial lines.\n\nAt a city council meeting, angry white workers lodged formal complaints against black migrations to the Mayor of East St. Louis. After the meeting had ended, news of an attempted robbery of a white man by an armed black man began to circulate through the city. As a result of this news, white mobs formed and rampaged through downtown, beating all African Americans who were found. The mobs also stopped trolleys and streetcars, pulling black passengers out and beating them on the streets and sidewalks.\n\nIn spite of this terrorization of the black community, no meanginful protection or reform was offered by the city government. On this day in 1917, the racial violence resumed at a fever pitch, with white mobs gunning down men, women, and children and burning down the homes of black families with them trapped inside. Over one hundred black people were killed.`,
         link: 'https://www.smithsonianmag.com/smithsonian-institution/east-st-louis-race-riot-left-dozens-dead-devastating-community-on-the-rise-180963885/?fbclid=IwAR1t-1N7GGCk6c62UHzz9ooslraSFEGeoEq_-qBlqgdM5xjh7ZVrvnSIoZ8',
         infoSrc: 'https://www.blackpast.org/african-american-history/east-st-louis-race-riot-1917/'
+      },
+      {
+        category: 'Other',
+        date: 'July 1st, 1917',
+        title: 'Boston Anti-War Parade (1917)',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: `On this day in 1917, radicals organized a parade in Boston against the war, with banners:\n\nIS THIS A POPULAR WAR, WHY CONSCRIPTION?\n\nWHO STOLE PANAMA? WHO CRUSHED HAITI?\n\nWE DEMAND PEACE.\n\nThe New York Call said eight thousand people marched, including "4000 members of the Central Labor Union, 2000 members of the Leftist Socialist Organizations, 1500 Lithuanians, Jewish members of cloak trades, and other branches of the party." The parade was attacked by soldiers and sailors, on orders from their officers.`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnwarhea14.html',
+        infoSrc: 'https://www.historyisaweapon.com/defcon1/zinnwarhea14.html'
       },
     ],
   },
@@ -17165,10 +17201,10 @@ export const eventLibrary = {
       {
         category: 'Labor',
         date: 'September 5th, 1917',
-        title: 'DoJ raids IWW HQ (1917)',
+        title: 'IWW Headquarters Raided (1917)',
         imgSrc: require('./assets/eventPhotos/Individuals/haywoodMugshot.jpg'),
-        description: `Using the newly passed Espionage Act of 1917 as justification, the Department of Justice raided forty-eight IWW meeting halls on September 5, 1917. The Department of Justice, with the approval of President Woodrow Wilson, then proceeded to arrest 165 IWW members for "conspiring to hinder the draft, encourage desertion, and intimidate others in connection with labor disputes."\n\nAmong those arrested was the well-known "Big Bill" Haywood, a radical labor organizer. He was successfully convicted, and skipped bail before his sentencing, fleeing to the Soviet Union and acting as a labor advisor to Vladimir Lenin.`,
-        link: '',
+        description: `Using the newly passed Espionage Act of 1917 as justification, the Department of Justice raided forty-eight International Workers of the World (IWW) meeting halls on this day in 1917. The Department of Justice, with the approval of President Woodrow Wilson, then proceeded to arrest 165 IWW members for "conspiring to hinder the draft, encourage desertion, and intimidate others in connection with labor disputes."\n\nOf the 165 arrested, only 101 actually stood trial. The trial was unusual in the way that the prosection did not try to demonstrate the guilt of individuals, but rather to indict the IWW as a whole, by reading inflammatory passages from seized documents; accordingly, the defense testified about the plight of the working man and the evils of capitalism.\n\nAll defendants were found guilty on all charges brought by the prosecution, and many IWW members served several years in prison. Among those convicted was the "Big Bill" Haywood, a well-known leader of the IWW, however he skipped bail before his sentencing and fled to the Soviet Union, where he would spend the rest of his life.`,
+        link: 'https://www.nytimes.com/1918/04/01/archives/iww-trial-starts-today-fate-of-syndicalist-movement-in-america.html',
         infoSrc: 'https://depts.washington.edu/iww/justice_dept.shtml'
       },
     ],
@@ -21605,6 +21641,15 @@ export const eventLibrary = {
         link: 'https://www.historyisaweapon.com/defcon1/zinnint6.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Anne_Hutchinson#Civil_trial:_day_1'
       },
+      {
+        category: 'Other',
+        date: 'November 7th, 1919',
+        title: 'Palmer Raids Begin (1919)',
+        imgSrc: require('./assets/eventPhotos/Individuals/agPalmer.jpg'),
+        description: `The Palmer Raids were a series of raids conducted in November 1919 and January 1920 during the First Red Scare by the United States Department of Justice under the administration of President Woodrow Wilson. The raids targeted suspected leftists and labor activists, mostly Italian and Eastern European immigrants, especially if they were anarchists or communists, and generally sought to deport them from the United States.\n\nThe raids and arrests occurred under the leadership of Attorney General A. Mitchell Palmer, with more than 3,000 arrested. Though 556 people were deported, including many prominent leftist leaders like Emma Goldman, Palmer's efforts were largely frustrated by officials at the U.S. Department of Labor, which had authority for deportations and objected to methods.\n\nThe first raid took place on this day in 1919, when agents of the Bureau of Investigation working with local police executed a series of well-publicized and violent raids against the Union of Russian Workers in twelve cities. Newspaper accounts reported some were "badly beaten" during the arrests. The American Civil Liberties Union (ACLU) was founded in direct response to this xenophobic and political persecution.`,
+        link: 'https://immigrationhistory.org/item/the-palmer-raids/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Palmer_Raids'
+      },
     ],
   },
   '11-8': {
@@ -21878,13 +21923,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'November 11th, 1919',
+        title: 'Centralia Massacre (1919)',
+        imgSrc: require('./assets/eventPhotos/Events/centraliaMassacre.jpg'),
+        description: `The Centralia Massacre, also known as the Centralia Conspiracy and the Armistice Day Riot, was a violent and bloody incident that occurred in Centralia, Washington, on this day in 1919, during a parade celebrating the first anniversary of Armistice Day. The conflict was an armed shootout between members of the local American Legion and International Workers of the World (IWW) members.\n\nOn Armistice Day, celebrating the end of World War I, American Legion members went on parade throughout the city. They stopped in front of the IWW hall, and gunfire broke out, killing two American Legion members immediately. The Legion members stormed the IWW hall, and several more people more shot.\n\nMany IWW members were arrested following the incident. Wesley Everest, an IWW member who had shot multiple Legion members while fleeing the IWW hall, was taken from the jail and lynched by an angry mob. Seven IWW members were convicted on murder charges. In all, five people were killed and three people were injured.`,
+        link: 'https://www.washingtonpost.com/outlook/2019/11/11/why-massacre-centralia-years-ago-is-critically-important-today/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Centralia_massacre_(Washington)'
       },
     ],
   },
