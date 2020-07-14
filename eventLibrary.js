@@ -2293,13 +2293,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 3rd, 1919',
+        title: '54-48 Strike (1919)',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: `On this day in 1919, between 17,000 and 30,000 immigrant workers walked out of mills throughout Lawrence, Massachusetts and began the '54-48' strike. It was named that because one of the workers' demands was to reduce the workweek from 54 to 48 hours without a reduction in pay.\n\nThe strikers organized themselves among twenty different ethnic groups, with one leader per group. Ethnic store and businesses supported the strikers by accepting coupons in place of cash and the strikers boycotted stores that did not support the strike.\n\nStrikers violently harassed by the police and community - with cops beating and arresting protestors and two strike leaders being kidnapped and taken out of town by unknown assailants. The strike ended on May 20th with workers not only winning the 48 hour work week, but a 15% wage increase as well.`,
+        link: 'https://www.ofaplace.com/home/the-return-of-the-jedi-the-lawrence-textile-strike-of-1919',
+        infoSrc: 'https://nvdatabase.swarthmore.edu/content/lawrence-mill-workers-strike-against-wage-cuts-1919'
       },
     ],
     'Birthdays': [
@@ -2308,7 +2308,7 @@ export const eventLibrary = {
         date: 'February 3rd, 1821',
         title: 'Elizabeth Blackwell (1821 - 1910)',
         imgSrc: require('./assets/eventPhotos/Individuals/elizabethBlackwell.jpg'),
-        description: `Elizabeth Blackwell, born on this day in 1821, was a British physician, notable as the first woman to receive a medical degree in the United States, and the first woman on the Medical Register of the General Medical Council. Blackwell played an important role in both the United States and the United Kingdom as a social awareness and moral reformer, and pioneered in promoting education for women in medicine.\n\nBlackwell also founded the "New York Dispensary for Indigent Women and Children" to, in her words, "give poor women an opportunity of consulting physicians of their own sex". Her contributions remain celebrated with the Elizabeth Blackwell Medal, awarded annually to a woman who has made significant contribution to the promotion of women in medicine.`,
+        description: `Elizabeth Blackwell, born on this day in 1821, was a British physician, notable as the first woman to receive a medical degree in the United States, and the first woman on the Medical Register of the General Medical Council. Blackwell played an important role in both the United States and the United Kingdom as a social awareness and moral reformer, and was a pioneer in promoting education for women in medicine.\n\nBlackwell also founded the "New York Dispensary for Indigent Women and Children" to, in her words, "give poor women an opportunity of consulting physicians of their own sex". Her contributions remain celebrated with the Elizabeth Blackwell Medal, awarded annually to a woman who has made significant contribution to the promotion of women in medicine.`,
         link: 'https://en.wikipedia.org/wiki/NewYork-Presbyterian_Lower_Manhattan_Hospital',
         infoSrc: 'https://en.wikipedia.org/wiki/Elizabeth_Blackwell'
       },
@@ -2510,7 +2510,7 @@ export const eventLibrary = {
         date: 'February 6th, 1919',
         title: 'Seattle General Strike (1919)',
         imgSrc: require('./assets/eventPhotos/Events/seattleGeneralStrike.jpg'),
-        description: `The Seattle General Strike of 1919 was a five-day general work stoppage by more than 65,000 workers in the city of Seattle, Washington from February 6 to 11. Dissatisfied workers in several unions began the strike to gain higher wages after two years of World War I wage controls. Government officials, the press, and much of the public viewed the strike as a radical attempt to subvert American institutions.\n\nDuring the strike, a cooperative body made up of rank and file workers from all the striking locals was formed, called the General Strike Committee. It acted as a "virtual counter-government for the city." The committee organized to provide essential services for the people of Seattle during the work stoppage. A system of food distribution was also established, which distributed as many as 30,000 meals each day.\n\nArmy veterans created an alternative to the police in order to maintain order. A group called the "Labor War Veteran's Guard" forbade the use of force and did not carry weapons, and used "persuasion only." Major General John F. Morrison, stationed in Seattle, claimed that he had never seen "a city so quiet and orderly."\n\nImmediately following the general strike's end, thirty-nine IWW members were arrested as "ringleaders of anarchy", despite their playing a marginal role in the development of events.`,
+        description: `The Seattle General Strike of 1919 was a five-day general work stoppage by approximately 100,000 workers in the city of Seattle, Washington that began on this day in history. Dissatisfied workers in several unions began the strike to gain higher wages after two years of World War I wage controls. Government officials, the press, and much of the public viewed the strike as a radical attempt to subvert American institutions.\n\nDuring the strike, a cooperative body made up of rank and file workers from all the striking locals was formed, called the General Strike Committee. It acted as a "virtual counter-government for the city." The committee organized to provide essential services for the people of Seattle during the work stoppage. A system of food distribution was also established, which distributed as many as 30,000 meals each day.\n\nArmy veterans created an alternative to the police in order to maintain order. A group called the "Labor War Veteran's Guard" forbade the use of force and did not carry weapons, and used "persuasion only." Major General John F. Morrison, stationed in Seattle, claimed that he had never seen "a city so quiet and orderly."\n\nImmediately following the general strike's end, the Socialist Party headquarters was raided by police, and thirty-nine IWW members were arrested as "ringleaders of anarchy" despite playing a marginal role in the strike's development.`,
         link: 'http://depts.washington.edu/labhist/strike/index.shtml',
         infoSrc: 'https://en.wikipedia.org/wiki/Seattle_General_Strike'
       },
@@ -3059,13 +3059,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 14th, 1936',
+        title: 'Akron Rubber Strike (1936)',
+        imgSrc: require('./assets/eventPhotos/Events/akronSitDown.jpg'),
+        description: `From 1933 to 1936, auto factory workers in Akron Ohio frequently engaged in labor strikes and protest. This group was among the earliest to use the effective "sit-down" strike, which involved sitting down on the job and refusing to work as a bargaining measure. On this day in 1936, a large picket strike known as the Akron Rubber Strike began.\n\nThe catalyst for the strike was a round of layoffs that put 700 people out of work a Goodyear plant. Throughout the strike, there were as many as 10,000 workers that picketed around the many gates of the Goodyear factory. Police were unable to enforce an injuction against mass picketing because of the size of the crowd. A private force of about 5,200 people, known as the "Law and Order League", financially funded by Goodyear, and managed by a former mayor of Akron, were prepared to attack the striking workers if told to do so.\n\nThe Summit County Central Labor Council was able to convince the Law and Order League to not attack the striking workers, and violence was averted. The Council also threatened a general strike if there were violent attacks on picketing workers, further dissauding anti-strike attacks. After a month of striking, the workers won their terms and the sit-down strike quickly spread to other parts of the auto industry.`,
+        link: 'https://libcom.org/history/akron-rubber-workers-struggles-1933-1936-jeremy-brecher',
+        infoSrc: 'https://en.wikipedia.org/wiki/Akron_rubber_strike_of_1936#Picket_strike_of_February%E2%80%93March_1936'
       },
     ],
     'Birthdays': [
@@ -4001,13 +4001,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'February 27th, 1939',
+        title: 'NLRB v. Fansteel Metallurgical Corporation (1939)',
+        imgSrc: require('./assets/eventPhotos/Events/fansteelStrikers.jpg'),
+        description: `In the late 1930s, sit-down strikes had become prevalent in the auto industry and were particularly effective at winning worker demands. In a sit-down strike, workers stay by their station in the factory but refuse to work it. Factory management was usually reluctant to try and force workers out of the factory for fear of damaging expensive machinery, and often capitulated to them.\n\nOn February 17, 1937, workers frustrated by failed attempts at getting Fansteel to recognize their union announced a sit-down strike and seized a portion of their factory. The employer won an injunction ordering the union men to vacate the premises, which they ignored, but were ultimately forced out. The NLRB held on March 14, 1938, that Fansteel had to reinstate 90 of the workers because the company had violated the law first (precipitating the sit-down strike). Fansteel sued the government in response.\n\nOn this day in 1939, the Supreme Court settled National Labor Relations Board v. Fansteel Metallurgical Corporation in favor of Fansteel. The Court held that the National Labor Relations Board (NLRB) had no authority to order an employer to reinstate workers fired after a sit-down strike, even if the employer's illegal actions triggered that strike.`,
+        link: 'https://repository.law.umich.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1620&context=mlr',
+        infoSrc: 'https://en.wikipedia.org/wiki/NLRB_v._Fansteel_Metallurgical_Corp.'
       },
     ],
   },
@@ -4631,13 +4631,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 7th, 1942',
+        title: 'Lucy Parsons Passes (1942)',
+        imgSrc: require('./assets/eventPhotos/Individuals/lucyParsons.jpg'),
+        description: `Lucy Eldine Gonzalez Parsons (1851 - 1942) was an American labor organizer, radical socialist and anarcho-communist. She is remembered as a powerful orator. Parsons entered the radical movement when she married fellow radical Albert Parsons and began contributing to the newspaper he edited, "The Alarm".\n\nFollowing her husband's 1887 infamous execution in relation to the events of the Haymarket affair, Parsons remained a leading American radical activist, as a founder of the Industrial Workers of the World and International Labor Defense. She passed away on this day in 1942.\n\nOne memorable quote of hers reads "My conception of the strike of the future is not to strike and go out and starve, but to strike and remain in, and take possession of the necessary property of production", which was an early anticipation of the sit-down strikes in the U.S. and worker takeovers of factories around the world.`,
+        link: 'https://www.blackpast.org/african-american-history/1886-lucy-parsons-i-am-anarchist/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Lucy_Parsons'
       },
     ],
   },
@@ -5403,13 +5403,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'March 19th, 1935',
+        title: 'Harlem Riot (1935)',
+        imgSrc: require('./assets/eventPhotos/Events/harlemRiot1935.jpg'),
+        description: `The Harlem Riot took place on this day in 1935, during the Great Depression. The rioting was sparked by rumors that a black Puerto Rican teenage shoplifter was beaten by employees at an S. H. Kress "five and dime" store. That evening a demonstration was held outside the store and, after someone threw a rock through the window, more general destruction of the store and other white-owned properties ensued.\n\nThree black people were killed, 125 people were arrested and 100 people were injured. An estimated $2 million in damages was caused to properties throughout the district, although African American-owned homes and businesses were spared the worst of the destruction.\n\nSociologist Allen D. Grimshaw called the Harlem Riot of 1935 "the first manifestation of a 'modern' form of racial rioting," which he identified with violence being directed almost entirely at property and clashes between black people and police, as opposed to racial groups fighting directly.`,
+        link: 'https://www.blackpast.org/african-american-history/events-african-american-history/harlem-riot-1935/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Harlem_riot_of_1935'
       },
     ],
     'Labor': [
@@ -6171,13 +6171,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'March 30th, 1929',
+        title: 'Loray Mill Strike (1929)',
+        imgSrc: require('./assets/eventPhotos/Events/lorayMillStrike.jpg'),
+        description: `The Loray Mill strike of 1929 in Gastonia, North Carolina, was one of the most notable strikes in the labor history of the United States. On this day that year, Fred Beal, a communist labor organizer, led a vote among mill workers that was in favor of striking.\n\nOn April 1st, 1,800 mill workers walked out on the job, demanding a 40 hour work week, higher wages, and union recognition. They lived in company homes, and the mill owners promptly had them evicted. Workers created a tent city on the outskirts of town, guarded by armed strikers.\n\nOn June 7th, an altercation between strikers and police led to the police chief being shot to death, and several strikers and police were wounded. In the aftermath, 71 strikers were arrested, and mobs of anti-strike community members harassed and shot at striking workers, killing a young woman. Fred Beal and Clarence Miller, another leader of the strike, were indicted and convicted for the murder of the police chief. Both skipped bail and fled to the Soviet Union.\n\nThough largely unsuccessful in attaining its goals of better working conditions and wages, the strike was considered very successful in a lasting way - it caused an immense controversy which gave the labor movement momentum, propelling the movement in its national development.`,
+        link: 'https://www.ourstate.com/loray-mill-strike/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Loray_Mill_strike'
       },
     ],
     'Birthdays': [
@@ -6538,6 +6538,15 @@ export const eventLibrary = {
         description: `*Although some records claim Öcalan was born on April 4th, Öcalan himself claims to not know the exact date of his birth, beyond knowing it was in the years 1946 or 1947.\n\nAbdullah Öcalan, also known as Apo (short for both Abdullah and "uncle" in Kurdish), is a Kurdish leftist political theoretician, political prisoner and one of the founding members of the militant Kurdistan Workers' Party (PKK). Öcalan helped found the PKK in 1978, and led it into the Kurdish-Turkish conflict in 1984. For most of his leadership, he was based in Syria, which provided sanctuary to the PKK until the late 1990s.\n\nAfter being forced to leave Syria, Öcalan was abducted in Nairobi in 1999 by the Turkish National Intelligence Agency (MIT) (with the support of the CIA) and taken to Turkey, where he was sentenced to death under Article 125 of the Turkish Penal Code, which concerns the formation of armed organisations. From prison, Öcalan has published several books. Jineology, also known as the science of women, is a form of feminism advocated by Öcalan and subsequently a fundamental tenet of the Kurdistan Communities Union.\n\nÖcalan's philosophy of democratic confederalism, which draws heavily from Murray Bookchin's concept of "communalism", is a strong influence on the political structures of Rojava, an autonomous polity formed in Syria in 2011.`,
         infoSrc: 'https://web.archive.org/web/20131017171527/http://www.chris-kutschera.com/A/Ocalan%20Last%20Interview.htm',
         link: 'https://en.wikipedia.org/wiki/Abdullah_%C3%96calan'
+      },
+      {
+        category: 'Birthdays',
+        date: 'April 4th, 1903',
+        title: 'Marvel Cooke (1903 - 2000)',
+        imgSrc: require('./assets/eventPhotos/Individuals/marvelCooke.jpg'),
+        description: `Marvel Jackson Cooke, born on this day in 1903, was a pioneering American journalist, writer, and civil rights activist. She was the first African-American woman to work at a mainstream white-owned newspaper.\n\nCooke got her start when she was offered a job as assistant to W.E.B. Du Bois, editor of the NAACP magazine The Crisis. Du Bois had chosen her for this role on recognition of her writing talent alone - she had no prior experience or education in journalism. In 1926 moved to New York City, settling in Harlem during the Harlem Renaissance.\n\nLater in life, Cooke was an ardent advocate of Angela Davis. She began working with the Angela Davis Defense Committee in 1969 and volunteered as national legal defense secretary of the Angela Davis Defense Fund in 1971. She also coordinated committee activities in New York and raised money for Angela Davis’s defense by organizing a rally at Madison Square Gardens attended by over 16,000 people.`,
+        link: 'https://www.peoplesworld.org/article/the-extraordinary-life-of-marvel-cooke/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Marvel_Cooke'
       },
     ],
     'Assassinations': [
@@ -7102,13 +7111,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 12th, 1898',
+        title: 'Hosea Hudson (1898 - 1988)',
+        imgSrc: require('./assets/eventPhotos/Individuals/hoseaHudson.jpg'),
+        description: `Hosea Hudson, borno on this day in 1898, was an African-American labor leader in the Southern United States. Born in Wilkes County, Georgia, he worked as a sharecropper in what was then known as the "Black Belt" of Georgia. Later, Hudson worked as a steel-mill worker and a local union official in Birmingham, Alabama while maintaining an active membership in the Communist Party. Through his work, Hudson was often referred to as a militant fighter against racist oppression and economic exploitation.\n\nDuring the Red Scares of the post-World War II period, Hudson was expelled from the Birmingham Industrial Union Council. In 1947, he was fired from his job, removed from his offices in Local 2815 (which he had founded), and blacklisted as a communist. Hudson told his own story in his book "Black Worker in the Deep South: A Personal Record" (1972).`,
+        link: 'https://www.blackpast.org/african-american-history/hudson-hosea-1898-1988/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Hosea_Hudson'
       },
     ],
     'Assassinations': [
@@ -8424,6 +8433,15 @@ export const eventLibrary = {
         link: 'https://en.wikipedia.org/wiki/Memphis_riots_of_1866',
         infoSrc: 'https://www.blackpast.org/african-american-history/memphis-riot-1866/'
       },
+      {
+        category: 'Other',
+        date: 'May 1st, 1919',
+        title: 'Communist Party USA Founded (1919)',
+        imgSrc: require('./assets/eventPhotos/Organizations/CPUSA.png'),
+        description: `The Communist Party of the United States of America (CPUSA) is a communist party in the United States established on this day in 1919 after a split in the Socialist Party of America following the Russian Revolution. It initially operated underground due to the Palmer Raids (anti-immigrant, anti-labor raids conducted by Attorney General A. Mitchell Palmer).\n\nCPUSA was an early opponent of segregation and racial discrimination, giving legal aid to the Scottsboro Boys and helping poor black farmers in the South organize into sharecropper unions. Because of this, the party had a strong presence in Alabama in the 1930s.\n\nCPUSA's unwavering support for the Soviet Union alienated other factions of the American left and made it subject to significant political persecution during the Cold War; its membership declined significantly after World War II.`,
+        link: 'https://www.cpusa.org/about-us/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Communist_Party_USA'
+      },
     ],
   },
   '5-2': {
@@ -9430,13 +9448,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'March 16th, 1934',
+        title: 'Minneapolis General Strike (1934)',
+        imgSrc: require('./assets/eventPhotos/Events/minneapolisGeneralStrike.jpg'),
+        description: `The Minneapolis General Strike of 1934 grew out of a strike by Teamsters against most of the trucking companies operating in Minneapolis, the major distribution center for the Upper Midwest. The strike began on this day in the Market District (now called the Warehouse District), launched the career of Farrell Dobbs, a Trotskyist union leader, and led to widespread unionizing throughout the city of Minneapolis.\n\nThe strike was remarkably effective, shutting down most commercial transport in the city with the exception of certain farmers, who were allowed to bring their produce into town, but delivering directly to grocers, rather than to the market area, which the union had shut down.\n\nThe worst single day of violence was Friday, July 20th, known as "Bloody Friday", when police shot at strikers who were blocking off the delivery of company merchandise, killing two and injuring sixty-seven. Ensuing violence lasted periodically throughout the summer before the strike was formally ended on August 22nd, with most of the union demands being met.`,
+        link: 'https://libcom.org/history/minneapolis-teamsters-strike-1934-jeremy-brecher',
+        infoSrc: 'https://en.wikipedia.org/wiki/Minneapolis_general_strike_of_1934'
       },
     ],
     'Birthdays': [
@@ -10409,13 +10427,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 30th, 1937',
+        title: 'Memorial Day Massacre (1937)',
+        imgSrc: require('./assets/eventPhotos/Events/memorialDay1937.jpg'),
+        description: `On this day in 1937, Chicago police attacked a Memorial Day gathering of unarmed, striking steelworkers and their families. The police shot and killed ten of the strikers.\n\nHundreds of sympathizers to striking steel workers gathered at Sam's Place, a former tavern that served as the headquarters of the Steel Workers Organizing Committee (SWOC). As the crowd marched across the prairie towards the Republic Steel mill, a line of Chicago policemen blocked their path. The police fired on and beat the crowd, which contained many women children.\n\nAccording to Dorothy Day, a Catholic labor activist who was present that day, "Fifty people were shot, of whom 10 later died; 100 others were beaten with clubs." A Coroner's Jury declared the killings to be "justifiable homicide". The press often called it a labor or red riot. In the wake of the massacre, video footage of the event was suppressed for fear of creating, in the words of an official at Paramount News agency, "mass hysteria."`,
+        link: 'https://www.zinnedproject.org/news/tdih/memorial-day-massacre/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Memorial_Day_massacre_of_1937'
       },
     ],
     'Birthdays': [
@@ -13967,13 +13985,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 20th, 1934',
+        title: 'Bloody Friday (Minneapolis, 1934)',
+        imgSrc: require('./assets/eventPhotos/Events/minneapolisGeneralStrike.jpg'),
+        description: `The Minneapolis General Strike of 1934 grew out of a strike by Teamsters against most of the trucking companies operating in Minneapolis, the major distribution center for the Upper Midwest. The strike began on May 16th in the Market District (now called the Warehouse District), launched the career of Farrell Dobbs, a Trotskyist union leader, and led to widespread unionizing throughout the city of Minneapolis.\n\nIts worst single day of violence was this day in 1934, known as "Bloody Friday". It occured when police shot at strikers who were blocking off the delivery of company merchandise, killing two and injuring sixty-seven. Four days later, on the 24th, 100,000 people lined the streets of the route of the funeral procession for Henry Ness and demanded the resignation of the Minneapolis Police Chief.\n\nIn response to this, Governor Olson first ordered that the union headquarters be raided, and a couple days later ordered a raid on Citizen Alliance headquarters. Violence lasted periodically throughout the summer before the strike was formally ended on August 22nd, with most of the union demands being met.`,
+        link: 'https://libcom.org/history/minneapolis-teamsters-strike-1934-jeremy-brecher',
+        infoSrc: 'https://en.wikipedia.org/wiki/Bloody_Friday_(Minneapolis)'
       },
     ],
     'Birthdays': [
@@ -14500,13 +14518,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'July 28th, 1932',
+        title: 'The Bonus Army Evicted (1932)',
+        imgSrc: require('./assets/eventPhotos/Events/bonusArmy.jpg'),
+        description: `The Bonus Army was a group of 43,000 demonstrators, made up of 17,000 U.S. World War I veterans, together with their families and affiliated groups, who gathered in Washington, D.C. in mid-1932 to demand early cash redemption of their service certificates. They were known as the "Bonus Army" or "Bonus Marchers".\n\nMost of the Bonus Army camped in a "Hooverville" on the Anacostia Flats, a swampy, muddy area across the Anacostia River from the federal core of Washington (now Section C of Anacostia Park). Approximately 10,000 veterans, women and children lived in the shelters that they built from materials dragged out of a junk pile nearby, which included old lumber, packing boxes, and scrap tin covered with roofs of thatched straw.\n\nOn this day in 1932, President Hoover ordered the Secretary of War to disperse the protesters. After the veterans returned after being pushed out the first time, police fired on the veterans, killing two of them. Federal troops were called in and, armed with bayonets and tear gas, forcefully evicted the Bonus Army.\n\nIn the mayhem that followed, 55 veterans were injured, 135 were arrested, and one three month old baby died. The incident was politically disastrous for Presdient Hoover, who lost the election that year to Franklin Delano Roosevelt. In 1933, another Bonus Army marched on Washington D.C., but FDR, perhaps learning from his predecessor's mistakes, created a camp for the soldiers and fed them.`,
+        link: 'https://www.zinnedproject.org/news/tdih/bonus-army-attacked/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Bonus_Army'
       },
     ],
     'Labor': [
@@ -15909,13 +15927,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'August 17th, 1887',
+        title: 'Marcus Garvey (1887 - 1940)',
+        imgSrc: require('./assets/eventPhotos/Individuals/marcusGarvey.jpg'),
+        description: `Marcus Garvey, born on this day in 1887, was a Jamaican political activist, publisher, journalist, entrepreneur, and orator. He was the founder and first President-General of the Universal Negro Improvement Association and African Communities League (UNIA-ACL, commonly known as UNIA), through which he declared himself Provisional President of Africa. Ideologically a black nationalist and Pan-Africanist, his ideas came to be known as Garveyism.\n\nGarvey was a controversial figure. Some in the African diasporic community regarded him as a pretentious demagogue and were highly critical of his collaboration with white supremacists (the collaboration was predicated on a mutual belief in racial separatism), his violent rhetoric, and his prejudice against mixed-race people and Jews.\n\nHe nevertheless received praise for encouraging a sense of pride and self-worth among Africans and the African diaspora amid widespread poverty, discrimination, and colonialism.\n\nGarvey is seen as a national hero in Jamaica, and his ideas exerted a considerable influence on such movements as Rastafari, the Nation of Islam, and the Black Power Movement.`,
+        link: 'https://www.blackpast.org/global-african-history/garvey-marcus-1887-1940/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Marcus_Garvey'
       },
     ],
     'Assassinations': [
@@ -16960,13 +16978,22 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Other',
+        date: 'September 1st, 1960',
+        title: 'Aunt Molly Jackson Passes (1960)',
         imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `Aunt Molly Jackson (Mary Magdalene Garland Stewart Jackson Stamos, 1880 - 1960) was an influential American folk singer and a union activist who died on this day in 1960.\n\nBorn into a poor, mining family, Jackson was arrested at age ten due to her family's involvement in union activities. She became a member of the United Mine Workers (UMW) and began writing protest songs like "I Am A Union Woman", "Kentucky Miner's Wife", and "Poor Miner's Farewell". When Jackson was jailed because of her unionizing activities, her husband was forced to divorce her in order to keep his mining job.\n\n In December 1931, Jackson traveled to New York City to support and raise money for striking Harlan coal miners, at one point appearing before an estimated crowd of 21,000 at the Bronx Coliseum. In the mid-1930s, she performed in New York City together with Woody Guthrie, Pete Seeger, Earl Robinson, and others.`,
+        link: 'https://lomaxky.omeka.net/exhibits/show/artistprofiles/auntmollyjackson',
+        infoSrc: 'https://en.wikipedia.org/wiki/Aunt_Molly_Jackson'
+      },
+      {
+        category: 'Other',
+        date: 'September 1st, 1974',
+        title: `"All God's Dangers" Published (1974)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/nedCobb.jpg'),
+        description: `In 1969, author Theodore Rosengarten came to Alabama to search for and interview surviving members of the Sharecroppers Union, a radical union that helped both poor black and poor white farmers fight back against an exploitative system of agri-business. When Rosengarten sat down to interview Ned Cobb, then 84 years old, for this purpose his memories became the book "All God's Dangers: The Life of Nate Shaw", first published on this day in 1974.\n\nCobb was the fourth of more than twenty children of a father who had been enslaved. Ned left his father's house to begin sharecropping on his own at the age of 19. Realizing that the men needed help, he joined the Alabama Sharecroppers' Union in 1931. In 1931, when the Communist Party arrived in Alabama, Cobb was profoundly impressed with them because he was aware that the party was defending the Scottsboro Boys, nine young black men accused of raping two white women.\n\nIn December 1932, a sheriff tried to take the home and livestock of one of Cobb's friends. Cobb defended his friend and in turn was involved in a shootout in which he was wounded and arrested. Cobb was sentenced to thirteen years in jail. Cobb was offered parole if he would agree to give up his farm and relocate to Birmingham. Instead, he served his full sentence and, after release in 1945, returned to his farm.\n\nCobb was one of the most successful black men in the highly Jim Crow-ed county and lived to the age of 89. He was also one of few former sharecroppers to be able to pass on property and a means of making a living to his progeny.`,
+        link: 'https://en.wikipedia.org/wiki/Ned_Cobb',
+        infoSrc: 'https://www.nytimes.com/2014/04/19/books/all-gods-dangers-a-forgotten-autobiography.html'
       },
     ],
   },
@@ -17070,6 +17097,15 @@ export const eventLibrary = {
         description: `On this day in 2013, an estimated 80,000 - 90,000 gold miners went on strike in South Africa, demanding a 60% wage increase to $775 per month.\n\nMining in South Africa has a troubled past, with colonizers enforcing de facto slave labor in the early 20th century to the government using live ammunition to massacre 34 striking miners just a year prior to this strike. The year 2013 was called "The Year of the Strike" in South Africa by reporter Alec Hogg, with over tens of thousands of auto manufacturing, agricultural, and construction workers also going on strike in the same year.`,
         link: 'https://theweek.com/articles/460495/everything-need-know-about-south-african-gold-miners-strike',
         infoSrc: 'https://www.theguardian.com/world/2013/sep/03/south-africa-gold-miners-strike'
+      },
+      {
+        category: 'Labor',
+        date: 'September 3rd, 1934',
+        title: `Textile Workers' Strike (1934)`,
+        imgSrc: require('./assets/eventPhotos/Events/textileStrike1934.jpg'),
+        description: `The Textile Workers' Strike of 1934 began on this day that year and was the largest strike in the labor history of the United States at the time, involving 400,000 textile workers from New England, the Mid-Atlantic states and the U.S. Southern states, lasting twenty-two days. Due to President Roosevelt's labor reforms, union membership grew greatly leading up to the strike - the United Textile Workers (UTW), which had no more than 15,000 members in February 1933, grew to 250,000 members by June 1934, of whom roughly half were cotton mill workers.\n\nOn September 3rd, thousands of workers took the streets in Gastonia, North Carolina to form a parade celebrating Labor Day, and the next day approximately 20,000 out of the 25,000 textile workers in the county were out on strike. Hundreds of thousands of textile workers across the country soon followed suit. \n\nStrikers faced violence from both state police, private citizens, and private guards for the mills - Governor Blackwood of South Carolina announced that he would deputize the state's "mayors, sheriffs, peace officers and every good citizen" to maintain order, and accordingly, dozens of protesting workers were killed as martial law was declared and private guards fired into crowds across the country.\n\nResults of the strike were mixed, but workers in the South fared particularly badly. Thousands of striking mill workers did not return to the mills, many others were blacklisted, and some union officials claimed victory, despite worker demands not being met. Southern mill workers were in particular were extremely bitter at the union and its officials for calling off the strike and putting their faith in government boards, when the employers had conceded nothing.`,
+        link: 'https://libcom.org/history/us-national-textile-workers-strike-1934-jeremy-brecher',
+        infoSrc: 'https://en.wikipedia.org/wiki/Textile_workers_strike_(1934)'
       },
     ],
     'Birthdays': [
@@ -17414,13 +17450,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 8th, 1898',
+        title: 'Ben Gold (1898 - 1985)',
+        imgSrc: require('./assets/eventPhotos/Individuals/benGold.jpg'),
+        description: `Benjamin Gold, born on this day in 1898, was an American labor leader and Communist Party member who was president of the International Fur and Leather Workers Union (IFLWU) from 1937 to 1955.\n\nIn 1926, Gold led a fur worker's strike in New York City that included all 12,000 workers in the industry. His leadership style was aggressive, and the relatively moderate American Federation of Labor (AFL) sought to undermine his influence in the strike, although their efforts failed due to worker loyalty to Gold.\n\nAlthough the strike was ultimately successful due to Gold's efforts, the AFL expelled him, accusing Gold and other strike leaders of debauchery, wasting union money, bribery, forcing workers to join the Communist Party, among other grievances. Despite this, he remained a powerful figure within the organized labor of the fur industry, often competing directly with AFL-backed unions for influence among workers.\n\nGold was also a victim of anti-communist purges on many occasions. In 1950, Gold resigned from the Communist Party and signed an anti-communist oath related to the Taft-Hartley Act. The Justice Department argued that Gold had not really resigned, and indicted him for perjury in August 1953 one day before the statute of limitations ran out. Although he was successfully convicted, Gold managed to get the conviction overturned on appeal to the U.S. Supreme Court (Gold v. United States) and all charges were dropped.`,
+        link: 'https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/gold-benjamin',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ben_Gold'
       },
     ],
     'Assassinations': [
@@ -22195,13 +22231,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'November 15th, 1954',
+        title: `Fred Beal's Death (1954)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/fredBeal.jpg'),
+        description: `Fred Beal (1896 - 1954) was an American labor organizer who played a leading role in the Loray Mill Strike of 1929 and a former communist who renounced his beliefs upon his exile to Soviet Russia.\n\nIn the Loray Mill Strike, Fred Beal was a leading labor organizer, who, along with six Loray Mill workers, were indicted for the murder of a police chief that happened during the protests. Beal was convicted and skipped bail, fleeing to the Soviet Union. There, he became ambivalent about the state of the Bolshevik revolution and sought to return to the United States.\n\nAfter successfully fleeing to his home country, Beal changed his mind once more, returning to the Soviet Union and working as a manager in a Ukrainian tractor factory. It was here that he became disillusioned for good with the communist system, noting bitterly that he was still a labor organizer, facing Soviet versions of the same issues that had prompted the North Carolinians to strike, only now he was urging workers not to demand better conditions.\n\nUpon returning to the U.S., he became an anti-communist critic, publishing his experiences in a book titled "Proletarian Journey". After serving four years in prison, he was paroled and began working at a textile mill, participating in union activities there. It was on this day in 1954 that Fred Beal died of a heart attack.`,
+        link: 'https://narratively.com/this-crusading-socialist-taught-americas-workers-to-fight-then-he-lost-his-faith/',
+        infoSrc: 'https://www.ncpedia.org/biography/beal-fred-erwin'
       },
     ],
   },
@@ -24095,13 +24131,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 13th, 1903',
+        title: 'Ella Baker (1903 - 1986)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ellaBaker.jpg'),
+        description: `Ella Josephine Baker, born on this day in 1903, was an African-American civil rights and human rights activist. She was a largely behind-the-scenes organizer whose career spanned more than five decades.\n\nIn New York City and the South, she worked alongside some of the most noted civil rights leaders of the 20th century, including W.E.B. Du Bois, Thurgood Marshall, A. Philip Randolph, and Martin Luther King Jr. She also mentored many emerging activists, such as Diane Nash, Stokely Carmichael, Rosa Parks, and Bob Moses, whom she first mentored as leaders in the Student Nonviolent Coordinating Committee (SNCC).\n\nBaker criticized professionalized, charismatic leadership; she promoted grassroots organizing, radical democracy, and the ability of the oppressed to understand their worlds and advocate for themselves. She realized this vision most fully in the 1960s as the primary advisor and strategist of the SNCC.\n\nBaker has been called "one of the most important American leaders of the twentieth century and perhaps the most influential woman in the civil rights movement."`,
+        link: 'https://ellabakercenter.org/about/who-was-ella-baker',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ella_Baker'
       },
     ],
     'Assassinations': [
