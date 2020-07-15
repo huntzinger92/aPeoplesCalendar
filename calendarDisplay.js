@@ -30,6 +30,7 @@ export class CalendarDisplay extends React.Component {
 
   backHandler = BackHandler.addEventListener('hardwareBackPress', () => {
     if (this.state.display !== 'all') {
+      this.props.scrollToTop();
       this.setState({display: 'all'});
       return true;
     } else {
@@ -38,6 +39,8 @@ export class CalendarDisplay extends React.Component {
   });
 
   setDisplay(component) {
+    //go to top of scrollview when display changes:
+    this.props.scrollToTop();
     //component should only ever be 'all' or 'specific'
     if (component === 'all') {
       this.setState({
@@ -60,6 +63,7 @@ export class CalendarDisplay extends React.Component {
   };
 
   setSpecificEvent(event) {
+    this.props.scrollToTop();
     this.setState({
       display: 'specific',
       specificEvent: event

@@ -80,11 +80,13 @@ export default class App extends React.Component {
     this.declineDonation = this.declineDonation.bind(this);
     this.acceptDonation = this.acceptDonation.bind(this);
     this.searchEvents = this.searchEvents.bind(this);
+    this.scrollToTop = this.scrollToTop.bind(this);
 
     this.today = new Date();
     this.todayString = initTodayString;
+    this.scrollViewRef = React.createRef(); //scrollView ref, used to go to top of scrollview when display component is changed
     this.calendarDisplayRef = React.createRef();
-    this.donationMessage = "A calendar full of working class movements should be free of ads trying to commodify every second of your life.\n\nDonating a bit helps me keep this calendar growing and up to date."
+    this.donationMessage = "A calendar full of working class movements should be free of ads trying to commodify every second of your life.\n\nDonating a bit helps us keep this calendar growing, accurate, and up to date."
     //searchEventsResult is used as a "artificial" day, passed to calendarDisplay. This allows search results to retain the same look and functionality of any calendar day
     this.searchEventsResult = {
       'Revolution': [{description: ''}],
@@ -184,6 +186,11 @@ export default class App extends React.Component {
     this.calendarDisplayRef.current.setDisplay('all');
   };
 
+  //makes the only scrollview go to the top of the list. Without this, specific event views don't default to their beginning
+  scrollToTop() {
+    this.scrollViewRef.scrollTo({x: 0, y: 0, animated: false});
+  };
+
   trackSearchText(text) {
     this.setState({searchValue: text});
   };
@@ -227,6 +234,7 @@ export default class App extends React.Component {
     };
     //exit out of specific event display:
     this.calendarDisplayRef.current.setDisplay('all');
+    this.scrollToTop();
     //console.log((this.today.getMonth() + 1) + '-' + this.today.getDate());
     //this.toggleDatePicker();
   };
@@ -275,11 +283,11 @@ export default class App extends React.Component {
             onFocus= {() => this.setState({searchValue : ''})}
           />
         </View>
-        <ScrollView style={styles.everythingNotFooter}>
+        <ScrollView style={styles.everythingNotFooter} ref={(c) => {this.scrollViewRef = c}}>
           <View style={styles.mainContent}>
-            {this.state.display === 'main' && <CalendarDisplay appDisplay={this.state.display} date={this.today} events={this.state.events} todayString={this.todayString} ref={this.calendarDisplayRef}/>}
+            {this.state.display === 'main' && <CalendarDisplay appDisplay={this.state.display} date={this.today} events={this.state.events} todayString={this.todayString} ref={this.calendarDisplayRef} scrollToTop={this.scrollToTop}/>}
             {this.state.display === 'about' && <About/>}
-            {this.state.display === 'search' && <CalendarDisplay appDisplay={this.state.display} date={this.today} events={this.searchEventsResult} todayString={this.todayString} ref={this.calendarDisplayRef}/>}
+            {this.state.display === 'search' && <CalendarDisplay appDisplay={this.state.display} date={this.today} events={this.searchEventsResult} todayString={this.todayString} ref={this.calendarDisplayRef} scrollToTop={this.scrollToTop}/>}
             {this.state.display === 'donate' && <Donate/>}
           </View>
         </ScrollView>
