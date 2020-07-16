@@ -1102,13 +1102,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'January 16th, 1943',
+        title: `Draftee's Prayer (1943)`,
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: `On this day in 1943, a "Draftee's Prayer" was published in the newspaper Baltimore Afro-American:\n\n"Dear Lord, today\n\nI go to war:\n\nTo fight, to die,\n\nTell me what for?\n\nDear Lord, I'll fight,\n\nI do not fear,\n\nGermans or Japs;\n\nMy fears are here.\n\nAmerica!"`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnpeopleswar.html',
+        infoSrc: 'https://books.google.com/books?id=3ToXCAAAQBAJ&pg=PT183&lpg=PT183&dq=draftees+prayer+1943&source=bl&ots=axJ28R9eYl&sig=ACfU3U3Os2ukFezYW73WU-YVdWYZ1cH8Zw&hl=en&sa=X&ved=2ahUKEwjqrP20k83qAhUIWs0KHa0wBsoQ6AEwAHoECAoQAQ#v=onepage&q=draftees%20prayer%201943&f=false'
       },
     ],
   },
@@ -2442,7 +2442,7 @@ export const eventLibrary = {
         date: 'February 5th, 1919',
         title: 'La Canadenca Strike (1919)',
         imgSrc: require('./assets/eventPhotos/Events/canadencaStrike.jpg'),
-        description: `The Canadenca strike was a general strike that began on this day in 1919, in Catalonia, Spain. The strike was initiated after an energy company, La Canadenca, reduced wages and fired over one hundred striking workers who were protesting the pay cuts. This and the curbing of labor rights prompted the rest of the workers at La Canadenca to go on strike and demand the readmission of those sacked and wage increases.\n\nThe strike soon spread to other companies in the sector via the CNT’s union for water, gas and electricity workers. The lack of electricity in the city affected transport, hampering the provision of supplies and paralysing 70% of factories in the province of Barcelona.\n\nA state of war was declared by the government and over 3,000 workers were detained. Despite this, the strike ended after two days on the conditions of no reprecussions for participating workers, an increase in wages, and, most notably, an 8 hour work day.`,
+        description: `The Canadenca strike was a general strike that began on this day in 1919, in Catalonia, Spain. The strike was initiated after an energy company, La Canadenca, reduced wages and fired over one hundred striking workers who were protesting the pay cuts. This and the curbing of labor rights prompted the rest of the workers at La Canadenca to go on strike and demand the readmission of those sacked and wage increases.\n\nThe strike soon spread to other companies in the sector via the CNT's union for water, gas and electricity workers. The lack of electricity in the city affected transport, hampering the provision of supplies and paralysing 70% of factories in the province of Barcelona.\n\nA state of war was declared by the government and over 3,000 workers were detained. Despite this, the strike ended after two days on the conditions of no reprecussions for participating workers, an increase in wages, and, most notably, an 8 hour work day.`,
         link: 'https://books.google.com/books?id=iN8I1fl9hl0C&pg=PT215&lpg=PT215&dq=La+Canadenca+strike&source=bl&ots=GCbBklHEAI&sig=ACfU3U2vuyLI-PjXZOCWwChMk7LJqALpHg&hl=en&sa=X&ved=2ahUKEwjAx7n-iZzqAhVOGs0KHQU1DUI4ChDoATABegQIChAB#v=onepage&q=La%20Canadenca%20strike&f=false',
         infoSrc: 'https://www.barcelona.cat/infobarcelona/en/barcelona-marks-the-centenary-of-the-canadenca-strike_797743.html'
       },
@@ -2657,7 +2657,7 @@ export const eventLibrary = {
         date: 'February 8th, 1805',
         title: 'Auguste Blanqui (1805 - 1881)',
         imgSrc: require('./assets/eventPhotos/Individuals/louisBlanqui.jpg'),
-        description: `Louis Auguste Blanqui was a French socialist and political activist, notable for his revolutionary theory of Blanquism and being elected president of the Paris Commune while imprisoned.\n\nBlanqui was a non-Marxist socialist who believed in immediate, violent revolution to overturn the capitalist order. Because of his unrelenting radicalism, he spent 33 years of his life in prison, leading to the nickname "l’enfermé", or "the locked-up one".`,
+        description: `Louis Auguste Blanqui was a French socialist and political activist, notable for his revolutionary theory of Blanquism and being elected president of the Paris Commune while imprisoned.\n\nBlanqui was a non-Marxist socialist who believed in immediate, violent revolution to overturn the capitalist order. Because of his unrelenting radicalism, he spent 33 years of his life in prison, leading to the nickname "l'enfermé", or "the locked-up one".`,
         link: 'https://en.wikipedia.org/wiki/Blanquism',
         infoSrc: 'https://www.britannica.com/biography/Auguste-Blanqui'
       },
@@ -3432,13 +3432,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'February 19th, 1942',
+        title: 'Executive Order 9066 (1942)',
+        imgSrc: require('./assets/eventPhotos/Events/japaneseInternment.jpg'),
+        description: `On this day in 1942, President Franklin D. Roosevelt signed Executive Order 9066, authorizing the Secretary of War to prescribe certain areas as "military zones", clearing the way for the incarceration of Japanese Americans, German Americans, and Italian Americans in U.S. concentration camps. By declaring wide swaths of domestic territory as "military zones", they could provide legal justification for forcibly removing people deemed a threat from them.\n\nUsing a broad interpretation of Executive Order 9066, Lieutenant General John L. DeWitt issued orders declaring certain areas of the western United States as zones of exclusion under the Executive Order. As a result, approximately 112,000 men, women, and children of Japanese ancestry were evicted from the West Coast of the United States and held in American concentration camps and other confinement sites across the country.\n\nAmericans of Italian and German ancestry were also targeted by these restrictions, including internment. 11,000 people of German ancestry were interned, as were 3,000 people of Italian ancestry, along with some Jewish refugees. It wasn't until 1990 that surviving internees began to receive individual redress payments and a letter of apology.`,
+        link: 'https://www.britannica.com/topic/Executive-Order-9066',
+        infoSrc: 'https://en.wikipedia.org/wiki/Executive_Order_9066'
       },
     ],
   },
@@ -4354,7 +4354,7 @@ export const eventLibrary = {
         date: 'March 3rd, 1919',
         title: 'Schenk v. United States (1919)',
         imgSrc: require('./assets/eventPhotos/Individuals/charlesSchenck.jpg'),
-        description: `Schenck v. United States, decided on this day in 1919, helped define the limits of the First Amendment right to free speech, particularly during wartime. The ruling created the "clear and present danger" standard, which explains when the consequences of speech allow the government to limit it.\n\nIn this case, the court ruled that encouraging would-be soldiers to resist the draft was not protected by the 1st amendment. The Supreme Court made this ruling unanimously, upholding socialist activist Charles Schenck’s conviction under the Espionage Act of 1917, after he distributed leaflets urging young men to resist the draft during World War I.`,
+        description: `Schenck v. United States, decided on this day in 1919, helped define the limits of the First Amendment right to free speech, particularly during wartime. The ruling created the "clear and present danger" standard, which explains when the consequences of speech allow the government to limit it.\n\nIn this case, the court ruled that encouraging would-be soldiers to resist the draft was not protected by the 1st amendment. The Supreme Court made this ruling unanimously, upholding socialist activist Charles Schenck's conviction under the Espionage Act of 1917, after he distributed leaflets urging young men to resist the draft during World War I.`,
         link: 'https://en.wikipedia.org/wiki/Schenck_v._United_States',
         infoSrc: 'http://landmarkcases.c-span.org/Case/5/Schenck-v-United-States#:~:text=Charles%20Schenck%20was%20arrested%20under,ruled%20to%20uphold%20the%20Act.'
       },
@@ -4670,7 +4670,7 @@ export const eventLibrary = {
         date: 'March 8th, 1857',
         title: `International Women's Day`,
         imgSrc: require('./assets/eventPhotos/Events/internationalWomensDay.jpg'),
-        description: `On this day in 1857, garment workers in New York City protested against inhumane working conditions, low wages, and for equal rights for women. Their protest was attacked and broken up by police. On the same day in 1908, 15,000 women marched in NYC for shorter work hours, better pay, voting rights, and an end to child labor. The slogan "Bread and Roses" emerged, with bread symbolizing economic security and roses for better living standards.\n\nInternational Women’s Day (then International Working Women’s Day) was introduced during the International Conference of Working Women in Copenhagen, Denmark. Clara Zetkin, a German socialist, suggested a holiday honoring the strike of garment workers in the U.S. The proposal received unanimous approval from the 100 women from 17 countries.`,
+        description: `On this day in 1857, garment workers in New York City protested against inhumane working conditions, low wages, and for equal rights for women. Their protest was attacked and broken up by police. On the same day in 1908, 15,000 women marched in NYC for shorter work hours, better pay, voting rights, and an end to child labor. The slogan "Bread and Roses" emerged, with bread symbolizing economic security and roses for better living standards.\n\nInternational Women's Day (then International Working Women's Day) was introduced during the International Conference of Working Women in Copenhagen, Denmark. Clara Zetkin, a German socialist, suggested a holiday honoring the strike of garment workers in the U.S. The proposal received unanimous approval from the 100 women from 17 countries.`,
         link: 'https://en.wikipedia.org/wiki/International_Women%27s_Day',
         infoSrc: 'https://www.yesmagazine.org/democracy/2013/03/09/where-did-international-women-s-day-come-from/'
       },
@@ -5590,6 +5590,15 @@ export const eventLibrary = {
         description: `The Sharpeville massacre, which happened on this day in 1960, occurred at the police station in the South African township of Sharpeville. After a day of demonstrations against segregation laws, a crowd of about 7,000 protesters went to the police station. The South African Police opened fire on the crowd, killing 69 people and injuring 180 others. 29 children were casualties of the violence, and many people were shot in the back as they fled.\n\nA storm of international protest followed the Sharpeville shootings, including sympathetic demonstrations in many countries and condemnation by the United Nations. Sharpeville marked a turning point in South Africa's history; the country found itself increasingly isolated in the international community.\n\nThe Sharpeville massacre contributed to the banning of the PAC and ANC (anti-apartheid groups) as illegal organisations. The massacre was one of the catalysts for a shift from passive resistance to armed resistance by these organisations.`,
         link: 'https://www.sahistory.org.za/article/sharpeville-massacre-21-march-1960',
         infoSrc: 'https://en.wikipedia.org/wiki/Sharpeville_massacre'
+      },
+      {
+        category: 'Other',
+        date: 'March 21st, 1947',
+        title: `Truman's "Loyalty Order" (1947)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/truman.jpg'),
+        description: `On this day in 1947, President Harry S. Truman signed United States Executive Order 9835, sometimes known as the "Loyalty Order". The order established the first general loyalty program in the United States, designed to root out communist influence in the U.S. federal government. The program investigated more than three million government employees, just over 300 of whom were dismissed as security risks.\n\nThe order established a wide area for the departmental loyalty boards to conduct loyalty screenings of federal employees and job applicants and allowed the FBI to run initial name checks on federal employees and authorized further field investigations if the initial inquiry uncovered information that cast someone in a negative light.\n\nExecutive Order 9835 also was the main impetus for the creation of the Attorney General's List of Subversive Organizations (AGLOSO). It was later revoked by Eisenhower in 1953, but only to further expand the restrictions in a new executive order (Executive Order 10450). Both executive orders were explicitly repealed by President Bill Clinton (Executive Orders 12968 and 13087).`,
+        link: 'https://www.trumanlibrary.gov/education/presidential-inquiries/trumans-loyalty-program',
+        infoSrc: 'https://en.wikipedia.org/wiki/Executive_Order_9835'
       },
     ],
   },
@@ -6544,7 +6553,7 @@ export const eventLibrary = {
         date: 'April 4th, 1903',
         title: 'Marvel Cooke (1903 - 2000)',
         imgSrc: require('./assets/eventPhotos/Individuals/marvelCooke.jpg'),
-        description: `Marvel Jackson Cooke, born on this day in 1903, was a pioneering American journalist, writer, and civil rights activist. She was the first African-American woman to work at a mainstream white-owned newspaper.\n\nCooke got her start when she was offered a job as assistant to W.E.B. Du Bois, editor of the NAACP magazine The Crisis. Du Bois had chosen her for this role on recognition of her writing talent alone - she had no prior experience or education in journalism. In 1926 moved to New York City, settling in Harlem during the Harlem Renaissance.\n\nLater in life, Cooke was an ardent advocate of Angela Davis. She began working with the Angela Davis Defense Committee in 1969 and volunteered as national legal defense secretary of the Angela Davis Defense Fund in 1971. She also coordinated committee activities in New York and raised money for Angela Davis’s defense by organizing a rally at Madison Square Gardens attended by over 16,000 people.`,
+        description: `Marvel Jackson Cooke, born on this day in 1903, was a pioneering American journalist, writer, and civil rights activist. She was the first African-American woman to work at a mainstream white-owned newspaper.\n\nCooke got her start when she was offered a job as assistant to W.E.B. Du Bois, editor of the NAACP magazine The Crisis. Du Bois had chosen her for this role on recognition of her writing talent alone - she had no prior experience or education in journalism. In 1926 moved to New York City, settling in Harlem during the Harlem Renaissance.\n\nLater in life, Cooke was an ardent advocate of Angela Davis. She began working with the Angela Davis Defense Committee in 1969 and volunteered as national legal defense secretary of the Angela Davis Defense Fund in 1971. She also coordinated committee activities in New York and raised money for Angela Davis's defense by organizing a rally at Madison Square Gardens attended by over 16,000 people.`,
         link: 'https://www.peoplesworld.org/article/the-extraordinary-life-of-marvel-cooke/',
         infoSrc: 'https://en.wikipedia.org/wiki/Marvel_Cooke'
       },
@@ -7613,7 +7622,7 @@ export const eventLibrary = {
         date: 'April 19th, 1960',
         title: 'Looby House Bombing (1960)',
         imgSrc: require('./assets/eventPhotos/Events/loobyBombing.jpg'),
-        description: `Z. Alexander Looby was a Nashville politician and famous civil rights attorney who worked with the NAACP. He is notable for his defense of the 25 black men charged with murder as part of the 1946 Columbia Race Riots and supporting the students participating in the Nashville Sit-ins of 1960.\n\nOn this day in 1960, a bundle of dynamite was lobbed towards the front of the house of Z. Alexander Looby, a Nashville councilman and famed civil rights attorney. Rolling onto the home’s concrete foundation, it detonated, the blast destroying the front of the house.\n\nLooby survived, and the bombing was the catalyst for a march held later that day, in which nearly 3,000 people marched to City Hall in total silence. Once the crowd converged on City Hall, they were met on the steps of the plaza by Mayor Ben West, who admitted to the crowd that he supported desgregating the lunch counters.`,
+        description: `Z. Alexander Looby was a Nashville politician and famous civil rights attorney who worked with the NAACP. He is notable for his defense of the 25 black men charged with murder as part of the 1946 Columbia Race Riots and supporting the students participating in the Nashville Sit-ins of 1960.\n\nOn this day in 1960, a bundle of dynamite was lobbed towards the front of the house of Z. Alexander Looby, a Nashville councilman and famed civil rights attorney. Rolling onto the home's concrete foundation, it detonated, the blast destroying the front of the house.\n\nLooby survived, and the bombing was the catalyst for a march held later that day, in which nearly 3,000 people marched to City Hall in total silence. Once the crowd converged on City Hall, they were met on the steps of the plaza by Mayor Ben West, who admitted to the crowd that he supported desgregating the lunch counters.`,
         link: 'https://en.wikipedia.org/wiki/Z._Alexander_Looby',
         infoSrc: 'https://www.atlasobscura.com/places/site-of-the-looby-house-bombing'
       },
@@ -8724,13 +8733,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 15th, 1916',
+        title: 'U.S. Occupation of the Dominican Republic (1916)',
+        imgSrc: require('./assets/eventPhotos/Events/drOccupation.jpg'),
+        description: `The first United States occupation of the Dominican Republic began on this day in 1916 and continued until 1924. It began when "two companies of marines landed from the USS Prairie at Santo Domingo" with the goal of offering protection to the U.S. Legation and the U.S. Consulate, and to occupy the Fort San Geronimo. Within hours, these companies were reinforced with seven additional companies, and two days later the President of the Dominican Republic, Juan Isidro Jimenes, resigned.\n\nThe U.S. took control of the country and began imposing military rule on November 29th, 1916. A guerrilla movement, known as the gavilleros, with leaders such as General Ramón Natera, enjoyed considerable support from the population in the eastern provinces of El Seibo and San Pedro de Macorís. Having knowledge of the local terrain, they fought against the occupation from 1917 to 1921.\n\nDominican control of the island returned in 1924, when the U.S. government agreed to withdraw on condition of holding elections with American oversight and the acceptance of American officers into the Dominican National Guard. Soon after, dictator Rafael Trujillo would begin his first eight reign over the country, waging a brutal and violent suppression of the domestic population and promoting prejudice against Haitians ("Antihaitianismo").`,
+        link: 'https://www.thoughtco.com/us-occupation-of-the-dominican-republic-2136380',
+        infoSrc: 'https://en.wikipedia.org/wiki/United_States_occupation_of_the_Dominican_Republic_(1916%E2%80%931924)'
       },
     ],
   },
@@ -8928,13 +8937,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 8th, 1940',
+        title: 'ACLU Expels Elizabeth Flynn (1940)',
+        imgSrc: require('./assets/eventPhotos/Individuals/elizabethFlynn.jpg'),
+        description: `Elizabeth Gurley Flynn was a radical labor activist who co-founded International Workers of the World (IWW). She had a long history of labor organizing, playing a leading role in the Paterson Silk Strike of 1913 and a free speech fight in Spokane, Washington, where she chained herself to a lamppost to delay her inevitable arrest. She was also a member of the Communist Party of the United States of America, joining in 1936.\n\nOn this day in 1940, the leadership of the American Civil Liberties Union (ACLU), voted to expel labor radical and founding member Elizabeth Gurley Flynn for her Communist Party membership. In February 1940, the ACLU board and adopted a controversial resolution that effectively barred communists from serving. For her part, Elizabeth Gurley Flynn refused to leave, forcing the organization to vote to remove her.\n\nLater, the ACLU would also fail to come to the defense of one W.E.B. Du Bois, one its most prominent founding members who was also a communist, when he arrested and facing trial for gathering signatures for a global nuclear non-proliferation treaty in 1951.`,
+        link: 'https://en.wikipedia.org/wiki/Elizabeth_Gurley_Flynn',
+        infoSrc: 'https://jacobinmag.com/2020/05/aclu-elizabeth-gurley-flynn-red-baiting'
       },
     ],
   },
@@ -9387,6 +9396,15 @@ export const eventLibrary = {
         description: `The Western Federation of Miners (WFM) was a radical labor union that gained a reputation for militancy in the mines of the western United States and British Columbia. Its efforts to organize both hard rock miners and smelter workers brought it into sharp conflicts - and often pitched battles - with both employers and governmental authorities. It was one of the organizations at the heart of the Colorado Coal Wars.\n\nThe organization's earliest years were radical, adopting an explicitly socialist platform in 1901. "Big Bill" Haywood, who had joined the WFM as a secretary, was a prominent member during this time.\n\nThe WFM played a role in founding the International Workers of the World (IWW) in 1905, however the split between revolutionaries and reformists led to the WFM withdrawing from the organization several years later and joining the American Federation of Labor (AFL). Because of this, Haywood and prominent labor leader Vincent St. John quit the WFM and channeling their efforts through the IWW instead.`,
         link: 'https://www.marxists.org/glossary/orgs/w/e.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Western_Federation_of_Miners'
+      },
+      {
+        category: 'Other',
+        date: 'May 15th, 1950',
+        title: 'Nairobi General Strike (1950)',
+        imgSrc: require('./assets/eventPhotos/Events/nairobiGeneralStrike.jpg'),
+        description: `The Nairobi General Strike was the culmination of Kenya's post war strike wave and urban upheaval which began on this day in 1950. It came on the heels of a general strike in Mombasa in 1947, led by the African Workers Federation (AWF).\n\nIn the decade leading up to the strike, Nairobi's population more than doubled to at least 100,000, mostly attributable to wartime migration into the city. This was fueled by serious problems of landlessness in the Kikuyu reserves, which were pushing out increasing numbers of ahoi. The land litigation cases that followed, especially in Kiambu, saw the losers becoming either workers in their former lands, now owned by the growing elite of commercial farmers, or simply leaving for Nairobi.\n\nOn the morning of May 15th, Fred Kubai and Makhan Singh, leaders in the East African Trades Union Congress (EATCU), were arrested by and charged with being officers of an unregistered trade union refusing to dissolve within the three month notification period. Later that day members of the EATCU declared a general strike to begin the following day, but by evening a general strike was already in effect all over Nairobi.\n\nThe strike paralyzed airport travel, public services, and greatly limited commcercial business. In a puzzling decision, strike leadership called off the strike after a week's worth of protest, disseminating a return-to-work order for May 25th. In the aftermath of the strike, the power of trade unions was diminished with the government arresting thousands of their members. Despite this setback, the labor movement in Kenya was not broken and continued to gain momentum in the following decade.`,
+        link: 'https://libcom.org/library/nairobi-general-strike-1950-protest-insurgency',
+        infoSrc: 'https://libcom.org/library/nairobi-general-strike-1950-protest-insurgency'
       },
     ],
     'Birthdays': [
@@ -10227,7 +10245,7 @@ export const eventLibrary = {
         date: 'May 27th, 1895',
         title: 'In re Debs (1895)',
         imgSrc: require('./assets/eventPhotos/Individuals/debsMugshot.jpg'),
-        description: `In re Debs (Latin: "In the matter of Debs") was a legal case in which the U.S. Supreme Court, on this day in 1895, unanimously upheld the government’s use of the injunction against a labor strike, specifically the Pullman Strike of the following year.\n\nThe Pullman Strike was a large national railroad strike led by the American Railway Union (ARU), involving around 250,000 workers in 27 states. The federal government obtained an injunction against the union, Eugene V. Debs, and other boycott leaders, ordering them to stop interfering with trains that carried mail cars. After the strikers refused, President Grover Cleveland forcbily ended the strke with military force.\n\nDebs and four other ARU leaders were arrested and charged with violating the injuction. After the Supreme Court sided with the government, Debs was sentenced to prison and the ARU dissolved.\n\nIn re Debs contributed to a widely held belief that the Supreme Court was simply a tool of the wealthy and big business - for the next 40 years business interests hostile to labor unions found the courts willing partners in suppressing strikes through injunction. This practice ended in 1932 with the Norris-La Guardia Act.`,
+        description: `In re Debs (Latin: "In the matter of Debs") was a legal case in which the U.S. Supreme Court, on this day in 1895, unanimously upheld the government's use of the injunction against a labor strike, specifically the Pullman Strike of the following year.\n\nThe Pullman Strike was a large national railroad strike led by the American Railway Union (ARU), involving around 250,000 workers in 27 states. The federal government obtained an injunction against the union, Eugene V. Debs, and other boycott leaders, ordering them to stop interfering with trains that carried mail cars. After the strikers refused, President Grover Cleveland forcbily ended the strke with military force.\n\nDebs and four other ARU leaders were arrested and charged with violating the injuction. After the Supreme Court sided with the government, Debs was sentenced to prison and the ARU dissolved.\n\nIn re Debs contributed to a widely held belief that the Supreme Court was simply a tool of the wealthy and big business - for the next 40 years business interests hostile to labor unions found the courts willing partners in suppressing strikes through injunction. This practice ended in 1932 with the Norris-La Guardia Act.`,
         link: 'https://en.wikipedia.org/wiki/Pullman_Strike',
         infoSrc: 'https://www.britannica.com/topic/In-re-Debs'
       },
@@ -12332,7 +12350,7 @@ export const eventLibrary = {
         date: 'June 26th, 1952',
         title: 'Olive Morris (1952 - 1979)',
         imgSrc: require('./assets/eventPhotos/Individuals/oliveMorris.jpg'),
-        description: `Morris, Olive Elaine, activist was born on this day in 1952, in Harewood, St Catherine’s, Jamaica. When she was nine years old, she, and her brother, Basil, left their maternal grandmother and joined her mother and father in Lavender Hill, south London.\n\nOlive became a member of the youth section of the Black Panther Movement (later the Black Workers Movement), along with others such as Linton Kwesi Johnson, Clovis Reid and Farrukh Dhondy. Olive was also a founding member of the Brixton Black Women’s Group. She died prematurely from non-Hodgkinson's lymphoma at the age of 27.`,
+        description: `Morris, Olive Elaine, activist was born on this day in 1952, in Harewood, St Catherine's, Jamaica. When she was nine years old, she, and her brother, Basil, left their maternal grandmother and joined her mother and father in Lavender Hill, south London.\n\nOlive became a member of the youth section of the Black Panther Movement (later the Black Workers Movement), along with others such as Linton Kwesi Johnson, Clovis Reid and Farrukh Dhondy. Olive was also a founding member of the Brixton Black Women's Group. She died prematurely from non-Hodgkinson's lymphoma at the age of 27.`,
         link: 'http://libcom.org/history/morris-olive-elaine-1952-1979',
         infoSrc: 'http://libcom.org/history/morris-olive-elaine-1952-1979'
       },
@@ -12363,13 +12381,13 @@ export const eventLibrary = {
   '6-27': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'June 27th, 1954',
+        title: `Guatemalan coup d'État (1954)`,
+        imgSrc: require('./assets/eventPhotos/Events/operationPBSUCCESS.jpg'),
+        description: `Juan Jacobo Árbenz Guzmán (1913 - 1971) was ousted from power a U.S. led coup d'etat in Guatemala in 1954. Árbenz was a major figure in the ten-year Guatemalan Revolution, which represented some of the few years of representative democracy in Guatemalan history.\n\nHis agrarian reform, which uncultivated portions of large land-holdings were expropriated in return for compensation and redistributed to poverty-stricken agricultural laborers benefited approximately 500,000 people, most of them indigenous, whose forebears had been dispossessed after the Spanish invasion.\n\nThis policy alienated the influential United Fruit Company, which lobbied the United States government to have him overthrown. The U.S., also concerned by the presence of communists in the Guatemalan government, began planning a coup that would be led by the Central Intelligence Agency (CIA)\n\nThe CIA armed, funded, and trained a force of 480 men led by Carlos Castillo Armas. Castillo Armas' force invaded Guatemala on June 18th and was backed by a heavy campaign of psychological warfare, which included a radio station which broadcast anti-government propaganda and a version of military events favorable to the rebellion, claiming to be genuine news.\n\nAlthough the invasion force's military actions fared poorly, the psychological warfare and fear of a U.S. invasion intimidated the Guatemalan army, which eventually refused to fight. Árbenz briefly and unsuccessfully attempted to arm civilians to resist the invasion, before resigning on this day in 1954 He was succeeded in power by Carlos Castillo Armas, the same man who led the invading force.`,
+        link: 'https://www.zinnedproject.org/news/tdih/jacobo-arbenz-guzman-deposed/',
+        infoSrc: 'https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat'
       },
     ],
     'Rebellion': [
@@ -12409,7 +12427,7 @@ export const eventLibrary = {
         date: 'June 27th, 1880',
         title: 'Helen Keller (1880 - 1968)',
         imgSrc: require('./assets/eventPhotos/Individuals/helenKeller.jpg'),
-        description: `Helen Adams Keller, born on this day in 1880, was an American author, socialist, anti-racist, and disability rights advocate. She was the first deaf-blind person to earn a Bachelor of Arts degree.\n\nIn 1909, Keller joined the American Socialist Party and campaigned for its candidates, including Eugene Debs, the SP leader who ran for U.S. president from his prison cell in 1920. She supported striking workers, including those murdered the 1914 Colorado Ludlow Massacre, and called owner John D. Rockefeller a "monster of capitalism." She defined herself as a "militant suffragist," campaigning for women’s right to vote because she believed this was linked to the struggle for socialism.\n\nContemporary critics lambasted Keller for her socialism. In a 1924 letter to a U.S. Senator, she wrote "So long as I confine my activities to social service and the blind, they compliment me extravagantly, calling me ‘arch priestess of the sightless,’ ‘wonder woman,’ and a ‘modern miracle.’ But when it comes to a discussion of poverty, and I maintain that it is the result of wrong economics — that the industrial system under which we live is at the root of much of the physical deafness and blindness in the world — that is a different matter!"\n\nBy the time Keller died in 1968 at 87, the FBI had kept her under surveillance for most of her adult life.`,
+        description: `Helen Adams Keller, born on this day in 1880, was an American author, socialist, anti-racist, and disability rights advocate. She was the first deaf-blind person to earn a Bachelor of Arts degree.\n\nIn 1909, Keller joined the American Socialist Party and campaigned for its candidates, including Eugene Debs, the SP leader who ran for U.S. president from his prison cell in 1920. She supported striking workers, including those murdered the 1914 Colorado Ludlow Massacre, and called owner John D. Rockefeller a "monster of capitalism." She defined herself as a "militant suffragist," campaigning for women's right to vote because she believed this was linked to the struggle for socialism.\n\nContemporary critics lambasted Keller for her socialism. In a 1924 letter to a U.S. Senator, she wrote "So long as I confine my activities to social service and the blind, they compliment me extravagantly, calling me ‘arch priestess of the sightless,' ‘wonder woman,' and a ‘modern miracle.' But when it comes to a discussion of poverty, and I maintain that it is the result of wrong economics — that the industrial system under which we live is at the root of much of the physical deafness and blindness in the world — that is a different matter!"\n\nBy the time Keller died in 1968 at 87, the FBI had kept her under surveillance for most of her adult life.`,
         link: 'https://www.workers.org/2016/03/24250/',
         infoSrc: 'https://www.workers.org/2016/03/24250/'
       },
@@ -12504,13 +12522,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 28th, 1940',
+        title: 'Smith Act (1940)',
+        imgSrc: require('./assets/eventPhotos/Events/smithActTrial.jpg'),
+        description: `The Alien Registration Act, popularly known as the Smith Act, is a United States federal statute that was enacted on this day in 1940. It set criminal penalties for advocating the overthrow of the U.S. government by force or violence and required all non-citizen adult residents to register with the federal government.\n\nThe number registered non-citizens began in August of 1940 and passed 4.7 million by January of 1941. After the U.S. declared war in 1941, federal authorities used data gathered from alien registrations to identify citizens of enemy nations and take 2,971 them into custody by the end of the year.\n\nApproximately 215 people were indicted under the legislation, including alleged communists, anarchists, and fascists. One of the most notable cases was a ten-month trial of eleven communist leaders in 1949, ten of whom were sentenced to five years in prison. Prosecutions under the Smith Act continued until a series of U.S. Supreme Court decisions in 1957 reversed a number of convictions under the Act, as unconstitutional. The law has also been amended several times, but is still in effect.`,
+        link: 'https://depts.washington.edu/labhist/cpproject/SmithAct.shtml',
+        infoSrc: 'https://en.wikipedia.org/wiki/Smith_Act'
       },
     ],
   },
@@ -12901,7 +12919,7 @@ export const eventLibrary = {
         date: 'July 4th, 1863',
         title: 'Immigration Act of 1864',
         imgSrc: require('./assets/eventPhotos/Events/immigrants.jpg'),
-        description: `Passed on this day in 1864, the Immigration Act legalized labor recruitment practices similar to indentured servitude to encourage immigration to the United States and economic development. It allowed employers, such as railroad and mining interests, to contract an immigrant workers to come to the United States under guidelines established by the federal government. Under the law, immigrant workers would pay for their passage with up to a year’s wages.\n\nThis law provided corporations with cheap labor that could (and would) be used to break strikes. In the face of vociferous protests by labor organizations, Congress repealed this law in 1868.`,
+        description: `Passed on this day in 1864, the Immigration Act legalized labor recruitment practices similar to indentured servitude to encourage immigration to the United States and economic development. It allowed employers, such as railroad and mining interests, to contract an immigrant workers to come to the United States under guidelines established by the federal government. Under the law, immigrant workers would pay for their passage with up to a year's wages.\n\nThis law provided corporations with cheap labor that could (and would) be used to break strikes. In the face of vociferous protests by labor organizations, Congress repealed this law in 1868.`,
         link: 'https://www.historyisaweapon.com/defcon1/zinnother10.html',
         infoSrc: 'https://immigrationhistory.org/item/immigration-act-of-1864/'
       },
@@ -13105,7 +13123,7 @@ export const eventLibrary = {
         date: 'July 7th, 1903',
         title: `March of the Mill Children (1903)`,
         imgSrc: require('./assets/eventPhotos/Events/childrensMarch.jpg'),
-        description: `The March of the Mill Children was a three-week trek from Philadelphia to New York by striking child and adult textile workers launched on this day in 1903 by Mother Jones. At the time, approximately one out of six children under the age of sixteen were employed, according to the 1900 census.\n\nThe march began when Mother Jones tried to get newspapers to report on the conditions of child workers and they informed her that they would not run the stories about child labor because of the mill owners holding stock in the papers. Jones replied "Well, I've got stock in these little children and I'll arrange a little publicity."\n\nThe march successfully won that publicity, bringing national attention to the plight of working children. On July 29th, Jones and fellow marchers arrived at Roosevelt’s Sagamore Hill summer home, where he refused to meet with them. Although the strike was an initial failure, it galvanized support for anti-child labor laws to be passed on the national level, which finally occured with the Fair Labor Standards Act of 1938.`,
+        description: `The March of the Mill Children was a three-week trek from Philadelphia to New York by striking child and adult textile workers launched on this day in 1903 by Mother Jones. At the time, approximately one out of six children under the age of sixteen were employed, according to the 1900 census.\n\nThe march began when Mother Jones tried to get newspapers to report on the conditions of child workers and they informed her that they would not run the stories about child labor because of the mill owners holding stock in the papers. Jones replied "Well, I've got stock in these little children and I'll arrange a little publicity."\n\nThe march successfully won that publicity, bringing national attention to the plight of working children. On July 29th, Jones and fellow marchers arrived at Roosevelt's Sagamore Hill summer home, where he refused to meet with them. Although the strike was an initial failure, it galvanized support for anti-child labor laws to be passed on the national level, which finally occured with the Fair Labor Standards Act of 1938.`,
         link: 'https://www.zinnedproject.org/news/tdih/mother-jones-march-mill-children/',
         infoSrc: 'https://philadelphiaencyclopedia.org/archive/march-of-the-mill-children/'
       },
@@ -14562,13 +14580,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'July 28th, 1915',
+        title: 'U.S. Occupies Haiti (1915)',
+        imgSrc: require('./assets/eventPhotos/Events/haitiOccupation.jpg'),
+        description: `On this day in 1915, the United States occupation of Haiti began when 330 US Marines landed at Port-au-Prince, Haiti, on orders from U.S. President Woodrow Wilson. The July intervention took place following the murder of dictator President Vilbrun Guillaume Sam by insurgents angered by his political murders of elite opposition.\n\nPresident Wilson ordered the invasion to "protect American and foreign" interests. He also wanted to rewrite the Haitian constitution, which banned foreign ownership of land, and replace it with one that guaranteed American financial control. To avoid public criticism, Wilson claimed the occupation was a mission to "re-establish peace and order...and has nothing to do with any diplomatic negotiations of the past or the future".\n\nWhen the Haitian legislature refused to ratify a new constitution that allowed foreigners to own land in Haiti, the U.S. backed President Dartiguenave dissolved the legislature and the constitution became law. U.S. occupiers also re-instituted a system known as civil conscription (impressed labor), in which Haitian civilians were captured and forced to work on public projects, such as building roads, and established the National Guards.\n\nThe U.S. continued to militarily occupy Haiti until August 15th, 1934.`,
+        link: 'https://www.washingtonpost.com/news/worldviews/wp/2015/07/30/100-years-ago-the-u-s-invaded-and-occupied-this-country-can-you-name-it/',
+        infoSrc: 'https://en.wikipedia.org/wiki/United_States_occupation_of_Haiti'
       },
     ],
   },
@@ -17884,6 +17902,15 @@ export const eventLibrary = {
         link: 'https://www.plannedparenthood.org/files/9214/7612/8734/Sanger_Fact_Sheet_Oct_2016.pdf',
         infoSrc: 'https://en.wikipedia.org/wiki/Margaret_Sanger'
       },
+      {
+        category: 'Birthdays',
+        date: 'September 14th, 1913',
+        title: 'Jacobo Árbenz (1913 - 1971)',
+        imgSrc: require('./assets/eventPhotos/Individuals/jacoboArbenz.jpg'),
+        description: `Juan Jacobo Árbenz Guzmán, born on this day in 1913, was a Guatemalan military officer and politician who served as the 25th president of Guatemala. He was Minister of National Defense from 1944 to 1951, and the second democratically elected President of Guatemala from 1951 to 1954. He was a major figure in the ten-year Guatemalan Revolution, which represented some of the few years of representative democracy in Guatemalan history.\n\nÁrbenz instituted many popular reforms, including an expanded right to vote, the right of workers to organize, legitimizing political parties, and allowing public debate. The centerpiece of his policy was an agrarian reform law, under which uncultivated portions of large land-holdings were expropriated in return for compensation and redistributed to poverty-stricken agricultural laborers. Approximately 500,000 people benefited from the decree, the majority of them were indigenous people, whose forebears had been dispossessed after the Spanish invasion.\n\nOpposition to these policies caused the United Fruit Company to lobby the United States government to have him overthrown. The US was also concerned by the presence of communists in the Guatemalan government, and Árbenz was ousted in the 1954 Guatemalan coup d'état engineered by the U.S. government on June 27th, 1954.`,
+        link: 'https://www.britannica.com/biography/Jacobo-Arbenz',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jacobo_%C3%81rbenz'
+      },
     ],
     'Assassinations': [
       {
@@ -18537,13 +18564,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 23rd, 1950',
+        title: 'Internal Security Act (1950)',
+        imgSrc: require('./assets/eventPhotos/Events/mcCarranAct.jpg'),
+        description: `The Internal Security Act, also known as the McCarran Act or the Concentration Camp Law, is a United States federal law that became effective on this day in 1950. The Act required Communist organizations to register with the United States Attorney General, banned communists from working for the government or obtaining a passport, and established the Subversive Activities Control Board to investigate persons suspected of engaging in subversive activities or otherwise promoting the establishment of a "totalitarian dictatorship," either fascist or communist.\n\nThe law also tightened alien exclusion and deportation laws and allowed for the detention of dangerous, disloyal, or subversive persons in times of war or "internal security emergency", which had a profound affect on immigration. By March 1st, 1951, the Act had excluded 54,000 people of German ethnic origin and 12,000 displaced Russian persons from entering the United States.\n\nAlthough the law is still in effect today, many of its most controversial provisions have been directly repealed or ruled unconstitutional, such as laws regarding detention of political dissidents, banning communists from working for the government, and having to register with the government. One provision still legal, however, allows the military to "regulate" weapons held by private citizens (50 U.S.C. § 797).`,
+        link: 'https://teachingamericanhistory.org/library/document/the-internal-security-act/',
+        infoSrc: 'https://en.wikipedia.org/wiki/McCarran_Internal_Security_Act'
       },
     ],
   },
@@ -18633,7 +18660,7 @@ export const eventLibrary = {
         date: 'September 25th, 1800',
         title: 'Gabriel Prosser Captured (1775 - 1800)',
         imgSrc: require('./assets/eventPhotos/Individuals/gabrielProsser.jpg'),
-        description: `Gabriel Prosser was the leader of an unsuccessful slave revolt in Richmond, Virginia in 1800. Little is known of Prosser’s life before the revolt that catapulted him into notoriety. Prosser’s two brothers, Solomon and Martin and his wife, Nanny, were all owned by Thomas Prosser and all participated in the insurrection.\n\nAt the time of the insurrection, Gabriel Prosser was twenty-four years old, six feet two inches, literate, and a blacksmith by trade. He was described by a contemporary as "a fellow of courage and intellect above his rank in life." With the help of other slaves, Prosser devised a plan to seize control of Richmond by killing all of the whites (except the Methodists, Quakers and Frenchmen) and then establishing a Kingdom of Virginia with himself as monarch.\n\nUnfortunately, Prosser was betrayed twice - first by his fellow slaves, who told their owner about his plan, and then by slaves in Norfolk, who turned a fleeing Prosser in to the authorities for a bounty. It was on this day in 1800 that Prosser was captured. He was executed, along with two of his brothers and 23 other slaves, a few weeks later on October 6th.`,
+        description: `Gabriel Prosser was the leader of an unsuccessful slave revolt in Richmond, Virginia in 1800. Little is known of Prosser's life before the revolt that catapulted him into notoriety. Prosser's two brothers, Solomon and Martin and his wife, Nanny, were all owned by Thomas Prosser and all participated in the insurrection.\n\nAt the time of the insurrection, Gabriel Prosser was twenty-four years old, six feet two inches, literate, and a blacksmith by trade. He was described by a contemporary as "a fellow of courage and intellect above his rank in life." With the help of other slaves, Prosser devised a plan to seize control of Richmond by killing all of the whites (except the Methodists, Quakers and Frenchmen) and then establishing a Kingdom of Virginia with himself as monarch.\n\nUnfortunately, Prosser was betrayed twice - first by his fellow slaves, who told their owner about his plan, and then by slaves in Norfolk, who turned a fleeing Prosser in to the authorities for a bounty. It was on this day in 1800 that Prosser was captured. He was executed, along with two of his brothers and 23 other slaves, a few weeks later on October 6th.`,
         link: 'https://en.wikipedia.org/wiki/Gabriel_Prosser',
         infoSrc: 'https://www.blackpast.org/african-american-history/prosser-gabriel-1775-1800/'
       },
@@ -19696,13 +19723,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'October 10th, 1947',
+        title: 'West African Railway Strike (1947)',
+        imgSrc: require('./assets/eventPhotos/Events/africanRailStrike.jpg'),
+        description: `On this day in 1947, the longest strike at that point in African history began, stretching across all branches of railway in French West Africa, the wharfs in Dahomey, and the Ivory Coast. For more than six months, 17,000 railway workers and 2,000 workers in the wharfs refused to work. The timing of the strike was crucial, undermining new French economic goals for the railway.\n\nThe strike was organized by Ibrahima Sarr, the Federal Secretary of the Railway Union. Workers demanded housing, rights for temporary workers, wages to follow regional differences in the cost of living, and clearer standards for promotions.\n\nThe government did not respond for three months, assuming the strike would collapse due to economic pressure. Workers had prepared for this, however, taking up community collections, the community exiling strikebreaking workers, and women of the household economically sustaining families while workers were on strike.\n\nOn March 19th, the workers' union accepted a set of proposals favorable to their demands and returned to work. The strike ended with a long, celebratory march into Thiès, followed by meetings and dancing.`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnpeopleswar.html',
+        infoSrc: 'https://nvdatabase.swarthmore.edu/content/french-west-african-railway-workers-strike-greater-benefits-1947-1948'
       },
     ],
     'Birthdays': [
@@ -19847,7 +19874,7 @@ export const eventLibrary = {
         date: 'October 12th, 1904',
         title: 'Ding Ling (1904 - 1986)',
         imgSrc: require('./assets/eventPhotos/Individuals/dingLing.jpg'),
-        description: `Jiang Bingzhi, better known by her pen name Ding Ling was born on this day in 1904 and is considered one of China’s most popular 20th century authors. In her early career, Ding Ling initially wrote highly successful short stories centring on young, unconventional Chinese women. Around 1930 she became a major literary figure of the "leftist" literature.\n\nIn 1931, her husband, communist poet Hu Yepin, was executed in Shanghai by the Kuomintang government for his association with the Communists. Shortly thereafter, she joined the Chinese Communist Party and almost all of her fiction from this time on was in support of its goals.\n\nDespite this, in 1957 she was denounced as a "rightist", purged from the party, and her fiction and essays were banned. She spent five years in jail during the Cultural Revolution and was sentenced to do manual labor on a farm for twelve years before being "rehabilitated" in 1978.`,
+        description: `Jiang Bingzhi, better known by her pen name Ding Ling was born on this day in 1904 and is considered one of China's most popular 20th century authors. In her early career, Ding Ling initially wrote highly successful short stories centring on young, unconventional Chinese women. Around 1930 she became a major literary figure of the "leftist" literature.\n\nIn 1931, her husband, communist poet Hu Yepin, was executed in Shanghai by the Kuomintang government for his association with the Communists. Shortly thereafter, she joined the Chinese Communist Party and almost all of her fiction from this time on was in support of its goals.\n\nDespite this, in 1957 she was denounced as a "rightist", purged from the party, and her fiction and essays were banned. She spent five years in jail during the Cultural Revolution and was sentenced to do manual labor on a farm for twelve years before being "rehabilitated" in 1978.`,
         link: 'https://en.wikipedia.org/wiki/Ding_Ling',
         infoSrc: 'https://www.britannica.com/biography/Ding-Ling'
       },
@@ -21234,13 +21261,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'November 1st, 1949',
+        title: 'Smith Act Trial (1949)',
+        imgSrc: require('./assets/eventPhotos/Events/smithActTrial.jpg'),
+        description: `The Alien Registration Act, popularly known as the Smith Act, is a United States federal statute that was enacted on June 28th, 1940. It set criminal penalties for advocating the overthrow of the U.S. government by force or violence and required all non-citizen adult residents to register with the federal government. Approximately 215 people were indicted under the legislation, including alleged communists, anarchists, and fascists.\n\nOne this day in 1949, the first trial of communist leaders began in Manhattan, New York. The trial, lasting ten months, was one of the longest in United States history, and took place at a fever pitch of anti-communist hysteria - the USSR tested its first nuke, communists won the Chinese Civil War, and the House of UnAmerican Activities Committee began its censorship in Hollywood, all while the trial was underway.\n\nAll eleven defendants were convicted under the Smith Act, and all five of their defense attorneys were imprisoned for contempt of court. Two were later disbarred. In the years following, more than 100 additional Communist Party USA (CPUSA) officers were convicted for violating the Smith Act, decimating the leadership of the CPUSA. The Supreme Court put an end to these types of convictions in Yates v. United States (1957), where it ruled that radical speech was protected under the 1st amendment.`,
+        link: 'https://depts.washington.edu/labhist/cpproject/SmithAct.shtml',
+        infoSrc: 'https://en.wikipedia.org/wiki/Smith_Act_trials_of_Communist_Party_leaders'
       },
     ],
   },
@@ -21651,7 +21678,7 @@ export const eventLibrary = {
         date: 'November 7th, 1888',
         title: 'Nestor Makhno (1888 - 1934)',
         imgSrc: require('./assets/eventPhotos/Individuals/Makhno.jpg'),
-        description: `Nestor Ivanovych Makhno was a Ukrainian anarchist revolutionary and the commander of an independent anarchist army in Ukraine from 1917-21. Makhno was the commander of the Revolutionary Insurrectionary Army of Ukraine, commonly referred to as the Makhnovshchina (loosely translated as "Makhno movement"). The Makhnovshchina was a predominantly peasant phenomenon that grew into a mass social movement. It was initially centered around Makhno's hometown Huliaipole but over the course of the Russian Civil War came to exert a strong influence over large areas of southern Ukraine.\n\nMakhno and the movement's leadership were anarcho-communists and attempted to guide the movement along these ideological lines. Makhno was aggressively opposed to all factions that sought to impose their authority over southern Ukraine, battling in succession the forces of the Ukrainian National Republic, the Central Powers of Germany and Austro-Hungary, the Hetmanate state, the White Army, the Bolshevik Red Army, and other smaller forces.\n\nMakhno and his supporters attempted to reorganize social and economic life along anarchist lines, including the establishment of communes on former landed estates, the requisition and egalitarian redistribution of land to the peasants, and the organization of free elections to local soviets (councils) and regional congresses. However, the disruption of the civil war precluded a stable territorial base for any long-term social experiments.\n\nAlthough Makhno considered the Bolsheviks a threat to the development of an anarchist Free Territory within Ukraine, he entered into formal military alliances twice with the Red Army to defeat the White Army. In the aftermath of the White Army's defeat in Crimea in November 1920, the Bolsheviks initiated a military campaign against Makhno. After an extended period of open resistance against the Red Army, Makhno fled across the Romanian border in August 1921.\n\nIn exile, Makhno settled in Paris with his wife Halyna and daughter Yelena. While there, Makhno wrote numerous memoirs and articles for radical newspapers before dying there at the age of 45 from tuberculosis-related causes.`,
+        description: `Nestor Ivanovych Makhno was a Ukrainian anarchist revolutionary and the commander of an independent anarchist army in Ukraine from 1917-21. Makhno was the commander of the Revolutionary Insurrectionary Army of Ukraine, commonly referred to as the Makhnovshchina (loosely translated as "Makhno movement"). The Makhnovshchina was a predominantly peasant phenomenon that grew into a mass social movement.\n\nMakhno and his supporters attempted to reorganize social and economic life along anarchist principles, including the establishment of communes on former landed estates, the requisition and egalitarian redistribution of land to the peasants, and the organization of free elections to local soviets (councils) and regional congresses.\n\nAlthough Makhno considered the Bolsheviks a threat to the development of an anarchist Free Territory within Ukraine, he entered into formal military alliances twice with the Red Army to defeat the White Army. In the aftermath of the White Army's defeat in Crimea in November 1920, the Bolsheviks initiated a military campaign against Makhno. After an extended period of open resistance against the Red Army, Makhno fled across the Romanian border in August 1921.\n\nIn exile, Makhno settled in Paris with his wife Halyna and daughter Yelena. While there, Makhno wrote numerous memoirs and articles for radical newspapers before dying there at the age of 45 from tuberculosis-related causes.`,
         link: 'https://libcom.org/history/nestor-makhno-man-myth',
         infoSrc: 'https://en.wikipedia.org/wiki/Nestor_Makhno'
       },
@@ -22435,13 +22462,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'November 18th, 1909',
+        title: 'U.S. Occupies Nicaragua (1909)',
+        imgSrc: require('./assets/eventPhotos/Events/nicaraguaOccupation.jpg'),
+        description: `On this day in 1909, President William Howard Taft sent U.S. warships to take position against the elected government of Nicaraguan President José Santos Zelaya. Taft's administration had close relations with U.S. corporations operating in Nicaragua. Those corporations were opposed to the way Zelaya defended the economic interests of his country and the region from exploitation by U.S. businesses.\n\nThe U.S. moved to remove President Zelaya after he executed two American citizens who had conspired to commit a revolution against the government. Despite the fact that Zelaya proposed a commission made up of Mexicans and Americans come to Nicaragua to investigate the executions, promising to resign if it found him guilty of any wrongdoing, President Taft ordered warships to approach both Nicaraguan coasts and marines to assemble in Panama.\n\nZelaya fled the country, stating that he would "give no pretext" to American hostilities. His successor José Madríz was eventually forced to resign by the American forces, and followed Zelaya into exile. Historian Stephen Kinzer has written the following about event:\n\n"This was the first time the United States government had explicitly orchestrated the overthrow of a foreign leader. In Hawaii, an American diplomat had managed the revolution, but without specific instructions from Washington. In Cuba, Puerto Rico, and the Philippines, American 'regime change' operations were part of a larger war. The overthrow of President Zelaya in Nicaragua was the first real American coup."`,
+        link: 'https://libcom.org/history/us-orchestrated-overthrow-nicaraguan-government-1910',
+        infoSrc: 'https://www.zinnedproject.org/news/tdih/warships-nicaragua/'
       },
     ],
   },
@@ -22529,7 +22556,7 @@ export const eventLibrary = {
       {
         category: 'Rebellion',
         date: 'November 20th, 1969',
-        title: 'Occupation of Alcatraz (1969-71)',
+        title: 'Occupation of Alcatraz (1969 - 1971)',
         imgSrc: require('./assets/eventPhotos/Events/alcatrazOccupation.jpg'),
         description: `The Occupation of Alcatraz was a 19-month long protest when 89 American Indians and their supporters occupied Alcatraz Island. The protest was led by Richard Oakes, among others. This group lived on the island together until the protest was forcibly ended by the U.S. government. The group claimed that, under the Treaty of Fort Laramie between the U.S. and the Lakota tribe, all retired, abandoned, or out-of-use federal land was returned to the Indians who once occupied it.\n\nBy late May of 1971, the government had cut off all electrical power and all telephone service to the island. Left without power, fresh water, and in the face of diminishing public support and sympathy, the number of occupiers began to dwindle. On June 11, 1971, a large force of government officers removed the remaining 15 people from the island.`,
         link: 'https://www.kqed.org/news/11788540/a-look-back-at-the-occupation-of-alcatraz-50-years-later',
@@ -22766,7 +22793,7 @@ export const eventLibrary = {
         date: 'November 23rd, 1803',
         title: 'Theodore Weld (1803 - 1895)',
         imgSrc: require('./assets/eventPhotos/Individuals/theodoreWeld.jpg'),
-        description: `Theodore Dwight Weld, born on this day in 1803, was one of the architects of the American abolitionist movement during its formative years from 1830 through 1844, playing a role as writer, editor, speaker, and organizer. He is best known for his co-authorship of the authoritative compendium "American Slavery As It Is: Testimony of a Thousand Witnesses", published in 1839.\n\nHarriet Beecher Stowe partly based Uncle Tom’s Cabin on Weld's text, and it is regarded as second only to that work in its influence on the antislavery movement. Weld remained dedicated to the abolitionist movement until slavery was ended by the Thirteenth Amendment to the United States Constitution in 1865.`,
+        description: `Theodore Dwight Weld, born on this day in 1803, was one of the architects of the American abolitionist movement during its formative years from 1830 through 1844, playing a role as writer, editor, speaker, and organizer. He is best known for his co-authorship of the authoritative compendium "American Slavery As It Is: Testimony of a Thousand Witnesses", published in 1839.\n\nHarriet Beecher Stowe partly based Uncle Tom's Cabin on Weld's text, and it is regarded as second only to that work in its influence on the antislavery movement. Weld remained dedicated to the abolitionist movement until slavery was ended by the Thirteenth Amendment to the United States Constitution in 1865.`,
         link: 'https://www.nationalabolitionhalloffameandmuseum.org/theodore-dwight-weld.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Theodore_Dwight_Weld'
       },
@@ -23560,7 +23587,7 @@ export const eventLibrary = {
         date: 'December 5th, 1955',
         title: 'Montgomery Bus Boycott Begins (1955)',
         imgSrc: require('./assets/eventPhotos/Events/busBoycott.jpg'),
-        description: `The Montgomery Bus Boycott in Montgomery, Alabama was a crucial event in the 20th Century Civil Rights Movement. It began on this day in 1955. Just four days prior, Rosa Parks had refused to give up her seat on the bus for a white man and was subsequently arrested. The leader of the local NAACP chapter, E.D. Nixon, used the arrest to launch a bus boycott to fight the city’s segregated bus policy.\n\nThe boycott had widespread support in the black community, and black taxi drivers lowered their fares to match the cost of taking a bus in solidarity. In response, the membership of the "White Citizen's Council" dramatically increased.\n\nMany acts of terrorism were committed by whites in response to the boycott - the homes of Martin Luther King Jr. and Ralph Abernathy were firebombed, boycotters were often physically attacked, and dozens of activists were arrested.\n\nThe boycott ended on December 20th of 1956, when the city passed an ordinance allowing black members to sit where they wanted on the bus. The campaign of white terrorism continued, however, and all within the month that followed integration on buses, multiple churches were bombed, buses were subject to sniper fire, and at least one black man was lynched.`,
+        description: `The Montgomery Bus Boycott in Montgomery, Alabama was a crucial event in the 20th Century Civil Rights Movement. It began on this day in 1955. Just four days prior, Rosa Parks had refused to give up her seat on the bus for a white man and was subsequently arrested. The leader of the local NAACP chapter, E.D. Nixon, used the arrest to launch a bus boycott to fight the city's segregated bus policy.\n\nThe boycott had widespread support in the black community, and black taxi drivers lowered their fares to match the cost of taking a bus in solidarity. In response, the membership of the "White Citizen's Council" dramatically increased.\n\nMany acts of terrorism were committed by whites in response to the boycott - the homes of Martin Luther King Jr. and Ralph Abernathy were firebombed, boycotters were often physically attacked, and dozens of activists were arrested.\n\nThe boycott ended on December 20th of 1956, when the city passed an ordinance allowing black members to sit where they wanted on the bus. The campaign of white terrorism continued, however, and all within the month that followed integration on buses, multiple churches were bombed, buses were subject to sniper fire, and at least one black man was lynched.`,
         link: 'https://www.blackpast.org/african-american-history/montgomery-bus-boycott-1955-56/',
         infoSrc: 'https://en.wikipedia.org/wiki/Montgomery_bus_boycott'
       },
