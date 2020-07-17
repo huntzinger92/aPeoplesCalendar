@@ -179,8 +179,19 @@ export default class App extends React.Component {
             };
           };
         };
+        //if iteration is on last day, sort each category events by title, alphabetically
+        if (everyDayString[i] === "12-31") {
+          this.searchEventsResult[categories[j]].sort(function(a, b) {
+            if (a.title > b.title) {
+              return 1;
+            } else {
+              return -1;
+            };
+          });
+        };
       };
     };
+
     this.setDisplay('search');
     //exit out of specific event display:
     this.calendarDisplayRef.current.setDisplay('all');

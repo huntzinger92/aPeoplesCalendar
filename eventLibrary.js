@@ -1103,6 +1103,15 @@ export const eventLibrary = {
     'Other': [
       {
         category: 'Other',
+        date: 'January 16th, 1933',
+        title: 'Herndon Addresses the Court (1933)',
+        imgSrc: require('./assets/eventPhotos/Individuals/angeloHerndon.jpg'),
+        description: `Angelo Herndon (1933 - 1997) was an African-American labor organizer arrested and convicted of insurrection after attempting to organize black and white industrial workers in 1932 in Atlanta, Georgia. His case went to the Supreme Court twice, and Herndon was freed when the insurrection charge was ruled unconstitutional in 1937.\n\nOn this day in 1933, Hernon addressed the court. Recalling his imprisonment, Herndon wrote:\n\n"They questioned me in great detail. Did I believe that the bosses and government ought to pay insurance to unemployed workers? That Negroes should have complete equality with white people?...Did I feel that the working-class could run the mills and mines and government? That it wasn’t necessary to have bosses at all? I told them I believed all of that - and more."\n\nAddressing the court directly, Herndon stated "You may do what you will with Angelo Herndon. You may indict him. You may put him in jail. But there will come thousands of Angelo Herndons. If you really want to do anything about the case, you must go out and indict the social system. But this you will not do, for your role is to defend the system under which the toiling masses are robbed and oppressed.\n\n...You may succeed in killing one, two, even a score of working-class organizers. But you cannot kill the working class..."`,
+        link: 'https://en.wikipedia.org/wiki/Angelo_Herndon',
+        infoSrc: 'https://www.blackpast.org/african-american-history/1932-angelo-herndon-addresses-his-jury/'
+      },
+      {
+        category: 'Other',
         date: 'January 16th, 1943',
         title: `Draftee's Prayer (1943)`,
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
@@ -1194,13 +1203,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'January 18th, 1958',
+        title: 'Battle of Hayes Pond (1958)',
+        imgSrc: require('./assets/eventPhotos/Events/hayesPond.jpg'),
+        description: `The Battle of Hayes Pond was an armed confrontation between members of the Ku Klux Klan and the Lumbee Native Americans at a Klan rally near Maxton, North Carolina that took place on this day in 1958. Grand Dragon James W. "Catfish" Cole was the organizer of the Klan rally. Sanford Locklear, Simeon Oxendine and Neill Lowery were leaders of the Lumbee who attacked the Klansmen and successfully disrupted the rally.\n\nThe year prior, Cole had initiated a campaign of harassment designed to intimidate the Lumbee Tribe to help organize the local Klan. He called a rally on January 18th, and 100 Klansmen arrived at the private field near Hayes Pond which Cole had leased from a sympathetic farmer. Cole managed to erect the cross, but before he could finish the arrangements, over 500 Lumbee men appeared and encircled the assembled Klansmen.\n\nFour Klansmen were injured in the exchange of gunfire. Cole was later found guilty of inciting a riot and sentenced to two years in prison.`,
+        link: 'https://progressive.org/dispatches/the-time-native-americans-routed-the-ku-klux-klan-Hayes-Pond-1958-180719/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Hayes_Pond'
       },
     ],
     'Labor': [
@@ -2100,13 +2109,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 31st, 1935',
+        title: 'Bob Moses (1935 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/bobMoses.jpg'),
+        description: `Robert Parris Moses, born on this day in 1935, is an American educator and civil rights activist, known for his work as a leader of the Student Nonviolent Coordinating Committee (SNCC) on voter education and registration in Mississippi during the Civil Rights Movement, and his co-founding of the Mississippi Freedom Democratic Party.\n\nMoses was also vehemently opposed to the Vietnam War, and linked his opposition to the war to the civil rights struggle. Today, Moses runs the Algebra Project, which is a continued effort to improve math education in poor communities with the goal of sending more students to the workforce.`,
+        link: 'https://snccdigital.org/people/bob-moses/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Bob_Moses_(activist)'
       },
     ],
     'Assassinations': [
@@ -3546,13 +3555,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 21st, 1940',
+        title: 'John Lewis (1940 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/johnLewis1.jpg'),
+        description: `John Robert Lewis, born on this day in 1940, is an American politician and civil rights leader. He is the U.S. Representative for Georgia's 5th congressional district, serving in his 17th term in the House, having served since 1987. His district includes the northern three-fourths of Atlanta.\n\nLewis played a key role in the civil rights movement as chairman of the Student Nonviolent Coordinating Committee (SNCC) and as one of the "Big Six" leaders of groups who organized the 1963 March on Washington. He was also one of the first thirteen Freedom Riders, repeatedly beaten and jailed for his activism.`,
+        link: 'https://johnlewis.house.gov/john-lewis/biography',
+        infoSrc: 'https://en.wikipedia.org/wiki/John_Lewis_(civil_rights_leader)'
       },
     ],
     'Assassinations': [
@@ -3911,13 +3920,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 26th, 1925',
+        title: 'Robert F. Williams (1925 - 1996)',
+        imgSrc: require('./assets/eventPhotos/Individuals/robertWilliams.jpg'),
+        description: `Robert Franklin Williams, born on this day in 1925, was an American civil rights leader and author best known for serving as president of the Monroe, North Carolina chapter of the NAACP in the 1950s and into 1961. He succeeded in integrating the local public library and swimming pool in Monroe, and helped gain support for gubernatorial pardons for two young African-American boys who had received lengthy reformatory sentences in what was known as the "Kissing Case of 1958."\n\nAt a time of high racial tension and official abuses, Williams promoted armed Black self-defense in the United States. Williams obtained a charter from the National Rifle Association and set up a rifle club to defend Black people in Monroe from Ku Klux Klan, once driving them out of his neighborhood with gunfire.\n\nAfter allowing a white couple to take refuge in their home during race riots, the local police indicted Williams for kidnapping the couple, forcing him to flee the country and take up residence in Cuba as a guest of Fidel Castro. While there, he ran a radio program called "Radio Free Dixie" with Castro support. In 1966 Williams moved to China where he became a friend and advisor to Mao Zedong.\n\nIn 1969, he returned to the United States and adopted more moderate political views. In 1996, Williams died of Hodgkin's Lymphona in Grand Rapids, Michigan.`,
+        link: 'https://en.wikipedia.org/wiki/Robert_F._Williams',
+        infoSrc: 'https://www.blackpast.org/african-american-history/williams-robert-f-1925-1996/'
       },
     ],
     'Assassinations': [
@@ -5357,13 +5366,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'March 18th, 1933',
+        title: 'Unita Blackwell (1933 - 2019)',
+        imgSrc: require('./assets/eventPhotos/Individuals/unitaBlackwell.jpg'),
+        description: `Unita Zelma Blackwell, born on this day in 1933, was an American civil rights activist who was the first African-American woman to be elected mayor in the U.S. state of Mississippi. Blackwell was also a project director for the Student Nonviolent Coordinating Committee (SNCC) and helped organize voter drives for African Americans across Mississippi.\n\nBlackwell was responsible for one of the first desegregation cases in Mississippi, filing a suit, Blackwell v. Issaquena County Board of Education, against the Issaquena County Board of Education after the principal suspended more than 300 black children - including her son - for wearing pins that depicted a black hand and a white hand clasped with the word "SNCC" below them. Although the courts ruled that the students could not wear the pins, they also ruled that the school district in question must desegregate.\n\nBlackwell's son and approximately 50 other children boycotted the school because of its decision to not let the children wear the SNCC freedom pins. As a result, Blackwell and some other activists in the community formed "Freedom Schools" in Issaquena County to resolve the issue. The Freedom Schools were popular and remained open until the school system finally integrated in 1970.`,
+        link: 'https://snccdigital.org/people/unita-blackwell/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Unita_Blackwell'
       },
     ],
     'Assassinations': [
@@ -5873,13 +5882,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 25th, 1931',
+        title: 'Scottsboro Boys Accused (1931)',
+        imgSrc: require('./assets/eventPhotos/Events/scottsboroBoys.jpg'),
+        description: `The Scottsboro Boys were nine African American teenagers, ages 13 to 19, falsely accused in Alabama of raping two white women on a train in 1931. The landmark set of legal cases from this incident dealt with racism and the right to a fair trial. The cases included a lynch mob before the suspects had been indicted, all-white juries, rushed trials, and disruptive mobs. It is commonly cited as an example of a miscarriage of justice in the United States legal system.\n\nInitially, all but the youngest, 13 year old Roy Wright, were convicted of rape and sentenced to death. With help from the Communist Party USA (CPUSA) and the National Association for the Advancement of Colored People (NAACP), the case was appealed to the Alabama Supreme Court, which affirmed seven of the eight convictions. The cases were then appealed twice to the United States Supreme Court, which ordered new trials due to the exclusion of black people from juries (Norris v. Alabama) and violation of due process (Powell v. Alabama).\n\nIn the subsequent re-trials, Creed Conyer was selected as the first black person since Reconstruction to sit on an Alabama grand jury. Despite the successful legal appeals, most of the Scottsboro Boys were convicted on charges of rape or sexual assault. The legal aid of the Communist Party impressed some poor black sharecroppers in the South, leading to increased black participation in the party there (Ned Cobb, Hosea Hudson, the Sharecroppers' Union).`,
+        link: 'https://www.pbs.org/wgbh/americanexperience/features/scottsboro-boys-who-were-the-boys/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Scottsboro_Boys'
       },
     ],
   },
@@ -8004,13 +8013,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 25th, 1942',
+        title: 'Ruby Smith-Robinson (1942 - 1967)',
+        imgSrc: require('./assets/eventPhotos/Individuals/rubySmithRobinson.jpg'),
+        description: `Ruby Doris Smith-Robinson, born on this day in 1942, worked with the Student Nonviolent Coordinating Committee (SNCC) from its earliest days in 1960 until her death in October 1967. She served the organization as an activist in the field and as an administrator in the Atlanta central office. She eventually succeeded James Forman as SNCC's executive secretary and was the only woman ever to serve in this capacity.\n\nRobinson was renowned for her willingness to fight. Fellow activist Julian Bond recalled that, when a delegation of SNCC staff was preparing to board a plane for Africa in the fall of 1964, an airline representative told them the plane was overbooked and asked if they would wait and take a later flight. Without consulting the rest of the group, she went and sat down in the jetway and refused to move. The delegation were given seats on that flight.\n\nIn January 1967, her health began to decline precipitously around the same time as the splintering of SNCC and she was admitted to a hospital. She suffered for ten months from a rare blood disease and in April of that year she was diagnosed with terminal cancer. She died on October 7th, 1967, aged 25.`,
+        link: 'https://snccdigital.org/people/ruby-doris-smith-robinson/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ruby_Doris_Smith-Robinson'
       },
     ],
     'Assassinations': [
@@ -8656,13 +8665,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 4th, 1961',
+        title: 'First Freedom Ride (1961)',
+        imgSrc: require('./assets/eventPhotos/Events/freedomRide.jpg'),
+        description: `Freedom Riders were civil rights activists who rode interstate buses into the segregated Southern United States in 1961 and subsequent years to challenge the Southern non-enforcement of the United States Supreme Court decisions Morgan v. Virginia (1946) and Boynton v. Virginia (1960), which ruled that segregated public buses were unconstitutional. On this day in 1961, the first Freedom Ride left Washington, D.C., headed for New Orleans, Louisiana.\n\nParticipants journeyed to the deep South, including women as well as men and testing segregated bus terminals as well. The riders were met with severe violence. In Anniston, Alabama, one of the buses was fire-bombed and passengers were beaten by a white mob. White mobs also attacked Freedom Riders in Birmingham and Montgomery. The violence garnered national attention, sparking a summer of similar rides by CORE, SNCC and other Civil Rights organizations and thousands of ordinary citizens.`,
+        link: 'http://www.core-online.org/History/freedom%20rides.htm#:~:text=The%20first%20Freedom%20Ride%20took,bus%20and%20rail%20stations%20unconstitutional.',
+        infoSrc: 'https://en.wikipedia.org/wiki/Freedom_Riders'
       },
     ],
   },
@@ -8779,13 +8788,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 6th, 1913',
+        title: 'Angelo Herndon (1913 - 1997)',
+        imgSrc: require('./assets/eventPhotos/Individuals/angeloHerndon.jpg'),
+        description: `Angelo Braxton Herndon, born on this day in 1913, was an African-American labor organizer arrested and convicted of insurrection after attempting to organize black and white industrial workers in 1932 in Atlanta, Georgia. The prosecution case rested heavily on Herndon's possession of "communist literature", which police found in his hotel room.\n\nHerndon was defended by the International Labor Defense, the legal arm of the Communist Party. Over a five-year period, Herndon's case twice reached the United States Supreme Court, which ruled that Georgia's insurrection law was unconstitutional, as it violated First Amendment rights of free speech and assembly.\n\nHerndon became nationally prominent because of his case and his defense attorney, Benjamin Davis, was radicalized because of it. He is also remembered for his essay entitled "You Cannot Kill the Working Class". By the end of the 1940s, he left the Communist Party and moved to the Midwest, living there quietly.`,
+        link: 'https://www.blackpast.org/african-american-history/herndon-angelo-1913/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Angelo_Herndon'
       },
     ],
     'Assassinations': [
@@ -8996,7 +9005,7 @@ export const eventLibrary = {
         date: 'May 9th, 1800',
         title: 'John Brown (1800 - 1859)',
         imgSrc: require('./assets/eventPhotos/Individuals/johnBrown.jpg'),
-        description: `John Brown was an American abolitionist. Brown advocated the use of armed insurrection to overthrow the institution of slavery in the United States. He first gained national attention when he led small groups of volunteers during the Bleeding Kansas crisis of 1856. He was dissatisfied with the pacifism of the organized abolitionist movement: "These men are all talk. What we need is action—action!"\n\nIn October 1859, Brown led a raid on the federal armory at Harpers Ferry, Virginia (today West Virginia), intending to start a slave liberation movement that would spread south through the mountainous regions of Virginia and North Carolina. He seized the armory, but seven people were killed, and ten or more were injured. Brown intended to arm slaves with weapons from the armory, but only a small number of local slaves joined his revolt. Within 36 hours, those of Brown's men who had not fled were killed or captured by local farmers, militiamen, and U.S. Marines, the latter led by Robert E. Lee.\n\nBrown was hastily tried for treason against the Commonwealth of Virginia, the murder of five men, and inciting a slave insurrection; he was found guilty on all counts and was hanged. He was the first person executed for treason in the history of the United States.`,
+        description: `John Brown was an American abolitionist. Brown advocated the use of armed insurrection to overthrow the institution of slavery in the United States. He first gained national attention when he led small groups of volunteers during the Bleeding Kansas crisis of 1856. He was dissatisfied with the pacifism of the organized abolitionist movement: "These men are all talk. What we need is action - action!"\n\nIn October 1859, Brown led a raid on the federal armory at Harpers Ferry, Virginia (today West Virginia), intending to start a slave liberation movement that would spread south through the mountainous regions of Virginia and North Carolina. He seized the armory, but seven people were killed, and ten or more were injured. Brown intended to arm slaves with weapons from the armory, but only a small number of local slaves joined his revolt. Within 36 hours, those of Brown's men who had not fled were killed or captured by local farmers, militiamen, and U.S. Marines, the latter led by Robert E. Lee.\n\nBrown was hastily tried for treason against the Commonwealth of Virginia, the murder of five men, and inciting a slave insurrection; he was found guilty on all counts and was hanged. He was the first person executed for treason in the history of the United States.`,
         link: 'https://en.wikipedia.org/wiki/John_Brown_(abolitionist)',
         infoSrc: 'https://en.wikipedia.org/wiki/John_Brown_(abolitionist)'
       },
@@ -9354,13 +9363,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 14th, 1970',
+        title: 'Jackson State Killings (1970)',
+        imgSrc: require('./assets/eventPhotos/Events/jacksonStateKillings.jpg'),
+        description: `The Jackson State Killings were the result of a confrontation between police and student protestors that began on this day in 1970. Students at Jackson State College (now Jackson State University) in Jackson, Mississippi.\n\nThat evening, over 100 had gathered on Lynch Street (named after Reconstruction era legislator John Lynch) and were reportedly pelting rocks at white motorists driving down the main road through campus. Tensions were inflamed when a false rumor spread that Charles Evers, older brother of Medgar Evers and a civil rights activist in his own right, had been killed.\n\nThe police responded in force. At least 75 Jackson police units from the city of Jackson and the Mississippi Highway Patrol attempted to control the crowd while the firemen extinguished fires that had been set. After the firefighters had left the scene, the police moved to disperse the crowd that had gathered in front of Alexander Hall, a women's dormitory.\n\nJust after midnight, the police opened fire, killing two students and injuring twelve. The gunfire lasted for 30 seconds and more than 460 shots were fired, some by highway patrolmen using shotguns from 30 to 50 feet. Every window on the narrow side of the building facing Lynch Street was shattered, two people were killed, and twelve were wounded. The event happened just 11 days after the Kent State shootings, in which National Guardsmen killed four protesting students at Kent State University in Ohio.`,
+        link: 'https://www.npr.org/templates/story/story.php?storyId=126426361',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jackson_State_killings'
       },
     ],
   },
@@ -9398,7 +9407,7 @@ export const eventLibrary = {
         infoSrc: 'https://en.wikipedia.org/wiki/Western_Federation_of_Miners'
       },
       {
-        category: 'Other',
+        category: 'Labor',
         date: 'May 15th, 1950',
         title: 'Nairobi General Strike (1950)',
         imgSrc: require('./assets/eventPhotos/Events/nairobiGeneralStrike.jpg'),
@@ -10396,6 +10405,15 @@ export const eventLibrary = {
         link: 'https://www.zinnedproject.org/news/tdih/grenada-revolution/',
         infoSrc: 'https://en.wikipedia.org/wiki/Maurice_Bishop'
       },
+      {
+        category: 'Birthdays',
+        date: 'May 29th, 1942',
+        title: 'Robert Allen (1942 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/robertAllen.jpg'),
+        description: `Robert Lee Allen, born on this day in 1942, is an American activist, writer, and Adjunct Professor of African-American Studies and Ethnic Studies at the University of California, Berkeley. He was Senior Editor (with Editor-in-Chief and Publisher Robert Chrisman) of The Black Scholar: Journal of Black Studies and Research, published quarterly or more frequently in Oakland, California, by the Black World Foundation since 1969.\n\nIn 1969, Allen authored "Black Awakening in Capitalist America", which is considered a foundational text in the field of Internal Colonialism Theory. In the text, Allen details how corporate interests and white-led power structures co-opted and de-radicalized black power and black nationalism, while also criticizing the concept of "black capitalism" as a means of achieving social change.`,
+        link: 'https://items.ssrc.org/reading-racial-conflict/black-and-woke-in-capitalist-america-revisiting-robert-allens-black-awakening-for-new-times-sake/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Robert_L._Allen'
+      },
     ],
     'Assassinations': [
       {
@@ -10472,6 +10490,15 @@ export const eventLibrary = {
         description: `Randolph Silliman Bourne, born on this day in 1918, was a progressive writer, disability advocate, and pacifist born in Bloomfield, New Jersey and a graduate of Columbia University. He is considered to be a spokesman for the young radical voices during World War I.\n\nBourne is best known for his essays, especially his unfinished work "The State," discovered after he died. In this essay, he coined the well-known phrase "war is the health of the state," by which Bourne lamented governments' success at arrogating authority and resources during conflicts.\n\nBourne was also disfigured from a difficult birth and suffered from tuberculosis of the spine at a young age, resulting in stunted growth and a hunched back. Bourne chronicled these life experiences in his essay "The Handicapped - by one of them", now considered a foundational work in disability studies.`,
         link: 'http://c250.columbia.edu/c250_celebrates/remarkable_columbians/randolph_bourne.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Randolph_Bourne'
+      },
+      {
+        category: 'Birthdays',
+        date: 'May 30th, 1943',
+        title: 'James Chaney (1943 - 1964)',
+        imgSrc: require('./assets/eventPhotos/Individuals/jamesChaney.jpg'),
+        description: `James Earl Chaney, born on this day in 1943, in Meridian, Mississippi. In 1962, Chaney participated in a Freedom Ride from Tennessee to Greenville, Mississippi, and in another from Greenville to Meridian. Chaney started volunteering in late 1963, joining the Congress of Racial Equality (CORE) in Meridian. He organized voter education classes, introduced CORE workers to local church leaders, and helped CORE workers get around the counties.\n\nChaney and fellow civil rights workers Michael Schwerner and Andrew Goodman were killed near the town of Philadelphia, Mississippi while investigating the burning of Mt. Zion Methodist Church, which had been a site for a CORE Freedom School.\n\nArrested by the local sheriff, the trio was released that evening without being allowed to contact anyone. On the road, they were stopped by patrol lights and two carloads of KKK members, kidnapped, tortured, and killed.\n\nThe sheriff, along with six others, were indicted and convicted for depriving the three men of their civil rights. No one was held accountable for Chaney's murder until 2005, when outspoken white supremacist Edgar Ray Killen was convicted on three counts of manslaughter.`,
+        link: 'http://www.core-online.org/History/chaney.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/James_Chaney'
       },
     ],
     'Assassinations': [
@@ -11937,7 +11964,7 @@ export const eventLibrary = {
         date: 'June 20th, 1829',
         title: 'Speckled Snake Speaks (1829)',
         imgSrc: require('./assets/eventPhotos/Events/snakeSpeaks.jpg'),
-        description: `Speckled Snake was a Native American man over one hundred years old. On this day in 1829, he gave a speech to a council of Indian chiefs on the nature of Andrew Jackson's policy of removal of indigenous people. Here is an excerpt:\n\n"...But when the white man had warmed himself before the Indians' fire and filled himself with their hominy, he became very large. With a step he bestrode the mountains, and his feet covered the plains and the valleys. His hand grasped the eastern and the western sea, and his head rested on the moon.\n\nThen he became our Great Father. He loved his red children, and he said, 'Get a little further, lest I tread on thee.'\n\nBrothers! I have listened to a great many talks from our great father. But they always began and ended in this - 'Get a little further; you are too near me.'`,
+        description: `Speckled Snake was a Native American man over one hundred years old. On this day in 1829, he gave a speech to a council of Indian chiefs on the nature of Andrew Jackson's policy of removal of indigenous people. Here is an excerpt:\n\n"...But when the white man had warmed himself before the Indians' fire and filled himself with their hominy, he became very large. With a step he bestrode the mountains, and his feet covered the plains and the valleys. His hand grasped the eastern and the western sea, and his head rested on the moon.\n\nThen he became our Great Father. He loved his red children, and he said, 'Get a little further, lest I tread on thee.'\n\nBrothers! I have listened to a great many talks from our great father. But they always began and ended in this - 'Get a little further; you are too near me.'"`,
         link: 'http://peelersplace.weebly.com/uploads/1/6/5/8/16589814/chief_speckled_snake_speech.pdf',
         infoSrc: 'https://www.historyisaweapon.com/defcon1/zinnasl7.html'
       },
@@ -11999,13 +12026,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'June 21st, 1964',
+        title: 'Freedom Summer Murders (1964)',
+        imgSrc: require('./assets/eventPhotos/Events/freedomSummerMurders.jpg'),
+        description: `The murders of James Chaney, Andrew Goodman, and Michael Schwerner, known collectively as the Freedom Summer murders, occurred on this day in 1964. All three activists were associated with the Council of Federated Organizations (COFO) and its member organization, the Congress of Racial Equality (CORE). They had been working with the Freedom Summer campaign by attempting to register African-Americans in Mississippi to vote\n\nThe trio were arrested by Sheriff Cecil Price near the town of Philadelphia, Mississippi while investigating the burning of Mt. Zion Methodist Church, which had been a site for a CORE Freedom School.\n\nThey were released that evening, without being allowed to contact anyone. While traveling back to Meridian, Mississippi, they were stopped by patrol lights and two carloads of KKK members, kidnapped, tortured, and killed.\n\nThe sheriff, along with six others, were indicted and convicted for depriving the three men of their civil rights. No one was held accountable for their murders until 2005, when outspoken white supremacist Edgar Ray Killen was convicted on three counts of manslaughter.`,
+        link: 'https://mscivilrightsproject.org/neshoba/event-neshoba/the-murder-of-chaney-goodman-and-schwerner/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Murders_of_Chaney,_Goodman,_and_Schwerner'
       },
     ],
     'Other': [
@@ -12277,6 +12304,15 @@ export const eventLibrary = {
         link: 'https://www.aclu.org/other/crystal-eastman',
         infoSrc: 'https://en.wikipedia.org/wiki/Crystal_Eastman'
       },
+      {
+        category: 'Birthdays',
+        date: 'June 25th, 1933',
+        title: 'James Meredith (1933 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/jamesMeredith.jpg'),
+        description: `James Howard Meredith, born on this day in 1933, is a Civil Rights Movement figure, writer, political adviser, and Air Force veteran.\n\nIn 1962, he became the first African-American student admitted to the segregated University of Mississippi after violent protest against his admission (known as the "Ole Miss Riot") was quelled by the federal government. Inspired by President John F. Kennedy's inaugural address, Meredith decided to exercise his constitutional rights and apply to the University of Mississippi, hoping to put pressure on the Kennedy administration to enforce civil rights for African Americans.\n\nIn 1966, Meredith planned a solo 220-mile March Against Fear from Memphis, Tennessee, to Jackson, Mississippi, to protest racial discrimination in voter registration. The second day, he was shot by a white gunman. Leaders of major organizations vowed to complete the march in his name after he was taken to the hospital.\n\nWhile Meredith was recovering, more people from across the country became involved as marchers. Meredith rejoined the march after recovering, and when the estimated 15,000 marchers reached Jackson, Mississippi, it became the largest civil rights march in Mississippi history.`,
+        link: 'https://www.cnn.com/2020/06/18/opinions/i-am-george-floyd-meredith-doyle/index.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/James_Meredith'
+      },
     ],
     'Assassinations': [
       {
@@ -12427,7 +12463,7 @@ export const eventLibrary = {
         date: 'June 27th, 1880',
         title: 'Helen Keller (1880 - 1968)',
         imgSrc: require('./assets/eventPhotos/Individuals/helenKeller.jpg'),
-        description: `Helen Adams Keller, born on this day in 1880, was an American author, socialist, anti-racist, and disability rights advocate. She was the first deaf-blind person to earn a Bachelor of Arts degree.\n\nIn 1909, Keller joined the American Socialist Party and campaigned for its candidates, including Eugene Debs, the SP leader who ran for U.S. president from his prison cell in 1920. She supported striking workers, including those murdered the 1914 Colorado Ludlow Massacre, and called owner John D. Rockefeller a "monster of capitalism." She defined herself as a "militant suffragist," campaigning for women's right to vote because she believed this was linked to the struggle for socialism.\n\nContemporary critics lambasted Keller for her socialism. In a 1924 letter to a U.S. Senator, she wrote "So long as I confine my activities to social service and the blind, they compliment me extravagantly, calling me ‘arch priestess of the sightless,' ‘wonder woman,' and a ‘modern miracle.' But when it comes to a discussion of poverty, and I maintain that it is the result of wrong economics — that the industrial system under which we live is at the root of much of the physical deafness and blindness in the world — that is a different matter!"\n\nBy the time Keller died in 1968 at 87, the FBI had kept her under surveillance for most of her adult life.`,
+        description: `Helen Adams Keller, born on this day in 1880, was an American author, socialist, anti-racist, and disability rights advocate. She was the first deaf-blind person to earn a Bachelor of Arts degree.\n\nIn 1909, Keller joined the American Socialist Party and campaigned for its candidates, including Eugene Debs, the SP leader who ran for U.S. president from his prison cell in 1920. She supported striking workers, including those murdered the 1914 Colorado Ludlow Massacre, and called owner John D. Rockefeller a "monster of capitalism." She defined herself as a "militant suffragist," campaigning for women's right to vote because she believed this was linked to the struggle for socialism.\n\nContemporary critics lambasted Keller for her socialism. In a 1924 letter to a U.S. Senator, she wrote "So long as I confine my activities to social service and the blind, they compliment me extravagantly, calling me ‘arch priestess of the sightless,' ‘wonder woman,' and a ‘modern miracle.' But when it comes to a discussion of poverty, and I maintain that it is the result of wrong economics - that the industrial system under which we live is at the root of much of the physical deafness and blindness in the world - that is a different matter!"\n\nBy the time Keller died in 1968 at 87, the FBI had kept her under surveillance for most of her adult life.`,
         link: 'https://www.workers.org/2016/03/24250/',
         infoSrc: 'https://www.workers.org/2016/03/24250/'
       },
@@ -13020,7 +13056,7 @@ export const eventLibrary = {
         date: 'July 5th',
         title: `Douglass's 4th of July Speech (1852)`,
         imgSrc: require('./assets/eventPhotos/Individuals/frederickDouglass.jpg'),
-        description: `"What to the Slave Is the Fourth of July?" is the title now given to a speech by Frederick Douglass delivered on this day in 1852, in Corinthian Hall, Rochester, New York, addressing the Rochester Ladies' Anti-Slavery Society. The speech is perhaps the most widely known of all of Frederick Douglass' writings save his autobiographies. Here is a brief excerpt.\n\n"What, to the American slave, is your 4th of July? I answer: a day that reveals to him, more than all other days in the year, the gross injustice and cruelty to which he is the constant victim.\n\nTo him, your celebration is a sham; your boasted liberty, an unholy license; your national greatness, swelling vanity; your sounds of rejoicing are empty and heartless; your denunciations of tyrants, brass fronted impudence; your shouts of liberty and equality, hollow mockery; your prayers and hymns, your sermons and thanksgivings, with all your religious parade, and solemnity, are, to him, mere bombast, fraud, deception, impiety, and hypocrisy—a thin veil to cover up crimes which would disgrace a nation of savages.\n\nThere is not a nation on the earth guilty of practices, more shocking and bloody, than are the people of these United States, at this very hour."`,
+        description: `"What to the Slave Is the Fourth of July?" is the title now given to a speech by Frederick Douglass delivered on this day in 1852, in Corinthian Hall, Rochester, New York, addressing the Rochester Ladies' Anti-Slavery Society. The speech is perhaps the most widely known of all of Frederick Douglass' writings save his autobiographies. Here is a brief excerpt.\n\n"What, to the American slave, is your 4th of July? I answer: a day that reveals to him, more than all other days in the year, the gross injustice and cruelty to which he is the constant victim.\n\nTo him, your celebration is a sham; your boasted liberty, an unholy license; your national greatness, swelling vanity; your sounds of rejoicing are empty and heartless; your denunciations of tyrants, brass fronted impudence; your shouts of liberty and equality, hollow mockery; your prayers and hymns, your sermons and thanksgivings, with all your religious parade, and solemnity, are, to him, mere bombast, fraud, deception, impiety, and hypocrisy - a thin veil to cover up crimes which would disgrace a nation of savages.\n\nThere is not a nation on the earth guilty of practices, more shocking and bloody, than are the people of these United States, at this very hour."`,
         link: 'https://www.thenation.com/article/archive/what-slave-fourth-july-frederick-douglass/',
         infoSrc: 'https://www.thenation.com/article/archive/what-slave-fourth-july-frederick-douglass/'
       },
@@ -13123,7 +13159,7 @@ export const eventLibrary = {
         date: 'July 7th, 1903',
         title: `March of the Mill Children (1903)`,
         imgSrc: require('./assets/eventPhotos/Events/childrensMarch.jpg'),
-        description: `The March of the Mill Children was a three-week trek from Philadelphia to New York by striking child and adult textile workers launched on this day in 1903 by Mother Jones. At the time, approximately one out of six children under the age of sixteen were employed, according to the 1900 census.\n\nThe march began when Mother Jones tried to get newspapers to report on the conditions of child workers and they informed her that they would not run the stories about child labor because of the mill owners holding stock in the papers. Jones replied "Well, I've got stock in these little children and I'll arrange a little publicity."\n\nThe march successfully won that publicity, bringing national attention to the plight of working children. On July 29th, Jones and fellow marchers arrived at Roosevelt's Sagamore Hill summer home, where he refused to meet with them. Although the strike was an initial failure, it galvanized support for anti-child labor laws to be passed on the national level, which finally occured with the Fair Labor Standards Act of 1938.`,
+        description: `The March of the Mill Children was a three-week trek from Philadelphia to New York by striking child and adult textile workers launched on this day in 1903 by Mother Jones. At the time, approximately one out of six children under the age of sixteen were employed, according to the 1900 census.\n\nThe march began when Mother Jones tried to get newspapers to report on the conditions of child workers and they informed her that they would not run the stories about child labor because of the mill owners holding stock in the papers. Jones replied "Well, I've got stock in these little children and I'll arrange a little publicity."\n\nThe march successfully won that publicity, bringing national attention to the plight of working children. On July 29th, Jones and fellow marchers arrived at Roosevelt's Sagamore Hill summer home, where he refused to meet with them. Although the strike was an initial failure, it galvanized support for anti-child labor laws to be passed on the national level, which finally occurred with the Fair Labor Standards Act of 1938.`,
         link: 'https://www.zinnedproject.org/news/tdih/mother-jones-march-mill-children/',
         infoSrc: 'https://philadelphiaencyclopedia.org/archive/march-of-the-mill-children/'
       },
@@ -13470,13 +13506,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'July 12th, 1899',
+        title: 'E.D. Nixon (1899 - 1987)',
+        imgSrc: require('./assets/eventPhotos/Individuals/edNixon.jpg'),
+        description: `Edgar Daniel Nixon, born on this day in 1899, was an African-American civil rights leader and union organizer in Alabama who played a crucial role in organizing the landmark Montgomery Bus Boycott there in 1955. The boycott highlighted the issues of segregation in the South, was upheld for more than a year by black residents, and nearly brought the city-owned bus system to bankruptcy.\n\nIn 1957, Nixon left the Montgomery Improvement Association (MIA) to protest what he saw as the domination of the organization by middle class leaders who refused to share power with low income black men and women.\n\nHe also expressed resentment that King and Abernathy had received most of the credit for the boycott, as opposed to the local activists like himself who had already spent years organizing against racism. Despite this, King paid homage to Nixon, calling him "a symbol of the hopes and aspirations of the long oppressed people of the State of Alabama."`,
+        link: 'https://www.blackpast.org/african-american-history/nixon-e-d-nixon-1899-1987/',
+        infoSrc: 'https://en.wikipedia.org/wiki/E._D._Nixon'
       },
     ],
     'Assassinations': [
@@ -14007,7 +14043,7 @@ export const eventLibrary = {
         date: 'July 20th, 1934',
         title: 'Bloody Friday (Minneapolis, 1934)',
         imgSrc: require('./assets/eventPhotos/Events/minneapolisGeneralStrike.jpg'),
-        description: `The Minneapolis General Strike of 1934 grew out of a strike by Teamsters against most of the trucking companies operating in Minneapolis, the major distribution center for the Upper Midwest. The strike began on May 16th in the Market District (now called the Warehouse District), launched the career of Farrell Dobbs, a Trotskyist union leader, and led to widespread unionizing throughout the city of Minneapolis.\n\nIts worst single day of violence was this day in 1934, known as "Bloody Friday". It occured when police shot at strikers who were blocking off the delivery of company merchandise, killing two and injuring sixty-seven. Four days later, on the 24th, 100,000 people lined the streets of the route of the funeral procession for Henry Ness and demanded the resignation of the Minneapolis Police Chief.\n\nIn response to this, Governor Olson first ordered that the union headquarters be raided, and a couple days later ordered a raid on Citizen Alliance headquarters. Violence lasted periodically throughout the summer before the strike was formally ended on August 22nd, with most of the union demands being met.`,
+        description: `The Minneapolis General Strike of 1934 grew out of a strike by Teamsters against most of the trucking companies operating in Minneapolis, the major distribution center for the Upper Midwest. The strike began on May 16th in the Market District (now called the Warehouse District), launched the career of Farrell Dobbs, a Trotskyist union leader, and led to widespread unionizing throughout the city of Minneapolis.\n\nIts worst single day of violence was this day in 1934, known as "Bloody Friday". It occurred when police shot at strikers who were blocking off the delivery of company merchandise, killing two and injuring sixty-seven. Four days later, on the 24th, 100,000 people lined the streets of the route of the funeral procession for Henry Ness and demanded the resignation of the Minneapolis Police Chief.\n\nIn response to this, Governor Olson first ordered that the union headquarters be raided, and a couple days later ordered a raid on Citizen Alliance headquarters. Violence lasted periodically throughout the summer before the strike was formally ended on August 22nd, with most of the union demands being met.`,
         link: 'https://libcom.org/history/minneapolis-teamsters-strike-1934-jeremy-brecher',
         infoSrc: 'https://en.wikipedia.org/wiki/Bloody_Friday_(Minneapolis)'
       },
@@ -14196,13 +14232,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'July 23rd, 1967',
+        title: 'Detroit Riot (1967)',
+        imgSrc: require('./assets/eventPhotos/Events/detroitRiot.jpg'),
+        description: `The Detroit Riot, also known as the 12th Street Riot, was the bloodiest incident in the "Long, hot summer of 1967", a period of over one hundred race riots in a few short months. Composed mainly of confrontations between black residents and the Detroit Police Department, it began on this day in 1967.\n\nIn the early hours July 23rd, Detroit Police Department (DPD) officers raided an unlicensed weekend drinking club in the office of the United Community League for Civic Action, above the Economy Printing Company, at 9125 12th Street. They expected a few revelers inside, but instead found a party of 82 people celebrating the return of two local GIs from the Vietnam War. The police decided to arrest everyone present.\n\nWhile they were arranging for transportation, a sizable crowd of onlookers gathered on the street, having witnessed the raid. After the DPD left, the crowd began looting an adjacent clothing store. Shortly thereafter, full-scale looting began throughout the neighborhood. This looting escalated into a city-wide uprising that involved shootouts between rioters and police officers.\n\nThe violence escalated throughout the next day, resulting in some 483 fires, 231 incidents reported per hour, and 1,800 arrests. Thousands of guns were stolen from stores. Firefighters attempting to put out fires were shot at, police abuse of power was rampant. Thousands of federal troops occupied the city, but the rioting could not be quelled until July 28th.\n\n43 people were killed, most of whom were black. Among the dead was a four year old girl named Tanya Blanding, who was shot and killed by Sgt. Mortimer J. LeBlanc after he fired indiscriminately into her mother's apartment. LeBlanc was exonerated of any wrongdoing. The scale of the riot was the worst in the United States since the 1863 New York City draft riots during the American Civil War and was not surpassed until the 1992 Los Angeles riots 25 years later.`,
+        link: 'https://detroithistorical.org/learn/encyclopedia-of-detroit/uprising-1967',
+        infoSrc: 'https://en.wikipedia.org/wiki/1967_Detroit_riot'
       },
     ],
     'Labor': [
@@ -17476,6 +17512,15 @@ export const eventLibrary = {
         link: 'https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/gold-benjamin',
         infoSrc: 'https://en.wikipedia.org/wiki/Ben_Gold'
       },
+      {
+        category: 'Birthdays',
+        date: 'September 8th, 1903',
+        title: 'Benjamin J. Davis (1903 - 1964)',
+        imgSrc: require('./assets/eventPhotos/Individuals/benjaminDavis.jpg'),
+        description: `Benjamin Jefferson Davis Jr., born on this day in 1903, was an African-American lawyer and communist who was elected in 1943 to the city council of New York City, representing Harlem. Davis became radicalized through his role as defense attorney in the 1933 trial of Angelo Herndon, a 19-year-old black Communist who had been charged with violating a Georgia law against "attempting to incite insurrection" because he tried to organize a farm workers' union.\n\nIn 1949, he was among a number of communist leaders prosecuted for violating the Smith Act. He was convicted and sentenced to five years in prison. In 1962 Davis was charged with violating the Internal Security Act, but died before the case could come to trial.`,
+        link: 'https://www.cpusa.org/article/benjamin-j-davis-the-communist-councilman-from-harlem/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Benjamin_J._Davis_Jr.'
+      },
     ],
     'Assassinations': [
       {
@@ -17993,13 +18038,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 15th, 1963',
+        title: '16th Street Baptist Church Bombing (1963)',
+        imgSrc: require('./assets/eventPhotos/Events/baptistChurchBombing.jpg'),
+        description: `The 16th Street Baptist Church bombing was a white supremacist terrorist attack which occurred at the African-American 16th Street Baptist Church in Birmingham, Alabama, on this day in 1963. Four members of a local Ku Klux Klan chapter planted at least 15 sticks of dynamite attached to a timing device beneath the steps located on the east side of the church.\n\nAt 10:22 am, the dynamite was detonated, blowing a hole measuring seven feet (2.1 m) in diameter in the church's rear wall, blowing a passing motorist out of his car, and destroying several cars nearby. Four girls, Addie Mae Collins (age 14); Carol Denise McNair (age 11); Carole Robertson (age 14); and Cynthia Wesley (age 14), were killed in the attack. Approximately 20 more people were wounded.\n\nOn May 13th, 1965, local investigators and the FBI formally named Blanton, Cash, Chambliss, and Cherry as the perpetrators of the bombing, with Robert Chambliss the likely ringleader of the four, however, they did not bring charges against any of them. Justice came later - in 1977, Chambliss was convicted of first degree murder; in 2001 and 2002, respectively, Blanton and Cherry were sentenced to life in prison.`,
+        link: 'https://www.youtube.com/watch?v=DXXS7knc_Uo',
+        infoSrc: 'https://en.wikipedia.org/wiki/16th_Street_Baptist_Church_bombing'
       },
     ],
   },
@@ -18467,7 +18512,7 @@ export const eventLibrary = {
         date: 'September 22nd, 1919',
         title: 'Great Steel Strike of 1919',
         imgSrc: require('./assets/eventPhotos/Events/greatSteelStrike.jpg'),
-        description: `The Great Steel Strike of 1919 was an attempt by the weakened Amalgamated Association of Iron, Steel and Tin Workers (AA) to organize the United States steel industry in the wake of World War I. The strike began on this day in 1919, shutting down half the steel industry, including almost all mills in Pueblo, Colorado; Chicago, Illinois, Wheeling, West Virginia; Johnstown, Pennsylvania; Cleveland, Ohio; Lackawanna, New York; and Youngstown, Ohio.\n\nPublic opinion was generally against the strike. Factory owners claimed that the steelworker strike was being masterminded by communists and revolutionaries (the October Revolution had occured less than two years prior), and played on nativist xenophobia by noting that a large number of steelworkers were immigrants.\n\nThe strike collapsed on January 8th, 1920, and the AA labor union was decimated in the aftermath of the strike's failure.`,
+        description: `The Great Steel Strike of 1919 was an attempt by the weakened Amalgamated Association of Iron, Steel and Tin Workers (AA) to organize the United States steel industry in the wake of World War I. The strike began on this day in 1919, shutting down half the steel industry, including almost all mills in Pueblo, Colorado; Chicago, Illinois, Wheeling, West Virginia; Johnstown, Pennsylvania; Cleveland, Ohio; Lackawanna, New York; and Youngstown, Ohio.\n\nPublic opinion was generally against the strike. Factory owners claimed that the steelworker strike was being masterminded by communists and revolutionaries (the October Revolution had occurred less than two years prior), and played on nativist xenophobia by noting that a large number of steelworkers were immigrants.\n\nThe strike collapsed on January 8th, 1920, and the AA labor union was decimated in the aftermath of the strike's failure.`,
         link: 'https://libcom.org/history/us-national-steel-strike-1919-jeremy-brecher',
         infoSrc: 'https://en.wikipedia.org/wiki/Steel_strike_of_1919'
       },
@@ -19005,13 +19050,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 30th, 1962',
+        title: 'Ole Miss Riot (1962)',
+        imgSrc: require('./assets/eventPhotos/Events/oleMissRiot.jpg'),
+        description: `The Ole Miss Riot was a two day battle between Southern segregationists and federal and state forces beginning on this day 1962. Segregationists were protesting the enrollment of James Meredith, a black veteran, at the University of Mississippi (known as Ole Miss) at Oxford, Mississippi. Two civilians, one a French journalist, were killed during the night, and over 300 people were injured, including one-third of the federal law enforcement personnel deployed.\n\nIn anticipation of violence, Meredith was escorted by Federal Marshals and state police immediately after arriving in Oxford. Responding to the federal presence, a crowd of a thousand, mostly students⁠ - led by arch-conservative activist Edwin Walker⁠⁠⁠ - quickly crowded onto campus. As the night went on, the crowd swelled to 3,000 and became increasingly violent. Early the next morning, a white mob attacked Genenal Billingslea's staff car as it arrived at the university, setting it on fire with the staff inside.\n\nOn October 1st, Meredith became the first African-American student to be enrolled at the University of Mississippi. With 24-hour military security, he graduated from the university on August 18th, 1963 with a degree in political science.`,
+        link: 'https://www.blackpast.org/african-american-history/ole-miss-riot-1962/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ole_Miss_riot_of_1962'
       },
     ],
     'Labor': [
@@ -19534,7 +19579,7 @@ export const eventLibrary = {
         date: 'October 7th, 1879',
         title: 'Joe Hill (1879 - 1915)',
         imgSrc: require('./assets/eventPhotos/Individuals/joeHill.jpg'),
-        description: `Joe Hill, born on this day in 1879, was a Swedish-American labor activist, songwriter, and member of the Industrial Workers of the World (IWW). Hill, an immigrant worker frequently facing unemployment and underemployment, became a popular songwriter and cartoonist for the union. His most famous songs include "The Preacher and the Slave", "There Is Power in a Union", and "Casey Jones—the Union Scab", which describes the harsh lives itinerant workers, and call for them to organize to improve their working conditions.\n\nIn 1914, John G. Morrison, a Salt Lake City area grocer and former policeman, and his son were shot and killed by two men. The same evening, Hill arrived at a doctor's office with a gunshot wound, and briefly mentioned a fight over a woman. He refused to explain further, even after he was accused of the grocery store murders on the basis of his injury. Hill was convicted of the murders in a controversial trial and executed on November 19th, despite widespread calls for clemency, including from President Woodrow Wilson and Helen Keller.`,
+        description: `Joe Hill, born on this day in 1879, was a Swedish-American labor activist, songwriter, and member of the Industrial Workers of the World (IWW). Hill, an immigrant worker frequently facing unemployment and underemployment, became a popular songwriter and cartoonist for the union. His most famous songs include "The Preacher and the Slave", "There Is Power in a Union", and "Casey Jones - the Union Scab", which describes the harsh lives itinerant workers, and call for them to organize to improve their working conditions.\n\nIn 1914, John G. Morrison, a Salt Lake City area grocer and former policeman, and his son were shot and killed by two men. The same evening, Hill arrived at a doctor's office with a gunshot wound, and briefly mentioned a fight over a woman. He refused to explain further, even after he was accused of the grocery store murders on the basis of his injury. Hill was convicted of the murders in a controversial trial and executed on November 19th, despite widespread calls for clemency, including from President Woodrow Wilson and Helen Keller.`,
         link: 'https://aflcio.org/about/history/labor-history-people/joe-hill',
         infoSrc: 'https://en.wikipedia.org/wiki/Joe_Hill'
       },
@@ -20677,7 +20722,7 @@ export const eventLibrary = {
         date: 'October 24th, 1871',
         title: 'Chinese Massacre of 1871',
         imgSrc: require('./assets/eventPhotos/Events/chineseMassacre1871.jpg'),
-        description: `The Chinese Massacre of 1871 was a race riot that occurred on this day in Los Angeles, California when a mob of around 500 white and mestizo persons entered Chinatown and attacked, robbed, and murdered Chinese residents. The massacre took place on Calle de los Negros, also known as "Negro Alley". The mob gathered after hearing that a policeman had been shot and a rancher killed by Chinese. Historian John Johnson has described this as the largest mass lynching in American history.\n\nAn estimated 17 to 20 Chinese immigrants were hanged by the mob in the course of the riot, but most had already been shot to death. At least one was mutilated, when someone cut off a finger to get his diamond ring. Ten men of the mob were prosecuted and eight were convicted of manslaughter in these deaths. The convictions were overturned on appeal due to technicalities.`,
+        description: `The Chinese Massacre of 1871 was a race riot that occurred on this day in Los Angeles, California when a mob of around 500 white and mestizo persons entered Chinatown and attacked, robbed, and murdered Chinese residents.\n\nThe massacre took place on Calle de los Negros, also known as "Negro Alley". The mob gathered after hearing that a policeman had been shot and a rancher killed by Chinese. Historian John Johnson has described this as the largest mass lynching in American history.\n\nAn estimated 17 to 20 Chinese immigrants were hanged by the mob in the course of the riot, but most had already been shot to death. At least one was mutilated, when someone cut off a finger to get his diamond ring. Ten men of the mob were prosecuted and eight were convicted of manslaughter in these deaths. The convictions were overturned on appeal due to technicalities.`,
         link: 'http://www.laweekly.com/how-los-angeles-covered-up-the-massacre-of-17-chinese/',
         infoSrc: 'https://en.wikipedia.org/wiki/Chinese_massacre_of_1871'
       },
@@ -21597,13 +21642,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'November 6th, 1939',
+        title: 'Michael Schwerner (1939 - 1964)',
+        imgSrc: require('./assets/eventPhotos/Individuals/michaelSchwerner.jpg'),
+        description: `Michael Henry "Mickey" Schwerner, born on this day in 1939, was one of three Congress of Racial Equality (CORE) field/social workers killed in Philadelphia, Mississippi, by members of the Ku Klux Klan.\n\nIn the early 1960s Schwerner became active in working for civil rights for African Americans; he led a local Congress of Racial Equality group on the Lower East Side of Manhattan, called "Downtown CORE." He participated in a 1963 effort to desegregate Gwynn Oak Amusement Park in Maryland. As activism increased in the South, Schwerner and his wife Rita Schwerner Bender volunteered to work for National CORE in Mississippi, helping black people exercise their right to vote.\n\nChaney and fellow civil rights workers Michael Schwerner and Andrew Goodman were killed near the town of Philadelphia, Mississippi while investigating the burning of Mt. Zion Methodist Church, which had been a site for a CORE Freedom School.\n\nArrested by the local sheriff, the trio was released that evening without being allowed to contact anyone. On the road, they were stopped by patrol lights and two carloads of KKK members, kidnapped, tortured, and killed.\n\nThe sheriff, along with six others, were indicted and convicted for depriving the three men of their civil rights. No one was held accountable for their murders until 2005, when outspoken white supremacist Edgar Ray Killen was convicted on three counts of manslaughter.`,
+        link: 'https://mscivilrightsproject.org/neshoba/event-neshoba/the-murder-of-chaney-goodman-and-schwerner/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Michael_Schwerner'
       },
     ],
     'Assassinations': [
@@ -22523,7 +22568,7 @@ export const eventLibrary = {
         date: 'November 19th, 1915',
         title: 'Joe Hill (1879 - 1915)',
         imgSrc: require('./assets/eventPhotos/Individuals/joeHill.jpg'),
-        description: `Joe Hill, born on October 7th 1879, was a Swedish-American labor activist, songwriter, and member of the Industrial Workers of the World (IWW). Hill, an immigrant worker frequently facing unemployment and underemployment, became a popular songwriter and cartoonist for the union. His most famous songs include "The Preacher and the Slave", "There Is Power in a Union", and "Casey Jones—the Union Scab", which describes the harsh lives itinerant workers, and call for them to organize to improve their working conditions.\n\nIn 1914, John G. Morrison, a Salt Lake City area grocer and former policeman, and his son were shot and killed by two men. The same evening, Hill arrived at a doctor's office with a gunshot wound, and briefly mentioned a fight over a woman. He refused to explain further, even after he was accused of the grocery store murders on the basis of his injury. Hill was convicted of the murders in a controversial trial and executed on this day in 1915, despite widespread calls for clemency, including from President Woodrow Wilson and Helen Keller.\n\nAfter his arrest, Hill wrote the following about his case: "Owing to the prominence of Mr. Morrison, there had to be a 'goat' [scapegoat] and the undersigned being, as they thought, a friendless tramp, a Swede, and worst of all, an IWW, had no right to live anyway, and was therefore duly selected to be 'the goat'."`,
+        description: `Joe Hill, born on October 7th 1879, was a Swedish-American labor activist, songwriter, and member of the Industrial Workers of the World (IWW). Hill, an immigrant worker frequently facing unemployment and underemployment, became a popular songwriter and cartoonist for the union. His most famous songs include "The Preacher and the Slave", "There Is Power in a Union", and "Casey Jones - the Union Scab", which describes the harsh lives itinerant workers, and call for them to organize to improve their working conditions.\n\nIn 1914, John G. Morrison, a Salt Lake City area grocer and former policeman, and his son were shot and killed by two men. The same evening, Hill arrived at a doctor's office with a gunshot wound, and briefly mentioned a fight over a woman. He refused to explain further, even after he was accused of the grocery store murders on the basis of his injury. Hill was convicted of the murders in a controversial trial and executed on this day in 1915, despite widespread calls for clemency, including from President Woodrow Wilson and Helen Keller.\n\nAfter his arrest, Hill wrote the following about his case: "Owing to the prominence of Mr. Morrison, there had to be a 'goat' [scapegoat] and the undersigned being, as they thought, a friendless tramp, a Swede, and worst of all, an IWW, had no right to live anyway, and was therefore duly selected to be 'the goat'."`,
         link: 'https://aflcio.org/about/history/labor-history-people/joe-hill',
         infoSrc: 'https://en.wikipedia.org/wiki/Joe_Hill'
       },
@@ -22796,6 +22841,15 @@ export const eventLibrary = {
         description: `Theodore Dwight Weld, born on this day in 1803, was one of the architects of the American abolitionist movement during its formative years from 1830 through 1844, playing a role as writer, editor, speaker, and organizer. He is best known for his co-authorship of the authoritative compendium "American Slavery As It Is: Testimony of a Thousand Witnesses", published in 1839.\n\nHarriet Beecher Stowe partly based Uncle Tom's Cabin on Weld's text, and it is regarded as second only to that work in its influence on the antislavery movement. Weld remained dedicated to the abolitionist movement until slavery was ended by the Thirteenth Amendment to the United States Constitution in 1865.`,
         link: 'https://www.nationalabolitionhalloffameandmuseum.org/theodore-dwight-weld.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Theodore_Dwight_Weld'
+      },
+      {
+        category: 'Birthdays',
+        date: 'November 23rd, 1943',
+        title: 'Andrew Goodman (1943 - 1964)',
+        imgSrc: require('./assets/eventPhotos/Individuals/andrewGoodman.jpg'),
+        description: `Andrew Goodman, born on this day in 1943, was an American social worker and activist. He was one of three Civil Rights Movement activists murdered during Freedom Summer in 1964 by members of the Ku Klux Klan.\n\nIn 1964, Goodman volunteered along with fellow activists Michael Schwerner, his wife Rita Schwerner Bender, and James Chaney to work on the "Freedom Summer" project of the Congress of Racial Equality (CORE) to register black people to vote in Mississippi. In mid-June, Goodman joined Schwerner in Meridian, Mississippi, where the latter was designated head of the field office. They worked in rural areas on registering blacks to vote.\n\nChaney and fellow civil rights workers Michael Schwerner and Andrew Goodman were killed near the town of Philadelphia, Mississippi while investigating the burning of Mt. Zion Methodist Church, which had been a site for a CORE Freedom School.\n\nArrested by the local sheriff, the trio was released that evening without being allowed to contact anyone. On the road, they were stopped by patrol lights and two carloads of KKK members, kidnapped, tortured, and killed.\n\nThe sheriff, along with six others, were indicted and convicted for depriving the three men of their civil rights. No one was held accountable for their murders until 2005, when outspoken white supremacist Edgar Ray Killen was convicted on three counts of manslaughter.`,
+        link: 'https://mscivilrightsproject.org/neshoba/event-neshoba/the-murder-of-chaney-goodman-and-schwerner/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Andrew_Goodman_(activist)'
       },
     ],
     'Assassinations': [
@@ -23495,7 +23549,7 @@ export const eventLibrary = {
         date: 'December 3rd, 1847',
         title: 'First North Star Edition (1847)',
         imgSrc: require('./assets/eventPhotos/Organizations/northStar.jpg'),
-        description: `Frederick Douglass (1817 - 1895) was an American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, gaining note for his oratory and incisive antislavery writings.\n\nOn this day in 1847, he published the first edition of his abolitionist periodical "The North Star". The North Star's slogan was "Right is of no Sex—Truth is of no Color—God is the Father of us all, and all we are Brethren."`,
+        description: `Frederick Douglass (1817 - 1895) was an American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, gaining note for his oratory and incisive antislavery writings.\n\nOn this day in 1847, he published the first edition of his abolitionist periodical "The North Star". The North Star's slogan was "Right is of no Sex - Truth is of no Color - God is the Father of us all, and all we are Brethren."`,
         link: 'https://en.wikipedia.org/wiki/Frederick_Douglass',
         infoSrc: 'https://en.wikipedia.org/wiki/The_North_Star_(anti-slavery_newspaper)'
       },
