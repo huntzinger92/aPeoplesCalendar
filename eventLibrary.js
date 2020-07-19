@@ -404,13 +404,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'January 6th, 1966',
+        title: 'SNCC Adopts Anti-War Position (1966)',
+        imgSrc: require('./assets/eventPhotos/Events/snccVietnam.jpg'),
+        description: `The Student Nonviolent Coordinating Committee (SNCC) was the principal channel of student commitment in the United States to the Civil Rights Movement during the 1960s. The group emerged in 1960 from the student-led sit-ins at segregated lunch counters in Greensboro, North Carolina and Nashville, Tennessee and played a key role in helping black people in the South both register and exercise their right to vote.\n\nOn this day in 1966, the SNCC adopted an official stance against the Vietnam War, connecting their struggle for liberation at home to the struggle of liberation for Vietnamese people. Here is an excerpt from their statement:\n\n"We believe the United States government has been deceptive in its claims of concern for the freedom of the Vietnamese people, just as the government has been deceptive in claiming concern for the freedom of colored people in other countries as the Dominican Republic, the Congo, South Africa, Rhodesia, and in the United States itself.\n\n...We question, then, the ability and even the desire of the United States government to guarantee free elections abroad. We maintain that our country's cry of 'preserve freedom in the world' is a hypocritical mask, behind which it squashes liberation movements which are not bound, and refuse to be bound, by the expediencies of United States cold war policies.\n\n...We recoil with horror at the inconsistency of a supposedly “free” society where responsibility to freedom is equated with the responsibility to lend oneself to military aggression...We ask, where is the draft for the freedom fight in the United States?"`,
+        link: 'https://en.wikipedia.org/wiki/Student_Nonviolent_Coordinating_Committee',
+        infoSrc: 'https://snccdigital.org/inside-sncc/policy-statements/vietnam/'
       },
     ],
   },
@@ -1106,7 +1106,7 @@ export const eventLibrary = {
         date: 'January 16th, 1933',
         title: 'Herndon Addresses the Court (1933)',
         imgSrc: require('./assets/eventPhotos/Individuals/angeloHerndon.jpg'),
-        description: `Angelo Herndon (1933 - 1997) was an African-American labor organizer arrested and convicted of insurrection after attempting to organize black and white industrial workers in 1932 in Atlanta, Georgia. His case went to the Supreme Court twice, and Herndon was freed when the insurrection charge was ruled unconstitutional in 1937.\n\nOn this day in 1933, Hernon addressed the court. Recalling his imprisonment, Herndon wrote:\n\n"They questioned me in great detail. Did I believe that the bosses and government ought to pay insurance to unemployed workers? That Negroes should have complete equality with white people?...Did I feel that the working-class could run the mills and mines and government? That it wasn’t necessary to have bosses at all? I told them I believed all of that - and more."\n\nAddressing the court directly, Herndon stated "You may do what you will with Angelo Herndon. You may indict him. You may put him in jail. But there will come thousands of Angelo Herndons. If you really want to do anything about the case, you must go out and indict the social system. But this you will not do, for your role is to defend the system under which the toiling masses are robbed and oppressed.\n\n...You may succeed in killing one, two, even a score of working-class organizers. But you cannot kill the working class..."`,
+        description: `Angelo Herndon (1933 - 1997) was an African-American labor organizer arrested and convicted of insurrection after attempting to organize black and white industrial workers in 1932 in Atlanta, Georgia. His case went to the Supreme Court twice, and Herndon was freed when the insurrection charge was ruled unconstitutional in 1937.\n\nOn this day in 1933, Hernon addressed the court. Recalling his imprisonment, Herndon wrote:\n\n"They questioned me in great detail. Did I believe that the bosses and government ought to pay insurance to unemployed workers? That Negroes should have complete equality with white people?...Did I feel that the working-class could run the mills and mines and government? That it wasn't necessary to have bosses at all? I told them I believed all of that - and more."\n\nAddressing the court directly, Herndon stated "You may do what you will with Angelo Herndon. You may indict him. You may put him in jail. But there will come thousands of Angelo Herndons. If you really want to do anything about the case, you must go out and indict the social system. But this you will not do, for your role is to defend the system under which the toiling masses are robbed and oppressed.\n\n...You may succeed in killing one, two, even a score of working-class organizers. But you cannot kill the working class..."`,
         link: 'https://en.wikipedia.org/wiki/Angelo_Herndon',
         infoSrc: 'https://www.blackpast.org/african-american-history/1932-angelo-herndon-addresses-his-jury/'
       },
@@ -2131,13 +2131,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'January 31st, 1971',
+        title: 'Winter Soldier Investigation (1971)',
+        imgSrc: require('./assets/eventPhotos/Events/winterSoldierInvestigation.jpg'),
+        description: `The "Winter Soldier Investigation" was a media event sponsored by the Vietnam Veterans Against the War (VVAW) that began on this day in 1971, continuing to February 2nd.\n\nThe event was intended to publicize war crimes and atrocities by the United States Armed Forces and their allies in the Vietnam War. The VVAW challenged the morality and conduct of the war by showing the direct relationship between military policies and war crimes in Vietnam. More than one hundred people all gave testimony about war crimes they had committed or witnessed during the years 1963–1970.\n\nWith the exception of Pacifica Radio, the event was not covered extensively outside Detroit. Several journalists and a film crew recorded the event, however, and a documentary film called Winter Soldier was released in 1972. A complete transcript was later entered into the Congressional Record by Senator Mark Hatfield (R-OR).`,
+        link: 'http://www.wintersoldier.com/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Winter_Soldier_Investigation'
       },
     ],
   },
@@ -2416,7 +2416,7 @@ export const eventLibrary = {
         date: 'February 4th, 1793',
         title: 'Fugitive Slave Act (1793)',
         imgSrc: require('./assets/eventPhotos/Events/fugitiveSlaveAct.jpg'),
-        description: `The Fugitive Slave Act of 1793 was an Act of the United States Congress to give effect to the Fugitive Slave Clause of the US Constitution (Article 4, Section 2, Clause 3), which was later overruled by the Thirteenth Amendment. The former guaranteed a right for a slaveholder to recover an escaped slave, and declared that the children of any escaped slave were still property of the slaveowner\n\nNotably, George Washington used the Fugitive Slave Act twice to try and recover one of his escaped slaves, named Oney Judge. Oney later gave an interview in the 1840s, stating that, even fifty years after escaping, she and her child could still be claimed as the legal property of Washington's descendants due to this law.`,
+        description: `The Fugitive Slave Act of 1793 was an Act of the United States Congress to give effect to the Fugitive Slave Clause of the U.S. Constitution (Article 4, Section 2, Clause 3), which was later overruled by the Thirteenth Amendment. The former guaranteed a right for a slaveholder to recover an escaped slave, and declared that the children of any escaped slave were still property of the slaveowner\n\nNotably, George Washington used the Fugitive Slave Act twice to try and recover one of his escaped slaves, named Oney Judge. Oney later gave an interview in the 1840s, stating that, even fifty years after escaping, she and her child could still be claimed as the legal property of Washington's descendants due to this law.`,
         link: 'http://marthawashington.us/items/show/4',
         infoSrc: 'https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1793'
       },
@@ -3237,13 +3237,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'February 16th, 1946',
+        title: 'Ho Chi Minh Letter to Truman (1946)',
+        imgSrc: require('./assets/eventPhotos/Events/hoChiMinhTyping.jpg'),
+        description: `On September 2nd, 1945, Ho Chi Minh had declared Vietnam independent of French colonial rule, which led to immediate war with France. In Vietnam's Proclamation of Independence, Ho Chi Minh, quoted passages from America's Declaration of Independence, pointing out that the ideals expressed in that revolution were aligned with their own desire for freedom.\n\nOn this day in 1946, Ho Chi Minh wrote a letter to President Harry Truman, asking for assisstance in supporting the Vietnamese independence movement. Truman did not respond, and the U.S. began meddling in Vietnamese affairs to undermine Ho Chi Minh's movement. Here is an excerpt from the letter:\n\n"Our Vietnam people, as early as 1941, stood by the Allies' side and fought against the Japanese and their associates, the French colonialists. From 1941 to 1945 we fought bitterly, sustained by the patriotism of our fellow-countrymen and by the promises made by the Allies at [the summits in] Yalta, San Francisco and Potsdam.\n\n...The French aggression on a peace-loving people is a direct menace to world security. It implies the complicity, or at least, the connivance of the Great Democracies. The United Nations ought to keep their words. They ought to interfere to stop this unjust war, and to show that they mean to carry out in peace-time the principles for which they fought in war-time.\n\n...It is with this firm conviction that we request of the United States as guardians and champions of World Justice to take a decisive step in support of our independence. What we ask has been graciously granted to the Philippines. Like the Philippines our goal is full independence and full cooperation with the United States. We will do our best to make this independence and cooperation profitable to the whole world."`,
+        link: 'http://vietnamwar.lib.umb.edu/enemy/docs/Ho_letter_to_Truman_Feb_46.html',
+        infoSrc: 'http://vietnamwar.lib.umb.edu/enemy/docs/Ho_letter_to_Truman_Feb_46.html'
       },
     ],
   },
@@ -3779,7 +3779,7 @@ export const eventLibrary = {
         date: 'February 24th, 1875',
         title: 'William Bross Lloyd (1875 - 1946)',
         imgSrc: require('./assets/eventPhotos/Individuals/williamLloyd.jpg'),
-        description: `William Bross Lloyd, born on this day in 1875, was an American attorney and political activist. The oldest son of the muckraking journalist Henry Demarest Lloyd and Jessie Bross, daughter of Chicago Tribune founder William Bross, William Bross Lloyd is best remembered as a founding member and financial angel of the fledgling Communist Labor Party of America, forerunner of the Communist Party USA.\n\nLloyd would be one of 20 Communists tried for conspiring to overthrow the US government in a major Chicago trial, which was prosecuted by future Chicago judge Frank D. Comerford and defended by celebrated attorney Clarence Darrow. The trial, which ran from May 10 to August 2, 1920, resulted in convictions for all of the defendants.\n\nLloyd received a sentence of from 1 to 5 years in prison but remained free on bail pending resolution of the appeal process. Though the appeals process was exhausted in 1922, Lloyd was no longer seen as a threatening advocate of communism by that date and his sentence was accordingly commuted.`,
+        description: `William Bross Lloyd, born on this day in 1875, was an American attorney and political activist. The oldest son of the muckraking journalist Henry Demarest Lloyd and Jessie Bross, daughter of Chicago Tribune founder William Bross, William Bross Lloyd is best remembered as a founding member and financial angel of the fledgling Communist Labor Party of America, forerunner of the Communist Party USA.\n\nLloyd would be one of 20 Communists tried for conspiring to overthrow the U.S. government in a major Chicago trial, which was prosecuted by future Chicago judge Frank D. Comerford and defended by celebrated attorney Clarence Darrow. The trial, which ran from May 10 to August 2, 1920, resulted in convictions for all of the defendants.\n\nLloyd received a sentence of from 1 to 5 years in prison but remained free on bail pending resolution of the appeal process. Though the appeals process was exhausted in 1922, Lloyd was no longer seen as a threatening advocate of communism by that date and his sentence was accordingly commuted.`,
         link: 'https://spartacus-educational.com/USAlloydWB.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/William_Bross_Lloyd'
       },
@@ -4664,13 +4664,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'March 8th, 1971',
+        title: `Citizen's Commission Steals FBI Docs (1971)`,
+        imgSrc: require('./assets/eventPhotos/Events/citizensCommission.jpg'),
+        description: `The Citizens' Commission to Investigate the FBI was an activist group that operated in the U.S. during the early 1970s. Their only known action was breaking into a two-man Media, Pennsylvania, office of the Federal Bureau of Investigation (FBI) on this day and stealing over 1,000 classified documents. They then mailed these documents anonymously to several U.S. newspapers to expose numerous illegal FBI operations which were infringing on the First Amendment rights of American civilians.\n\nThe theft resulted in the exposure of the COINTELPRO Program and contained some of the FBI's most self-incriminating documents, including several that detailed the FBI's use of postal workers and switchboard operators to spy on black college students and various non-violent black activist groups. Noam Chomsky has stated that analysis of the stolen documents show that 40% of them were devoted to political surveillance, including two cases involving right-wing groups, ten concerning immigrants, and over two hundred on left or liberal groups.\n\nThe perpetrators were never caught. Over 40 years after the break-in, some participants decided to go public with their story. In 2014, Betty Medsger's book "The Burglary: The Discovery of J. Edgar Hoover's Secret F.B.I." was released, which contains the burglars' description of the burglary and revealed the identities of five of the eight burglars. Filmmaker Johanna Hamilton also made a documentary titled "1971" (2014).`,
+        link: 'https://www.nytimes.com/2014/01/07/us/burglars-who-took-on-fbi-abandon-shadows.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Citizens%27_Commission_to_Investigate_the_FBI'
       },
     ],
     'Labor': [
@@ -5072,13 +5072,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'March 14th, 1970',
+        title: 'SS Columbia Eagle Mutiny (1970)',
+        imgSrc: require('./assets/eventPhotos/Events/columbiaEagleMutiny.jpg'),
+        description: `The SS Columbia Eagle incident refers to a mutiny aboard the U.S. merchant vessel Columbia Eagle that began on this day in 1970. It began when two crewmembers seized the vessel with the threat of a bomb and handgun, forcing the master to sail to Cambodia. The ship was under contract with the Military Sea Transportation Service to carry napalm bombs to be used by the U.S. Air Force during the Vietnam War and was originally bound for Sattahip, Thailand. It is the only American mutiny in recent history.\n\nDuring the uprising, 24 of the crew were forced into two lifeboats and set adrift in the Gulf of Thailand while the remainder of the crew were forced to take the ship to a bay near Sihanoukville, Cambodia. The two mutineers had planned to take political refuge in Cambodia, however Prince Sihanouk had just been deposed by a coup the led by the pro-U.S. Sirik Matak and Lon Nol; instead, they became prisoners of the new Cambodian government.\n\nOne mutineer, Alvin Glatkowski, turned himself in at an American Embassy, was extradited to the U.S., and served seven years in prison. The other mutineer, Clyde McKay, escaped capture and sought out the Khmer Rouge regime. He was never captured by authorities, however remains from Cambodia were positively identified as his in 2005.`,
+        link: 'https://www.zinnedproject.org/news/tdih/columbia-eagle-mutiny/',
+        infoSrc: 'https://en.wikipedia.org/wiki/SS_Columbia_Eagle_incident'
       },
     ],
     'Labor': [
@@ -5252,13 +5252,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 16th, 1968',
+        title: 'My Lai Massacre (1968)',
+        imgSrc: require('./assets/eventPhotos/Events/myLaiMassacre.jpg'),
+        description: `The My Lai Massacre was a war crime committed by U.S. troops in Sơn Tịnh District, South Vietnam, on this day in 1968. Between 347 and 504 unarmed people were killed by U.S. Army soldiers, including men, women, children, and infants. Some of the women were gang-raped and their bodies mutilated, as were children as young as 12.\n\nDespite two soldiers writing letters to their superiors about the possibility of a war crime having taken place, the U.S. government claimed that the event was a military victory for several months after it occurred. After an independent journalist broke the story and the true nature of the massacre became public, twenty-six soldiers were charged with criminal offenses.\n\nOnly one, Lieutenant William Calley Jr., was convicted. Found guilty of killing 22 villagers, he was originally given a life sentence, but served only three and a half years under house arrest. The incident sparked global outrage and spurred the domestic anti-war movement. Three U.S. servicemen who had tried to halt the massacre and rescue the hiding civilians were shunned and denounced as traitors, including by multiple U.S. Congressmen.`,
+        link: 'https://www.newyorker.com/magazine/1972/01/22/coverup',
+        infoSrc: 'https://en.wikipedia.org/wiki/My_Lai_Massacre'
       },
     ],
   },
@@ -7363,6 +7363,15 @@ export const eventLibrary = {
         link: 'https://pacifica.org/about_history.php',
         infoSrc: 'https://pacifica.org/'
       },
+      {
+        category: 'Other',
+        date: 'April 15th, 1967',
+        title: 'Vietnam Veterans Against the War (1967)',
+        imgSrc: require('./assets/eventPhotos/Events/veteransAgainstWar.jpg'),
+        description: `Vietnam Veterans Against the War (VVAW) is an American tax-exempt non-profit organization and corporation that began on this day in 1967, whose goal is oppose the United States policy and participation in the Vietnam War. VVAW is a national veterans' organization that campaigns for peace, justice, and the rights of all United States military veterans. The VVAW is widely considered to be among the most influential anti-war organizations of the American Vietnam War era.\n\nIn January 1971, VVAW sponsored the Winter Soldier Investigation to gather and present testimony from soldiers about war crimes being committed in Southeast Asia, intending to demonstrate these resulted from American war policies. The event was boycotted by most mainstream media, although the Detroit Free Press covered it daily. Later VVAW released Winter Soldier, a 16mm black-and-white documentary film showing participants giving testimony at the 1971 hearing`,
+        link: 'http://www.vvaw.org/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Vietnam_Veterans_Against_the_War'
+      },
     ],
   },
   '4-16': {
@@ -7383,7 +7392,7 @@ export const eventLibrary = {
         date: 'April 16th, 1842',
         title: 'Creole Slave Revolt Succeeds (1842)',
         imgSrc: require('./assets/eventPhotos/Events/creoleSlaveRevolt.jpg'),
-        description: `The revolt aboard the slave ship Creole occurred on November 7th, 1841. It has been ranked as the "most successful slave revolt in US history", resulting in 128 slaves winning their freedoms. Two persons died as a result of the revolt, a black slave and a white slave trader.\n\nOn November 7th, 19 slaves rebelled and took control of the deck of the ship, killing one slave trader in the process. The slaves then demanded to be sailed to Liberia, but settled on the British West Indies instead, as the African coast was too far away.\n\nThey reached Nassau, a major port city in the West Indies two days later. The slaves were detained, and the British government considered charging the slaves with piracy. On this day in 1842, the Admiralty Court in Nassau ordered the last mutineers to be released on April 16, 1842, and the slaves won their freedom.`,
+        description: `The revolt aboard the slave ship Creole occurred on November 7th, 1841. It has been ranked as the "most successful slave revolt in U.S. history", resulting in 128 slaves winning their freedoms. Two persons died as a result of the revolt, a black slave and a white slave trader.\n\nOn November 7th, 19 slaves rebelled and took control of the deck of the ship, killing one slave trader in the process. The slaves then demanded to be sailed to Liberia, but settled on the British West Indies instead, as the African coast was too far away.\n\nThey reached Nassau, a major port city in the West Indies two days later. The slaves were detained, and the British government considered charging the slaves with piracy. On this day in 1842, the Admiralty Court in Nassau ordered the last mutineers to be released on April 16, 1842, and the slaves won their freedom.`,
         link: 'https://www.zinnedproject.org/news/tdih/the-creole-case/',
         infoSrc: 'https://en.wikipedia.org/wiki/Creole_case'
       },
@@ -7495,7 +7504,7 @@ export const eventLibrary = {
         date: 'April 17th, 1961',
         title: 'Bay of Pigs Invasion (1961)',
         imgSrc: require('./assets/eventPhotos/Events/bayOfPigs.jpg'),
-        description: `The Bay of Pigs invasion (known in Spanish as invasión de bahía de Cochinos) was a failed landing operation on the southwestern coast of Cuba that took place on this day in 1961 by Cuban exiles who opposed Fidel Castro's Cuban Revolution. Covertly financed and directed by the U.S. government, the operation took place at the height of the Cold War and its failure led to major shifts in international relations between Cuba, the United States, and the Soviet Union.\n\nThe coup attempt came in response to Castro expropriating property from American businesses, US President Dwight D. Eisenhower allocated $13.1 million to the Central Intelligence Agency (CIA) in March 1960 for use against Castro. With the aid of Cuban counter-revolutionaries, the CIA proceeded to organize the invasion.\n\nOn the night of April 17th, the an invasion force of about 1400 Cuban exiles and CIA officers landed on the beach at Playa Girón in the Bay of Pigs. After a few days, they became overwhelmed by the Cuban army when Kennedy refused to provide air support that was deemed necessary by the CIA.\n\nThe invasion's defeat solidified Castro's role as a national hero and strengthed Cuba-Soviet relations. Several Cuban exiles and two Americans were executed upon capture; over 1000 prisoners were exchanged for humanitarian aid from the U.S. government.`,
+        description: `The Bay of Pigs invasion (known in Spanish as invasión de bahía de Cochinos) was a failed landing operation on the southwestern coast of Cuba that took place on this day in 1961 by Cuban exiles who opposed Fidel Castro's Cuban Revolution. Covertly financed and directed by the U.S. government, the operation took place at the height of the Cold War and its failure led to major shifts in international relations between Cuba, the United States, and the Soviet Union.\n\nThe coup attempt came in response to Castro expropriating property from American businesses, U.S. President Dwight D. Eisenhower allocated $13.1 million to the Central Intelligence Agency (CIA) in March 1960 for use against Castro. With the aid of Cuban counter-revolutionaries, the CIA proceeded to organize the invasion.\n\nOn the night of April 17th, the an invasion force of about 1400 Cuban exiles and CIA officers landed on the beach at Playa Girón in the Bay of Pigs. After a few days, they became overwhelmed by the Cuban army when Kennedy refused to provide air support that was deemed necessary by the CIA.\n\nThe invasion's defeat solidified Castro's role as a national hero and strengthed Cuba-Soviet relations. Several Cuban exiles and two Americans were executed upon capture; over 1000 prisoners were exchanged for humanitarian aid from the U.S. government.`,
         link: 'https://www.npr.org/2011/04/17/135444482/50-years-later-learning-from-the-bay-of-pigs',
         infoSrc: 'https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion'
       },
@@ -7634,6 +7643,15 @@ export const eventLibrary = {
         description: `Z. Alexander Looby was a Nashville politician and famous civil rights attorney who worked with the NAACP. He is notable for his defense of the 25 black men charged with murder as part of the 1946 Columbia Race Riots and supporting the students participating in the Nashville Sit-ins of 1960.\n\nOn this day in 1960, a bundle of dynamite was lobbed towards the front of the house of Z. Alexander Looby, a Nashville councilman and famed civil rights attorney. Rolling onto the home's concrete foundation, it detonated, the blast destroying the front of the house.\n\nLooby survived, and the bombing was the catalyst for a march held later that day, in which nearly 3,000 people marched to City Hall in total silence. Once the crowd converged on City Hall, they were met on the steps of the plaza by Mayor Ben West, who admitted to the crowd that he supported desgregating the lunch counters.`,
         link: 'https://en.wikipedia.org/wiki/Z._Alexander_Looby',
         infoSrc: 'https://www.atlasobscura.com/places/site-of-the-looby-house-bombing'
+      },
+      {
+        category: 'Other',
+        date: 'April 19th, 1971',
+        title: 'Operation Dewey Canyon III (1971)',
+        imgSrc: require('./assets/eventPhotos/Events/deweyCanyon.jpg'),
+        description: `On this day in 1971, more than 1,100 veterans led by Gold Star Mothers (mothers of soldiers killed in war) marched across the Lincoln Memorial Bridge to the Arlington Cemetery gate, just beneath the Tomb of the Unknown Soldier. Reverend Jackson H. Day, who had a few days earlier resigned his military chaplainship, conducted a memorial service for their fellows.\n\nOver the next four days, fifty soldiers attempted to turn themselves in as war criminals at the Pentagon, police defied orders to arrest protesters camping on the National Mall, and more than 800 soldiers threw their medals, ribbons, discharge papers, and other war mementos on the steps of the U.S. Capitol as a symbolic rejection of the war.`,
+        link: 'https://publish.illinois.edu/samalthaus/2016/10/14/the-throwing-of-the-medals-operation-dewey-canyon-iii-historical-protest-project/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Vietnam_Veterans_Against_the_War'
       },
     ],
   },
@@ -8544,13 +8562,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: ``,
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'May 3rd, 1971',
+        title: 'May Day Mass Arrests (1971)',
+        imgSrc: require('./assets/eventPhotos/Events/mayDay1971.jpg'),
+        description: `The 1971 May Day Protests were a series of large-scale civil disobedience actions in Washington, D.C., in protest against the Vietnam War. These began on May Day of that year, continued with similar intensity into the morning of May 3rd, before subsiding. Members of the Nixon administration would come to view the events as damaging, because the government's mass arrests of protesters were perceived as violating citizens' civil rights.\n\nThe protest began when 35,000 protesters camped out in West Potomac Park near the Washington Monument park to plan for the coming protest. The next day, the Nixon administration canceled the protester's permit and police, dressed in riot gear, raided the encampment, firing tear gas and knocking down tents.\n\nOn this day, President Nixon executed "Operation Garden Plot" (a plan it had developed during the 1960s to combat major civil disorders), deploying 10,000 federal troops to various locations in the Washington, D.C. area.\n\nWhile the troops secured the major intersections and bridges, police roamed through the city making massive arrest sweeps and used tear gas. By eight in the morning, police had detained over 7,000 people, arresting anyone who looked like a demonstrator, including construction workers who had come out to support the government. Over the course of several days, the city arrested 12,614 people, making it the largest mass arrest in U.S. history.`,
+        link: 'https://nvdatabase.swarthmore.edu/content/washington-dc-protests-against-war-vietnam-mayday-1971',
+        infoSrc: 'https://en.wikipedia.org/wiki/1971_May_Day_protests'
       },
     ],
     'Labor': [
@@ -8672,6 +8690,15 @@ export const eventLibrary = {
         description: `Freedom Riders were civil rights activists who rode interstate buses into the segregated Southern United States in 1961 and subsequent years to challenge the Southern non-enforcement of the United States Supreme Court decisions Morgan v. Virginia (1946) and Boynton v. Virginia (1960), which ruled that segregated public buses were unconstitutional. On this day in 1961, the first Freedom Ride left Washington, D.C., headed for New Orleans, Louisiana.\n\nParticipants journeyed to the deep South, including women as well as men and testing segregated bus terminals as well. The riders were met with severe violence. In Anniston, Alabama, one of the buses was fire-bombed and passengers were beaten by a white mob. White mobs also attacked Freedom Riders in Birmingham and Montgomery. The violence garnered national attention, sparking a summer of similar rides by CORE, SNCC and other Civil Rights organizations and thousands of ordinary citizens.`,
         link: 'http://www.core-online.org/History/freedom%20rides.htm#:~:text=The%20first%20Freedom%20Ride%20took,bus%20and%20rail%20stations%20unconstitutional.',
         infoSrc: 'https://en.wikipedia.org/wiki/Freedom_Riders'
+      },
+      {
+        category: 'Other',
+        date: 'May 4th, 1970',
+        title: 'Kent State Massacre (1970)',
+        imgSrc: require('./assets/eventPhotos/Events/kentStateMassacre.jpg'),
+        description: `The Kent State Massacre was a set of shootings of thirteen unarmed Kent State University students in Kent, Ohio, by the Ohio National Guard. The killings took place on this day in 1970, during a peace rally against the expanding involvement of the Vietnam War into neutral Cambodia by United States military forces as well as the National Guard presence on campus.\n\nOn May 4th, an estimated 2,000 people gathered on the university's Commons, near Taylor Hall. After the National Guard attempted to disperse the crowd, armed guardsmen began firing on the protesters. Four students were killed and nine were wounded, nearly all more than two hundred feet away from the guardsmen.\n\nThe Kent State Massacre marked the first time that a student had been slain in an anti-war gathering in United States history. Just ten days after the Kent State shootings, however, two students were killed (and 12 wounded) by police at Jackson State University in Mississippi.`,
+        link: 'https://www.kent.edu/may-4-historical-accuracy',
+        infoSrc: 'https://en.wikipedia.org/wiki/Kent_State_shootings'
       },
     ],
   },
@@ -9367,7 +9394,7 @@ export const eventLibrary = {
         date: 'May 14th, 1970',
         title: 'Jackson State Killings (1970)',
         imgSrc: require('./assets/eventPhotos/Events/jacksonStateKillings.jpg'),
-        description: `The Jackson State Killings were the result of a confrontation between police and student protestors that began on this day in 1970. Students at Jackson State College (now Jackson State University) in Jackson, Mississippi.\n\nThat evening, over 100 had gathered on Lynch Street (named after Reconstruction era legislator John Lynch) and were reportedly pelting rocks at white motorists driving down the main road through campus. Tensions were inflamed when a false rumor spread that Charles Evers, older brother of Medgar Evers and a civil rights activist in his own right, had been killed.\n\nThe police responded in force. At least 75 Jackson police units from the city of Jackson and the Mississippi Highway Patrol attempted to control the crowd while the firemen extinguished fires that had been set. After the firefighters had left the scene, the police moved to disperse the crowd that had gathered in front of Alexander Hall, a women's dormitory.\n\nJust after midnight, the police opened fire, killing two students and injuring twelve. The gunfire lasted for 30 seconds and more than 460 shots were fired, some by highway patrolmen using shotguns from 30 to 50 feet. Every window on the narrow side of the building facing Lynch Street was shattered, two people were killed, and twelve were wounded. The event happened just 11 days after the Kent State shootings, in which National Guardsmen killed four protesting students at Kent State University in Ohio.`,
+        description: `The Jackson State Killings were the result of a confrontation between police and student protesters that began on this day in 1970. Students at Jackson State College (now Jackson State University) in Jackson, Mississippi.\n\nThat evening, over 100 had gathered on Lynch Street (named after Reconstruction era legislator John Lynch) and were reportedly pelting rocks at white motorists driving down the main road through campus. Tensions were inflamed when a false rumor spread that Charles Evers, older brother of Medgar Evers and a civil rights activist in his own right, had been killed.\n\nThe police responded in force. At least 75 Jackson police units from the city of Jackson and the Mississippi Highway Patrol attempted to control the crowd while the firemen extinguished fires that had been set. After the firefighters had left the scene, the police moved to disperse the crowd that had gathered in front of Alexander Hall, a women's dormitory.\n\nJust after midnight, the police opened fire on the building. The gunfire lasted for 30 seconds and more than 460 shots were fired. Every window on the narrow side of the building facing Lynch Street was shattered and two people were killed, twelve wounded. The killings happened just ten days after the Kent State shootings, in which National Guardsmen killed four protesting students at Kent State University in Ohio.`,
         link: 'https://www.npr.org/templates/story/story.php?storyId=126426361',
         infoSrc: 'https://en.wikipedia.org/wiki/Jackson_State_killings'
       },
@@ -9532,13 +9559,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'May 17th, 1968',
+        title: 'Catonsville Nine (1968)',
+        imgSrc: require('./assets/eventPhotos/Events/catonsvilleNine.jpg'),
+        description: `The Catonsville Nine were nine Catholic activists who burned draft files to protest the Vietnam War on this day in 1968. The group went to the draft board in Catonsville, Maryland, took 378 draft files, brought them to the parking lot in wire baskets, dumped them out, poured over them homemade napalm (an incendiary used extensively by the US military in Vietnam), and set them on fire.\n\nThe nine activists were found guilty of destruction of U.S. property, destruction of Selective Service files, and interference with the Selective Service Act of 1967, and were sentenced to a collective 18 years in jail and a fine of $22,000. Several of the nine - Mary Moylan, Phil Berrigan, Dan Berrigan and George Mische - fled before their prison sentence, forcing the FBI to hunt them down.`,
+        link: 'http://www.catonsville9.org/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Catonsville_Nine'
       },
     ],
     'Labor': [
@@ -9916,7 +9943,7 @@ export const eventLibrary = {
         date: 'May 22nd, 1942',
         title: 'Richard Oakes (1942 - 1972)',
         imgSrc: require('./assets/eventPhotos/Individuals/richardOakes.jpg'),
-        description: `Richard Oakes was a Mohawk Native American activist. He spurred Native American studies in university curricula and is credited for helping to change US federal government Termination policies of Native American peoples and culture. Oakes led a 19-month occupation of Alcatraz Island with LaNada Means, approximately 50 California State University students, and 37 others.\n\nIn 1972, Oakes was shot and killed in Sonoma, California, by Michael Morgan, a YMCA camp manager. Oakes allegedly violently confronted him, and Morgan responded by drawing a handgun and fatally shooting Oakes. Oakes was unarmed when he was shot. Morgan claimed he acted in self-defense and was acquitted on charges of voluntary manslaughter.`,
+        description: `Richard Oakes was a Mohawk Native American activist. He spurred Native American studies in university curricula and is credited for helping to change U.S. federal government Termination policies of Native American peoples and culture. Oakes led a 19-month occupation of Alcatraz Island with LaNada Means, approximately 50 California State University students, and 37 others.\n\nIn 1972, Oakes was shot and killed in Sonoma, California, by Michael Morgan, a YMCA camp manager. Oakes allegedly violently confronted him, and Morgan responded by drawing a handgun and fatally shooting Oakes. Oakes was unarmed when he was shot. Morgan claimed he acted in self-defense and was acquitted on charges of voluntary manslaughter.`,
         link: 'https://www.npr.org/sections/thetwo-way/2017/05/22/529504340/richard-oakes-who-occupied-alcatraz-for-native-rights-gets-a-birthday-honor',
         infoSrc: 'https://en.wikipedia.org/wiki/Richard_Oakes_(activist)'
       },
@@ -10401,7 +10428,7 @@ export const eventLibrary = {
         date: 'May 29th, 1944',
         title: 'Maurice Bishop (1944 - 1983)',
         imgSrc: require('./assets/eventPhotos/Individuals/mauriceBishop.jpg'),
-        description: `Maurice Rupert Bishop was a Grenadian revolutionary and the leader of New Jewel Movement - popular efforts in the areas of socio-economic development, education, and black liberation. Bishop headed the People's Revolutionary Government of Grenada from 1979 to 1983, when he was dismissed from his post and shot in a coup, leading to civil unrest and a US invasion of the country.\n\nAlthough Bishop grew up in Grenada, he left to study in London as a young adult. While there, Bishop acquired a law degree and studied the works of Lenin, Mao Zedong, and Julius Nyerere.\n\nIn 1970, he returned to Grenada and was active politically, representing striking nurses in court and leading the "New Jewel Movement", which ultimately put him in power. In 1979, the New Jewel Movement successfully led a coup against Eric Gairy and made Bishop the Prime Minister of Grenada.\n\nAmong Bishop's core principles were workers' rights, women's rights, and the struggle against racism and apartheid. Women were given equal pay and paid maternity leave, and sex discrimination was made illegal. Organisations for education, health care, youth affairs, and literacy were also established. Due to his efforts, illiteracy and unemployment greatly declined.\n\nIn 1983, disputes within the party culminated in Bishop, along with seven members of his cabinet, being captured and executed. After his assassination, the Organization of Eastern Caribbean States (OECS) and Grenada's governor-general Paul Scoon appealed to the United States for help. Within the month, Ronald Reagan launched an invasion of Grenada.`,
+        description: `Maurice Rupert Bishop was a Grenadian revolutionary and the leader of New Jewel Movement - popular efforts in the areas of socio-economic development, education, and black liberation. Bishop headed the People's Revolutionary Government of Grenada from 1979 to 1983, when he was dismissed from his post and shot in a coup, leading to civil unrest and a U.S. invasion of the country.\n\nAlthough Bishop grew up in Grenada, he left to study in London as a young adult. While there, Bishop acquired a law degree and studied the works of Lenin, Mao Zedong, and Julius Nyerere.\n\nIn 1970, he returned to Grenada and was active politically, representing striking nurses in court and leading the "New Jewel Movement", which ultimately put him in power. In 1979, the New Jewel Movement successfully led a coup against Eric Gairy and made Bishop the Prime Minister of Grenada.\n\nAmong Bishop's core principles were workers' rights, women's rights, and the struggle against racism and apartheid. Women were given equal pay and paid maternity leave, and sex discrimination was made illegal. Organisations for education, health care, youth affairs, and literacy were also established. Due to his efforts, illiteracy and unemployment greatly declined.\n\nIn 1983, disputes within the party culminated in Bishop, along with seven members of his cabinet, being captured and executed. After his assassination, the Organization of Eastern Caribbean States (OECS) and Grenada's governor-general Paul Scoon appealed to the United States for help. Within the month, Ronald Reagan launched an invasion of Grenada.`,
         link: 'https://www.zinnedproject.org/news/tdih/grenada-revolution/',
         infoSrc: 'https://en.wikipedia.org/wiki/Maurice_Bishop'
       },
@@ -11295,13 +11322,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'June 11th, 1963',
+        title: 'Thích Quảng Đức Self-Immolation (1963)',
+        imgSrc: require('./assets/eventPhotos/Individuals/thichDuc.jpg'),
+        description: `Thích Quảng Đức was a Vietnamese Mahayana Buddhist monk who burned himself to death at a busy Saigon road intersection on this day in 1963. Quảng Đức was protesting the persecution of Buddhists by the South Vietnamese government led by Ngô Đình Diệm, a Western-backed Catholic dictator ruling over the majority Buddhist country.\n\nPhotographs of his self-immolation were circulated widely around the world and brought attention to the oppressive policies of the Diệm government. Quảng Đức's act increased international pressure on Diệm and led him to announce reforms with the intention of mollifying the Buddhists. The promised reforms were not implemented, however, leading to inflamed tensions and Diệm's eventually assassination on November 2nd, 1963.\n\nQuảng Đức body was re-cremated during the funeral, but his heart remained intact and did not burn. It was considered to be holy and placed in a glass chalice at Xá Lợi Pagoda. The intact heart relic is regarded as a symbol of compassion.`,
+        link: 'https://time.com/3791176/malcolm-browne-the-story-behind-the-burning-monk/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c'
       },
     ],
     'Labor': [
@@ -13324,13 +13351,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'July 9th, 1967',
+        title: 'Phoenix Program Founded (1967)',
+        imgSrc: require('./assets/eventPhotos/Events/phoenixProgram.jpg'),
+        description: `The Phoenix Program was a program designed and coordinated by the United States Central Intelligence Agency (CIA) during the Vietnam War sought to destroy the Viet Cong (VC) via infiltration, torture, capture, counter-terrorism, interrogation, and assassination. This included attacking their "political infrascruture", i.e., non-combatant supporters. The Phoenix Program "neutralized" 81,740 people suspected of VC membership, of whom 26,369 were killed and the rest surrendered or were captured.\n\nThe program was incredibly controversial, with one former U.S. military intelligence officer describing it as a "sterile depersonalized murder program". There were many reports of torture and murder of prisoners as well. Because the program targeted ostensible civilians, many innocent people were killed. Some rival Vietnamese would even report their enemies as Viet Cong in order to get U.S. troops to kill them.\n\nAfter Phoenix Program abuses began receiving negative publicity, it was officially shut down in 1971, although the program continued under the name Plan F-6 with the government of South Vietnam in direct control.`,
+        link: 'https://www.cia.gov/library/readingroom/docs/CIA-RDP80R01720R000600040010-7.pdf',
+        infoSrc: 'https://en.wikipedia.org/wiki/Phoenix_Program'
       },
     ],
   },
@@ -13736,7 +13763,7 @@ export const eventLibrary = {
         date: 'July 15th, 1958',
         title: 'Lebanon Crisis (1958)',
         imgSrc: require('./assets/eventPhotos/Events/lebanonCrisis1958.jpg'),
-        description: `The 1958 Lebanon Crisis was a Lebanese political crisis caused by political and religious tensions in the country that included a United States military intervention, which began on this day that year. The pro-Western president, Camille Chamoun asked for U.S. assistance after the July 14th Revolution in Iraq, which resulted in the death of the Iraqi king and prime minister in a coup d'etat.\n\nThe intervention, known as "Operation Blue Bat", consisted of more than 14,000 footsoldiers, were supported by a fleet of 70 ships and 40,000 sailors. American and Lebanese government forces successfully occupied the Port of Beirut and Beirut International Airport.\n\nThe military occupation lasted until October 25th, until President Chamoun completed his term as president of Lebanon. According to historian Maurice Labelle, "this was the first overt US military intervention in the region", and it cast the U.S. as an imperialist power in the Middle East, willing and able to militarily occupy countries there to manage its interests.`,
+        description: `The 1958 Lebanon Crisis was a Lebanese political crisis caused by political and religious tensions in the country that included a United States military intervention, which began on this day that year. The pro-Western president, Camille Chamoun asked for U.S. assistance after the July 14th Revolution in Iraq, which resulted in the death of the Iraqi king and prime minister in a coup d'etat.\n\nThe intervention, known as "Operation Blue Bat", consisted of more than 14,000 footsoldiers, were supported by a fleet of 70 ships and 40,000 sailors. American and Lebanese government forces successfully occupied the Port of Beirut and Beirut International Airport.\n\nThe military occupation lasted until October 25th, until President Chamoun completed his term as president of Lebanon. According to historian Maurice Labelle, "this was the first overt U.S. military intervention in the region", and it cast the U.S. as an imperialist power in the Middle East, willing and able to militarily occupy countries there to manage its interests.`,
         link: 'https://www.aljazeera.com/indepth/features/2013/07/201371411160525538.html',
         infoSrc: 'https://en.wikipedia.org/wiki/1958_Lebanon_crisis'
       },
@@ -14236,7 +14263,7 @@ export const eventLibrary = {
         date: 'July 23rd, 1967',
         title: 'Detroit Riot (1967)',
         imgSrc: require('./assets/eventPhotos/Events/detroitRiot.jpg'),
-        description: `The Detroit Riot, also known as the 12th Street Riot, was the bloodiest incident in the "Long, hot summer of 1967", a period of over one hundred race riots in a few short months. Composed mainly of confrontations between black residents and the Detroit Police Department, it began on this day in 1967.\n\nIn the early hours July 23rd, Detroit Police Department (DPD) officers raided an unlicensed weekend drinking club in the office of the United Community League for Civic Action, above the Economy Printing Company, at 9125 12th Street. They expected a few revelers inside, but instead found a party of 82 people celebrating the return of two local GIs from the Vietnam War. The police decided to arrest everyone present.\n\nWhile they were arranging for transportation, a sizable crowd of onlookers gathered on the street, having witnessed the raid. After the DPD left, the crowd began looting an adjacent clothing store. Shortly thereafter, full-scale looting began throughout the neighborhood. This looting escalated into a city-wide uprising that involved shootouts between rioters and police officers.\n\nThe violence escalated throughout the next day, resulting in some 483 fires, 231 incidents reported per hour, and 1,800 arrests. Thousands of guns were stolen from stores. Firefighters attempting to put out fires were shot at, police abuse of power was rampant. Thousands of federal troops occupied the city, but the rioting could not be quelled until July 28th.\n\n43 people were killed, most of whom were black. Among the dead was a four year old girl named Tanya Blanding, who was shot and killed by Sgt. Mortimer J. LeBlanc after he fired indiscriminately into her mother's apartment. LeBlanc was exonerated of any wrongdoing. The scale of the riot was the worst in the United States since the 1863 New York City draft riots during the American Civil War and was not surpassed until the 1992 Los Angeles riots 25 years later.`,
+        description: `The Detroit Riot, also known as the 12th Street Riot, was the bloodiest incident in the "Long, hot summer of 1967", a period of over one hundred race riots in a few short months. Composed mainly of confrontations between black residents and the Detroit Police Department, it began on this day in 1967.\n\nIn the early hours July 23rd, Detroit Police Department (DPD) officers raided an unlicensed weekend drinking club in the office of the United Community League for Civic Action. They expected a few revelers inside, but instead found a party of 82 people celebrating the return of two local GIs from the Vietnam War. The police decided to arrest everyone present.\n\nAfter the DPD left, a crowd of onlookers began looting an adjacent clothing store. Shortly thereafter, full-scale looting began throughout the neighborhood. This looting escalated into a city-wide uprising that involved shootouts between rioters and police officers.\n\nThe violence escalated throughout the next day, resulting in some 483 fires and 1,800 arrests. Thousands of guns were stolen from stores. Firefighters attempting to put out fires were shot at, police abuse of power was rampant. Thousands of federal troops occupied the city, but the rioting could not be quelled until July 28th.\n\n43 people were killed, most of whom were black. Among the dead was a four year old girl named Tanya Blanding, who was shot and killed by Sgt. Mortimer J. LeBlanc after he fired indiscriminately into her mother's apartment. LeBlanc was exonerated of any wrongdoing. The scale of the riot was the worst in the United States since the 1863 New York City draft riots during the American Civil War and was not surpassed until the 1992 Los Angeles riots 25 years later.`,
         link: 'https://detroithistorical.org/learn/encyclopedia-of-detroit/uprising-1967',
         infoSrc: 'https://en.wikipedia.org/wiki/1967_Detroit_riot'
       },
@@ -14620,7 +14647,7 @@ export const eventLibrary = {
         date: 'July 28th, 1915',
         title: 'U.S. Occupies Haiti (1915)',
         imgSrc: require('./assets/eventPhotos/Events/haitiOccupation.jpg'),
-        description: `On this day in 1915, the United States occupation of Haiti began when 330 US Marines landed at Port-au-Prince, Haiti, on orders from U.S. President Woodrow Wilson. The July intervention took place following the murder of dictator President Vilbrun Guillaume Sam by insurgents angered by his political murders of elite opposition.\n\nPresident Wilson ordered the invasion to "protect American and foreign" interests. He also wanted to rewrite the Haitian constitution, which banned foreign ownership of land, and replace it with one that guaranteed American financial control. To avoid public criticism, Wilson claimed the occupation was a mission to "re-establish peace and order...and has nothing to do with any diplomatic negotiations of the past or the future".\n\nWhen the Haitian legislature refused to ratify a new constitution that allowed foreigners to own land in Haiti, the U.S. backed President Dartiguenave dissolved the legislature and the constitution became law. U.S. occupiers also re-instituted a system known as civil conscription (impressed labor), in which Haitian civilians were captured and forced to work on public projects, such as building roads, and established the National Guards.\n\nThe U.S. continued to militarily occupy Haiti until August 15th, 1934.`,
+        description: `On this day in 1915, the United States occupation of Haiti began when 330 U.S. Marines landed at Port-au-Prince, Haiti, on orders from U.S. President Woodrow Wilson. The July intervention took place following the murder of dictator President Vilbrun Guillaume Sam by insurgents angered by his political murders of elite opposition.\n\nPresident Wilson ordered the invasion to "protect American and foreign" interests. He also wanted to rewrite the Haitian constitution, which banned foreign ownership of land, and replace it with one that guaranteed American financial control. To avoid public criticism, Wilson claimed the occupation was a mission to "re-establish peace and order...and has nothing to do with any diplomatic negotiations of the past or the future".\n\nWhen the Haitian legislature refused to ratify a new constitution that allowed foreigners to own land in Haiti, the U.S. backed President Dartiguenave dissolved the legislature and the constitution became law. U.S. occupiers also re-instituted a system known as civil conscription (impressed labor), in which Haitian civilians were captured and forced to work on public projects, such as building roads, and established the National Guards.\n\nThe U.S. continued to militarily occupy Haiti until August 15th, 1934.`,
         link: 'https://www.washingtonpost.com/news/worldviews/wp/2015/07/30/100-years-ago-the-u-s-invaded-and-occupied-this-country-can-you-name-it/',
         infoSrc: 'https://en.wikipedia.org/wiki/United_States_occupation_of_Haiti'
       },
@@ -14956,13 +14983,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'August 2nd, 1964',
+        title: 'Gulf of Tonkin Incident (1964)',
+        imgSrc: require('./assets/eventPhotos/Events/gulfOfTonkin.jpg'),
+        description: `On this day in 1964, the Gulf of Tonkin Incident occurred. The incident began when three North Vietnamese torpedo boats were surveilling the American destroyer USS Maddox as it performed intelligence operations in North Vietnamese waters. The Maddox initiated the incident by opening fire, shooting off three "warning" shots; the North Vietnamese boats replied with torpedoes and machine gun fire. The exchange caused ten North Vietnamese casualties and damaged one U.S. helicopter; there were no American causalties.\n\nIn response, the U.S. Congress passed a "Gulf of Tonkin Resolution", which granted U.S. President Lyndon B. Johnson the authority to assist any Southeast Asian country whose government was considered to be jeopardized by "communist aggression". The resolution served as Johnson's legal justification for deploying U.S. conventional forces and the commencement of open warfare against North Vietnam.\n\nOn television, President Johnson made misleading statements about the incident and portrayed U.S. military escalation as an act of defense. Since then, the Pentagon Papers, the memoirs of Robert McNamara, and NSA publications from 2005, have proven that the U.S. government lied about the nature of the incident to justify a war against Vietnam.`,
+        link: 'https://www.britannica.com/event/Gulf-of-Tonkin-incident',
+        infoSrc: 'https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident'
       },
     ],
   },
@@ -15713,7 +15740,7 @@ export const eventLibrary = {
         date: 'August 13th, 1926',
         title: 'Fidel Castro (1926 - 2016)',
         imgSrc: require('./assets/eventPhotos/Individuals/fidelCastro.png'),
-        description: `Fidel Alejandro Castro Ruz was a Cuban revolutionary and politician who served as Prime Minister of Cuba from 1959 to 1976 and President from 1976 to 2008. Ideologically a Marxist-Leninist and Cuban nationalist, he also served as the First Secretary of the Communist Party of Cuba from 1961 until 2011. Under his administration the Republic of Cuba became a one-party communist state; industry and business were nationalized, and state socialist reforms were implemented throughout society.\n\nThe longest-serving non-royal head of state in the 20th and 21st centuries, Castro polarized opinion throughout the world. His supporters view him as a champion of socialism and anti-imperialism whose revolutionary regime advanced economic and social justice while securing Cuba's independence from US hegemony. Critics view him as a tyrannical dictator whose administration oversaw human-rights abuses, the exodus of many Cubans, and the impoverishment of the country's economy.`,
+        description: `Fidel Alejandro Castro Ruz was a Cuban revolutionary and politician who served as Prime Minister of Cuba from 1959 to 1976 and President from 1976 to 2008. Ideologically a Marxist-Leninist and Cuban nationalist, he also served as the First Secretary of the Communist Party of Cuba from 1961 until 2011. Under his administration the Republic of Cuba became a one-party communist state; industry and business were nationalized, and state socialist reforms were implemented throughout society.\n\nThe longest-serving non-royal head of state in the 20th and 21st centuries, Castro polarized opinion throughout the world. His supporters view him as a champion of socialism and anti-imperialism whose revolutionary regime advanced economic and social justice while securing Cuba's independence from U.S. hegemony. Critics view him as a tyrannical dictator whose administration oversaw human-rights abuses, the exodus of many Cubans, and the impoverishment of the country's economy.`,
         link: 'https://en.wikipedia.org/wiki/Fidel_Castro',
         infoSrc: 'https://en.wikipedia.org/wiki/Fidel_Castro'
       },
@@ -16238,6 +16265,15 @@ export const eventLibrary = {
         description: `Nat Turner's Rebellion was a rebellion of black slaves that took place in Southampton County, Virginia, in August 1831, led by Nat Turner. Fugitive enslaved people killed from 55 to 65 people, at least 51 being white. The group spared a few homes "because Turner believed the poor white inhabitants 'thought no better of themselves than they did of negroes.'"\n\nThe state executed 56 slaves accused of being part of the rebellion, and many non-participant slaves were punished in the frenzy. Approximately 120 slaves and free blacks were murdered by militias and mobs in the area. State legislatures passed new laws prohibiting education of slaves and free black people, restricting rights of assembly and other civil liberties for free black people, and requiring white ministers to be present at all worship services.`,
         link: 'https://www.jacobinmag.com/2016/10/birth-of-a-nation-nat-turner-nate-parker',
         infoSrc: 'https://en.wikipedia.org/wiki/Nat_Turner%27s_slave_rebellion'
+      },
+      {
+        category: 'Rebellion',
+        date: 'August 21st, 1971',
+        title: 'Camden 28 Raids Draft Office (1971)',
+        imgSrc: require('./assets/eventPhotos/Events/camden28.jpg'),
+        description: `The Camden 28 were a group of Catholic left anti-Vietnam War activists who in 1971 planned and executed a raid on a Camden, New Jersey draft board. The raid resulted in a high-profile criminal trial of the activists that was seen by many as a referendum on the Vietnam War and as an example of successful use of jury nullification.\n\nOn this day that year, the activists broke into the draft board office and commenced destroying and bagging thousands of draft-related documents. Unfortunately, a member of their group had become an FBI informant, and the FBI was monitoring the break-in, arresting everybody involved.\n\nThe 28 chose to be tried together, refusing an offered plea bargain for a single misdeanor if the rest of the charges were dropped. Howard Zinn testified at the trial and recommended civil disobedience and jury nullification. On May 20th, 1973, the jury returned "not guilty" verdicts for all counts against all 28 defendants, acquitting them.`,
+        link: 'https://www.zinnedproject.org/news/tdih/anti-war-protesters-raid-offices/',
+        infoSrc: 'https://en.wikipedia.org/wiki/The_Camden_28'
       },
     ],
     'Labor': [
@@ -17054,13 +17090,13 @@ export const eventLibrary = {
   '9-2': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'September 2nd, 1945',
+        title: 'Vietnam Proclamation of Independence (1945)',
+        imgSrc: require('./assets/eventPhotos/Events/vietnamDeclaration.jpg'),
+        description: `The Proclamation of Independence of the Democratic Republic of Vietnam (Vietnamese: Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa) was written by Hồ Chí Minh and announced in a public speech to a crowd of thousands at the Ba Đình flower garden (now the Ba Đình Square) on this day in 1945. The Proclamation led directly to war with France, which concluded in the country being divided between French and self-rule at the 17th parallel.\n\nThe Proclamation quoted heavily from the American Declaration of Independence and was vehemently critical of French rule. An excerpt reads:\n\n"'All men are created equal. They are endowed by their Creator with certain inalienable rights, among them are Life, Liberty, and the pursuit of Happiness.' This immortal statement was made in the Declaration of Independence of the United States of America in 1776. In a broader sense, this means: All the peoples on the earth are equal from birth, all the peoples have a right to live, to be happy and free.\n\n...Nevertheless, for more than eighty years, the French imperialists, abusing the standard of Liberty, Equality, and Fraternity, have violated our Fatherland and oppressed our fellow-citizens. They have acted contrary to the ideals of humanity and justice. In the field of politics, they have deprived our people of every democratic liberty...They have built more prisons than schools. They have mercilessly slain our patriots; they have drowned our uprisings in rivers of blood...They have robbed us of our rice fields, our mines, our forests, and our raw materials.\n\nFor these reasons, we, members of the Provisional Government of the Democratic Republic of Vietnam, solemnly declare to the world that Vietnam has the right to be a free and independent country - and in fact is so already. The entire Vietnamese people are determined to mobilize all their physical and mental strength, to sacrifice their lives and property in order to safeguard their independence and liberty."`,
+        link: 'http://historymatters.gmu.edu/d/5139/',
+        infoSrc: 'https://www.history.com/this-day-in-history/vietnam-independence-proclaimed'
       },
     ],
     'Rebellion': [
@@ -17952,7 +17988,7 @@ export const eventLibrary = {
         date: 'September 14th, 1913',
         title: 'Jacobo Árbenz (1913 - 1971)',
         imgSrc: require('./assets/eventPhotos/Individuals/jacoboArbenz.jpg'),
-        description: `Juan Jacobo Árbenz Guzmán, born on this day in 1913, was a Guatemalan military officer and politician who served as the 25th president of Guatemala. He was Minister of National Defense from 1944 to 1951, and the second democratically elected President of Guatemala from 1951 to 1954. He was a major figure in the ten-year Guatemalan Revolution, which represented some of the few years of representative democracy in Guatemalan history.\n\nÁrbenz instituted many popular reforms, including an expanded right to vote, the right of workers to organize, legitimizing political parties, and allowing public debate. The centerpiece of his policy was an agrarian reform law, under which uncultivated portions of large land-holdings were expropriated in return for compensation and redistributed to poverty-stricken agricultural laborers. Approximately 500,000 people benefited from the decree, the majority of them were indigenous people, whose forebears had been dispossessed after the Spanish invasion.\n\nOpposition to these policies caused the United Fruit Company to lobby the United States government to have him overthrown. The US was also concerned by the presence of communists in the Guatemalan government, and Árbenz was ousted in the 1954 Guatemalan coup d'état engineered by the U.S. government on June 27th, 1954.`,
+        description: `Juan Jacobo Árbenz Guzmán, born on this day in 1913, was a Guatemalan military officer and politician who served as the 25th president of Guatemala. He was Minister of National Defense from 1944 to 1951, and the second democratically elected President of Guatemala from 1951 to 1954. He was a major figure in the ten-year Guatemalan Revolution, which represented some of the few years of representative democracy in Guatemalan history.\n\nÁrbenz instituted many popular reforms, including an expanded right to vote, the right of workers to organize, legitimizing political parties, and allowing public debate. The centerpiece of his policy was an agrarian reform law, under which uncultivated portions of large land-holdings were expropriated in return for compensation and redistributed to poverty-stricken agricultural laborers. Approximately 500,000 people benefited from the decree, the majority of them were indigenous people, whose forebears had been dispossessed after the Spanish invasion.\n\nOpposition to these policies caused the United Fruit Company to lobby the United States government to have him overthrown. The U.S. was also concerned by the presence of communists in the Guatemalan government, and Árbenz was ousted in the 1954 Guatemalan coup d'état engineered by the U.S. government on June 27th, 1954.`,
         link: 'https://www.britannica.com/biography/Jacobo-Arbenz',
         infoSrc: 'https://en.wikipedia.org/wiki/Jacobo_%C3%81rbenz'
       },
@@ -18398,7 +18434,7 @@ export const eventLibrary = {
         date: 'September 20th, 1972',
         title: 'Richard Oakes (1942 - 1972)',
         imgSrc: require('./assets/eventPhotos/Individuals/richardOakes.jpg'),
-        description: `Richard Oakes was a Mohawk Native American activist. He spurred Native American studies in university curricula and is credited for helping to change US federal government Termination policies of Native American peoples and culture. Oakes led a 19-month occupation of Alcatraz Island with LaNada Means, approximately 50 California State University students, and 37 others.\n\nOn this day in 1972, Oakes was shot and killed in Sonoma, California, by Michael Morgan, a YMCA camp manager. Oakes allegedly violently confronted him, and Morgan responded by drawing a handgun and fatally shooting Oakes. Oakes was unarmed when he was shot. Morgan claimed he acted in self-defense and was acquitted on charges of voluntary manslaughter.`,
+        description: `Richard Oakes was a Mohawk Native American activist. He spurred Native American studies in university curricula and is credited for helping to change U.S. federal government Termination policies of Native American peoples and culture. Oakes led a 19-month occupation of Alcatraz Island with LaNada Means, approximately 50 California State University students, and 37 others.\n\nOn this day in 1972, Oakes was shot and killed in Sonoma, California, by Michael Morgan, a YMCA camp manager. Oakes allegedly violently confronted him, and Morgan responded by drawing a handgun and fatally shooting Oakes. Oakes was unarmed when he was shot. Morgan claimed he acted in self-defense and was acquitted on charges of voluntary manslaughter.`,
         link: 'https://www.npr.org/sections/thetwo-way/2017/05/22/529504340/richard-oakes-who-occupied-alcatraz-for-native-rights-gets-a-birthday-honor',
         infoSrc: 'https://en.wikipedia.org/wiki/Richard_Oakes_(activist)'
       },
@@ -19412,13 +19448,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 5th, 1923',
+        title: 'Philip Berrigan (1923 - 2002)',
+        imgSrc: require('./assets/eventPhotos/Individuals/philipBerrigan.jpg'),
+        description: `Philip Francis Berrigan, born on this day in 1923, was an American peace activist and Roman Catholic priest. He engaged in nonviolence civil disobedience in the cause of peace and nuclear disarmament and was often arrested. He married a former nun who was also an activist, Elizabeth McAlister, in 1972. Both were both excommunicated by the Catholic church, and eleven years of their twenty-nine year marriage were separated by one or both serving time in prison.\n\nBerrigan frequently engaged in civil disobedience to protest the Vietnam War. On May 17th, while out of bail from a similar act six months prior, Berrigan and eight other Catholic activists walked into the offices of the local draft board in Catonsville, Maryland, removed 600 draft records, doused them in napalm, and burnt them in a lot outside of the building.\n\nThe group issued a statement, saying "We confront the Roman Catholic Church, other Christian bodies, and the synagogues of America with their silence and cowardice in the face of our country's crimes. We are convinced that the religious bureaucracy in this country is racist, is an accomplice in this war, and is hostile to the poor." All nine were sentenced to three years in prison.`,
+        link: 'https://www.americanswhotellthetruth.org/portraits/philip-berrigan',
+        infoSrc: 'https://en.wikipedia.org/wiki/Philip_Berrigan'
       },
     ],
     'Assassinations': [
@@ -20149,6 +20185,15 @@ export const eventLibrary = {
         link: 'https://www.jacobinmag.com/2016/10/black-panther-party-fifty-year-anniversary-founding',
         infoSrc: 'https://en.wikipedia.org/wiki/Black_Panther_Party'
       },
+      {
+        category: 'Other',
+        date: 'October 15th, 1967',
+        title: 'Moratorium to End the War in Vietnam (1967)',
+        imgSrc: require('./assets/eventPhotos/Events/vietnamMoratorium.jpg'),
+        description: `The Moratorium to End the War in Vietnam was a massive demonstration and teach-in across the United States against the United States involvement in the Vietnam War. It took place on this day in 1969, and was followed a month later by a large Moratorium March in Washington, D.C. Fred Halstead wrote that it was "the first time [the anti-war movement] reached the level of a full-fledged mass movement."\n\nOver a quarter of million people attended the Moratorium march in Washington, D.C., where they marched down Pennsylvania Avenue in the evening bearing candles led by Coretta Scott King to the White House. Scott King told the marchers that it would have delighted her assassinated husband, Martin Luther King Jr., to have seen people of all races rallying together for the cause of peace.\n\nThe rallies held in New York, Detroit, Boston (where about 100,000 attended a speech by anti-war Senator George McGovern), and Miami were also well attended.`,
+        link: 'http://news.bbc.co.uk/onthisday/hi/dates/stories/october/15/newsid_2533000/2533131.stm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Moratorium_to_End_the_War_in_Vietnam'
+      },
     ],
   },
   '10-16': {
@@ -20406,7 +20451,7 @@ export const eventLibrary = {
         date: 'October 19th, 1983',
         title: 'Maurice Bishop (1944 - 1983)',
         imgSrc: require('./assets/eventPhotos/Individuals/mauriceBishop.jpg'),
-        description: `Maurice Rupert Bishop was a Grenadian revolutionary and the leader of New Jewel Movement - popular efforts in the areas of socio-economic development, education, and black liberation. Bishop headed the People's Revolutionary Government of Grenada from 1979 to 1983, when he was dismissed from his post and shot in a coup, leading to civil unrest and a US invasion of the country.\n\nAlthough Bishop grew up in Grenada, he left to study in London as a young adult. While there, Bishop acquired a law degree and studied the works of Lenin, Mao Zedong, and Julius Nyerere.\n\nIn 1970, he returned to Grenada and was active politically, representing striking nurses in court and leading the "New Jewel Movement", which ultimately put him in power. In 1979, the New Jewel Movement successfully led a coup against Eric Gairy and made Bishop the Prime Minister of Grenada.\n\nAmong Bishop's core principles were workers' rights, women's rights, and the struggle against racism and apartheid. Women were given equal pay and paid maternity leave, and sex discrimination was made illegal. Organisations for education, health care, youth affairs, and literacy were also established. Due to his efforts, illiteracy and unemployment greatly declined.\n\nIn 1983, disputes within the party culminated in Bishop, along with seven members of his cabinet, being captured and executed. After his assassination, the Organization of Eastern Caribbean States (OECS) and Grenada's governor-general Paul Scoon appealed to the United States for help. Within the month, Ronald Reagan launched an invasion of Grenada.`,
+        description: `Maurice Rupert Bishop was a Grenadian revolutionary and the leader of New Jewel Movement - popular efforts in the areas of socio-economic development, education, and black liberation. Bishop headed the People's Revolutionary Government of Grenada from 1979 to 1983, when he was dismissed from his post and shot in a coup, leading to civil unrest and a U.S. invasion of the country.\n\nAlthough Bishop grew up in Grenada, he left to study in London as a young adult. While there, Bishop acquired a law degree and studied the works of Lenin, Mao Zedong, and Julius Nyerere.\n\nIn 1970, he returned to Grenada and was active politically, representing striking nurses in court and leading the "New Jewel Movement", which ultimately put him in power. In 1979, the New Jewel Movement successfully led a coup against Eric Gairy and made Bishop the Prime Minister of Grenada.\n\nAmong Bishop's core principles were workers' rights, women's rights, and the struggle against racism and apartheid. Women were given equal pay and paid maternity leave, and sex discrimination was made illegal. Organisations for education, health care, youth affairs, and literacy were also established. Due to his efforts, illiteracy and unemployment greatly declined.\n\nIn 1983, disputes within the party culminated in Bishop, along with seven members of his cabinet, being captured and executed. After his assassination, the Organization of Eastern Caribbean States (OECS) and Grenada's governor-general Paul Scoon appealed to the United States for help. Within the month, Ronald Reagan launched an invasion of Grenada.`,
         link: 'https://www.zinnedproject.org/news/tdih/grenada-revolution/',
         infoSrc: 'https://en.wikipedia.org/wiki/Maurice_Bishop'
       },
@@ -21330,13 +21375,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 2nd, 1965',
+        title: 'Norman Morrison Self-Immolation (1965)',
+        imgSrc: require('./assets/eventPhotos/Individuals/normanMorrison.jpg'),
+        description: `Norman Morrison (1933 - 1965) was a Baltimore Quaker best known for his act of self-immolation that took place on this day in 1965. The act was a protest United States involvement in the Vietnam War, and took place directly below Secretary of Defense Robert McNamara's office at the Pentagon. Morrison was 31, and left behind a wife and three children.\n\nHis death was widely publicized and drew comparisons to Thích Quảng Đức and other Buddhist monks, who burned themselves to death to protest the repression committed by the South Vietnam government in years prior. In Vietnam, Morrison quickly became a folk hero to some, his name rendered as "Mo Ri Xon". On May 9th, 1967, protesters held a vigil for Morrison before occupying the Pentagon for four days until being removed and arrested.`,
+        link: 'https://www.theguardian.com/lifeandstyle/2010/oct/16/norman-morrison-vietnam-war-protest',
+        infoSrc: 'https://en.wikipedia.org/wiki/Norman_Morrison'
       },
     ],
     'Labor': [
@@ -22417,13 +22462,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'November 17th, 1939',
+        title: 'Elizabeth McAlister (1939 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/elizabethMcAlister.jpg'),
+        description: `Elizabeth McAlister, born on this day in 1939, is an American peace activist and former nun of the Religious of the Sacred Heart of Mary. She was married to Philip Berrigan (1923 - 2002), a fellow Catholic activist, and both were excommunicated from the Catholic Church. Of her 29 years of marriage to Philip, 11 of them were spent separated because one of them was in prison.\n\nOn April 4, 2018, McAlister and six other people (known as the Kingsbay Plowshare Seven) entered the base and performed symbolic acts of disarmament. October 24, 2019 McAlister was convicted on four counts in federal court in Brunswick, GA for entering and holding a symbolic disarming of the Trident submarine’s nuclear weapons. The seven defendants, as of October 2019, face a possible 20 years in prison.`,
+        link: 'https://www.democracynow.org/2019/10/21/kingsbay_plowshares_seven_activists_trial',
+        infoSrc: 'https://en.wikipedia.org/wiki/Elizabeth_McAlister'
       },
     ],
     'Assassinations': [
@@ -25223,7 +25268,7 @@ export const eventLibrary = {
         date: 'December 28th, 1835',
         title: 'Osceola Strikes Back (1835)',
         imgSrc: require('./assets/eventPhotos/Individuals/osceola.jpg'),
-        description: `Osceola (1804 - 1838, Asi-yahola in Creek) was an influential leader of the Seminole people in Florida, and a leader of violent Seminole resistance against colonization. Although he was raised in the Creek tradition, Osceola became part of what was known as the Seminole people after moving to Florida as a child.\n\nOn this day in 1835, Osceola killed the Indian agent who had formerly imprisoned and chained him, Wiley Thompson. Osceola and his followers shot six others outside Fort King, while another group of Seminole ambushed and killed nearly every member of a column of US Army, more than 100 troops. These nearly simultaneous attacks catalyzed the Second Seminole War with the United States.`,
+        description: `Osceola (1804 - 1838, Asi-yahola in Creek) was an influential leader of the Seminole people in Florida, and a leader of violent Seminole resistance against colonization. Although he was raised in the Creek tradition, Osceola became part of what was known as the Seminole people after moving to Florida as a child.\n\nOn this day in 1835, Osceola killed the Indian agent who had formerly imprisoned and chained him, Wiley Thompson. Osceola and his followers shot six others outside Fort King, while another group of Seminole ambushed and killed nearly every member of a column of U.S. Army, more than 100 troops. These nearly simultaneous attacks catalyzed the Second Seminole War with the United States.`,
         link: 'https://www.historyisaweapon.com/defcon1/zinnasl7.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Osceola'
       },
