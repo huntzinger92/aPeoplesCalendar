@@ -71,14 +71,13 @@ export default class App extends React.Component {
       display: 'main', //main, about, or search
       showDatePicker: false,
       events: eventLibrary[initTodayString], //events from selected day, to display in CalendarDisplay
-      showDonationPrompt: false,
       searchValue: 'Search the calendar!'
     };
     this.setDisplay = this.setDisplay.bind(this);
     this.setNewDate = this.setNewDate.bind(this);
     this.toggleDatePicker = this.toggleDatePicker.bind(this);
-    this.declineDonation = this.declineDonation.bind(this);
-    this.acceptDonation = this.acceptDonation.bind(this);
+    //this.declineDonation = this.declineDonation.bind(this);
+    this.openWebsite = this.openWebsite.bind(this);
     this.searchEvents = this.searchEvents.bind(this);
     this.scrollToTop = this.scrollToTop.bind(this);
 
@@ -111,7 +110,7 @@ export default class App extends React.Component {
   });
 
 
-  async componentDidMount() {
+  /*async componentDidMount() {
     //causes a re-render on Fridays, but probably better than a ternary operator in the initial setting of state
     if (this.today.getDay() === 5) {
       let hasSeenDonation = await AsyncStorage.getItem('@hasSeenDonation');
@@ -132,7 +131,7 @@ export default class App extends React.Component {
 
       };
     };
-  };
+  };*/
 
   searchEvents() {
     //iterate over each day, each day's category, each day's category's list of events, see if this.state.searchValue is in the event's description
@@ -256,11 +255,11 @@ export default class App extends React.Component {
     });
   };
 
-  acceptDonation() {
+  openWebsite() {
     this.setState({
       showDonationPrompt: false,
     });
-    Linking.openURL('https://www.patreon.com/apeoplescalendar');
+    Linking.openURL('https://expo.io/@tts2p4/aPeoplesCalendar');
   };
 
   declineDonation() {
@@ -322,9 +321,9 @@ export default class App extends React.Component {
 
           <TouchableOpacity
             style={[styles.bottomButton, {marginLeft: 1}]}
-            onPress={() => Linking.openURL('https://www.patreon.com/apeoplescalendar?fan_landing=true')}
+            onPress={() => Linking.openURL('https://expo.io/@tts2p4/aPeoplesCalendar')}
           >
-            <StyledText text='Donate' style={styles.bottomButtonText}/>
+            <StyledText text='Website' style={styles.bottomButtonText}/>
           </TouchableOpacity>
 
         </View>
@@ -336,34 +335,6 @@ export default class App extends React.Component {
             display="default"
             onChange={this.setNewDate}
           />
-        }
-        {this.state.showDonationPrompt &&
-          <AwesomeAlert
-          show={this.state.showDonationPrompt}
-          contentContainerStyle={{borderRadius: 5, elevation: 5, borderWidth: 1, backgroundColor: '#f0f0f0'}}
-          title="Help keep this app capitalist free!"
-          titleStyle={{fontSize: 22, fontWeight: 'bold', textAlign: 'center'}}
-          message={this.donationMessage}
-          messageStyle={{fontSize: 18,}}
-          closeOnTouchOutside={true}
-          closeOnHardwareBackPress={true}
-          showCancelButton={true}
-          showConfirmButton={true}
-          cancelText="Decline"
-          confirmText="Donate!"
-          confirmButtonColor="#6fdb65"
-          confirmButtonTextStyle={{fontSize: 20}}
-          confirmButtonStyle={{borderRadius: 5}}
-          cancelButtonColor="#cfcfcf"
-          cancelButtonTextStyle={{fontSize: 20}}
-          cancelButtonStyle={{borderRadius: 5}}
-          onCancelPressed={() => {
-            this.declineDonation();
-          }}
-          onConfirmPressed={() => {
-            this.acceptDonation();
-          }}
-        />
         }
       </View>
     );

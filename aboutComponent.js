@@ -29,7 +29,7 @@ export function About() {
         text="I am always looking out for important events, people, and texts that are missing from the calendar. Feel free to contact me with suggestions, and please consider donating to help make such additions and upkeep happen more quickly."
         style={styles.aboutText}
       />
-      <TouchableOpacity style={styles.contactButton} onPress={() => Linking.openURL('https://www.patreon.com/apeoplescalendar')}>
+      <TouchableOpacity style={styles.contactButton} onPress={() => Linking.openURL('https://expo.io/@tts2p4/aPeoplesCalendar')}>
         <StyledText text='Contact' style={{fontSize: 27, color: 'white', marginLeft: 15, marginRight: 15,}}/>
       </TouchableOpacity>
     </ScrollView>

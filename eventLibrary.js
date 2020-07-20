@@ -2385,7 +2385,7 @@ export const eventLibrary = {
         date: 'February 4th, 1869',
         title: 'Big Bill Haywood (1869 - 1928)',
         imgSrc: require('./assets/eventPhotos/Individuals/billHaywood.jpg'),
-        description: `William Dudley "Big Bill" Haywood (February 4, 1869 - May 18, 1928) was a founding member and leader of the Industrial Workers of the World (IWW) and a member of the executive committee of the Socialist Party of America. During the first two decades of the 20th century, Haywood was involved in several important labor battles, including the Colorado Labor Wars, the Lawrence Textile Strike, and other textile strikes in Massachusetts and New Jersey.\n\nHaywood was an advocate of industrial unionism, a labor philosophy that favors organizing all workers in an industry under one union, regardless of the specific trade or skill level. He believed that workers of all ethnicities should be united, and favored direct action over political action.\n\nHaywood was renowned for leading strikes in times of crisis. When martial law was declared during the Lawrence Textile Strike, Haywood traveled to the strike and implemented many innovative tactics to help the workers involved. One such ploy was to very publicly send the hungry children of striking workers to host families in other states, garnering good press for the working families.\n\nIn 1917, Big Bill Haywood was arrested for espionage, along with 164 other members of the IWW. He was convicted, and, while temporarily released from prison due to an appeal, fled to the Soviet Union, where he served as labor advisor to Vladimir Lenin and spend the rest of life.`,
+        description: `William Dudley "Big Bill" Haywood, born on this day in 1869, was a founding member and leader of the Industrial Workers of the World (IWW) and a member of the executive committee of the Socialist Party of America. During the first two decades of the 20th century, Haywood was involved in several important labor battles, including the Colorado Labor Wars, the Lawrence Textile Strike, and other textile strikes in Massachusetts and New Jersey.\n\nHaywood was an advocate of industrial unionism, a labor philosophy that favors organizing all workers in an industry under one union, regardless of the specific trade or skill level. He believed that workers of all ethnicities should be united, and favored direct action over political action.\n\nHaywood was renowned for leading strikes in times of crisis. When martial law was declared during the Lawrence Textile Strike, Haywood traveled to the strike and implemented many innovative tactics to help the workers involved. One such ploy was to very publicly send the hungry children of striking workers to host families in other states, garnering good press for the working families.\n\nIn 1917, Big Bill Haywood was arrested for espionage, along with 164 other members of the IWW. He was convicted, and, while temporarily released from prison due to an appeal, fled to the Soviet Union, where he served as labor advisor to Vladimir Lenin and spend the rest of life.`,
         link: 'https://www.marxists.org/archive/haywood-b/1922/04/prisoners.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Bill_Haywood'
       },
@@ -2394,9 +2394,18 @@ export const eventLibrary = {
         date: 'February 4th, 1913',
         title: 'Rosa Parks (1913 - 2005)',
         imgSrc: require('./assets/eventPhotos/Individuals/rosaParks.jpg'),
-        description: `Rosa Louise McCauley Parks was an American activist in the civil rights movement best known for her pivotal role in the Montgomery bus boycott. The United States Congress has called her "the first lady of civil rights" and "the mother of the freedom movement".\n\nParks was not the first person to resist bus segregation, but the National Association for the Advancement of Colored People (NAACP) believed that she was the best candidate for seeing through a court challenge after her arrest for civil disobedience in violating Alabama segregation laws.\n\nParks' prominence in the community and her willingness to become a controversial figure inspired the black community to boycott the Montgomery buses for over a year, the first major direct action campaign of the post-war civil rights movement.\n\nParks' act of defiance and the Montgomery bus boycott became important symbols of the movement. She became an international icon of resistance to racial segregation.`,
+        description: `Rosa Louise McCauley Parks, born on this day in 1913, was an American activist in the civil rights movement best known for her pivotal role in the Montgomery bus boycott. The United States Congress has called her "the first lady of civil rights" and "the mother of the freedom movement".\n\nParks was not the first person to resist bus segregation, but the National Association for the Advancement of Colored People (NAACP) believed that she was the best candidate for seeing through a court challenge after her arrest for civil disobedience in violating Alabama segregation laws.\n\nParks' prominence in the community and her willingness to become a controversial figure inspired the black community to boycott the Montgomery buses for over a year, the first major direct action campaign of the post-war civil rights movement.\n\nParks' act of defiance and the Montgomery bus boycott became important symbols of the movement. She became an international icon of resistance to racial segregation.`,
         link: 'http://teacher.scholastic.com/rosa/interview.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Rosa_Parks'
+      },
+      {
+        category: 'Birthdays',
+        date: 'February 4th, 1921',
+        title: 'Betty Friedan (1921 - 2006)',
+        imgSrc: require('./assets/eventPhotos/Individuals/bettyFriedan.jpg'),
+        description: `Betty Friedan, born on this day in 1921, was an American feminist writer and activist. A leading figure in the women's movement in the United States, her 1963 book "The Feminine Mystique" is often credited with sparking the second wave of American feminism in the 20th century. In 1966, Friedan co-founded and was elected the first president of the National Organization for Women (NOW), which aimed to bring women "into the mainstream of American society now [in] fully equal partnership with men."\n\nIn 1970, Friedan organized the nationwide Women's Strike for Equality on August 26, the 50th anniversary of the Nineteenth Amendment to the United States Constitution granting women the right to vote. The national strike was successful beyond expectations in broadening the feminist movement; the march led by Friedan in New York City alone attracted over 50,000 people. In 1971, Friedan joined other leading feminists to establish the National Women's Political Caucus.`,
+        link: 'https://www.womenshistory.org/education-resources/biographies/betty-friedan',
+        infoSrc: 'https://en.wikipedia.org/wiki/Betty_Friedan'
       },
     ],
     'Assassinations': [
@@ -3155,6 +3164,15 @@ export const eventLibrary = {
         link: 'https://en.wikipedia.org/wiki/Trial_of_Susan_B._Anthony',
         infoSrc: 'https://en.wikipedia.org/wiki/Susan_B._Anthony'
       },
+      {
+        category: 'Birthdays',
+        date: 'February 15th, 1935',
+        title: 'Susan Brownmiller (1935 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/susanBrownmiller.jpg'),
+        description: `Susan Brownmiller, born on this day in 1935, is an American feminist journalist, author, and activist best known for her 1975 book "Against Our Will: Men, Women, and Rape." In the book, she argues that rape had been previously defined by men rather than women, and that men use it as a means of perpetuating male dominance by keeping all women in a state of fear. The New York Public Library selected Against Our Will as one of 100 most important books of the 20th century.\n\nBrownmiller was a member of the Congress of Racial Equality (CORE) and the Student Nonviolent Coordinating Committee (SNCC) in the 1960s, and volunteered for Freedom Summer in 1964, wherein she worked on voter registration in Meridian, Mississippi. `,
+        link: 'https://time.com/4062637/against-our-will-40/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Susan_Brownmiller'
+      },
     ],
     'Assassinations': [
       {
@@ -3448,6 +3466,15 @@ export const eventLibrary = {
         description: `On this day in 1942, President Franklin D. Roosevelt signed Executive Order 9066, authorizing the Secretary of War to prescribe certain areas as "military zones", clearing the way for the incarceration of Japanese Americans, German Americans, and Italian Americans in U.S. concentration camps. By declaring wide swaths of domestic territory as "military zones", they could provide legal justification for forcibly removing people deemed a threat from them.\n\nUsing a broad interpretation of Executive Order 9066, Lieutenant General John L. DeWitt issued orders declaring certain areas of the western United States as zones of exclusion under the Executive Order. As a result, approximately 112,000 men, women, and children of Japanese ancestry were evicted from the West Coast of the United States and held in American concentration camps and other confinement sites across the country.\n\nAmericans of Italian and German ancestry were also targeted by these restrictions, including internment. 11,000 people of German ancestry were interned, as were 3,000 people of Italian ancestry, along with some Jewish refugees. It wasn't until 1990 that surviving internees began to receive individual redress payments and a letter of apology.`,
         link: 'https://www.britannica.com/topic/Executive-Order-9066',
         infoSrc: 'https://en.wikipedia.org/wiki/Executive_Order_9066'
+      },
+      {
+        category: 'Other',
+        date: 'February 19th, 1963',
+        title: `"The Feminine Mystique" Published (1963)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/bettyFriedan.jpg'),
+        description: `The Feminine Mystique is a book by Betty Friedan that is widely credited with sparking the beginning of second-wave feminism in the United States, published on this day in 1963. The next year, it was the number one non-fiction book in the U.S., selling over a million copies. The phrase "feminine mystique" was created by Friedan to illustrate the assumptions that women would be fulfilled from their housework, marriage, sexual lives, and children. Friedan sought to prove that housewives were unsatisfied but could not voice their feelings.\n\nDespite the undeniable importance of the book in feminist history, it has faced numerous criticisms. According to Kirsten Fermaglich and Lisa Fine, "women of color - African American, Latina, Asian American and Native American women - were completely absent from Friedan's vision, as were white working-class and poor women." Some research that the book is predicated on was also later discovered to be fraudelent.`,
+        link: 'https://www.theatlantic.com/sexes/archive/2013/02/4-big-problems-with-the-feminine-mystique/273069/',
+        infoSrc: 'https://en.wikipedia.org/wiki/The_Feminine_Mystique'
       },
     ],
   },
@@ -13283,13 +13310,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'July 8th, 1964',
+        title: 'Freedom House Bombing (1964)',
+        imgSrc: require('./assets/eventPhotos/Events/freedomHouseBombing.jpg'),
+        description: `On this date in 1964, the Freedom House in McComb, MS, was bombed. The Freedom House a home used to host "Freedom School" classes, organized by the Student Nonviolent Coordinating Committee (SNCC) to help black voter drives in the South. It was the fourth bombing in the city since Freedom Summer volunteers arrived two weeks earlier. No one was injured, although the building was badly damaged.\n\nUndeterred, the SNCC moved the Freedom School classes outdoors. In the background of the photograph, workers can be seen repairing the damage of the bombing.`,
+        link: 'http://cdm15932.contentdm.oclc.org/cdm/ref/collection/p15932coll2/id/30684?fbclid=IwAR3UGir5CQ0R3ZqDmzWsc7xqP2g19J_D9pnVPpzEmeFFjNeVQM1vtTLqj8I',
+        infoSrc: 'http://cdm15932.contentdm.oclc.org/cdm/ref/collection/p15932coll2/id/30684?fbclid=IwAR3UGir5CQ0R3ZqDmzWsc7xqP2g19J_D9pnVPpzEmeFFjNeVQM1vtTLqj8I'
       },
     ],
   },
@@ -13669,13 +13696,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'July 14th, 1912',
+        title: 'Woody Guthrie (1912 - 1967)',
+        imgSrc: require('./assets/eventPhotos/Individuals/woodyGuthrie.jpg'),
+        description: `Woodrow "Woody" Guthrie was an American singer-songwriter, born on this day in 1912, who is considered one of the most significant figures in American western folk music. His music, including songs such as "This Land Is Your Land", has inspired several generations both politically and musically. He frequently performed with the slogan "This machine kills fascists" displayed on his guitar.\n\nThroughout his life, Guthrie was associated with United States communist groups, writing a column for the communist newspaper People's World from May 1939 to January 1940 and stating once that "the best thing that I did in 1936 was to sign up with the Communist Party.`,
+        link: 'https://woodyguthrie.org/biography/biography1.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Woody_Guthrie'
       },
     ],
     'Assassinations': [
@@ -14757,13 +14784,22 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: 'Birthday',
+        category: 'Birthdays',
         date: 'July 30th, 1881',
         title: 'Smedley Butler (1881 - 1940)',
         imgSrc: require('./assets/eventPhotos/Individuals/smedleyButler.jpg'),
         description: `Major General Smedley Darlington Butler, born on this day in 1881, was a senior United States Marine Corps officer who fought in both the Mexican Revolution and World War I. Butler was, at the time of his death, the most decorated Marine in U.S. history. During his 34-year career as a Marine, he participated in military actions in the Philippines, China, in Central America and the Caribbean during the Banana Wars, and France in World War I.\n\nToday, Butler is most remembered for his book "War is a Racket" and associated speeches, where he vigorously condemned U.S. military actions as imperialist. Of his service, he wrote the following:\n\n"I spent thirty-three years and four months in active military service as a member of this country's most agile military force, the Marine Corps...And during that period, I spent most of my time being a high class muscle-man for Big Business, for Wall Street and for the Bankers. In short, I was a racketeer, a gangster for capitalism." `,
         link: 'https://ratical.org/ratville/CAH/warisaracket.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Smedley_Butler'
+      },
+      {
+        category: 'Birthdays',
+        date: 'July 30th, 1924',
+        title: 'C.T. Vivian (1924 - 2020)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ctVivian.jpg'),
+        description: `Cordy Tindell Vivian, born on this day in 1924, was an American minister, author, and close friend and lieutenant of Martin Luther King Jr. during the Civil Rights Movement. Vivian helped found the Nashville Christian Leadership Conference, and helped organize the first sit-ins in Nashville in 1960 and the first civil rights march in 1961.\n\nThe same year, Vivian also participated in Freedom Rides. He worked alongside Martin Luther King Jr. as the national director of affiliates for the SCLC. During the summer following the Selma Voting Rights Movement, Vivian conceived and directed an educational program, Vision, and put 702 Alabama students in college with scholarships (this program later became Upward Bound). According to Barack Obama, MLK Jr. called Vivian "the greatest preacher to ever live."`,
+        link: 'https://www.npr.org/2020/07/17/892393102/rev-ct-vivian-a-civil-rights-pioneer-dies-at-95',
+        infoSrc: 'https://en.wikipedia.org/wiki/C._T._Vivian'
       },
     ],
     'Assassinations': [
@@ -15174,7 +15210,7 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: 'Birthday',
+        category: 'Birthdays',
         date: 'August 5th, 1938',
         title: 'James Cone (1958 - 2018)',
         imgSrc: require('./assets/eventPhotos/Individuals/jamesCone.jpg'),
@@ -16076,13 +16112,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'August 18th, 1911',
+        title: 'Amelia Boynton (1911 - 2015)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ameliaBoynton.jpg'),
+        description: `Amelia Isadora Platts Boynton Robinson, born on this day in 1911, was an American activist who was a leader of the American Civil Rights Movement in Selma, Alabama, and a key figure in the 1965 Selma to Montgomery marches.\n\nIn 1964 and 1965, Boynton worked with Martin Luther King, Diane Nash, James Bevel, and others of the Southern Christian Leadership Conference (SCLC) to plan demonstrations for civil and voting rights. On the infamous "Bloody Sunday" attack on the Selma to Montgomery marchers, Boynton suffered throat burns from tear gas and was beaten unconscious. Despite this, she participated in the next two marches. The third march was successful, and reached Montgomery on March 24th with 25,000 participants.`,
+        link: 'https://snccdigital.org/people/amelia-boynton/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Amelia_Boynton_Robinson'
       },
     ],
     'Assassinations': [
@@ -17494,13 +17530,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 7th, 1968',
+        title: 'Miss America Protest (1968)',
+        imgSrc: require('./assets/eventPhotos/Events/missAmericaProtest.jpg'),
+        description: `The Miss America Protest was a demonstration held at the Miss America 1969 contest on this day in 1968. The protest was attended by about two hundred feminists and civil rights advocates, and was widely publicized.\n\nThe event was organized by "New York Radical Women", and included putting symbolic feminine products - including bras, hairspray, makeup, girdles, corsets, false eyelashes, and mops - into a "Freedom Trash Can" on the Atlantic City boardwalk. Protesters also crowned a live sheep, comparing the beauty pageant to livestock competitions at county fairs, including an illustration of a woman's figure marked up like a side of beef.\n\nAccording to author Beth Kreydatus, the protest "'marked the end of the movement's obscurity' and made both 'women's liberation' and beauty standards topics for national discussion".`,
+        link: 'https://www.smithsonianmag.com/history/fifty-years-ago-protestors-took-on-miss-america-pageant-electrified-feminist-movement-180967504/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Miss_America_protest'
       },
     ],
   },
@@ -18691,13 +18727,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 24th, 1922',
+        title: 'Alice S. Rossi (1922 - 2009)',
+        imgSrc: require('./assets/eventPhotos/Individuals/aliceRossi.jpg'),
+        description: `Alice S. Rossi, born on this day in 1922, was a pioneering feminist and sociologist.\n\nOne of her most influential feminist articles was "Equality Between the Sexes: An Immodest Proposal", first presented as a talk in 1963. In the piece, Professor Rossi argued that for most women motherhood had become a full-time occupation, a state of affairs that hurt not only women but also the larger society in which they lived. For the well-being of both the women and the culture, she argued, parity of the sexes is essential.\n\nThe year "Equality Between the Sexes" was published coincided with the publication of The "Feminine Mystique" by Betty Friedan, another notable feminist text. Professor Rossi's argument was considered subversive at the time, and in later interviews she recalled being called a monster, an unnatural woman, and an unfit mother. In 1966, Rossi, along with Betty Friedan and others, founded the National Organization for Women (NOW).`,
+        link: 'https://www.nytimes.com/2009/11/08/us/08rossi.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Alice_S._Rossi'
       },
     ],
     'Assassinations': [
@@ -20019,13 +20055,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 13th, 1923',
+        title: 'Dorothy Bolden (1923 - 2005)',
+        imgSrc: require('./assets/eventPhotos/Individuals/dorothyLeeBolden.jpg'),
+        description: `Dorothy Lee Bolden, born on this day in 1923, was the founder of the National Domestic Worker's Union of America and worked to fight for women's rights and bring segregation to an end.  Martin Luther King Jr. was an early influence in Bolden’s life, who was her neighbor at the time of the Civil Rights Movement.\n\nShe began working as a domestic worker at the age of nine and would eventually utilize her past experiences to form the Domestic Worker's Union in Atlanta, Georgia. Through the Domestic Worker's Union, had over 13,000 women members throughout the United States and won better pay and working conditions for them. Bolden was also responsible for registering thousands of African Americans to vote.`,
+        link: 'https://www.blackpast.org/african-american-history/dorothy-lee-bolden-1924-2005/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Dorothy_Lee_Bolden'
       },
     ],
     'Assassinations': [
@@ -21896,13 +21932,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 9th, 1969*',
+        title: 'Occupation of Alcatraz (1969 - 1971)',
+        imgSrc: require('./assets/eventPhotos/Events/alcatrazOccupation.jpg'),
+        description: `*Some sources give the start date of the occupation as Nov. 9th, others Nov. 20th. I have chosen to go with the one listed by Howard Zinn in "A People's History of the United States"\n\nThe Occupation of Alcatraz was a 19-month long protest which began on this day in 1969, when 89 American Indians and their supporters occupied Alcatraz Island. The protest was led by Richard Oakes and Grace Thorpe. This group lived on the island together until the protest was forcibly ended by the U.S. government. The group claimed that, under the Treaty of Fort Laramie between the U.S. and the Lakota tribe, all retired, abandoned, or out-of-use federal land was returned to the Indians who once occupied it.\n\nBy late May of 1971, the government had cut off all electrical power and all telephone service to the island. Left without power, fresh water, and in the face of diminishing public support and sympathy, the number of occupiers began to dwindle. On June 11th, 1971, a large force of federal officers removed the remaining 15 people from the island.`,
+        link: 'https://www.kqed.org/news/11788540/a-look-back-at-the-occupation-of-alcatraz-50-years-later',
+        infoSrc: 'https://en.wikipedia.org/wiki/Occupation_of_Alcatraz'
       },
     ],
     'Labor': [
@@ -22644,13 +22680,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: 'Rebellion',
-        date: 'November 20th, 1969',
-        title: 'Occupation of Alcatraz (1969 - 1971)',
-        imgSrc: require('./assets/eventPhotos/Events/alcatrazOccupation.jpg'),
-        description: `The Occupation of Alcatraz was a 19-month long protest when 89 American Indians and their supporters occupied Alcatraz Island. The protest was led by Richard Oakes, among others. This group lived on the island together until the protest was forcibly ended by the U.S. government. The group claimed that, under the Treaty of Fort Laramie between the U.S. and the Lakota tribe, all retired, abandoned, or out-of-use federal land was returned to the Indians who once occupied it.\n\nBy late May of 1971, the government had cut off all electrical power and all telephone service to the island. Left without power, fresh water, and in the face of diminishing public support and sympathy, the number of occupiers began to dwindle. On June 11, 1971, a large force of government officers removed the remaining 15 people from the island.`,
-        link: 'https://www.kqed.org/news/11788540/a-look-back-at-the-occupation-of-alcatraz-50-years-later',
-        infoSrc: 'https://en.wikipedia.org/wiki/Occupation_of_Alcatraz'
+        category: '',
+        date: '',
+        title: '',
+        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        description: ``,
+        link: '',
+        infoSrc: ''
       },
     ],
     'Labor': [
