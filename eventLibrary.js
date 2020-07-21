@@ -676,13 +676,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'January 10th, 1977',
+        title: 'Newsday Alleges CIA Caused Cuban Epidemic (1977)',
+        imgSrc: require('./assets/eventPhotos/Events/africanSwineFever.jpg'),
+        description: `On this day in 1977, the San Francisco Chronicle reported on the allegation from New York based maganize "Newsday" that the Central Intelligence Agency (CIA) assisted anti-Castro terrorists in spreading the African Swine Fever virus in Cuba, resulting in the disease's first outbreak in the Western hemisphere.\n\nThe virus's spread resulted in the slaughter of 500,000 Cuban pigs to prevent a nationwide animal epidemic and was labeled the "most alarming event" of 1971 by the United Nations Food and Agricultural Organization.\n\nNewsday's reporting cited an anonymous U.S. intelligence source, who claimed that he was given a sealed, unmarked container at a U.S. Army base and CIA training ground in the Panama Canal Zone, with instructions to turn it over to the anti-Castro group.\n\nAlthough the allegation has never been confirmed, the account was corroborated by another a Cuban exile involved in the operation, who said he was on the trawler when the virus was put aboard at a rendezvous point off Bocas del Toro, Panama. `,
+        link: 'https://www.uky.edu/~rmfarl2/cubabio1.htm',
+        infoSrc: 'https://www.uky.edu/~rmfarl2/cubabio1.htm'
       },
     ],
   },
@@ -2403,7 +2403,7 @@ export const eventLibrary = {
         date: 'February 4th, 1921',
         title: 'Betty Friedan (1921 - 2006)',
         imgSrc: require('./assets/eventPhotos/Individuals/bettyFriedan.jpg'),
-        description: `Betty Friedan, born on this day in 1921, was an American feminist writer and activist. A leading figure in the women's movement in the United States, her 1963 book "The Feminine Mystique" is often credited with sparking the second wave of American feminism in the 20th century. In 1966, Friedan co-founded and was elected the first president of the National Organization for Women (NOW), which aimed to bring women "into the mainstream of American society now [in] fully equal partnership with men."\n\nIn 1970, Friedan organized the nationwide Women's Strike for Equality on August 26, the 50th anniversary of the Nineteenth Amendment to the United States Constitution granting women the right to vote. The national strike was successful beyond expectations in broadening the feminist movement; the march led by Friedan in New York City alone attracted over 50,000 people. In 1971, Friedan joined other leading feminists to establish the National Women's Political Caucus.`,
+        description: `Betty Friedan, born on this day in 1921, was an American feminist writer and activist. A leading figure in the women's movement in the United States, her 1963 book "The Feminine Mystique" is often credited with sparking the second wave of American feminism in the 20th century.\n\nIn 1966, Friedan co-founded and was elected the first president of the National Organization for Women (NOW), which aimed to bring women "into the mainstream of American society now [in] fully equal partnership with men."\n\nIn 1970, Friedan organized the nationwide Women's Strike for Equality on August 26, the 50th anniversary of the Nineteenth Amendment to the United States Constitution granting women the right to vote.\n\nThe national strike was successful beyond expectations in broadening the feminist movement; the march led by Friedan in New York City alone attracted over 50,000 people. In 1971, Friedan joined other leading feminists to establish the National Women's Political Caucus.`,
         link: 'https://www.womenshistory.org/education-resources/biographies/betty-friedan',
         infoSrc: 'https://en.wikipedia.org/wiki/Betty_Friedan'
       },
@@ -3134,13 +3134,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'February 15th, 1968',
+        title: 'Folsom Prison Strike (1968)',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: `On this day in 1968, one fifth of San Quentin’s prison population of 3900 risked the Warden’s threat of an additional year behind bars by returning to their cells after breakfast, engaging in a work stoppage. One of the main grievances of the convicts was their inability to voice complaints about brutlity from the prison guards.\n\nPrison authorities claimed that the strike was a failure and that there was only a "sick call" only slightly larger than normal, however reports from prisoners themselves indicated more than seven hundred went on strike the first day. The strike quickly grew in proportion - just a few days after it began, more than 80% of the prison population were refusing to work.\n\nThe prison warden declared a "general lockup", which confined all prisoners to their cells, and claimed the strike was over. Despite this, the prisoners considered their protest a victory, as prison work had successfully been stopped, and without the violence of other prison uprisings elsewhere.`,
+        link: 'https://voices.revealdigital.org/?a=d&d=BGJFHJH19680223.1.2&e=-------en-20--1--txt-txIN---------------1',
+        infoSrc: 'https://voices.revealdigital.org/?a=d&d=BGJFHJH19680223.1.2&e=-------en-20--1--txt-txIN---------------1'
       },
     ],
     'Labor': [
@@ -3169,7 +3169,7 @@ export const eventLibrary = {
         date: 'February 15th, 1935',
         title: 'Susan Brownmiller (1935 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/susanBrownmiller.jpg'),
-        description: `Susan Brownmiller, born on this day in 1935, is an American feminist journalist, author, and activist best known for her 1975 book "Against Our Will: Men, Women, and Rape." In the book, she argues that rape had been previously defined by men rather than women, and that men use it as a means of perpetuating male dominance by keeping all women in a state of fear. The New York Public Library selected Against Our Will as one of 100 most important books of the 20th century.\n\nBrownmiller was a member of the Congress of Racial Equality (CORE) and the Student Nonviolent Coordinating Committee (SNCC) in the 1960s, and volunteered for Freedom Summer in 1964, wherein she worked on voter registration in Meridian, Mississippi. `,
+        description: `Susan Brownmiller, born on this day in 1935, is an American feminist journalist, author, and activist best known for her 1975 book "Against Our Will: Men, Women, and Rape."\n\nIn the book, she argues that rape had been previously defined by men rather than women, and that men use it as a means of perpetuating male dominance by keeping all women in a state of fear. The New York Public Library selected Against Our Will as one of 100 most important books of the 20th century.\n\nBrownmiller was a member of the Congress of Racial Equality (CORE) and the Student Nonviolent Coordinating Committee (SNCC) in the 1960s, and volunteered for Freedom Summer in 1964, wherein she worked on voter registration in Meridian, Mississippi. `,
         link: 'https://time.com/4062637/against-our-will-40/',
         infoSrc: 'https://en.wikipedia.org/wiki/Susan_Brownmiller'
       },
@@ -3262,6 +3262,15 @@ export const eventLibrary = {
         description: `On September 2nd, 1945, Ho Chi Minh had declared Vietnam independent of French colonial rule, which led to immediate war with France. In Vietnam's Proclamation of Independence, Ho Chi Minh, quoted passages from America's Declaration of Independence, pointing out that the ideals expressed in that revolution were aligned with their own desire for freedom.\n\nOn this day in 1946, Ho Chi Minh wrote a letter to President Harry Truman, asking for assisstance in supporting the Vietnamese independence movement. Truman did not respond, and the U.S. began meddling in Vietnamese affairs to undermine Ho Chi Minh's movement. Here is an excerpt from the letter:\n\n"Our Vietnam people, as early as 1941, stood by the Allies' side and fought against the Japanese and their associates, the French colonialists. From 1941 to 1945 we fought bitterly, sustained by the patriotism of our fellow-countrymen and by the promises made by the Allies at [the summits in] Yalta, San Francisco and Potsdam.\n\n...The French aggression on a peace-loving people is a direct menace to world security. It implies the complicity, or at least, the connivance of the Great Democracies. The United Nations ought to keep their words. They ought to interfere to stop this unjust war, and to show that they mean to carry out in peace-time the principles for which they fought in war-time.\n\n...It is with this firm conviction that we request of the United States as guardians and champions of World Justice to take a decisive step in support of our independence. What we ask has been graciously granted to the Philippines. Like the Philippines our goal is full independence and full cooperation with the United States. We will do our best to make this independence and cooperation profitable to the whole world."`,
         link: 'http://vietnamwar.lib.umb.edu/enemy/docs/Ho_letter_to_Truman_Feb_46.html',
         infoSrc: 'http://vietnamwar.lib.umb.edu/enemy/docs/Ho_letter_to_Truman_Feb_46.html'
+      },
+      {
+        category: 'Other',
+        date: 'February 16th, 1976',
+        title: 'Leaked Pike Committee Report Published (1976)',
+        imgSrc: require('./assets/eventPhotos/Events/pikeCommittee.jpg'),
+        description: `The Pike Committee was a House committee that investigated illegal activities by the U.S. Central Intelligence Agency (CIA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA). The Pike Committee conducted much of its investigation while its Senate counterpart "Church Committee," conducted its own investigation into the actions of the same groups.\n\nUnlike the concluding report of the Church Committee, which was eventually released to the public in the face of Executive Branch opposition to its release, the Pike Committee report was intended to be kept secret from the American public. On this day in 1976, the newspaper "Village Voice" published excerpts of the Pike Committee Report under the headline "The CIA Report the President Doesn’t Want You to Read".\n\nA link to this Village Voice article is provided below, under "Source".`,
+        link: 'https://en.wikipedia.org/wiki/Pike_Committee',
+        infoSrc: 'https://www.villagevoice.com/1976/02/16/the-cia-report-the-president-doesnt-want-you-to-read/'
       },
     ],
   },
@@ -3536,13 +3545,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'February 20th, 2001',
+        title: 'Frank Wamsutta James Passes (1923 - 2001)',
+        imgSrc: require('./assets/eventPhotos/Individuals/frankWamsuttaJames.jpg'),
+        description: `Frank B. (Wamsutta) James, an Aquinnah Wampanoag elder and Native American activist, died on this day in 2001. James first came to national attention in 1970 when he, with hundreds of other Native Americans and their supporters, went to Plymouth and declared Thanksgiving day a National Day of Mourning for Native Americans.\n\nJames is also remembered for his suppressed speech at this event. Initially invited to speak, the invitation was rescinded when the speech was read by organizers beforehand. Here is an excerpt:\n\n"I speak to you as a man -- a Wampanoag Man. I am a proud man, proud of my ancestry, my accomplishments won by a strict parental direction ("You must succeed - your face is a different color in this small Cape Cod community!"). I am a product of poverty and discrimination from these two social and economic diseases.\n\n...We, the Wampanoag, welcomed you, the white man, with open arms, little knowing that it was the beginning of the end; that before 50 years were to pass, the Wampanoag would no longer be a free people. What happened in those short 50 years? What has happened in the last 300 years?"`,
+        link: 'http://www.uaine.org/suppressed_speech.htm',
+        infoSrc: 'http://www.nativeweb.org/obituaries/wamsutta.html'
       },
     ],
   },
@@ -3584,9 +3593,9 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'February 21st, 1940',
-        title: 'John Lewis (1940 - )',
+        title: 'John Lewis (1940 - 2020)',
         imgSrc: require('./assets/eventPhotos/Individuals/johnLewis1.jpg'),
-        description: `John Robert Lewis, born on this day in 1940, is an American politician and civil rights leader. He is the U.S. Representative for Georgia's 5th congressional district, serving in his 17th term in the House, having served since 1987. His district includes the northern three-fourths of Atlanta.\n\nLewis played a key role in the civil rights movement as chairman of the Student Nonviolent Coordinating Committee (SNCC) and as one of the "Big Six" leaders of groups who organized the 1963 March on Washington. He was also one of the first thirteen Freedom Riders, repeatedly beaten and jailed for his activism.`,
+        description: `John Robert Lewis, born on this day in 1940, was an American politician and civil rights leader. He was the U.S. Representative for Georgia's 5th congressional district, having served since 1987. His district included the northern three-fourths of Atlanta.\n\nLewis played a key role in the civil rights movement as chairman of the Student Nonviolent Coordinating Committee (SNCC) and as one of the "Big Six" leaders of groups who organized the 1963 March on Washington. He was also one of the first thirteen Freedom Riders, repeatedly beaten and jailed for his activism.`,
         link: 'https://johnlewis.house.gov/john-lewis/biography',
         infoSrc: 'https://en.wikipedia.org/wiki/John_Lewis_(civil_rights_leader)'
       },
@@ -3644,13 +3653,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'February 22nd, 1974',
+        title: 'Lovejoy Topples Weather Tower (1974)',
+        imgSrc: require('./assets/eventPhotos/Individuals/samLovejoy.jpg'),
+        description: `On this day in 1974, Sam Lovejoy, an anti-nuclear activist and member of one of the local communes near Montague, Massachusetts, sabotaged the 500 foot weather tower Northeast Utilities had erected to test wind direction at a local nuclear power site. According to a company official, the tower was needed so that authorities would know which way the radiation would blow from the plant in case of an accident.\n\nUsing a few simple farm tools to loosen the turnbuckles in the stays of the tower, Lovejoy left behind him 349 feet of twisted wreckage. At Lovejoy's trial, historian Howard Zinn was brought in as an expert witness on civil disobdience. Zinn testified that Lovejoy's act was in the best tradition of activists like Gandhi and Henry David Thoreau.\n\nLovejoy was found not guilty, and the destruction of the tower and trial brought national attention to the anti-nuclear cause.`,
+        link: 'https://www.zinnedproject.org/news/tdih/lovejoys-nuclear-plant-civil-disobedience/',
+        infoSrc: 'https://www.zinnedproject.org/news/tdih/lovejoys-nuclear-plant-civil-disobedience/'
       },
     ],
     'Labor': [
@@ -4265,13 +4274,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'March 2nd, 1964',
+        title: 'Puyallup Fish-in (1964)',
+        imgSrc: require('./assets/eventPhotos/Events/fishIn.jpg'),
+        description: `On this day in 1964, Native Americans, actor hMarlon Brando, Episcopal clergyman John Yaryan, and Puyallup tribal leader Bob Satiacum illegaly fished in the Puyallup River to protest the denial of treaty rights to Native Americans. This form of civil disobedience is known as a "fish-in", and in this case Brando and the clergyman were arrested.\n\nThis fish-in was staged by the National Indian Youth Council, a Native American civil rights organization formed in Gallup, New Mexico in 1961. It became part of the so-called "Fish Wars", a set of protests spanning decades in which Native American tribes around the Puget Sound pressured the U.S. government to recognize fishing rights granted by the Point No Point Treaty.\n\nThe protests eventually won Native Americans in the area the right to fish without state permits - in the 1974 case "United States v. Washington", U.S. District Court Judge George Hugo Boldt stated that treaty right fishermen must be allowed to take up to 50% of all potential fishing harvests and required that they have an equal voice in the management of the fishery.\n\nThe "Boldt Decision" was reaffirmed by the Supreme Court in 1979 and has been used as a precedent for handling other similar treaties.`,
+        link: 'https://en.wikipedia.org/wiki/Fish_Wars',
+        infoSrc: 'https://www.historylink.org/File/5332'
       },
     ],
     'Labor': [
@@ -4781,13 +4790,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'March 9th, 1931',
+        title: 'Bill Frank Jr. (1931 - 2014)',
+        imgSrc: require('./assets/eventPhotos/Individuals/billyFrankJr.jpg'),
+        description: `Billy Frank Jr., born on this day in 1931, was a Native American environmental leader and treaty rights activist. A Nisqually tribal member, Frank is known specifically for his grassroots campaign for fishing rights on the tribe's Nisqually River, which used a civil disobedience tactic known as a "fish-in".\n\nFrank was arrested more than 50 times in the "Fish Wars" of the 1960s and 1970s because of his intense dedication to the treaty fishing rights cause. The tribal struggle was taken to the courts in "U.S. v. Washington", with federal judge George Hugo Boldt issuing a ruling in favor of the native tribes in 1974.\n\nThe "Boldt Decision" established the 20 treaty Indian tribes in western Washington as co-managers of the salmon resource with the State of Washington, and re-affirmed tribal rights to half of the harvestable salmon returning to western Washington.`,
+        link: 'http://billyfrankjr.org/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Billy_Frank_Jr.'
       },
     ],
     'Assassinations': [
@@ -5963,6 +5972,15 @@ export const eventLibrary = {
         link: 'https://historicmissourians.shsmo.org/historicmissourians/name/o/ohare/',
         infoSrc: 'https://en.wikipedia.org/wiki/Kate_Richards_O%27Hare'
       },
+      {
+        category: 'Birthdays',
+        date: 'March 26th, 1933',
+        title: 'Vine Deloria Jr. (1933 - 2005)',
+        imgSrc: require('./assets/eventPhotos/Individuals/vineDeloria.jpg'),
+        description: `Vine Victor Deloria Jr., born on this day in 1933, was a Native American author, theologian, historian, and activist. He was widely known for his book "Custer Died for Your Sins: An Indian Manifesto" (1969), which helped attract national attention to Native American issues in the same year as the Alcatraz-Red Power Movement.\n\nDeloria also worked on the legal case that led to the historic "Boldt Decision" of the United States District Court for the Western District of Washington. This decision granted legal fishing rights to Native Americans in Washington state, and was used as legal precedent for other lawsuits that sought to restore rights granted in Native American treaties.\n\nFrom 1964 to 1967, he also served as executive director of the National Congress of American Indians, increasing tribal membership from 19 to 156. Beginning in 1977, Deloria was a board member of the National Museum of the American Indian, which now has buildings in both New York City and Washington, DC.`,
+        link: 'https://www.nytimes.com/2005/11/15/us/vine-deloria-jr-champion-of-indian-rights-dies-at-72.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Vine_Deloria_Jr.'
+      },
     ],
     'Assassinations': [
       {
@@ -7011,13 +7029,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 10th, 1926',
+        title: 'Johnnie Tillmon (1926 - 1995)',
+        imgSrc: require('./assets/eventPhotos/Individuals/johnnieTillmon.jpg'),
+        description: `Johnnie Tillmon, born on this day in 1926, was a welfare rights activist. In 1963 she became ill and was encouraged to begin receiving welfare, having six children to feed as a single mother. Seeing how people on welfare were treated, she organized those on welfare in the housing project, and in 1963 founded ANC (Aid to Needy Children) Mothers Anonymous, which was one of the first grassroots welfare mothers’ organizations.\n\nThis organization later became part of the National Welfare Rights Organization (NWRO), with Tillmon becoming the first chair of the NWRO. In 1972, she became its executive director when George Wiley resigned. Wiley had been trying to mobilize the working poor, whereas Tillmon tried to align with the feminist movement.\n\nTillmon's 1972 essay, "Welfare Is a Woman's Issue," which was published in the women's maganize "Ms.", emphasized women's right to adequate income, regardless of whether they worked in a factory or at home raising children. The National Union of the Homeless used what was called a "Johnnie Tillmon model" of organizing, named after her.`,
+        link: 'https://www.rapereliefshelter.bc.ca/learn/resources/welfare-womens-issue-johnnie-tillmon',
+        infoSrc: 'https://en.wikipedia.org/wiki/Johnnie_Tillmon'
       },
     ],
     'Assassinations': [
@@ -7246,13 +7264,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 13th, 1953',
+        title: 'Project MKUltra Begins (1953)',
+        imgSrc: require('./assets/eventPhotos/Events/mkUltra.jpg'),
+        description: `Project MKUltra is the code name given to a CIA program of experiments on human subjects that began on this day in 1953. Experiments on humans were intended to identify and develop drugs and procedures to be used in interrogations in order to weaken the individual and force confessions through mind control, and often ran without the test subject's consent or knowledge.\n\nA list of some of the most notorious acts under the program follows: creating secret detention camps in international areas under American control so experiments could be done on prisoners without being prosecuted; hiring British psychiatrist Donald Ewen Cameron to conduct experiments on subjects (some of whom only suffered from anxiety), including dosing them with LSD and putting them in drug induced comas for weeks at a time; secretly dosing Dr. Frank Olson with LSD after he asked to resign from the CIA, resulting in his suicide.\n\nIn 1973, amid a government-wide panic caused by Watergate, CIA Director Richard Helms ordered all MKUltra files destroyed. Most CIA documentation of the project was destroyed, however 20,000 documents survived because they had been incorrectly stored in a financial records building. We only know of the project today because of this cache and a Freedom of Information Request in 1977.`,
+        link: 'https://www.smithsonianmag.com/smart-news/what-we-know-about-cias-midcentury-mind-control-project-180962836/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Project_MKUltra'
       },
     ],
   },
@@ -9540,13 +9558,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 16th, 1929',
+        title: 'Adrienne Rich (1929 - 2012)',
+        imgSrc: require('./assets/eventPhotos/Individuals/adrienneRich.jpg'),
+        description: `Adrienne Cecile Rich, born on this day in 1929, was an American poet, essayist and feminist. She was called "one of America's foremost public intellectuals" by the Poetry Foundation and credited with bringing "the oppression of women and lesbians to the forefront of poetic discourse" by the New York Times.\n\nRich criticized rigid forms of feminist identities, and valorized what she coined the "lesbian continuum," which is a female continuum of solidarity and creativity that impacts and fills women's lives. Notable works of Rich include "On Lies, Secrets, and Silence" (1979), "Blood, Bread, and Poetry: Selected Prose" (1986), and "The Dream of a Common Language" (1978).`,
+        link: 'https://www.theguardian.com/books/2012/mar/29/adrienne-rich-poet-essayist-dies',
+        infoSrc: 'https://en.wikipedia.org/wiki/Adrienne_Rich'
       },
     ],
     'Assassinations': [
@@ -10271,10 +10289,10 @@ export const eventLibrary = {
       {
         category: 'Other',
         date: 'May 26th, 1938',
-        title: 'House Committee on Un-American Activities (1938)',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: `On May 26, 1938, the House Committee on Un-American Activities (HUAC) was established as a special investigating committee, reorganized from its previous incarnations as the Fish Committee and the McCormack-Dickstein Committee, to investigate alleged disloyalty and subversive activities on the part of private citizens, public employees, and those organizations suspected of having communist or fascist ties. It became a permenant committee in 1948.\n\nThe HUAC is perhaps most notorious for causing de facto media censorship among artists suspected of having communist sympathies. Blacklisted artists whose careers were damaged by the committee included Charlie Chaplin, Orson Welles, Alan Lomax, Paul Robeson, and Yip Harburg.`,
-        link: 'https://en.wikipedia.org/wiki/House_Un-American_Activities_Committee',
+        title: 'Committee on Un-American Activities (1938)',
+        imgSrc: require('./assets/eventPhotos/Events/unAmericanActivities.jpg'),
+        description: `On this day in 1938, the House Committee on Un-American Activities (HUAC) was established as a special investigating committee to investigate alleged disloyalty and subversive activities on the part of private citizens, public employees, and those organizations suspected of having communist or fascist ties. It became a permenant committee in 1948.\n\nThe HUAC is perhaps most notorious for causing de facto media censorship among artists suspected of having communist sympathies. Their investigations resulted in a Hollywood blacklist of over 300 actors, directors, and others. Artists whose careers were damaged by the committee include Charlie Chaplin, Orson Welles, Alan Lomax, Paul Robeson, and Yip Harburg.`,
+        link: 'https://www.mtsu.edu/first-amendment/article/815/house-un-american-activities-committee',
         infoSrc: 'https://en.wikipedia.org/wiki/House_Un-American_Activities_Committee'
       },
     ],
@@ -14097,7 +14115,7 @@ export const eventLibrary = {
         date: 'July 20th, 1934',
         title: 'Bloody Friday (Minneapolis, 1934)',
         imgSrc: require('./assets/eventPhotos/Events/minneapolisGeneralStrike.jpg'),
-        description: `The Minneapolis General Strike of 1934 grew out of a strike by Teamsters against most of the trucking companies operating in Minneapolis, the major distribution center for the Upper Midwest. The strike began on May 16th in the Market District (now called the Warehouse District), launched the career of Farrell Dobbs, a Trotskyist union leader, and led to widespread unionizing throughout the city of Minneapolis.\n\nIts worst single day of violence was this day in 1934, known as "Bloody Friday". It occurred when police shot at strikers who were blocking off the delivery of company merchandise, killing two and injuring sixty-seven. Four days later, on the 24th, 100,000 people lined the streets of the route of the funeral procession for Henry Ness and demanded the resignation of the Minneapolis Police Chief.\n\nIn response to this, Governor Olson first ordered that the union headquarters be raided, and a couple days later ordered a raid on Citizen Alliance headquarters. Violence lasted periodically throughout the summer before the strike was formally ended on August 22nd, with most of the union demands being met.`,
+        description: `The Minneapolis General Strike of 1934 grew out of a strike by the Teamsters against most of the trucking companies operating in Minneapolis, Minnesota. The strike began on May 16th in the Market District (now called the Warehouse District) and led to widespread unionizing throughout the city of Minneapolis.\n\nIts worst single day of violence was this day in 1934, known as "Bloody Friday". It occurred when police shot at strikers who were blocking off the delivery of company merchandise, killing two and injuring sixty-seven. Four days later, 100,000 people lined the streets of the funeral procession route for one of the workers and demanded the resignation of the Minneapolis Police Chief.\n\nIn response to this, Governor Olson first ordered that the union headquarters be raided, and a couple days later ordered a raid on Citizen Alliance headquarters. Violence lasted periodically throughout the summer before the strike was formally ended on August 22nd, with most of the union demands being met.`,
         link: 'https://libcom.org/history/minneapolis-teamsters-strike-1934-jeremy-brecher',
         infoSrc: 'https://en.wikipedia.org/wiki/Bloody_Friday_(Minneapolis)'
       },
@@ -14143,7 +14161,7 @@ export const eventLibrary = {
         date: 'July 21st, 1936',
         title: 'Revolutionary Catalonia (1936)',
         imgSrc: require('./assets/eventPhotos/Events/catalonia.jpg'),
-        description: `Revolutionary Catalonia was the part of Catalonia (an autonomous region in northeast Spain) controlled by various anarchist, communist, and socialist trade unions, parties, and militias of the Spanish Civil War period. On this day in 1936, the "Central Committee of Anti-Fascist Militas of Catalonia" was founded and it became the main governing body of the region.\n\nThe growing influence of the Marxist-Leninist Spanish Communist Party government and their desire to nationalize revolutionary committees and militias brought it into conflict with the anarchist CNT, resulting in the eventual replacement of the CNT by the PCE as the dominant political force in Catalonia until the arrival of the fascists. Notably, this conflict left writer George Orwell bitter about the role that Marxist-Leninist groups played in suppressing anarchist movements, and he was a committed anti-Stalinist for the rest of his life.\n\nThis anarchist period of Catalonia was deeply rooted in the ideas of anarcho-syndicalism and anarcho-communism. Catalonia was the first and only territory in Spanish history that has been rooted in these ideas, and its existence has been influential in socialist history. This revolution was influenced by the ideas of Peter Kropotkin and his book The Conquest of Bread, a seminal anarcho-communist text.`,
+        description: `Revolutionary Catalonia was the part of Catalonia (an autonomous region in northeast Spain) controlled by various anarchist, communist, and socialist trade unions, parties, and militias of the Spanish Civil War period. On this day in 1936, the "Central Committee of Anti-Fascist Militas of Catalonia" was founded, becoming the main governing body of the region.\n\nThe growing influence of the Marxist-Leninist Spanish Communist Party government and their desire to nationalize revolutionary committees and militias brought it into conflict with the anarchist CNT, resulting in the eventual replacement of the CNT by the PCE as the dominant political force in Catalonia until the arrival of the fascists. Notably, this conflict left writer George Orwell bitter about the role that Marxist-Leninist groups played in suppressing anarchist movements, and he was a committed anti-Stalinist for the rest of his life.\n\nThis anarchist period of Catalonia was deeply rooted in the ideas of anarcho-syndicalism and anarcho-communism. Catalonia was the first and only territory in Spanish history that has been rooted in these ideas, and its existence has been influential in socialist history. This revolution was influenced by the ideas of Peter Kropotkin and his book The Conquest of Bread, a seminal anarcho-communist text.`,
         link: 'https://www.jacobinmag.com/2017/05/george-orwell-spain-barcelona-may-days',
         infoSrc: 'https://en.wikipedia.org/wiki/Revolutionary_Catalonia'
       },
@@ -15537,13 +15555,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'August 10th, 1970',
+        title: 'Tombs Prison Uprising (1970)',
+        imgSrc: require('./assets/eventPhotos/Events/tombsPrisonUprising.jpg'),
+        description: `On this day in 1970, more than 900 inmates at Tombs Prison in Manhattan, New York City took over the prison after multiple warnings about falling budgets, aging facilities, and rising populations, and after an informational picket of City Hall by union correctional officers drawing attention to the pressures. Overcrowding was so bad that more than 2,000 people were being held in space meant for less than a 1,000.\n\nPrisoners took command of the entire ninth floor, and five officers were held hostage for eight hours, until state officials agreed to hear prisoner grievances and take no punitive action against the rioters. Despite that promise, Mayor John Lindsay had the primary troublemakers shipped upstate to the state's Attica Correctional Facility which likely contributed to the Attica Prison riot about a year later.\n\nThe uprising was ended by force on Mayor John Lindsay's order, with police and guards retaking the prison with tear gas and hand to hand fighting. Hundreds of prisoners were injured. Within a month of the uprising's end, the New York City Legal Aid Society filed a class action suit on behalf of pre-trial detainees held in the Tombs.\n\nThe city decided to close the Tombs on December 20th, 1974, after years of litigation and after federal judge Morris E. Lasker agreed that the prison's conditions were so bad as to be unconstitutional. `,
+        link: 'https://www.nytimes.com/1970/10/05/archives/tombs-prisoners-free-17-as-mayor-warns-of-force-two-other-jails.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/The_Tombs'
       },
     ],
     'Labor': [
@@ -16295,12 +16313,21 @@ export const eventLibrary = {
     'Rebellion': [
       {
         category: 'Rebellion',
-        date: 'August 21, 1831',
+        date: 'August 21st, 1831',
         title: "Nat Turner's Rebellion (1831)",
         imgSrc: require('./assets/eventPhotos/Events/natTurnerRebellion.jpg'),
         description: `Nat Turner's Rebellion was a rebellion of black slaves that took place in Southampton County, Virginia, in August 1831, led by Nat Turner. Fugitive enslaved people killed from 55 to 65 people, at least 51 being white. The group spared a few homes "because Turner believed the poor white inhabitants 'thought no better of themselves than they did of negroes.'"\n\nThe state executed 56 slaves accused of being part of the rebellion, and many non-participant slaves were punished in the frenzy. Approximately 120 slaves and free blacks were murdered by militias and mobs in the area. State legislatures passed new laws prohibiting education of slaves and free black people, restricting rights of assembly and other civil liberties for free black people, and requiring white ministers to be present at all worship services.`,
         link: 'https://www.jacobinmag.com/2016/10/birth-of-a-nation-nat-turner-nate-parker',
         infoSrc: 'https://en.wikipedia.org/wiki/Nat_Turner%27s_slave_rebellion'
+      },
+      {
+        category: 'Rebellion',
+        date: 'August 21st, 1971',
+        title: 'George Jackson Escape Attempt (1971)',
+        imgSrc: require('./assets/eventPhotos/Individuals/georgeJacksonDeath.jpg'),
+        description: `George Lester Jackson (1941 - 1971) was an African-American author and revolutionary. While serving a sentence for armed robbery in 1961, Jackson co-founded the Marxist–Leninist Black Guerrilla Family.\n\nOn this day in 1971, he made a daring attempt at escaping prison. Having received a smuggled handgun, Jackson took hostages and (temporarily) freed twenty-six prisoners at gunpoint. Before releasing them from their cells, he alluded to the writings of Ho Chi Minh, stating "Gentleman, the dragon has come".\n\nThree guards and two prisoners were murdered in the escape attempt, and Jackson himself was shot dead while leaving the building. Jackson's death was a flashpoint in prison politics and leftist organizing. Two weeks after his escape attempt, the notorious Attica Prison Riots began.`,
+        link: 'https://en.wikipedia.org/wiki/George_Jackson_(activist)',
+        infoSrc: 'https://www.sfgate.com/bayarea/article/EXIT-THE-DRAGON-It-s-been-30-years-since-George-2888071.php'
       },
       {
         category: 'Rebellion',
@@ -18659,13 +18686,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 23rd, 1941',
+        title: 'George Jackson (1941 - 1971)',
+        imgSrc: require('./assets/eventPhotos/Individuals/georgeJackson.jpg'),
+        description: `George Lester Jackson, born on this day in 1941, was an African-American author and revolutionary. While serving a sentence for armed robbery in 1961, Jackson co-founded the Marxist–Leninist Black Guerrilla Family.\n\nIn 1970, he was charged, along with two other Soledad Brothers, with the murder of prison guard John Vincent Mills in the aftermath of a prison fight. The same year, he published "Soledad Brother: The Prison Letters of George Jackson", a combination of autobiography and manifesto addressed to a black American audience. The book became a bestseller and earned Jackson personal fame.\n\nJackson was killed during an attempted prison escape on August 21st, 1971. Quoting communist revolutionary Ho Chi Minh, Jackson freed twenty-six prisoners and took hostages at gunpoint. Jackson and five other men were killed.`,
+        link: 'https://www.sfgate.com/bayarea/article/EXIT-THE-DRAGON-It-s-been-30-years-since-George-2888071.php',
+        infoSrc: 'https://en.wikipedia.org/wiki/George_Jackson_(activist)'
       },
     ],
     'Assassinations': [
@@ -20033,13 +20060,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'October 13th, 1968',
+        title: 'Sid Mills Fish-in Arrest (1968)',
+        imgSrc: require('./assets/eventPhotos/Individuals/sidMills.jpg'),
+        description: `The Fish Wars were a series of civil disobedience protests in the 1960s and '70s in which Native American tribes around the Puget Sound pressured the U.S. government to recognize fishing rights granted by the Point No Point Treaty. The acts of protest often involved Native Americans fishing "illegaly" on rivers that previous treaties, then ignored, had grante them rights to.\n\nOne protester arrested was Sid Mills, who was arrested following a fish-in at Frank's Landing on the Nisqually River in Washington on this day in 1968. He issued a statement:\n\n"I am a Yakima and Cherokee Indian, and a man...I served in combat in Vietnam-until critically wounded...I hereby renounce further obligation in service or duty to the United States Army.\n\nMy first obligation now lies with the Indian People fighting for the lawful Treaty to fish in usual and accustomed water of the Nisqualiy, Columbia and other rivers of the Pacific Northwest, and in serving them in this fight in any way possible.\n\n...My decision is influenced by the fact that we have already buried Indian fishermen returned dead from Vietnam, while Indian fishermen live here without protection and under steady attack..."`,
+        link: 'https://en.wikipedia.org/wiki/Fish_Wars',
+        infoSrc: 'https://www.historyisaweapon.com/defcon1/zinnsur19.html'
       },
     ],
     'Labor': [
@@ -21479,13 +21506,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 3rd, 1970',
+        title: 'Folsom Prison Strike and Manifesto (1970)',
+        imgSrc: require('./assets/eventPhotos/Events/folsomPrisonStrike.jpg'),
+        description: `On this day in 1970, over 2,400 prisoners published a prisoner's rights manifesto and began a strike at Folsom Prison. They refused to leave their cells for nineteen days, protesting against the overcrowded, racist, and brutal prison system in which they were confined.\n\nThe manifesto was overtly political, seeking an "end to the injustice suffered by all prisoners, regardless of race, creed, or color." It also called the U.S. prison system "fascist concentration camps" and made a set of demands for prisoner's rights.\n\nAmong those demands were "an end to political persecution, racial persecution, and the denial of prisoners, to subscribe to political papers" and "that inmates be allowed to form or join labour unions".`,
+        link: 'https://www.freedomarchives.org/Documents/Finder/DOC510_scans/Folsom_Manifesto/510.folsom.manifesto.11.3.1970.pdf',
+        infoSrc: 'https://libcom.org/blog/folsom-prison-strike-manifesto-bill-rights-1970-05012012'
       },
     ],
     'Labor': [
