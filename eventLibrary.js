@@ -34,7 +34,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -45,7 +45,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -56,7 +56,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -67,7 +67,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -80,7 +80,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -91,7 +91,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -102,7 +102,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -113,7 +113,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -124,7 +124,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -135,7 +135,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -148,7 +148,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -159,7 +159,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -170,7 +170,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -192,7 +192,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -216,7 +216,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -227,7 +227,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -238,7 +238,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -249,7 +249,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -260,7 +260,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -271,7 +271,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -284,7 +284,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -295,7 +295,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -306,7 +306,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -317,7 +317,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -339,7 +339,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -352,7 +352,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -363,7 +363,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -374,7 +374,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -385,7 +385,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -396,7 +396,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -420,7 +420,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -431,7 +431,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -442,7 +442,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -464,7 +464,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -475,7 +475,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -488,7 +488,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -510,7 +510,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -521,7 +521,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -532,7 +532,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -543,7 +543,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -556,7 +556,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -564,13 +564,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'January 9th, 1964',
+        title: `Panamanian Flag Protest (1964)`,
+        imgSrc: require('./assets/eventPhotos/Events/martyrsDay.jpg'),
+        description: `On this day in 1964, the anti-American riot known as the "Flag Protest" began over sovereignty of the Panama Canal Zone, which was controlled by the United States. The riot started after a attempt by students to fly the Panamanian flag turned violent as police shot and killed protesters, tearing the flag in the process.\n\nAfter news of the violence and flag desecration spread, angry residents from the area turned out to confront police. That evening, less than a hundred police were overwhelmed by several thousand protesters who set fire to American-owned businesses in the area. U.S. troops were put on the ground to quell the rebellion.\n\nIn total, at least twenty-two Panamanians and four U.S. soldiers died in the fighting. The event is now a national day of mourning in Panama, commemorated annually as "Martyr's Day". The riots are considered to be a significant factor in the U.S. decision to transfer control of the Canal Zone to Panama through the 1977 Torrijos–Carter Treaties.`,
+        link: 'https://santamariatimes.com/news/local/throwback-thursday-martyrs-day-in-panama-commemorates-riots-over-control/article_b67fce70-592e-5dc7-878a-0f300553a5f0.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Martyrs%27_Day_(Panama)'
       },
     ],
     'Labor': [
@@ -578,7 +578,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -589,7 +589,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -600,7 +600,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -624,7 +624,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -635,7 +635,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -657,7 +657,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -692,7 +692,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -703,7 +703,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -736,7 +736,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -747,7 +747,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -760,7 +760,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -771,7 +771,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -782,7 +782,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -813,7 +813,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -824,7 +824,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -837,7 +837,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -848,7 +848,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -859,7 +859,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -870,7 +870,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -881,7 +881,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -916,7 +916,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -927,7 +927,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -949,7 +949,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -960,7 +960,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -973,7 +973,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -984,7 +984,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -995,7 +995,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1017,7 +1017,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1050,7 +1050,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1061,7 +1061,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1072,7 +1072,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1094,7 +1094,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1138,7 +1138,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1149,7 +1149,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1160,7 +1160,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1171,7 +1171,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1195,7 +1195,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1217,7 +1217,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1228,7 +1228,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1239,7 +1239,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1250,7 +1250,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1263,7 +1263,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1274,7 +1274,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1285,7 +1285,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1296,7 +1296,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1307,7 +1307,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1318,7 +1318,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1331,7 +1331,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1342,7 +1342,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1353,7 +1353,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1375,7 +1375,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1386,7 +1386,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1399,7 +1399,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1410,7 +1410,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1421,7 +1421,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1432,7 +1432,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1443,7 +1443,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1454,7 +1454,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1467,7 +1467,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1489,7 +1489,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1511,7 +1511,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1522,7 +1522,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1535,7 +1535,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1543,13 +1543,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'January 23rd, 1978',
+        title: 'Nicaraguan General Strike (1978)',
+        imgSrc: require('./assets/eventPhotos/Events/sandinista1979.jpg'),
+        description: `On January 10th, 1978, the editor of the Managua newspaper "La Prensa" and founder of the Union for Democratic Liberation (UDEL), Pedro Joaquín Chamorro Cardenal, was murdered by suspected elements of the Somoza dictatorship, causing riots broke out in the capitol city, Managua. On this day that year, a general strike began that called for the end of the Somoza regime and was, according to the U.S. State Department, successful at shutting down around 80% of businesses across the country.\n\nThe strike lasted for two and a half weeks, but widespread resistance and anti-Somoza revolutionary activity persisted for more than a year afterward, resulting in many deaths, state abuses of power, and atrocities committed both by the Somoza regime and the left opposition, the Sandinista National Liberation Front (FSLN).\n\nAfter Somoza resigned in June of 1979, the FSLN took control of the state capitol, however widespread fighting continued between the Sandinistas and the U.S.-backed Contras continued for years afterward.`,
+        link: 'https://en.wikipedia.org/wiki/Nicaraguan_Revolution',
+        infoSrc: 'http://www.cidh.org/countryrep/Nicaragua78eng/intro.htm'
       },
     ],
     'Labor': [
@@ -1568,7 +1568,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1579,7 +1579,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1590,7 +1590,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1603,7 +1603,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1614,7 +1614,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1625,7 +1625,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1636,7 +1636,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1647,7 +1647,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1658,7 +1658,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1682,7 +1682,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1693,7 +1693,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1704,7 +1704,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1715,7 +1715,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1726,7 +1726,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1739,7 +1739,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1750,7 +1750,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1761,7 +1761,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1772,7 +1772,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1783,7 +1783,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1794,7 +1794,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1807,7 +1807,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1818,7 +1818,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1829,7 +1829,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1851,7 +1851,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1862,7 +1862,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1875,7 +1875,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1886,7 +1886,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1897,7 +1897,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1908,7 +1908,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1919,7 +1919,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1930,7 +1930,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1943,7 +1943,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1954,7 +1954,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1965,7 +1965,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1976,7 +1976,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1987,7 +1987,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -1998,7 +1998,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2011,7 +2011,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2022,7 +2022,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2033,7 +2033,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2044,7 +2044,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2055,7 +2055,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2066,7 +2066,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2079,7 +2079,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2090,7 +2090,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2101,7 +2101,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2123,7 +2123,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2147,7 +2147,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2169,7 +2169,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2202,7 +2202,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2215,7 +2215,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2226,7 +2226,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2237,7 +2237,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2248,7 +2248,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2259,7 +2259,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2270,7 +2270,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2283,7 +2283,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2294,7 +2294,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2327,7 +2327,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2338,7 +2338,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2351,7 +2351,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2362,7 +2362,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2373,7 +2373,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2413,7 +2413,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2437,7 +2437,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2448,7 +2448,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2481,7 +2481,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2492,7 +2492,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2505,7 +2505,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2516,7 +2516,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2538,7 +2538,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2549,7 +2549,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2560,7 +2560,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2573,7 +2573,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2584,7 +2584,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2595,7 +2595,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2606,7 +2606,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2617,7 +2617,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2628,7 +2628,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2641,7 +2641,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2652,7 +2652,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2685,7 +2685,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2709,7 +2709,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2720,7 +2720,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2731,7 +2731,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2742,7 +2742,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2753,7 +2753,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2764,7 +2764,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2777,7 +2777,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2788,7 +2788,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2799,7 +2799,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2810,7 +2810,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2821,7 +2821,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2832,7 +2832,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2845,7 +2845,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2856,7 +2856,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2867,7 +2867,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2878,7 +2878,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2889,7 +2889,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2900,7 +2900,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2913,7 +2913,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2935,7 +2935,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2966,7 +2966,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2977,7 +2977,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -2990,7 +2990,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3012,7 +3012,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3023,7 +3023,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3034,7 +3034,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3042,13 +3042,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'February 13th, 1991',
+        title: 'Amiriyah Shelter Bombing (1991)',
+        imgSrc: require('./assets/eventPhotos/Events/amiriyahBombing.jpg'),
+        description: `The Amiriyah Shelter Bombing was an aerial attack during the Persian Gulf War that killed at least four hundred and eight civilians on this day in 1991, when an air-raid shelter in the Amiriyah neighborhood of Baghdad was destroyed by the U.S. Air Force with two laser-guided "smart bombs".\n\nThe shelter was used in the Iran-Iraq War and the Persian Gulf War by hundreds of civilians. The U.S. military claimed the shelter was a legitimate military target because it fit the profile of a military command center.\n\nSeven Iraqi families living in Belgium who lost loved ones in the attack launched a lawsuit against former President George H. W. Bush, Dick Cheney, Colin Powell, and General Norman Schwarzkopf for committing what they claim are war crimes in the 1991 bombing. The suit was dismissed.`,
+        link: 'https://www.gicj.org/positions-opinons/gicj-positions-and-opinions/1521-no-justice-for-victims-of-al-amiriyah',
+        infoSrc: 'https://en.wikipedia.org/wiki/Amiriyah_shelter_bombing'
       },
     ],
   },
@@ -3058,7 +3058,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3069,7 +3069,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3091,7 +3091,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3102,7 +3102,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3113,7 +3113,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3126,7 +3126,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3148,7 +3148,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3179,7 +3179,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3190,7 +3190,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3203,7 +3203,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3214,7 +3214,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3225,7 +3225,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3236,7 +3236,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3247,7 +3247,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3280,7 +3280,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3291,7 +3291,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3302,7 +3302,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3324,7 +3324,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3335,7 +3335,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3348,7 +3348,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3359,7 +3359,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3370,7 +3370,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3392,7 +3392,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3403,7 +3403,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3416,7 +3416,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3427,7 +3427,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3449,7 +3449,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3460,7 +3460,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3493,7 +3493,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3504,7 +3504,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3515,7 +3515,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3537,7 +3537,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3561,7 +3561,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3572,7 +3572,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3583,7 +3583,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3645,7 +3645,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3678,7 +3678,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3689,7 +3689,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3700,7 +3700,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3713,7 +3713,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3724,7 +3724,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3735,7 +3735,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3757,7 +3757,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3768,7 +3768,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3781,7 +3781,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3792,7 +3792,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3803,7 +3803,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3834,7 +3834,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3845,7 +3845,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3858,7 +3858,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3891,7 +3891,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3902,7 +3902,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3926,7 +3926,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3937,7 +3937,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3948,7 +3948,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3970,7 +3970,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3981,7 +3981,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -3994,7 +3994,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4005,7 +4005,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4016,7 +4016,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4024,13 +4024,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 27th, 1934',
+        title: 'Ralph Nader (1934 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/ralphNader.jpg'),
+        description: `Ralph Nader, born on this day in 1934, is an American political activist, author, lecturer, attorney, and presidential candidate, noted for his involvement in the causes of consumer protection, environmentalism and government reform.\n\nFollowing the publication of Unsafe at Any Speed, a critical analysis of the auto industry's safety record, Nader led a group of volunteer law students, dubbed "Nader's Raiders", in an investigation of the Federal Trade Commission, leading directly to that agency's overhaul and reform.\n\nIn the 1970s and 80s, through his advocacy group "Public Citizen", Nader continued to be involved in issues of consumer rights and public accountability. His work testifying before Congress, drafting model legislation, and organizing citizen letter-writing and protest efforts, have played a role in the Freedom of Information Act, Foreign Corrupt Practices Act, Clean Water Act, Consumer Product Safety Act, and Whistleblower Protection Act.`,
+        link: 'https://nader.org/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ralph_Nader'
       },
     ],
     'Assassinations': [
@@ -4038,7 +4038,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4062,7 +4062,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4073,7 +4073,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4084,7 +4084,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4106,7 +4106,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4117,7 +4117,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4130,7 +4130,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4141,7 +4141,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4152,7 +4152,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4163,7 +4163,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4174,7 +4174,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4185,7 +4185,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4198,7 +4198,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4231,7 +4231,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4242,7 +4242,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4253,7 +4253,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4266,7 +4266,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4288,7 +4288,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4299,7 +4299,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4310,7 +4310,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4321,7 +4321,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4334,7 +4334,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4345,7 +4345,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4356,7 +4356,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4367,7 +4367,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4378,7 +4378,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4411,7 +4411,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4422,7 +4422,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4433,7 +4433,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4444,7 +4444,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4455,7 +4455,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4466,7 +4466,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4479,7 +4479,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4490,7 +4490,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4501,7 +4501,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4532,7 +4532,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4543,7 +4543,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4556,7 +4556,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4567,7 +4567,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4589,7 +4589,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4600,7 +4600,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4611,7 +4611,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4624,7 +4624,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4646,7 +4646,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4657,7 +4657,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4668,7 +4668,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4692,7 +4692,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4725,7 +4725,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4736,7 +4736,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4747,7 +4747,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4760,7 +4760,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4771,7 +4771,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4782,7 +4782,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4804,7 +4804,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4815,7 +4815,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4828,7 +4828,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4839,7 +4839,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4850,7 +4850,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4861,7 +4861,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4872,7 +4872,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4883,7 +4883,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4896,7 +4896,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4907,7 +4907,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4918,7 +4918,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4940,7 +4940,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4951,7 +4951,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4964,7 +4964,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4975,7 +4975,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4986,7 +4986,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -4997,7 +4997,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5008,7 +5008,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5019,7 +5019,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5043,7 +5043,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5054,7 +5054,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5065,7 +5065,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5076,7 +5076,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5087,7 +5087,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5100,7 +5100,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5122,7 +5122,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5133,7 +5133,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5144,7 +5144,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5155,7 +5155,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5168,7 +5168,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5179,7 +5179,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5190,7 +5190,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5201,7 +5201,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5212,7 +5212,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5223,7 +5223,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5236,7 +5236,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5247,7 +5247,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5258,7 +5258,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5269,7 +5269,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5280,7 +5280,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5304,7 +5304,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5315,7 +5315,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5326,7 +5326,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5348,7 +5348,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5359,7 +5359,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5383,7 +5383,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5394,7 +5394,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5416,7 +5416,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5427,7 +5427,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5440,7 +5440,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5462,7 +5462,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5473,7 +5473,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5484,7 +5484,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5495,7 +5495,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5508,7 +5508,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5519,7 +5519,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5530,7 +5530,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5541,7 +5541,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5552,7 +5552,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5563,7 +5563,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5576,7 +5576,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5620,7 +5620,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5653,7 +5653,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5664,7 +5664,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5675,7 +5675,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5697,7 +5697,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5721,7 +5721,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5732,7 +5732,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5754,7 +5754,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5765,7 +5765,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5776,7 +5776,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5789,7 +5789,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5800,7 +5800,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5811,7 +5811,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5822,7 +5822,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5830,13 +5830,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'March 24th, 1980',
+        title: 'Óscar Romero (1917 - 1980)',
+        imgSrc: require('./assets/eventPhotos/Individuals/oscarRomero.jpg'),
+        description: `Óscar Arnulfo Romero y Galdámez (1917 - 1980) was an activist in El Salvador who served as the fourth Archbishop of San Salvador. He spoke out against social injustice, assassinations, and torture amid the war between left-wing and right-wing forces. Although initially perceived as a conservative, Romero became an activist after the assassination of his friend and fellow priest Rutilio Grande in 1977.\n\nDuring the civil war, Romero became a prominent figure in El Salvador, giving popular radio sermons in which he listed disappearances, tortures, murders, and much more each Sunday. In a media landscape that was heavily censored, Romero became the source of news for many about what was going on in the country. According to listener surveys, 73% of the rural population and 47% of the urban listened regularly.\n\nIn 1980, Romero was assassinated while celebrating Mass in the chapel of the Hospital of Divine Providence. His funeral was interrupted by smoke bombs and rifle shots from surrounding buildings that were fired into the mourning crowd, killing dozens. Though no one was ever convicted for the crime, investigations by the UN-created Truth Commission for El Salvador concluded that the extreme right-wing politician and death squad leader Roberto D'Aubuisson had given the order to kill Romero.`,
+        link: 'https://www.britannica.com/biography/Oscar-Arnulfo-Romero',
+        infoSrc: 'https://en.wikipedia.org/wiki/%C3%93scar_Romero'
       },
     ],
     'Other': [
@@ -5844,7 +5844,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5857,7 +5857,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5868,7 +5868,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5879,7 +5879,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5910,7 +5910,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5934,7 +5934,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5945,7 +5945,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5956,7 +5956,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5987,7 +5987,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -5998,7 +5998,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6011,7 +6011,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6022,7 +6022,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6033,7 +6033,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6044,7 +6044,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6055,7 +6055,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6066,7 +6066,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6079,7 +6079,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6090,7 +6090,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6101,7 +6101,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6123,7 +6123,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6134,7 +6134,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6147,7 +6147,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6158,7 +6158,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6169,7 +6169,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6180,7 +6180,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6191,7 +6191,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6202,7 +6202,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6215,7 +6215,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6226,7 +6226,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6248,7 +6248,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6259,7 +6259,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6270,7 +6270,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6283,7 +6283,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6294,7 +6294,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6305,7 +6305,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6327,7 +6327,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6338,7 +6338,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6351,7 +6351,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6362,7 +6362,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6404,7 +6404,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6415,7 +6415,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6428,7 +6428,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6450,7 +6450,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6472,7 +6472,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6483,7 +6483,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6496,7 +6496,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6507,7 +6507,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6518,7 +6518,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6529,7 +6529,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6540,7 +6540,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6564,7 +6564,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6575,7 +6575,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6586,7 +6586,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6628,7 +6628,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6641,7 +6641,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6652,7 +6652,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6663,7 +6663,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6674,7 +6674,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6685,7 +6685,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6696,7 +6696,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6709,7 +6709,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6720,7 +6720,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6731,7 +6731,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6753,7 +6753,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6764,7 +6764,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6777,7 +6777,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6788,7 +6788,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6799,7 +6799,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6839,7 +6839,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6863,7 +6863,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6874,7 +6874,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6885,7 +6885,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6896,7 +6896,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6907,7 +6907,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6918,7 +6918,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6931,7 +6931,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6942,7 +6942,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6953,7 +6953,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6975,7 +6975,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6986,7 +6986,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -6999,7 +6999,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7010,7 +7010,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7021,7 +7021,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7063,7 +7063,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7076,7 +7076,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7087,7 +7087,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7098,7 +7098,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7106,13 +7106,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 11th, 1942',
+        title: 'Raymond Bonner (1942 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/raymondBonner.jpg'),
+        description: `Raymond Bonner, born on this day in 1942, is an American author and investigative reporter who has been a staff writer at the New York Times, The New Yorker and has contributed to The New York Review of Books.\n\nBonner is best known as one of two journalists (the other being Alma Guillermoprieto of The Washington Post) who broke the story of the El Mozote massacre, in which some 900 villagers, mostly women, children, and elderly, were slaughtered in El Salvador by a unit of the Salvadoran army in 1981.\n\nThe reporting was controversial due to President Reagan's support for the Salvadoran government, and the Times removed Bonner from covering El Salvador, assigning him to the financial desk. He eventually resigned.\n\nIn 2008 the Washington Post reported that Bonner had been one of the four journalists whose telephone call records had been illegally obtained by the FBI between 2002 and 2006. During that time Bonner had been based in Jakarta, Indonesia, filing reports on detainee abuse and illegal surveillance.`,
+        link: 'https://www.theatlantic.com/author/raymond-bonner/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Raymond_Bonner'
       },
     ],
     'Assassinations': [
@@ -7120,7 +7120,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7131,7 +7131,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7144,7 +7144,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7155,7 +7155,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7166,7 +7166,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7188,7 +7188,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7212,7 +7212,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7223,7 +7223,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7234,7 +7234,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7256,7 +7256,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7280,7 +7280,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7291,7 +7291,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7302,7 +7302,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7313,7 +7313,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7324,7 +7324,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7335,7 +7335,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7348,7 +7348,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7359,7 +7359,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7370,7 +7370,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7392,7 +7392,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7403,7 +7403,7 @@ export const eventLibrary = {
         category: 'Other',
         date: 'April 15th, 1949',
         title: 'Pacifica Radio 1st Broadcast (1949)',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: `Pacifica Foundation is an American non-profit organization based out of Berkeley, California, which owns five independently operated, non-commercial, listener-supported radio stations.\n\nPacifica Network, operated by the foundation, was the first public radio network in the United States and it is the world's oldest listener-funded radio network. Today, two of its most well-known programs are Democracy Now! and Free Speech Radio News. Its first broadcast was on this day, in 1949.\n\nThe Pacifica Radio Archives, housed at station KPFK in Los Angeles, is the oldest public radio archive in the United States documenting more than five decades of grassroots political, cultural, and performing arts history, including interviews with John Coltrane, James Baldwin, and Langston Hughes.`,
         link: 'https://pacifica.org/about_history.php',
         infoSrc: 'https://pacifica.org/'
@@ -7425,7 +7425,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7447,7 +7447,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7458,7 +7458,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7469,7 +7469,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7493,7 +7493,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7504,7 +7504,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7537,7 +7537,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7561,7 +7561,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7572,7 +7572,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7594,7 +7594,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7605,7 +7605,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7616,7 +7616,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7629,7 +7629,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7640,7 +7640,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7651,7 +7651,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7673,7 +7673,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7706,7 +7706,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7717,7 +7717,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7739,7 +7739,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7750,7 +7750,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7761,7 +7761,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7774,7 +7774,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7785,7 +7785,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7796,7 +7796,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7807,7 +7807,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7818,7 +7818,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7842,7 +7842,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7853,7 +7853,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7864,7 +7864,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7886,7 +7886,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7897,7 +7897,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7910,7 +7910,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7921,7 +7921,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7932,7 +7932,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7943,7 +7943,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7954,7 +7954,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7965,7 +7965,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -7989,7 +7989,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8000,7 +8000,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8022,7 +8022,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8033,7 +8033,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8046,7 +8046,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8057,7 +8057,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8068,7 +8068,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8090,7 +8090,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8114,7 +8114,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8125,7 +8125,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8136,7 +8136,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8147,7 +8147,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8158,7 +8158,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8169,7 +8169,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8182,7 +8182,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8193,7 +8193,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8204,7 +8204,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8215,7 +8215,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8226,7 +8226,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8237,7 +8237,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8250,7 +8250,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8261,7 +8261,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8272,7 +8272,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8283,7 +8283,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8294,7 +8294,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8305,7 +8305,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8318,7 +8318,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8329,7 +8329,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8351,7 +8351,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8362,7 +8362,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8373,7 +8373,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8386,7 +8386,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8408,7 +8408,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8419,7 +8419,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8430,7 +8430,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8441,7 +8441,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8454,7 +8454,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8465,7 +8465,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8487,7 +8487,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8498,7 +8498,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8531,7 +8531,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8542,7 +8542,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8553,7 +8553,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8564,7 +8564,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8575,7 +8575,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8586,7 +8586,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8632,7 +8632,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8643,7 +8643,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8667,7 +8667,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8720,7 +8720,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8753,7 +8753,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8764,7 +8764,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8806,7 +8806,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8830,7 +8830,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8841,7 +8841,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8852,7 +8852,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8874,7 +8874,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8885,7 +8885,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8898,7 +8898,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8909,7 +8909,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8920,7 +8920,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8931,7 +8931,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8942,7 +8942,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8953,7 +8953,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8966,7 +8966,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8977,7 +8977,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8988,7 +8988,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -8999,7 +8999,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9010,7 +9010,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9034,7 +9034,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9045,7 +9045,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9087,7 +9087,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9098,7 +9098,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9111,7 +9111,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9144,7 +9144,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9155,7 +9155,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9166,7 +9166,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9179,7 +9179,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9190,7 +9190,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9212,7 +9212,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9223,7 +9223,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9247,7 +9247,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9258,7 +9258,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9269,7 +9269,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9280,7 +9280,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9291,7 +9291,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9315,7 +9315,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9326,7 +9326,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9337,7 +9337,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9348,7 +9348,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9359,7 +9359,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9383,7 +9383,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9394,7 +9394,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9405,7 +9405,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9416,7 +9416,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9427,7 +9427,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9451,7 +9451,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9462,7 +9462,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9504,7 +9504,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9515,7 +9515,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9528,7 +9528,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9572,7 +9572,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9583,7 +9583,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9596,7 +9596,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9618,7 +9618,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9629,7 +9629,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9640,7 +9640,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9651,7 +9651,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9664,7 +9664,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9675,7 +9675,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9686,7 +9686,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9708,7 +9708,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9732,7 +9732,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9763,7 +9763,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9794,7 +9794,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9805,7 +9805,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9818,7 +9818,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9829,7 +9829,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9840,7 +9840,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9862,7 +9862,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9873,7 +9873,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9897,7 +9897,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9908,7 +9908,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9919,7 +9919,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9930,7 +9930,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9941,7 +9941,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9954,7 +9954,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9965,7 +9965,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9976,7 +9976,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -9998,7 +9998,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10009,7 +10009,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10022,7 +10022,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10033,7 +10033,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10044,7 +10044,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10075,7 +10075,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10086,7 +10086,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10099,7 +10099,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10110,7 +10110,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10121,7 +10121,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10132,7 +10132,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10143,7 +10143,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10154,7 +10154,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10167,7 +10167,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10178,7 +10178,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10200,7 +10200,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10211,7 +10211,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10222,7 +10222,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10235,7 +10235,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10246,7 +10246,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10257,7 +10257,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10268,7 +10268,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10279,7 +10279,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10303,7 +10303,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10314,7 +10314,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10347,7 +10347,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10358,7 +10358,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10371,7 +10371,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10382,7 +10382,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10393,7 +10393,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10404,7 +10404,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10415,7 +10415,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10439,7 +10439,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10461,7 +10461,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10492,7 +10492,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10516,7 +10516,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10527,7 +10527,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10578,7 +10578,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10602,7 +10602,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10613,7 +10613,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10624,7 +10624,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10635,7 +10635,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10646,7 +10646,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10670,7 +10670,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10681,7 +10681,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10692,7 +10692,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10703,7 +10703,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10714,7 +10714,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10725,7 +10725,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10738,7 +10738,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10749,7 +10749,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10760,7 +10760,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10782,7 +10782,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10793,7 +10793,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10806,7 +10806,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10817,7 +10817,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10828,7 +10828,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10839,7 +10839,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10850,7 +10850,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10861,7 +10861,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10874,7 +10874,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10885,7 +10885,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10896,7 +10896,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10907,7 +10907,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10918,7 +10918,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10929,7 +10929,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10942,7 +10942,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10953,7 +10953,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10964,7 +10964,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10986,7 +10986,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -10997,7 +10997,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11010,7 +11010,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11021,7 +11021,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11049,13 +11049,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 6th, 1939',
+        title: 'Marian Wright Edelman (1939 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/marianEdelman.jpg'),
+        description: `Marian Wright Edelman, born on this day in 1939, is an American activist for children's rights. She has been an advocate for disadvantaged Americans for her entire professional life. She is founder and president emerita of the Children's Defense Fund, where she lobbies to overhaul foster care, support adoption, improve child care and protect children who are disabled, homeless, abused or neglected.\n\nEdelman was a participant in the sit-ins of the civil rights era, getting arrested along with 14 other students at one of the largest sit-ins at the Atlanta City Hall in 1960. Edelman was also the first African American woman admitted to The Mississippi Bar in 1965.`,
+        link: 'https://www.childrensdefense.org/staff/marian-wright-edelman/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Marian_Wright_Edelman'
       },
     ],
     'Assassinations': [
@@ -11063,7 +11063,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11074,7 +11074,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11087,7 +11087,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11098,7 +11098,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11109,7 +11109,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11120,7 +11120,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11131,7 +11131,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11142,7 +11142,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11155,7 +11155,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11166,7 +11166,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11177,7 +11177,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11188,7 +11188,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11199,7 +11199,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11210,7 +11210,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11223,7 +11223,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11234,7 +11234,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11245,7 +11245,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11256,7 +11256,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11267,7 +11267,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11278,7 +11278,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11291,7 +11291,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11302,7 +11302,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11313,7 +11313,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11324,7 +11324,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11335,7 +11335,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11346,7 +11346,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11359,7 +11359,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11381,7 +11381,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11392,7 +11392,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11403,7 +11403,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11414,7 +11414,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11427,7 +11427,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11438,7 +11438,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11449,7 +11449,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11460,7 +11460,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11495,7 +11495,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11506,7 +11506,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11517,7 +11517,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11528,7 +11528,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11539,7 +11539,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11563,7 +11563,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11574,7 +11574,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11585,7 +11585,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11616,7 +11616,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11627,7 +11627,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11640,7 +11640,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11651,7 +11651,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11662,7 +11662,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11673,7 +11673,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11684,7 +11684,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11708,7 +11708,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11719,7 +11719,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11730,7 +11730,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11741,7 +11741,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11752,7 +11752,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11763,7 +11763,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11776,7 +11776,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11787,7 +11787,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11798,7 +11798,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11809,7 +11809,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11820,7 +11820,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11831,7 +11831,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11844,7 +11844,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11855,7 +11855,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11866,7 +11866,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11888,7 +11888,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11899,7 +11899,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11912,7 +11912,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11923,7 +11923,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11934,7 +11934,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11956,7 +11956,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11980,7 +11980,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -11991,7 +11991,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12002,7 +12002,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12024,7 +12024,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12048,7 +12048,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12059,7 +12059,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12125,7 +12125,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12136,7 +12136,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12158,7 +12158,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12169,7 +12169,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12180,7 +12180,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12193,7 +12193,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12204,7 +12204,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12226,7 +12226,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12237,7 +12237,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12248,7 +12248,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12261,7 +12261,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12283,7 +12283,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12294,7 +12294,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12305,7 +12305,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12316,7 +12316,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12329,7 +12329,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12351,7 +12351,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12391,7 +12391,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12402,7 +12402,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12415,7 +12415,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12437,7 +12437,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12468,7 +12468,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12479,7 +12479,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12503,7 +12503,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12545,7 +12545,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12556,7 +12556,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12569,7 +12569,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12580,7 +12580,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12622,7 +12622,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12646,7 +12646,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12657,7 +12657,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12668,7 +12668,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12690,7 +12690,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12701,7 +12701,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12714,7 +12714,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12725,7 +12725,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12736,7 +12736,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12747,7 +12747,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12758,7 +12758,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12769,7 +12769,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12782,7 +12782,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12793,7 +12793,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12815,7 +12815,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12826,7 +12826,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12859,7 +12859,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12870,7 +12870,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12881,7 +12881,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12912,7 +12912,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12923,7 +12923,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12936,7 +12936,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12947,7 +12947,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12980,7 +12980,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -12991,7 +12991,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13004,7 +13004,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13037,7 +13037,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13048,7 +13048,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13059,7 +13059,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13072,7 +13072,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13083,7 +13083,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13094,7 +13094,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13105,7 +13105,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13116,7 +13116,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13140,7 +13140,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13151,7 +13151,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13173,7 +13173,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13184,7 +13184,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13195,7 +13195,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13208,7 +13208,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13219,7 +13219,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13241,7 +13241,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13252,7 +13252,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13276,7 +13276,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13287,7 +13287,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13298,7 +13298,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13309,7 +13309,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13320,7 +13320,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13344,7 +13344,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13355,7 +13355,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13366,7 +13366,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13382,13 +13382,22 @@ export const eventLibrary = {
         link: 'https://www.peoplesworld.org/article/charles-e-ruthenberg-the-first-leader-of-the-communist-party-usa/',
         infoSrc: 'https://en.wikipedia.org/wiki/C._E._Ruthenberg'
       },
+      {
+        category: 'Birthdays',
+        date: 'July 9th, 1936',
+        title: 'June Jordan (1936 - 2002)',
+        imgSrc: require('./assets/eventPhotos/Individuals/juneJordan.jpg'),
+        description: `June Millicent Jordan, born on this day in 1936, was a Jamaican American self-identified bisexual poet, essayist, teacher, and activist. In her writing, she explored issues of gender, race, immigration, and representation. Jordan also was passionate about using Black English in her writing and poetry, teaching others to treat it as its own language and an important outlet for expressing Black culture.\n\nAs a professor at Berkeley, Jordan founded the "Poetry for the People" program in 1991. Its aim was to inspire and empower students to use poetry as a means of artistic expression. Although not widely recognized when first published in 1982, her essay "Report from the Bahamas", has become important in women's and gender studies, sociology, and anthropology.`,
+        link: 'https://www.poetryfoundation.org/poets/june-jordan',
+        infoSrc: 'https://en.wikipedia.org/wiki/June_Jordan'
+      },
     ],
     'Assassinations': [
       {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13412,7 +13421,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13423,7 +13432,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13434,7 +13443,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13445,7 +13454,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13456,7 +13465,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13467,7 +13476,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13480,7 +13489,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13491,7 +13500,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13513,7 +13522,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13524,7 +13533,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13548,7 +13557,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13559,7 +13568,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13570,7 +13579,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13592,7 +13601,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13603,7 +13612,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13616,7 +13625,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13638,7 +13647,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13649,7 +13658,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13660,7 +13669,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13684,7 +13693,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13728,7 +13737,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13752,7 +13761,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13763,7 +13772,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13774,7 +13783,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13785,7 +13794,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13796,7 +13805,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13820,7 +13829,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13831,7 +13840,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13842,7 +13851,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13864,7 +13873,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13875,7 +13884,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13888,7 +13897,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13899,7 +13908,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13910,7 +13919,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13921,7 +13930,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13932,7 +13941,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13943,7 +13952,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13956,7 +13965,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13967,7 +13976,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -13978,7 +13987,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14000,7 +14009,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14011,7 +14020,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14024,7 +14033,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14035,7 +14044,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14057,7 +14066,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14068,7 +14077,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14092,7 +14101,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14103,7 +14112,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14136,7 +14145,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14147,7 +14156,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14171,7 +14180,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14182,7 +14191,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14193,7 +14202,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14204,7 +14213,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14215,7 +14224,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14228,7 +14237,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14239,7 +14248,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14251,7 +14260,7 @@ export const eventLibrary = {
         date: 'July 22nd, 1877',
         title: 'St. Louis General Strike (1877)',
         imgSrc: require('./assets/eventPhotos/Events/stlGeneralStrike.jpg'),
-        description: `The 1877 St. Louis general strike was one of the first general strikes in the United States. It grew out of the Great Railroad Strike of 1877, which was a national period of strikes and rioting due to economic depression. The St. Louis strike was largely organized by the Knights of Labor and the Marxist-leaning Workingmen's Party, the main radical political party of the era.\n\nIn East St. Louis, Illinois, on July 22, train workers held a secret meeting, resolved to call for an increase in wages, and strike if their demands were not met. The demand was made and rejected that same night, and so, effective at midnight, the strike began in East St. Louis. Within hours, strikers virtually controlled the city.\n\nAlthough the strike was mostly bloodless, the protesters seized the city's Union Depot, stopped freight and some passenger trains from passing through the city, and destroyed much property, including flour mills, sugar refineries, and dismantling over forty factories. The strike ended when the National Guard and U.S. Marshals began to successfully break up demonstrations by force five days later.`,
+        description: `The 1877 St. Louis General Strike was one of the first general strikes in the United States. It grew out of the Great Railroad Strike of 1877, which was a national period of strikes and rioting due to economic depression. The St. Louis strike was largely organized by the Knights of Labor and the Marxist-leaning Workingmen's Party, the main radical political party of the era.\n\nOn this day in 1877, in East St. Louis, Illinois, train workers held a secret meeting, resolved to call for an increase in wages, and strike if their demands were not met. The demand was made and rejected that same night, and so, effective at midnight, the strike began in East St. Louis. Within hours, strikers virtually controlled the city.\n\nAlthough the strike was mostly bloodless, the protesters seized the city's Union Depot, stopped freight and some passenger trains from passing through the city, and destroyed much property, including flour mills, sugar refineries, and dismantling over forty factories. The strike ended when the National Guard and U.S. Marshals began to successfully break up demonstrations by force five days later.`,
         link: 'https://en.wikipedia.org/wiki/1877_St._Louis_general_strike',
         infoSrc: 'https://www.stltoday.com/news/archives/look-back-250-class-conflict-erupts-on-st-louis-streets-in-1877-general-strike/article_10ecf069-5795-5664-a745-4057509378af.html'
       },
@@ -14261,7 +14270,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14272,7 +14281,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14283,7 +14292,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14296,7 +14305,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14329,7 +14338,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14351,7 +14360,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14364,7 +14373,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14375,7 +14384,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14386,7 +14395,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14397,7 +14406,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14408,7 +14417,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14419,7 +14428,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14432,7 +14441,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14443,7 +14452,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14454,7 +14463,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14465,7 +14474,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14476,7 +14485,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14487,7 +14496,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14533,7 +14542,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14544,7 +14553,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14555,7 +14564,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14568,7 +14577,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14579,7 +14588,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14590,7 +14599,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14601,7 +14610,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14612,7 +14621,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14623,7 +14632,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14636,7 +14645,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14658,7 +14667,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14669,7 +14678,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14680,7 +14689,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14704,7 +14713,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14726,7 +14735,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14737,7 +14746,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14748,7 +14757,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14759,7 +14768,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14772,7 +14781,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14783,7 +14792,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14794,7 +14803,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14825,7 +14834,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14849,7 +14858,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14860,7 +14869,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14904,7 +14913,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14917,7 +14926,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14928,7 +14937,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14972,7 +14981,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14985,7 +14994,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -14996,7 +15005,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15007,7 +15016,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15029,7 +15038,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15053,7 +15062,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15064,7 +15073,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15086,7 +15095,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15097,7 +15106,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15108,7 +15117,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15132,7 +15141,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15143,7 +15152,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15174,7 +15183,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15185,7 +15194,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15198,7 +15207,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15209,7 +15218,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15220,7 +15229,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15251,7 +15260,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15262,7 +15271,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15275,7 +15284,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15286,7 +15295,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15297,7 +15306,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15308,7 +15317,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15319,7 +15328,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15330,7 +15339,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15343,7 +15352,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15354,7 +15363,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15365,7 +15374,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15387,7 +15396,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15398,7 +15407,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15411,7 +15420,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15422,7 +15431,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15433,7 +15442,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15455,7 +15464,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15466,7 +15475,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15479,7 +15488,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15490,7 +15499,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15501,7 +15510,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15512,7 +15521,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15523,7 +15532,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15547,7 +15556,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15569,7 +15578,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15580,7 +15589,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15591,7 +15600,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15602,7 +15611,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15615,7 +15624,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15626,7 +15635,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15637,7 +15646,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15648,7 +15657,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15659,7 +15668,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15670,7 +15679,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15694,7 +15703,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15736,7 +15745,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15747,7 +15756,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15760,7 +15769,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15771,7 +15780,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15782,7 +15791,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15804,7 +15813,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15815,7 +15824,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15828,7 +15837,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15839,7 +15848,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15850,7 +15859,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15861,7 +15870,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15872,7 +15881,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15883,7 +15892,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15896,7 +15905,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15907,7 +15916,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15918,7 +15927,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15929,7 +15938,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15940,7 +15949,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15951,7 +15960,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15964,7 +15973,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15975,7 +15984,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -15997,7 +16006,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16008,7 +16017,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16019,7 +16028,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16032,7 +16041,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16043,7 +16052,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16054,7 +16063,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16087,7 +16096,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16100,7 +16109,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16111,7 +16120,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16122,7 +16131,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16155,7 +16164,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16168,7 +16177,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16179,7 +16188,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16190,7 +16199,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16201,7 +16210,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16212,7 +16221,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16223,7 +16232,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16236,7 +16245,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16247,7 +16256,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16258,7 +16267,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16269,7 +16278,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16280,7 +16289,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16291,7 +16300,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16304,7 +16313,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16344,7 +16353,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16355,7 +16364,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16377,7 +16386,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16392,19 +16401,19 @@ export const eventLibrary = {
         title: 'Haitian Revolution Begins (1791)',
         imgSrc: require('./assets/eventPhotos/Events/haitianRevolution.jpg'),
         description: `The Haitian Revolution was a successful insurrection by self-liberated slaves against French colonial rule in Saint-Domingue, now the sovereign state of Haiti. The revolt began on this day in 1791, and Haiti didn't achieve independence from France until 1804. The Haitian Revolution was the only slave uprising that led to the founding of a state which was both free from slavery, and ruled by non-whites and former captives.\n\nThe revolt began when thousands of slaves began to kill their masters and plunged the colony into civil war after a well-attended vodou ceremony. Within the next ten days, slaves had taken control of the entire Northern Province in an unprecedented slave revolt. The slaves sought revenge on their masters through "pillage, rape, torture, mutilation, and death". Over 200,000 black people died from the initial uprising until independence.\n\nToussaint Louverture was a notable military leader of the revolution, but died shortly before independence was won. His former lieutenant Jean-Jacques Dessalines became the first leader of the newly independent nation in 1804.`,
-        link: 'https://en.wikipedia.org/wiki/Haitian_Revolution',
+        link: 'https://www.blackpast.org/global-african-history/haitian-revolution-1791-1804/',
         infoSrc: 'https://en.wikipedia.org/wiki/Haitian_Revolution'
       },
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'August 22nd, 1978',
+        title: 'Sandinistas Capture National Palace (1978)',
+        imgSrc: require('./assets/eventPhotos/Events/sandinistasNationalPalace.jpg'),
+        description: `Nicaragua was rocked by political turmoil in the late 1970s, and with widespread riots and multiple anti-government general strikes occurring in 1978. A violent campaign to overthrow the government was also initiated by the Sandinista National Liberation Front (FSLN). Despite these efforts, the leader of Nicaragua, Anastasio Somoza, remained in power.\n\nOn this day in 1978, the FSLN staged a massive kidnapping operation where they captured the National Palace. Led by Éden Pastora, the Sandinistan forces captured the Palace while the legislature was in session, taking more than 1,000 hostages. Pastora demanded money, the release of Sandinistan prisoners, and, "a means of publicizing the Sandinista cause."\n\nAfter two days, the government agreed to pay $500,000 and to release certain prisoners, marking a major victory for the FSLN. Somoza was finally ousted in 1979, and the Sandinistas came into power.`,
+        link: 'https://www.washingtonpost.com/archive/politics/1979/08/23/sandinistas-commemorate-palace-seizure/d18ba11d-26b2-451d-af16-206eb33fd659/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Nicaraguan_Revolution'
       },
     ],
     'Labor': [
@@ -16413,7 +16422,7 @@ export const eventLibrary = {
         date: 'August 22nd, 1909',
         title: 'Pressed Steel Car Strike (1909)',
         imgSrc: require('./assets/eventPhotos/Events/pressedSteelCarStrike.jpg'),
-        description: `The Pressed Steel Car Strike of 1909 was an American labor strike which lasted from July to September in Pittsburgh, Pennsylvania. The strike was triggered on July 10th, a payday on which many workers were shorter in their pay than usual. Management refused to speak with the workers' representatives and James Rider, manager of The Pressed Steel Car Company, responded to their strike by hiring Pearl Bergoff, a notorious owner of a strike-breaking paramilitary force.\n\nThe walkout drew national attention when it climaxed on this day in 1909, in a bloody battle between strikers, private security agents, and the Pennsylvania State Police. Sherrif Harry Exley, who had been assisting in evicting workers from their company homes, was killed by a mob of angry strikers. In the ensuing violence, at least between 12 and 26 people were killed.\n\nThe strike was settled on September 8th when Pressed Steel Car agreed to a wage increase, the posting of wage rates, and ending abuses in company housing practices. The Pressed Steel Car Strike was a precursor to the Great Steel Strike of 1919.`,
+        description: `The Pressed Steel Car Strike of 1909 was an American labor strike which lasted from July to September in Pittsburgh, Pennsylvania. The strike was triggered on July 10th, a payday on which many workers were shorter in their pay than usual. Management refused to speak with the workers' representatives and James Rider, manager of The Pressed Steel Car Company, responded to their strike by hiring Pearl Bergoff, a notorious owner of a strike-breaking paramilitary force.\n\nThe walkout drew national attention when it climaxed on this day in 1909 in a bloody battle between strikers, private security agents, and the Pennsylvania State Police. Sherrif Harry Exley, who had been assisting in evicting workers from their company homes, was killed by a mob of angry strikers. In the ensuing violence, between 12 and 26 people were killed.\n\nThe strike was settled on September 8th when Pressed Steel Car agreed to a wage increase, the posting of wage rates, and ended abuses in company housing practices. The Pressed Steel Car Strike was a precursor to the Great Steel Strike of 1919.`,
         link: 'https://www.post-gazette.com/business/businessnews/2009/08/16/Pressed-Steel-Car-strike-in-McKees-Rocks-reaches-centennial-anniversary/stories/200908160200',
         infoSrc: 'https://en.wikipedia.org/wiki/Pressed_Steel_Car_strike_of_1909'
       },
@@ -16423,7 +16432,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16434,7 +16443,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16445,7 +16454,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16458,7 +16467,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16469,7 +16478,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16480,7 +16489,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16491,7 +16500,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16502,7 +16511,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16513,7 +16522,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16526,7 +16535,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16537,7 +16546,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16548,7 +16557,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16579,7 +16588,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16590,7 +16599,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16603,7 +16612,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16625,7 +16634,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16636,7 +16645,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16647,7 +16656,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16658,7 +16667,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16671,7 +16680,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16682,7 +16691,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16693,7 +16702,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16704,7 +16713,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16715,7 +16724,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16726,7 +16735,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16739,7 +16748,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16750,7 +16759,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16761,7 +16770,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16772,7 +16781,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16783,7 +16792,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16807,7 +16816,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16818,7 +16827,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16829,7 +16838,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16840,7 +16849,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16851,7 +16860,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16875,7 +16884,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16897,7 +16906,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16908,7 +16917,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16919,7 +16928,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16930,7 +16939,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16943,7 +16952,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16954,7 +16963,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16965,7 +16974,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16987,7 +16996,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -16998,7 +17007,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17011,7 +17020,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17022,7 +17031,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17033,7 +17042,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17044,7 +17053,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17055,7 +17064,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17066,7 +17075,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17079,7 +17088,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17090,7 +17099,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17101,7 +17110,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17123,7 +17132,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17134,7 +17143,7 @@ export const eventLibrary = {
         category: 'Other',
         date: 'September 1st, 1960',
         title: 'Aunt Molly Jackson Passes (1960)',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: `Aunt Molly Jackson (Mary Magdalene Garland Stewart Jackson Stamos, 1880 - 1960) was an influential American folk singer and a union activist who died on this day in 1960.\n\nBorn into a poor, mining family, Jackson was arrested at age ten due to her family's involvement in union activities. She became a member of the United Mine Workers (UMW) and began writing protest songs like "I Am A Union Woman", "Kentucky Miner's Wife", and "Poor Miner's Farewell". When Jackson was jailed because of her unionizing activities, her husband was forced to divorce her in order to keep his mining job.\n\n In December 1931, Jackson traveled to New York City to support and raise money for striking Harlan coal miners, at one point appearing before an estimated crowd of 21,000 at the Bronx Coliseum. In the mid-1930s, she performed in New York City together with Woody Guthrie, Pete Seeger, Earl Robinson, and others.`,
         link: 'https://lomaxky.omeka.net/exhibits/show/artistprofiles/auntmollyjackson',
         infoSrc: 'https://en.wikipedia.org/wiki/Aunt_Molly_Jackson'
@@ -17178,7 +17187,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17200,7 +17209,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17211,7 +17220,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17224,7 +17233,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17277,7 +17286,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17301,7 +17310,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17323,7 +17332,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17334,7 +17343,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17345,7 +17354,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17356,7 +17365,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17369,7 +17378,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17380,7 +17389,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17402,7 +17411,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17413,7 +17422,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17424,7 +17433,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17437,7 +17446,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17448,7 +17457,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17459,7 +17468,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17470,7 +17479,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17481,7 +17490,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17492,7 +17501,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17505,7 +17514,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17516,7 +17525,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17527,7 +17536,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17549,7 +17558,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17573,7 +17582,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17584,7 +17593,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17595,7 +17604,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17626,7 +17635,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17634,13 +17643,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 8th, 1978',
+        title: 'Black Friday (Iran, 1978)',
+        imgSrc: require('./assets/eventPhotos/Events/blackFridayIran.jpg'),
+        description: `Black Friday is the name given to a massacre that occurred on 8 this day in Iran in 1978, in which around 88 people were shot dead and 205–8,000 injured by the Pahlavi military in Tehran. In began when thousands of protesters gathered in Tehran's Jaleh Square for a religious demonstration, unaware that the government had declared martial law a day earlier due to widespread political unrest.\n\nSome sources estimate that 4000 people were shot down by tanks, guns, and military helicopters. The deaths were described as the pivotal event in the Iranian Revolution that ended any "hope for compromise" between the protest movement and regime of Shah Mohammad Reza Pahlavi.\n\nThe massacre led to widespread protests, and a general strike in October shut down the petroleum industry that was essential to the administration's survival. The Shah fled Iran in January 1979, clearing the way for the Iranian Revolution, led by Ayatollah Ruhollah Khomeini.`,
+        link: 'https://english.khamenei.ir/news/7020/Black-Friday-a-bloody-day-which-led-to-the-victory-of-the-Islamic',
+        infoSrc: 'https://en.wikipedia.org/wiki/Black_Friday_(1978)'
       },
     ],
   },
@@ -17650,7 +17659,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17681,7 +17690,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17703,7 +17712,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17714,7 +17723,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17727,7 +17736,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17738,7 +17747,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17760,7 +17769,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17771,7 +17780,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17782,7 +17791,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17795,7 +17804,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17806,7 +17815,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17817,7 +17826,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17850,7 +17859,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17863,7 +17872,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17874,7 +17883,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17885,7 +17894,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17907,7 +17916,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17918,7 +17927,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17931,7 +17940,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17942,7 +17951,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17953,7 +17962,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17984,7 +17993,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -17995,7 +18004,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18008,7 +18017,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18019,7 +18028,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18030,7 +18039,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18061,7 +18070,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18072,7 +18081,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18085,7 +18094,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18096,7 +18105,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18129,7 +18138,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18153,7 +18162,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18175,7 +18184,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18186,7 +18195,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18208,7 +18217,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18221,7 +18230,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18252,7 +18261,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18263,7 +18272,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18274,7 +18283,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18285,7 +18294,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18298,7 +18307,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18309,7 +18318,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18320,7 +18329,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18342,7 +18351,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18375,7 +18384,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18386,7 +18395,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18397,7 +18406,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18408,7 +18417,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18419,7 +18428,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18443,7 +18452,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18454,7 +18463,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18507,7 +18516,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18520,7 +18529,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18531,7 +18540,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18542,7 +18551,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18564,7 +18573,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18575,7 +18584,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18588,7 +18597,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18599,7 +18608,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18632,7 +18641,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18643,7 +18652,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18656,7 +18665,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18667,7 +18676,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18678,7 +18687,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18700,7 +18709,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18724,7 +18733,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18735,7 +18744,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18746,7 +18755,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18768,7 +18777,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18779,7 +18788,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18792,7 +18801,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18814,7 +18823,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18825,7 +18834,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18836,7 +18845,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18847,7 +18856,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18860,7 +18869,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18871,7 +18880,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18882,7 +18891,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18893,7 +18902,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18904,7 +18913,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18915,7 +18924,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18928,7 +18937,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18939,7 +18948,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18950,7 +18959,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18961,7 +18970,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18972,7 +18981,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18983,7 +18992,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -18996,7 +19005,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19007,7 +19016,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19018,7 +19027,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19029,7 +19038,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19040,7 +19049,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19073,7 +19082,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19084,7 +19093,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19106,7 +19115,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19117,7 +19126,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19128,7 +19137,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19141,7 +19150,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19163,7 +19172,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19185,7 +19194,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19196,7 +19205,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19209,7 +19218,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19231,7 +19240,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19242,7 +19251,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19253,7 +19262,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19277,7 +19286,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19288,7 +19297,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19299,7 +19308,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19310,7 +19319,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19321,7 +19330,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19345,7 +19354,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19356,7 +19365,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19367,7 +19376,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19378,7 +19387,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19389,7 +19398,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19400,7 +19409,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19413,7 +19422,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19424,7 +19433,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19446,7 +19455,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19457,7 +19466,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19481,7 +19490,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19492,7 +19501,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19503,7 +19512,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19525,7 +19534,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19549,7 +19558,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19560,7 +19569,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19571,7 +19580,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19602,7 +19611,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19613,7 +19622,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19626,7 +19635,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19648,7 +19657,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19688,7 +19697,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19699,7 +19708,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19712,7 +19721,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19723,7 +19732,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19734,7 +19743,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19745,7 +19754,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19756,7 +19765,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19767,7 +19776,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19780,7 +19789,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19791,7 +19800,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19802,7 +19811,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19813,7 +19822,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19824,7 +19833,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19835,7 +19844,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19848,7 +19857,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19859,7 +19868,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19881,7 +19890,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19892,7 +19901,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19916,7 +19925,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19927,7 +19936,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19938,7 +19947,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19949,7 +19958,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19960,7 +19969,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19971,7 +19980,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19984,7 +19993,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -19995,7 +20004,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20028,7 +20037,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20039,7 +20048,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20052,7 +20061,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20074,7 +20083,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20096,7 +20105,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20107,7 +20116,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20120,7 +20129,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20131,7 +20140,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20142,7 +20151,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20164,7 +20173,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20175,7 +20184,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20188,7 +20197,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20199,7 +20208,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20210,7 +20219,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20221,7 +20230,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20265,7 +20274,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20287,7 +20296,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20309,7 +20318,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20320,7 +20329,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20333,7 +20342,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20344,7 +20353,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20355,7 +20364,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20366,7 +20375,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20377,7 +20386,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20388,7 +20397,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20401,7 +20410,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20412,7 +20421,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20423,7 +20432,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20434,7 +20443,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20445,7 +20454,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20456,7 +20465,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20469,7 +20478,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20480,7 +20489,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20491,7 +20500,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20502,7 +20511,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20524,7 +20533,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20537,7 +20546,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20548,7 +20557,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20559,7 +20568,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20570,7 +20579,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20581,7 +20590,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20592,7 +20601,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20605,7 +20614,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20627,7 +20636,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20638,7 +20647,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20649,7 +20658,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20660,7 +20669,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20684,7 +20693,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20695,7 +20704,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20726,7 +20735,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20737,7 +20746,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20750,7 +20759,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20761,7 +20770,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20772,7 +20781,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20783,7 +20792,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20794,7 +20803,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20805,7 +20814,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20818,7 +20827,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20840,7 +20849,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20851,7 +20860,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20862,7 +20871,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20873,7 +20882,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20897,7 +20906,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20908,7 +20917,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20919,7 +20928,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20930,7 +20939,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20941,7 +20950,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20954,7 +20963,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20965,7 +20974,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20976,7 +20985,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20987,7 +20996,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -20998,7 +21007,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21009,7 +21018,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21022,7 +21031,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21033,7 +21042,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21044,7 +21053,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21055,7 +21064,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21066,7 +21075,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21077,7 +21086,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21090,7 +21099,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21101,7 +21110,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21112,7 +21121,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21123,7 +21132,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21134,7 +21143,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21145,7 +21154,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21158,7 +21167,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21169,7 +21178,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21180,7 +21189,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21191,7 +21200,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21202,7 +21211,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21213,7 +21222,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21226,7 +21235,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21237,7 +21246,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21248,7 +21257,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21259,7 +21268,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21270,7 +21279,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21281,7 +21290,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21294,7 +21303,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21305,7 +21314,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21327,7 +21336,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21338,7 +21347,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21349,7 +21358,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21362,7 +21371,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21373,7 +21382,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21384,7 +21393,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21395,7 +21404,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21406,7 +21415,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21430,7 +21439,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21452,7 +21461,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21463,7 +21472,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21474,7 +21483,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21485,7 +21494,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21499,7 +21508,7 @@ export const eventLibrary = {
         date: 'November 3rd, 1970',
         title: 'Allende Assumes Office (1970)',
         imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),
-        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on this day in 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn 11 September 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
+        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on this day in 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn September 11th, 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
         link: 'https://jacobinmag.com/2019/09/salvador-allende-chile-revolucion-democratica-frente-amplio',
         infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
       },
@@ -21514,13 +21523,22 @@ export const eventLibrary = {
         link: 'https://www.freedomarchives.org/Documents/Finder/DOC510_scans/Folsom_Manifesto/510.folsom.manifesto.11.3.1970.pdf',
         infoSrc: 'https://libcom.org/blog/folsom-prison-strike-manifesto-bill-rights-1970-05012012'
       },
+      {
+        category: 'Rebellion',
+        date: 'November 3rd, 1959',
+        title: 'Panama Anti-American Riots (1959)',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: `The 1959 Anti-American Riots in Panama happened during the celebration of Panamanian independence on this day in 1959. The demonstrations were influenced by former foreign minister Aquilino Boyd, who threatened a "peaceful invasion" of the American-controlled Panama Canal Zone to raise the flag of the republic there as tangible evidence of Panama's sovereignty over the territory, which had been under the control of the United States since 1903.\n\nFearful that Panamanian mobs might actually force entry into the Canal Zone, the United States put troops on the ground. Several hundred Panamanians crossed barbed-wire restraints and clashed with Canal Zone police and American soldiers.\n\nExtensive and violent disorder followed. A mob smashed the windows of the United States Information Agency library. The United States flag was torn from the ambassador's residence and trampled, and the U.S. embassy was attacked. Stones were thrown against the troops, who were dispersed by tear gas. The riots were a prequel to the deadlier and more prominent Flag Protest of 1964, which led to the Torrijos-Carter Treaties, which granted independence to the Canal Zone.`,
+        link: 'https://history.state.gov/historicaldocuments/frus1958-60v05/d347',
+        infoSrc: 'https://en.wikipedia.org/wiki/1959_anti-American_riots_in_Panama'
+      },
     ],
     'Labor': [
       {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21531,7 +21549,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21542,7 +21560,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21553,7 +21571,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21566,7 +21584,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21577,7 +21595,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21588,7 +21606,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21599,7 +21617,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21610,7 +21628,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21621,7 +21639,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21634,7 +21652,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21645,7 +21663,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21696,7 +21714,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21707,7 +21725,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21720,7 +21738,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21731,7 +21749,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21742,7 +21760,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21764,7 +21782,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21775,7 +21793,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21799,7 +21817,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21810,7 +21828,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21841,7 +21859,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21874,7 +21892,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21885,7 +21903,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21927,7 +21945,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21938,7 +21956,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21951,7 +21969,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21963,7 +21981,7 @@ export const eventLibrary = {
         date: 'November 9th, 1969*',
         title: 'Occupation of Alcatraz (1969 - 1971)',
         imgSrc: require('./assets/eventPhotos/Events/alcatrazOccupation.jpg'),
-        description: `*Some sources give the start date of the occupation as Nov. 9th, others Nov. 20th. I have chosen to go with the one listed by Howard Zinn in "A People's History of the United States"\n\nThe Occupation of Alcatraz was a 19-month long protest which began on this day in 1969, when 89 American Indians and their supporters occupied Alcatraz Island. The protest was led by Richard Oakes and Grace Thorpe. This group lived on the island together until the protest was forcibly ended by the U.S. government. The group claimed that, under the Treaty of Fort Laramie between the U.S. and the Lakota tribe, all retired, abandoned, or out-of-use federal land was returned to the Indians who once occupied it.\n\nBy late May of 1971, the government had cut off all electrical power and all telephone service to the island. Left without power, fresh water, and in the face of diminishing public support and sympathy, the number of occupiers began to dwindle. On June 11th, 1971, a large force of federal officers removed the remaining 15 people from the island.`,
+        description: `*Some sources give the start date of the occupation as Nov. 9th, others Nov. 20th. I have chosen to go with the date listed by Howard Zinn in "A People's History of the United States"\n\nThe Occupation of Alcatraz was a 19-month long protest which began on this day in 1969, when 89 American Indians and their supporters occupied Alcatraz Island. The protest was led by Richard Oakes and Grace Thorpe. This group lived on the island together until the protest was forcibly ended by the U.S. government. The group claimed that, under the Treaty of Fort Laramie between the U.S. and the Lakota tribe, all retired, abandoned, or out-of-use federal land was returned to the Indians who once occupied it.\n\nBy late May of 1971, the government had cut off all electrical power and all telephone service to the island. Left without power, fresh water, and in the face of diminishing public support and sympathy, the number of occupiers began to dwindle. On June 11th, 1971, a large force of federal officers removed the remaining 15 people from the island.`,
         link: 'https://www.kqed.org/news/11788540/a-look-back-at-the-occupation-of-alcatraz-50-years-later',
         infoSrc: 'https://en.wikipedia.org/wiki/Occupation_of_Alcatraz'
       },
@@ -21973,7 +21991,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21984,7 +22002,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -21995,7 +22013,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22006,7 +22024,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22019,7 +22037,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22030,7 +22048,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22041,7 +22059,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22052,7 +22070,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22063,7 +22081,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22074,7 +22092,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22087,7 +22105,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22098,7 +22116,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22109,7 +22127,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22131,7 +22149,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22155,7 +22173,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22166,7 +22184,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22177,7 +22195,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22199,7 +22217,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22210,7 +22228,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22223,7 +22241,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22234,7 +22252,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22245,7 +22263,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22256,7 +22274,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22267,7 +22285,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22278,7 +22296,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22291,7 +22309,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22302,7 +22320,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22313,7 +22331,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22324,7 +22342,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22335,7 +22353,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22346,7 +22364,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22359,7 +22377,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22370,7 +22388,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22381,7 +22399,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22392,7 +22410,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22403,7 +22421,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22427,7 +22445,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22438,7 +22456,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22449,7 +22467,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22460,7 +22478,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22471,7 +22489,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22482,7 +22500,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22495,7 +22513,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22517,7 +22535,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22539,7 +22557,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22550,7 +22568,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22563,7 +22581,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22574,7 +22592,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22585,7 +22603,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22596,7 +22614,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22607,7 +22625,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22631,7 +22649,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22642,7 +22660,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22653,7 +22671,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22664,7 +22682,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22686,7 +22704,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22699,7 +22717,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22710,7 +22728,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22721,7 +22739,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22752,7 +22770,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22763,7 +22781,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22776,7 +22794,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22787,7 +22805,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22798,7 +22816,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22820,7 +22838,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22831,7 +22849,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22844,7 +22862,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22855,7 +22873,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22866,7 +22884,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22888,7 +22906,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22899,7 +22917,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22912,7 +22930,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22923,7 +22941,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22965,7 +22983,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22976,7 +22994,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -22989,7 +23007,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23000,7 +23018,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23022,7 +23040,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23033,7 +23051,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23044,7 +23062,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23057,7 +23075,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23068,7 +23086,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23079,7 +23097,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23101,7 +23119,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23112,7 +23130,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23125,7 +23143,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23136,7 +23154,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23147,7 +23165,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23169,7 +23187,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23180,7 +23198,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23204,7 +23222,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23215,7 +23233,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23226,7 +23244,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23237,7 +23255,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23248,7 +23266,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23261,7 +23279,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23272,7 +23290,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23283,7 +23301,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23305,7 +23323,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23316,7 +23334,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23329,7 +23347,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23340,7 +23358,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23351,7 +23369,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23362,7 +23380,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23373,7 +23391,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23384,7 +23402,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23397,7 +23415,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23408,7 +23426,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23419,7 +23437,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23441,7 +23459,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23452,7 +23470,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23465,7 +23483,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23476,7 +23494,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23487,7 +23505,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23498,7 +23516,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23509,7 +23527,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23520,7 +23538,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23533,7 +23551,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23544,7 +23562,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23555,7 +23573,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23566,7 +23584,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23574,13 +23592,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'December 2nd, 1980',
+        title: 'Missionaries Murdered in El Salvador (1980)',
+        imgSrc: require('./assets/eventPhotos/Events/salvadorNuns.jpg'),
+        description: `On this day in 1980, four Catholic missionaries from the United States working in El Salvador were raped and murdered by five members of the El Salvador National Guard. Their names were Maura Clarke and Ita Ford, Ursuline Dorothy Kazel, and Jean Donovan. Although they were ostensibly missionaries, the nuns were also political radicals, with Maura Clarke having supported the Sandinistas in Nicaragua.\n\nAlthough thousands of native Salvadorans had already been murdered by death squads there, the killing of these missionaries prompted international outrage and criticism of President Carter's support for the government in El Salvador. Although Carter initially suspended aid to the regime, he later reinstated it and President Reagan continued this support.\n\nAfter the release of declassified documents in the 1990s, New Jersey congressman Robert Torricelli stated that it was "now clear that while the Reagan Administration was certifying human rights progress in El Salvador they knew the terrible truth that the Salvadoran military was engaged in a widespread campaign of terror and torture".`,
+        link: 'https://www.jacobinmag.com/2017/05/el-salvador-civil-war-reagan-cold-war-death-squads-sandinistas',
+        infoSrc: 'https://en.wikipedia.org/wiki/1980_murders_of_U.S._missionaries_in_El_Salvador'
       },
     ],
     'Other': [
@@ -23588,7 +23606,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23601,7 +23619,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23612,7 +23630,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23623,7 +23641,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23634,7 +23652,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23645,7 +23663,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23669,7 +23687,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23680,7 +23698,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23691,7 +23709,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23702,7 +23720,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23724,7 +23742,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23737,7 +23755,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23759,7 +23777,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23770,7 +23788,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23781,7 +23799,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23792,7 +23810,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23805,7 +23823,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23816,7 +23834,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23827,7 +23845,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23838,7 +23856,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23849,7 +23867,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23860,7 +23878,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23873,7 +23891,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23884,7 +23902,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23895,7 +23913,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23917,7 +23935,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23928,7 +23946,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23941,7 +23959,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23952,7 +23970,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23963,7 +23981,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23985,7 +24003,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -23996,7 +24014,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24009,7 +24027,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24020,7 +24038,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24031,7 +24049,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24062,7 +24080,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24073,7 +24091,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24086,7 +24104,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24097,7 +24115,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24108,7 +24126,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24119,7 +24137,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24130,7 +24148,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24141,7 +24159,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24154,7 +24172,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24165,7 +24183,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24176,7 +24194,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24187,7 +24205,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24198,7 +24216,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24209,7 +24227,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24222,7 +24240,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24233,7 +24251,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24244,7 +24262,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24255,7 +24273,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24266,7 +24284,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24277,7 +24295,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24290,7 +24308,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24301,7 +24319,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24312,7 +24330,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24334,7 +24352,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24345,7 +24363,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24358,7 +24376,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24369,7 +24387,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24380,7 +24398,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24411,7 +24429,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24422,7 +24440,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24435,7 +24453,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24446,7 +24464,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24457,7 +24475,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24468,7 +24486,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24479,7 +24497,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24490,7 +24508,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24503,7 +24521,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24514,7 +24532,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24525,7 +24543,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24536,7 +24554,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24547,7 +24565,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24558,7 +24576,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24571,7 +24589,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24593,7 +24611,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24615,7 +24633,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24626,7 +24644,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24639,7 +24657,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24650,7 +24668,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24661,7 +24679,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24683,7 +24701,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24694,7 +24712,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24707,7 +24725,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24718,7 +24736,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24729,7 +24747,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24740,7 +24758,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24751,7 +24769,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24775,7 +24793,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24786,7 +24804,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24797,7 +24815,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24819,7 +24837,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24843,7 +24861,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24854,7 +24872,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24865,7 +24883,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24887,7 +24905,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24898,7 +24916,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24911,7 +24929,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24922,7 +24940,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24933,7 +24951,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24944,7 +24962,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24955,7 +24973,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24966,7 +24984,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24979,7 +24997,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -24990,7 +25008,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25001,7 +25019,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25012,7 +25030,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25023,7 +25041,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25034,7 +25052,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25047,7 +25065,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25058,7 +25076,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25069,7 +25087,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25080,7 +25098,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25091,7 +25109,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25102,7 +25120,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25115,7 +25133,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25126,7 +25144,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25137,7 +25155,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25148,7 +25166,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25159,7 +25177,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25170,7 +25188,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25183,7 +25201,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25194,7 +25212,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25205,7 +25223,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25227,7 +25245,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25238,7 +25256,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25251,7 +25269,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25273,7 +25291,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25284,7 +25302,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25295,7 +25313,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25306,7 +25324,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25319,7 +25337,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25352,7 +25370,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25363,7 +25381,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25374,7 +25392,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25387,7 +25405,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25409,7 +25427,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25420,7 +25438,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25431,7 +25449,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25442,7 +25460,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25455,7 +25473,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25466,7 +25484,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25488,7 +25506,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25499,7 +25517,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25510,7 +25528,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25523,7 +25541,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25534,7 +25552,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25545,7 +25563,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25556,7 +25574,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25567,7 +25585,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
@@ -25578,7 +25596,7 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/Individuals/proudhon.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
         infoSrc: ''
