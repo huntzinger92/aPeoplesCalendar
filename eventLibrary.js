@@ -1690,13 +1690,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'January 25th, 1979',
+        title: `FLOC Campbell's and Nestle Boycott (1979)`,
+        imgSrc: require('./assets/eventPhotos/Events/flocCampbells.jpg'),
+        description: `The Farm Labor Organizing Committee (FLOC) is a labor union representing migrant farm workers in the Midwestern United States and North Carolina, founded in 1967 in Toledo, Ohio by Baldemar Velasquez.\n\nIn 1978, Velasquez planned an ambitious labor action - the union believed that Ohio tomato growers would be unable to recruit enough workers to see them through a long strike, so that year 2,000 FLOC members walked off their jobs in Ohio, demanding a guaranteed minimum wage, better housing, and medical care.\n\nWhile some growers were willing to negotiate, big canners such as the Campbell's and Nestle were unwilling to pay the higher prices which would accompany a unionized workforce. On this day in 1979, FLOC initiated a boycott of both Campbell's and Nestle products.`,
+        link: 'https://en.wikipedia.org/wiki/Farm_Labor_Organizing_Committee',
+        infoSrc: 'https://library.ucsd.edu/dc/object/bb78511890/_1.pdf'
       },
     ],
     'Birthdays': [
@@ -1791,13 +1791,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'January 26th, 1991',
+        title: 'Anti-Gulf War D.C. Protests (1991)',
+        imgSrc: require('./assets/eventPhotos/Events/gulfWashington.jpg'),
+        description: `On this day in 1991, tens of thousands of placard-wielding students, veterans, farmers, and feminists marched past the White House in protest of the Gulf War initiated by President George H.W. Bush. Estimates of the crowd range from 75,000 to 250,000, and the march stretched over a mile long, sweeping down Pennsylvania Avenue.\n\nChants included "Hey, Hey, Uncle Sam, we remember Vietnam" and "No blood for oil!". Representative Rangel (D-NY) was the only member of Congress among the speakers there, saying "We have no right to have a Clint Eastwood foreign policy".`,
+        link: 'https://libcom.org/history/1990-1991-resistance-to-the-gulf-war',
+        infoSrc: 'https://www.baltimoresun.com/news/bs-xpm-1991-01-27-1991027045-story.html'
       },
     ],
   },
@@ -3606,7 +3606,7 @@ export const eventLibrary = {
         date: 'February 21st, 1965',
         title: 'Malcolm X (1925 - 1965)',
         imgSrc: require('./assets/eventPhotos/Individuals/malcolmX.jpg'),
-        description: `El-Hajj Malik El-Shabazz, born Malcolm Little, was an American Muslim minister and human rights activist who was a popular figure during the civil rights movement. He is best known for his staunch and controversial black racial advocacy, and for his time spent as a vocal spokesman for the Nation of Islam.\n\nHis policy of allowing for violent self-defense (i.e., achieving freedom "by any means necessary") and opposition to integration stood in stark contrast to his contemporary Martin Luther King Jr., whom Malcolm referred to as a "chump".\n\nOn February 21, 1965, he was preparing to address the Organization of Afro-American Unity in Manhattan's Audubon Ballroom when a quarrel broke out. As Malcolm X and his bodyguards tried to quell the disturbance, a man rushed forward and shot him once in the chest with a sawed-off shotgun and two other men charged the stage firing semi-automatic handguns. Malcolm X was pronounced dead at 3:30 pm, shortly after arriving at Columbia Presbyterian Hospital. The gunman were identified as members of Nation of Islam and convicted of murder.`
+        description: `El-Hajj Malik El-Shabazz, born Malcolm Little, was an American Muslim minister and human rights activist who was a popular figure during the civil rights movement. He is best known for his staunch and controversial black racial advocacy, and for his time spent as a vocal spokesman for the Nation of Islam.\n\nHis policy of allowing for violent self-defense (i.e., achieving freedom "by any means necessary") and opposition to integration stood in stark contrast to his contemporary Martin Luther King Jr., whom Malcolm referred to as a "chump".\n\nOn this day in 1965, he was preparing to address the Organization of Afro-American Unity in Manhattan's Audubon Ballroom when a quarrel broke out. A man rushed forward and shot him once in the chest with a sawed-off shotgun and two other men charged the stage firing semi-automatic handguns. Malcolm X was pronounced dead at 3:30 pm, shortly after arriving at Columbia Presbyterian Hospital. The gunman were identified as members of Nation of Islam and convicted of murder.`
       },
       {
         category: 'Assassinations',
@@ -8402,6 +8402,15 @@ export const eventLibrary = {
         link: 'https://www.smithsonianmag.com/smithsonian-institution/how-ragtag-band-reformers-organized-first-protest-march-washington-dc-180951270/',
         infoSrc: 'https://en.wikipedia.org/wiki/Coxey%27s_Army'
       },
+      {
+        category: 'Rebellion',
+        date: 'April 30th, 1981',
+        title: 'Boston City Workers Block Traffic (1981)',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: `On this day in 1981, several hundred demonstrators, many of them off-duty and laid-off firemen, took part in a rush-hour blockade of major roadways in Boston, protesting cuts to social spending. Several dozen protesters marched arm-in-arm down the middle of the Southeast Expressway, the major highway for commuters from the city's southern suburbs.\n\nAt the time, the city's school system was "penniless", but forced to remain open due to a court order, and Boston was projected to become insolvent by July 1st. According to historian Howard Zinn, these protests continued for fifty-five nights, blocking major thoroughfares and the Sumner Tunnel during rush hour. He quotes the Boston Globe:\n\n"The demonstrators in East Boston were mostly middle-aged, middle- or working-class people who said they had never protested anything before."`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnunrepo22.html',
+        infoSrc: 'https://www.nytimes.com/1981/04/30/us/boston-s-rush-hour-traffic-blocked-in-protest-of-police-and-fire-l-ayoffs.html'
+      },
     ],
     'Labor': [
       {
@@ -11487,6 +11496,15 @@ export const eventLibrary = {
         link: 'https://www.historyisaweapon.com/defcon1/zinnempire12.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Platt_Amendment'
       },
+      {
+        category: 'Other',
+        date: 'June 12th, 1982',
+        title: 'Anti-Nuclear Manhattan Protests (1982)',
+        imgSrc: require('./assets/eventPhotos/Events/manhattanNuclear.jpg'),
+        description: `On this day in 1982, hundreds of thousands (some estimates as high as one million) of peaceful demonstrators opposed to nuclear arms overwhelmed Central Park and midtown Manhattan. The event is one of the largest, if not the largest, political demonstrations in U.S. history.\n\nThe huge parade and rally was a multi-racial and political coalition, bringing together pacifists and anarchists, children and Buddhist monks, Roman Catholic bishops and Communist Party leaders, university students, and union members, all in the name of nuclear disarmament. The parade was over three miles long and had signs in dozens of languages.\n\nThe event was very peaceful, with no mention of violence or arrests made reported by the New York Times. Despite the show of force, U.S. nuclear weapons programs were not limited until after the end of the Cold War, several years later.`,
+        link: 'https://www.wnyc.org/story/wnyc-covers-great-anti-nuclear-march-and-rally-central-park-june-12-1982/',
+        infoSrc: 'https://www.nytimes.com/1982/06/13/world/throngs-fill-manhattan-to-protest-nuclear-weapons.html'
+      },
     ],
   },
   '6-13': {
@@ -11609,6 +11627,15 @@ export const eventLibrary = {
         description: `Harriet Elisabeth Beecher Stowe, born on this day in 1811, was an American abolitionist and author.\n\nShe is best known for her novel Uncle Tom's Cabin (1852), which was incredibly influential within the Northern anti-slavery movement.`,
         link: 'https://www.womenshistory.org/education-resources/biographies/harriet-beecher-stowe',
         infoSrc: 'https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe'
+      },
+      {
+        category: 'Birthdays',
+        date: 'June 14th, 1945',
+        title: 'David Barsamian (1945 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/davidBarsamian.jpg'),
+        description: `David Barsamian, born on this day in 1945, is an Armenian-American radio broadcaster, writer, and the founder and director of Alternative Radio, a Boulder, Colorado-based syndicated weekly public affairs program heard on some 250 radio stations worldwide.\n\nBarsamian has interviewed and edited the works of many important leftist thinkers, including Noam Chomsky, Howard Zinn, Richard Wolff, Eqbal Ahmad, and Edward Said.`,
+        link: 'https://www.alternativeradio.org/barsamian/about-barsamian/',
+        infoSrc: 'https://en.wikipedia.org/wiki/David_Barsamian'
       },
     ],
     'Assassinations': [
@@ -11949,6 +11976,15 @@ export const eventLibrary = {
         description: `Rafael Sebastián Guillén Vicente, widely known by his previous nom de guerre as "Subcomandante Marcos", is a Mexican insurgent, former military leader, and spokesman for the Zapatista Army of National Liberation (EZLN) in the ongoing Chiapas conflict. Before joining the EZLN, Vicente was a college professor at the Metropolitan Autonomous University in Mexico.\n\nThe EZLN was founded in the Lacandon Jungle in 1983, initially functioning as a self-defense unit dedicated to protecting Chiapas' Mayan people from evictions and capitalist encroachment on their land. While not Mayan himself, Marcos has often served as the group's spokeman.\n\nMarcos led the EZLN during the 1994 revolt and the subsequent peace negotiations, during a counter-offensive by the Mexican Army in 1995, and throughout the decades that followed. In 2001, he led a group of Zapatista leaders into Mexico City to meet with President Vicente Fox, attracting widespread public and media attention.`,
         link: 'https://books.google.com/books?id=iPaZ-CIHOxUC&pg=PR11#v=onepage&q&f=false',
         infoSrc: 'https://en.wikipedia.org/wiki/Subcomandante_Marcos'
+      },
+      {
+        category: 'Birthdays',
+        date: 'June 19th, 1938',
+        title: 'John "Jack" Ryan (1938 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/jackRyan.jpg'),
+        description: `John "Jack" Ryan, born on this day in 1938, is a former Federal Bureau of Investigation (FBI) agent and police officer who quit his job rather than spy on non-violent political activists. Ryan had been an FBI agent since 1986, but was fired for this act of protest in September of 1987, ten months short of becoming eligible for a $300,000 pension and retirement.\n\nIn a report by the LA Times, he stated his belief that the Bureau could reinstate him to a position which would not conflict with his personal beliefs, however this did not occur. Ryan also stated that U.S. involvement in Central America is "violent, illegal and immoral", and was also critical of the COINTELPRO program.`,
+        link: 'https://books.google.com/books?id=NOcDAAAAMBAJ&pg=PA16#v=onepage&q&f=false',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jack_Ryan_(FBI_agent)'
       },
     ],
     'Assassinations': [
@@ -12384,6 +12420,15 @@ export const eventLibrary = {
         description: `James Howard Meredith, born on this day in 1933, is a Civil Rights Movement figure, writer, political adviser, and Air Force veteran.\n\nIn 1962, he became the first African-American student admitted to the segregated University of Mississippi after violent protest against his admission (known as the "Ole Miss Riot") was quelled by the federal government. Inspired by President John F. Kennedy's inaugural address, Meredith decided to exercise his constitutional rights and apply to the University of Mississippi, hoping to put pressure on the Kennedy administration to enforce civil rights for African Americans.\n\nIn 1966, Meredith planned a solo 220-mile March Against Fear from Memphis, Tennessee, to Jackson, Mississippi, to protest racial discrimination in voter registration. The second day, he was shot by a white gunman. Leaders of major organizations vowed to complete the march in his name after he was taken to the hospital.\n\nWhile Meredith was recovering, more people from across the country became involved as marchers. Meredith rejoined the march after recovering, and when the estimated 15,000 marchers reached Jackson, Mississippi, it became the largest civil rights march in Mississippi history.`,
         link: 'https://www.cnn.com/2020/06/18/opinions/i-am-george-floyd-meredith-doyle/index.html',
         infoSrc: 'https://en.wikipedia.org/wiki/James_Meredith'
+      },
+      {
+        category: 'Birthdays',
+        date: 'June 25th, 1951',
+        title: 'Lois Gibbs (1951 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/loisGibbs.jpg'),
+        description: `Lois Marie Gibbs, born on this day in 1951, is an American environmental activist. Her activism began after discovering that her 5-year-old son's elementary school and entire neighborhood in Niagara Falls, New York was built on a toxic waste dump.\n\nAfter this revelation, she formed the Love Canal Homeowner's Asssociation, and began fighting at the local, state, and federal level for action, framing the issue as one of children's health. After years of struggle, the waste finally began to be cleaned up, and 833 families were eventually evacuated.\n\nShe continues to work with the organization, now renamed the Center for Health, Environment, and Justice (CHEJ).`,
+        link: 'https://www.goldmanprize.org/recipient/lois-gibbs/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Lois_Gibbs'
       },
     ],
     'Assassinations': [
@@ -14675,13 +14720,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'July 28th, 1924',
+        title: 'Anne Braden (1924 - 2006)',
+        imgSrc: require('./assets/eventPhotos/Individuals/anneBraden.jpg'),
+        description: `Anne McCarty Braden, born on this day in 1924, was an American civil rights activist, journalist, and educator dedicated to the cause of racial equality. Raised in rigidly segregated Anniston, Alabama, Braden grew up in a white, middle-class family that accepted southern racism, later experiencing a "a conversion of almost religious intensity" and becoming an anti-racist activist.\n\nIn 1954, Andrew and Charlotte Wade, an African American couple who knew Anne and her husband Carl Braden, approached them with a proposal to buy a house on their behalf in a suburb in which they couldn't purchase a home due to Jim Crow laws. The Bradens agreed to the deal, and, on the Wades' first night in the new suburbs, angry residents burned a cross in their yard and shot out the windows to the house. Six weeks later, the Wades' new house was dynamited one evening while they were out.\n\nAfter a sensationalized trial, her husband Carl Braden - the perceived ringleader - was convicted of sedition and sentenced to 15 years' imprisonment, although the Supreme Court ruled the laws on which he was convicted unconstitutional and he was freed after eight months. In later life, Anne Braden joined Jesse Jackson's "Rainbow/PUSH Coalition" and continued her social activism. In 2005, a year before her death, she joined Louisville antiwar demonstrations in a wheelchair.`,
+        link: 'https://snccdigital.org/people/anne-carl-braden/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Anne_Braden'
       },
     ],
     'Assassinations': [
@@ -14800,13 +14845,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 30th, 1983',
+        title: 'Arizona Copper Mine Strike (1983)',
+        imgSrc: require('./assets/eventPhotos/Events/arizonaCopperStrike.jpg'),
+        description: `The Arizona Copper Mine Strike of 1983 began on this day as a bargaining dispute between the Phelps Dodge Corporation and a group of union copper miners and mill workers, led by the United Steelworkers. The subsequent strike lasted nearly three years, and resulted in replacement of most of the striking workers and decertification of the unions.\n\nAlthough there had been no fatalities during the strike, various acts and threats of violence increased the political pressure on Democratic governor Babbitt to intervene. Despite having stated "Phelps Dodge has the worst record in labor relations of any company that has ever operated in Arizona", Babbitt ordered 750 National Guard and state police officers to protect business operations.\n\nEight days later, 10 strikers were arrested in Ajo and charged with rioting, further breaking the strike. In September 1984, the new workforce (hired strikebreakers) began voting in elections deciding whether or not to decertify the unions. The result was the largest mass decertification in US history: 35 locals of 13 different unions representing Phelps Dodge workers were decertified in Arizona, New Mexico, and Texas. The strike officially ended on February 19th, 1986.`,
+        link: 'https://uapress.arizona.edu/2018/08/on-the-great-arizona-copper-strike-1983-1986',
+        infoSrc: 'https://en.wikipedia.org/wiki/Arizona_copper_mine_strike_of_1983'
       },
     ],
     'Birthdays': [
@@ -17647,7 +17692,7 @@ export const eventLibrary = {
         date: 'September 8th, 1978',
         title: 'Black Friday (Iran, 1978)',
         imgSrc: require('./assets/eventPhotos/Events/blackFridayIran.jpg'),
-        description: `Black Friday is the name given to a massacre that occurred on 8 this day in Iran in 1978, in which around 88 people were shot dead and 205–8,000 injured by the Pahlavi military in Tehran. In began when thousands of protesters gathered in Tehran's Jaleh Square for a religious demonstration, unaware that the government had declared martial law a day earlier due to widespread political unrest.\n\nSome sources estimate that 4000 people were shot down by tanks, guns, and military helicopters. The deaths were described as the pivotal event in the Iranian Revolution that ended any "hope for compromise" between the protest movement and regime of Shah Mohammad Reza Pahlavi.\n\nThe massacre led to widespread protests, and a general strike in October shut down the petroleum industry that was essential to the administration's survival. The Shah fled Iran in January 1979, clearing the way for the Iranian Revolution, led by Ayatollah Ruhollah Khomeini.`,
+        description: `Black Friday is the name given to a massacre that occurred on 8 this day in Iran in 1978, in which around 88 people were shot dead and 205–8,000 injured by the Pahlavi military in Tehran. In began when thousands of protesters gathered in Tehran's Jaleh Square for a religious demonstration, unaware that the government had declared martial law a day earlier due to widespread political unrest.\n\nSome sources estimate that 4,000 people were shot down by tanks, guns, and military helicopters. The deaths were described as the pivotal event in the Iranian Revolution that ended any "hope for compromise" between the protest movement and regime of Shah Mohammad Reza Pahlavi.\n\nThe massacre led to widespread protests, and a general strike in October shut down the petroleum industry that was essential to the administration's survival. The Shah fled Iran in January 1979, clearing the way for the Iranian Revolution, led by Ayatollah Ruhollah Khomeini.`,
         link: 'https://english.khamenei.ir/news/7020/Black-Friday-a-bloody-day-which-led-to-the-victory-of-the-Islamic',
         infoSrc: 'https://en.wikipedia.org/wiki/Black_Friday_(1978)'
       },
@@ -17683,6 +17728,15 @@ export const eventLibrary = {
         description: `The Stono Rebellion was a slave rebellion that began on this day in 1739, in the colony of South Carolina. It was the largest slave uprising in the British mainland colonies, with 25 colonists and 35 to 50 Africans killed. The uprising was led by native Africans who were likely from the Central African Kingdom of Kongo, as some of the rebels spoke Portuguese.\n\nThe slaves were making their way to Spanish Florida, as the Spanish had promised freedom to any slave who managed to escape from the British colonies. As the slaves made their way south, they killed approximately two dozen white people and seized weapons and ammunition, before being attacked by a well-armed milita.\n\nAround 50 slaves and 25 militiamen were killed in the fighting, and the rebellion was quelled. The Stono Rebellion was directly responsible for the "Negro Act of 1740", which slave freedom of movement and education in South Carolina.`,
         link: 'https://www.blackpast.org/african-american-history/stono-rebellion-1739/',
         infoSrc: 'https://en.wikipedia.org/wiki/Stono_Rebellion'
+      },
+      {
+        category: 'Rebellion',
+        date: 'September 9th',
+        title: 'Plowshares Movement Begins (1980)',
+        imgSrc: require('./assets/eventPhotos/Events/plowshares8.jpg'),
+        description: `The Plowshares Movement is an anti-nuclear weapons and Christian pacifist movement that advocates active resistance to war. The group often practices a form of symbolic protest that involves the damaging of weapons and military property. The movement takes its name from the idea of beating swords to ploughshares (converting means of violence into peaceful tools) in the Book of Isaiah.\n\nThe movement's first act happened on this day in 1980, when eight activists entered the General Electric Re-entry Division building (where missiles and military vehicles were made), smashed the cones of two warheads with hammers, poured their own blood on documents, and prayed for peace.\n\nKnown as the "Plowshare Eight", they were arrested and charged with more than ten different felony and misdemeanor counts. Plowshare acts of civil disobedience continue into the modern day, with a widow of one of the original eight - Elizabeth McAlister - getting arrested in 2018 for direct action at Kings Bay Naval Submarine Base.`,
+        link: 'https://en.wikipedia.org/wiki/Plowshares_movement',
+        infoSrc: 'https://wagingnonviolence.org/2010/09/the-plowshares-8-thirty-years-on/'
       },
     ],
     'Labor': [
@@ -18036,13 +18090,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Labor',
+        date: 'September 14th, 1982',
+        title: `Detroit Teachers Strike (1982)`,
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On this day in 1982, 10,000 teachers in Detroit walked off the job this morning over a Board of Education demand for pay cuts of 8%, leaving leaving 201,000 schoolchildren with the prospect of at least several days off. The teachers did this despite Michigan law prohibiting public employees from striking.\n\nThe Detroit teacher's strike was the largest of a number of school labor disputes marring the back-to-school season around the country that year, when social spending cuts were hitting schools and teachers particularly hard. Around the same time, more than 7,500 other teachers were on strike elsewhere in Michigan and in Pennsylvania, Illinois and Ohio.`,
+        link: 'https://www.historyisaweapon.com/defcon1/zinnunrepo22.html',
+        infoSrc: 'https://www.nytimes.com/1982/09/14/us/detroit-teachers-strike-over-pay-cut.html'
       },
     ],
     'Birthdays': [
@@ -23452,6 +23506,15 @@ export const eventLibrary = {
         description: `Samuel Langhorne Clemens, known by his pen name Mark Twain, was an American writer, humorist, entrepreneur, publisher, and lecturer. He was lauded as the "greatest humorist [the United States] has produced", and William Faulkner called him "the father of American literature". After 1899, he was also a committed anti-imperialist and anti-racist.\n\nBefore 1899, however, he supported imperialism, calling the Spanish War "the worthiest" war the U.S. ever fought. In the New York Herald, he described his anti-imperialism epiphany like this:\n\n"I wanted the American eagle to go screaming into the Pacific ... Why not spread its wings over the Philippines, I asked myself? ... I said to myself, Here are a people who have suffered for three centuries. We can make them as free as ourselves, give them a government and country of their own, put a miniature of the American Constitution afloat in the Pacific, start a brand new republic to take its place among the free nations of the world. It seemed to me a great task to which we had addressed ourselves."\n\n"But I have thought some more, since then, and I have read carefully the treaty of Paris [which ended the Spanish-American War], and I have seen that we do not intend to free, but to subjugate the people of the Philippines. We have gone there to conquer, not to redeem."\n\nFrom 1901 until his death in 1910, Twain was vice-president of the American Anti-Imperialist League, which believed that there is a fundamental contradiction between the ideas upon which the American republic was founded and designs for colonial expansion being advanced by the nation's contemporary political leaders.`,
         link: 'https://en.wikipedia.org/wiki/American_Anti-Imperialist_League',
         infoSrc: 'https://en.wikipedia.org/wiki/Mark_Twain#Anti-imperialist'
+      },
+      {
+        category: 'Birthdays',
+        date: 'November 30th, 1936',
+        title: 'Abbie Hoffman (1936 - 1989)',
+        imgSrc: require('./assets/eventPhotos/Individuals/abbieHoffman.jpg'),
+        description: `Abbot "Abbie" Howard Hoffman, born on this day in 1936, was an American political and social activist, anarchist, socialist, and revolutionary who co-founded the Youth International Party ("Yippies").\n\nHoffman was arrested and tried for conspiracy and inciting to riot as a result of his role in anti-Vietnam War protests, which were met by a violent police riot during the 1968 Democratic National Convention in Chicago. He was among the group that came to be known as the Chicago Eight, which included future California state senator Tom Hayden and Black Panther Party co-founder Bobby Seale.\n\nAs a prominent dissident and leader of the counter-culture movement, Hoffman's personal life drew a great deal of surveillance from the Federal Bureau of Investigation - its file on him was 13,262 pages long. He committed suicide in 1989.`,
+        link: 'https://www.britannica.com/biography/Abbie-Hoffman',
+        infoSrc: 'https://en.wikipedia.org/wiki/Abbie_Hoffman'
       },
     ],
     'Assassinations': [
