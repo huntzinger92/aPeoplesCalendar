@@ -25,7 +25,7 @@ export class CalendarDisplay extends React.Component {
     this.handleExpandCollapse = this.handleExpandCollapse.bind(this);
 
     //this.colorScheme = {'Revolution': '#eb8f8f', 'Rebellion': '#ebbd8f', 'Labor': '#ceeb8f', 'Birthdays': '#c38feb', 'Assassinations': '#8f91eb', 'Other': '#b5c4b9'}
-    this.colorScheme = {'Revolution': '#de4d43', 'Rebellion': '#de4d43', 'Labor': '#de4d43', 'Birthdays': '#de4d43', 'Assassinations': '#de4d43', 'Other': '#de4d43'};
+    this.colorScheme = {'Revolution': '#de5950', 'Rebellion': '#de5950', 'Labor': '#de5950', 'Birthdays': '#de5950', 'Assassinations': '#de5950', 'Other': '#de5950'};
   };
 
   backHandler = BackHandler.addEventListener('hardwareBackPress', () => {

@@ -9,24 +9,36 @@ export function About() {
       <View style={{marginLeft: 'auto', marginRight: 'auto', marginBottom: 15, paddingBottom: 3, borderBottomWidth: 1}}>
         <StyledText text="A People's Calendar" style={{fontSize: 24,}}/>
       </View>
+      <View style={styles.aboutHeaderWrapper}>
+        <StyledText
+          text="About Us"
+          style={styles.aboutHeader}
+        />
+      </View>
       <StyledText
         text="A People's Calendar (aPC) seeks to promote the worldwide history of working class movements and liberation struggles."
         style={styles.aboutText}
       />
       <StyledText
-        text="Unfortunately, this history is often overwhelming in complexity and suppressed/obscured by various oppressive forces."
+        text="While we have no illusions about this calendar being comprehensive, our hope is that aPC makes this complex and multi-faceted history a little easier to digest. Each event page is just a short summary of the event with sources provided so the reader can easily explore the topic further."
         style={styles.aboutText}
       />
       <StyledText
-        text="While in no way comprehensive, it is my hope that this project makes this history easier to approach and study. Although I do my best to fact-check the summaries of each event, this calendar is ultimately meant to provide a jumping off point for users to research the history and form their own opinions."
+        text="The figures and events included here are not presented with our endorsement, but shared with the understanding that the history of all liberation struggle is worth knowing - both its successes and its failures."
+        style={styles.aboutText}
+      />
+      <View style={[styles.aboutHeaderWrapper, {marginTop: 5,}]}>
+        <StyledText
+          text="How to Help"
+          style={styles.aboutHeader}
+        />
+      </View>
+      <StyledText
+        text="Notice an important event, person, or organization missing from the calendar? Use the contact button below to make a suggest an addition."
         style={styles.aboutText}
       />
       <StyledText
-        text="The figures and events included here are not presented with my endorsement, but shared with the understanding that the history of all working class struggle is worth knowing, in both its successes and its failures."
-        style={styles.aboutText}
-      />
-      <StyledText
-        text="I am always looking out for important events, people, and texts that are missing from the calendar. Feel free to contact me with suggestions, and please consider donating to help make such additions and upkeep happen more quickly."
+        text="Also, this project is open source and we welcome volunteers who would like to contribute, whether it's something as simple as fixing typos or as complex as adding major features. You can read more about how to support us by going to our website (linked below)."
         style={styles.aboutText}
       />
       <TouchableOpacity style={styles.contactButton} onPress={() => Linking.openURL('https://expo.io/@tts2p4/aPeoplesCalendar')}>

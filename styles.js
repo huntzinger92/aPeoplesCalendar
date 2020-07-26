@@ -12,8 +12,21 @@ export const styles = StyleSheet.create({
     backgroundColor: 'white',
     padding: 15,
   },
+  aboutHeaderWrapper: {
+    backgroundColor: '#de5950',
+    borderWidth: 1,
+    borderRadius: 2,
+    padding: 3,
+    marginBottom: 8,
+  },
+  aboutHeader: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    marginBottom: 5,
+  },
   aboutText: {
-    fontSize: 16,
+    fontSize: 15,
     marginBottom: 4,
   },
   allEventsWrapper: {

@@ -277,7 +277,7 @@ export default class App extends React.Component {
         <TouchableOpacity style={styles.header} onPress={() => this.toggleDatePicker()}>
           <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 25, color: 'white'}}/>
         </TouchableOpacity>
-        <View style={styles.searchBar}>
+        {this.state.display !== 'about' && <View style={styles.searchBar}>
           <TouchableOpacity
             onPress={() => this.searchEvents()}
             style={styles.iconContainer}
@@ -292,7 +292,7 @@ export default class App extends React.Component {
             onSubmitEditing={() => this.searchEvents()}
             onFocus= {() => this.setState({searchValue : ''})}
           />
-        </View>
+        </View>}
         <ScrollView style={styles.everythingNotFooter} ref={(c) => {this.scrollViewRef = c}}>
           <View style={styles.mainContent}>
             {this.state.display === 'main' && <CalendarDisplay appDisplay={this.state.display} date={this.today} events={this.state.events} todayString={this.todayString} ref={this.calendarDisplayRef} scrollToTop={this.scrollToTop}/>}

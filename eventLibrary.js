@@ -14553,7 +14553,7 @@ export const eventLibrary = {
       {
         category: 'Revolution',
         date: 'July 26th, 1953',
-        title: 'Cuban Revolution (1953-58)',
+        title: 'Cuban Revolution (1953 - 1958)',
         imgSrc: require('./assets/eventPhotos/Events/cubanRevolution.jpg'),
         description: `The Cuban Revolution was an armed revolt conducted by Fidel Castro's revolutionary 26th of July Movement and its allies against the U.S.-backed dictatorship of Cuban President Fulgencio Batista. The revolution began on this day in 1953, and continued sporadically until the rebels finally ousted Batista on the 31st of December, 1958, replacing his government with a revolutionary socialist state.\n\nThe Cuban Revolution had powerful domestic and international repercussions. In particular, it made Cuba's relationship with the United States significantly more antagonistic. In the immediate aftermath of the revolution, Castro's government began a program of nationalization, centralization of the press and political consolidation that transformed Cuba's economy and civil society. The revolution also ushered in an era of Cuban intervention in foreign military conflicts, perhaps most notably siding with anti-apartheid fighters against the government in South Africa (1962-74).\n\nToday is celebrated in Cuba as the Day of the Revolution (Dia de la Revolución). Castro's 26th of July Movement later reformed along communist lines, becoming the Communist Party in October of 1965.`,
         link: 'https://www.jacobinmag.com/2015/06/cuban-revolution-fidel-che-raul-castro/',
