@@ -1106,7 +1106,7 @@ export const eventLibrary = {
         date: 'January 16th, 1933',
         title: 'Herndon Addresses the Court (1933)',
         imgSrc: require('./assets/eventPhotos/Individuals/angeloHerndon.jpg'),
-        description: `Angelo Herndon (1933 - 1997) was an African-American labor organizer arrested and convicted of insurrection after attempting to organize black and white industrial workers in 1932 in Atlanta, Georgia. His case went to the Supreme Court twice, and Herndon was freed when the insurrection charge was ruled unconstitutional in 1937.\n\nOn this day in 1933, Hernon addressed the court. Recalling his imprisonment, Herndon wrote:\n\n"They questioned me in great detail. Did I believe that the bosses and government ought to pay insurance to unemployed workers? That Negroes should have complete equality with white people?...Did I feel that the working-class could run the mills and mines and government? That it wasn't necessary to have bosses at all? I told them I believed all of that - and more."\n\nAddressing the court directly, Herndon stated "You may do what you will with Angelo Herndon. You may indict him. You may put him in jail. But there will come thousands of Angelo Herndons. If you really want to do anything about the case, you must go out and indict the social system. But this you will not do, for your role is to defend the system under which the toiling masses are robbed and oppressed.\n\n...You may succeed in killing one, two, even a score of working-class organizers. But you cannot kill the working class..."`,
+        description: `Angelo Herndon (1933 - 1997) was an African-American labor organizer arrested and convicted of insurrection after attempting to organize black and white industrial workers in 1932 in Atlanta, Georgia. His case went to the Supreme Court twice, and Herndon was freed when the insurrection charge was ruled unconstitutional in 1937.\n\nOn this day in 1933, Hernon addressed the court directly. Here is an excerpt of what he said:\n\n"You may do what you will with Angelo Herndon. You may indict him. You may put him in jail. But there will come thousands of Angelo Herndons. If you really want to do anything about the case, you must go out and indict the social system. But this you will not do, for your role is to defend the system under which the toiling masses are robbed and oppressed.\n\n...You may succeed in killing one, two, even a score of working-class organizers. But you cannot kill the working class..."`,
         link: 'https://en.wikipedia.org/wiki/Angelo_Herndon',
         infoSrc: 'https://www.blackpast.org/african-american-history/1932-angelo-herndon-addresses-his-jury/'
       },
@@ -2728,13 +2728,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 9th, 2000',
+        title: 'Boeing Employees Strike (2000)',
+        imgSrc: require('./assets/eventPhotos/Events/boeingStrike.jpg'),
+        description: `On this day in 2000, 19,000 of Boeing Company engineering and technical employees walked off the job in what historian Howard Zinn called "the biggest white-collar strike in the nation's history".\n\nThe strike was the result of a breakdown in negotiations between Boeing and the Society of Professional Engineering Employees in Aerospace (SPEAA). Striking workers said the protest wasn't just about asking for more money, it was also to "improve the culture of the company and chart a new course for organized labor".\n\nWhen asked if he thought the strike had a lasting impact on the legacy of labor unions, Charlie Bofferding, Executive Director of SPEAA, stated "I'd have to say certainly less than we would have liked...At that time, what SPEEA was going for was an attempt to rebrand the labor movement from the people who beat up bad management to the people who made working in America better for everyone. I don't know that that message stuck."`,
+        link: 'https://money.cnn.com/2000/02/09/companies/boeing/',
+        infoSrc: 'https://www.knkx.org/post/did-boeing-engineers-strike-2000-succeed-long-run'
       },
     ],
     'Birthdays': [
@@ -3138,7 +3138,7 @@ export const eventLibrary = {
         date: 'February 15th, 1968',
         title: 'Folsom Prison Strike (1968)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: `On this day in 1968, one fifth of San Quentin’s prison population of 3900 risked the Warden’s threat of an additional year behind bars by returning to their cells after breakfast, engaging in a work stoppage. One of the main grievances of the convicts was their inability to voice complaints about brutlity from the prison guards.\n\nPrison authorities claimed that the strike was a failure and that there was only a "sick call" only slightly larger than normal, however reports from prisoners themselves indicated more than seven hundred went on strike the first day. The strike quickly grew in proportion - just a few days after it began, more than 80% of the prison population were refusing to work.\n\nThe prison warden declared a "general lockup", which confined all prisoners to their cells, and claimed the strike was over. Despite this, the prisoners considered their protest a victory, as prison work had successfully been stopped, and without the violence of other prison uprisings elsewhere.`,
+        description: `On this day in 1968, one fifth of San Quentin's prison population of 3900 risked the Warden's threat of an additional year behind bars by returning to their cells after breakfast, engaging in a work stoppage. One of the main grievances of the convicts was their inability to voice complaints about brutlity from the prison guards.\n\nPrison authorities claimed that the strike was a failure and that there was only a "sick call" only slightly larger than normal, however reports from prisoners themselves indicated more than seven hundred went on strike the first day. The strike quickly grew in proportion - just a few days after it began, more than 80% of the prison population were refusing to work.\n\nThe prison warden declared a "general lockup", which confined all prisoners to their cells, and claimed the strike was over. Despite this, the prisoners considered their protest a victory, as prison work had successfully been stopped, and without the violence of other prison uprisings elsewhere.`,
         link: 'https://voices.revealdigital.org/?a=d&d=BGJFHJH19680223.1.2&e=-------en-20--1--txt-txIN---------------1',
         infoSrc: 'https://voices.revealdigital.org/?a=d&d=BGJFHJH19680223.1.2&e=-------en-20--1--txt-txIN---------------1'
       },
@@ -3268,7 +3268,7 @@ export const eventLibrary = {
         date: 'February 16th, 1976',
         title: 'Leaked Pike Committee Report Published (1976)',
         imgSrc: require('./assets/eventPhotos/Events/pikeCommittee.jpg'),
-        description: `The Pike Committee was a House committee that investigated illegal activities by the U.S. Central Intelligence Agency (CIA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA). The Pike Committee conducted much of its investigation while its Senate counterpart "Church Committee," conducted its own investigation into the actions of the same groups.\n\nUnlike the concluding report of the Church Committee, which was eventually released to the public in the face of Executive Branch opposition to its release, the Pike Committee report was intended to be kept secret from the American public. On this day in 1976, the newspaper "Village Voice" published excerpts of the Pike Committee Report under the headline "The CIA Report the President Doesn’t Want You to Read".\n\nA link to this Village Voice article is provided below, under "Source".`,
+        description: `The Pike Committee was a House committee that investigated illegal activities by the U.S. Central Intelligence Agency (CIA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA). The Pike Committee conducted much of its investigation while its Senate counterpart "Church Committee," conducted its own investigation into the actions of the same groups.\n\nUnlike the concluding report of the Church Committee, which was eventually released to the public in the face of Executive Branch opposition to its release, the Pike Committee report was intended to be kept secret from the American public. On this day in 1976, the newspaper "Village Voice" published excerpts of the Pike Committee Report under the headline "The CIA Report the President Doesn't Want You to Read".\n\nA link to this Village Voice article is provided below, under "Source".`,
         link: 'https://en.wikipedia.org/wiki/Pike_Committee',
         infoSrc: 'https://www.villagevoice.com/1976/02/16/the-cia-report-the-president-doesnt-want-you-to-read/'
       },
@@ -5841,13 +5841,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 24th, 1999',
+        title: 'NATO Bombing of Yugoslavia Begins (1999)',
+        imgSrc: require('./assets/eventPhotos/Events/natoYugoslavBombing.jpg'),
+        description: `The NATO bombing of Yugoslavia was the North Atlantic Treaty Organisation's (NATO) military operation against the Federal Republic of Yugoslavia during the Kosovo War. The air strikes began on this day in 1999 and lasted until June 10th that year.\n\nThe bombing campaign was very controversial, with critics calling the action "illegitimate" and a "war crime". Supporters for the campaign claimed the bombing was necessary to stop a genocide of ethnic Albanians in Kosovo and to remove Slobodan Milošević from power, although claims made by the Clinton administration along these lines were later found to be highly exaggerated.\n\nThe bombing campaign killed 1,500 people, approximately 500 of whom were civilians, and damaged hospitals, schools, cultural monuments, and private businesses alongside barracks and military installations. Prominent U.S. critic Noam Chomsky has argued that the main objective of the NATO intervention was to integrate Yugoslavia into the Western neoliberal social and economic system.`,
+        link: 'https://chomsky.info/200005__/',
+        infoSrc: 'https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia'
       },
     ],
   },
@@ -6572,13 +6572,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'April 4th, 2000',
+        title: 'Wesleyan Sit-In For Janitor Pay (2000)',
+        imgSrc: require('./assets/eventPhotos/Events/uslac.jpg'),
+        description: `From the mid-1990s into the early 2000s, a wave of economic justice activism swept through college campuses in the United States, spurred in large part by the global justice movement’s spotlighting of corporate malfeasance in the United States and especially in the global South. Some students in this period chose to campaign for living wages, unionization, and expanded benefits for their campuses' workers, who were often paid significantly less than other university staff.\n\nOn this day in 2000, 24 members of United Student Labor-Action Coalition at Wesleyan (USLAC) marched into Wesleyan’s Admissions Office and refused to leave until University President Doug Bennet agreed to pay for the wage increases and benefits that Initial, the contractor used by Wesleyan to employ janitors, declined to provide.\n\nThis action was the culmination of protests and petitions that had not succeeded in changing university policy. Thirty-three hours after the building occupation began, President Bennet contacted Initial, the contractor used by Wesleyan to employ janitors, and offered to pay for a wage increase as well as paid vacations for the school's cleaning staff. Initial agreed and USLAC, declaring victory, ended the sit-in.`,
+        link: 'https://nvdatabase.swarthmore.edu/content/wesleyan-student-labor-coalition-wins-living-wages-and-unionization-campus-janitors-1999-200',
+        infoSrc: 'https://nvdatabase.swarthmore.edu/content/wesleyan-student-labor-coalition-wins-living-wages-and-unionization-campus-janitors-1999-200'
       },
     ],
     'Labor': [
@@ -7033,7 +7033,7 @@ export const eventLibrary = {
         date: 'April 10th, 1926',
         title: 'Johnnie Tillmon (1926 - 1995)',
         imgSrc: require('./assets/eventPhotos/Individuals/johnnieTillmon.jpg'),
-        description: `Johnnie Tillmon, born on this day in 1926, was a welfare rights activist. In 1963 she became ill and was encouraged to begin receiving welfare, having six children to feed as a single mother. Seeing how people on welfare were treated, she organized those on welfare in the housing project, and in 1963 founded ANC (Aid to Needy Children) Mothers Anonymous, which was one of the first grassroots welfare mothers’ organizations.\n\nThis organization later became part of the National Welfare Rights Organization (NWRO), with Tillmon becoming the first chair of the NWRO. In 1972, she became its executive director when George Wiley resigned. Wiley had been trying to mobilize the working poor, whereas Tillmon tried to align with the feminist movement.\n\nTillmon's 1972 essay, "Welfare Is a Woman's Issue," which was published in the women's maganize "Ms.", emphasized women's right to adequate income, regardless of whether they worked in a factory or at home raising children. The National Union of the Homeless used what was called a "Johnnie Tillmon model" of organizing, named after her.`,
+        description: `Johnnie Tillmon, born on this day in 1926, was a welfare rights activist. In 1963 she became ill and was encouraged to begin receiving welfare, having six children to feed as a single mother. Seeing how people on welfare were treated, she organized those on welfare in the housing project, and in 1963 founded ANC (Aid to Needy Children) Mothers Anonymous, which was one of the first grassroots welfare mothers' organizations.\n\nThis organization later became part of the National Welfare Rights Organization (NWRO), with Tillmon becoming the first chair of the NWRO. In 1972, she became its executive director when George Wiley resigned. Wiley had been trying to mobilize the working poor, whereas Tillmon tried to align with the feminist movement.\n\nTillmon's 1972 essay, "Welfare Is a Woman's Issue," which was published in the women's maganize "Ms.", emphasized women's right to adequate income, regardless of whether they worked in a factory or at home raising children. The National Union of the Homeless used what was called a "Johnnie Tillmon model" of organizing, named after her.`,
         link: 'https://www.rapereliefshelter.bc.ca/learn/resources/welfare-womens-issue-johnnie-tillmon',
         infoSrc: 'https://en.wikipedia.org/wiki/Johnnie_Tillmon'
       },
@@ -7569,13 +7569,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'April 18th, 2001',
+        title: 'Harvard Living Wage Sit-In (2001)',
+        imgSrc: require('./assets/eventPhotos/Events/harvardSitin.jpg'),
+        description: `On this day in 2001, 46 demonstrators at Harvard University, carrying sleeping bags, computers and a week's supply of food, walked into Massachusetts Hall, sat down in the corridor, and refused to budge until the school agreed to give its lowest-paid workers a "living wage." The event was a culmination of years of activism at Harvard to try and get the richest university in the world to pay all of its workers a living wage.\n\nThe sit-in ended after 21 days (the longest in Harvard history) when Harvard President Neil L. Rudenstine announced the formation of a University-wide committee to investigate the "principles and policies" regarding low paid and contract university workers. No non-unionized or non-management workers served on the committee, and those that did were outnumbered 3-1 by faculty and students.`,
+        link: 'https://www.thecrimson.com/article/2011/12/1/2001-occupy/',
+        infoSrc: 'https://www.washingtonpost.com/archive/politics/2001/05/05/harvard-sit-in-for-living-wage-divides-campus/8a5ede05-73d9-47ed-abae-ddd44658507f/'
       },
     ],
     'Labor': [
@@ -9172,13 +9172,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'May 10th, 2000',
+        title: 'Madeleine Albright Berkeley Protest (2000)',
+        imgSrc: require('./assets/eventPhotos/Events/berkeleyAlbright.jpg'),
+        description: `On this day in 2000, protesters disrupted the commencement speech of then Secretary of State Madeleine Albright in protest of United States sanctions against Iraq. In a recent interview, Albright had stated that the hundreds of thousands of Iraqi children predicted to die from the policy was "worth it" to advance U.S. policy in the region.\n\nPalestinian Fadia Rafeedie was initially scheduled to speak before Albright, however Albright's speech was moved first and she immediately left the building following her speech. When it was Rafeedie's time to speak, she put aside her prepared remarks and spoke out against U.S. policy towards Iraq and the devastation it was causing on the population there. She ended her speech by saying this:\n\n"I want to end my speech with a slogan that hangs over my bed in Arabic. It says, 'La tastaw Hishu tareeq el-Haq, min qilit es-sa'ireen fihi' and that translates into, 'Fear not the path of truth for the lack of people walking on it.' I think our future is going to be the future of truth, and we're going to walk on that path, and we're going to fill it with travelers. Thank you very much."`,
+        link: 'https://www.sfgate.com/opinion/openforum/article/What-I-Wanted-to-Convey-To-My-Fellow-Cal-Graduates-3240360.php',
+        infoSrc: 'https://www.berkeley.edu/news/features/2000/05/11_fadia.html'
       },
     ],
   },
@@ -10460,7 +10460,7 @@ export const eventLibrary = {
         date: 'May 29th, 1969',
         title: 'Cordobazo Uprising (1969)',
         imgSrc: require('./assets/eventPhotos/Events/cordobazo.jpg'),
-        description: `The Cordobazo was a civil uprising in the city of Córdoba, Argentina that began on this day in 1969, under the military dictatorship of General Juan Carlos Onganía. The labor union CGT de los Argentinos, headed in Cordoba by Agustín Tosco, alled for National strike on May 30, 1969, but in Cordoba they decided to do a general strike one day earlier.\n\nThe strike came in the wake of mass repression and acts of state violence against student and union activists in Argentina. After the police opened fire on thousands of protesters, killing one worker named Maximo Mena, the strike escalated into a citywide revolt, leading to widespread destruction of property and seizing of city spaces.\n\nThe uprising was an important moment in working class Argentinian history, and has been mythologized by various left parties there.`,
+        description: `The Cordobazo was a civil uprising in the city of Córdoba, Argentina that began on this day in 1969, under the military dictatorship of General Juan Carlos Onganía. The labor union CGT de los Argentinos, headed in Cordoba by Agustín Tosco, alled for National strike on May 30th, 1969, but in Cordoba they decided to do a general strike one day earlier.\n\nThe strike came in the wake of mass repression and acts of state violence against student and union activists in Argentina. After the police opened fire on thousands of protesters, killing one worker named Maximo Mena, the strike escalated into a citywide revolt, leading to widespread destruction of property and seizing of city spaces.`,
         infoSrc: 'https://libcom.org/library/working-class-protest-popular-revolt-urban-insurrection-argentina-1969-cordobazo',
         link: 'https://en.wikipedia.org/wiki/Cordobazo'
       },
@@ -10731,13 +10731,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 1st, 1996',
+        title: 'Stand for Children Rally (1996)',
+        imgSrc: require('./assets/eventPhotos/Events/standForChildren.jpg'),
+        description: `On this day in 1996, over 300,000 people rallied in Washington, D.C. for "Stand for Children Day" at the Lincoln Memorial. This event was the largest demonstration in support of children in U.S. history, and led directly to the founding of the advocacy organization Stand for Children (SFC). Rosa Parks spoke at the rally, stating that "If I can sit down for justice, you can stand up for children."\n\nFollowing their work at the rally, Jonah Edelman and Eliza Leighton founded SFC as a vehicle to advocate for the nation's children. The organization has, however, faced criticism for its ultra-wealthy donors and board members, as well as its opposition to teacher's unions. Susan Barrett, a former volunteer co-leader of a SFC team in Portland, Oregon, resigned from her position with SCF due to concerns along these lines.`,
+        link: 'https://en.wikipedia.org/wiki/Stand_for_Children',
+        infoSrc: 'https://www.nytimes.com/1996/06/01/us/thousands-to-rally-in-capital-on-children-s-behalf.html'
       },
     ],
   },
@@ -11686,13 +11686,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 15th, 1990',
+        title: 'Justice for Janitors Strikers Attacked (1990)',
+        imgSrc: require('./assets/eventPhotos/Events/justiceForJanitorsStrike.jpg'),
+        description: `Justice for Janitors (JfJ) is a social movement organization that fights for the rights of janitors (caretakers and cleaners) across the US and Canada. Justice for Janitors includes more than 225,000 janitors in at least 29 cities in the United States and at least four cities in Canada. Members fight for better wages, better conditions, improved health-care, and full-time opportunities.\n\nOn this day in 1990, the Los Angeles Police Department (LAPD) attacked immigrant janitors who were striking for the right to organize in Century City, Los Angeles. Two women miscarried, dozens were hospitalized, and 60 strikers and supporters were jailed. Police initially claimed to be defending themselves, however TV footage was aired that undermined this claim.\n\nDespite the violence, voted unanimously to return to the scene of the violence and continue their protest. Janitors their eventually won their union, doubling their pay and benefits. This victory gave a lot of momentum to the JfJ movement and led to successful protests and organizing of janitors around the country.`,
+        link: 'https://en.wikipedia.org/wiki/Justice_for_Janitors',
+        infoSrc: 'https://www.thenation.com/article/archive/25-years-later-lessons-from-the-organizers-of-justice-for-janitors/'
       },
     ],
     'Birthdays': [
@@ -15194,13 +15194,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 4th, 1997',
+        title: 'UPS Strike (1997)',
+        imgSrc: require('./assets/eventPhotos/Events/upsStrike.jpg'),
+        description: `The United Parcel Service (UPS) strike, led by International Brotherhood of Teamsters (IBT) President Ron Carey, began on this day in 1997 and involved over 185,000 teamsters. The strike effectively shut down UPS operations for 16 days and cost UPS hundreds of millions of dollars.\n\nWorker grievances centered around UPS's use of part-time workers, which were paid less than full-time workers and constituted over 2/3rds of the workforce - one slogan was "Half a Job is Not Enough". The strike ended in victory for the union, resulting in a new contract that increased their wages, secured their existing benefits, and gave increased job security.`,
+        link: 'https://www.labornotes.org/2017/08/1997-ups-strike-beating-big-business-business-unionism',
+        infoSrc: 'https://en.wikipedia.org/wiki/United_Parcel_Service_strike_of_1997'
       },
     ],
     'Birthdays': [
@@ -15849,8 +15849,17 @@ export const eventLibrary = {
         title: 'Fidel Castro (1926 - 2016)',
         imgSrc: require('./assets/eventPhotos/Individuals/fidelCastro.png'),
         description: `Fidel Alejandro Castro Ruz was a Cuban revolutionary and politician who served as Prime Minister of Cuba from 1959 to 1976 and President from 1976 to 2008. Ideologically a Marxist-Leninist and Cuban nationalist, he also served as the First Secretary of the Communist Party of Cuba from 1961 until 2011. Under his administration the Republic of Cuba became a one-party communist state; industry and business were nationalized, and state socialist reforms were implemented throughout society.\n\nThe longest-serving non-royal head of state in the 20th and 21st centuries, Castro polarized opinion throughout the world. His supporters view him as a champion of socialism and anti-imperialism whose revolutionary regime advanced economic and social justice while securing Cuba's independence from U.S. hegemony. Critics view him as a tyrannical dictator whose administration oversaw human-rights abuses, the exodus of many Cubans, and the impoverishment of the country's economy.`,
-        link: 'https://en.wikipedia.org/wiki/Fidel_Castro',
+        link: 'https://www.marxists.org/history/cuba/archive/castro/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Fidel_Castro'
+      },
+      {
+        category: 'Birthdays',
+        date: 'August 13th, 1933',
+        title: 'Joycelyn Elders (1933 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/joycelynElders.jpg'),
+        description: `Minnie Joycelyn Elders, born on this day in 1933, is an American pediatrician and public health administrator who served as Surgeon General of the United States from 1993 to 1994. Elders was the first African American to serve as Surgeon General and is best known for her frank discussion of her views on controversial issues such as drug legalization, masturbation, and distributing contraception in schools.\n\nAlthough she faced censure from the Clinton administration for advocating the legalization of drugs, it was her sex positive view on masturbation that led to her removal from office. After stating "I think that [masturbation] is part of human sexuality, and perhaps it should be taught", Clinton forced her to resign as Surgeon General in December of 1994. She is currently a professor emerita of pediatrics at the University of Arkansas for Medical Sciences.`,
+        link: 'https://cfmedicine.nlm.nih.gov/physicians/biography_98.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Joycelyn_Elders'
       },
     ],
     'Assassinations': [
@@ -17734,7 +17743,7 @@ export const eventLibrary = {
         date: 'September 9th',
         title: 'Plowshares Movement Begins (1980)',
         imgSrc: require('./assets/eventPhotos/Events/plowshares8.jpg'),
-        description: `The Plowshares Movement is an anti-nuclear weapons and Christian pacifist movement that advocates active resistance to war. The group often practices a form of symbolic protest that involves the damaging of weapons and military property. The movement takes its name from the idea of beating swords to ploughshares (converting means of violence into peaceful tools) in the Book of Isaiah.\n\nThe movement's first act happened on this day in 1980, when eight activists entered the General Electric Re-entry Division building (where missiles and military vehicles were made), smashed the cones of two warheads with hammers, poured their own blood on documents, and prayed for peace.\n\nKnown as the "Plowshare Eight", they were arrested and charged with more than ten different felony and misdemeanor counts. Plowshare acts of civil disobedience continue into the modern day, with a widow of one of the original eight - Elizabeth McAlister - getting arrested in 2018 for direct action at Kings Bay Naval Submarine Base.`,
+        description: `The Plowshares Movement is an anti-nuclear weapons and Christian pacifist movement that advocates active resistance to war. The group often practices a form of symbolic protest that involves the damaging of weapons and military property. The movement takes its name from the idea of beating swords to ploughshares (converting means of violence into peaceful tools) in the Book of Isaiah.\n\nThe movement's first act happened on this day in 1980, when eight activists entered the General Electric Re-entry Division building (where missiles and military vehicles were made), smashed the cones of two warheads with hammers, poured their own blood on documents, and prayed for peace.\n\nKnown as the "Plowshare Eight", they were arrested and charged with more than ten different felony and misdemeanor counts. Plowshare acts of civil disobedience continue into the modern day, with a widow of one of the original eight, Elizabeth McAlister, getting arrested in 2018 for direct action at Kings Bay Naval Submarine Base.`,
         link: 'https://en.wikipedia.org/wiki/Plowshares_movement',
         infoSrc: 'https://wagingnonviolence.org/2010/09/the-plowshares-8-thirty-years-on/'
       },
@@ -20149,7 +20158,7 @@ export const eventLibrary = {
         date: 'October 13th, 1923',
         title: 'Dorothy Bolden (1923 - 2005)',
         imgSrc: require('./assets/eventPhotos/Individuals/dorothyLeeBolden.jpg'),
-        description: `Dorothy Lee Bolden, born on this day in 1923, was the founder of the National Domestic Worker's Union of America and worked to fight for women's rights and bring segregation to an end.  Martin Luther King Jr. was an early influence in Bolden’s life, who was her neighbor at the time of the Civil Rights Movement.\n\nShe began working as a domestic worker at the age of nine and would eventually utilize her past experiences to form the Domestic Worker's Union in Atlanta, Georgia. Through the Domestic Worker's Union, had over 13,000 women members throughout the United States and won better pay and working conditions for them. Bolden was also responsible for registering thousands of African Americans to vote.`,
+        description: `Dorothy Lee Bolden, born on this day in 1923, was the founder of the National Domestic Worker's Union of America and worked to fight for women's rights and bring segregation to an end.  Martin Luther King Jr. was an early influence in Bolden's life, who was her neighbor at the time of the Civil Rights Movement.\n\nShe began working as a domestic worker at the age of nine and would eventually utilize her past experiences to form the Domestic Worker's Union in Atlanta, Georgia. Through the Domestic Worker's Union, had over 13,000 women members throughout the United States and won better pay and working conditions for them. Bolden was also responsible for registering thousands of African Americans to vote.`,
         link: 'https://www.blackpast.org/african-american-history/dorothy-lee-bolden-1924-2005/',
         infoSrc: 'https://en.wikipedia.org/wiki/Dorothy_Lee_Bolden'
       },
@@ -20380,13 +20389,22 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 16th, 1994',
+        title: 'Mass Protest Against Prop 187 (1994)',
+        imgSrc: require('./assets/eventPhotos/Events/prop187Protest.jpg'),
+        description: `On this day in 1994, one of the largest mass protests in Los Angeles' history began when an estimated 70,000 demonstrators marched across the city in opposition to Proposition 187, a ballot initiative known as "Save Our State" that prevented anyone (children and parents) from accessing public school, public healthcare, and public universities.\n\nAlthough the ballot initiative passed, public and legal pressure from opponents of Prop 187 led to a federal court order preventing enforcement of the measure. The law was finally killed in 1997, when it was finally declared unconstitutional in 1997. The political controversy surrounding the law led to widespread voter registration from the latino population, and is considered a major factor in California's subsequent shift away from the Republican Party.`,
+        link: 'https://laist.com/2019/11/06/proposition_187_what_you_need_to_know.php',
+        infoSrc: 'https://www.latimes.com/archives/la-xpm-1994-10-17-mn-51339-story.html'
+      },
+      {
+        category: 'Other',
+        date: 'October 16th, 1995',
+        title: 'Million Man March (1995)',
+        imgSrc: require('./assets/eventPhotos/Events/millionManMarch.jpg'),
+        description: `On this day in 1995, the Million Man March took place in Washington, D.C. Hundreds of thousands strong, the rally was a collaboration of many civil rights and black liberation groups, from the National Assocation for the Advancement of Colored People to the National of Islam, and its purpose was to "convey to the world a vastly different picture of the Black male".\n\nThe protest's events were broken down into several sessions on specific topics, including "Sankofa: Lessons from the Past Linkages to the Future" and "Atonement and Reconciliation". Many prominent civil rights activists spoke at the event, including Betty Shabazz (widow of Malcolm X), Dr. Cornel West, Rosa Parks, Maya Angelou, Rev. Benjamin Chavis, Jr., and Minister Louis Farrakhan.\n\nTwo years after the march, the Million Woman March was held in response to fears that the Million Man March had focused on black men to the exclusion of black women. Farrakhan held the 20th Anniversary of the "Million Man March: Justice or Else" on October 10th, 2015, in Washington, D.C.`,
+        link: 'https://www.blackpast.org/african-american-history/events-african-american-history/million-man-march-1995/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Million_Man_March'
       },
     ],
   },
@@ -21509,6 +21527,15 @@ export const eventLibrary = {
         link: 'https://www.theguardian.com/lifeandstyle/2010/oct/16/norman-morrison-vietnam-war-protest',
         infoSrc: 'https://en.wikipedia.org/wiki/Norman_Morrison'
       },
+      {
+        category: 'Rebellion',
+        date: 'November 2nd, 2007',
+        title: 'Plowshares Bangor Break-in (2007)',
+        imgSrc: require('./assets/eventPhotos/Events/bangorPlowshares.jpg'),
+        description: `On this day in 2009, five antinuclear peace activists who were part of the Plowshares movement broke into the Naval Base Kitsap in Bangor, Maine, a nuclear-submarine base on Hood Canal northwest of Bremerton. Their "Disarm Now Plowshares" protest was a symbolic disarming of one of the largest nuclear-weapons stockpiles in the United States.\n\nThe five activists cut a hole through the perimeter fence surrounding the Bangor submarine base and began walking toward the storage area for nuclear weapons, carrying hammers and vials of their own blood. After making it within 10 yards of where the nukes were stored, they were arrested by Marines at gunpoint.\n\nAfter being charged with conspiracy, trespass, destruction of property on a naval installation, and depredation of government property, the group was found guilty on December 13th, 2010. At sentencing, Judge Benjamin Settle considering releasing the defendants while they waited for their prison terms to begin, however all individuals refused and, while singing songs of peace, federal marshals escorted them out of the courtroom and into federal detention.`,
+        link: 'https://en.wikipedia.org/wiki/Plowshares_movement',
+        infoSrc: 'https://www.historylink.org/File/20513'
+      },
     ],
     'Labor': [
       {
@@ -22601,7 +22628,7 @@ export const eventLibrary = {
         date: 'November 17th, 1939',
         title: 'Elizabeth McAlister (1939 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/elizabethMcAlister.jpg'),
-        description: `Elizabeth McAlister, born on this day in 1939, is an American peace activist and former nun of the Religious of the Sacred Heart of Mary. She was married to Philip Berrigan (1923 - 2002), a fellow Catholic activist, and both were excommunicated from the Catholic Church. Of her 29 years of marriage to Philip, 11 of them were spent separated because one of them was in prison.\n\nOn April 4, 2018, McAlister and six other people (known as the Kingsbay Plowshare Seven) entered the base and performed symbolic acts of disarmament. October 24, 2019 McAlister was convicted on four counts in federal court in Brunswick, GA for entering and holding a symbolic disarming of the Trident submarine’s nuclear weapons. The seven defendants, as of October 2019, face a possible 20 years in prison.`,
+        description: `Elizabeth McAlister, born on this day in 1939, is an American peace activist and former nun of the Religious of the Sacred Heart of Mary. She was married to Philip Berrigan (1923 - 2002), a fellow Catholic activist, and both were excommunicated from the Catholic Church. Of her 29 years of marriage to Philip, 11 of them were spent separated because one of them was in prison.\n\nOn April 4, 2018, McAlister and six other people (known as the Kingsbay Plowshare Seven) entered the base and performed symbolic acts of disarmament. October 24, 2019 McAlister was convicted on four counts in federal court in Brunswick, GA for entering and holding a symbolic disarming of the Trident submarine's nuclear weapons. The seven defendants, as of October 2019, face a possible 20 years in prison.`,
         link: 'https://www.democracynow.org/2019/10/21/kingsbay_plowshares_seven_activists_trial',
         infoSrc: 'https://en.wikipedia.org/wiki/Elizabeth_McAlister'
       },
@@ -22694,6 +22721,15 @@ export const eventLibrary = {
         description: `On this day in 1909, President William Howard Taft sent U.S. warships to take position against the elected government of Nicaraguan President José Santos Zelaya. Taft's administration had close relations with U.S. corporations operating in Nicaragua. Those corporations were opposed to the way Zelaya defended the economic interests of his country and the region from exploitation by U.S. businesses.\n\nThe U.S. moved to remove President Zelaya after he executed two American citizens who had conspired to commit a revolution against the government. Despite the fact that Zelaya proposed a commission made up of Mexicans and Americans come to Nicaragua to investigate the executions, promising to resign if it found him guilty of any wrongdoing, President Taft ordered warships to approach both Nicaraguan coasts and marines to assemble in Panama.\n\nZelaya fled the country, stating that he would "give no pretext" to American hostilities. His successor José Madríz was eventually forced to resign by the American forces, and followed Zelaya into exile. Historian Stephen Kinzer has written the following about event:\n\n"This was the first time the United States government had explicitly orchestrated the overthrow of a foreign leader. In Hawaii, an American diplomat had managed the revolution, but without specific instructions from Washington. In Cuba, Puerto Rico, and the Philippines, American 'regime change' operations were part of a larger war. The overthrow of President Zelaya in Nicaragua was the first real American coup."`,
         link: 'https://libcom.org/history/us-orchestrated-overthrow-nicaraguan-government-1910',
         infoSrc: 'https://www.zinnedproject.org/news/tdih/warships-nicaragua/'
+      },
+      {
+        category: 'Other',
+        date: 'November 18th, 2007',
+        title: 'School of Americas Protest (2007)',
+        imgSrc: require('./assets/eventPhotos/Events/soaProtest.jpg'),
+        description: `On this day in 2007, a protest against the U.S. Army's School of the Americas (SOA) began when more than 10,000 demonstrators gathered outside the military training center at Fort Benning in Ohio.\n\nThe SOA is notorious for providing military training to graduates that later go on to commit atrocities in Latin America - its graduates have played a key role in the El Mozote Massacre in El Salvador, the St. Jean Bosco Massacre in Haiti, death squads in Honduras, and more.\n\nProtesters carried coffins to symbolize what deaths at the hands of former graduates, and eleven people were arrested and charged with criminal trespass. The demonstration has been staged annually since 1990 to call for the closure of what participants call the "School of Assassins".`,
+        link: 'https://en.wikipedia.org/wiki/Western_Hemisphere_Institute_for_Security_Cooperation',
+        infoSrc: 'https://www.seattletimes.com/nation-world/thousands-demand-army-shutter-school/'
       },
     ],
   },
@@ -23477,13 +23513,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 30th, 1999',
+        title: 'Seattle WTO Protests (1999)',
+        imgSrc: require('./assets/eventPhotos/Events/wtoSeattle.jpg'),
+        description: `The Seattle WTO protests, sometimes referred to as the Battle of Seattle, were a series of large protests that began on this day in 1999. Protesters surrounded the WTO Ministerial Conference, which was to be the launch of a new millennial round of trade negotiations. The negotiations were quickly overshadowed by the massive street protests outside the hotels and the Washington State Convention and Trade Center, estimated to have more than 40,000 participants.\n\nThe protests were a mix of permitted rallies and marches (involving the ALF-CIO) and direct action from anarchists and other political radicals. By noon, the opening ceremony of the conference had been canceled due to protest control and vandalism of intersections downtown, and that night the mayor declared a state of emergency. Police began gassing and arresting people indiscriminately, sometimes targeting bystanders who weren't participating in the protests. By December 1st, 500 people had been jailed.\n\nTo many in North American anarchist and radical circles, the Seattle WTO riots, protests, and demonstrations were viewed as a success - prior to the "Battle of Seattle", almost no mention was made of "antiglobalization" in the US media, while the protests were seen as having forced the media to report on 'why' anybody would oppose the WTO. Controversy over the city's response to the protests resulted in the resignation of the police chief of Seattle, Norm Stamper.`,
+        link: 'https://www.theatlantic.com/business/archive/2014/01/the-dark-side-of-globalization-why-seattles-1999-protesters-were-right/282831/',
+        infoSrc: 'https://en.wikipedia.org/wiki/1999_Seattle_WTO_protests'
       },
     ],
     'Labor': [
