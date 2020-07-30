@@ -1039,7 +1039,7 @@ export const eventLibrary = {
         title: 'MLK Jr. (1929 - 1968)',
         imgSrc: require('./assets/eventPhotos/Individuals/mlkJr.jpg'),
         description: `Martin Luther King Jr. was an American Christian minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. King is best known for advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi.\n\nOn October 14, 1964, King won the Nobel Peace Prize for combating racial inequality through nonviolent resistance. In 1965, he helped organize the Selma to Montgomery marches. In his final years, he expanded his focus to include opposition towards poverty, capitalism, and the Vietnam War.\n\nFor his activism, he was the target of multiple assassination attempts, arrested 23 times, and surveilled and harassed by the police. In particular, FBI Director J. Edgar Hoover harassed Dr. King by making him a target of COINTELPRO, a secret program where FBI agents spied on, infiltrated, and attempted to discredit "subversive" political movements.\n\nIn 1968, King and the Southern Christian Leadership Conference organized the "Poor People's Campaign" to address issues of economic justice. King traveled the country to assemble "a multiracial army of the poor" that would march on Washington to engage in nonviolent civil disobedience at the Capitol until Congress created an "economic bill of rights" for poor Americans.\n\nBefore the plans for the march could come to fruition, however, King was assassinated in Memphis, Tennessee while supporting striking black sanitation workers. James Earl Rey was convicted for the murder, but speculation of government involvement has persisted for decades after his death.`,
-        link: 'https://en.wikipedia.org/wiki/COINTELPRO',
+        link: 'https://kinginstitute.stanford.edu/publications/call-conscience-landmark-speeches-martin-luther-king-jr',
         infoSrc: 'https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.'
       },
     ],
@@ -1085,7 +1085,7 @@ export const eventLibrary = {
         title: 'Juan Sanchez (1900 - 1972)',
         imgSrc: require('./assets/eventPhotos/Individuals/juanSanchez.jpg'),
         description: `Juan López Sanchez was a Spanish construction worker, anarchist and member of the Confederación Nacional del Trabajo (CNT), and one of the founders of the Federación Sindicalista Libertaria. During the Spanish Civil War (1936-39) he was Minister of Commerce under Francisco Largo Caballero.\n\nAfter the fascists won the civil war, Sanchez spent several years in exile before returning to Spain where he lived without persecution and participated in the "vertical" trade union movement authorized by the dictatorship of General Francisco Franco.`,
-        link: 'https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_S%C3%A1nchez',
+        link: 'https://spartacus-educational.com/SPlopez.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_S%C3%A1nchez'
       },
     ],
@@ -1366,7 +1366,7 @@ export const eventLibrary = {
         title: 'Juan García Oliver (1901 - 1980)',
         imgSrc: require('./assets/eventPhotos/Individuals/juanGarcia.jpg'),
         description: `Juan García Oliver, born on this day in 1901, was a Spanish anarcho-syndicalist revolutionary, affiliated with the Confederación Nacional del Trabajo (CNT) and Minister of Justice of the Second Spanish Republic.\n\nHe was a leading figure of anarchism in Spain and fought on the side of the republic against fascists in the Spanish Civil War.`,
-        link: 'https://en.wikipedia.org/wiki/Juan_Garc%C3%ADa_Oliver',
+        link: `https://libcom.org/history/%E2%80%9Crevolutionary-syndicalism-serves-proletariat-whereas-anarchism-one-brand-humanism%E2%80%9D-inte`,
         infoSrc: 'https://en.wikipedia.org/wiki/Juan_Garc%C3%ADa_Oliver'
       },
     ],
@@ -2193,7 +2193,7 @@ export const eventLibrary = {
         title: 'Farabundo Martí (1893 - 1931)',
         imgSrc: require('./assets/eventPhotos/Individuals/farabundoMarti.jpg'),
         description: `Agustín Farabundo Martí Rodríguez, popularly known as Farabundo Martí, was a Marxist-Leninist activist and a revolutionary leader in El Salvador during the 1932 Salvadoran peasant massacre. Martí is also known for co-founding of the Communist Party of Central America, as well as helping lead a communist alternative to the Red Cross known as "International Red Aid".\n\nIn 1931, Martí returned to El Salvador and helped start a guerrilla revolt of indigenous farmers. The Communist-led peasant uprising against dictator Maximiliano Hernández Martínez, fomented by collapsing coffee prices, enjoyed some initial success, but was soon drowned in a bloodbath, being crushed by the Salvadoran military ten days after it had begun. Over 30,000 indigenous people were killed at what was to be a "peaceful meeting" in 1932; this became known as "La Matanza" ("The Slaughter").\n\nFor his role in the uprising, Martí was executed by Salvadoran President Hernández Martínez.`,
-        link: 'https://en.wikipedia.org/wiki/La_Matanza',
+        link: 'https://www.zinnedproject.org/news/tdih/la-matanza',
         infoSrc: 'https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD'
       },
     ],
@@ -2318,7 +2318,7 @@ export const eventLibrary = {
         title: 'Elizabeth Blackwell (1821 - 1910)',
         imgSrc: require('./assets/eventPhotos/Individuals/elizabethBlackwell.jpg'),
         description: `Elizabeth Blackwell, born on this day in 1821, was a British physician, notable as the first woman to receive a medical degree in the United States, and the first woman on the Medical Register of the General Medical Council. Blackwell played an important role in both the United States and the United Kingdom as a social awareness and moral reformer, and was a pioneer in promoting education for women in medicine.\n\nBlackwell also founded the "New York Dispensary for Indigent Women and Children" to, in her words, "give poor women an opportunity of consulting physicians of their own sex". Her contributions remain celebrated with the Elizabeth Blackwell Medal, awarded annually to a woman who has made significant contribution to the promotion of women in medicine.`,
-        link: 'https://en.wikipedia.org/wiki/NewYork-Presbyterian_Lower_Manhattan_Hospital',
+        link: 'https://www.womenshistory.org/education-resources/biographies/elizabeth-blackwell',
         infoSrc: 'https://en.wikipedia.org/wiki/Elizabeth_Blackwell'
       },
     ],
@@ -2673,7 +2673,7 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'February 8th, 1805',
-        title: 'Auguste Blanqui (1805 - 1881)',
+        title: 'Louis Auguste Blanqui (1805 - 1881)',
         imgSrc: require('./assets/eventPhotos/Individuals/louisBlanqui.jpg'),
         description: `Louis Auguste Blanqui was a French socialist and political activist, notable for his revolutionary theory of Blanquism and being elected president of the Paris Commune while imprisoned.\n\nBlanqui was a non-Marxist socialist who believed in immediate, violent revolution to overturn the capitalist order. Because of his unrelenting radicalism, he spent 33 years of his life in prison, leading to the nickname "l'enfermé", or "the locked-up one".`,
         link: 'https://en.wikipedia.org/wiki/Blanquism',
@@ -2947,9 +2947,9 @@ export const eventLibrary = {
         date: 'February 12th, 1961',
         title: 'David Graeber (1961 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/davidGraeber.jpg'),
-        description: `David Rolfe Graeber is an American anthropologist, anarchist activist and author known for his books "Debt: The First 5000 Years", "The Utopia of Rules", and "Bullshit Jobs: A Theory". He is currently a professor of anthropology at the London School of Economics.\n\nGraeber's parents were self-taught working-class intellectuals in New York. His father was a member of the Youth Communist Leaugue, and fought in the Spanish Civil War. Graeber has stated that he has been an anarchist since the age of 16.\n\nAside from his scholarship, Graeber has been active in the Global Justice movement, and played an early and influential role in the Occupy Wall Street protests.`,
-        link: 'https://en.wikipedia.org/wiki/David_Graeber',
-        infoSrc: 'https://www.theguardian.com/books/2015/mar/21/books-interview-david-graeber-the-utopia-of-rules'
+        description: `David Rolfe Graeber, born on this day in this 1961, is an American anthropologist, anarchist activist and author known for his books "Debt: The First 5000 Years", "The Utopia of Rules", and "Bullshit Jobs: A Theory". He is currently a professor of anthropology at the London School of Economics.\n\nGraeber's parents were self-taught working-class intellectuals in New York. His father was a member of the Youth Communist Leaugue, and fought in the Spanish Civil War. Graeber has stated that he has been an anarchist since the age of 16.\n\nAside from his scholarship, Graeber has been active in the Global Justice movement, and played an early and influential role in the Occupy Wall Street protests.`,
+        link: 'https://www.theguardian.com/books/2015/mar/21/books-interview-david-graeber-the-utopia-of-rules',
+        infoSrc: 'https://en.wikipedia.org/wiki/David_Graeber'
       },
       {
         category: 'Birthdays',
@@ -3161,7 +3161,7 @@ export const eventLibrary = {
         title: 'Susan B. Anthony (1820 - 1906)',
         imgSrc: require('./assets/eventPhotos/Individuals/susanAnthony.png'),
         description: `Susan B. Anthony was an American social reformer and women's rights activist who played a pivotal role in the women's suffrage movement. Born into a Quaker family committed to social equality, she collected anti-slavery petitions at the age of 17. In 1856, she became the New York state agent for the American Anti-Slavery Society.\n\nIn 1872, Anthony was arrested for voting in her hometown of Rochester, New York, and convicted in a widely publicized trial. Although she refused to pay the fine, the authorities declined to take further action. In 1878, Anthony and Stanton arranged for Congress to be presented with an amendment giving women the right to vote.\n\nIt was eventually ratified as the Nineteenth Amendment to the U.S. Constitution in 1920, colloquially known as the Susan B. Anthony Amendment,.`,
-        link: 'https://en.wikipedia.org/wiki/Trial_of_Susan_B._Anthony',
+        link: 'https://www.womenshistory.org/resources/lesson-plan/susan-b-anthony',
         infoSrc: 'https://en.wikipedia.org/wiki/Susan_B._Anthony'
       },
       {
@@ -3383,7 +3383,7 @@ export const eventLibrary = {
         title: 'Juan Peiró (1887 - 1942)',
         imgSrc: require('./assets/eventPhotos/Individuals/juanPeiro.jpg'),
         description: `Joan Peiró i Belis (sometimes Juan Peiró) was a Catalan anarchist activist, writer, editor of the anarchist newspaper Solidaridad Obrera, two-time Secretary General of the Confederación Nacional del Trabajo (CNT) and Minister of Industry of the Second Spanish Republic during the Spanish Civil War.\n\nFollowing the fall of the republic in 1939, Peiró fled to France, where he was turned over to Nazi Germany by the Vichy Regime in France. He was executed after the Gestapo turned him over to the Franco government in Spain.`,
-        link: 'https://en.wikipedia.org/wiki/Joan_Peir%C3%B3',
+        link: 'https://spartacus-educational.com/SPpeiro.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Joan_Peir%C3%B3'
       },
     ],
@@ -5892,7 +5892,7 @@ export const eventLibrary = {
         title: 'Julio Mella (1903 - 1929)',
         imgSrc: require('./assets/eventPhotos/Individuals/julioMella.jpg'),
         description: `Julio Antonio Mella McPartland was an activist and is known as one of the founders of the "internationalized" Cuban Communist Party, in 1925 by leaders of the party in Moscow, Soviet Union. After becoming a political activist, Mella had studied law in the University of Havana but was expelled in 1925.\n\nAt the time of his murder, he was working as a Cuban Marxist revolutionary in Mexico, working with other exiles and supporters to organize the overthrow of General Gerardo Machado in Cuba. Mella was assassinated on January 10, 1929, while walking home at night. It is unknown who killed Mella, as both Machado and the Cuban Communist Party, which was afraid Mella had come under the influence of Trotsky (who lived in Mexico at the time), had cause to assassinate him.`,
-        link: 'https://en.wikipedia.org/wiki/Julio_Antonio_Mella',
+        link: 'https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/mella-julio-antonio-1905-1929',
         infoSrc: 'https://en.wikipedia.org/wiki/Julio_Antonio_Mella'
       },
       {
@@ -6821,7 +6821,7 @@ export const eventLibrary = {
         title: 'Edward Herman (1925 - 2017)',
         imgSrc: require('./assets/eventPhotos/Individuals/edwardHerman.jpg'),
         description: `Edward Samuel Herman was an American economist, media scholar and social critic. Herman is known for his media criticism, in particular his propaganda model hypothesis developed with Noam Chomsky, a frequent co-writer.\n\nTheir most well-known co-authored work is "Manufacturing Consent".`,
-        link: 'https://en.wikipedia.org/wiki/Edward_S._Herman',
+        link: 'https://monthlyreview.org/author/edwardsherman/',
         infoSrc: 'https://en.wikipedia.org/wiki/Edward_S._Herman'
       },
       {
@@ -6966,7 +6966,7 @@ export const eventLibrary = {
         title: 'Paul Robeson (1898 - 1976)',
         imgSrc: require('./assets/eventPhotos/Individuals/paulRobeson.jpg'),
         description: `Paul Leroy Robeson was an American bass baritone concert artist and stage and film actor who became famous both for his cultural accomplishments and for his political activism.\n\nHis political activities began with his involvement with unemployed workers and anti-imperialist students whom he met while studying in London, and continued with support for the Republican cause in the Spanish Civil War and his opposition to fascism.\n\nIn the United States, he also became active in the Civil Rights Movement and other social justice campaigns. His sympathies for the Soviet Union and for communism, and his criticism of the United States government and its foreign policies, caused him to be blacklisted during the McCarthy era.`,
-        link: 'https://en.wikipedia.org/wiki/Paul_Robeson',
+        link: 'https://www.britannica.com/biography/Paul-Robeson',
         infoSrc: 'https://en.wikipedia.org/wiki/Paul_Robeson'
       },
     ],
@@ -7044,8 +7044,8 @@ export const eventLibrary = {
         date: 'April 10th, 1919',
         title: 'Emiliano Zapata (1879 - 1919)',
         imgSrc: require('./assets/eventPhotos/Individuals/emilianoZapata.jpg'),
-        description: `Emiliano Zapata Salazar was a leading figure in the Mexican Revolution, the main leader of the peasant revolution in the state of Morelos, and the inspiration of the agrarian movement called Zapatismo.\n\nZapata was born in the rural village of Anenecuilco in Morelos State, where peasant communities were under increasing pressure from the small landowning class who monopolized land and water resources for sugar cane production with the support of dictator Porfirio Díaz.\n\nEarly on, Zapata participated in political movements against Diaz and the landowning hacendados, and when the Revolution broke out in 1910 he was positioned as a central leader of the peasant revolt in Morelos. Zapata was responsible for defeating and ousting various invading armies from Morelos on multiple occasions.\n\nOn April 10, 1919, Jesús Guajardo invited Zapata to a meeting, intimating that he intended to defect to the revolutionaries. When Zapata arrived at the meeting, however, Guajardo's men riddled him with bullets instead.`,
-        link: 'https://en.wikipedia.org/wiki/Plan_of_Ayala',
+        description: `Emiliano Zapata Salazar was a leading figure in the Mexican Revolution, the main leader of the peasant revolution in the state of Morelos, and the inspiration of the agrarian movement called Zapatismo.\n\nZapata was born in the rural village of Anenecuilco in Morelos State, where peasant communities were under increasing pressure from the small landowning class who monopolized land and water resources for sugar cane production with the support of dictator Porfirio Díaz.\n\nEarly on, Zapata participated in political movements against Diaz and the landowning hacendados, and when the Revolution broke out in 1910 he was positioned as a central leader of the peasant revolt in Morelos. Zapata was responsible for defeating and ousting various invading armies from Morelos on multiple occasions.\n\nOn April 10th, 1919, Jesús Guajardo invited Zapata to a meeting, intimating that he intended to defect to the revolutionaries. When Zapata arrived at the meeting, however, Guajardo's men riddled him with bullets instead.`,
+        link: 'https://www.britannica.com/biography/Emiliano-Zapata',
         infoSrc: 'https://en.wikipedia.org/wiki/Emiliano_Zapata'
       },
       {
@@ -7876,8 +7876,8 @@ export const eventLibrary = {
         date: 'April 22nd, 1870',
         title: 'Vladimir Lenin (1870 - 1924)',
         imgSrc: require('./assets/eventPhotos/Individuals/LeninRev.jpg'),
-        description: `Vladimir Ilyich Ulyanov, better known by his alias Lenin, was a Russian revolutionary, politician, and political theorist. He served as head of government of Soviet Russia from 1917 to 1924 and of the Soviet Union from 1922 to 1924. Under his administration, Russia and then the wider Soviet Union became a one-party communist state governed by the Russian Communist Party. Ideologically a communist, he developed a variant of Marxism known as Leninism.\n\nWidely considered one of the most significant and influential figures of the 20th century, Lenin was the posthumous subject of a pervasive personality cult within the Soviet Union until its dissolution in 1991. He became an ideological figurehead behind Marxism-Leninism and thus a prominent influence over the international communist movement. \n\nA controversial and highly divisive historical figure, Lenin is viewed by supporters as a champion of socialism and the working class, while critics on both the left and right emphasize his role as founder and leader of an authoritarian regime responsible for political repression and mass killings.`,
-        link: 'https://en.wikipedia.org/wiki/Vladimir_Lenin',
+        description: `Vladimir Ilyich Ulyanov, better known by his alias Lenin, was a Russian revolutionary, politician, and political theorist. He served as head of government of Soviet Russia from 1917 to 1924 and of the Soviet Union from 1922 to 1924. Under his administration, Russia and then the wider Soviet Union became a one-party communist state governed by the Russian Communist Party. Ideologically a communist, he developed a variant of Marxism known as Leninism.\n\nWidely considered one of the most significant and influential figures of the 20th century, Lenin was the posthumous subject of a pervasive personality cult within the Soviet Union until its dissolution in 1991. He became an ideological figurehead behind Marxism-Leninism and thus a prominent influence over the international communist movement.\n\nA controversial and highly divisive historical figure, Lenin is viewed by supporters as a champion of socialism and the working class, while critics on both the left and right emphasize his role as founder and leader of an authoritarian regime responsible for political repression and mass killings.`,
+        link: 'https://www.marxists.org/archive/lenin/works/cw/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Vladimir_Lenin',
       },
     ],
@@ -8342,7 +8342,7 @@ export const eventLibrary = {
         title: `Coeur d'Alene Uprising (1899)`,
         imgSrc: require('./assets/eventPhotos/Events/coeurUprising.jpg'),
         description: `In April 1899, in Coeur d'Alene, Idaho, the Western Federation of Miners (WFM) was launching an organizing drive of the few mines in the area that had not yet unionized. The superintendent Albert Burch declared that the company would rather "shut down and remain closed twenty years" than to recognize the union and then fired seventeen workers he believed to be union members and demanded that all other union men collect their back pay and quit.\n\nOn this day in 1899, 250 union members seized a train in Burke, northeast of Wallace and began making their way to the Bunker Hill mine in Wardener (valued around $250,000). At each stop through Burke Canyon, more miners climbed aboard, eventually numbering over one thousand.\n\nUpon arriving at the mine, the men carried three thousand pounds (1,400 kg) of dynamite into the mill and detonated it, completely destroying the mill. The group also burned down the company office, the boarding house, and the home of the mine manager. The miners re-boarded the "Dynamite Express" and returned the way they came.\n\nState authorities used federal troops to commit mass arrests - over 1,000 men were rounded up and put into a "bullpen.", included some elected officials and at least one sheriff. Most were released within two weeks, although some were held until December.`,
-        link: 'https://en.wikipedia.org/wiki/1899_Coeur_d%27Alene_labor_confrontation',
+        link: 'https://www.britannica.com/event/Coeur-dAlene-riots',
         infoSrc: 'https://en.wikipedia.org/wiki/1899_Coeur_d%27Alene_labor_confrontation'
       },
     ],
@@ -8797,7 +8797,7 @@ export const eventLibrary = {
         title: 'Karl Marx (1818 - 1883)',
         imgSrc: require('./assets/eventPhotos/Individuals/karlMarx.jpg'),
         description: `Born in Trier, Germany, Marx studied law and philosophy at university. His best-known works are the "The Communist Manifesto" and the three-volume "Das Kapital". His political and philosophical thought had enormous influence on subsequent intellectual, economic and political history, and his name has been used as an adjective, a noun and a school of social theory.\n\nMarx's critical theories about society, economics and politics - collectively understood as Marxism - hold that human societies develop through class conflict. In capitalism, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labor power in return for wages. \n\nEmploying a critical approach known as historical materialism, Marx predicted that, like previous socio-economic systems, capitalism produced internal tensions which would lead to its self-destruction and replacement by a new system known as socialism.`,
-        link: 'https://en.wikipedia.org/wiki/Karl_Marx',
+        link: 'https://www.marxists.org/archive/marx/works/sw/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Karl_Marx'
       },
       {
@@ -8806,7 +8806,7 @@ export const eventLibrary = {
         title: 'Farabundo Martí (1893 - 1931)',
         imgSrc: require('./assets/eventPhotos/Individuals/farabundoMarti.jpg'),
         description: `Agustín Farabundo Martí Rodríguez, popularly known as Farabundo Martí, was a Marxist-Leninist activist and a revolutionary leader in El Salvador during the 1932 Salvadoran peasant massacre. Martí is also known for co-founding of the Communist Party of Central America, as well as helping lead a communist alternative to the Red Cross known as "International Red Aid".\n\nIn 1931, Martí returned to El Salvador and helped start a guerrilla revolt of indigenous farmers. The Communist-led peasant uprising against dictator Maximiliano Hernández Martínez, fomented by collapsing coffee prices, enjoyed some initial success, but was soon drowned in a bloodbath, being crushed by the Salvadoran military ten days after it had begun. Over 30,000 indigenous people were killed at what was to be a "peaceful meeting" in 1932; this became known as "La Matanza" ("The Slaughter").\n\nFor his role in the uprising, Martí was executed by Salvadoran President Hernández Martínez.`,
-        link: 'https://en.wikipedia.org/wiki/La_Matanza',
+        link: 'https://www.zinnedproject.org/news/tdih/la-matanza',
         infoSrc: 'https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD'
       },
     ],
@@ -9074,11 +9074,11 @@ export const eventLibrary = {
     'Birthdays': [
       {
         category: 'Birthdays',
-        date: 'May 9, 1877',
+        date: 'May 9th, 1877',
         title: 'Peter Maurin (1877-1949)',
         imgSrc: require('./assets/eventPhotos/Individuals/peterMaurin.jpg'),
-        description: `Peter Maurin was a French Catholic social activist, theologian, and De La Salle Brother who founded the anarchist Catholic Worker Movement in 1933 with Dorothy Day.\n\nAside from his writings in the publication "Catholic Worker", Maurin expressed his philosophy through short pieces of verse that became known as Easy Essays.`,
-        link: 'https://en.wikipedia.org/wiki/Peter_Maurin',
+        description: `Peter Maurin was a French Catholic social activist, theologian, and De La Salle Brother who founded the anarchist Catholic Worker Movement in 1933 with Dorothy Day.\n\nAside from his writings in the publication "Catholic Worker", Maurin expressed his philosophy through short pieces of verse that became known as his "Easy Essays".`,
+        link: 'https://www.catholicworker.org/petermaurin/pm-biography.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Peter_Maurin'
       },
       {
@@ -9087,7 +9087,7 @@ export const eventLibrary = {
         title: 'John Brown (1800 - 1859)',
         imgSrc: require('./assets/eventPhotos/Individuals/johnBrown.jpg'),
         description: `John Brown was an American abolitionist. Brown advocated the use of armed insurrection to overthrow the institution of slavery in the United States. He first gained national attention when he led small groups of volunteers during the Bleeding Kansas crisis of 1856. He was dissatisfied with the pacifism of the organized abolitionist movement: "These men are all talk. What we need is action - action!"\n\nIn October 1859, Brown led a raid on the federal armory at Harpers Ferry, Virginia (today West Virginia), intending to start a slave liberation movement that would spread south through the mountainous regions of Virginia and North Carolina. He seized the armory, but seven people were killed, and ten or more were injured. Brown intended to arm slaves with weapons from the armory, but only a small number of local slaves joined his revolt. Within 36 hours, those of Brown's men who had not fled were killed or captured by local farmers, militiamen, and U.S. Marines, the latter led by Robert E. Lee.\n\nBrown was hastily tried for treason against the Commonwealth of Virginia, the murder of five men, and inciting a slave insurrection; he was found guilty on all counts and was hanged. He was the first person executed for treason in the history of the United States.`,
-        link: 'https://en.wikipedia.org/wiki/John_Brown_(abolitionist)',
+        link: 'https://ellabakercenter.org/blog/2012/05/the-legacy-of-john-brown',
         infoSrc: 'https://en.wikipedia.org/wiki/John_Brown_(abolitionist)'
       },
     ],
@@ -9785,7 +9785,7 @@ export const eventLibrary = {
         title: 'Hồ Chí Minh (1890 - 1969)',
         imgSrc: require('./assets/eventPhotos/Individuals/hoChiMinh.jpg'),
         description: `Hồ Chí Minh, born Nguyễn Sinh Cung and also known as Bác Hồ ("Uncle Ho"), was a North Vietnamese revolutionary and politician. He served as Prime Minister of North Vietnam from 1945 to 1955 and President from 1945 to 1969. Ideologically a Marxist-Leninist, he served as Chairman and First Secretary of the Workers' Party of Vietnam.\n\nBecause he spent 30 years traveling the world in his youth, Hồ could speak fluently as well as read and write professionally in French, English, Russian, Cantonese and Mandarin as well as his mother tongue Vietnamese. In addition, he was reported to speak conversational Esperanto. In the 1920s, he was bureau chief/editor of many newspapers which he established to criticize French Colonial Government of Indochina and serving communism propaganda purposes. Examples are Le Paria (The Pariah), plublished in Paris, and Thanh Nien (Youth).\n\nHồ Chí Minh led the Việt Minh independence movement from 1941 onward, establishing the Communist-ruled Democratic Republic of Vietnam (North Vietnam) in 1945 and defeating the French Union in 1954 at the Battle of Điện Biên Phủ, ending the First Indochina War. He was a key figure in the People's Army of Vietnam and the Việt Cộng during the Vietnam War, which lasted from 1955 to 1975. North Vietnam was victorious and was reunified with the Republic of South Vietnam (South Vietnam) in 1976.`,
-        link: 'https://en.wikipedia.org/wiki/Ho_Chi_Minh',
+        link: 'https://www.marxists.org/reference/archive/ho-chi-minh/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Ho_Chi_Minh'
       },
       {
@@ -9862,8 +9862,8 @@ export const eventLibrary = {
         title: 'Toussaint Louverture (1743 - 1803)',
         imgSrc: require('./assets/eventPhotos/Individuals/toussaintLouverture.jpg'),
         description: `François-Dominique Toussaint Louverture was a Haitian general and best-known leader of the Haitian Revolution. This revolution was the first successful slave uprising in the Americas, and Haiti was the first country in the region to outlaw slavery.\n\nLouverture's history in the revolution was complicated - first fought for the Spanish against the French; then for France against Spain and Great Britain; and finally, he fought on behalf of independence of Saint-Domingue in the era of Napoleonic France.\n\nInitially, Louverture was only supportive of fighting for better living conditions for slaves, but, after committing to the full abolition of slavery in 1791, he issued a famous proclamation at Camp Turel of St. Domingue: "Brothers and friends, I am Toussaint Louverture; perhaps my name has made itself known to you. I have undertaken vengeance. I want Liberty and Equality to reign in St Domingue. I am working to make that happen. Unite yourselves to us, brothers and fight with us for the same cause."\n\nLouverture was eventually tricked into being arrested by Brunet, a French General, and deported to France, where he died of unknown causes while imprisoned. Shortly thereafter, the colony finally achieved independence under the leadership of Jean-Jacques Dessalines.`,
-        link: 'https://en.wikipedia.org/wiki/Toussaint_Louverture',
-        infoSrc: 'https://en.wikipedia.org/wiki/Haitian_Revolution'
+        link: 'https://www.britannica.com/biography/Toussaint-Louverture',
+        infoSrc: 'https://en.wikipedia.org/wiki/Toussaint_Louverture'
       },
     ],
     'Assassinations': [
@@ -10347,7 +10347,7 @@ export const eventLibrary = {
         title: 'Amelia Bloomer (1818 - 1894)',
         imgSrc: require('./assets/eventPhotos/Individuals/ameliaBloomer.png'),
         description: `Amelia Jenks Bloomer, born on this day in 1818, was an American women's rights advocate. Even though she did not create the women's clothing reform style known as bloomers, her name became associated with it because of her early and strong advocacy.\n\nBy publishing the maganize "The Lily", she became the first woman to own, operate and edit a newspaper for women. Notably, Bloomer also introduced Susan B. Anthony and Elizabeth Cady Stanton to each other.`,
-        link: 'https://en.wikipedia.org/wiki/The_Lily_(newspaper)',
+        link: 'https://www.womenshistory.org/education-resources/biographies/amelia-bloomer',
         infoSrc: 'https://en.wikipedia.org/wiki/Amelia_Bloomer'
       },
     ],
@@ -10514,7 +10514,7 @@ export const eventLibrary = {
         title: `"Ain't I a Woman?" Speech (1851)`,
         imgSrc: require('./assets/eventPhotos/Individuals/sojournerTruth.jpg'),
         description: `Sojourner Truth was an American abolitionist and women's rights activist. Truth was born into slavery in Swartekill, New York, but escaped with her infant daughter to freedom in 1826. After going to court to recover her son in 1828, she became the first black woman to win such a case against a white man.\n\nOn this day in 1851, she gave what's now known as the "Ain't I a Woman?" speech, which was delivered to the Women's Convention in Akron, Ohio. Here is a short excerpt (from Marius Robinson's transcription):\n\n"I want to say a few words about this matter. I am a woman's rights. [sic] I have as much muscle as any man, and can do as much work as any man. I have plowed and reaped and husked and chopped and mowed, and can any man do more than that? I have heard much about the sexes being equal. I can carry as much as any man, and can eat as much too, if I can get it. I am as strong as any man that is now.\n\nAs for intellect, all I can say is, if a woman have a pint, and a man a quart - why can't she have her little pint full? You need not be afraid to give us our rights for fear we will take too much, - for we can't take more than our pint'll hold."`,
-        link: 'https://en.wikipedia.org/wiki/Sojourner_Truth',
+        link: 'https://www.womenshistory.org/education-resources/biographies/sojourner-truth',
         infoSrc: 'https://en.wikipedia.org/wiki/Ain%27t_I_a_Woman%3F'
       },
     ],
@@ -10782,7 +10782,7 @@ export const eventLibrary = {
         title: 'Cornel West (1953 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/cornelWest.jpg'),
         description: `Cornel Ronald West (born June 2, 1953) is an American philosopher, political activist, social critic, author, and public intellectual. The son of a Baptist minister, West focuses on the role of race, gender, and class in American society and the means by which people act and react to their "radical conditionedness". A radical democrat and advocate for social democracy, West draws intellectual contributions from multiple traditions, including Christianity, the black church, Marxism, and transcendentalism. Among his most influential books are Race Matters (1994) and Democracy Matters (2004).\n\nWest has described himself as a "non-Marxist socialist" (partly because he does not view Marxism and Christianity as reconcilable) and serves as honorary chair of the Democratic Socialists of America, which he has described as "the first multiracial, socialist organization close enough to my politics that I could join". He also described himself as a "radical democrat, suspicious of all forms of authority" in the Matrix-themed documentary The Burly Man Chronicles.\n\nWest was arrested on October 13, 2014, while protesting against the shooting of Michael Brown and participating in Ferguson October, and again on August 10, 2015, while demonstrating outside a courthouse in St. Louis on the one-year anniversary of Brown's death.`,
-        link: 'https://en.wikipedia.org/wiki/Cornel_West',
+        link: 'http://www.cornelwest.com/articles.html#.XyIbeShKiM8',
         infoSrc: 'https://en.wikipedia.org/wiki/Cornel_West'
       },
     ],
@@ -10986,7 +10986,7 @@ export const eventLibrary = {
         title: 'James Connolly (1868 - 1916)',
         imgSrc: require('./assets/eventPhotos/Individuals/jamesConnolly.jpg'),
         description: `James Connolly was a Scottish-born Irish republican and socialist leader. He was a member of the Industrial Workers of the World and founder of the Irish Socialist Republican Party. With James Larkin, he was centrally involved in the Dublin lock-out of 1913, as a result of which the two men formed the Irish Citizen Army (ICA) that year.\n\nHe opposed British rule in Ireland, and was one of the leaders of the Easter Rising of 1916. He was executed by firing squad following the Rising.`,
-        link: 'https://en.wikipedia.org/wiki/Easter_Rising',
+        link: 'https://www.marxists.org/archive/connolly/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/James_Connolly'
       },
     ],
@@ -11616,7 +11616,7 @@ export const eventLibrary = {
         title: 'Che Guevara (1928 - 1967)',
         imgSrc: require('./assets/eventPhotos/Individuals/cheGuevara.jpg'),
         description: `Ernesto "Che" Guevara was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a ubiquitous countercultural symbol of rebellion and global insignia in popular culture.\n\nFollowing the Cuban Revolution, Guevara performed a number of key roles in the new government. These included reviewing the appeals and firing squads for those convicted as war criminals during the revolutionary tribunals, instituting agrarian land reform as minister of industries, helping spearhead a successful nationwide literacy campaign, serving as both national bank president and instructional director for Cuba's armed forces, and traversing the globe as a diplomat on behalf of Cuban socialism.\n\nHis life experiences and studying of Marxism-Leninism led him to posit that the Third World's underdevelopment and dependence was an intrinsic result of imperialism, neocolonialism and monopoly capitalism, with the only remedy being proletarian internationalism and world revolution. Guevara left Cuba in 1965 to foment revolution abroad, first unsuccessfully in Congo-Kinshasa and later in Bolivia, where he was captured by CIA-assisted Bolivian forces and summarily executed.`,
-        link: 'https://en.wikipedia.org/wiki/Che_Guevara',
+        link: 'https://www.britannica.com/biography/Che-Guevara',
         infoSrc: 'https://en.wikipedia.org/wiki/Che_Guevara'
       },
       {
@@ -12572,7 +12572,7 @@ export const eventLibrary = {
         title: 'Emma Goldman (1869 - 1940)',
         imgSrc: require('./assets/eventPhotos/Individuals/emmaGoldman.jpg'),
         description: `Emma Goldman was an anarchist political activist and writer. She played a pivotal role in the development of anarchist political philosophy in North America and Europe in the first half of the 20th century.\n\nAttracted to anarchism after the Haymarket affair, Goldman became a writer and a renowned lecturer. She and anarchist writer Alexander Berkman, her lover and lifelong friend, planned to assassinate industrialist and financier Henry Clay Frick as an act of "propaganda of the deed". Frick survived the attempt on his life, and Berkman was sentenced to 22 years in prison. Goldman was imprisoned several times in the years that followed for "inciting to riot" and illegally distributing information about birth control.\n\nAfter their release from prison, Goldman and Berkman were again arrested and deported to Russia. Initially supportive of that country's October Revolution that brought the Bolsheviks to power, Goldman changed her opinion in the wake of the Kronstadt rebellion; she denounced the Soviet Union for its violent repression of independent voices. She left the Soviet Union and in 1923 published a book about her experiences, My Disillusionment in Russia.\n\nDuring her life, Goldman was lionized as a freethinking "rebel woman" by admirers, and denounced by detractors as an advocate of politically motivated murder and violent revolution. Her writing and lectures spanned a wide variety of issues, including prisons, atheism, freedom of speech, militarism, capitalism, marriage, free love, and homosexuality.`,
-        link: 'https://en.wikipedia.org/wiki/Emma_Goldman',
+        link: 'https://www.marxists.org/reference/archive/goldman/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Emma_Goldman'
       },
       {
@@ -12649,7 +12649,7 @@ export const eventLibrary = {
         title: 'Mark Clark (1947 - 1969)',
         imgSrc: require('./assets/eventPhotos/Individuals/markClark.jpg'),
         description: `Mark Clark was an American activist and member of the Black Panther Party (BPP). After decided to join the Black Panther Party after reading their literature and the Ten Point Program, later organizing a local Peoria chapter.\n\nAt the age of 22, he, along with Fred Hampton, was assassinated when the Chicago Police Department committed a raid against BPP headquarters. He was shot in the heart and died instantly.`,
-        link: 'https://en.wikipedia.org/wiki/Mark_Clark_(activist)',
+        link: 'https://www.washingtonpost.com/history/2019/12/04/police-raid-that-left-two-black-panthers-dead-shook-chicago-changed-nation/',
         infoSrc: 'https://en.wikipedia.org/wiki/Mark_Clark_(activist)'
       },
       {
@@ -12726,7 +12726,7 @@ export const eventLibrary = {
         title: 'Stokely Carmichael (1941 - 1998)',
         imgSrc: require('./assets/eventPhotos/Individuals/stokelyCarmichael.jpeg'),
         description: `Kwame Ture, born Stokely Standiford Churchill Carmichael, was a prominent Trinidadian organizer in the civil rights movement in the United States and the global Pan-African movement. He eventually developed the Black Power movement, first while leading the Student Nonviolent Coordinating Committee (SNCC), later serving as the "Honorary Prime Minister" of the Black Panther Party (BPP), and lastly as a leader of the All-African People's Revolutionary Party (A-APRP).\n\nCarmichael was one of the original SNCC freedom riders of 1961 under Diane Nash's leadership. He became a major voting rights activist in Mississippi and Alabama after being mentored by Ella Baker and Bob Moses.\n\nThe FBI harassed and slandered him through its COINTELPRO program, and Carmichael fled to Africa in 1968. There, he first re-established himself in Ghana, and then Guinea by 1969. He adopted the new name of Kwame Ture and began campaigning internationally for revolutionary socialist Pan-Africanism.`,
-        link: 'https://en.wikipedia.org/wiki/All-African_People%27s_Revolutionary_Party',
+        link: 'https://www.npr.org/sections/codeswitch/2014/03/10/287320160/stokely-carmichael-a-philosopher-behind-the-black-power-movement',
         infoSrc: 'https://en.wikipedia.org/wiki/Stokely_Carmichael'
       },
     ],
@@ -14045,7 +14045,7 @@ export const eventLibrary = {
         title: 'Nelson Mandela (1918 - 2013)',
         imgSrc: require('./assets/eventPhotos/Individuals/nelsonMandela.jpg'),
         description: `Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, political leader and philanthropist who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election.\n\nHis government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997.\n\nAlthough initially committed to non-violent protest, in association with the SACP he co-founded the militant Umkhonto we Sizwe in 1961 and led a sabotage campaign against the government. He was arrested and imprisoned in 1962, and subsequently sentenced to life imprisonment for conspiring to overthrow the state following the Rivonia Trial. Mandela served 27 years in prison.\n\nAmid growing domestic and international pressure, and with fears of a racial civil war, President F. W. de Klerk released him in 1990. Mandela and de Klerk led efforts to negotiate an end to apartheid, which resulted in the 1994 multiracial general election in which Mandela led the ANC to victory and became president.`,
-        link: 'https://en.wikipedia.org/wiki/Nelson_Mandela',
+        link: 'https://www.nelsonmandela.org/content/page/biography',
         infoSrc: 'https://en.wikipedia.org/wiki/Nelson_Mandela'
       },
     ],
@@ -14566,7 +14566,7 @@ export const eventLibrary = {
         date: 'July 26th, 1909',
         title: 'Tragic Week (1909)',
         imgSrc: require('./assets/eventPhotos/Events/tragicWeek.jpg'),
-        description: `The Tragic Week was a series of violent confrontations between the Spanish army and anarchists, socialists and republicans of Barcelona and other cities in Catalonia, Spain, that began on this day in 1909. It was caused by the calling-up of reserve troops by Premier Antonio Maura to be sent as reinforcements when Spain renewed military-colonial activity in Morocco. Many of these reservists were the only breadwinners for their families, while the wealthy were able to hire substitutes.\n\nThese actions, coupled with anarchist, anti-militarist, and anti-colonial philosophies shared by many in the city, resulted in the calling of a general strike against Maura's attempt at conscription. By the next day, workers had occupied much of central Barcelona, halting troop trains and overturning trams. Just a few days later, there was street fighting, with a general eruption of riots, strikes, and the burnings of convents.\n\nThe Spanish government declared a "state of war" and used the national army to put down the rebellion by force. Over one hundred civilians were killed and more than 1,700 individuals were indicted in military courts for "armed rebellion"`,
+        description: `The Tragic Week was a series of violent confrontations between the Spanish army and anarchists, socialists, and republicans of Barcelona and other cities in Catalonia, Spain, that began on this day in 1909. It was caused by the calling-up of reserve troops by Premier Antonio Maura to be sent as reinforcements when Spain renewed military-colonial activity in Morocco. Many of these reservists were the only breadwinners for their families, while the wealthy were able to hire substitutes.\n\nThese actions, coupled with anarchist, anti-militarist, and anti-colonial philosophies shared by many in the city, resulted in the calling of a general strike against Maura's attempt at conscription. By the next day, workers had occupied much of central Barcelona, halting troop trains and overturning trams. Just a few days later, there was street fighting, with a general eruption of riots, strikes, and the burnings of convents.\n\nThe Spanish government declared a "state of war" and used the national army to put down the rebellion by force. Over one hundred civilians were killed and more than 1,700 individuals were indicted in military courts for "armed rebellion"`,
         link: 'https://libcom.org/files/The%20tragic%20week,%20Spain%201909.pdf',
         infoSrc: 'https://en.wikipedia.org/wiki/Tragic_Week_(Spain)'
       },
@@ -14577,7 +14577,7 @@ export const eventLibrary = {
         date: 'July 26th, 1877',
         title: 'The Chicago Railroad Strike (1877)',
         imgSrc: require('./assets/eventPhotos/Events/chicagoRailroadStrike.png'),
-        description: `The Chicago railroad strike of 1877 was a series of work stoppages and civil unrest in Chicago, Illinois, which occurred as part of the larger national strikes and rioting of the Great Railroad Strike of 1877.\n\nOn July 24th and 25th various industries began to go on strike, and Chicago's local government prepared for unrest as other cities across the nation grappled with general strikes and rioting. Large crowds, up to 25,000 people, began to gather and demand various labor reforms. On July 26th, violent clashes between protesters and police reached a fever ptich in the "Battle of the Viaduct", police and members of the crowd exchanged gunfire.\n\nBy that evening, the police had successfully dispersed crowds throughout the city. 14 to 30 rioters were dead or dying, and 35 to 100 civilians and 9 to 13 policemen were wounded.`,
+        description: `The Chicago railroad strike of 1877 was a series of work stoppages and civil unrest in Chicago, Illinois, which occurred as part of the larger national strikes and rioting of the Great Railroad Strike of 1877.\n\nOn July 24th and 25th various industries began to go on strike, and Chicago's local government prepared for unrest as other cities across the nation grappled with general strikes and rioting. Large crowds, up to 25,000 people, began to gather and demand various labor reforms. On this day in 1877, violent clashes between protesters and police reached a fever ptich in the "Battle of the Viaduct", where police and members of the crowd exchanged gunfire.\n\nBy that evening, the police had successfully dispersed crowds throughout the city. 14 to 30 rioters were dead or dying, and 35 to 100 civilians and 9 to 13 policemen were wounded.`,
         link: 'http://www.encyclopedia.chicagohistory.org/pages/1037.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Chicago_railroad_strike_of_1877'
       },
@@ -14938,7 +14938,7 @@ export const eventLibrary = {
         title: 'Whitney Young Jr. (1921 - 1971)',
         imgSrc: require('./assets/eventPhotos/Individuals/whitneyYoung.jpg'),
         description: `Whitney Moore Young Jr. was an American civil rights leader born on this day in 1921.\n\nHe spent most of his career working to end employment discrimination in the United States and turning the National Urban League from a relatively passive civil rights organization into one that aggressively worked for equitable access to socioeconomic opportunity for the historically disenfranchised.`,
-        link: 'https://en.wikipedia.org/wiki/Whitney_Young',
+        link: 'https://www.britannica.com/biography/Whitney-M-Young-Jr',
         infoSrc: 'https://en.wikipedia.org/wiki/Whitney_Young'
       },
     ],
@@ -14949,7 +14949,7 @@ export const eventLibrary = {
         title: 'Jean Jaurès (1859 - 1914)',
         imgSrc: require('./assets/eventPhotos/Individuals/jeanJaures.jpg'),
         description: `Auguste Marie Joseph Jean Léon Jaurès, commonly referred to as Jean Jaurès, was a French Socialist leader. Initially a moderate republican, he was later one of the first social democrats, eventually becoming the leader of the French Socialist Party, which opposed Jules Guesde's revolutionary Socialist Party of France. The two parties merged in 1905 in the French Section of the Workers' International (SFIO).\n\nToday, a key aspect his legacy was his antimilitarism. Jaurès was an early opponent of the draft and desperately tried to prevent war between France and Germany before World War I, going so far as to try and organize a general strike in both countries to force their leaders to negotiate diplomatically.\n\nIn 1914, Jaurès returned to Paris from a diplomatic meeting in Brussels to advocate against the coming war. He was assassinated by a French nationalist at the outbreak of World War I, and remains one of the main historical figures of the French Left.`,
-        link: 'https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s',
+        link: 'https://www.britannica.com/biography/Jean-Jaures',
         infoSrc: 'https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s'
       },
     ],
@@ -15005,8 +15005,8 @@ export const eventLibrary = {
         date: 'August 1st, 1837',
         title: 'Mother Jones (1837 - 1930)',
         imgSrc: require('./assets/eventPhotos/Individuals/motherJones.jpg'),
-        description: `Mary G. Harris Jones, known as Mother Jones from 1897 onwards, was an Irish-born American schoolteacher and dressmaker who became a prominent union organizer, community organizer, and activist. She helped coordinate major strikes and co-founded the Industrial Workers of the World.\n\nFighting to abolish child labor was one of her flagship issues. In 1903, Jones organized children who were working in mills and mines to participate in a "Children's Crusade", a march from Kensington, Philadelphia to Oyster Bay, New York, the hometown of President Theodore Roosevelt with banners demanding "We want to go to school and not the mines!"\n\nMother Jones was present during the Paint Creek-Cabin Creek strike of 1912 in West Virginia, speaking and organizing despite a shooting war between United Mine Workers members and the private army of the mine owners. Jones was arrested on 13 February 1913, brought before a military court, and accused of conspiring to commit murder among other charges. She was sentenced to twenty years in the state penitentiary, but released after eighty-five days.`,
-        link: 'https://en.wikipedia.org/wiki/Paint_Creek%E2%80%93Cabin_Creek_strike_of_1912',
+        description: `Mary G. Harris Jones, known as Mother Jones from 1897 onwards, was an Irish-born American schoolteacher and dressmaker who became a prominent union organizer, community organizer, and activist. She helped coordinate major strikes and co-founded the Industrial Workers of the World.\n\nFighting to abolish child labor was one of her flagship issues. In 1903, Jones organized children who were working in mills and mines to participate in a "Children's Crusade", a march from Kensington, Philadelphia to Oyster Bay, New York, the hometown of President Theodore Roosevelt with banners demanding "We want to go to school and not the mines!"\n\nMother Jones was present during the Paint Creek-Cabin Creek strike of 1912 in West Virginia, speaking and organizing despite a shooting war between United Mine Workers members and the private army of the mine owners. Jones was arrested on February 13th, 1913, brought before a military court, and accused of conspiring to commit murder among other charges. She was sentenced to twenty years in the state penitentiary, but released after eighty-five days.`,
+        link: 'https://www.womenshistory.org/education-resources/biographies/mary-harris-jones',
         infoSrc: 'https://en.wikipedia.org/wiki/Mother_Jones'
       },
     ],
@@ -15074,7 +15074,7 @@ export const eventLibrary = {
         title: 'James Baldwin (1924 - 1987)',
         imgSrc: require('./assets/eventPhotos/Individuals/jamesBaldwin.jpg'),
         description: `James Arthur Baldwin was an American novelist, playwright, essayist, poet, and activist. His essays, as collected in Notes of a Native Son (1955), explore intricacies of racial, sexual, and class distinctions in Western society, most notably in regard to the mid-twentieth-century United States.\n\nIn 1963 he conducted a lecture tour of the South for Congress of Racial Equality (CORE), traveling to locations such as Durham and Greensboro in North Carolina, and New Orleans, Louisiana. During the tour, he lectured to students, white liberals, and anyone else listening about his racial ideology, an ideological position between the "muscular approach" of Malcolm X and the nonviolent program of Martin Luther King, Jr.\n\nBaldwin also expressed the hope that socialism would take root in the United States.`,
-        link: 'https://en.wikipedia.org/wiki/James_Baldwin',
+        link: 'https://www.britannica.com/biography/James-Baldwin',
         infoSrc: 'https://en.wikipedia.org/wiki/James_Baldwin'
       },
     ],
@@ -15296,7 +15296,7 @@ export const eventLibrary = {
         title: 'Bolton Hall (1854 - 1938)',
         imgSrc: require('./assets/eventPhotos/Individuals/boltonHall.jpg'),
         description: `Bolton Hall, born on this day in 1854, was an American lawyer, author, and Georgist activist who worked on behalf of the poor and starting the back-to-the-land movement in the United States at the beginning of the 20th century. He was very sympathetic with libertarian socialist thinkers, such as Pierre-Joseph Proudhon and Benjamin Tucker, but a committed anti-Marxist.\n\nHall is perhaps most remembered today for his widely circulated plea for the working class to oppose the Spanish-American War, titled "A Peace Appeal to Labor" (1898). He also helped create a still-existing Georgist commune known as "Free Acres" in New Jersey by deeding 68 acres of land to the project in 1910. Hall was also arrested with Ida Rauh for handing out pamphlets on birth control in 1916.`,
-        link: 'https://en.wikipedia.org/wiki/Bolton_Hall_(activist)',
+        link: 'https://peoplepill.com/people/bolton-hall/',
         infoSrc: 'https://en.wikipedia.org/wiki/Bolton_Hall_(activist)'
       },
     ],
@@ -15500,7 +15500,7 @@ export const eventLibrary = {
         title: 'Emiliano Zapata (1879 - 1919)',
         imgSrc: require('./assets/eventPhotos/Individuals/emilianoZapata.jpg'),
         description: `Emiliano Zapata Salazar was a leading figure in the Mexican Revolution, the main leader of the peasant revolution in the state of Morelos, and the inspiration of the agrarian movement called Zapatismo.\n\nZapata was born in the rural village of Anenecuilco in Morelos State, where peasant communities were under increasing pressure from the small landowning class who monopolized land and water resources for sugar cane production with the support of dictator Porfirio Díaz.\n\nEarly on, Zapata participated in political movements against Diaz and the landowning hacendados, and when the Revolution broke out in 1910 he was positioned as a central leader of the peasant revolt in Morelos. Zapata was responsible for defeating and ousting various invading armies from Morelos on multiple occasions.`,
-        link: 'https://en.wikipedia.org/wiki/Plan_of_Ayala',
+        link: 'https://www.britannica.com/biography/Emiliano-Zapata',
         infoSrc: 'https://en.wikipedia.org/wiki/Emiliano_Zapata'
       },
     ],
@@ -15772,7 +15772,7 @@ export const eventLibrary = {
         title: 'Mario Santucho (1936 - 1976)',
         imgSrc: require('./assets/eventPhotos/Individuals/marioSantucho.jpg'),
         description: `Mario Roberto Santucho was an Argentine revolutionary and guerrilla combatant, founder of the Partido Revolucionario de los Trabajadores (Workers' Revolutionary Party, PRT) and leader of Argentina's largest Marxist guerrilla group, the Ejército Revolucionario del Pueblo (People's Revolutionary Army, ERP).\n\nSantucho and a significant part of the PRT leadership were killed on July 19, 1976, as part of a covert ambush carried out by a paramilitary task force connected to the Argentine Armed Forces. His and his wife's remains were never found.\n\nThis attack was part of the "Dirty War" perpetrated by the US-backed Argentinian dictatorship against left-wing dissidents (including students, guerrilla fighters, labor activists, and journalists). It is estimated that around 30,000 people were murdered due to this persecution.`,
-        link: 'https://en.wikipedia.org/wiki/Dirty_War',
+        link: 'https://www.britannica.com/event/Dirty-War',
         infoSrc: 'https://en.wikipedia.org/wiki/Mario_Roberto_Santucho'
       },
       {
@@ -15781,7 +15781,7 @@ export const eventLibrary = {
         title: 'Luigi Galleani (1861 - 1931)',
         imgSrc: require('./assets/eventPhotos/Individuals/luigiGalleani.jpg'),
         description: `Luigi Galleani was an Italian anarchist active in the United States from 1901 to 1919. He is best known for his enthusiastic advocacy of "propaganda of the deed", i.e. the use of violence to eliminate those he viewed as tyrants and oppressors and to act as a catalyst to the overthrow of existing government institutions.\n\nFrom 1914 to 1932, Galleani's followers in the United States (known as i Galleanisti) carried out a series of bombings and assassination attempts against institutions and persons they viewed as class enemies. After Galleani was deported from the United States to Italy in June 1919, his colleagues are alleged to have carried out the Wall Street bombing of 1920, which resulted in the deaths of 38 people.`,
-        link: 'https://en.wikipedia.org/wiki/Luigi_Galleani',
+        link: 'https://theanarchistlibrary.org/category/author/luigi-galleani',
         infoSrc: 'https://en.wikipedia.org/wiki/Luigi_Galleani'
       },
     ],
@@ -16209,7 +16209,7 @@ export const eventLibrary = {
         title: 'Ernst Thälmann (1886 - 1944)',
         imgSrc: require('./assets/eventPhotos/Individuals/ernstThalmann.jpg'),
         description: `Ernst Thälmann was a German communist politician. He was leader of the Communist Party of Germany (KPD) from 1925 to 1933. A committed Stalinist, Thälmann played a major role during the political instability of the Weimar Republic. Especially in its final years, when the KPD explicitly sought the overthrow of the liberal democracy of the republic.\n\nAfter the Reichstag Fire on 27th February, 1933, the Nazi Party launched a new wave of violence and arrests against members of the KPD and other left-wing opponents of the regime. This included Thälmann, who was arrested, tortured, and imprisoned on 3rd March 1933. He was kept in solitary confinement for eleven years, before finally being executed at the Buchenwald concentration camp in 1944.`,
-        link: 'https://en.wikipedia.org/wiki/Ernst_Th%C3%A4lmann',
+        link: 'https://www.britannica.com/biography/Ernst-Thalmann',
         infoSrc: 'https://en.wikipedia.org/wiki/Ernst_Th%C3%A4lmann'
       },
     ],
@@ -16633,7 +16633,7 @@ export const eventLibrary = {
         title: 'Howard Zinn (1922 - 2010)',
         imgSrc: require('./assets/eventPhotos/Individuals/howardZinn.jpg'),
         description: `Howard Zinn was an American historian, playwright, and socialist thinker. He was chair of the history and social sciences department at Spelman College, and a political science professor at Boston University. Zinn wrote over 20 books, including his best-selling and influential book "A People's History of the United States", which was the inspiration for making this calendar.\n\nIn the 1960s, as a result of Zinn's campaigning against the Vietnam War and his influence on Martin Luther King, Jr., the FBI designated him a high security risk to the country by adding him to the Security Index, a listing of American citizens who could be summarily arrested if a state of emergency were to be declared. The FBI memos also show that they were concerned with Zinn's repeated criticism of the FBI for failing to protect blacks against white mob violence. Zinn's daughter said she was not surprised by the files; "He always knew they had a file on him."\n\nZinn described himself as "something of an anarchist, something of a socialist. Maybe a democratic socialist." He wrote extensively about the Civil Rights Movement, the anti-war movement and labor history of the United States. His memoir, You Can't Be Neutral on a Moving Train (Beacon Press, 2002), was also the title of a 2004 documentary about Zinn's life and work. Zinn died of a heart attack in 2010, at age 87.`,
-        link: 'https://en.wikipedia.org/wiki/Howard_Zinn',
+        link: 'https://www.howardzinn.org/about/biography/',
         infoSrc: 'https://en.wikipedia.org/wiki/Howard_Zinn'
       },
     ],
@@ -16858,9 +16858,9 @@ export const eventLibrary = {
         date: 'August 27th, 1832',
         title: 'Black Hawk Surrenders (1832)',
         imgSrc: require('./assets/eventPhotos/Individuals/blackHawk.jpg'),
-        description: `Black Hawk (1767 - 1838) was a band leader and warrior of the Sauk Native American tribe in what is now the Midwest of the United States. Although he had inherited an important historic sacred bundle from his father, he was not a hereditary civil chief.\n\nBlack Hawk earned his status as a war chief or captain by his actions; leading raiding and war parties as a young man, and then a band of Sauk warriors during the Black Hawk War of 1832, which was an apparent attempt by Black Hawk to resettle indigenous land lost in the disputed Treaty of St. Louis thirty years prior.\n\nOn August 1st, the "Battle of Bad Axe" - effectively a massacre - occurred when Sauk people attempted to surrender. Instead of accepting the surrender, American soldiers gunned them down instead. Many Sauk, including children, were shot or drowned while attempting to cross the Mississippi River into safety. Although Black Hawk successfuly fled the massacre, it was on this day in 1832 that he surrendered to the American government and was imprisoned.`,
-        link: 'https://en.wikipedia.org/wiki/Black_Hawk_(Sauk_leader)',
-        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Bad_Axe'
+        description: `Black Hawk (1767 - 1838) was a band leader and warrior of the Sauk Native American tribe in what is now the Midwest of the United States. Although he had inherited an important historic sacred bundle from his father, he was not a hereditary civil chief.\n\nBlack Hawk earned his status as a war chief or captain by his actions; leading raiding and war parties as a young man, and then a band of Sauk warriors during the Black Hawk War of 1832, which was an apparent attempt by Black Hawk to resettle indigenous land lost in the disputed Treaty of St. Louis thirty years prior.\n\nOn August 1st, the "Battle of Bad Axe" - effectively a massacre - occurred when Sauk people attempted to surrender. Instead of accepting the surrender, American soldiers gunned them down. Many Sauk people, including children, were shot or drowned while attempting to cross the Mississippi River into safety. Although Black Hawk successfuly fled the massacre, it was on this day in 1832 that he surrendered to the American government and was imprisoned.`,
+        link: 'https://www.britannica.com/biography/Black-Hawk-Sauk-and-Fox-leader',
+        infoSrc: 'https://www.britannica.com/event/Massacre-at-Bad-Axe'
       },
     ],
   },
@@ -17041,7 +17041,7 @@ export const eventLibrary = {
         title: 'Fred Hampton (1948 - 1969)',
         imgSrc: require('./assets/eventPhotos/Individuals/fredHampton.jpg'),
         description: `Fredrick Allen Hampton was an American activist and revolutionary socialist. He came to prominence in Chicago as chairman of the Illinois chapter of the Black Panther Party (BPP), and deputy chairman of the national BPP. In this capacity, he founded a prominent multicultural political organization, the Rainbow Coalition that initially included the Black Panthers, Young Patriots and the Young Lords, and an alliance among major Chicago street gangs to help them end infighting, and work for social change.\n\nIn 1967, Hampton was identified by the Federal Bureau of Investigation as a radical threat. The FBI tried to subvert his activities in Chicago, sowing disinformation among these groups and placing a counterintelligence operative in the local Panthers. In December 1969, Hampton was assassinated in his bed during a predawn raid at his Chicago apartment by a tactical unit of the Cook County State's Attorney's Office in conjunction with the Chicago Police Department and the Federal Bureau of Investigation; during the raid, another Panther was killed and several seriously wounded.\n\nAt a press conference the next day, the police announced the arrest team had been attacked by the "violent" and "extremely vicious" Panthers and had defended themselves accordingly. In a second press conference on December 8, the police leadership praised the assault team for their "remarkable restraint", "bravery", and "professional discipline" in not killing all the Panthers present. Photographic evidence was presented of bullet holes allegedly made by shots fired by the Panthers, but this was soon challenged by reporters. It was later found that all but one of nearly 100 shots were fired by police.`,
-        link: 'https://en.wikipedia.org/wiki/Fred_Hampton',
+        link: 'https://www.blackpast.org/african-american-history/hampton-fred-1948-1969/',
         infoSrc: 'https://en.wikipedia.org/wiki/Fred_Hampton'
       },
     ],
@@ -17232,7 +17232,7 @@ export const eventLibrary = {
         title: 'Rock Springs Massacre (1885)',
         imgSrc: require('./assets/eventPhotos/Events/rockSpringsMassacre.jpg'),
         description: `The Rock Springs Massacre occurred on this day in 1885, in the present-day United States city of Rock Springs, Wyoming. The riot, and resulting massacre of immigrant Chinese miners by white immigrant miners, was the result of racial prejudice toward the Chinese miners, who were perceived to be taking jobs from their white counterparts.\n\nThe Union Pacific Coal Department found it economically beneficial to give preference in hiring to Chinese miners, who were willing to work for lower wages than their white counterparts, angering the white miners. When the rioting ended, at least 28 Chinese miners were dead and 15 were injured. Rioters burned 78 Chinese homes, resulting in approximately $150,000 in property damage.\n\nMost of the Chinese population fled Rock Springs after this incident. This was only one episode of anti-Chinese violence among many; Chinese immigrants were often terrorized and discriminated against in this period of American history.`,
-        link: 'https://en.wikipedia.org/wiki/Anti-Chinese_sentiment_in_the_United_States',
+        link: 'https://www.wyohistory.org/encyclopedia/rock-springs-massacre',
         infoSrc: 'https://en.wikipedia.org/wiki/Rock_Springs_massacre'
       },
     ],
@@ -18038,7 +18038,7 @@ export const eventLibrary = {
         title: 'Geronimo Pratt (1947 - 2011)',
         imgSrc: require('./assets/eventPhotos/Individuals/geronimoPratt.jpg'),
         description: `Elmer "Geronimo" Pratt, also known as Geronimo Ji-Jaga and Geronimo Ji-Jaga Pratt, was a decorated military veteran and a high-ranking member of the Black Panther Party in the United States in the late 1960s and early 1970s. He moved to Los Angeles, where he studied at UCLA under the GI Bill and joined the Black Panther Party. Pratt was also a target of the FBI's COINTEL program, which sought to subvert black power movements.\n\nIn 1972, Pratt was wrongfully convicted for murder and served 27 years in prison, eight of which were in solitary confinement. Pratt was freed in 1997 when his conviction was vacated due to the prosecution concealing wiretaps that proved he was not at the scene of the murder.`,
-        link: 'https://en.wikipedia.org/wiki/Black_Panther_Party',
+        link: 'https://www.nytimes.com/2011/06/04/us/04pratt.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Geronimo_Pratt'
       },
       {
@@ -18192,7 +18192,7 @@ export const eventLibrary = {
         title: 'Anne Moody (1940 - 2015)',
         imgSrc: require('./assets/eventPhotos/Individuals/anneMoody.jpg'),
         description: `Anne Moody was an American author who wrote about her experiences growing up poor and black in rural Mississippi, and her involvement in the Civil Rights Movement through the NAACP, Congress of Racial Equality (CORE), and Student Nonviolent Coordinating Committee (SNCC). Moody fought racism and segregation from when she was a little girl in Centreville, Mississippi, and continued throughout her adult life around the American South.\n\nAfter graduating from Tougaloo College, Moody became a full-time worker in the civil rights movement, participating in a variety of different protests such as marches and a sit-ins. Moody participated in a sit-in at a Woolworth's lunch counter in Jackson and a mob attacked her. She was also arrested in Jackson, Mississippi for attempting to protest inside of a post office with 13 other protesters, including Joan Trumpauer, Doris Erskine, Jeanette King, and Lois Chaffee.\n\nShortly after this, Anne Moody went quietly moved to New York and wrote her autobiography, "Coming of Age in Mississippi".`,
-        link: 'https://en.wikipedia.org/wiki/Anne_Moody',
+        link: 'https://www.blackpast.org/african-american-history/anne-moody-1940-2015/',
         infoSrc: 'https://en.wikipedia.org/wiki/Anne_Moody'
       },
     ],
@@ -18270,8 +18270,8 @@ export const eventLibrary = {
         date: 'September 16th, 1973',
         title: 'Víctor Jara (1932 - 1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/victorJara.jpg'),
-        description: `Víctor Lidio Jara Martínez was a Chilean teacher, theater director, poet, singer-songwriter and communist political activist. He developed Chilean theater by directing a broad array of works, ranging from locally produced plays to world classics, as well as the experimental work of playwrights such as Ann Jellicoe. He also played a pivotal role among neo-folkloric musicians who established the Nueva Canción Chilena (New Chilean Song) movement. This led to an uprising of new sounds in popular music during the administration of President Salvador Allende.\n\nJust a few days after the coup that ousted Allende from power, Jara was arrested, tortured, and killed by the dictatorship of Augusto Pincochet. Jara is one of many "desaparecidos", people who vanished under the Pinochet government and were most likely tortured and killed. Thirty-six years after his first burial, he received a full funeral on 3 December 2009 in Santiago.`,
-        link: 'https://en.wikipedia.org/wiki/Nueva_Canci%C3%B3n_Chilena',
+        description: `Víctor Lidio Jara Martínez was a Chilean teacher, theater director, poet, singer-songwriter and communist political activist. He developed Chilean theater by directing a broad array of works, ranging from locally produced plays to world classics, as well as the experimental work of playwrights such as Ann Jellicoe. He also played a pivotal role among neo-folkloric musicians who established the Nueva Canción Chilena (New Chilean Song) movement. This led to an uprising of new sounds in popular music during the administration of President Salvador Allende.\n\nJust a few days after the coup that ousted Allende from power, Jara was arrested, tortured, and killed by the dictatorship of Augusto Pincochet. Jara is one of many "desaparecidos", people who vanished under the Pinochet government and were most likely tortured and killed. Thirty-six years after his first burial, he received a full funeral on December 3rd, 2009 in Santiago.`,
+        link: 'https://www.britannica.com/biography/Victor-Jara',
         infoSrc: 'https://en.wikipedia.org/wiki/V%C3%ADctor_Jara'
       },
     ],
@@ -18405,7 +18405,7 @@ export const eventLibrary = {
         title: 'Chris Hedges (1956 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/chrisHedges.jpg'),
         description: `Christopher Lynn Hedges is an American journalist, Presbyterian minister, and visiting Princeton University lecturer. His books include "War Is a Force That Gives Us Meaning" (2002), "Empire of Illusion: The End of Literacy and the Triumph of Spectacle, Death of the Liberal Class" (2010), "Days of Destruction, Days of Revolt (2012)", "Wages of Rebellion: The Moral Imperative of Revolt" (2015), and, most recently, "America: The Farewell Tour (2018)".\n\nHedges was an early critic of the Iraq War. In May 2003, he delivered a commencement address at Rockford College in Rockford, Illinois, saying: "We are embarking on an occupation that, if history is any guide, will be as damaging to our souls as it will be to our prestige and power and security." His speech was received with boos and his microphone was shut off three minutes after he began speaking. The New York Times, his employer, criticized his statements and issued him a formal reprimand for "public remarks that could undermine public trust in the paper's impartiality". Shortly after the incident, Hedges left The New York Times to become a senior fellow at The Nation Institute, and a columnist at Truthdig, in addition to writing books and teaching inmates at a New Jersey correctional institution.\n\nHedges has taught college credit courses for several years in New Jersey prisons. He teaches a course through Princeton University in which the class is composed of half prisoners and half Princeton undergraduates. He has described himself as a socialist identifying with Catholic activist Dorothy Day in particular.`,
-        link: 'https://en.wikipedia.org/wiki/Chris_Hedges',
+        link: 'http://www.lausti.com/articles/hedgescont.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Chris_Hedges'
       },
     ],
@@ -18550,7 +18550,7 @@ export const eventLibrary = {
         title: 'Upton Sinclair (1878 - 1968)',
         imgSrc: require('./assets/eventPhotos/Individuals/uptonSinclair.jpg'),
         description: `Upton Beall Sinclair Jr. was an American writer who wrote nearly 100 books and other works in several genres. Sinclair was an outspoken socialist, and his books are particularly notable for depicting the scandalous working conditions of the laboring class, particularly in the book "The Jungle".\n\nSinclair was inspired to write "The Jungle" after spending six months researching the Chicago meatpacking industry. His descriptions of the unsanitary and inhumane conditions that workers suffered served to shock and galvanize readers. Jack London called Sinclair's book "the Uncle Tom's Cabin of wage slavery", and it caused the domestic and foreign purchases of American meat fell by half, leading to federal regulation of the meat industry.\n\nIt is worth noting that Sinclair was a racist. With the income from "The Jungle", he founded the utopian community Helicon Home Colony in Englewood, New Jersey, which excluded black and Jewish people. The colony burned down under suspicious circumstances within a year.\n\nIn the 1920s, Sinclair moved to Monrovia, California (near Los Angeles), where he founded the state's chapter of the American Civil Liberties Union. In 1934, Sinclair ran in the California gubernatorial election as a Democrat. Sinclair's platform, known as the End Poverty in California movement (EPIC), galvanized the support of the Democratic Party. Sinclair gained its nomination, but was defeated by the incumbent Frank Merriam.`,
-        link: 'https://en.wikipedia.org/wiki/Upton_Sinclair',
+        link: 'https://www.britannica.com/biography/Upton-Sinclair',
         infoSrc: 'https://en.wikipedia.org/wiki/Upton_Sinclair'
       },
       {
@@ -18559,7 +18559,7 @@ export const eventLibrary = {
         title: 'Jean-Jacques Dessalines (1758 - 1806)',
         imgSrc: require('./assets/eventPhotos/Individuals/jacquesDessalines.jpg'),
         description: `Jean-Jacques Dessalines was a leader of the Haitian Revolution and the first ruler of an independent Haiti under the 1805 constitution. Under Dessalines, Haiti became the first country in the Americas to permanently abolish slavery.\n\nThe Haitian Revolution was the only slave uprising that led to the founding of a state which was both free from slavery and ruled by non-whites and former captives. Initially regarded as governor-general, Dessalines was later named Emperor of Haiti as Jacques I (1804-1806) by the generals of the Haitian Revolution Army. He is regarded as one of the founding fathers of Haiti.\n\nAs the slave rebellions developed into a revolutionary movement, he served as principal lieutenant to the movement's leader, Toussaint Louverture, helping lead the Haitian armies to many victories in battle over the French.\n\nAfter Louverture's betrayal and death, Dessalines became the leader of the Haitian Revolution in 1802, eventually leading the colony to its independence. In 1804, he ordered mass killings of all the French remaining on the island, leading to the deaths of 3000-5000 French people of all ages and sexes.\n\nAfter achieving freedom from France, Dessalines imposed a strict regimen of labor on the Haitian population, leading to widespread resentment of his rule. Eventually, he was assassinated by his own people in 1806, leading to civil war on the island.`,
-        link: 'https://en.wikipedia.org/wiki/Haitian_Revolution',
+        link: 'https://www.britannica.com/biography/Jean-Jacques-Dessalines',
         infoSrc: 'https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines'
       },
     ],
@@ -19509,7 +19509,7 @@ export const eventLibrary = {
         title: 'General Levee Strike (1907)',
         imgSrc: require('./assets/eventPhotos/Events/newOrleans1907.jpg'),
         description: `In the autumn of 1907, both black and white longshore workers launched an extended general strike against their shipping company employers. The general strike began as a sympathy strike with screwmen (skilled workers responsible for tightly compressing and packing cotton bales into the holds of ships).\n\nOn this day in 1907, all of the shipping lines locked out the screwmen, black and white alike, for failing to meet employer bale quotas. 9,000 dockworkers, black and white, struck the New Orleans port that evening in a show of solidarity with the screwmen. Freight handlers from the Southern Pacific line also struck, ending any work on the port.\n\nDuring the second week of the strike, employers launched strong attempts to create a racial break among the black and white strikers. Shippers also revived the White League, a group designed to intimidate black strikers. Despite the attempts, strikers remained united, with some unions noting that if the employers played successfully played one racial group against the other, they would all face starvation wages. The strike lasted twenty days, ending on October 24th, and striking workers won most of their demands.`,
-        link: 'https://en.wikipedia.org/wiki/New_Orleans_dock_workers_and_unionization#The_1907_General_Levee_Strike',
+        link: 'http://nolaworkers.org/2018/12/17/the-1907-new-orleans-dockworkers-general-strike/',
         infoSrc: 'https://en.wikipedia.org/wiki/New_Orleans_dock_workers_and_unionization#The_1907_General_Levee_Strike'
       },
     ],
@@ -19609,8 +19609,8 @@ export const eventLibrary = {
         date: 'October 5th, 1813',
         title: 'Battle of the Thames (1813)',
         imgSrc: require('./assets/eventPhotos/Events/battleThames.png'),
-        description: `Tecumseh (1768 - 1813) was a Native American Shawnee warrior and chief who became the primary leader of a large, multi-tribal confederacy in the early 19th century. Growing up during the American Revolutionary War and the Northwest Indian War, Tecumseh was exposed to warfare and envisioned the establishment of an independent Native American nation east of the Mississippi River under British protection, and established a confederacy of tribes to fight off colonization efforts.\n\nOn this day in 1813, Tecumseh and his second in command Roundhead were killed in The Battle of the Thames, fought as part of the War of 1812 between America and Tecumseh's Confederacy and British allies. Tecumseh's death resulted in the dissoluion of his tribal alliances, and many Native Americans began to move West, across the Mississippi River.`,
-        link: 'https://en.wikipedia.org/wiki/Tecumseh',
+        description: `Tecumseh (1768 - 1813) was a Native American Shawnee warrior and chief who became the primary leader of a large, multi-tribal confederacy in the early 19th century. Growing up during the American Revolutionary War and the Northwest Indian War, Tecumseh was exposed to warfare and envisioned the establishment of an independent Native American nation east of the Mississippi River under British protection, and established a confederacy of tribes to fight off colonization efforts.\n\nOn this day in 1813, Tecumseh and his second in command Roundhead were killed in the "Battle of the Thames", fought as part of the War of 1812 between America and Tecumseh's Confederacy and British allies. Tecumseh's death resulted in the dissoluion of his tribal alliances, and led many Native Americans to begin moving west to escape colonization, across the Mississippi River.`,
+        link: 'https://www.britannica.com/event/Battle-of-the-Thames',
         infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_the_Thames'
       },
     ],
@@ -19711,7 +19711,7 @@ export const eventLibrary = {
         title: 'Chilean Protests and Strikes (2019-20)',
         imgSrc: require('./assets/eventPhotos/Events/chileProtests.jpg'),
         description: `On this day in 2019, protests and riots began throughout Chile in response to a raise in the Santiago Metro's subway fare, the increased cost of living, privatisation and inequality prevalent in the country. The protests have been considered the "worst civil unrest" having occurred in Chile since the end of Augusto Pinochet's military dictatorship due to the scale of damage to public infrastructure, the number of protesters, and the measures taken by the government.\n\nOn the 25th of October, over a million people took to the streets throughout Chile to protest against President Piñera, demanding his resignation. As of December 29th, 2019, 29 people have died, nearly 2,500 have been injured, and 2,840 have been arrested. Human rights organisations have received several reports of violations conducted against protesters by security forces, including torture, sexual abuse and sexual assault.`,
-        link: 'https://en.wikipedia.org/wiki/2019%E2%80%932020_Chilean_protests',
+        link: 'https://www.bbc.com/news/world-latin-america-50191746',
         infoSrc: 'https://en.wikipedia.org/wiki/2019%E2%80%932020_Chilean_protests'
       },
     ],
@@ -20080,7 +20080,7 @@ export const eventLibrary = {
         title: 'The Battle of Virden (1898)',
         imgSrc: require('./assets/eventPhotos/Events/battleOfVirden.jpg'),
         description: `The Battle of Virden, also known as the Virden Massacre, was a labor union conflict in central Illinois that occurred on October 12, 1898. After a local chapter of the United Mine Workers of America began striking at a mine in Virden, Illinois, the Chicago-Virden Coal Company hired black strikebreakers from Birmingham, Alabama and shipped them to Virden by train.\n\nThe company hired armed detectives or security guards to accompany the strikebreakers. An armed conflict broke out when armed miners surrounded the train as it arrived in town. The detectives shot first, but strikers the were also armed. A total of four detectives and seven striking mine workers were killed, with five guards, thirty miners, and an unrecorded number of strikebreakers wounded.\n\nAfter this incident, Illinois Governor John Tanner ordered the national guard to prevent any more strikebreakers from coming into the state by force. The next month, the Chicago-Virden Coal Company relented and allowed the unionization of its workers.`,
-        link: 'https://en.wikipedia.org/wiki/Battle_of_Virden',
+        link: 'https://www.zinnedproject.org/news/tdih/battle-of-virden/',
         infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Virden'
       },
     ],
@@ -20350,7 +20350,7 @@ export const eventLibrary = {
         title: "Raid on Harper's Ferry (1859)",
         imgSrc: require('./assets/eventPhotos/Events/harpersFerry.jpg'),
         description: `John Brown's raid on Harpers Ferry was an effort by abolitionist John Brown, from October 16 to 18, 1859, to initiate a slave revolt in Southern states by taking over a United States arsenal at Harpers Ferry, Virginia and arming slaves with the weapons there.\n\nBrown's raid was defeated by a company of U.S. Marines. He was convicted of treason and hanged on December 2nd, 1859. Later, president of the Confederacy Jefferson Davis cited the attack as grounds for Southerners to leave the Union, "even if it rushes us into a sea of blood".`,
-        link: 'https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry',
+        link: 'https://www.britannica.com/event/Harpers-Ferry-Raid',
         infoSrc: 'https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry'
       },
     ],
@@ -20372,7 +20372,7 @@ export const eventLibrary = {
         title: 'Karl Kautsky (1854 - 1938)',
         imgSrc: require('./assets/eventPhotos/Individuals/karlKautsky.jpg'),
         description: `Karl Johann Kautsky was a Czech-Austrian philosopher, journalist, and Marxist theoretician. Kautsky was one of the most authoritative promulgators of Orthodox Marxism after the death of Friedrich Engels in 1895 until the outbreak of World War I in 1914. He was one of the most important socialist theorists during the years of the Second International.\n\nHe founded the an important socialist journal, Neue Zeit. Following the war, Kautsky was an outspoken critic of the Bolshevik Revolution, engaging in polemics with Vladimir Lenin, Leon Trotsky, and Joseph Stalin on the nature of the Soviet state. Towards the end of his life, he became close friends with Rosa Luxemburg.\n\nOf the USSR, he famously wrote "Foreign tourists in Russia stand in silent amazement before the gigantic enterprises created there, as they stand before the pyramids, for example. Only seldom does the thought occur to them what enslavement, what lowering of human self-esteem was connected with the construction of those gigantic establishments."`,
-        link: 'https://en.wikipedia.org/wiki/Karl_Kautsky',
+        link: 'https://www.marxists.org/archive/kautsky/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Karl_Kautsky'
       },
     ],
@@ -20789,7 +20789,7 @@ export const eventLibrary = {
         title: 'Bobby Seale (1936 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/bobbySeale.jpg'),
         description: `Robert George Seale is an American political activist. He and fellow activist Huey P. Newton co-founded the Black Panther Party.\n\nBobby Seale and Huey P. Newton were heavily inspired by the teachings of activist Malcolm X, who was assassinated in 1965. The two joined together in October 1966 to create the Black Panther Party for Self-Defense, which adopted the late activist's slogan "freedom by any means necessary" as their own.\n\nSeale and Newton founded the group to organize the black community and express their desires and needs in order to resist the racism and classism perpetuated by the system. Seale described the Panthers as "an organization that represents black people and many white radicals relate to this and understand that the Black Panther Party is a righteous revolutionary front against this racist decadent, capitalistic system."`,
-        link: 'https://en.wikipedia.org/wiki/Bobby_Seale',
+        link: 'https://www.britannica.com/biography/Bobby-Seale',
         infoSrc: 'https://en.wikipedia.org/wiki/Bobby_Seale'
       },
       {
@@ -20798,7 +20798,7 @@ export const eventLibrary = {
         title: 'Jack Reed (1887 - 1920)',
         imgSrc: require('./assets/eventPhotos/Individuals/jackReed.jpg'),
         description: `John "Jack" Silas Reed (October 22, 1887 - October 17, 1920) was an American journalist, poet, and communist activist. Reed first gained prominence as a war correspondent during the first World War, and later became best known for his coverage of the October Revolution in Petrograd, Russia, which he wrote about in his book Ten Days That Shook the World.\n\nAs the U.S. entered World War I, Reed was marginalized for his anti-war sentiments and set sail with his partner Bryant from New York to Europe. The pair were going as working journalists to report on the sensational developments taking place in the fledgling republic of Russia. They were in Petrograd for the October Revolution. Reed was an enthusiastic supporter of the new revolutionary socialist government, and met both Leon Trotsky and Lenin while there.\n\nHe made a trip back to America, where he vehemently defended the new Soviet Republic and was arrested three times, the last for violating the Sedition Act. After being acquitted, Reed returned to the USSR and met again with Lenin and Trotsky. He died from spotted typhus while trying to return to the United States in 1920.`,
-        link: 'https://en.wikipedia.org/wiki/John_Reed_(journalist)',
+        link: 'https://www.britannica.com/biography/John-Reed',
         infoSrc: 'https://en.wikipedia.org/wiki/John_Reed_(journalist)'
       },
     ],
@@ -20968,8 +20968,8 @@ export const eventLibrary = {
         date: 'October 25th, 1917',
         title: 'October Revolution (1917)',
         imgSrc: require('./assets/eventPhotos/Events/octoberRevolution.jpg'),
-        description: `The October Revolution, also known as the Bolshevik Revolution, began on this day in Russia, in 1917. Led by the Bolshevik Party of Vladimir Lenin, the revolution took place through an armed insurrection in Petrograd and was instrumental in the larger Russian Revolution of 1917-1923. The following day, the Winter Palace (the seat of the Provisional government located in Petrograd, then capitol of Russia) was captured.\n\nLong-awaited elections were held on November 12th. In contrast to their majority in the Soviets (local council governments), the Bolsheviks only won 175 seats in the 715-seat legislative body, coming in second behind the Socialist Revolutionary Party, which won 370 seats. On its first and only day in session, the Constituent Assembly came into conflict with the Soviets, and it rejected Soviet decrees on peace and land, resulting in the Constituent Assembly being dissolved by the Bolsheviks in January.\n\nThe political situation devolved into a civil war between the Bolsheviks, the Whites (counter-revolutionaries), Makhnovists, independence movements, and other socialist factions. Eventually, the Bolsheviks defeated all rival parties militarily and formed the Union of Soviet Socialist Republics (USSR) in 1922.`,
-        link: 'https://en.wikipedia.org/wiki/Russian_Revolution',
+        description: `The October Revolution, also known as the Bolshevik Revolution, began on this day in Russia in 1917. Led by the Bolshevik Party of Vladimir Lenin, the revolution took place through an armed insurrection in Petrograd and was instrumental in the larger Russian Revolution of 1917-1923. The following day, the Winter Palace (the seat of the Provisional government located in Petrograd, then capitol of Russia) was captured.\n\nElections were held on November 12th. In contrast to their majority in the Soviets (local council governments), the Bolsheviks only won 175 seats in the 715-seat legislative body, coming in second behind the Socialist Revolutionary Party, which won 370 seats. On its first and only day in session, the Constituent Assembly came into conflict with the Soviets, and it rejected Soviet decrees on peace and land, resulting in the Constituent Assembly being dissolved by the Bolsheviks in January.\n\nThe political situation devolved into a civil war between the Bolsheviks, the Whites (counter-revolutionaries), Makhnovists, independence movements, and other socialist factions. Eventually, the Bolsheviks defeated all rival parties militarily and formed the Union of Soviet Socialist Republics (USSR) in 1922.`,
+        link: 'https://www.britannica.com/topic/October-Revolution-Russian-history',
         infoSrc: 'https://en.wikipedia.org/wiki/October_Revolution'
       },
     ],
@@ -21768,7 +21768,7 @@ export const eventLibrary = {
         title: 'Eugene V. Debs (1855 - 1926)',
         imgSrc: require('./assets/eventPhotos/Individuals/eugeneDebs.jpg'),
         description: `Eugene Victor Debs was an American socialist, political activist, trade unionist, one of the founding members of the Industrial Workers of the World (IWW) and five times the candidate of the Socialist Party of America for President of the United States. Through his presidential candidacies as well as his work with labor movements, Debs eventually became one of the best-known socialists living in the United States.\n\nWhile in prison for leading the Pullman Strike, Debs read various works of socialist theory and emerged six months later as a committed adherent of the international socialist movement. Debs was a founding member of the Social Democracy of America (1897), the Social Democratic Party of America (1898) and the Socialist Party of America (1901). Debs ran as a Socialist candidate for President of the United States five times, including 1900 (earning 0.6% of the popular vote), 1904 (3.0%), 1908 (2.8%), 1912 (6.0%) and 1920 (3.4%), the last time from a prison cell. He was also a candidate for United States Congress from his native state Indiana in 1916.\n\nDebs was noted for his oratory, and his speech denouncing American participation in World War I led to his second arrest in 1918. He was convicted under the Sedition Act of 1918 and sentenced to a term of 10 years. In his speech to the court, he provided one of his most well-known quotes: \n\n"Your Honor, years ago I recognized my kinship with all living beings, and I made up my mind that I was not one bit better than the meanest on earth. I said then, and I say now, that while there is a lower class, I am in it, and while there is a criminal element, I am of it, and while there is a soul in prison, I am not free."`,
-        link: 'https://en.wikipedia.org/wiki/Eugene_V._Debs',
+        link: 'https://www.marxists.org/archive/debs/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Eugene_V._Debs'
       },
       {
@@ -23540,7 +23540,7 @@ export const eventLibrary = {
         title: 'Mark Twain (1835 - 1910)',
         imgSrc: require('./assets/eventPhotos/Individuals/markTwain.jpg'),
         description: `Samuel Langhorne Clemens, known by his pen name Mark Twain, was an American writer, humorist, entrepreneur, publisher, and lecturer. He was lauded as the "greatest humorist [the United States] has produced", and William Faulkner called him "the father of American literature". After 1899, he was also a committed anti-imperialist and anti-racist.\n\nBefore 1899, however, he supported imperialism, calling the Spanish War "the worthiest" war the U.S. ever fought. In the New York Herald, he described his anti-imperialism epiphany like this:\n\n"I wanted the American eagle to go screaming into the Pacific ... Why not spread its wings over the Philippines, I asked myself? ... I said to myself, Here are a people who have suffered for three centuries. We can make them as free as ourselves, give them a government and country of their own, put a miniature of the American Constitution afloat in the Pacific, start a brand new republic to take its place among the free nations of the world. It seemed to me a great task to which we had addressed ourselves."\n\n"But I have thought some more, since then, and I have read carefully the treaty of Paris [which ended the Spanish-American War], and I have seen that we do not intend to free, but to subjugate the people of the Philippines. We have gone there to conquer, not to redeem."\n\nFrom 1901 until his death in 1910, Twain was vice-president of the American Anti-Imperialist League, which believed that there is a fundamental contradiction between the ideas upon which the American republic was founded and designs for colonial expansion being advanced by the nation's contemporary political leaders.`,
-        link: 'https://en.wikipedia.org/wiki/American_Anti-Imperialist_League',
+        link: 'https://www.commondreams.org/views/2003/04/15/mark-twain-speaks-us-i-am-anti-imperialist',
         infoSrc: 'https://en.wikipedia.org/wiki/Mark_Twain#Anti-imperialist'
       },
       {
@@ -24093,7 +24093,7 @@ export const eventLibrary = {
         title: 'Thomas Mooney (1882 - 1942)',
         imgSrc: require('./assets/eventPhotos/Individuals/thomasMooney.jpg'),
         description: `Thomas Joseph Mooney was an American political activist and labor leader, who was convicted with Warren K. Billings of the San Francisco Preparedness Day Bombing of 1916. Convicted on scant evidence, Mooney served 22 years in prison before finally being pardoned in 1939.\n\nHe was known for being a militant IWW organizer and for publishing the socialist magazine "The Revolt".`,
-        link: 'https://en.wikipedia.org/wiki/Preparedness_Day_Bombing',
+        link: 'https://www.britannica.com/biography/Tom-Mooney',
         infoSrc: 'https://en.wikipedia.org/wiki/Thomas_Mooney'
       },
     ],

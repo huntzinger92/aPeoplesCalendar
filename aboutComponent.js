@@ -41,7 +41,7 @@ export function About() {
         text="Also, this project is open source and we welcome volunteers who would like to contribute, whether it's something as simple as fixing typos or as complex as adding major features. You can read more about how to support us by going to our website (linked below)."
         style={styles.aboutText}
       />
-      <TouchableOpacity style={styles.contactButton} onPress={() => Linking.openURL('https://expo.io/@tts2p4/aPeoplesCalendar')}>
+      <TouchableOpacity style={styles.contactButton} onPress={() => Linking.openURL('mailto:aPeoplesCalendar@gmail.com')}>
         <StyledText text='Contact' style={{fontSize: 27, color: 'white', marginLeft: 15, marginRight: 15,}}/>
       </TouchableOpacity>
     </ScrollView>
