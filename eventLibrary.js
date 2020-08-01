@@ -4318,13 +4318,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 2rd, 1917',
+        title: 'Makhno Released From Prison (1917)',
+        imgSrc: require('./assets/eventPhotos/Individuals/Makhno.jpg'),
+        description: `Nestor Ivanovych Makhno (1889 - 1934) was a Ukrainian anarchist revolutionary and the commander of an independent anarchist army in Ukraine from 1917 - 1921. Makhno was the commander of the Revolutionary Insurrectionary Army of Ukraine, commonly referred to as the Makhnovshchina (loosely translated as "Makhno movement").\n\nIn 1908, due to a police spy within the anarchist group Hulyai Pole, Makhno was arrested and put in jail. Makhno and thirteen others were sentenced to death by hanging, however Makhno's sentence was commuted to life in prison due to his prior military service.\n\nOn this day in 1917, almost nine years later, Makhno was released from prison as a result of the February Revolution. After returning to Ukraine, he became a key figure in the organization of the "Revolutionary Insurrectionary Army of Ukraine" (also known as the "Black Army"), helping organize and protect an anarcho-communist movement in Ukraine. They were defeated by the Bolsheviks in 1921, and Makhno lived the rest of his life in exile in Paris.`,
+        link: 'https://en.wikipedia.org/wiki/Nestor_Makhno',
+        infoSrc: 'http://libcom.org/history/makhno-nestor-1889-1934'
       },
     ],
   },
@@ -5220,13 +5220,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 15th, 2018',
+        title: 'Anna Campbell Dies for Rojava (2018)',
+        imgSrc: require('./assets/eventPhotos/Individuals/annaCampbell.jpg'),
+        description: `Anna Montgomery Campbell, also known as Hêlîn Qereçox, was a British feminist, anarchist and prison abolition activist who fought with the Women's Protection Units (YPJ) in Rojava during the Syrian civil war. On this day in 2018, Campbell was killed by a Turkish Armed Forces missile strike during the Turkish military operation in the Afrin Canton, Operation Olive Branch.\n\nOn her decision to join the Kurdish forces, Campbell said "I wanted to participate in the revolution of women that is being built up here and fight, and join also the weaponized fight against the forces of fascism and the enemies of the revolution. And so now I'm very happy and proud to be going to Afrin to be able to do this."`,
+        link: 'https://anfenglishmobile.com/rojava-syria/memorial-for-ypj-martyr-anna-campbell-in-london-42304',
+        infoSrc: 'https://en.wikipedia.org/wiki/Anna_Campbell'
       },
     ],
   },
@@ -13735,13 +13735,13 @@ export const eventLibrary = {
   '7-14': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'July 14th, 1789',
+        title: 'Storming of the Bastille (1789)',
+        imgSrc: require('./assets/eventPhotos/Events/bastilleStorming.jpg'),
+        description: `On this day in 1789, the Storming of the Bastille occurred in Paris, France. In the months running up to the uprising, the people were facing a dire economic crisis, food shortage, and increased militarization of Paris on orders of King Louis XVI. The Bastille was an armory and prison that was widely perceived as a symbol of royal authority in the city.\n\nAround mid-morning on July 14th, a crowd of approximately one thousand people surrounded the Bastille, calling for the surrender of the prison, the removal of the cannon there, and the release of the arms and gunpowder.\n\nAfter negotiations stalled, the crowd surged into the courtyard of the Bastille and were fired upon by troops in the garrison. In the carnage that followed, 98 protesters and 1 defender of the Bastille were killed. Governor Marquis de Launay capitulated to the crowd and opened up the Bastille doors.\n\nAs news of the successful seizure of the Bastille spread throughout the country, people established parallel structures of power for civic government and militias for civic protection, burned deeds of property, and in some cases attacked wealthy landlords. The Storming of the Bastille is considered a flashpoint that helped ignite French Revolution and is annually commemorated as "Bastille Day" in France today.`,
+        link: 'http://origins.osu.edu/milestones/july-2014-storming-bastille',
+        infoSrc: 'https://en.wikipedia.org/wiki/Storming_of_the_Bastille'
       },
     ],
     'Rebellion': [
@@ -13751,7 +13751,7 @@ export const eventLibrary = {
         title: `Vesey's Uprising (1822)`,
         imgSrc: require('./assets/eventPhotos/Individuals/denmarkVesey.jpg'),
         description: `Denmark Vesey (c. 1767 - July 2, 1822) was a literate, skilled carpenter and leader of African Americans in Charleston, South Carolina. On this day in 1822, he planned a large slave revolt in Charleston, Virginia that would have involved thousands of slaves rising against their masters and sailing to Haiti for freedom. In June, 1822 he was accused and convicted of being the leader of this planned slave revolt and executed on July 2nd.\n\nIn the aftermath of Vesey's and others' convictions, authorities blamed "black religion" for contributing to the uprising, noting that Vesey had co-founded a local African Methodist Episcopal (AME) Church. The reverend of the church was driven out of the state, Charleston officials ordered the large congregation to be dispersed and the building razed, and no black church officially met in Charleston until after the Civil War.`,
-        link: 'https://www.theatlantic. https://en.wikipedia.org/wiki/Coal_Creek_Warcom/magazine/archive/1861/06/denmark-vesey/396239/',
+        link: 'https://www.theatlantic.com/magazine/archive/1861/06/denmark-vesey/396239/',
         infoSrc: 'https://en.wikipedia.org/wiki/Denmark_Vesey'
       },
     ],
@@ -14911,13 +14911,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'July 31st, 1905',
+        title: 'Maji Maji Rebellion Begins (1905)',
+        imgSrc: require('./assets/eventPhotos/Events/majimajiRebellion.jpg'),
+        description: `The Maji Maji Rebellion (Swahili: Vita vya Maji Maji, Maji-Maji-Krieg), was an armed rebellion of Islamic and Animist Africans against German colonial rule in German East Africa (modern-day Tanzania) that began on this day in 1905. The war was triggered by a German policy designed to force the indigenous population to grow cotton for export, and it lasted from 1905 to 1907.\n\nIn the days leading up to the rebellion, a spirit medium named Kinjikitile Ngwale developed a belief that the people of German East Africa had been called upon to eliminate the Germans. On July 31st, in what was the first act of the uprising, Matumbi tribesmen marched on Samanga and destroyed the cotton crop there, as well as a trading post.\n\nIn the aftermath, Kinjikitile was arrested and hanged for treason, and people throughout German East Africa began to revolt. The resulting war lasted two years, with the Germans successfully putting the rebellion down by force.\n\nAs a means to weaken the rebellion, German soldiers deliberately orchestrated a famine by destroying available food sources, devastating the region and killing hundreds of thousands of people. Such was the scale of this destruction that, in 1953, journalist John Gunther noted "even today the Southern Province of Tanganyika, the 'Cinderella Province,' has not fully recovered from the German terror half a century ago. The economy of the region has never been successfully rebuilt.".`,
+        link: 'https://scholarblogs.emory.edu/violenceinafrica/sample-page/the-maji-maji-rebellion-2/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Maji_Maji_Rebellion'
       },
     ],
     'Labor': [
