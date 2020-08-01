@@ -1644,13 +1644,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'January 24th, 1930',
+        title: 'Kim Chwa-chin (1889 - 1930)',
+        imgSrc: require('./assets/eventPhotos/Individuals/kimChwaChin.jpg'),
+        description: `Kim Chwa-chin (also written Kim Chwa-jin) (1889 - 1930) was a Korean general, independence activist, and anarchist who played an important role in the early attempts at development of anarchism in Korea. When Kim was 18, he released 50 families of slaves when he burned the slave registry and provided each family with enough land to live on, resulting in the first emancipation of slaves in modern Korea.\n\nIn 1918, Kim was one of 40 Korean represenatives to sign the Korean Declaration of independence. He then joined the Korea Justice Corps, later becoming the general commander of the Northern Military Administration Office Army and playing a key role in the "Battle of Cheongsanri" against japanese forces.\n\nIn 1928, the Korea Independence Party was formed, and the following year, when the Korean General Association was established as the successor of the new people, Chwa-chin was designated as the President. During this process, conflicts between the nationalist and communist independence activists intensified. On this day in 1930, Kim was assassinated by Park Sang-sil, an agent of the Japanese colonial government.`,
+        link: 'https://web.archive.org/web/20151226035222/http://english.hongseong.go.kr/eng/sub01_05_04.do',
+        infoSrc: 'https://en.wikipedia.org/wiki/Kim_Chwa-chin'
       },
     ],
     'Other': [
@@ -8084,6 +8084,15 @@ export const eventLibrary = {
         link: 'https://snccdigital.org/people/ruby-doris-smith-robinson/',
         infoSrc: 'https://en.wikipedia.org/wiki/Ruby_Doris_Smith-Robinson'
       },
+      {
+        category: 'Birthdays',
+        date: 'April 25th, 1979',
+        title: 'Manal al-Sharif (1979 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/manalAlSharif.jpg'),
+        description: `Manal al-Sharif, born on this day in 1979, is a women's rights activist in Saudia Arabia. In 2011, she co-founded and led the #Women2Drive movement, to challenge the ban on women driving in her country. Wajeha al-Huwaider filmed al-Sharif driving a car as part of the campaign.\n\nAl-Sharif was arrested in 2011 and detained for a week, only released on the conditions of returning for questioning if asked, not driving, and not talking to the media. The New York Times and Associated Press associated the women's driving campaign as part of the Arab Spring and the long duration of al-Sharif's detention due to Saudi authorities' fear of protests.`,
+        link: 'https://www.manal-alsharif.com/about',
+        infoSrc: 'https://en.wikipedia.org/wiki/Manal_al-Sharif'
+      },
     ],
     'Assassinations': [
       {
@@ -9971,13 +9980,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'May 22nd, 2012',
+        title: 'Dawoud al-Marhoon Arrested (2012)',
+        imgSrc: require('./assets/eventPhotos/Individuals/dawoudAlMarhoon.jpg'),
+        description: `Dawoud Al Marhoon (1995 - ) is a Saudi Arabian who, as a teenager, participated in the Saudi Arabian protests during the Arab Spring. On this day in 2012, was arrested by the Saudi Arabian government after refusing to spy on other protesters.\n\nAfter being detained, the Saudi authorities tortured him for weeks and refused to allow him to communicate with anyone on the outside world. For two weeks, Dawoud’s family had no idea where Saudi authorities were holding him, and he was prevented from speaking to a lawyer.\n\nIn September of 2015, he sentenced to death, to be carried out by beheading and crucifixion (in that order).  Secrecy surrounding Saudi’s execution practices prevents the family or the prisoner from receiving prior notification of when the execution will be carried out - according to reprieve.org, Dawoud could now be executed at any time.`,
+        link: 'https://reprieve.org/cases/dawoud-al-marhoon/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Dawoud_al-Marhoon'
       },
     ],
     'Labor': [
@@ -12657,9 +12666,18 @@ export const eventLibrary = {
         date: 'June 28th, 1942',
         title: 'Chris Hani (1942 - 1993)',
         imgSrc: require('./assets/eventPhotos/Individuals/chrisHani.jpg'),
-        description: `Chris Hani, born Martin Thembisile Hani, was the leader of the South African Communist Party and chief of staff of uMkhonto we Sizwe, the armed wing of the African National Congress (ANC). He received military training in the Soviet Union and served in campaigns in the Zimbabwean War of Liberation, also called the Rhodesian Bush War.\n\nHani was a fierce opponent of the apartheid government, but supported the suspension of the ANC's armed struggle in favour of negotiations after becoming head of the party in 1991. He was assassinated by Janusz Walus, an anti-communist Polish immigrant, on 10 April 1993.`,
+        description: `Chris Hani, born Martin Thembisile Hani, was the leader of the South African Communist Party and chief of staff of uMkhonto we Sizwe, the armed wing of the African National Congress (ANC). He received military training in the Soviet Union and served in campaigns in the Zimbabwean War of Liberation, also called the Rhodesian Bush War.\n\nHani was a fierce opponent of the apartheid government, but supported the suspension of the ANC's armed struggle in favour of negotiations after becoming head of the party in 1991. He was assassinated by Janusz Walus, an anti-communist Polish immigrant, on April 10th, 1993.`,
         link: 'https://web.archive.org/web/20170225112546/http://www.sacp.org.za/main.php?ID=2294',
         infoSrc: 'https://en.wikipedia.org/wiki/Chris_Hani'
+      },
+      {
+        category: 'Birthdays',
+        date: 'June 28th, 1981',
+        title: 'Samar Badawi (1981 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/samarBadawi.jpg'),
+        description: `Samar Mohammad Badawi, born on this day in 1981, is a Saudi Arabian human rights activist. Badawi is an advocate for women's rights in Saudi Arabia, having participated in the 2011–2012 women driving campaign and suing the Saudi Arabian government for the right to vote in 2011, making her the first person to file a lawsuit for women's suffrage in the country.\n\nBadawi has been arrested multiple times for her activism and non-compliance with laws that restrict rights for women. After Badawi missed several trial dates relating to charges of disobedience under the Saudi Arabian male guardianship system (brought by her father), she served six months in jail.\n\nIn 2018, Badawi and several other feminist activists were arrested by the Saudi authorities, sparking a major diplomatic dispute between Canada and Saudi Arabia when the former demanded Badawi's immediate release. According to Amnesty International, as of May 2020 Badawi was still imprisoned.`,
+        link: 'https://www.amnesty.org/en/latest/news/2018/11/saudi-arabia-reports-of-torture-and-sexual-harassment-of-detained-activists/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Samar_Badawi'
       },
     ],
     'Assassinations': [
@@ -15073,7 +15091,7 @@ export const eventLibrary = {
         date: 'August 2nd, 1924',
         title: 'James Baldwin (1924 - 1987)',
         imgSrc: require('./assets/eventPhotos/Individuals/jamesBaldwin.jpg'),
-        description: `James Arthur Baldwin was an American novelist, playwright, essayist, poet, and activist. His essays, as collected in Notes of a Native Son (1955), explore intricacies of racial, sexual, and class distinctions in Western society, most notably in regard to the mid-twentieth-century United States.\n\nIn 1963 he conducted a lecture tour of the South for Congress of Racial Equality (CORE), traveling to locations such as Durham and Greensboro in North Carolina, and New Orleans, Louisiana. During the tour, he lectured to students, white liberals, and anyone else listening about his racial ideology, an ideological position between the "muscular approach" of Malcolm X and the nonviolent program of Martin Luther King, Jr.\n\nBaldwin also expressed the hope that socialism would take root in the United States.`,
+        description: `James Arthur Baldwin was an American novelist, playwright, essayist, poet, and activist. His essays, as collected in Notes of a Native Son (1955), explore intricacies of racial, sexual, and class distinctions in Western society, most notably in regard to the mid-twentieth-century United States.\n\nIn 1963 he conducted a lecture tour of the South for Congress of Racial Equality (CORE), traveling to locations such as Durham and Greensboro in North Carolina, and New Orleans, Louisiana. During the tour, he lectured to students, white liberals, and others about his racial ideology, an ideological position between the "muscular approach" of Malcolm X and the nonviolent program of Martin Luther King, Jr.\n\nBaldwin also expressed the hope that socialism would take root in the United States.`,
         link: 'https://www.britannica.com/biography/James-Baldwin',
         infoSrc: 'https://en.wikipedia.org/wiki/James_Baldwin'
       },
@@ -15860,6 +15878,15 @@ export const eventLibrary = {
         description: `Minnie Joycelyn Elders, born on this day in 1933, is an American pediatrician and public health administrator who served as Surgeon General of the United States from 1993 to 1994. Elders was the first African American to serve as Surgeon General and is best known for her frank discussion of her views on controversial issues such as drug legalization, masturbation, and distributing contraception in schools.\n\nAlthough she faced censure from the Clinton administration for advocating the legalization of drugs, it was her sex positive view on masturbation that led to her removal from office. After stating "I think that [masturbation] is part of human sexuality, and perhaps it should be taught", Clinton forced her to resign as Surgeon General in December of 1994. She is currently a professor emerita of pediatrics at the University of Arkansas for Medical Sciences.`,
         link: 'https://cfmedicine.nlm.nih.gov/physicians/biography_98.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Joycelyn_Elders'
+      },
+      {
+        category: 'Birthdays',
+        date: 'August 13th, 1983*',
+        title: 'Michael Brooks (1983 - 2020)',
+        imgSrc: require('./assets/eventPhotos/Individuals/michaelBrooks.jpg'),
+        description: `*the source for this birthday date is a tweet by Brooks and is not confirmed\n\nMichael Jamal Brooks, born on this day in 1983, was an American talk show host, writer, political commentator, and dissident. He launched "The Michael Brooks Show" in August 2017, interviewing figures such as Noam Chomsky, Cornel West, Adolph Reed, and Slavoj Žižek.\n\nBrooks was a self-identified progressive and democratic socialist. One of his last publications was a book titled "Against the Web: A Cosmopolitan Answer to the New Right was published by Zero Books", which offered a critique of the popular figures associated with the intellectual dark web (IDW) and argued that a focus on deplatforming has harmed the left's ability to organize.`,
+        link: 'https://jacobinmag.com/2020/07/remembering-our-friend-and-comrade-michael-brooks',
+        infoSrc: 'https://en.wikipedia.org/wiki/Michael_Brooks_(political_commentator)'
       },
     ],
     'Assassinations': [
@@ -24650,13 +24677,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 16th, 1889',
+        title: 'Kim Chwa-chin (1889 - 1930)',
+        imgSrc: require('./assets/eventPhotos/Individuals/kimChwaChin.jpg'),
+        description: `Kim Chwa-chin (also written Kim Chwa-jin), born on this day in 1889, was a Korean general, independence activist, and anarchist who played an important role in the early attempts at development of anarchism in Korea. When Kim was 18, he released 50 families of slaves when he burned the slave registry and provided each family with enough land to live on, resulting in the first emancipation of slaves in modern Korea.\n\nIn 1918, Kim was one of 40 Korean represenatives to sign the Korean Declaration of independence. He then joined the Korea Justice Corps, later becoming the general commander of the Northern Military Administration Office Army and playing a key role in the "Battle of Cheongsanri" against japanese forces.\n\nIn 1928, the Korea Independence Party was formed, and the following year, when the Korean General Association was established as the successor of the new people, Chwa-chin was designated as the President. During this process, conflicts between the nationalist and communist independence activists intensified. On January 24th, 1930, Kim was assassinated by Park Sang-sil, an agent of the Japanese colonial government.`,
+        link: 'https://web.archive.org/web/20151226035222/http://english.hongseong.go.kr/eng/sub01_05_04.do',
+        infoSrc: 'https://en.wikipedia.org/wiki/Kim_Chwa-chin'
       },
     ],
     'Assassinations': [
