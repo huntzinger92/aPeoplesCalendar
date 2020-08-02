@@ -568,7 +568,7 @@ export const eventLibrary = {
         date: 'January 9th, 1964',
         title: `Panamanian Flag Protest (1964)`,
         imgSrc: require('./assets/eventPhotos/Events/martyrsDay.jpg'),
-        description: `On this day in 1964, the anti-American riot known as the "Flag Protest" began over sovereignty of the Panama Canal Zone, which was controlled by the United States. The riot started after a attempt by students to fly the Panamanian flag turned violent as police shot and killed protesters, tearing the flag in the process.\n\nAfter news of the violence and flag desecration spread, angry residents from the area turned out to confront police. That evening, less than a hundred police were overwhelmed by several thousand protesters who set fire to American-owned businesses in the area. U.S. troops were put on the ground to quell the rebellion.\n\nIn total, at least twenty-two Panamanians and four U.S. soldiers died in the fighting. The event is now a national day of mourning in Panama, commemorated annually as "Martyr's Day". The riots are considered to be a significant factor in the U.S. decision to transfer control of the Canal Zone to Panama through the 1977 Torrijos–Carter Treaties.`,
+        description: `On this day in 1964, the anti-American riot known as the "Flag Protest" began over sovereignty of the Panama Canal Zone, which was controlled by the United States. The riot started after a attempt by students to fly the Panamanian flag turned violent as police shot and killed protesters, tearing the flag in the process.\n\nAfter news of the violence and flag desecration spread, angry residents from the area turned out to confront police. That evening, less than a hundred police were overwhelmed by several thousand protesters who set fire to American-owned businesses in the area. U.S. troops were put on the ground to quell the rebellion.\n\nIn total, at least twenty-two Panamanians and four U.S. soldiers died in the fighting. The event is now a national day of mourning in Panama, commemorated annually as "Martyr's Day". The riots are considered to be a significant factor in the U.S. decision to transfer control of the Canal Zone to Panama through the 1977 Torrijos-Carter Treaties.`,
         link: 'https://santamariatimes.com/news/local/throwback-thursday-martyrs-day-in-panama-commemorates-riots-over-control/article_b67fce70-592e-5dc7-878a-0f300553a5f0.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Martyrs%27_Day_(Panama)'
       },
@@ -1532,13 +1532,13 @@ export const eventLibrary = {
   '1-23': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'January 23rd, 1963',
+        title: 'Guinea-Bissau War of Independence Begins (1963)',
+        imgSrc: require('./assets/eventPhotos/Events/paigc1963.jpg'),
+        description: `The Guinea-Bissau War of Independence was an armed independence conflict that took place in Portuguese Guinea, beginning on this day in 1963 and lasting until 1974.\n\nFought between Portugal and the African Party for the Independence of Guinea and Cape Verde (PAIGC), the war is commonly referred to as "Portugal's Vietnam" due to the large numbers of men and amounts of material expended in a long, mostly guerrilla war and the internal political turmoil it created in Portugal. Until his assassination in 1973, pan-African socialist Amílcar Cabral played a key role in the revolutionary activity of PAIGC.\n\nThe first act of the revolution took place on January 23rd, when PAIGC guerrillas attacked a Portuguese garrison in Tite, near the Corubal River, south of Bissau. Similar guerrilla actions quickly spread across the colony. PAIGC had few weapons - perhaps only one submachine gun and two pistols per group - and so they attacked Portuguese convoys to gain more weapons.\n\nThe war ended when Portugal, after the left-wing Carnation Revolution of 1974, granted independence to Guinea-Bissau, with Cape Verde's independence following a year later.`,
+        link: 'https://uca.edu/politicalscience/dadm-project/sub-saharan-africa-region/portuguese-guinea-1951-1974/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Guinea-Bissau_War_of_Independence'
       },
     ],
     'Rebellion': [
@@ -2135,7 +2135,7 @@ export const eventLibrary = {
         date: 'January 31st, 1971',
         title: 'Winter Soldier Investigation (1971)',
         imgSrc: require('./assets/eventPhotos/Events/winterSoldierInvestigation.jpg'),
-        description: `The "Winter Soldier Investigation" was a media event sponsored by the Vietnam Veterans Against the War (VVAW) that began on this day in 1971, continuing to February 2nd.\n\nThe event was intended to publicize war crimes and atrocities by the United States Armed Forces and their allies in the Vietnam War. The VVAW challenged the morality and conduct of the war by showing the direct relationship between military policies and war crimes in Vietnam. More than one hundred people all gave testimony about war crimes they had committed or witnessed during the years 1963–1970.\n\nWith the exception of Pacifica Radio, the event was not covered extensively outside Detroit. Several journalists and a film crew recorded the event, however, and a documentary film called Winter Soldier was released in 1972. A complete transcript was later entered into the Congressional Record by Senator Mark Hatfield (R-OR).`,
+        description: `The "Winter Soldier Investigation" was a media event sponsored by the Vietnam Veterans Against the War (VVAW) that began on this day in 1971, continuing to February 2nd.\n\nThe event was intended to publicize war crimes and atrocities by the United States Armed Forces and their allies in the Vietnam War. The VVAW challenged the morality and conduct of the war by showing the direct relationship between military policies and war crimes in Vietnam. More than one hundred people all gave testimony about war crimes they had committed or witnessed during the years 1963-1970.\n\nWith the exception of Pacifica Radio, the event was not covered extensively outside Detroit. Several journalists and a film crew recorded the event, however, and a documentary film called Winter Soldier was released in 1972. A complete transcript was later entered into the Congressional Record by Senator Mark Hatfield (R-OR).`,
         link: 'http://www.wintersoldier.com/',
         infoSrc: 'https://en.wikipedia.org/wiki/Winter_Soldier_Investigation'
       },
@@ -8052,13 +8052,13 @@ export const eventLibrary = {
   '4-25': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'April 25th, 1974',
+        title: 'Carnation Revolution (1974)',
+        imgSrc: require('./assets/eventPhotos/Events/carnationRevolution.jpg'),
+        description: `The Carnation Revolution (Portuguese: Revolução dos Cravos), was an anti-colonial military coup in Lisbon which overthrew the authoritarian Estado Novo regime. The revolution began as a coup organised by the Armed Forces Movement (MFA), composed of military officers who opposed the regime, but it was soon coupled with an unanticipated, mass civil resistance campaign.\n\nAside from toppling the Estado Novo government, the revolution ended the Portuguese Colonial War (leading to independence for Guinea-Bissau, Cape Verde, Angola, and others) and started a political process that would result in a democratic Portugal.\n\nAfter the coup, power was held by the National Salvation Junta (a military junta), and Portugal experienced a period of political turmoil as conflicting communist, socialist, and right-wing forces fought each other for power.\n\nPortugal's first free election was took place on the one-year anniversary of the Carnation Revolution in order to write a new constitution for the country. Another election was held in 1976 and the first constitutional government, led by centre-left socialist Mário Soares, took office.`,
+        link: 'https://www.jacobinmag.com/2019/04/portugal-carnation-revolution-national-liberation-april',
+        infoSrc: 'https://en.wikipedia.org/wiki/Carnation_Revolution'
       },
     ],
     'Rebellion': [
@@ -12693,7 +12693,7 @@ export const eventLibrary = {
         date: 'June 28th, 1981',
         title: 'Samar Badawi (1981 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/samarBadawi.jpg'),
-        description: `Samar Mohammad Badawi, born on this day in 1981, is a Saudi Arabian human rights activist. Badawi is an advocate for women's rights in Saudi Arabia, having participated in the 2011–2012 women driving campaign and suing the Saudi Arabian government for the right to vote in 2011, making her the first person to file a lawsuit for women's suffrage in the country.\n\nBadawi has been arrested multiple times for her activism and non-compliance with laws that restrict rights for women. After Badawi missed several trial dates relating to charges of disobedience under the Saudi Arabian male guardianship system (brought by her father), she served six months in jail.\n\nIn 2018, Badawi and several other feminist activists were arrested by the Saudi authorities, sparking a major diplomatic dispute between Canada and Saudi Arabia when the former demanded Badawi's immediate release. According to Amnesty International, as of May 2020 Badawi was still imprisoned.`,
+        description: `Samar Mohammad Badawi, born on this day in 1981, is a Saudi Arabian human rights activist. Badawi is an advocate for women's rights in Saudi Arabia, having participated in the 2011-2012 women driving campaign and suing the Saudi Arabian government for the right to vote in 2011, making her the first person to file a lawsuit for women's suffrage in the country.\n\nBadawi has been arrested multiple times for her activism and non-compliance with laws that restrict rights for women. After Badawi missed several trial dates relating to charges of disobedience under the Saudi Arabian male guardianship system (brought by her father), she served six months in jail.\n\nIn 2018, Badawi and several other feminist activists were arrested by the Saudi authorities, sparking a major diplomatic dispute between Canada and Saudi Arabia when the former demanded Badawi's immediate release. According to Amnesty International, as of May 2020 Badawi was still imprisoned.`,
         link: 'https://www.amnesty.org/en/latest/news/2018/11/saudi-arabia-reports-of-torture-and-sexual-harassment-of-detained-activists/',
         infoSrc: 'https://en.wikipedia.org/wiki/Samar_Badawi'
       },
@@ -14962,7 +14962,7 @@ export const eventLibrary = {
         date: 'July 31st, 1835',
         title: 'Washington Navy Yard Strike (1835)',
         imgSrc: require('./assets/eventPhotos/Events/washingtonNavyYard.jpg'),
-        description: `The Washington Navy Yard Labor Strike of 1835 is considered the first strike of federal civilian employees. The strike began on this day in 1835 and lasted just over two weeks. The strike was in support of the movement advocating a ten-hour work day and for a redress of grievances such as newly imposed lunch hour regulations.\n\nThe strike failed in its objectives for two reasons. First, the Secretary of the Navy refused to change the shipyard working hours. Second, many of the striking workers (who were white) went on to attack the capitol's free black population in an incident known as the "Snow Riot", and this killed public support for the strike itself.\n\nAll public workers would receive a ten hour day five years later, in 1840.`,
+        description: `The Washington Navy Yard Labor Strike of 1835 is considered the first strike of federal civilian employees. The strike began on this day in 1835 and lasted just over two weeks. The strike was in support of the movement advocating a ten-hour work day and for a redress of grievances such as newly imposed lunch hour regulations.\n\nThere were two primary reasons that the strike failed in its objectives. First, the Secretary of the Navy refused to change the shipyard working hours. Second, the striking workers (who were white) violently lashed out at the capitol's free black population in an incident known as the "Snow Riot", and this killed public support for the strike itself.\n\nFive years later, in 1840, all public workers finally received a ten hour day by order of President Martn Van Buren.`,
         link: 'https://en.wikipedia.org/wiki/Snow_Riot',
         infoSrc: 'https://en.wikipedia.org/wiki/1835_Washington_Navy_Yard_labor_strike'
       },
@@ -15055,6 +15055,15 @@ export const eventLibrary = {
         description: `William "Sid" Hatfield was Police Chief of Matewan, West Virginia who was supportive of coal miners' attempts to unionize and helped them resist the efforts of the union-busting, family-evicting Baldwin-Felts Detective Agency.\n\nHe is most knowm for his role in "The Battle of Matewan", a shootout between Hatfield, armed miners, and Baldwin-Felts agents that killed ten people. The shootout occurred when Hatfield and Albert Felts tried to arrest each other, which culminated in Hatfield killing Felts.\n\nHatfield was later assassinated by Baldwin-Felts agents while standing trial for murder, which increased the tensions between coal miners and company owners.`,
         link: 'https://www.wvencyclopedia.org/articles/1576',
         infoSrc: 'https://en.wikipedia.org/wiki/Sid_Hatfield'
+      },
+      {
+        category: 'Assassinations',
+        date: 'August 1st, 1917',
+        title: 'Frank Little (1878 - 1917)',
+        imgSrc: require('./assets/eventPhotos/Individuals/frankLittle.jpg'),
+        description: `Frank H. Little was an American labor leader and organizer with the International Workers of the World (IWW) who was murdered on this day in 1917, Butte, Montana. In the months before his death, Little had been helping organize copper workers in a strike against the Anaconda Copper Company and speaking out against World War I, calling it a "rich man's war and a poor man's fight".\n\nIn the early hours of August 1st, six masked men broke into the boardinghouse where he was staying and beat, kidnapped, and lynched Little by tying him to the back of a speeding car. No one was apprehended for his murder, although IWW members alleged members of the local police were involved, noting that Butte's chief of detectives, Ed Morrissey, took a three week leave of absence after Little's death.\n\nAn estimated 10,000 workers lined the route of Frank Little's funeral procession, which was followed by 3,500 more people. His funeral is still the largest ever in Butte history.`,
+        link: 'https://en.wikipedia.org/wiki/Frank_Little_(unionist)',
+        infoSrc: 'https://archive.iww.org/history/biography/FrankLittle/1/'
       },
     ],
     'Other': [
@@ -16442,7 +16451,7 @@ export const eventLibrary = {
         date: 'August 21st, 1971',
         title: 'George Jackson Escape Attempt (1971)',
         imgSrc: require('./assets/eventPhotos/Individuals/georgeJacksonDeath.jpg'),
-        description: `George Lester Jackson (1941 - 1971) was an African-American author and revolutionary. While serving a sentence for armed robbery in 1961, Jackson co-founded the Marxist–Leninist Black Guerrilla Family.\n\nOn this day in 1971, he made a daring attempt at escaping prison. Having received a smuggled handgun, Jackson took hostages and (temporarily) freed twenty-six prisoners at gunpoint. Before releasing them from their cells, he alluded to the writings of Ho Chi Minh, stating "Gentleman, the dragon has come".\n\nThree guards and two prisoners were murdered in the escape attempt, and Jackson himself was shot dead while leaving the building. Jackson's death was a flashpoint in prison politics and leftist organizing. Two weeks after his escape attempt, the notorious Attica Prison Riots began.`,
+        description: `George Lester Jackson (1941 - 1971) was an African-American author and revolutionary. While serving a sentence for armed robbery in 1961, Jackson co-founded the Marxist-Leninist Black Guerrilla Family.\n\nOn this day in 1971, he made a daring attempt at escaping prison. Having received a smuggled handgun, Jackson took hostages and (temporarily) freed twenty-six prisoners at gunpoint. Before releasing them from their cells, he alluded to the writings of Ho Chi Minh, stating "Gentleman, the dragon has come".\n\nThree guards and two prisoners were murdered in the escape attempt, and Jackson himself was shot dead while leaving the building. Jackson's death was a flashpoint in prison politics and leftist organizing. Two weeks after his escape attempt, the notorious Attica Prison Riots began.`,
         link: 'https://en.wikipedia.org/wiki/George_Jackson_(activist)',
         infoSrc: 'https://www.sfgate.com/bayarea/article/EXIT-THE-DRAGON-It-s-been-30-years-since-George-2888071.php'
       },
@@ -17362,7 +17371,7 @@ export const eventLibrary = {
       {
         category: 'Labor',
         date: 'September 3rd, 2013',
-        title: `South Africa Miners' Strike (2013)`,
+        title: `South Africa Miners Strike (2013)`,
         imgSrc: require('./assets/eventPhotos/Events/southAfrica2013Strike.jpg'),
         description: `On this day in 2013, an estimated 80,000 - 90,000 gold miners went on strike in South Africa, demanding a 60% wage increase to $775 per month.\n\nMining in South Africa has a troubled past, with colonizers enforcing de facto slave labor in the early 20th century to the government using live ammunition to massacre 34 striking miners just a year prior to this strike. The year 2013 was called "The Year of the Strike" in South Africa by reporter Alec Hogg, with over tens of thousands of auto manufacturing, agricultural, and construction workers also going on strike in the same year.`,
         link: 'https://theweek.com/articles/460495/everything-need-know-about-south-african-gold-miners-strike',
@@ -17755,7 +17764,7 @@ export const eventLibrary = {
         date: 'September 8th, 1978',
         title: 'Black Friday (Iran, 1978)',
         imgSrc: require('./assets/eventPhotos/Events/blackFridayIran.jpg'),
-        description: `Black Friday is the name given to a massacre that occurred on 8 this day in Iran in 1978, in which around 88 people were shot dead and 205–8,000 injured by the Pahlavi military in Tehran. In began when thousands of protesters gathered in Tehran's Jaleh Square for a religious demonstration, unaware that the government had declared martial law a day earlier due to widespread political unrest.\n\nSome sources estimate that 4,000 people were shot down by tanks, guns, and military helicopters. The deaths were described as the pivotal event in the Iranian Revolution that ended any "hope for compromise" between the protest movement and regime of Shah Mohammad Reza Pahlavi.\n\nThe massacre led to widespread protests, and a general strike in October shut down the petroleum industry that was essential to the administration's survival. The Shah fled Iran in January 1979, clearing the way for the Iranian Revolution, led by Ayatollah Ruhollah Khomeini.`,
+        description: `Black Friday is the name given to a massacre that occurred on 8 this day in Iran in 1978, in which around 88 people were shot dead and 205-8,000 injured by the Pahlavi military in Tehran. In began when thousands of protesters gathered in Tehran's Jaleh Square for a religious demonstration, unaware that the government had declared martial law a day earlier due to widespread political unrest.\n\nSome sources estimate that 4,000 people were shot down by tanks, guns, and military helicopters. The deaths were described as the pivotal event in the Iranian Revolution that ended any "hope for compromise" between the protest movement and regime of Shah Mohammad Reza Pahlavi.\n\nThe massacre led to widespread protests, and a general strike in October shut down the petroleum industry that was essential to the administration's survival. The Shah fled Iran in January 1979, clearing the way for the Iranian Revolution, led by Ayatollah Ruhollah Khomeini.`,
         link: 'https://english.khamenei.ir/news/7020/Black-Friday-a-bloody-day-which-led-to-the-victory-of-the-Islamic',
         infoSrc: 'https://en.wikipedia.org/wiki/Black_Friday_(1978)'
       },
@@ -18575,7 +18584,7 @@ export const eventLibrary = {
         date: 'September 19th, 1956',
         title: 'PAIGC Founded (1956)',
         imgSrc: require('./assets/eventPhotos/Organizations/PAIGC.png'),
-        description: `The African Party for the Independence of Guinea and Cape Verde (Portuguese: Partido Africano para a Independência da Guiné e Cabo Verde, PAIGC) is a political party in Guinea-Bissau that was founded on this day in 1959. It had six founding members, including Amílcar Cabral and his half-brother Luís.\n\nOriginally formed to peacefully campaign for independence from Portugal, the party turned to armed conflict after the Pidjiguiti Massacre in 1959, where police fired into a crowd of striking workers, killing dozens.\n\nPAIGC was one of the belligerents in the Guinea-Bissau War of Independence, fought against Portugal. Towards the end of the war, the party established a Marxist–Leninist one-party state, which remained intact until multi-party democracy was introduced in the early 1990s.`,
+        description: `The African Party for the Independence of Guinea and Cape Verde (Portuguese: Partido Africano para a Independência da Guiné e Cabo Verde, PAIGC) is a political party in Guinea-Bissau that was founded on this day in 1959. It had six founding members, including Amílcar Cabral and his half-brother Luís.\n\nOriginally formed to peacefully campaign for independence from Portugal, the party turned to armed conflict after the Pidjiguiti Massacre in 1959, where police fired into a crowd of striking workers, killing dozens.\n\nPAIGC was one of the belligerents in the Guinea-Bissau War of Independence, fought against Portugal. Towards the end of the war, the party established a Marxist-Leninist one-party state, which remained intact until multi-party democracy was introduced in the early 1990s.`,
         link: 'https://uca.edu/politicalscience/dadm-project/sub-saharan-africa-region/portuguese-guinea-1951-1974/',
         infoSrc: 'https://en.wikipedia.org/wiki/African_Party_for_the_Independence_of_Guinea_and_Cape_Verde'
       },
@@ -18834,7 +18843,7 @@ export const eventLibrary = {
         date: 'September 23rd, 1941',
         title: 'George Jackson (1941 - 1971)',
         imgSrc: require('./assets/eventPhotos/Individuals/georgeJackson.jpg'),
-        description: `George Lester Jackson, born on this day in 1941, was an African-American author and revolutionary. While serving a sentence for armed robbery in 1961, Jackson co-founded the Marxist–Leninist Black Guerrilla Family.\n\nIn 1970, he was charged, along with two other Soledad Brothers, with the murder of prison guard John Vincent Mills in the aftermath of a prison fight. The same year, he published "Soledad Brother: The Prison Letters of George Jackson", a combination of autobiography and manifesto addressed to a black American audience. The book became a bestseller and earned Jackson personal fame.\n\nJackson was killed during an attempted prison escape on August 21st, 1971. Quoting communist revolutionary Ho Chi Minh, Jackson freed twenty-six prisoners and took hostages at gunpoint. Jackson and five other men were killed.`,
+        description: `George Lester Jackson, born on this day in 1941, was an African-American author and revolutionary. While serving a sentence for armed robbery in 1961, Jackson co-founded the Marxist-Leninist Black Guerrilla Family.\n\nIn 1970, he was charged, along with two other Soledad Brothers, with the murder of prison guard John Vincent Mills in the aftermath of a prison fight. The same year, he published "Soledad Brother: The Prison Letters of George Jackson", a combination of autobiography and manifesto addressed to a black American audience. The book became a bestseller and earned Jackson personal fame.\n\nJackson was killed during an attempted prison escape on August 21st, 1971. Quoting communist revolutionary Ho Chi Minh, Jackson freed twenty-six prisoners and took hostages at gunpoint. Jackson and five other men were killed.`,
         link: 'https://www.sfgate.com/bayarea/article/EXIT-THE-DRAGON-It-s-been-30-years-since-George-2888071.php',
         infoSrc: 'https://en.wikipedia.org/wiki/George_Jackson_(activist)'
       },
@@ -19247,13 +19256,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 29th, 1933',
+        title: 'Samora Machel (1933 - 1986)',
+        imgSrc: require('./assets/eventPhotos/Individuals/samoraMachel.jpg'),
+        description: `Samora Moisés Machel, born on this day in 1933, was a Mozambican military commander, politician and revolutionary. A socialist in the tradition of Marxism-Leninism, he served as the first President of Mozambique from the country's independence in 1975.\n\nBefore serving as president, Machel led the Mozambique Liberation Front (FRELIMO) against colonial forces from 1970 until the political aftermath of the Portuguese Carnation Revolution ended the war four years later.\n\nOn June 25th, 1975, Mozambique became a formally independent nation with Machel as its first president. He stated the new nation would be "a state of People's Democracy, in which, under the leadership of the worker-peasant alliance, all patriotic strata commit themselves to the destruction of the sequels of colonialism, and to annihilate the system of exploitation of man by man".\n\nOn October 19th, 1986, Machel attended a summit in Mbala, Zambia, called to put pressure on Zairean dictator Mobutu Sese Seko, over his support for the Angolan opposition movement UNITA. On his return trip to Maputo (the capitol of Mozambique), Machel's plane crashed near the Mozambican-South African border, killing him and 33 others.`,
+        link: 'https://www.sahistory.org.za/people/samora-machel',
+        infoSrc: 'https://en.wikipedia.org/wiki/Samora_Machel'
       },
     ],
     'Assassinations': [
