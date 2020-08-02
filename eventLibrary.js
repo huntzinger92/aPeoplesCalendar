@@ -1372,13 +1372,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'January 20th, 1973',
+        title: 'Amílcar Cabral (1924 - 1973)',
+        imgSrc: require('./assets/eventPhotos/Individuals/amilcarCabral.jpg'),
+        description: `Amílcar Lopes da Costa Cabral was a Bissau-Guinean and Cape Verdean agricultural engineer, intellectual, theoretician, revolutionary, political organizer, nationalist, and diplomat who was assassinated on this day in 1973. He was one of Africa's foremost anti-colonial leaders, leading the nationalist movement of Guinea-Bissau and Cape Verde Islands and the ensuing war of independence in Guinea-Bissau.\n\nFrom 1963 until his death, he led the Partido Africano da Independência da Guiné e Cabo Verde (PAIGC) guerrilla movement against the Portuguese government, which evolved into one of the most successful wars of independence in modern African history. The goal of the conflict was to attain independence for both Portuguese Guinea and Cape Verde.\n\nCabral was assassinated in 1973, about eight months before Guinea-Bissau's unilateral declaration of independence, likely by a Portugal-backed assassin. Cabral's pan-Africanism and revolutionary socialism continues to be an inspiration for socialists and national independence movements worldwide.`,
+        link: 'https://www.jacobinmag.com/2019/10/amilcar-cabral-portuguese-colonialism-biography',
+        infoSrc: 'https://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral'
       },
     ],
     'Other': [
@@ -5033,7 +5033,7 @@ export const eventLibrary = {
         date: 'March 13th, 1979',
         title: 'Revolution in Grenada (1979)',
         imgSrc: require('./assets/eventPhotos/Events/grenadaRevolution.jpg'),
-        description: `On this day in 1979, The People's Revolutionary Government (PRG) was proclaimed after the New Jewel Movement overthrew the government of Grenada in a socialist revolution. Maurice Bishop, leader of the New Jewel Movement, became Prime Minister.\n\nThe regime was particularly active in developing social policies: a Centre for Popular Education was established to coordinate government initiatives in education, including literacy campaigns. The learning of Grenada Creole was allowed at school. In the health sector, medical consultations were made free of charge with the help of Cuba, which provided doctors, and milk was distributed to pregnant women and children. The government also began setting up a system of financial loans and equipment for farmers, and agricultural cooperatives were being set up to develop the activity.\n\nThe government ruled by decree, having suspended the constitution the previous regime, until a factional conflict broke out, which resulted in Maurice Bishop's exeuction. Ronald Reagan launched an invasion a few weeks later, in October of 1983.`,
+        description: `On this day in 1979, The People's Revolutionary Government (PRG) was proclaimed after the New Jewel Movement overthrew the government of Grenada in a socialist revolution. Maurice Bishop, leader of the New Jewel Movement, became Prime Minister.\n\nThe regime was particularly active in developing social policies: a Centre for Popular Education was established to coordinate government initiatives in education, including literacy campaigns. The learning of Grenada Creole was allowed at school.\n\nIn the health sector, medical consultations were made free of charge with the help of Cuba, which provided doctors, and milk was distributed to pregnant women and children. The government also began setting up a system of financial loans and equipment for farmers, and agricultural cooperatives were being set up to develop the activity.\n\nThe government ruled by decree, having suspended the constitution the previous regime, until a factional conflict broke out, which resulted in Maurice Bishop's exeuction. Ronald Reagan launched an invasion a few weeks later, in October of 1983.`,
         link: 'https://www.jacobinmag.com/2019/09/grenada-revolution-maurice-bishop-reagan',
         infoSrc: 'https://en.wikipedia.org/wiki/People%27s_Revolutionary_Government_(Grenada)'
       },
@@ -7113,6 +7113,15 @@ export const eventLibrary = {
         description: `Raymond Bonner, born on this day in 1942, is an American author and investigative reporter who has been a staff writer at the New York Times, The New Yorker and has contributed to The New York Review of Books.\n\nBonner is best known as one of two journalists (the other being Alma Guillermoprieto of The Washington Post) who broke the story of the El Mozote massacre, in which some 900 villagers, mostly women, children, and elderly, were slaughtered in El Salvador by a unit of the Salvadoran army in 1981.\n\nThe reporting was controversial due to President Reagan's support for the Salvadoran government, and the Times removed Bonner from covering El Salvador, assigning him to the financial desk. He eventually resigned.\n\nIn 2008 the Washington Post reported that Bonner had been one of the four journalists whose telephone call records had been illegally obtained by the FBI between 2002 and 2006. During that time Bonner had been based in Jakarta, Indonesia, filing reports on detainee abuse and illegal surveillance.`,
         link: 'https://www.theatlantic.com/author/raymond-bonner/',
         infoSrc: 'https://en.wikipedia.org/wiki/Raymond_Bonner'
+      },
+      {
+        category: 'Birthdays',
+        date: 'April 11th, 1942',
+        title: 'Luís Cabral (1942 - 2009)',
+        imgSrc: require('./assets/eventPhotos/Individuals/luisCabral.jpg'),
+        description: `Luís Severino de Almeida Cabral, born on this day in 1942, was a Bissau-Guinean politician who was the first president of Guinea-Bissau. Luís Cabral was a half-brother of noted pan-African revolutionary Amílcar Cabral, with whom he co-founded the African Party for the Independence of Guinea and Cape Verde (PAIGC) in 1956.\n\nPAIGC was one of the agitators for freedom against Portuguese colonial rule, and fought the Guinea-Bissau War of Independence against Portugal, winning the country's independence in 1974. Luís Cabral became the leader of the party in 1973 after Amílcar was assassinated that year.\n\nCarbal served as president of Buinea-Bissau from 1974 to 1980, when a military coup d'état led by João Bernardo Vieira deposed him. After losing power, Carbal was exiled to Portugal, where he died in 2009.`,
+        link: 'https://www.theguardian.com/world/2009/jun/08/luis-cabral-obituary',
+        infoSrc: 'https://en.wikipedia.org/wiki/Lu%C3%ADs_Cabral'
       },
     ],
     'Assassinations': [
@@ -10009,6 +10018,15 @@ export const eventLibrary = {
         description: `Richard Oakes was a Mohawk Native American activist. He spurred Native American studies in university curricula and is credited for helping to change U.S. federal government Termination policies of Native American peoples and culture. Oakes led a 19-month occupation of Alcatraz Island with LaNada Means, approximately 50 California State University students, and 37 others.\n\nIn 1972, Oakes was shot and killed in Sonoma, California, by Michael Morgan, a YMCA camp manager. Oakes allegedly violently confronted him, and Morgan responded by drawing a handgun and fatally shooting Oakes. Oakes was unarmed when he was shot. Morgan claimed he acted in self-defense and was acquitted on charges of voluntary manslaughter.`,
         link: 'https://www.npr.org/sections/thetwo-way/2017/05/22/529504340/richard-oakes-who-occupied-alcatraz-for-native-rights-gets-a-birthday-honor',
         infoSrc: 'https://en.wikipedia.org/wiki/Richard_Oakes_(activist)'
+      },
+      {
+        category: 'Birthdays',
+        date: 'May 22nd, 1930',
+        title: 'Harvey Milk (1930 - 1978)',
+        imgSrc: require('./assets/eventPhotos/Individuals/harveyMilk.jpg'),
+        description: `Harvey Bernard Milk, born on this day in 1930, was an American politician and the first openly gay elected official in the history of California, where he was elected to the San Francisco Board of Supervisors. Although he was the most pro-LGBT politician in the United States at the time, politics was not something he came to later in life, after his experiences in the counterculture movement of the 1960s.\n\nIn 1972, Milk moved from New York City to the Castro District of San Francisco and took advantage of the growing political and economic power of the neighborhood to promote his activism. Milk's unsuccessfully ran for office three times, but finally won a seat as a city supervisor in 1977.\n\nMilk was assassinated after only eleven months in office by Dan White, another city supervisor. During Milk's short time in office, he sponsored a bill banning discrimination in public accommodations, housing, and employment on the basis of sexual orientation. After his death, Milk became an icon in San Francisco and a martyr for the gay community.`,
+        link: 'http://milkfoundation.org/about/harvey-milk-biography/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Harvey_Milk'
       },
     ],
     'Assassinations': [
@@ -15152,6 +15170,15 @@ export const eventLibrary = {
         link: 'https://www.wnycstudios.org/podcasts/takeaway/segments/164690-strike-changed-american-labor',
         infoSrc: 'https://en.wikipedia.org/wiki/Professional_Air_Traffic_Controllers_Organization_(1968)#August_1981_strike'
       },
+      {
+        category: 'Labor',
+        date: 'August 3rd, 1959',
+        title: 'Pidjiguiti Massacre (1959)',
+        imgSrc: require('./assets/eventPhotos/Events/pidjiguitiMassacre.jpg'),
+        description: `The Pidjiguiti Massacre was an attack on striking workers that took place on this day in 1959, at the Port of Bissau's Pidjiguiti docks in Bissau, Portuguese Guinea. Dock workers went on strike, seeking higher pay, but the manager called the Portuguese state police (PIDE), who fired into the crowd, killing at least 25 people.\n\nThe government blamed the revolutionary group Partido Africano para a Independência da Guiné e Cabo Verde (PAIGC), arresting several of its members. The incident caused PAIGC to abandon their campaign of nonviolent resistance, leading directly to the Guinea-Bissau War of Independence in 1963, which culminated in independence for Cape Verde and all of Portuguese Africa.\n\nToday, near the Pidjiguiti docks, there is a large black fist known as the "Hand of Timba", which commemorates those killed that day.`,
+        link: 'https://www.dw.com/pt-002/carlos-correia-a-testemunha-do-massacre-de-pidjiguiti/a-17656283',
+        infoSrc: 'https://en.wikipedia.org/wiki/Pidjiguiti_massacre'
+      },
     ],
     'Birthdays': [
       {
@@ -18000,6 +18027,15 @@ export const eventLibrary = {
         link: 'https://montanapioneer.com/an-interview-with-leonard-peltier/',
         infoSrc: 'https://en.wikipedia.org/wiki/Leonard_Peltier'
       },
+      {
+        category: 'Birthdays',
+        date: 'September 12th, 1924',
+        title: 'Amílcar Cabral (1924 - 1973)',
+        imgSrc: require('./assets/eventPhotos/Individuals/amilcarCabral.jpg'),
+        description: `Amílcar Lopes da Costa Cabral, born on this day in 1924, was a Bissau-Guinean and Cape Verdean agricultural engineer, intellectual, theoretician, revolutionary, political organizer, nationalist, and diplomat. He was one of Africa's foremost anti-colonial leaders, leading the nationalist movement of Guinea-Bissau and Cape Verde Islands and the ensuing war of independence in Guinea-Bissau.\n\nFrom 1963 until his death, he led the Partido Africano da Independência da Guiné e Cabo Verde (PAIGC) guerrilla movement against the Portuguese government, which evolved into one of the most successful wars of independence in modern African history. The goal of the conflict was to attain independence for both Portuguese Guinea and Cape Verde.\n\nCabral was assassinated on January 20th, 1973 (likely by a Portugal-backed assassin) about eight months before Guinea-Bissau's unilateral declaration of independence. Cabral's pan-Africanism and revolutionary socialism continues to be an inspiration for socialists and national independence movements worldwide.`,
+        link: 'https://www.jacobinmag.com/2019/10/amilcar-cabral-portuguese-colonialism-biography',
+        infoSrc: 'https://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral'
+      },
     ],
     'Assassinations': [
       {
@@ -18533,6 +18569,15 @@ export const eventLibrary = {
         description: `The "Original 33" were the first 33 African-American members of the Georgia General Assembly who were elected to office in 1868, during the Reconstruction era. They were among the first African-American state legislators in the United States, and were expelled by the white members of the General Assembly, who claimed blacks could not hold office in Georgia.\n\nThe expelled members appealed to the federal government and state courts. In protest of the expulsion, former represenative Phillip Joiner led a 25 mile march to Camilla, the county seat on September 19th. There, they were attacked by an armed white mob - approximately a dozen marchers were killed and 30-40 wounded. The Camilla Massacre began the era of de facto voting discrimination and political disenfranchisement of the black population in Georgia.\n\nAlthough the expelled legislators eventually won a case in the Georgia Supreme Court (White v. Clements) that gave them the right to hold office, voter intimidation and de facto voting discrimination heightened to such a degree that Georgia went almost sixty years without having a single black legislator in its state congress, although they were legally allowed to do so.`,
         link: 'https://en.wikipedia.org/wiki/Camilla_massacre',
         infoSrc: 'https://www.zinnedproject.org/news/tdih/camilla-massacre/'
+      },
+      {
+        category: 'Other',
+        date: 'September 19th, 1956',
+        title: 'PAIGC Founded (1956)',
+        imgSrc: require('./assets/eventPhotos/Organizations/PAIGC.png'),
+        description: `The African Party for the Independence of Guinea and Cape Verde (Portuguese: Partido Africano para a Independência da Guiné e Cabo Verde, PAIGC) is a political party in Guinea-Bissau that was founded on this day in 1959. It had six founding members, including Amílcar Cabral and his half-brother Luís.\n\nOriginally formed to peacefully campaign for independence from Portugal, the party turned to armed conflict after the Pidjiguiti Massacre in 1959, where police fired into a crowd of striking workers, killing dozens.\n\nPAIGC was one of the belligerents in the Guinea-Bissau War of Independence, fought against Portugal. Towards the end of the war, the party established a Marxist–Leninist one-party state, which remained intact until multi-party democracy was introduced in the early 1990s.`,
+        link: 'https://uca.edu/politicalscience/dadm-project/sub-saharan-africa-region/portuguese-guinea-1951-1974/',
+        infoSrc: 'https://en.wikipedia.org/wiki/African_Party_for_the_Independence_of_Guinea_and_Cape_Verde'
       },
     ],
   },
@@ -23369,13 +23414,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'November 27th, 1978',
+        title: 'Harvey Milk (1930 - 1978)',
+        imgSrc: require('./assets/eventPhotos/Individuals/harveyMilk.jpg'),
+        description: `Harvey Bernard Milk (1930 - 1978) was an American politician and the first openly gay elected official in the history of California, where he was elected to the San Francisco Board of Supervisors. Although he was the most pro-LGBT politician in the United States at the time, politics was not something he came to later in life, after his experiences in the counterculture movement of the 1960s.\n\nIn 1972, Milk moved from New York City to the Castro District of San Francisco and took advantage of the growing political and economic power of the neighborhood to promote his activism. Milk's unsuccessfully ran for office three times, but finally won a seat as a city supervisor in 1977.\n\nMilk was assassinated on this day in 1978, after only eleven months in office. He was killed by Dan White, another city supervisor.\n\nDuring Milk's short time in office, he sponsored a bill banning discrimination in public accommodations, housing, and employment on the basis of sexual orientation. After his death, Milk became an icon in San Francisco and a martyr for the gay community.`,
+        link: 'http://milkfoundation.org/about/harvey-milk-biography/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Harvey_Milk'
       },
     ],
     'Other': [
