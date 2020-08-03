@@ -3745,9 +3745,9 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'February 23rd, 1868',
-        title: 'W.E.B. Dubois (1868 - 1963)',
+        title: 'W.E.B. Du Bois (1868 - 1963)',
         imgSrc: require('./assets/eventPhotos/Individuals/webDubois.jpg'),
-        description: `William Edward Burghardt Du Bois was an American sociologist, socialist, historian, civil rights activist, Pan-Africanist, author, writer and editor. Du Bois grew up in a relatively tolerant and integrated community, and after completing graduate work at the University of Berlin and Harvard, where he was the first African American to earn a doctorate. He was also one of the founders of the National Association for the Advancement of Colored People (NAACP).\n\nDu Bois was a prolific author. His collection of essays, "The Souls of Black Folk", is a seminal work in African-American literature; and his 1935 magnum opus, "Black Reconstruction in America", challenged the prevailing orthodoxy that blacks were responsible for the failures of the Reconstruction Era. Borrowing a phrase from Frederick Douglass, he popularized the use of the term "color line" to represent the injustice of the separate but equal doctrine prevalent in American social and political life.\n\nDu Bois believed that capitalism was a primary cause of racism, and he was generally sympathetic to socialist causes throughout his life. Because of this, he was spied upon by the U.S. government, who eventually indicted him for acting as an agent of a foreign state while advocating for nuclear disarmament. Notably, the NAACP did not support Dubois during his trial, which ultimately failed to convict him.`,
+        description: `William Edward Burghardt Du Bois was an American sociologist, socialist, historian, civil rights activist, Pan-Africanist, author, writer and editor. Du Bois grew up in a relatively tolerant and integrated community, and after completing graduate work at the University of Berlin and Harvard, where he was the first African American to earn a doctorate. He was also one of the founders of the National Association for the Advancement of Colored People (NAACP).\n\nDu Bois was a prolific author. His collection of essays, "The Souls of Black Folk", is a seminal work in African-American literature; and his 1935 magnum opus, "Black Reconstruction in America", challenged the prevailing orthodoxy that blacks were responsible for the failures of the Reconstruction Era. Borrowing a phrase from Frederick Douglass, he popularized the use of the term "color line" to represent the injustice of the separate but equal doctrine prevalent in American social and political life.\n\nDu Bois believed that capitalism was a primary cause of racism, and he was generally sympathetic to socialist causes throughout his life. Because of this, he was spied upon by the U.S. government, who eventually indicted him for acting as an agent of a foreign state while advocating for nuclear disarmament. Notably, the NAACP did not support Du Bois during his trial, which ultimately failed to convict him.`,
         link: 'http://bostonreview.net/race-politics/andrew-lanham-when-w-e-b-du-bois-was-un-american',
         infoSrc: 'https://en.wikipedia.org/wiki/W._E._B._Du_Bois'
       },
@@ -7412,7 +7412,7 @@ export const eventLibrary = {
         category: 'Other',
         date: 'April 15th, 1949',
         title: 'Pacifica Radio 1st Broadcast (1949)',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        imgSrc: require('./assets/eventPhotos/Organizations/pacificaRadio.png'),
         description: `Pacifica Foundation is an American non-profit organization based out of Berkeley, California, which owns five independently operated, non-commercial, listener-supported radio stations.\n\nPacifica Network, operated by the foundation, was the first public radio network in the United States and it is the world's oldest listener-funded radio network. Today, two of its most well-known programs are Democracy Now! and Free Speech Radio News. Its first broadcast was on this day, in 1949.\n\nThe Pacifica Radio Archives, housed at station KPFK in Los Angeles, is the oldest public radio archive in the United States documenting more than five decades of grassroots political, cultural, and performing arts history, including interviews with John Coltrane, James Baldwin, and Langston Hughes.`,
         link: 'https://pacifica.org/about_history.php',
         infoSrc: 'https://pacifica.org/'
@@ -9882,6 +9882,15 @@ export const eventLibrary = {
         description: `François-Dominique Toussaint Louverture was a Haitian general and best-known leader of the Haitian Revolution. This revolution was the first successful slave uprising in the Americas, and Haiti was the first country in the region to outlaw slavery.\n\nLouverture's history in the revolution was complicated - first fought for the Spanish against the French; then for France against Spain and Great Britain; and finally, he fought on behalf of independence of Saint-Domingue in the era of Napoleonic France.\n\nInitially, Louverture was only supportive of fighting for better living conditions for slaves, but, after committing to the full abolition of slavery in 1791, he issued a famous proclamation at Camp Turel of St. Domingue: "Brothers and friends, I am Toussaint Louverture; perhaps my name has made itself known to you. I have undertaken vengeance. I want Liberty and Equality to reign in St Domingue. I am working to make that happen. Unite yourselves to us, brothers and fight with us for the same cause."\n\nLouverture was eventually tricked into being arrested by Brunet, a French General, and deported to France, where he died of unknown causes while imprisoned. Shortly thereafter, the colony finally achieved independence under the leadership of Jean-Jacques Dessalines.`,
         link: 'https://www.britannica.com/biography/Toussaint-Louverture',
         infoSrc: 'https://en.wikipedia.org/wiki/Toussaint_Louverture'
+      },
+      {
+        category: 'Birthdays',
+        date: 'May 20th, 1929',
+        title: 'Marcelino Dos Santos (1929 - 2020)',
+        imgSrc: require('./assets/eventPhotos/Individuals/marcelinoSantos.jpg'),
+        description: `Marcelino dos Santos, born on this day in 1929, was a Mozambican poet, revolutionary, and politician. He was a founding member of the Frente de Libertação de Moçambique (FRELIMO-Mozambican Liberation Front), in 1962, and served as the party's deputy president from 1969 to 1977.\n\nSantons also served as Minister of Economic Development in the late 1970s, Frelimo Political Bureau member in charge of the economy in the early 1980s, Chairman of the country's parliament, the Assembly of the Republic, from 1987 to 1994, and, as of 1999, remained a member of the Frelimo Central Committee.\n\nUnder the pseudonyms Kalungano and Lilinho Micaia, he published his early poems in "O Brado Africano". Under his real name, he had a book published by the Associação dos Escritores Moçambicanos (Mozambican Writers' Association) in 1987, entitled "Canto do Amor Natural."`,
+        link: 'http://www.thepresidency.gov.za/national-orders/recipient/marcelino-dos-santos-1929',
+        infoSrc: 'https://en.wikipedia.org/wiki/Marcelino_dos_Santos'
       },
     ],
     'Assassinations': [
@@ -21214,13 +21223,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 27th, 1917',
+        title: 'Oliver Tambo (1917 - 1993)',
+        imgSrc: require('./assets/eventPhotos/Individuals/oliverTambo.jpg'),
+        description: `Oliver Reginald Kaizana Tambo, born on this day in 1917, was a South African anti-apartheid politician and revolutionary who served as President of the African National Congress (ANC) from 1967 to 1991.\n\nIn 1943, Tambo, along with Nelson Mandela and Walter Sisulu, founded the ANC Youth League, with Tambo becoming its first National Secretary and a member of the National Executive in 1948. The Youth League proposed a change in the tactics of the anti-apartheid movement, advocating boycotts, civil disobedience, strikes, and non-collaboration.\n\nIn 1960, Tambo fled South Africa due to political persecution, living in exile in north London for thirty years. From London, he supported and helped organize the ANC in the fight against apartheid from a distance. On December 13th, 1990, Tambo returned to South Africa and was elected National Chairperson of the ANC.`,
+        link: 'https://www.britannica.com/biography/Oliver-Tambo',
+        infoSrc: 'https://en.wikipedia.org/wiki/Oliver_Tambo'
       },
     ],
     'Assassinations': [
