@@ -15235,13 +15235,13 @@ export const eventLibrary = {
   '8-4': {
     'Revolution': [
       {
-        category: 'Revolution',
-        date: 'August 4th, 1984',
-        title: 'Burkina Faso Founded (1984)',
-        imgSrc: require('./assets/eventPhotos/Individuals/thomasSankara.jpg'),
-        description: `On this day in 1984, the country of Upper Volta, a French colonial name, became Burkina Faso, which means "Land of the Upright People". This was declared by the National Council of the Revolution (NCR), led by Thomas Sankara, the new head of state of Burkina Faso.\n\nHis administration was known for refusing all foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literarcy, women's rights, and public health, including vaccinating over two and a half million children against meningitis, yellow fever and measles.\n\nOn 15 October 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
-        link: 'https://en.wikipedia.org/wiki/Burkina_Faso',
-        infoSrc: 'https://www.jacobinmag.com/2015/05/thomas-sankara-burkina-faso-assassination/'
+        category: '',
+        date: '',
+        title: '',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: ``,
+        link: '',
+        infoSrc: ''
       },
     ],
     'Rebellion': [
@@ -15312,13 +15312,13 @@ export const eventLibrary = {
   '8-5': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'August 5th, 1984',
+        title: 'Burkina Faso Founded (1984)',
+        imgSrc: require('./assets/eventPhotos/Individuals/thomasSankara.jpg'),
+        description: `On this day in 1984, the country of Upper Volta, a French colonial name, achieved its independence as Burkina Faso, which translates as "Land of the Upright People". This was declared by the National Council of the Revolution (NCR), led by the pan-African socialist Thomas Sankara, who became new head of state of Burkina Faso.\n\nHis administration was known for refusing foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literacy, women's rights, and public health, including vaccinating over two and a half million children against meningitis, yellow fever and measles.\n\nOn October 15th, 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
+        link: 'https://en.wikipedia.org/wiki/Burkina_Faso',
+        infoSrc: 'https://www.jacobinmag.com/2015/05/thomas-sankara-burkina-faso-assassination/'
       },
     ],
     'Rebellion': [
