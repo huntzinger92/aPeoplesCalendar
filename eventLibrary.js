@@ -1701,13 +1701,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 25th, 1903*',
+        title: 'Fumiko Kaneko (1903 - 1926)',
+        imgSrc: require('./assets/eventPhotos/Individuals/fumikoKaneko.jpg'),
+        description: `*the record of her birthdate was made years after her death, based on corroborating statements from her parents\n\nFumiko Kaneko, likely born on this day in 1903, was a Japanese anarchist, nihilist, and opponent to Japanese imperialism in Korea. Fukimo is perhaps best remembered for her "The Prison Memoirs Of A Japanese Woman", writtten while imprisoned after being convicted of high treason against the Japenese government.\n\nTogether, Fumiko and her Korean partner Pak Yol published two magazines which highlighted the problems Koreans faced under Japanese imperialism and showed influences of their radical politics. Sometime between 1922 and 1923, they also established a group called "F"utei-sha (Society of Malcontents)", which Fumiko identified as a group for direct action against the government.\n\nThese activities soon brought Pak and Fumiko under government scrutiny. In September 1923, the Japenese government therefore made a number of arrests, mostly Koreans, on limited evidence, and among those arrested were Pak and Fumiko.\n\nAfter lengthy judicial proceedings, Fumiko and Pak were convicted of high treason for attempting to obtain bombs with the intention of killing the emperor or his son. They were both sentenced to life in prison, however Fukimo allegedly committed suicide in her cell in 1926.`,
+        link: 'https://libcom.org/history/prison-memoirs-japanese-woman',
+        infoSrc: 'https://en.wikipedia.org/wiki/Fumiko_Kaneko'
       },
     ],
     'Assassinations': [
@@ -23642,6 +23642,15 @@ export const eventLibrary = {
         link: 'https://www.britannica.com/biography/Abbie-Hoffman',
         infoSrc: 'https://en.wikipedia.org/wiki/Abbie_Hoffman'
       },
+      {
+        category: 'Birthdays',
+        date: 'November 30th, 1945*',
+        title: 'Charlie Clements (1945 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/charlesClements.jpg'),
+        description: `*this birthdate was confirmed in direct correspondence with Dr. Clements\n\nCharlie Clements, born on this day in 1945, is a retired American physician and a human rights activist. After flying 50 missions as a pilot in the Vietnam War, Clements refused to fly missions in support of the invasion of Cambodia on moral grounds. The Air Force responded by committing him to a psychiatric hospital, and he was subsequently declared to have a 10% mental disability and discharged.\n\nAfterward, Clements became a trained physician, connecting the struggle for social justice to his medical practice. After learning of the U.S.-backed death squads in El Salvador, Clements traveled to an area controlled by the Salvadoran guerrilla resistance group Farabundo Martí National Liberation Front (FMLN), to care the wounded.\n\nDr. Clements has served as president of both the Unitarian Universalist Service Committee and Physicians for Human Rights, a US-based not-for-profit that uses medicine and science to document and advocate against mass atrocities and severe human rights violations around the world.`,
+        link: 'https://www.americanswhotellthetruth.org/portraits/charlie-clements',
+        infoSrc: 'https://en.wikipedia.org/wiki/Charlie_Clements_(physician)'
+      },
     ],
     'Assassinations': [
       {
@@ -24534,6 +24543,15 @@ export const eventLibrary = {
         description: `Ella Josephine Baker, born on this day in 1903, was an African-American civil rights and human rights activist. She was a largely behind-the-scenes organizer whose career spanned more than five decades.\n\nIn New York City and the South, she worked alongside some of the most noted civil rights leaders of the 20th century, including W.E.B. Du Bois, Thurgood Marshall, A. Philip Randolph, and Martin Luther King Jr. She also mentored many emerging activists, such as Diane Nash, Stokely Carmichael, Rosa Parks, and Bob Moses, whom she first mentored as leaders in the Student Nonviolent Coordinating Committee (SNCC).\n\nBaker criticized professionalized, charismatic leadership; she promoted grassroots organizing, radical democracy, and the ability of the oppressed to understand their worlds and advocate for themselves. She realized this vision most fully in the 1960s as the primary advisor and strategist of the SNCC.\n\nBaker has been called "one of the most important American leaders of the twentieth century and perhaps the most influential woman in the civil rights movement."`,
         link: 'https://ellabakercenter.org/about/who-was-ella-baker',
         infoSrc: 'https://en.wikipedia.org/wiki/Ella_Baker'
+      },
+      {
+        category: 'Birthdays',
+        date: 'December 13th, 1895',
+        title: 'Lucía Sánchez Saornil (1895 - 1970)',
+        imgSrc: require('./assets/eventPhotos/Individuals/luciaSaornil.jpg'),
+        description: `Lucía Sánchez Saornil (born on this day in 1895), was a Spanish poet, anarchist, and feminist. She is best known as one of the founders of Mujeres Libres, an anarchist women's organization in Spain from 1936-1939, and served in the anarcho-syndicalist labor union Confederación Nacional del Trabajo (CNT) and Solidaridad Internacional Antifascista (SIA).\n\nIn 1931, Saornil, who had been working as a telephone operator since 1916, participated in a strike by the CNT against Telefónica. The event was a turning point in her life, and from this point forward, Lucía dedicated herself to the struggle for anarchist social revolution.\n\nWith the defeat of the Second Republic, Lucía and her partner América were forced to flee to Paris, where Lucía continued her involvement in the SIA. Lucía was buried in Valencia, Spain, and her tombstone epitaph reads, "But is it true that hope has died?" ("¿Pero es verdad que la esperanza ha muerto?").`,
+        link: 'https://theanarchistlibrary.org/library/lucia-sanchez-saornil-the-question-of-feminism',
+        infoSrc: 'https://en.wikipedia.org/wiki/Luc%C3%ADa_S%C3%A1nchez_Saornil'
       },
     ],
     'Assassinations': [
