@@ -13881,13 +13881,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'July 15th, 1953',
+        title: 'Jean-Bertrand Aristide (1953 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/jeanBertrandAristide.jpg'),
+        description: `Jean-Bertrand Aristide, born on this day in 1953, is a former Haitian priest and politician who became Haiti's first democratically elected president in 1990. A proponent of liberation theology, Aristide was appointed to a Roman Catholic parish in Port-au-Prince in 1982 after completing his studies to become a priest of the Salesian order.\n\nBefore ascending to power, Aristide was a prominent political dissident who survived several assassination attempts, one of the most notable being the St. Jean Bosco Massacre, when pro-government forces stormed his church during mass and killed more than a dozen people.\n\nAfter winning the 1990 Haitian elections, Aristide was president for eight months before being deposed in a military coup, committed by military and police figures who received military training in the U.S. and had were associated with the CIA.\n\nAristide fled the country after the coup, but then became president again from 1994 to 1996 and from 2001 to 2004. In 2004, Aristide was ousted in another coup after right-wing ex-army paramilitaries invaded the country from across the Dominican border, and fled to South Africa. He finally returned to Haiti in 2011, after seven years in exile.`,
+        link: 'https://www.britannica.com/biography/Jean-Bertrand-Aristide',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide'
       },
     ],
     'Assassinations': [
@@ -17613,13 +17613,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'September 6th, 1901',
+        title: 'President McKinley Assassinated (1901)',
+        imgSrc: require('./assets/eventPhotos/Events/mckinleyShot.jpg'),
+        description: `On this day in 1901, President William McKinley was shot on the grounds of the Pan-American Exposition in Buffalo, New York by anarchist Leon Czolgosz. Czolgosz became an anarchist after losing his job during the Panic of 1893. He regarded McKinley as a symbol of oppression and was convinced that it was his duty as an anarchist to kill him.\n\nMcKinley died eight days later of gangrene caused by the wounds, succeeded by Theodore Roosevelt in office. Czolgosz was tried and found guilty just over a month later. Before his execution, Czolgosz explained "I killed the President because he was the enemy of the good people - the good working people...I am not sorry for my crime".\n\nThe aftermath of the assassination saw a backlash against anarchist movements. Several anarchists, including Emma Goldman, were arrested on suspicion of involvement in the attack, and vigilantes attacked anarchist colonies and newspapers. Fear of the movement also led to government surveillance programs of anarchists, which were eventually consolidated on a federal level when the Bureau of Investigation (BOI, later to become the FBI) was formed in 1908.`,
+        link: 'https://libcom.org/history/1901-assassination-president-william-mckinley-Leon-Czolgosz',
+        infoSrc: 'https://en.wikipedia.org/wiki/Assassination_of_William_McKinley'
       },
     ],
     'Other': [
@@ -17991,13 +17991,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 11th, 1988',
+        title: 'St. Jean Bosco Massacre (1988)',
+        imgSrc: require('./assets/eventPhotos/Events/boscoMassacre.jpg'),
+        description: `The St. Jean Bosco Massacre took place in Haiti on this day in 1988, when armed supporters of the Haitian government attacked and burned down the Saint-Jean Bosco church in a three hour assault that killed between thirteen and fifty people, wounding approximately eighty more. On the day of the attack, over one thousand people were attending the Sunday mass.\n\nThe church was the parish of future President Jean-Bertrand Aristide (1953 - ), then a liberation theology Roman Catholic priest of the Salesians of Don Bosco order. Aristide had already survived six previous attempts on his life due to a fiery 1985 Mass had helped spark the unrest which eventually led to the 1986 overthrow of the dictator Jean-Claude Duvalier.\n\nThe massacre contributed to the emergence a week later of the September 1988 Haitian coup d'état against the Henri Namphy regime, which brought to power Prosper Avril. Aristide became president of Haiti in a 1990 election, but was deposed in a coup by military officials (who received military training in the U.S. and had ties to the CIA) just eight months later.`,
+        link: 'https://haitiliberte.com/september-11-a-fateful-date/',
+        infoSrc: 'https://en.wikipedia.org/wiki/St._Jean_Bosco_massacre'
       },
     ],
   },
