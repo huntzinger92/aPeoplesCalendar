@@ -6333,7 +6333,7 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'March 31st, 1944',
-        title: 'Ray Rodgers (1944 - )',
+        title: 'Ray Rogers (1944 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/rayRodgers.jpg'),
         description: `Ray Rogers, born on this day in 1944, is an American labor rights activist, labor union strategist and organizer as well as a major figure of prominence in the American labor and human rights movement.\n\nRogers is credited with pioneering the strategy of the "corporate campaign," a tactic of applying public pressure to companies that has been used with success by labor unions, human rights advocates, and environmental activist groups in their battles against corporations in the United States and all over the world.\n\nRogers also initiated the "Campaign to Stop Killer Coke" in 2003. The "Killer Coke Campaign" seeks to hold the Coca-Cola Company, including its bottlers and subsidiaries, accountable for numerous acts of violence, including the kidnapping, torture and murder of union leaders and members of their families in factories in Colombia and Guatemala. According to Michael Blanding of The Nation, the campaign is "the largest anticorporate campaign since the one against Nike."`,
         link: 'http://www.corporatecampaign.org/ray_rogers_bio.php',
@@ -21129,7 +21129,7 @@ export const eventLibrary = {
       {
         category: 'Other',
         date: 'October 25th, 1997',
-        title: 'The Million Woman March (1997)',
+        title: 'Million Woman March (1997)',
         imgSrc: require('./assets/eventPhotos/Events/millionWomanMarch.jpg'),
         description: `The Million Woman March was a protest march held on this day in 1997, involving approximately 500,000 people on the Benjamin Franklin Parkway in Philadelphia, Pennsylvania. A major theme of the march was family unity and what it means to be an African American woman in America. The women of the march called for three things: repentance for the pain of black women caused by one another, and the restoration and resurrection of African American family and community bonds.\n\nThe march, which was organized by two Philadelphia grass roots activists, Phile Chionesu and Asia Coney, enjoyed substantial turnout despite short notice and bypassing traditional leaders and organizations that had played an important role in organizing the Million Man March in 1995, such as Rev. Jesse Jackson, Louis Farrakhan, and the National Association for the Advancement of Colored People (NAACP).\n\nNotable speakers at the event included Winnie Madikizela-Mandela, Congresswoman Maxine Waters, Sista Souljah, Jada Pinkett Smith, Attallah and Ilyasah Shabazz, the daughters of Malcolm X, and Dr. Dorothy Height. A message from Assata Shakur, living in exile in Cuba, was also read.`,
         link: 'https://www.blackpast.org/african-american-history/million-woman-march-1997/',
