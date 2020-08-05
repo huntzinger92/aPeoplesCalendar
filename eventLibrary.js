@@ -3173,6 +3173,15 @@ export const eventLibrary = {
         link: 'https://time.com/4062637/against-our-will-40/',
         infoSrc: 'https://en.wikipedia.org/wiki/Susan_Brownmiller'
       },
+      {
+        category: 'Birthdays',
+        date: 'February 15th, 1947',
+        title: 'Baldemar Velásquez (1947 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/baldemarVelasquez.jpg'),
+        description: `Baldemar Velásquez, born on this day in 1947, is an American labor union activist who co-founded and is currently president of the Farm Labor Organizing Committee (FLOC), AFL-CIO.\n\nVelásquez began assisting his parents, migrant farm workers, in the fields when he was four years old. They rode with other migrant workers in a pickup truck with a canvas-covered bed, huddling around a can of hot ashes and covering themselves in blankets to stay warm. Velásquez led his first strike at the age of 12, helping pickers at his summer job win better wages.\n\nIn September, 1967, Baldemar co-founded FLOC with his father to help migrant workers collectively bargain for better conditions. Through FLOC, Velásquez helped organize strikes and a boycott against the Campbell Soup Company, as well as leading migrant workers on a 560 mile protest march from the union headquarters in Toledo, Ohio to Campbell's headquarters in Camden, New Jersey.\n\nAfter winning a collective bargaining agreement with Campbell's, growers began complaining that they could not compete with inexpensive Mexican produce. Velásquez personally traveled to Mexico and successfully lobbied the Mexican unions to raise their wages and benefits, closing the gap in prices. In 1994, he was awarded the Order of the Aztec Eagle the highest honor Mexico can bestow on a non-citizen.`,
+        link: 'http://www.floc.com/wordpress/about-floc/floc-leadership/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Baldemar_Velasquez'
+      },
     ],
     'Assassinations': [
       {
@@ -6317,9 +6326,18 @@ export const eventLibrary = {
         date: 'March 31st, 1927',
         title: 'César Chávez (1927 - 1993)',
         imgSrc: require('./assets/eventPhotos/Individuals/cesarChavez.jpg'),
-        description: `César Estrada Chávez was an American labor leader, community organizer, and Latino American civil rights activist. Along with Dolores Huerta, he co-founded the National Farm Workers Association (NFWA), which later merged to become the United Farm Workers (UFW) union. Ideologically, his world-view combined leftist politics with Roman Catholic social teachings.\n\nIn the early 1970s, Chavez sought to expand the UFW's influence outside California by opening branches in other U.S. states. He also pushed a campaign against illegal immigration into the U.S., which generated violence along the U.S.-Mexico border. Interested in co-operatives as a form of organization, he established a remote commune in the foothills of the Tehachapi Mountains.\n\nA controversial figure, UFW critics raised concerns about Chavez's firm personal control of the union, the purges of those he deemed disloyal, and the personality cult built around him, while farm-owners considered him a communist subversive. For organized labor and leftist groups in the U.S. he became an icon and he posthumously became a "folk saint" among Mexican Americans.`,
+        description: `César Estrada Chávez, born on this day in 1927, was an American labor leader, community organizer, and Latino American civil rights activist. Along with Dolores Huerta, he co-founded the National Farm Workers Association (NFWA), which later merged to become the United Farm Workers (UFW) union. Ideologically, his world-view combined leftist politics with Roman Catholic social teachings.\n\nIn the early 1970s, Chavez sought to expand the UFW's influence outside California by opening branches in other U.S. states. He also pushed a campaign against illegal immigration into the U.S., which generated violence along the U.S.-Mexico border. Interested in co-operatives as a form of organization, he established a remote commune in the foothills of the Tehachapi Mountains.\n\nA controversial figure, UFW critics raised concerns about Chavez's firm personal control of the union, the purges of those he deemed disloyal, and the personality cult built around him, while farm-owners considered him a communist subversive. For organized labor and leftist groups in the U.S. he became an icon and he posthumously became a "folk saint" among Mexican Americans.`,
         link: 'https://en.wikipedia.org/wiki/Cesar_Chavez',
         infoSrc: 'https://www.bloomsbury.com/us/the-crusades-of-cesar-chavez-9781608197101/'
+      },
+      {
+        category: 'Birthdays',
+        date: 'March 31st, 1944',
+        title: 'Ray Rodgers (1944 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/rayRodgers.jpg'),
+        description: `Ray Rogers, born on this day in 1944, is an American labor rights activist, labor union strategist and organizer as well as a major figure of prominence in the American labor and human rights movement.\n\nRogers is credited with pioneering the strategy of the "corporate campaign," a tactic of applying public pressure to companies that has been used with success by labor unions, human rights advocates, and environmental activist groups in their battles against corporations in the United States and all over the world.\n\nRogers also initiated the "Campaign to Stop Killer Coke" in 2003. The "Killer Coke Campaign" seeks to hold the Coca-Cola Company, including its bottlers and subsidiaries, accountable for numerous acts of violence, including the kidnapping, torture and murder of union leaders and members of their families in factories in Colombia and Guatemala. According to Michael Blanding of The Nation, the campaign is "the largest anticorporate campaign since the one against Nike."`,
+        link: 'http://www.corporatecampaign.org/ray_rogers_bio.php',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ray_Rogers_(labor_activist)'
       },
     ],
     'Assassinations': [
@@ -14879,13 +14897,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'July 30th, 2018',
+        title: 'Sadah and Badawi Arrested (2018)',
+        imgSrc: require('./assets/eventPhotos/Individuals/sadahBadawi.jpg'),
+        description: `Nassima al-Sadah (shown right) is a Shia human rights writer and activist from Qatif, Saudi Arabia. She has "campaigned for civil and political rights, women's rights and the rights of the Shi'a minority" in 2012, she, along with other prominent Saudi Arabian activists Samar Badawai (shown left) and Manal al-Sharif, filed a lawsuit against the Saudi Arabian government for the right of women to drive.\n\nOn this day in 2018, Sadah and Badawi were arrested by Saudi authorities in a government crackdown on "activists, clerics and journalists", including many activists involved in the Saudi anti male-guardianship campaign. As of March 2020, both Sadah and Badawi remain imprisoned.`,
+        link: 'https://www.omct.org/human-rights-defenders/urgent-interventions/saudi-arabia/2020/03/d25746/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Nassima_al-Sadah'
       },
     ],
     'Labor': [
@@ -15316,7 +15334,7 @@ export const eventLibrary = {
         date: 'August 5th, 1984',
         title: 'Burkina Faso Founded (1984)',
         imgSrc: require('./assets/eventPhotos/Individuals/thomasSankara.jpg'),
-        description: `On this day in 1984, the country of Upper Volta, a French colonial name, achieved its independence as Burkina Faso, which translates as "Land of the Upright People". This was declared by the National Council of the Revolution (NCR), led by the pan-African socialist Thomas Sankara, who became new head of state of Burkina Faso.\n\nHis administration was known for refusing foreign aid to remain politically independent, nationalizing all land and mineral wealth, and promoting literacy, women's rights, and public health, including vaccinating over two and a half million children against meningitis, yellow fever and measles.\n\nOn October 15th, 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
+        description: `On this day in 1984, the country of Upper Volta, a French colonial name, achieved its independence as Burkina Faso, which translates as "Land of the Upright People". This was declared by the National Council of the Revolution (NCR), led by the pan-African socialist Thomas Sankara, who became the new head of state of Burkina Faso.\n\nHis administration was known for refusing foreign aid to remain politically independent, nationalizing land and mineral wealth, and promoting literacy, women's rights, and public health, including vaccinating over two and a half million children against meningitis, yellow fever and measles.\n\nOn October 15th, 1987, Sankara was assassinated by troops led by Blaise Compaoré, who assumed leadership of the state shortly after having Sankara killed. A week before his assassination, Sankara declared: "While revolutionaries as individuals can be murdered, you cannot kill ideas".`,
         link: 'https://en.wikipedia.org/wiki/Burkina_Faso',
         infoSrc: 'https://www.jacobinmag.com/2015/05/thomas-sankara-burkina-faso-assassination/'
       },
@@ -21109,13 +21127,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 25th, 1997',
+        title: 'The Million Woman March (1997)',
+        imgSrc: require('./assets/eventPhotos/Events/millionWomanMarch.jpg'),
+        description: `The Million Woman March was a protest march held on this day in 1997, involving approximately 500,000 people on the Benjamin Franklin Parkway in Philadelphia, Pennsylvania. A major theme of the march was family unity and what it means to be an African American woman in America. The women of the march called for three things: repentance for the pain of black women caused by one another, and the restoration and resurrection of African American family and community bonds.\n\nThe march, which was organized by two Philadelphia grass roots activists, Phile Chionesu and Asia Coney, enjoyed substantial turnout despite short notice and bypassing traditional leaders and organizations that had played an important role in organizing the Million Man March in 1995, such as Rev. Jesse Jackson, Louis Farrakhan, and the National Association for the Advancement of Colored People (NAACP).\n\nNotable speakers at the event included Winnie Madikizela-Mandela, Congresswoman Maxine Waters, Sista Souljah, Jada Pinkett Smith, Attallah and Ilyasah Shabazz, the daughters of Malcolm X, and Dr. Dorothy Height. A message from Assata Shakur, living in exile in Cuba, was also read.`,
+        link: 'https://www.blackpast.org/african-american-history/million-woman-march-1997/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Million_Woman_March'
       },
     ],
   },
