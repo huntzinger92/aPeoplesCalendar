@@ -6643,13 +6643,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 4th, 1969',
+        title: 'Rainbow Coalition Founded (1969)',
+        imgSrc: require('./assets/eventPhotos/Events/rainbowCoalition.jpg'),
+        description: `The Rainbow Coalition was a multicultural movement founded on this day in 1969, in Chicago, Illinois. The coalition was formed by the coming together of Fred Hampton of the Black Panther Party (BPP), along with William "Preacherman" Fesperman of the Young Patriots Organization and Jose Cha Cha Jiménez founder of the Young Lords. It was the first of several 20th century Black-led organizations to use the "rainbow coalition" concept.\n\nThe Rainbow Coalition soon included various radical political groups like the Lincoln Park Poor People's Coalition, Students for a Democratic Society ("SDS"), the American Indian Movement (AIM), and the Red Guard Party.\n\nThe Coalition brokered treaties to end crime and gang violence and worked to establish class solidarity across racial lines. On December 3rd, Fred Hampton was assassinated by the Chicago Police Dpeartment, and the Rainbow Coalition effectively dissolved.`,
+        link: 'https://www.teenvogue.com/story/fred-hampton-black-panthers-rainbow-coalition-poor-americans',
+        infoSrc: 'https://en.wikipedia.org/wiki/Rainbow_Coalition_(Fred_Hampton)'
       },
     ],
   },
@@ -11751,13 +11751,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 15th, 1983',
+        title: 'Michael Prysner (1983 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/mikePrysner.jpg'),
+        description: `Michael Prysner, born on this day in 1983, is an American veteran and anti-war activist. Prysner served in Iraq as a corporal and cites his duties in Iraq, including ground surveillance, home raids, and the interrogation of prisoners, and as leading him to take an anti-war stand.\n\nPrysner is the co-founder of "March Forward!", an organization of active-duty members of the U.S. military and veterans of the Iraq and Afghanistan wars that encourages current active-duty service personnel to resist deployment, and currently hosts the "Eyes Left" podcast.\n\nIn 2011, Prysner gave a speech now known as the "Our Real Enemies" address, in which he argued that domestic enemies pose a greater threat to the average U.S. resident than foreign ones. An exercept reads:\n\n"We need to wake up and realize that our real enemies are not in some distant land...The enemy is a system that wages war when it's profitable. The enemy is CEOs who lay us off our jobs when it's profitable. It's the insurance companies who deny us health care when it's profitable. It's the banks who take away our homes when it's profitable. Our enemies are not five thousand miles away. They are right here at home."`,
+        link: 'https://soundcloud.com/eyesleft',
+        infoSrc: 'https://en.wikipedia.org/wiki/Michael_Prysner'
       },
     ],
     'Assassinations': [
@@ -12381,13 +12381,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 24th, 1914',
+        title: 'Carl Braden (1914 - 1975)',
+        imgSrc: require('./assets/eventPhotos/Individuals/carlBraden.jpg'),
+        description: `Carl Braden, born on this day in 1914, was a left-wing trade unionist, journalist, and social justice activist who was known for his work in civil rights. He was married to Anne Braden, another prominent civil rights activist.\n\nIn 1954, to sidestep the residential race segregation in Louisville, Kentucky, the Bradens purchased a house in an all-white neighborhood and deeded it over to the Wades, an African-American family who had been unsuccessfully seeking a suburban residence. White segregationists responded by burning a cross in the yard, shooting into the home, and eventually destroying the building with dynamite.\n\nFor his role in the affair, Carl Braden was charged with sedition, his work for racial integration being interpreted as an act of communist subversion. He was convicted on December 13th, 1954 and sentenced to fifteen years in prison. Immediately upon his conviction, he was fired from his job and he served seven months of his sentence before he was released on a $40,000 bond, the highest bond ever set in Kentucky up to that time. His conviction was later overturned.`,
+        link: 'https://snccdigital.org/people/anne-carl-braden/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Carl_Braden'
       },
     ],
     'Assassinations': [
@@ -15583,6 +15583,15 @@ export const eventLibrary = {
         description: `Emiliano Zapata Salazar was a leading figure in the Mexican Revolution, the main leader of the peasant revolution in the state of Morelos, and the inspiration of the agrarian movement called Zapatismo.\n\nZapata was born in the rural village of Anenecuilco in Morelos State, where peasant communities were under increasing pressure from the small landowning class who monopolized land and water resources for sugar cane production with the support of dictator Porfirio Díaz.\n\nEarly on, Zapata participated in political movements against Diaz and the landowning hacendados, and when the Revolution broke out in 1910 he was positioned as a central leader of the peasant revolt in Morelos. Zapata was responsible for defeating and ousting various invading armies from Morelos on multiple occasions.`,
         link: 'https://www.britannica.com/biography/Emiliano-Zapata',
         infoSrc: 'https://en.wikipedia.org/wiki/Emiliano_Zapata'
+      },
+      {
+        category: 'Birthdays',
+        date: 'August 8th, 1948',
+        title: 'José Cha Cha Jiménez (1948 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/joseJimenez.jpg'),
+        description: `José Cha Cha Jiménez, born on this day in 1948, is the founder of the "Young Lords", a national human rights movement with an emphasis on liberation for Puerto Rico, Latinos, and other colonized people. The group was founded in the Lincoln Park neighborhood of Chicago, Illinois on September 23rd, 1968, one hundred years after the Grito de Lares uprising. Jiménez was born to jíbaro parents in Caguas, Puerto Rico, but spent his formative years in Chicago.\n\nIn the summer of 1968, he was picked up for a possession of heroin charge and given a 60-day sentence at Cook County Jail. While in jail, he read "The Seven Story Mountain" by Thomas Merton, and became politically radicalized, reading the works of MLK Jr., Malcolm X, and the Black Panther Party (BPP).\n\nAfter his release, Jiménez transformed the Young Lords from a street gang into a human rights organization, entering into the "Rainbow Coalition" with Fred Hampton, head of the BPP's Chicago chapter. After Hampton's assassination and the Coalition's dissolution, Jiménez continued his activism and would go on to be arrested dozens of times for leading protests and engaging in civil disobedience.`,
+        link: 'http://nationalyounglords.com/?page_id=15',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jose_Cha_Cha_Jimenez'
       },
     ],
     'Assassinations': [
@@ -18895,6 +18904,15 @@ export const eventLibrary = {
         description: `The Internal Security Act, also known as the McCarran Act or the Concentration Camp Law, is a United States federal law that became effective on this day in 1950. The Act required Communist organizations to register with the United States Attorney General, banned communists from working for the government or obtaining a passport, and established the Subversive Activities Control Board to investigate persons suspected of engaging in subversive activities or otherwise promoting the establishment of a "totalitarian dictatorship," either fascist or communist.\n\nThe law also tightened alien exclusion and deportation laws and allowed for the detention of dangerous, disloyal, or subversive persons in times of war or "internal security emergency", which had a profound affect on immigration. By March 1st, 1951, the Act had excluded 54,000 people of German ethnic origin and 12,000 displaced Russian persons from entering the United States.\n\nAlthough the law is still in effect today, many of its most controversial provisions have been directly repealed or ruled unconstitutional, such as laws regarding detention of political dissidents, banning communists from working for the government, and having to register with the government. One provision still legal, however, allows the military to "regulate" weapons held by private citizens (50 U.S.C. § 797).`,
         link: 'https://teachingamericanhistory.org/library/document/the-internal-security-act/',
         infoSrc: 'https://en.wikipedia.org/wiki/McCarran_Internal_Security_Act'
+      },
+      {
+        category: 'Other',
+        date: 'September 23rd, 1968',
+        title: 'Young Lords Founded (1968)',
+        imgSrc: require('./assets/eventPhotos/Organizations/youngLords.jpg'),
+        description: `The Young Lords is a civil and human-rights organization transformed by the leadership of José Cha Cha Jiménez from a Chicago turf-gang on this day in 1968, 100 years after the Grito de Lares uprising. The group aims to fight for neighborhood empowerment and self-determination for Puerto Rico, Latinos, and colonized ("Third World") people.\n\nTactics used by the Young Lords include mass education, canvassing, community programs, occupations, and direct confrontation. The Young Lords were a significant group within Fred Hampton's "Rainbow Coalition" and became targets of the United States FBI's COINTELPRO program.`,
+        link: 'http://nationalyounglords.com/?page_id=13',
+        infoSrc: 'https://en.wikipedia.org/wiki/Young_Lords'
       },
     ],
   },
