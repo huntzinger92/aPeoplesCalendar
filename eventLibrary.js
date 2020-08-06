@@ -3178,7 +3178,7 @@ export const eventLibrary = {
         date: 'February 15th, 1947',
         title: 'Baldemar Velásquez (1947 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/baldemarVelasquez.jpg'),
-        description: `Baldemar Velásquez, born on this day in 1947, is an American labor union activist who co-founded and is currently president of the Farm Labor Organizing Committee (FLOC), AFL-CIO.\n\nVelásquez began assisting his parents, migrant farm workers, in the fields when he was four years old. They rode with other migrant workers in a pickup truck with a canvas-covered bed, huddling around a can of hot ashes and covering themselves in blankets to stay warm. Velásquez led his first strike at the age of 12, helping pickers at his summer job win better wages.\n\nIn September, 1967, Baldemar co-founded FLOC with his father to help migrant workers collectively bargain for better conditions. Through FLOC, Velásquez helped organize strikes and a boycott against the Campbell Soup Company, as well as leading migrant workers on a 560 mile protest march from the union headquarters in Toledo, Ohio to Campbell's headquarters in Camden, New Jersey.\n\nAfter winning a collective bargaining agreement with Campbell's, growers began complaining that they could not compete with inexpensive Mexican produce. Velásquez personally traveled to Mexico and successfully lobbied the Mexican unions to raise their wages and benefits, closing the gap in prices. In 1994, he was awarded the Order of the Aztec Eagle the highest honor Mexico can bestow on a non-citizen.`,
+        description: `Baldemar Velásquez, born on this day in 1947, is an American labor union activist who co-founded and is currently president of the Farm Labor Organizing Committee (FLOC), AFL-CIO.\n\nVelásquez began assisting his parents, migrant farm workers, in the fields when he was four years old. They rode with other migrant workers in a pickup truck with a canvas-covered bed, huddling around a can of hot ashes and covering themselves in blankets to stay warm. Velásquez led his first strike at the age of 12, helping pickers at his summer job win better wages.\n\nIn September 1967, Baldemar co-founded FLOC with his father to help migrant workers collectively bargain for better conditions. Through FLOC, Velásquez helped organize strikes and a boycott against the Campbell Soup Company, as well as leading migrant workers on a 560 mile protest march from the union headquarters in Toledo, Ohio to Campbell's headquarters in Camden, New Jersey.\n\nAfter winning a collective bargaining agreement with Campbell's, growers began complaining that they could not compete with inexpensive Mexican produce. Velásquez personally traveled to Mexico and successfully lobbied the Mexican unions to raise their wages and benefits, closing the gap in prices. In 1994, he was awarded the Order of the Aztec Eagle the highest honor Mexico can bestow on a non-citizen.`,
         link: 'http://www.floc.com/wordpress/about-floc/floc-leadership/',
         infoSrc: 'https://en.wikipedia.org/wiki/Baldemar_Velasquez'
       },
@@ -6004,13 +6004,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 26th, 1981',
+        title: 'Food Not Bombs Serves First Meal (1981)',
+        imgSrc: require('./assets/eventPhotos/Organizations/foodNotBombs.jpg'),
+        description: `Food Not Bombs is a loose-knit group of independent collectives, sharing free vegan and vegetarian food with others. Food Not Bombs' ideology is that corporate and government priorities are skewed to allow hunger to persist in the midst of abundance. As evidence of this, a large amount of the food served by the group is surplus food from grocery stores, bakeries, and markets that would otherwise go to waste (or, occasionally, has already been thrown away).\n\nOn this day in 1981, Food Not Bombs shared their first full meal outside the Federal Reserve Bank during the stock holders meeting of the Bank of Boston to protest the exploitation of capitalism and investment in the nuclear industry.`,
+        link: 'https://en.wikipedia.org/wiki/Food_Not_Bombs',
+        infoSrc: 'http://foodnotbombs.net/new_site/faq.php'
       },
     ],
   },
@@ -15072,6 +15072,15 @@ export const eventLibrary = {
         link: 'https://www.womenshistory.org/education-resources/biographies/mary-harris-jones',
         infoSrc: 'https://en.wikipedia.org/wiki/Mother_Jones'
       },
+      {
+        category: 'Birthdays',
+        date: 'August 1st, 1947',
+        title: 'Denise Oliver-Velez (1947 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/deniseOliverVelez.jpg'),
+        description: `Denise Oliver-Velez (born August 1, 1947) is an American professor, activist, and community organizer. Oliver-Velez is an adjunct Professor of Anthropology and Women’s Studies at State University of New York (SUNY) New Paltz.\n\nOliver-Velez was a member of both The Young Lords and The Black Panther Party (BPP), and fought to make the Young Lords a less chauvinistic and more feminist organization. In 1970 Oliver-Velez was appointed as Minister of Economic Development, becoming the highest ranking woman in the Young Lords.\n\nIn addition to her activism with the Young Lords, Oliver-Velez was also an AIDS movement activist, publishing ethnographic research as part of HIV/AIDS intervention projects. She has also worked in public broadcasting and community media for many years, becoming a program director and co-founder of WPFW-FM in Washington, D.C., Pacifica Radio's first minority-controlled station.\n\nOliver-Velez is featured in the feminist history film "She's Beautiful When She's Angry".`,
+        link: 'http://www.shesbeautifulwhenshesangry.com/denise-oliver-velez',
+        infoSrc: 'https://en.wikipedia.org/wiki/Denise_Oliver-Velez'
+      },
     ],
     'Assassinations': [
       {
@@ -16066,13 +16075,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'August 15th, 1988',
+        title: 'Food Not Bombs First Arrests (1988)',
+        imgSrc: require('./assets/eventPhotos/Events/keithMcHenryArrested.jpg'),
+        description: `Food Not Bombs is a loose-knit group of independent collectives, sharing free vegan and vegetarian food with others. Food Not Bombs' ideology is that corporate and government priorities are skewed to allow hunger to persist in the midst of abundance. As evidence of this, a large amount of the food served by the group is surplus food from grocery stores, bakeries, and markets that would otherwise go to waste (or, occasionally, has already been thrown away).\n\nOn this day in 1988, members of Food Not Bombs (including one of the founders, Keith McHenry), were arrrested in San Francisco, California for handing out free food and literature at Golden Gate Park. These were the first of many arrests of Food Not Bombs activists for giving away free food.`,
+        link: 'http://foodnotbombs.net/fnb_time_line.html',
+        infoSrc: 'https://www.zinnedproject.org/news/food-not-bombs'
       },
     ],
     'Labor': [
@@ -18842,13 +18851,13 @@ export const eventLibrary = {
   '9-23': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'September 23rd, 1868',
+        title: 'Grito de Lares (1868)',
+        imgSrc: require('./assets/eventPhotos/Events/gritoDeLares.jpg'),
+        description: `The Grito de Lares (Cry of Lares) was the first major revolt against Spanish rule in Puerto Rico, and began on this day in 1868. The short-lived uprising was an attempt to overthrow Spanish rule and establish Puerto Rican independence. \n\nAlthough the uprising occurred on September 23rd, a group known as the "Revolutionary Committee of Puerto Rico), led by Dr. Ramón Emeterio Betances and Segundo Ruiz Belvis, had been planning the rebellion since January 9th. The Committee issued several widely circulated "Proclamas", statements attacking the exploitation of the Puerto Ricans by the Spanish and calling for immediate insurrection.\n\nOn September 23rd, the Grito de Lares began when several hundred rebels arrived at the town of Lares, looting stores, seizing City Hall, imprisoning Spanish-born merchants, and flying the revolutionary flag of Lares at the town's church. The Republic of Puerto Rico was proclaimed and the revolutionaries offered freedom to the slaves who joined them.\n\nThe insurrection ended the next day when the Puerto Rican militia, significantly better armed than the rebels, put down the rebellion by force. Although all revolutionaries were initially sentenced to death by a military court, political pressure led the Spanish president to declare a general amnesty and free all prisoners (although the leaders of the uprising were still exiled).`,
+        link: 'https://www.loc.gov/collections/puerto-rico-books-and-pamphlets/articles-and-essays/nineteenth-century-puerto-rico/rebellion-of-1868/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Grito_de_Lares'
       },
     ],
     'Rebellion': [
