@@ -1168,13 +1168,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'January 17th, 1925',
+        title: 'Patrice Lumumba (1925 - 1961)',
+        imgSrc: require('./assets/eventPhotos/Individuals/patriceLumumba.jpg'),
+        description: `Patrice Émery Lumumba was a Congolese politician and independence leader who served as the first Prime Minister of the independent Democratic Republic of the Congo from June until September 1960. He played a significant role in the transformation of the Congo from a colony of Belgium into an independent republic.\n\nIdeologically an African nationalist and pan-Africanist, he led the Congolese National Movement (MNC) party from 1958 until his assassination on this day in 1961, in a coup by Joseph-Désiré Mobutu. The coup occurred when Lumumba, facing armed rebellion and an occupation by Belgian forces, asked for support from the Soviet Union. This led to a government split between himself, President Joseph Kasa-Vubu, and military commander Joseph-Désiré Mobutu.\n\nOn December 1st, 1960, Lumumba was captured by Mobutu's forces and imprisoned. On January 17th, 1961, he and his associates were brutally beaten and tortured by Katangan and Belgian officers, and Lumumba was executed later that night. The execution was carried out with Belgian and U.S. assistance; Belgium formally apologized for its role in the assassination in 2002.\n\nOn Lumumba's legacy, his friend and colleague Thomas Kanza wrote "he lived as a free man, and an independent thinker. Everything he wrote, said and did was the product of someone who knew his vocation to be that of a liberator, and he represents for the Congo what Castro does for Cuba, Nasser for Egypt, Nkrumah for Ghana, Mao Tse-tung for China, and Lenin for Russia."`,
+        link: 'https://www.britannica.com/biography/Patrice-Lumumba',
+        infoSrc: 'https://en.wikipedia.org/wiki/Patrice_Lumumba'
       },
     ],
     'Other': [
@@ -13014,6 +13014,15 @@ export const eventLibrary = {
         link: 'https://web.archive.org/web/20130611071827/http://mememorial.org/medgar-w-evers-civil-rights-activist/',
         infoSrc: 'https://en.wikipedia.org/wiki/Medgar_Evers'
       },
+      {
+        category: 'Birthdays',
+        date: 'July 2nd, 1925',
+        title: 'Patrice Lumumba (1925 - 1961)',
+        imgSrc: require('./assets/eventPhotos/Individuals/patriceLumumba.jpg'),
+        description: `Patrice Émery Lumumba, born on this day in 1925, was a Congolese politician and independence leader who served as the first Prime Minister of the independent Democratic Republic of the Congo from June until September 1960. He played a significant role in the transformation of the Congo from a colony of Belgium into an independent republic.\n\nIdeologically an African nationalist and pan-Africanist, he led the Congolese National Movement (MNC) party from 1958 until his assassination on Janauary 17th, 1961 in a coup by Joseph-Désiré Mobutu. Lumumba did not express a pro-capitalist or pro-communist ideology and preferred to remain neutral in Cold War politics, seeking assistance in fighting off colonialism from both the United States and the Soviet Union.\n\nOn Lumumba's legacy, his friend and colleague Thomas Kanza wrote "he lived as a free man, and an independent thinker. Everything he wrote, said and did was the product of someone who knew his vocation to be that of a liberator, and he represents for the Congo what Castro does for Cuba, Nasser for Egypt, Nkrumah for Ghana, Mao Tse-tung for China, and Lenin for Russia."`,
+        link: 'https://www.britannica.com/biography/Patrice-Lumumba',
+        infoSrc: 'https://en.wikipedia.org/wiki/Patrice_Lumumba'
+      },
     ],
     'Assassinations': [
       {
@@ -15521,7 +15530,7 @@ export const eventLibrary = {
         date: 'August 7th, 1890',
         title: 'Elizabeth Gurley Flynn (1890 - 1964)',
         imgSrc: require('./assets/eventPhotos/Individuals/elizabethFlynn.jpg'),
-        description: `Elizabeth Gurley Flynn was a labor leader, activist, and feminist who played a leading role in the Industrial Workers of the World (IWW). Flynn was a vigorous proponent of women's rights, birth control, and women's suffrage. She joined the Communist Party USA in 1936 and late in life, in 1961, became its chairwoman. She died during a visit to the Soviet Union, where she was accorded a state funeral with processions in the Red Square attended by over 25,000 people.\n\nFlynn was also a founding member of the American Civil Liberties Union, but was expelled in 1940 during purge of all communists from ACLU leadership. This decision was reversed twelve years after her death, in 1976.\n\nIn 1948, she was arrested, along with eleven other prominent members of the Communist Party, for violating the Smith Act. She served two years in prison, and continued her political activism after her release.`,
+        description: `Elizabeth Gurley Flynn, born on this day in 1890, was a labor leader, activist, and feminist who played a leading role in the Industrial Workers of the World (IWW). Flynn was a vigorous proponent of women's rights, birth control, and women's suffrage. She joined the Communist Party USA (CPUSA) in 1936 and late in life, in 1961, became its chairwoman.\n\nFlynn was also a founding member of the American Civil Liberties Union (ACLU), but was expelled in 1940 during purge of all communists from ACLU leadership. This decision was reversed twelve years after her death, in 1976.\n\nIn 1948, she was arrested, along with eleven other prominent members of the Communist Party, for violating the Smith Act. She served two years in prison, and continued her political activism after her release. Flynn died during a visit to the Soviet Union, where she was accorded a state funeral with processions in the Red Square attended by over 25,000 people.`,
         link: 'https://www.nytimes.com/1976/06/22/archives/aclu-reverses-ouster-of-elizabeth-gurley-flynn.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Elizabeth_Gurley_Flynn'
       },
