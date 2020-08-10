@@ -349,13 +349,13 @@ export const eventLibrary = {
   '1-6': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'January 6th, 1867*',
+        title: 'Revolutionary Committee of Puerto Rico (1867)',
+        imgSrc: require('./assets/eventPhotos/Organizations/revolutionaryCommitteeOfPuertoRico.jpg'),
+        description: `*Wikipedia lists the date of the founding as Jan. 8th, however the Library of Congress lists it as Jan. 6th\n\nOn this day in 1867, the Revolutionary Committee of Puerto Rico (Spanish: Comité Revolucionario de Puerto Rico) was founded by Puerto Rican revolutionaries living in exile, including Juan Ríus Rivera, Segundo Ruiz Belvis, Ramón Emeterio Betances, and José Francisco Basora. The goal of the committee was to create a united effort by Cubans and Puerto Ricans to win independence from Spain.\n\nThe Committee began planning an armed revolution in Puerto Rico in early 1868, issuing several "Proclamas" criticizing Spanish exploitative practices and demanding rebellion against the government. On September 23rd, 1868, the Revolutionary Committee, led by Betances, declared independence in the city of Lares, Puerto Rico, calling it the Republic of Puerto Rico.\n\nSeveral hundred rebels took over city hall, looted stores owned by "peninsulares" (Spanish-born men), and took some of the store owners prisoner. The revolution was put down however by the Spanish militia and around 475 rebels imprisoned. The event became known as "El Grito de Lares" (the Cry of Lares).`,
+        link: 'https://www.loc.gov/collections/puerto-rico-books-and-pamphlets/articles-and-essays/nineteenth-century-puerto-rico/rebellion-of-1868/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Revolutionary_Committee_of_Puerto_Rico'
       },
     ],
     'Rebellion': [
@@ -1697,6 +1697,15 @@ export const eventLibrary = {
         description: `The Farm Labor Organizing Committee (FLOC) is a labor union representing migrant farm workers in the Midwestern United States and North Carolina, founded in 1967 in Toledo, Ohio by Baldemar Velasquez.\n\nIn 1978, Velasquez planned an ambitious labor action - the union believed that Ohio tomato growers would be unable to recruit enough workers to see them through a long strike, so that year 2,000 FLOC members walked off their jobs in Ohio, demanding a guaranteed minimum wage, better housing, and medical care.\n\nWhile some growers were willing to negotiate, big canners such as the Campbell's and Nestle were unwilling to pay the higher prices which would accompany a unionized workforce. On this day in 1979, FLOC initiated a boycott of both Campbell's and Nestle products.`,
         link: 'https://en.wikipedia.org/wiki/Farm_Labor_Organizing_Committee',
         infoSrc: 'https://library.ucsd.edu/dc/object/bb78511890/_1.pdf'
+      },
+      {
+        category: 'Labor',
+        date: 'January 25th, 1926',
+        title: 'Passaic Textile Strike (1926)',
+        imgSrc: require('./assets/eventPhotos/Events/passaicTextileStrike.jpg'),
+        description: `The 1926 Passaic textile strike was a work stoppage by over 15,000 woolen mill workers that began on this day in 1926 in and around Passaic, New Jersey, over wage issues in several factories. Conducted in its initial phase by a "United Front Committee" organized by the Trade Union Educational League of the Workers (Communist) Party, the strike lasted more than a year, ending on March 1st, 1927, when the final mill being picketed signed a contract with the striking workers.\n\nThe Passaic Textile Strike was the first Communist-led work stoppage in the United States, and notable left figures such as Elizabeth Gurley Flynn, Norman Thomas, and Robert W. Dunn helped organize it. Although radical organizers led the strike for the first several months, the American Federation of Labor took over negotiations in the fall of 1926 on condition of communist activists stepping aside.\n\nThe strike was memorialized by a seven reel silent movie titled "The Passaic Textile Strike", intended to generate sympathy and funds for the striking workers. Six of the seven reels survive today.`,
+        link: 'https://socialwelfare.library.vcu.edu/organizations/labor/passaic-textile-strike-1926-2/',
+        infoSrc: 'https://en.wikipedia.org/wiki/1926_Passaic_textile_strike'
       },
     ],
     'Birthdays': [
@@ -3897,13 +3906,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 25th, 1881',
+        title: 'William Z. Foster (1881 - 1961)',
+        imgSrc: require('./assets/eventPhotos/Individuals/williamZFoster.jpg'),
+        description: `William Z. Foster, born on this day in 1881, was a radical American labor organizer and Marxist politician whose career included serving as General Secretary of the Communist Party USA (CPUSA) from 1945 to 1957. He was previously a member of the Socialist Party of America (SPA) and the Industrial Workers of the World (IWW), although he was critical of the former for not working with already existing unions.\n\nFoster was a key figure in the drive to organize the packinghouse industry during World War I and in instigating the Steel Strike of 1919. He was the more radical, pro-Soviet political rival of CPUSA leader Earl Browder, who was a supporter of the Roosevelt administration.\n\nFoster was also a profilic political writer, and his work "Towards Soviet America" has been continuously republished by both leftists and anti-communists who see it as scandalous. Foster described the book as a "plain statement of Communist policy, avoiding technical complexities and theoretical elaboration...Its central purpose is to explain to the oppressed and exploited masses of workers and poor farmers how, under the leadership of the Communist party, they can best protect themselves now...".`,
+        link: 'https://www.marxists.org/archive/foster/index.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/William_Z._Foster'
       },
     ],
     'Assassinations': [
@@ -6911,13 +6920,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 8th, 1827',
+        title: 'Ramón Emeterio Betances (1827 - 1898)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ramonBetances.jpg'),
+        description: `Ramón Emeterio Betances y Alacán, born on this day in 1827, was a Puerto Rican abolitionist, independence advocate, and medical doctor. He was the primary instigator of the "Grito de Lares" and is considered to be the father of the Puerto Rican independence movement.\n\nBecause of his abolitionist beliefs, Betances began organizing a series of secret anti-slavery organizations in 1856. Some of these societies sought the freedom and free passage of maroons from Puerto Rico to countries without slavery, while other societies sought to liberate as many slaves as possible by buying out their freedom (this included freeing thousands of slaves as infants and baptizing them at the Nuestra Señora de la Candelaria).\n\nWhile exiled from Puerto Rico, Betances and others formed the "Revolutionary Committee of Puerto Rico" and began agitating for armed insurrection to establish Puerto Rican independence. The most famous attempt of these was the "Grito de Lares", however it was forcibly put down by the local militia.\n\nBetances was known for stating "Nadie puede dar lo que no tiene" (No one can give others what they don't have for themselves) in reference to Spain's unwillingness to grant Puerto Rico or Cuba any reforms.\n\nDays before his death, the U.S. annexed Puerto Rico in the aftermath of the Spanish-American War. Frustrated by the ostensible unwillingness of Puerto Ricans to demand their independence from the United States, he wrote "And what's wrong with Puerto Ricans that they haven't yet rebelled?"`,
+        link: 'https://www.loc.gov/rr/hispanic/1898/betances.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ram%C3%B3n_Emeterio_Betances'
       },
     ],
     'Assassinations': [
@@ -9390,13 +9399,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 13th, 1829',
+        title: 'Segundo Ruiz Belvis (1829 - 1867)',
+        imgSrc: require('./assets/eventPhotos/Individuals/segundoRuizBelvis.jpg'),
+        description: `Segundo Ruiz Belvis, born on this day in 1829, was an abolitionist who fought for Puerto Rico's right to independence from Spain.\n\nAfter studying abroad, Ruiz Belvis returned to Puerto Rico in 1859 and befriended Ramón Emeterio Betances, joining his group "The Secret Abolitionist Society". The society baptized and emancipated thousands of black slave children in an event known as the "aguas de libertad" (waters of liberty).\n\nIn 1866, Ruiz Belvis was living in exile in New York where, with Betances and others, he formed the "Comité Revolucionario de Puerto Rico" (Revolutionary Committee of Puerto Rico) for the independence of the island.\n\nThey developed a plan to send an armed expedition to Puerto Rico, later known as the "Grito de Lares". Before the insurrection could happen, however, Belvis died of illness while on a diplomatic mission in Chile to raise funds for the rebellion.`,
+        link: 'https://www.biografiasyvidas.com/biografia/r/ruiz_segundo.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Segundo_Ruiz_Belvis'
       },
     ],
     'Assassinations': [
@@ -18864,7 +18873,7 @@ export const eventLibrary = {
         date: 'September 23rd, 1868',
         title: 'Grito de Lares (1868)',
         imgSrc: require('./assets/eventPhotos/Events/gritoDeLares.jpg'),
-        description: `The Grito de Lares (Cry of Lares) was the first major revolt against Spanish rule in Puerto Rico, and began on this day in 1868. The short-lived uprising was an attempt to overthrow Spanish rule and establish Puerto Rican independence. \n\nAlthough the uprising occurred on September 23rd, a group known as the "Revolutionary Committee of Puerto Rico), led by Dr. Ramón Emeterio Betances and Segundo Ruiz Belvis, had been planning the rebellion since January 9th. The Committee issued several widely circulated "Proclamas", statements attacking the exploitation of the Puerto Ricans by the Spanish and calling for immediate insurrection.\n\nOn September 23rd, the Grito de Lares began when several hundred rebels arrived at the town of Lares, looting stores, seizing City Hall, imprisoning Spanish-born merchants, and flying the revolutionary flag of Lares at the town's church. The Republic of Puerto Rico was proclaimed and the revolutionaries offered freedom to the slaves who joined them.\n\nThe insurrection ended the next day when the Puerto Rican militia, significantly better armed than the rebels, put down the rebellion by force. Although all revolutionaries were initially sentenced to death by a military court, political pressure led the Spanish president to declare a general amnesty and free all prisoners (although the leaders of the uprising were still exiled).`,
+        description: `The Grito de Lares (Cry of Lares) was the first major revolt against Spanish rule in Puerto Rico, and began on this day in 1868. The short-lived uprising was an attempt to overthrow Spanish rule and establish Puerto Rican independence.\n\nA group known as the "Revolutionary Committee of Puerto Rico", led by Dr. Ramón Emeterio Betances and Segundo Ruiz Belvis, had been planning the rebellion since January 9th. The Committee issued several widely circulated "Proclamas", statements attacking the exploitation of the Puerto Ricans by the Spanish and calling for immediate insurrection.\n\nOn September 23rd, the Grito de Lares began when several hundred rebels arrived at the town of Lares, looting stores, seizing City Hall, imprisoning Spanish-born merchants, and flying the revolutionary flag of Lares at the town's church. The Republic of Puerto Rico was proclaimed and the revolutionaries offered freedom to the slaves who joined them.\n\nThe insurrection ended the next day when the Puerto Rican militia, significantly better armed than the rebels, put down the rebellion by force. Although all revolutionaries were initially sentenced to death by a military court, political pressure led the Spanish president to declare a general amnesty and free all prisoners (although the leaders of the uprising were still exiled).`,
         link: 'https://www.loc.gov/collections/puerto-rico-books-and-pamphlets/articles-and-essays/nineteenth-century-puerto-rico/rebellion-of-1868/',
         infoSrc: 'https://en.wikipedia.org/wiki/Grito_de_Lares'
       },
