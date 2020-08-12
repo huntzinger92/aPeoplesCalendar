@@ -3660,13 +3660,13 @@ export const eventLibrary = {
   '2-22': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'February 23rd',
+        title: 'February Revolution (1848)',
+        imgSrc: require('./assets/eventPhotos/Events/februaryRevolution1848.jpg'),
+        description: `The 1848 Revolution in France, sometimes known as the February Revolution, was one of a wave of revolutions in 1848 in Europe. In France, the revolutionary events ended the July Monarchy and led to the creation of the French Second Republic. The Second Republic instituted several notable reforms, including universal male suffrage and a guaranteed "right to work", provided by National Workshops who provided the unemployed with a source of income.\n\nOn this day in 1848, crowds of Parisians, angry over the banning of political banquets, flooded out onto the streets to protest against the "Citizen King" Louis Philippe and his chief minister François Pierre Guillaume Guizot. Shouting "Down with Guizot" and "Long Live the Reform", the crowds marched past Guizot's residence and erected barricades in the streets of Paris, where fighting broke out between the citizens and the Parisian municipal guards.\n\nIn the next few days, Guizot resigned and King Phillipp fled the country. On February 23rd, French troops fired into a crowd of protesters, killing 52. By February 26th, the Second Republic had been formed, with poet Alphonse de Lamartine acting as a de facto dictator over France for the next three months.\n\nThe Second Republic's governance would be tested in the "June Days" uprising, which Karl Marx identified as a conflict between petite bourgeoisie and the proletariat. The revolting workers were crushed by force (with over 4,000 insurgents being deported to Algeria) and the Second Republic continued until elected President Louis Napoléon Bonaparte dissolved the parliament in a coup, in 1851.`,
+        link: 'https://www.britannica.com/event/Revolutions-of-1848',
+        infoSrc: 'https://en.wikipedia.org/wiki/French_Revolution_of_1848'
       },
     ],
     'Rebellion': [
@@ -8075,13 +8075,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 24th, 1952',
+        title: 'Elizabeth Flynn Statement to the Court (1952)',
+        imgSrc: require('./assets/eventPhotos/Individuals/elizabethFlynn.jpg'),
+        description: `Elizabeth Gurley Flynn (1890 - 1964) was a labor leader, activist, and feminist who played a leading role in the Industrial Workers of the World (IWW). Flynn was a vigorous proponent of women's rights, birth control, and women's suffrage. Flynn was also the chairwoman of the Communist Party USA (CPUSA) and a founding member of the American Civil Liberties Union (ACLU)\n\nIn 1951, Flynn was arrested and prosecuted under the Smith Act along with sixteen other Communist Party members. On this day in 1952, Flynn issued a statement to the court. Here is an excerpt:\n\n"We will prove to you that we are not conspirators, but that we are animated and united by common ideals and aspirations, with courage to affirm our beliefs, faith in the people and the future, and a willingness to sacrifice for a better world, which we are confident is in birth...\n\nWe expect to convince you that we are within our established constitutional rights to advocate change and progress, to advocate Socialism, which we are convinced will guarantee to all our people in our great and beautiful country the rights of life, liberty, and the pursuit of happiness."\n\nFlynn was found guilty and served two years in prison. Undeterred, she continued her work with CPUSA after her release.`,
+        link: 'https://en.wikipedia.org/wiki/Elizabeth_Gurley_Flynn',
+        infoSrc: 'https://awpc.cattcenter.iastate.edu/2017/03/21/statement-at-the-smith-act-trial-april-24-1952/'
       },
     ],
   },
@@ -12309,13 +12309,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'June 23rd, 1848',
+        title: 'June Days Uprising Begins (1848)',
+        imgSrc: require('./assets/eventPhotos/Events/juneDays.jpg'),
+        description: `The June Days Uprising was an uprising by French workers that began on this day in 1848. The rebellion was in response to plans to close the National Workshops, created by the Second Republic in order to provide work and a minimal source of income for the unemployed. The National Guard, led by General Louis-Eugène Cavaignac, was called out to quell the rebellion.\n\nProtesters clashed with the National Guard and over 10,000 people were either killed or injured in the following three days, with 4,000 insurgents deported to Algeria after the fighting concluded. Among the dead was Denis Auguste Affre, Archbishop of Paris, killed while trying to negotiate peace with an angry crowd.\n\nThe rebellion was successfully crushed, and the episode put an end to revolutionary ambitions of radical Republicans at the time.`,
+        link: 'https://www.britannica.com/event/June-Days',
+        infoSrc: 'https://en.wikipedia.org/wiki/June_Days_uprising'
       },
     ],
     'Labor': [
@@ -13588,7 +13588,7 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'July 10th, 1875',
-        title: 'Mary Mcleod Bethune (1875 - 1955)',
+        title: 'Mary McLeod Bethune (1875 - 1955)',
         imgSrc: require('./assets/eventPhotos/Individuals/maryBethune.jpg'),
         description: `Mary Jane McLeod Bethune, born on this day in 1875, was an American educator, stateswoman, philanthropist, humanitarian, womanist, and civil rights activist.\n\nBethune founded the National Council for Negro Women in 1935, established the organization's flagship journal "Aframerican Women's Journal", and resided as president or leader for myriad African American women's organizations. She also was appointed as a national adviser to president Franklin D. Roosevelt, whom she worked with to create the Federal Council on Negro Affairs, also known as the "Black Cabinet."\n\nBorn in South Carolina to parents who had been slaves, Bethune started working in fields with her family at age five. She took an early interest in becoming educated, and later became a big exponent of education within the black community. She started a school for African-American girls that later, after merging with a boys' school, became known as the "Bethune-Cookman School" and served as its president on multiple occasions.\n\nFor her lifetime of activism, Bethune was deemed "First Lady of Negro America" by Ebony magazine in 1949, and was also known by the black press as the "female Booker T. Washington". Journalist Louis E. Martin stated that "She gave out faith and hope as if they were pills and she some sort of doctor."`,
         link: 'https://www.womenshistory.org/education-resources/biographies/mary-mcleod-bethune',
@@ -14044,7 +14044,7 @@ export const eventLibrary = {
         date: 'July 17th, 1944',
         title: 'Port Chicago Disaster and Mutiny (1944)',
         imgSrc: require('./assets/eventPhotos/Events/portChicagoMutiny.jpg'),
-        description: `The Port Chicago disaster was a deadly munitions explosion that occurred on this day in 1944 at the Port Chicago Naval Magazine in Port Chicago, California, United States. Munitions detonated while being loaded onto a cargo vessel bound for the Pacific Theater of Operations, killing 320 sailors and civilians and injuring 390 others. Most of the dead, injured, and those assigned to clean up the wreckage were enlisted African American sailors.\n\nAccording to historian Erika Doss, "just a few weeks after the disaster, and with no discussion of why the horrific explosion of July 17th had occurred or how to prevent such a disaster from happening again, the black sailors were ordered back to work loading ordnance at the Mare Island Navy Yard in Vallejo. Over 250 of the men refused...", and this refusal came to be known as the "Port Chicago Mutiny".\n\nFifty men‍, known as the "Port Chicago 50", ‌were convicted of mutiny and sentenced to 15 years of prison and hard labor, as well as a dishonorable discharge. A young Thurgood Marshall undertook a formidable legal campaign, appealing their convictions, and, due to his efforts and popular pressure, the Navy eventually released 47 of the 50 mutineers.\n\nThe incident highlighted racial inequality within the Navy and was one of several incidents that led to it ending its practice of segregation in 1946.`,
+        description: `The Port Chicago disaster was a deadly munitions explosion that occurred on this day in 1944 at the Port Chicago Naval Magazine in Port Chicago, California, United States. Munitions detonated while being loaded onto a cargo vessel bound for the Pacific Theater of Operations, killing 320 sailors and civilians and injuring 390 others. Most of the dead, injured, and those assigned to clean up the wreckage were enlisted African American sailors.\n\nAccording to historian Erika Doss, "just a few weeks after the disaster, and with no discussion of why the horrific explosion of July 17th had occurred or how to prevent such a disaster from happening again, the black sailors were ordered back to work loading ordnance at the Mare Island Navy Yard in Vallejo. Over 250 of the men refused...". This refusal came to be known as the "Port Chicago Mutiny".\n\nFifty men‍, known as the "Port Chicago 50", ‌were convicted of mutiny and sentenced to 15 years of prison and hard labor, as well as a dishonorable discharge. A young Thurgood Marshall undertook a formidable legal campaign, appealing their convictions, and, due to his efforts and popular pressure, the Navy eventually released 47 of the 50 mutineers.\n\nThe incident highlighted racial inequality within the Navy and was one of several incidents that led to it ending its practice of segregation in 1946.`,
         link: 'https://www.zinnedproject.org/news/tdih/port-chicago-distaster/',
         infoSrc: 'https://en.wikipedia.org/wiki/Port_Chicago_disaster'
       },
@@ -15836,13 +15836,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'August 11th, 1946',
+        title: 'Franco Assassination Attempt (1964)',
+        imgSrc: require('./assets/eventPhotos/Individuals/stuartChristie.jpg'),
+        description: `Stuart Christie (1946 - ) is a Scottish anarchist writer and publisher.\n\nOn this day in 1964, an eighteen year old Christie was arrested while carrying explosives to assassinate the Spanish dictator, General Francisco Franco. Christie had become interested in the Spanish resistance to Franco after meeting Spanish anarchists living in London, in exile.\n\nIn Paris, he met members of the Defensa Interior organisation and was assigned to bring plastic explosives to Madrid. The Defensa Interior had been infiltrated by government spies, however, and after arriving in Madrid Christie was promptly arrested by undercover police.\n\nChriste was freed after serving three years in prison. He went on to found the Cienfuegos Press publishing house and in 2008 the online Anarchist Film Channel, which hosts films and documentaries with anarchist and libertarian socialist themes.`,
+        link: 'https://www.permanentculturenow.com/interview-with-stuart-christie/',
+        infoSrc: 'https://www.historyscotland.com/history/the-scot-who-nearly-killed-franco/'
       },
     ],
     'Other': [
@@ -23722,6 +23722,15 @@ export const eventLibrary = {
         description: `*this birthdate was confirmed in direct correspondence with Dr. Clements\n\nCharlie Clements, born on this day in 1945, is a retired American physician and a human rights activist. After flying 50 missions as a pilot in the Vietnam War, Clements refused to fly missions in support of the invasion of Cambodia on moral grounds. The Air Force responded by committing him to a psychiatric hospital, and he was subsequently declared to have a 10% mental disability and discharged.\n\nAfterward, Clements became a trained physician, connecting the struggle for social justice to his medical practice. After learning of the U.S.-backed death squads in El Salvador, Clements traveled to an area controlled by the Salvadoran guerrilla resistance group Farabundo Martí National Liberation Front (FMLN), to care the wounded.\n\nDr. Clements has served as president of both the Unitarian Universalist Service Committee and Physicians for Human Rights, a US-based not-for-profit that uses medicine and science to document and advocate against mass atrocities and severe human rights violations around the world.`,
         link: 'https://www.americanswhotellthetruth.org/portraits/charlie-clements',
         infoSrc: 'https://en.wikipedia.org/wiki/Charlie_Clements_(physician)'
+      },
+      {
+        category: 'Birthdays',
+        date: 'November 30th, 1924',
+        title: 'Shirley Chisholm (1924 - 2995)',
+        imgSrc: require('./assets/eventPhotos/Individuals/shirleyChisholm.jpg'),
+        description: `Shirley Anita Chisholm, born on this day in 1924, was an American politician, educator, and author. Chisholm was born to immigrant parents from the Caribbean. When she was five, she was sent to live with her maternal grandmother in Barbados because her parents' work schedules made it difficult to raise children.\n\nChisholm returned to the United States at the age of ten, and spoke with a slight West Indies accent for the rest of her life. On her grandmother's influence, Chisholm later stated "Granny gave me strength, dignity, and love. I learned from an early age that I was somebody. I didn't need the black revolution to tell me that."\n\nIn 1968, she became the first black woman elected to the United States Congress in an upset victory where she defeated civil rights activist James Farmer. Her campaign slogan, later the title of her autobiography was "Unbought and Unbossed". She represented New York's 12th congressional district for seven terms from 1969 to 1983. In the 1972 United States presidential election, she became the first black candidate for a major party's nomination for President of the United States.`,
+        link: 'https://www.womenshistory.org/education-resources/biographies/shirley-chisholm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Shirley_Chisholm'
       },
     ],
     'Assassinations': [
