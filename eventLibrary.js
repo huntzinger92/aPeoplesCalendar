@@ -906,7 +906,7 @@ export const eventLibrary = {
         date: 'January 14th, 2011',
         title: 'Tunisian Revolution (2011)',
         imgSrc: require('./assets/eventPhotos/Events/tunisianRevolution.jpg'),
-        description: `The Tunisian Revolution was an intensive 28-day campaign of civil resistance. It included a series of street demonstrations which took place in Tunisia and led to the president Zine El Abidine Ben Ali's 23-year reign on this day in January 2011. The revolution has brought a thorough democratisation of the country's political process.\n\nThe protests were sparked by the self-immolation of Mohamed Bouazizi, a disgruntled street merchant whose wares had been seized, on 17 December 2010. 28 days later, Ben Ali fled to Saudi Arabia and officially resigned from his post. Notably, the police and army defected from the state and sided with protesters after Ben Ali was ousted from power. Labor unions also played an integral role in the protests.`,
+        description: `The Tunisian Revolution was an intensive 28-day campaign of civil resistance. It included a series of street demonstrations which took place in Tunisia and led to the president Zine El Abidine Ben Ali's 23-year reign on this day in January 2011. The revolution has brought a thorough democratisation of the country's political process.\n\nThe protests were sparked by the self-immolation of Mohamed Bouazizi, a disgruntled street merchant whose wares had been seized, on December 17th, 2010. 28 days later, Ben Ali fled to Saudi Arabia and officially resigned from his post. Notably, the police and army defected from the state and sided with protesters after Ben Ali was ousted from power. Labor unions also played an integral role in the protests.`,
         link: 'https://www.aljazeera.com/indepth/inpictures/2015/12/tunisian-revolution-151215102459580.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Tunisian_Revolution'
       },
@@ -1368,6 +1368,15 @@ export const eventLibrary = {
         description: `Juan García Oliver, born on this day in 1901, was a Spanish anarcho-syndicalist revolutionary, affiliated with the Confederación Nacional del Trabajo (CNT) and Minister of Justice of the Second Spanish Republic.\n\nHe was a leading figure of anarchism in Spain and fought on the side of the republic against fascists in the Spanish Civil War.`,
         link: `https://libcom.org/history/%E2%80%9Crevolutionary-syndicalism-serves-proletariat-whereas-anarchism-one-brand-humanism%E2%80%9D-inte`,
         infoSrc: 'https://en.wikipedia.org/wiki/Juan_Garc%C3%ADa_Oliver'
+      },
+      {
+        category: 'Birthdays',
+        date: 'January 20th, 1932',
+        title: 'Heberto Padilla (1932 - 2000)',
+        imgSrc: require('./assets/eventPhotos/Individuals/hebertoPadilla.jpg'),
+        description: `Heberto Juan Padilla, born on this day in 1932, was a Cuban poet, and the center of the so-called "Padilla affair" when he was imprisoned for criticizing the government. He was born in Puerta de Golpe, Pinar del Río, Cuba. His first book of poetry, "Las rosas audaces" (English: The Audacious Roses), was published in 1949.\n\nAlthough relations were initially good between Castro's government and Cuban artists, tensions between Cuban writers and state bureaucrats began to build in the 1960s, which Padilla got mixed up in when he wrote a scathing critique of a government bureaucrat's novel (Lisandro Otero's "Pasión de Urbino") and offered high praise to the work of an open critic of Castro's revolution (Guillermo Cabrera Infante's "Tres Triste Tigers").\n\nPadilla was subsequently fired from his job, along with the editorial board that published his criticism. On March 20th, 1971, Heberto Padilla was arrested and jailed for his work, "Fuera del juego". One of the charges brought against Fuera del juego was Padilla's conception of history, where he described time as a circle, which was seen as counterrevolutionary.\n\nPadilla was released thirty-seven days after being imprisoned, and his incarceration brought international criticism from writers like Mario Vargas Llosa, Julio Cortázar, Susan Sontag, and Jean-Paul Sartre. He moved to the United States in 1980 and remained there for the rest of his life.`,
+        link: 'https://www.theguardian.com/news/2000/oct/14/guardianobituaries.cuba',
+        infoSrc: 'https://en.wikipedia.org/wiki/Heberto_Padilla'
       },
     ],
     'Assassinations': [
@@ -7080,7 +7089,7 @@ export const eventLibrary = {
         date: 'April 10th, 1993',
         title: 'Chris Hani (1942 - 1993)',
         imgSrc: require('./assets/eventPhotos/Individuals/chrisHani.jpg'),
-        description: `Chris Hani, born Martin Thembisile Hani, was the leader of the South African Communist Party and chief of staff of uMkhonto we Sizwe, the armed wing of the African National Congress (ANC). He received military training in the Soviet Union and served in campaigns in the Zimbabwean War of Liberation, also called the Rhodesian Bush War.\n\nHani was a fierce opponent of the apartheid government, but supported the suspension of the ANC's armed struggle in favour of negotiations after becoming head of the party in 1991. He was assassinated by Janusz Walus, an anti-communist Polish immigrant, on 10 April 1993.`,
+        description: `Chris Hani, born Martin Thembisile Hani, was the leader of the South African Communist Party and chief of staff of uMkhonto we Sizwe, the armed wing of the African National Congress (ANC). He received military training in the Soviet Union and served in campaigns in the Zimbabwean War of Liberation, also called the Rhodesian Bush War.\n\nHani was a fierce opponent of the apartheid government, but supported the suspension of the ANC's armed struggle in favour of negotiations after becoming head of the party in 1991. He was assassinated by Janusz Walus, an anti-communist Polish immigrant, on April 10th, 1993.`,
         link: 'https://web.archive.org/web/20170225112546/http://www.sacp.org.za/main.php?ID=2294',
         infoSrc: 'https://en.wikipedia.org/wiki/Chris_Hani'
       },
@@ -9927,6 +9936,15 @@ export const eventLibrary = {
         description: `Marcelino dos Santos, born on this day in 1929, was a Mozambican poet, revolutionary, and politician. He was a founding member of the Frente de Libertação de Moçambique (FRELIMO-Mozambican Liberation Front), in 1962, and served as the party's deputy president from 1969 to 1977.\n\nSantons also served as Minister of Economic Development in the late 1970s, Frelimo Political Bureau member in charge of the economy in the early 1980s, Chairman of the country's parliament, the Assembly of the Republic, from 1987 to 1994, and, as of 1999, remained a member of the Frelimo Central Committee.\n\nUnder the pseudonyms Kalungano and Lilinho Micaia, he published his early poems in "O Brado Africano". Under his real name, he had a book published by the Associação dos Escritores Moçambicanos (Mozambican Writers' Association) in 1987, entitled "Canto do Amor Natural."`,
         link: 'http://www.thepresidency.gov.za/national-orders/recipient/marcelino-dos-santos-1929',
         infoSrc: 'https://en.wikipedia.org/wiki/Marcelino_dos_Santos'
+      },
+      {
+        category: 'Birthdays',
+        date: 'May 20th, 1891',
+        title: 'Earl Browder (1891 - 1973)',
+        imgSrc: require('./assets/eventPhotos/Individuals/earlBrowder.jpg'),
+        description: `Earl Russell Browder, born on this day in 1891, was an American political activist and leader of the Communist Party USA (CPUSA). Browder was the General Secretary of the CPUSA during the 1930s and first half of the 1940s.\n\nBrowder's primary political rival within the Party was William Z. Foster, and the two sharply disagreed on what the organization's stance towards the Roosevelt administration should be. Foster was the more radical of the two, while Browder endorsed Roosevelt's "New Deal" and was more politically accomodating.\n\nBrowder was the chairman of CPUSA when the Molotov-Ribbentrop Pact (an agreement of non-agression between Soviets and Nazis), and almost overnight the Party changed from being militantly anti-fascist to only engaging in moderate criticism of Germany. CPUSA's membership declined by 15% in the following year.\n\nBrowder was an advocate for a co-operative relationship between the Soviet Union and the United States after World War II, and was sharply criticized by the French Communist Party (later revealed to have been done so on orders from Moscow) in the "Duclos Letter". Due to the domestic Red Scare in the U.S. and his ambitions of co-operative clashing with the Soviet agenda, Browder was expelled from the Communist Party on February 5th, 1946.`,
+        link: 'https://www.britannica.com/biography/Earl-Browder',
+        infoSrc: 'https://en.wikipedia.org/wiki/Earl_Browder'
       },
     ],
     'Assassinations': [
@@ -13593,6 +13611,15 @@ export const eventLibrary = {
         description: `Mary Jane McLeod Bethune, born on this day in 1875, was an American educator, stateswoman, philanthropist, humanitarian, womanist, and civil rights activist.\n\nBethune founded the National Council for Negro Women in 1935, established the organization's flagship journal "Aframerican Women's Journal", and resided as president or leader for myriad African American women's organizations. She also was appointed as a national adviser to president Franklin D. Roosevelt, whom she worked with to create the Federal Council on Negro Affairs, also known as the "Black Cabinet."\n\nBorn in South Carolina to parents who had been slaves, Bethune started working in fields with her family at age five. She took an early interest in becoming educated, and later became a big exponent of education within the black community. She started a school for African-American girls that later, after merging with a boys' school, became known as the "Bethune-Cookman School" and served as its president on multiple occasions.\n\nFor her lifetime of activism, Bethune was deemed "First Lady of Negro America" by Ebony magazine in 1949, and was also known by the black press as the "female Booker T. Washington". Journalist Louis E. Martin stated that "She gave out faith and hope as if they were pills and she some sort of doctor."`,
         link: 'https://www.womenshistory.org/education-resources/biographies/mary-mcleod-bethune',
         infoSrc: 'https://en.wikipedia.org/wiki/Mary_McLeod_Bethune'
+      },
+      {
+        category: 'Birthdays',
+        date: 'July 10th, 1946',
+        title: 'Stuart Christie (1946 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/stuartChristie.jpg'),
+        description: `Stuart Christie, born on this day in 1946, is a Scottish anarchist writer and publisher. When he was eighteen years old, Christie was arrested while carrying explosives to assassinate the Spanish dictator, General Francisco Franco. Charged with "banditry and terrorism", he served three years of a twenty year stence before international pressure won him an early release.\n\nChristie is also known for his 2004 book "Granny Made Me an Anarchist" and went on to found the Cienfuegos Press publishing house and the online Anarchist Film Channel, which hosts films and documentaries with anarchist and libertarian socialist themes.`,
+        link: 'https://tahriricn.wordpress.com/2013/05/03/interview-with-anarchist-stuart-christie/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Stuart_Christie'
       },
     ],
     'Assassinations': [
@@ -21431,13 +21458,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 29th, 1811',
+        title: 'Louis Blanc (1811 - 1882)',
+        imgSrc: require('./assets/eventPhotos/Individuals/louisBlanc.jpg'),
+        description: `Louis Jean Joseph Charles Blanc, born on this day in 1811, was a French politician and historian. A socialist who favored reforms, he called for the creation of cooperatives in order to guarantee employment for the urban poor. Although Blanc's ideas of the workers' cooperatives were never realized, his political and social ideas greatly contributed to the development of socialism in France.\n\nBlanc was a government official in the French Second Republic and was key in the formation of its National Workshops, which used land taxes to fund employment services for unemployed workers. Blanc is sometime credited as being the first person to use the word capitalism in something like its modern form, defining capitalism as "the appropriation of capital by some to the exclusion of others".`,
+        link: 'https://www.britannica.com/biography/Louis-Blanc',
+        infoSrc: 'https://en.wikipedia.org/wiki/Louis_Blanc'
       },
     ],
     'Assassinations': [
@@ -22198,7 +22225,7 @@ export const eventLibrary = {
       {
         category: '',
         date: '',
-        title: '',
+        title: ``,
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: ``,
         link: '',
