@@ -943,6 +943,15 @@ export const eventLibrary = {
         link: 'https://reason.com/1979/10/01/interview-with-murray-bookchin/',
         infoSrc: 'https://en.wikipedia.org/wiki/Murray_Bookchin'
       },
+      {
+        category: 'Birthdays',
+        date: 'January 14th, 1947',
+        title: 'Adolph Reed (1947 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/adolphReed.jpg'),
+        description: `Adolph Leonard Reed Jr., born on this day in 1947, is an American professor of political science at the University of Pennsylvania, specializing in the study of issues of racism and U.S. politics. He is a contributing editor to The New Republic and has been a frequent contributor to The Progressive and The Nation and other leftwing publications.\n\nReed's work on U.S. politics is notable for its critique of identity politics and anti-racism, particularly of their role in black politics. In his essay "The Limits of Anti-Racism", Reed wrote "As a basis for a politics, antiracism seems to reflect [a depoliticization of] the critique of racial injustice by shifting its focus from the social structures that generate and reproduce racial inequality to an ultimately individual, and ahistorical, domain of 'prejudice' or 'intolerance.'"`,
+        link: 'https://libcom.org/library/limits-anti-racism-adolph-reed-jr',
+        infoSrc: 'https://en.wikipedia.org/wiki/Adolph_L._Reed_Jr.'
+      },
     ],
     'Assassinations': [
       {
@@ -1005,9 +1014,9 @@ export const eventLibrary = {
       {
         category: 'Assassinations',
         date: 'January 15th, 1919',
-        title: 'Rosa Luxemburg (1871 - 1919)',
-        imgSrc: require('./assets/eventPhotos/Individuals/rosaLuxemburg.jpg'),
-        description: `Rosa Luxemburg was a Polish Marxist, philosopher, economist, anti-war activist and revolutionary socialist who became a naturalized German citizen at the age of 28. Successively, she was a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD) and the Communist Party of Germany (KPD).\n\nIn 1918-19, Luxemberg publicly supported a violent rebellion against the German state. She was captured and summarily executed by the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Her body was thrown in the Landwehr Canal in Berlin.\n\nDue to her pointed criticism of both the Leninist and the more moderate social democratic schools of socialism, Luxemburg's legacy is a radical, non-Leninist school of revolutionary socialist thought.`,
+        title: 'Rosa Luxemburg and Karl Liebknecht (1919)',
+        imgSrc: require('./assets/eventPhotos/Individuals/rosaLiebknecht.jpg'),
+        description: `Rosa Luxemburg (1871 - 1919) and Karl Liebknecht (1871 - 1919) were prominent German communist thinkers and politicians who co-founded the Spartacist League and the Communist Party of Germany (KPD). Both were assassinated by the German Freikorks, a government-sponsored paramilitary group, on this day in 1919.\n\nThe Spartacist League (Spartacus, the leader of a Roman slave rebellion) was a revolutionary Marxist organization that opposed the social democratic government in Germany. In 1919, Luxemberg and Liebknecht participated in the "Spartacist Uprising", an armed rebellion against the German state. The uprising was forcibly put down by the Freikorps and, for their role in it, both Luxemberg and Liebknecht were tortured and summarily executed by the government forces on this day that year.\n\nKarl Liebknecht and Rosa Luxemburg have since become celebrated martyrs of the German left. Since 1919, an annual Liebknecht-Luxemburg Demonstration has been held in Berlin, the world's largest funerary parade and the biggest meeting of the German left. The annual "L-L Demo" is held on the second Sunday in January. In 2016, 14,000 people attended the rally in Liebknecht and Luxemburg's honor.`,
         link: 'https://www.versobooks.com/blogs/4203-the-many-interpretations-of-rosa-luxemburg-s-legacy',
         infoSrc: 'https://en.wikipedia.org/wiki/Rosa_Luxemburg'
       },
@@ -16022,6 +16031,15 @@ export const eventLibrary = {
         description: `*the source for this birthday date is a tweet by Brooks and is not confirmed\n\nMichael Jamal Brooks, born on this day in 1983, was an American talk show host, writer, political commentator, and dissident. He launched "The Michael Brooks Show" in August 2017, interviewing figures such as Noam Chomsky, Cornel West, Adolph Reed, and Slavoj Žižek.\n\nBrooks was a self-identified progressive and democratic socialist. One of his last publications was a book titled "Against the Web: A Cosmopolitan Answer to the New Right", which offered a critique of the popular figures associated with the intellectual dark web (IDW) and argued that a focus on deplatforming has harmed the left's ability to organize.`,
         link: 'https://jacobinmag.com/2020/07/remembering-our-friend-and-comrade-michael-brooks',
         infoSrc: 'https://en.wikipedia.org/wiki/Michael_Brooks_(political_commentator)'
+      },
+      {
+        category: 'Birthdays',
+        date: 'August 13th, 1871',
+        title: 'Karl Liebknecht (1871 - 1919)',
+        imgSrc: require('./assets/eventPhotos/Individuals/karlLiebknecht.jpg'),
+        description: `Karl Paul August Friedrich Liebknecht, born on this day in 1871, was a German socialist politician and theorist. Originally associated with the Social Democratic Party of Germany (SPD), Liebknecht later became a co-founder with Rosa Luxemburg of both the Spartacist League and the Communist Party of Germany (KPD). Liebknecht is also known for his outspoken opposition to World War I.\n\nIn January 1919, The Spartacist League played a leading role in the Spartacist Uprising, a general strike and armed uprising in Berlin. The uprising was crushed by the SPD government and the Freikorps (paramilitary units formed of World War I veterans). For their role in the uprising, Liebknecht and Luxemburg were both kidnapped, tortured, and murdered on January 15th, 1919.`,
+        link: 'https://www.marxists.org/archive/liebknecht-k/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Karl_Liebknecht'
       },
     ],
     'Assassinations': [
