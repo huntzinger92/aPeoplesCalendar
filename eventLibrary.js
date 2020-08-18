@@ -42,13 +42,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 1st, 1912',
+        title: 'Herbert Lee (1912 - 1961)',
+        imgSrc: require('./assets/eventPhotos/Individuals/herbertLee.jpg'),
+        description: `Herbert Lee, born on this day in 1912, was an American civil rights activist remembered as a proponent of voting rights for African Americans in Mississippi, who had been disenfranchised since 1890. He was a charter member of the National Association for the Advancement of Colored People (NAACP) in Amite County and sought to enfranchise black Americans by encouraging voter registration.\n\nIn 1961, Lee assisted Bob Moses, a field secretary with the Student Nonviolent Coordinating Committee (SNCC), in his efforts to persuade locals to register. His activities were met with threats of reprisal by the white community, and Lee became one of the movement's earliest victims to white violence. On September 25th, 1961, Lee was murdered by Mississippi state representative E. H. Hurst (1908 - 1990) in broad daylight at the cotton gin while delivering cotton near Liberty.\n\nHurst killed Lee with a single shot to the head, but later claimed in court that he was defending himself after Lee attacked him with a tire iron. An all-white jury ruled that the killing was a justifiable homicide. In 1964, civil rights activist Louis Allen was killed after he informed federal investigators that his testimony in the case was forced on threat of violence.`,
+        link: 'https://snccdigital.org/people/herbert-lee/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Herbert_Lee_(activist)'
       },
     ],
     'Assassinations': [
@@ -2147,13 +2147,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'January 31st, 1964',
+        title: 'Louis Allen (1919 - 1964)',
+        imgSrc: require('./assets/eventPhotos/Individuals/louisAllen.jpg'),
+        description: `Louis Allen was an African-American businessman in Liberty, Mississippi who was shot and killed on his land on this day in 1964, during the civil rights era. He had previously tried to register to vote and had allegedly talked to federal officials after witnessing the 1961 murder of Herbert Lee, an NAACP member and volunteer with the SNCC, by E. H. Hurst (1908 - 1990), a white Mississippi state legislator.\n\nAllen watched as Hurst assassinated Lee with a single gunshot to the head, and was forced by local police to testify in court that Hurst acted in self-defense (Hurst falsely claimed Lee attacked him a tire iron).\n\nAfter given this forced testimony, Allen talked to the FBI and the United States Commission on Civil Rights in Jackson, asking for protection if he testified about his forced testimony. The Justice Department said they could not offer him protection, and so Allen declined to speak out.\n\nDespite this, on the day before Allen planned to move out of state, he was assassinated on his own property. In 2011, the CBS program "60 Minutes" conducted a special on his murder which suggested that Allen was killed by Amite County Sheriff Daniel Jones. No one has been prosecuted for his murder.`,
+        link: 'https://snccdigital.org/events/louis-allen-murdered/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Louis_Allen'
       },
     ],
     'Other': [
@@ -6621,7 +6621,7 @@ export const eventLibrary = {
         date: 'April 4th, 2000',
         title: 'Wesleyan Sit-In For Janitor Pay (2000)',
         imgSrc: require('./assets/eventPhotos/Events/uslac.jpg'),
-        description: `From the mid-1990s into the early 2000s, a wave of economic justice activism swept through college campuses in the United States, spurred in large part by the global justice movement’s spotlighting of corporate malfeasance in the United States and especially in the global South. Some students in this period chose to campaign for living wages, unionization, and expanded benefits for their campuses' workers, who were often paid significantly less than other university staff.\n\nOn this day in 2000, 24 members of United Student Labor-Action Coalition at Wesleyan (USLAC) marched into Wesleyan’s Admissions Office and refused to leave until University President Doug Bennet agreed to pay for the wage increases and benefits that Initial, the contractor used by Wesleyan to employ janitors, declined to provide.\n\nThis action was the culmination of protests and petitions that had not succeeded in changing university policy. Thirty-three hours after the building occupation began, President Bennet contacted Initial, the contractor used by Wesleyan to employ janitors, and offered to pay for a wage increase as well as paid vacations for the school's cleaning staff. Initial agreed and USLAC, declaring victory, ended the sit-in.`,
+        description: `From the mid-1990s into the early 2000s, a wave of economic justice activism swept through college campuses in the United States, spurred in large part by the global justice movement's spotlighting of corporate malfeasance in the United States and especially in the global South. Some students in this period chose to campaign for living wages, unionization, and expanded benefits for their campuses' workers, who were often paid significantly less than other university staff.\n\nOn this day in 2000, 24 members of United Student Labor-Action Coalition at Wesleyan (USLAC) marched into Wesleyan's Admissions Office and refused to leave until University President Doug Bennet agreed to pay for the wage increases and benefits that Initial, the contractor used by Wesleyan to employ janitors, declined to provide.\n\nThis action was the culmination of protests and petitions that had not succeeded in changing university policy. Thirty-three hours after the building occupation began, President Bennet contacted Initial, the contractor used by Wesleyan to employ janitors, and offered to pay for a wage increase as well as paid vacations for the school's cleaning staff. Initial agreed and USLAC, declaring victory, ended the sit-in.`,
         link: 'https://nvdatabase.swarthmore.edu/content/wesleyan-student-labor-coalition-wins-living-wages-and-unionization-campus-janitors-1999-200',
         infoSrc: 'https://nvdatabase.swarthmore.edu/content/wesleyan-student-labor-coalition-wins-living-wages-and-unionization-campus-janitors-1999-200'
       },
@@ -8155,6 +8155,15 @@ export const eventLibrary = {
         description: `Manal al-Sharif, born on this day in 1979, is a women's rights activist in Saudia Arabia. In 2011, she co-founded and led the #Women2Drive movement, to challenge the ban on women driving in her country. Wajeha al-Huwaider filmed al-Sharif driving a car as part of the campaign.\n\nAl-Sharif was arrested in 2011 and detained for a week, only released on the conditions of returning for questioning if asked, not driving, and not talking to the media. The New York Times and Associated Press associated the women's driving campaign as part of the Arab Spring and the long duration of al-Sharif's detention due to Saudi authorities' fear of protests.`,
         link: 'https://www.manal-alsharif.com/about',
         infoSrc: 'https://en.wikipedia.org/wiki/Manal_al-Sharif'
+      },
+      {
+        category: 'Birthdays',
+        date: 'April 25th, 1919',
+        title: 'Louis Allen (1919 - 1964)',
+        imgSrc: require('./assets/eventPhotos/Individuals/louisAllen.jpg'),
+        description: `Louis Allen, born on this day in 1919, was an African-American businessman in Liberty, Mississippi who was shot and killed on his land during the civil rights era. He had previously tried to register to vote and had allegedly talked to federal officials after witnessing the 1961 murder of Herbert Lee, an NAACP member and volunteer with the SNCC, by E. H. Hurst (1908 - 1990), a white Mississippi state legislator.\n\nAllen watched as Hurst assassinated Lee with a single gunshot to the head, and was forced by local police to testify in court that Hurst acted in self-defense (Hurst falsely claimed Lee attacked him a tire iron).\n\nAfter given this forced testimony, Allen talked to the FBI and the United States Commission on Civil Rights in Jackson, asking for protection if he testified about his forced testimony. The Justice Department said they could not offer him protection, and so Allen declined to speak out.\n\nDespite this, on the day before Allen planned to move out of state, he was assassinated on his own property. In 2011, the CBS program "60 Minutes" conducted a special on his murder which suggested that Allen was killed by Amite County Sheriff Daniel Jones. No one has been prosecuted for his murder.`,
+        link: 'https://snccdigital.org/events/louis-allen-murdered/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Louis_Allen'
       },
     ],
     'Assassinations': [
@@ -10065,7 +10074,7 @@ export const eventLibrary = {
         date: 'May 22nd, 2012',
         title: 'Dawoud al-Marhoon Arrested (2012)',
         imgSrc: require('./assets/eventPhotos/Individuals/dawoudAlMarhoon.jpg'),
-        description: `Dawoud Al Marhoon (1995 - ) is a Saudi Arabian who, as a teenager, participated in the Saudi Arabian protests during the Arab Spring. On this day in 2012, was arrested by the Saudi Arabian government after refusing to spy on other protesters.\n\nAfter being detained, the Saudi authorities tortured him for weeks and refused to allow him to communicate with anyone on the outside world. For two weeks, Dawoud’s family had no idea where Saudi authorities were holding him, and he was prevented from speaking to a lawyer.\n\nIn September of 2015, he sentenced to death, to be carried out by beheading and crucifixion (in that order).  Secrecy surrounding Saudi’s execution practices prevents the family or the prisoner from receiving prior notification of when the execution will be carried out - according to reprieve.org, Dawoud could now be executed at any time.`,
+        description: `Dawoud Al Marhoon (1995 - ) is a Saudi Arabian who, as a teenager, participated in the Saudi Arabian protests during the Arab Spring. On this day in 2012, was arrested by the Saudi Arabian government after refusing to spy on other protesters.\n\nAfter being detained, the Saudi authorities tortured him for weeks and refused to allow him to communicate with anyone on the outside world. For two weeks, Dawoud's family had no idea where Saudi authorities were holding him, and he was prevented from speaking to a lawyer.\n\nIn September of 2015, he sentenced to death, to be carried out by beheading and crucifixion (in that order).  Secrecy surrounding Saudi's execution practices prevents the family or the prisoner from receiving prior notification of when the execution will be carried out - according to reprieve.org, Dawoud could now be executed at any time.`,
         link: 'https://reprieve.org/cases/dawoud-al-marhoon/',
         infoSrc: 'https://en.wikipedia.org/wiki/Dawoud_al-Marhoon'
       },
@@ -10099,6 +10108,15 @@ export const eventLibrary = {
         description: `Harvey Bernard Milk, born on this day in 1930, was an American politician and the first openly gay elected official in the history of California, where he was elected to the San Francisco Board of Supervisors. Although he was the most pro-LGBT politician in the United States at the time, politics was not something he came to later in life, after his experiences in the counterculture movement of the 1960s.\n\nIn 1972, Milk moved from New York City to the Castro District of San Francisco and took advantage of the growing political and economic power of the neighborhood to promote his activism. Milk's unsuccessfully ran for office three times, but finally won a seat as a city supervisor in 1977.\n\nMilk was assassinated after only eleven months in office by Dan White, another city supervisor. During Milk's short time in office, he sponsored a bill banning discrimination in public accommodations, housing, and employment on the basis of sexual orientation. After his death, Milk became an icon in San Francisco and a martyr for the gay community.`,
         link: 'http://milkfoundation.org/about/harvey-milk-biography/',
         infoSrc: 'https://en.wikipedia.org/wiki/Harvey_Milk'
+      },
+      {
+        category: 'Birthdays',
+        date: 'May 22nd, 1885',
+        title: 'Giacomo Matteotti (1885 - 1924)',
+        imgSrc: require('./assets/eventPhotos/Individuals/giacomoMatteotti.jpg'),
+        description: `Giacomo Matteotti, born on this day in 1885, was an Italian socialist politician and outspoken critic of fascism. As a young adult, Matteotti was activist in the socialist movement and the Italian Socialist Party. He was imprisoned in Sicily for opposing Italy's entry into World War I (and was interned in Sicily during the conflict for this reason).\n\nMatteotti spoke openly against Italian Fascism and Benito Mussolini, and for a time was leader of the opposition to the National Fascist Party (NFP). In 1921, he denounced fascist violence in a pamphlet titled "Inchiesta socialista sulle gesta dei fascisti in Italia" ("Socialist enquiry on the deeds of the fascists in Italy").\n\nOn May 30th, 1924, speaking in the Italian Parliament, he alleged that the Fascists committed fraud in the recently held elections and denounced the violence that they used to gain votes. Eleven days later, he was kidnapped and killed by Fascists.\n\nAfter Matteotti's body was discovered, Mussolini took full responsibility for the murder as head of the Fascist party (although whether he gave a direct order for the murder remains uncertain) and dared his critics to prosecute him for the crime. This challenge went unaccepted. After the Second World War ended, Italian fascists Amerigo Dumini, Giuseppe Viola, and Amleto Poveromo were sentenced to thirty years in prison for their involvement in Matteotti's murder.`,
+        link: 'https://en.wikipedia.org/wiki/Giacomo_Matteotti',
+        infoSrc: 'https://www.britannica.com/biography/Giacomo-Matteotti'
       },
     ],
     'Assassinations': [
@@ -11440,13 +11458,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'June 10th, 1924',
+        title: 'Giacomo Matteotti (1885 - 1924)',
+        imgSrc: require('./assets/eventPhotos/Individuals/giacomoMatteotti.jpg'),
+        description: `Giacomo Matteotti, assassinated by fascists on this day in 1924, was an Italian socialist politician and outspoken critic of fascism. As a young adult, Matteotti was activist in the socialist movement and the Italian Socialist Party. He was imprisoned in Sicily for opposing Italy's entry into World War I (and was interned in Sicily during the conflict for this reason).\n\nMatteotti was spoke openly against Italian Fascism and Benito Mussolini, and for a time was leader of the opposition to the National Fascist Party (NFP). In 1921, he denounced fascist violence in a pamphlet titled "Inchiesta socialista sulle gesta dei fascisti in Italia" ("Socialist enquiry on the deeds of the fascists in Italy").\n\nOn May 30th, 1924, speaking in the Italian Parliament, he alleged that the Fascists committed fraud in the recently held elections and denounced the violence that they used to gain votes. On this day that year, Matteotti was kidnapped and killed by fascists.\n\nAfter Matteotti's body was discovered, Mussolini took full responsibility for the murder as head of the Fascist party (although whether he gave a direct order for the murder remains uncertain) and dared his critics to prosecute him for the crime. This challenge went unaccepted. After the Second World War ended, Italian fascists Amerigo Dumini, Giuseppe Viola, and Amleto Poveromo were sentenced to thirty years in prison for their involvement in Matteotti's murder.`,
+        link: 'https://en.wikipedia.org/wiki/Giacomo_Matteotti',
+        infoSrc: 'https://www.britannica.com/biography/Giacomo-Matteotti'
       },
     ],
     'Other': [
@@ -15140,7 +15158,7 @@ export const eventLibrary = {
         date: 'August 1st, 1947',
         title: 'Denise Oliver-Velez (1947 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/deniseOliverVelez.jpg'),
-        description: `Denise Oliver-Velez (born August 1, 1947) is an American professor, activist, and community organizer. Oliver-Velez is an adjunct Professor of Anthropology and Women’s Studies at State University of New York (SUNY) New Paltz.\n\nOliver-Velez was a member of both The Young Lords and The Black Panther Party (BPP), and fought to make the Young Lords a less chauvinistic and more feminist organization. In 1970 Oliver-Velez was appointed as Minister of Economic Development, becoming the highest ranking woman in the Young Lords.\n\nIn addition to her activism with the Young Lords, Oliver-Velez was also an AIDS movement activist, publishing ethnographic research as part of HIV/AIDS intervention projects. She has also worked in public broadcasting and community media for many years, becoming a program director and co-founder of WPFW-FM in Washington, D.C., Pacifica Radio's first minority-controlled station.\n\nOliver-Velez is featured in the feminist history film "She's Beautiful When She's Angry".`,
+        description: `Denise Oliver-Velez (born August 1, 1947) is an American professor, activist, and community organizer. Oliver-Velez is an adjunct Professor of Anthropology and Women's Studies at State University of New York (SUNY) New Paltz.\n\nOliver-Velez was a member of both The Young Lords and The Black Panther Party (BPP), and fought to make the Young Lords a less chauvinistic and more feminist organization. In 1970 Oliver-Velez was appointed as Minister of Economic Development, becoming the highest ranking woman in the Young Lords.\n\nIn addition to her activism with the Young Lords, Oliver-Velez was also an AIDS movement activist, publishing ethnographic research as part of HIV/AIDS intervention projects. She has also worked in public broadcasting and community media for many years, becoming a program director and co-founder of WPFW-FM in Washington, D.C., Pacifica Radio's first minority-controlled station.\n\nOliver-Velez is featured in the feminist history film "She's Beautiful When She's Angry".`,
         link: 'http://www.shesbeautifulwhenshesangry.com/denise-oliver-velez',
         infoSrc: 'https://en.wikipedia.org/wiki/Denise_Oliver-Velez'
       },
@@ -16388,7 +16406,7 @@ export const eventLibrary = {
         date: 'August 18th, 1944',
         title: 'Ernst Thälmann (1886 - 1944)',
         imgSrc: require('./assets/eventPhotos/Individuals/ernstThalmann.jpg'),
-        description: `Ernst Thälmann was a German communist politician. He was leader of the Communist Party of Germany (KPD) from 1925 to 1933. A committed Stalinist, Thälmann played a major role during the political instability of the Weimar Republic. Especially in its final years, when the KPD explicitly sought the overthrow of the liberal democracy of the republic.\n\nAfter the Reichstag Fire on 27th February, 1933, the Nazi Party launched a new wave of violence and arrests against members of the KPD and other left-wing opponents of the regime. This included Thälmann, who was arrested, tortured, and imprisoned on 3rd March 1933. He was kept in solitary confinement for eleven years, before finally being executed at the Buchenwald concentration camp in 1944.`,
+        description: `Ernst Thälmann was a German communist politician who was executed by the Third Reich on this day in 1944. He was leader of the Communist Party of Germany (KPD) from 1925 to 1933. A committed Stalinist, Thälmann played a major role during the political instability of the Weimar Republic. Especially in its final years, when the KPD explicitly sought the overthrow of the liberal democracy of the republic.\n\nAfter the Reichstag Fire on February 27th, 1933, the Nazi Party launched a new wave of violence and arrests against members of the KPD and other left-wing opponents of the regime. This included Thälmann, who was arrested, tortured, and imprisoned on March 3rd of that year. He was kept in solitary confinement for eleven years, before finally being executed at the Buchenwald concentration camp in 1944.`,
         link: 'https://www.britannica.com/biography/Ernst-Thalmann',
         infoSrc: 'https://en.wikipedia.org/wiki/Ernst_Th%C3%A4lmann'
       },
@@ -19112,13 +19130,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'September 25th, 1961',
+        title: 'Herbert Lee (1912 - 1961)',
+        imgSrc: require('./assets/eventPhotos/Individuals/herbertLee.jpg'),
+        description: `Herbert Lee was an American civil rights activist remembered as a proponent of voting rights for African Americans in Mississippi, who had been disenfranchised since 1890. He was a charter member of the National Association for the Advancement of Colored People (NAACP) in Amite County and sought to enfranchise black Americans by encouraging voter registration.\n\nIn 1961, Lee assisted Bob Moses, a field secretary with Student Nonviolent Coordinating Committee (SNCC), in his efforts to persuade locals to register. His activities were met with threats of reprisal by the white community, and Lee became one of the movement's earliest victims to white violence. On this day in 1961, Lee was murdered by Mississippi state representative E. H. Hurst (1908 - 1990) in broad daylight at the cotton gin while delivering cotton near Liberty.\n\nHurst killed Lee with a single shot to the head, but later claimed in court that he was defending himself after Lee attacked him with a tire iron. An all-white jury ruled that the killing was a justifiable homicide. In 1964, civil rights activist Louis Allen was killed after he informed federal investigators that his testimony in the case was forced on threat of violence.`,
+        link: 'https://snccdigital.org/people/herbert-lee/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Herbert_Lee_(activist)'
       },
     ],
     'Other': [
@@ -20844,13 +20862,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Labor',
+        date: 'October 20th, 1920',
+        title: 'Romanian General Strike (1920)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On this day in 1920, a general strike took place in Romania in response to a call by the General Confederation of Labor. The strike was caused by the Romanian government's refusal to satisfy workers' demands as formulated by the General Council of the Socialist Party of Romania (SPR).\n\nThese demands included observance of democratic freedoms, recognition of workers' factory committees, the abolition of the state of siege then existing in Romania, and the elimination of censorship.\n\nDespite reprisals by the authorities and the capitulation of right-wing leaders of both the SPR and the General Confederation of Labor, who declared the strike over on October 26th, the strike grew to large proportions, with about 400,000 workers taking part in the protest. The strike was put down by force on October 28th.`,
+        link: 'https://encyclopedia2.thefreedictionary.com/October+General+Strike+of+1920',
+        infoSrc: 'https://encyclopedia2.thefreedictionary.com/October+General+Strike+of+1920'
       },
     ],
     'Birthdays': [
