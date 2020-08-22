@@ -279,7 +279,9 @@ export default class App extends React.Component {
                 todayString={this.todayString}
                 ref={this.calendarDisplayRef}
                 scrollToTop={this.scrollToTop}
-                notEmpty={this.state.notEmpty}/>
+                notEmpty={this.state.notEmpty}
+                search={false}
+              />
             }
             {this.state.display === 'about' && <About/>}
             {this.state.display === 'search' &&
@@ -290,7 +292,9 @@ export default class App extends React.Component {
                 todayString={this.todayString}
                 ref={this.calendarDisplayRef}
                 scrollToTop={this.scrollToTop}
-                notEmpty={this.state.notEmpty}/>
+                notEmpty={this.state.notEmpty}
+                search={true}
+              />
             }
             {this.state.display === 'donate' && <Donate/>}
           </View>

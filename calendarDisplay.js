@@ -80,10 +80,14 @@ export class CalendarDisplay extends React.Component {
         <View style={styles.allEventsWrapper}>
           {!this.props.notEmpty &&
             <View style={{marginLeft: 30, marginRight: 30, marginTop: 15}}>
-              <StyledText
-                text="Looks like we don't have any entries for this query yet."
+              {!this.props.search && <StyledText
+                text="Looks like we don't have any entries for this day yet."
                 style={{fontSize: 20, textAlign: 'center'}}
-              />
+              />}
+              {this.props.search && <StyledText
+                text="Looks like we don't have any entries that match this query yet."
+                style={{fontSize: 20, textAlign: 'center'}}
+              />}
               <StyledText
                 text="Is there an important person or event missing from the calendar?"
                 style={{fontSize: 20, marginTop: 5, textAlign: 'center'}}

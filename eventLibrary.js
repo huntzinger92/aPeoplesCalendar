@@ -16674,7 +16674,7 @@ export const eventLibrary = {
         date: 'August 22nd, 1909',
         title: 'Pressed Steel Car Strike (1909)',
         imgSrc: require('./assets/eventPhotos/Events/pressedSteelCarStrike.jpg'),
-        description: `The Pressed Steel Car Strike of 1909 was an American labor strike which lasted from July to September in Pittsburgh, Pennsylvania. The strike was triggered on July 10th, a payday on which many workers were shorter in their pay than usual. Management refused to speak with the workers' representatives and James Rider, manager of The Pressed Steel Car Company, responded to their strike by hiring Pearl Bergoff, a notorious owner of a strike-breaking paramilitary force.\n\nThe walkout drew national attention when, on this day in 1909, a bloody battle took place between strikers, private security agents, and the Pennsylvania State Police. The violence began after strikers boarded a trolley to search for scabs and they were confronted by an armed deputy, who opened fire. In the fighting that followed, between 12 and 26 people were killed.\n\nThe strike was settled on September 8th when Pressed Steel Car agreed to a wage increase, the posting of wage rates, and ended abuses in company housing practices. The Pressed Steel Car Strike was a precursor to the Great Steel Strike of 1919.`,
+        description: `The Pressed Steel Car Strike of 1909 was an American labor strike which lasted from July to September in Pittsburgh, Pennsylvania. The strike was triggered on July 10th, a payday on which many workers of the Pressed Steel Car company were shorter in their pay than usual. Management refused to speak with the workers' representatives and James Rider, manager of The Pressed Steel Car Company, responded to their strike by hiring Pearl Bergoff, a notorious owner of a strike-breaking paramilitary force.\n\nThe walkout drew national attention when, on this day in 1909, a bloody battle took place between strikers, private security agents, and the Pennsylvania State Police. The violence began after strikers boarded a trolley to search for scabs and they were confronted by an armed deputy, who opened fire. In the fighting that followed, between 12 and 26 people were killed.\n\nThe strike was settled on September 8th when Pressed Steel Car agreed to a wage increase, the posting of wage rates, and ended abuses in company housing practices. The Pressed Steel Car Strike was a precursor to the Great Steel Strike of 1919.`,
         link: 'https://www.post-gazette.com/business/businessnews/2009/08/16/Pressed-Steel-Car-strike-in-McKees-Rocks-reaches-centennial-anniversary/stories/200908160200',
         infoSrc: 'https://en.wikipedia.org/wiki/Pressed_Steel_Car_strike_of_1909'
       },
@@ -17348,13 +17348,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 1st, 1920',
+        title: 'Italian Factory Occupations (1920)',
+        imgSrc: require('./assets/eventPhotos/Events/italy1920Workers.jpg'),
+        description: `During the month of September 1920, a widespread occupation of Italian factories by their workers took place. Although originating in the auto factories, steel mills, and machine tool plants of the metal sector, the occupation/revolt spread to cotton mills and hosiery firms, lignite mines, tire factories, breweries and distilleries, and steamships and warehouses in port towns. At its height about 600,000 workers were involved.\n\nThe worker rebellion was the culmination of years of labor strife - weeks before the occupations, the Italian Federation of Metalurgical Workers (FIOM), the Italian Socialist Party (PSI), and the General Confederation of Labor (CGL) called for "obstructionism" (essentially, a work slowdown) to be applied in all the engineering factories and shipyards starting on August 21st.\n\nBy the 24th, production at the Romeo factory in Milan came to a complete standstill. A week later, production at the FIAT-Centro plant was reduced by 60%. On the morning of the 30th, the 2000 workers of the Romeo plant found the gates locked and the factory surrounded by troops. The FIOM responded by calling on its members to occupy the 300 engineering factories in Milan. Historian Lynn Williams describes what happened next:\n\n"Between the 1st and 4th of September metal workers occupied factories throughout the Italian peninsula...the occupations rolled forward not only in the industrial heartland around Milan, Turin and Genoa but in Rome, Florence, Naples and Palermo, in a forest of red and black flags and a fanfare of workers bands...Within three days 400,000 workers were in occupation. As the movement spread to other sectors, the total rose to over half a million."\n\nAlthough some radical elements within the workers' movement (Antonio Gramsci, the Italian Syndicalist Union) called for revolution, referring to the occupations as "an expropriating general strike" and demanding total socialization of the economy, more moderate forces (the CGL) prevailed, using the pressure of the rebellion to cut a deal with employers, granting better conditions to the workers on the condition of returning to work.`,
+        link: 'https://www.marxist.com/italy-lost-revolution091002.htm',
+        infoSrc: 'http://www.workerscontrol.net/theorists/italian-factory-occupations-1920'
       },
     ],
     'Labor': [
@@ -19630,9 +19630,18 @@ export const eventLibrary = {
         date: 'October 2nd, 1968',
         title: 'Tlatelolco Massacre (1968)',
         imgSrc: require('./assets/eventPhotos/Events/tlatelolcoMassacre.jpg'),
-        description: `On this day in 1968, around 10,000 university and high school students gathered in the Plaza de las Tres Culturas to protest the government's actions and listen peacefully to speeches. The crowd, which also included non-students such as residential neighbors, bystanders, and children, was fired upon by the Mexican military that evening.\n\nAlthough the Mexican government said gunfire from the surrounding apartments prompted the army's attack, multiple eyewitness accounts claim they saw a military flare go up as a sign to begin firing on the crowd. The government also had hidden soldiers with machine guns in the apartment buildings they claimed they were fired upon from.\n\nEstimates of the total killed range from 300-400, and over 1,300 people were arrested. The event radicalized Subcomandante Marcos, who later became a prominent member of the Zapatistas, an indigenous group that seeks liberation from the Mexican government.`,
+        description: `On this day in 1968, around 10,000 university and high school students gathered in the Plaza de las Tres Culturas to protest the government's actions and listen peacefully to speeches. The crowd, which also included non-students such as residential neighbors, bystanders, and children, was fired upon by the Mexican military that evening.\n\nAlthough the Mexican government said gunfire from the surrounding apartments prompted the army's attack, multiple eyewitness accounts claim they saw a military flare go up as a sign to begin firing on the crowd. The government also had hidden soldiers with machine guns in the apartment buildings they claimed they were fired upon from.\n\nEstimates of the total killed range from 300-400, and over 1,300 people were arrested. The event radicalized Subcomandante Marcos, who later became a prominent member of the Zapatistas, an indigenous group that fights for liberation from the Mexican government.`,
         link: 'https://www.npr.org/templates/story/story.php?storyId=97546687',
         infoSrc: 'https://en.wikipedia.org/wiki/Tlatelolco_massacre'
+      },
+      {
+        category: 'Other',
+        date: 'October 2nd, 1937',
+        title: 'Parsley Massacre (1937)',
+        imgSrc: require('./assets/eventPhotos/Events/parsleyMassacre.jpg'),
+        description: `The Parsley Massacre (Spanish: El Corte "the cutting"; Creole: kout kouto-a "the stabbing") was an act of genocide committed against Haitians living in the Dominican Republic's northwestern frontier that began on this day in 1937. Estimates of the amount of Haitians murdered range from 12,000-35,000.\n\nThe massacre was carried out by the Dominican Army on the orders of Dominican dictator Rafael Trujillo, who initiated the violence with this statement, given on Oct. 2nd, 1937:\n\n"To the Dominicans who were complaining of the depredations by Haitians living among them, thefts of cattle, provisions, fruits, etc., and were thus prevented from enjoying in peace the products of their labor, I have responded, 'I will fix this.' And we have already begun to remedy the situation. Three hundred Haitians are now dead in Bánica. This remedy will continue."\n\nIn the following week, hundreds of Dominican troops poured into the region, killing Haitians with rifles, machetes, shovels, knives, and bayonets. Haitian children were reportedly thrown in the air and caught by soldiers' bayonets, then thrown on their mothers' corpses. Others were drowned in the sea, making identification and counting of the dead impossible.\n\nThe term "Parsley Massacre" for the genocide came from the method that Dominican soldiers would use to determine whether or not those living on the border were native Afro-Dominicans or immigrant Afro-Haitians - they would hold up a sprig of parsley to someone and ask them what it was. If the person could pronounce it the Spanish way ("perejil"), the soldiers considered them Dominican and let them live, however if they pronounced it with a French or Creole accent, they were considered Haitian and executed.`,
+        link: 'https://www.npr.org/sections/parallels/2017/10/07/555871670/80-years-on-dominicans-and-haitians-revisit-painful-memories-of-parsley-massacre',
+        infoSrc: 'https://en.wikipedia.org/wiki/Parsley_massacre'
       },
     ],
   },
@@ -23431,13 +23440,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'November 25th, 1960',
+        title: 'Mirabal Sisters Assassinated (1960)',
+        imgSrc: require('./assets/eventPhotos/Events/mirabalSisters.jpg'),
+        description: `The Mirabal Sisters were four Dominican sisters known commonly as Patria, Minerva, María Teresa, and Dedé, who opposed the dictatorship of Rafael Trujillo, and were involved in clandestine activities against his regime. On this day in 1960, three of the four sisters (Patria, Minerva, María Teresa) were assassinated by the Trujillo government. The last sister, Dedé, died of natural causes in 2014.\n\nTo organize against the state, Minerva, María Teresa, and Patria began distributing pamphlets about the many people whom Trujillo had killed and obtained materials for guns and bombs to use when they eventually openly revolted. The sisters called themselves "Las Mariposas" ("The Butterflies"), after Minerva's underground name. For their acts of subversion, María, Minerva, both of their husbands, and Patria's husband were all imprisoned.\n\nAfter being freed, Patria, Minerva, María Teresa, and their driver, Rufino de la Cruz were attacked after visiting María's and Minerva's incarcerated husbands. On the way home, the sisters and de la Cruz were separated, strangled, and clubbed to death. The bodies were then gathered and put in their Jeep, which was run off the mountain road in an attempt to make their deaths look like an accident.\n\nThe assassinations turned the Mirabal sisters into "symbols of both popular and feminist resistance". In 1999, in their honor, the United Nations General Assembly designated the 25th of November as "International Day for the Elimination of Violence against Women".`,
+        link: 'https://time.com/5793594/mirabal-sisters-100-women-of-the-year/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mirabal_sisters'
       },
     ],
     'Other': [
