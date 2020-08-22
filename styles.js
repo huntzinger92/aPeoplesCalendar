@@ -167,10 +167,15 @@ export const styles = StyleSheet.create({
     padding: 10,
     width: 160,
   },
+  main: {
+    marginTop: -10
+  },
   onThisDay: {
-    paddingTop: 0,
+    paddingTop: 10,
     paddingBottom: 10,
     borderBottomWidth: 1,
+    borderColor: '#404040',
+    backgroundColor: '#1c1c1c',
   },
   searchBar: {
     flexDirection: 'row',
@@ -178,6 +183,7 @@ export const styles = StyleSheet.create({
     borderColor: 'black',
     borderBottomWidth: 1,
     alignContent: 'center',
+    backgroundColor: 'white',
   },
   searchField: {
     width: '92%',

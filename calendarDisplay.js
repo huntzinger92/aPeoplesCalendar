@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, View, ScrollView, BackHandler, TouchableOpacity } from 'react-native';
+import { Text, View, ScrollView, BackHandler, TouchableOpacity, Linking } from 'react-native';
 import {StyledText} from './styledText.js';
 import {styles} from './styles.js';
 
@@ -76,11 +76,29 @@ export class CalendarDisplay extends React.Component {
     //display === 'specific' will render a specific event's view, passing props to the SpecificEvent component
     return (
       <View style={styles.main}>
-        {this.state.display === 'all' && <View style={styles.allEventsWrapper}>
-          <View style={styles.onThisDay}>
-            {this.props.appDisplay !== 'search' && <StyledText text='On This Day in History' style={{fontSize: 27, textAlign: 'center', fontWeight: 'bold'}}/>}
-            {this.props.appDisplay === 'search' && <StyledText text='Search Results' style={{fontSize: 27, textAlign: 'center', fontWeight: 'bold'}}/>}
-          </View>
+        {this.state.display === 'all' &&
+        <View style={styles.allEventsWrapper}>
+          {!this.props.notEmpty &&
+            <View style={{marginLeft: 30, marginRight: 30, marginTop: 15}}>
+              <StyledText
+                text="Looks like we don't have any entries for this query yet."
+                style={{fontSize: 20, textAlign: 'center'}}
+              />
+              <StyledText
+                text="Is there an important person or event missing from the calendar?"
+                style={{fontSize: 20, marginTop: 5, textAlign: 'center'}}
+              />
+              <TouchableOpacity
+                onPress={() => Linking.openURL('https://docs.google.com/forms/d/e/1FAIpQLScWvVl15jwOMNyltSzl3elc_mEQzRqamlkKy0HpEvX3fYt_sA/viewform')}
+                style={{backgroundColor: '#1c1c1c', borderRadius: 5, marginTop: 15, marginLeft: 'auto', marginRight: 'auto', borderWidth: 1, padding: 12, width: 240, justifyContent: 'center'}}
+              >
+                <StyledText
+                  text="Suggest an Entry"
+                  style={{fontSize: 26, color: 'white'}}
+                />
+              </TouchableOpacity>
+            </View>
+          }
           {this.props.events['Revolution'][0].description.length > 0 && <View style={[styles.eventCategory, ]}>
             <TouchableOpacity
               onPress={() => this.handleExpandCollapse('Revolution')}

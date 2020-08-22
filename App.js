@@ -14,12 +14,8 @@ import {eventLibrary} from './eventLibrary.js';
 //styles
 import {styles} from './styles.js';
 import DateTimePicker from '@react-native-community/datetimepicker';
-//donation prompt alert:
-import AwesomeAlert from 'react-native-awesome-alerts';
-//local storage of display settings (currently only used to handle when donation prompt displays, but will include notification scheduling eventually)
-import AsyncStorage from '@react-native-community/async-storage';
 //icons
-import { AntDesign } from '@expo/vector-icons';
+import {AntDesign} from '@expo/vector-icons';
 
 //notification stuff (on To Do list, expo's docs are a bit complicated)
 //import {Constants, Notifications, Permissions} from 'expo';
@@ -28,7 +24,7 @@ import { AntDesign } from '@expo/vector-icons';
 //import * as Permissions from 'expo-permissions';
 
 //the code below checks for amount of empty days and total event count in the calendar
-///*
+/*
 var everyDayString = Object.keys(eventLibrary);
 var emptyCount = 0;
 var totalEventsCount = 0;
@@ -60,7 +56,17 @@ for (var i = 0; i < everyDayString.length; i++) {
 };
 console.log('amount of empty days: ' + emptyCount);
 console.log('amount of events: ' + totalEventsCount);
-//*/
+*/
+
+//this function checks to see if a given day (or search query formatted as a "day") is not empty:
+function isDayNotEmpty(day) {
+  //if the eventCategory for the day is empty, its first entry's description prop will be an empty string
+  if (day['Revolution'][0].description || day['Rebellion'][0].description || day['Birthdays'][0].description || day['Labor'][0].description || day['Assassinations'][0].description || day['Other'][0].description) {
+    return true;
+  } else {
+    return false;
+  };
+};
 
 var initTodayString = (new Date().getMonth() + 1 + '-' + new Date().getDate());
 
@@ -71,13 +77,12 @@ export default class App extends React.Component {
       display: 'main', //main, about, or search
       showDatePicker: false,
       events: eventLibrary[initTodayString], //events from selected day, to display in CalendarDisplay
-      searchValue: 'Search the calendar!'
+      searchValue: 'Search the calendar!',
+      notEmpty: isDayNotEmpty(eventLibrary[initTodayString]),
     };
     this.setDisplay = this.setDisplay.bind(this);
     this.setNewDate = this.setNewDate.bind(this);
     this.toggleDatePicker = this.toggleDatePicker.bind(this);
-    //this.declineDonation = this.declineDonation.bind(this);
-    this.openWebsite = this.openWebsite.bind(this);
     this.searchEvents = this.searchEvents.bind(this);
     this.scrollToTop = this.scrollToTop.bind(this);
 
@@ -85,7 +90,6 @@ export default class App extends React.Component {
     this.todayString = initTodayString;
     this.scrollViewRef = React.createRef(); //scrollView ref, used to go to top of scrollview when display component is changed
     this.calendarDisplayRef = React.createRef();
-    this.donationMessage = "A calendar full of working class movements should be free of ads trying to commodify every second of your life.\n\nDonating a bit helps us keep this calendar growing, accurate, and up to date."
     //searchEventsResult is used as a "artificial" day, passed to calendarDisplay. This allows search results to retain the same look and functionality of any calendar day
     this.searchEventsResult = {
       'Revolution': [{description: ''}],
@@ -101,37 +105,14 @@ export default class App extends React.Component {
     if (this.state.display !== 'main') {
       this.setState({
         display: 'main',
-        searchValue: 'Search the calendar!'
+        searchValue: 'Search the calendar!',
+        notEmpty: isDayNotEmpty(this.state.events),
       });
       return true;
     } else {
       BackHandler.exitApp();
     };
   });
-
-
-  /*async componentDidMount() {
-    //causes a re-render on Fridays, but probably better than a ternary operator in the initial setting of state
-    if (this.today.getDay() === 5) {
-      let hasSeenDonation = await AsyncStorage.getItem('@hasSeenDonation');
-      if (hasSeenDonation === false) {
-        this.setState({
-          showDonationPrompt: true,
-        });
-        try {
-          await AsyncStorage.setItem('@hasSeenDonation', "true")
-        } catch (e) {
-
-        };
-      };
-    } else {
-      try {
-        await AsyncStorage.setItem('@hasSeenDonation', "false")
-      } catch (e) {
-
-      };
-    };
-  };*/
 
   searchEvents() {
     //iterate over each day, each day's category, each day's category's list of events, see if this.state.searchValue is in the event's description
@@ -190,7 +171,9 @@ export default class App extends React.Component {
         };
       };
     };
-
+    this.setState({
+      notEmpty: isDayNotEmpty(this.searchEventsResult)
+    });
     this.setDisplay('search');
     //exit out of specific event display:
     this.calendarDisplayRef.current.setDisplay('all');
@@ -209,7 +192,7 @@ export default class App extends React.Component {
     //component should only ever be main, search, or about
     if (component === 'all') {
       this.setState({
-        searchValue: ''
+        searchValue: '',
       });
     };
     this.setState({
@@ -234,6 +217,7 @@ export default class App extends React.Component {
     this.setState({
       events: eventLibrary[this.todayString],
       showDatePicker: false,
+      notEmpty: isDayNotEmpty(eventLibrary[this.todayString])
     });
     //if coming from a search or about, need to reset the app display:
     if (this.state.display !== 'main') {
@@ -255,27 +239,19 @@ export default class App extends React.Component {
     });
   };
 
-  openWebsite() {
-    this.setState({
-      showDonationPrompt: false,
-    });
-    Linking.openURL('https://expo.io/@tts2p4/aPeoplesCalendar');
-  };
-
-  declineDonation() {
-    this.setState({
-      showDonationPrompt: false,
-    });
-  };
-
   render() {
     //two possible views here, 'main' and 'about'
     //console.log(this.state.events);
     return (
       <View style={styles.container}>
         <StatusBar barStyle='light-content'/>
+        <View style={styles.onThisDay}>
+          {this.state.display !== 'search' && <StyledText text='On This Day in History' style={{fontSize: 26, textAlign: 'center', color: 'white'}}/>}
+          {this.state.display === 'search' && <StyledText text='Search Results' style={{fontSize: 26, textAlign: 'center', color: 'white'}}/>}
+        </View>
         <TouchableOpacity style={styles.header} onPress={() => this.toggleDatePicker()}>
-          <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 25, color: 'white'}}/>
+          <AntDesign name='calendar' size={28} color='white' style={{position: 'absolute', left: 60}}/>
+          <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 26, color: 'white'}}/>
         </TouchableOpacity>
         {this.state.display !== 'about' && <View style={styles.searchBar}>
           <TouchableOpacity
@@ -295,28 +271,48 @@ export default class App extends React.Component {
         </View>}
         <ScrollView style={styles.everythingNotFooter} ref={(c) => {this.scrollViewRef = c}}>
           <View style={styles.mainContent}>
-            {this.state.display === 'main' && <CalendarDisplay appDisplay={this.state.display} date={this.today} events={this.state.events} todayString={this.todayString} ref={this.calendarDisplayRef} scrollToTop={this.scrollToTop}/>}
+            {this.state.display === 'main' &&
+              <CalendarDisplay
+                appDisplay={this.state.display}
+                date={this.today}
+                events={this.state.events}
+                todayString={this.todayString}
+                ref={this.calendarDisplayRef}
+                scrollToTop={this.scrollToTop}
+                notEmpty={this.state.notEmpty}/>
+            }
             {this.state.display === 'about' && <About/>}
-            {this.state.display === 'search' && <CalendarDisplay appDisplay={this.state.display} date={this.today} events={this.searchEventsResult} todayString={this.todayString} ref={this.calendarDisplayRef} scrollToTop={this.scrollToTop}/>}
+            {this.state.display === 'search' &&
+              <CalendarDisplay
+                appDisplay={this.state.display}
+                date={this.today}
+                events={this.searchEventsResult}
+                todayString={this.todayString}
+                ref={this.calendarDisplayRef}
+                scrollToTop={this.scrollToTop}
+                notEmpty={this.state.notEmpty}/>
+            }
             {this.state.display === 'donate' && <Donate/>}
           </View>
         </ScrollView>
         <View style={styles.footer}>
 
-          {this.state.display !== 'about' && <TouchableOpacity
-            onPress={() => this.setDisplay('about')}
-            style={styles.bottomButton}
-          >
-            <StyledText text='About' style={styles.bottomButtonText}/>
-          </TouchableOpacity>
+          {this.state.display !== 'about' &&
+            <TouchableOpacity
+              onPress={() => this.setDisplay('about')}
+              style={styles.bottomButton}
+            >
+              <StyledText text='About' style={styles.bottomButtonText}/>
+            </TouchableOpacity>
           }
 
-          {this.state.display === 'about' && <TouchableOpacity
-            onPress={() => this.setDisplay('main')}
-            style={styles.bottomButton}
-          >
-            <StyledText text='Back' style={styles.bottomButtonText}/>
-          </TouchableOpacity>
+          {this.state.display === 'about' &&
+            <TouchableOpacity
+              onPress={() => this.setDisplay('main')}
+              style={styles.bottomButton}
+            >
+              <StyledText text='Back' style={styles.bottomButtonText}/>
+              </TouchableOpacity>
           }
 
           <TouchableOpacity
