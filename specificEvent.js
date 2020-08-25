@@ -13,7 +13,7 @@ export class SpecificEvent extends React.Component {
   render() {
     //console.log(this.props.event.imgSrc);
     return (
-      <View style={{marginBottom: 15}}>
+      <View style={{marginBottom: 15, marginTop: 10}}>
         <View style={{marginTop: 7, width: '90%', marginLeft: 'auto', marginRight: 'auto'}}>
           <TouchableOpacity onPress={() => this.props.setDisplay('all')} style={{alignContent: 'center', width: 70}}>
             <Ionicons name="md-arrow-round-back" size={32} color="black"/>

@@ -8110,7 +8110,7 @@ export const eventLibrary = {
         date: 'April 25th, 1974',
         title: 'Carnation Revolution (1974)',
         imgSrc: require('./assets/eventPhotos/Events/carnationRevolution.jpg'),
-        description: `The Carnation Revolution (Portuguese: Revolução dos Cravos), was an anti-colonial military coup in Lisbon which overthrew the authoritarian Estado Novo regime. The revolution began as a coup organised by the Armed Forces Movement (MFA), composed of military officers who opposed the regime, but it was soon coupled with an unanticipated, mass civil resistance campaign.\n\nAside from toppling the Estado Novo government, the revolution ended the Portuguese Colonial War (leading to independence for Guinea-Bissau, Cape Verde, Angola, and others) and started a political process that would result in a democratic Portugal.\n\nAfter the coup, power was held by the National Salvation Junta (a military junta), and Portugal experienced a period of political turmoil as conflicting communist, socialist, and right-wing forces fought each other for power.\n\nPortugal's first free election was took place on the one-year anniversary of the Carnation Revolution in order to write a new constitution for the country. Another election was held in 1976 and the first constitutional government, led by centre-left socialist Mário Soares, took office.`,
+        description: `The Carnation Revolution (Portuguese: Revolução dos Cravos), was an anti-colonial military coup in Lisbon which overthrew the authoritarian Estado Novo regime. The revolution began as a coup organized by the Armed Forces Movement (MFA), composed of military officers who opposed the regime, but it was soon coupled with an unanticipated, mass civil resistance campaign.\n\nAside from toppling the Estado Novo government, the revolution ended the Portuguese Colonial War (leading to independence for Guinea-Bissau, Cape Verde, Angola, and others) and started a political process that would result in a democratic Portugal.\n\nAfter the coup, power was held by the National Salvation Junta (a military junta), and Portugal experienced a period of political turmoil as conflicting communist, socialist, and right-wing forces fought each other for power.\n\nPortugal's first free election was took place on the one-year anniversary of the Carnation Revolution in order to write a new constitution for the country. Another election was held in 1976 and the first constitutional government, led by centre-left socialist Mário Soares, took office.`,
         link: 'https://www.jacobinmag.com/2019/04/portugal-carnation-revolution-national-liberation-april',
         infoSrc: 'https://en.wikipedia.org/wiki/Carnation_Revolution'
       },
@@ -16252,6 +16252,15 @@ export const eventLibrary = {
         link: 'https://www.theguardian.com/world/2015/may/19/marikana-massacre-untold-story-strike-leader-died-workers-rights',
         infoSrc: 'https://en.wikipedia.org/wiki/Marikana_massacre'
       },
+      {
+        category: 'Labor',
+        date: 'August 16th, 1918',
+        title: 'London Women Transport Workers Strike (1918)',
+        imgSrc: require('./assets/eventPhotos/Events/londonTransportWomenStrike.jpg'),
+        description: `In August 1918, female tram conductors in Willesden, London started a wildcat strike which quickly spread around the country and to other sectors of public transport. Earlier that year, male workers were given a 5 shilling per week wartime bonus to help cope with the increased cost of living, but women workers were not.\n\nOn this day that year, a meeting of women at Willesden bus garage decided to go on strike the following day, without informing their bosses or unions. Initially demanding the same war bonus that had been given to men, their demands morphed into equal pay, more than forty years before the Equal Pay Act. The slogal on the strike was "Same Work - Same Pay".\n\nThe strike spread throughout the city - an estimated 18,000 out of a total 27,000 women working in the public transport industry participated. The strike was settled on the 25th of August. The women won the 5 shilling war bonus, but not equal pay.`,
+        link: 'https://libcom.org/history/london-transport-women-workers-strike-1918',
+        infoSrc: 'https://turbulentlondon.com/2016/08/16/on-this-day-the-london-women-transport-workers-strike-16th-august-1918/'
+      },
     ],
     'Birthdays': [
       {
@@ -16821,7 +16830,7 @@ export const eventLibrary = {
         date: 'August 24th, 1945',
         title: 'Marsha P. Johnson (1945 - 1992)',
         imgSrc: require('./assets/eventPhotos/Individuals/marshaJohnson.jpg'),
-        description: `Marsha P. Johnson was an American gay liberation activist and self-identified drag queen. Known as an outspoken advocate for gay rights, Johnson was one of the prominent figures in the Stonewall uprising of 1969. A founding member of the Gay Liberation Front, Johnson co-founded the socialist activist group Street Transvestite Action Revolutionaries (S.T.A.R.), alongside her close friend Sylvia Rivera.\n\nJohnson was one of the first drag queens to go to the Stonewall Inn, after they began allowing women and drag queens inside; it was previously a bar for only gay men. On the early morning hours of June 28th, 1969, the Stonewall uprising occurred. While the first two nights of rioting were the most intense, the clashes with police would result in a series of spontaneous demonstrations and marches through the gay neighborhoods of Greenwich Village for roughly a week afterwards.\n\nShortly after a pride parade in 1992, Johnson's body was discovered floating in the Hudson River. Police initially ruled the death a suicide, but Johnson's friends and other members of the local community insisted Johnson was not suicidal and noted that the back of Johnson's head had a massive wound. Johnson was cremated and, following a funeral at a local church, friends released Johnson's ashes over the river.`,
+        description: `Marsha P. Johnson, born on this day in 1945, was an American gay liberation activist and self-identified drag queen. Known as an outspoken advocate for gay rights, Johnson was one of the prominent figures in the Stonewall uprising of 1969. A founding member of the Gay Liberation Front, Johnson co-founded the socialist activist group Street Transvestite Action Revolutionaries (S.T.A.R.), alongside her close friend Sylvia Rivera.\n\nJohnson was one of the first drag queens to go to the Stonewall Inn, after they began allowing women and drag queens inside; it was previously a bar for only gay men. On the early morning hours of June 28th, 1969, the Stonewall uprising occurred. While the first two nights of rioting were the most intense, the clashes with police would result in a series of spontaneous demonstrations and marches through the gay neighborhoods of Greenwich Village for roughly a week afterwards.\n\nShortly after a pride parade in 1992, Johnson's body was discovered floating in the Hudson River. Police initially ruled the death a suicide, but Johnson's friends and other members of the local community insisted Johnson was not suicidal and noted that the back of Johnson's head had a massive wound. Johnson was cremated and, following a funeral at a local church, friends released Johnson's ashes over the river.`,
         link: 'https://marshap.org/about-mpji/',
         infoSrc: 'https://en.wikipedia.org/wiki/Marsha_P._Johnson'
       },
@@ -16830,7 +16839,7 @@ export const eventLibrary = {
         date: 'August 24th, 1922',
         title: 'Howard Zinn (1922 - 2010)',
         imgSrc: require('./assets/eventPhotos/Individuals/howardZinn.jpg'),
-        description: `Howard Zinn was an American historian, playwright, and socialist thinker. He was chair of the history and social sciences department at Spelman College, and a political science professor at Boston University. Zinn wrote over 20 books, including his best-selling and influential book "A People's History of the United States", which was the inspiration for making this calendar.\n\nIn the 1960s, as a result of Zinn's campaigning against the Vietnam War and his influence on Martin Luther King, Jr., the FBI designated him a high security risk to the country by adding him to the Security Index, a listing of American citizens who could be summarily arrested if a state of emergency were to be declared. The FBI memos also show that they were concerned with Zinn's repeated criticism of the FBI for failing to protect blacks against white mob violence. Zinn's daughter said she was not surprised by the files; "He always knew they had a file on him."\n\nZinn described himself as "something of an anarchist, something of a socialist. Maybe a democratic socialist." He wrote extensively about the Civil Rights Movement, the anti-war movement and labor history of the United States. His memoir, You Can't Be Neutral on a Moving Train (Beacon Press, 2002), was also the title of a 2004 documentary about Zinn's life and work. Zinn died of a heart attack in 2010, at age 87.`,
+        description: `Howard Zinn, born on this day in 1922, was an American historian, playwright, and socialist thinker. He was chair of the history and social sciences department at Spelman College, and a political science professor at Boston University. Zinn wrote over 20 books, including his best-selling and influential book "A People's History of the United States", which was the inspiration for making this calendar.\n\nIn the 1960s, as a result of Zinn's campaigning against the Vietnam War and his influence on Martin Luther King, Jr., the FBI designated him a high security risk to the country by adding him to the Security Index, a listing of American citizens who could be summarily arrested if a state of emergency were to be declared. The FBI memos also show that they were concerned with Zinn's repeated criticism of the FBI for failing to protect blacks against white mob violence. Zinn's daughter said she was not surprised by the files; "He always knew they had a file on him."\n\nZinn described himself as "something of an anarchist, something of a socialist. Maybe a democratic socialist." He wrote extensively about the Civil Rights Movement, the anti-war movement and labor history of the United States. His memoir, You Can't Be Neutral on a Moving Train (Beacon Press, 2002), was also the title of a 2004 documentary about Zinn's life and work. Zinn died of a heart attack in 2010, at age 87.`,
         link: 'https://www.howardzinn.org/about/biography/',
         infoSrc: 'https://en.wikipedia.org/wiki/Howard_Zinn'
       },
@@ -16876,7 +16885,7 @@ export const eventLibrary = {
         date: 'August 25th, 1921',
         title: 'Battle of Blair Mountain (1921)',
         imgSrc: require('./assets/eventPhotos/Events/battleOfBlairMountain.jpg'),
-        description: `The Battle of Blair Mountain was the largest labor uprising in United States history and the largest armed uprising since the American Civil War. The conflict occurred in Logan County, West Virginia, as part of the Coal Wars, a series of early-20th-century labor disputes in Appalachia. Up to 100 people were killed, and nearly one thousand miners were arrested on multiple charges, including murder and treason.\n\nFor five days, from late August to early September 1921, some 10,000 armed coal miners confronted 3,000 lawmen and strikebreakers who were backed by coal mine operators during the miners' attempt to unionize the southwestern West Virginia coalfields. The battle ended after approximately one million rounds were fired, aerial bombardment of the miners, and the United States Army, intervening on orders from the president.`,
+        description: `The Battle of Blair Mountain was the largest labor uprising in United States history and the largest armed uprising since the American Civil War. The conflict, which began on this day in 1921, occurred in Logan County, West Virginia as part of the "Coal Wars", a series of early-20th-century labor disputes in Appalachia. Up to 100 people were killed and nearly one thousand miners were arrested on multiple charges, including murder and treason.\n\nFor five days, from late August to early September 1921, some 10,000 armed coal miners confronted 3,000 lawmen and strikebreakers who were backed by coal mine operators during the miners' attempt to unionize the southwestern West Virginia coalfields. The battle ended after approximately one million rounds were fired, aerial bombardment of the miners, and the United States Army's arrival, intervening on orders from the president.`,
         link: 'https://www.history.com/news/americas-largest-labor-uprising-the-battle-of-blair-mountain',
         infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain'
       },
@@ -16916,13 +16925,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'August 25th, 1996',
+        title: 'Philadelphia Welfare Protests (1996)',
+        imgSrc: require('./assets/eventPhotos/Events/phillyWelfareProtests.jpg'),
+        description: `On May 16th, 1996, Governor Tom Ridge of Pennsylvania signed a series of welfare reforms into law, including cuts to medical assistance, a requirement that childless people between ages 21 and 58 work 100 hours a month to receive medical assistance benefits, and a condition that anyone making more than $5100 a year did not qualify for medical assistance. When implemented, this legislation would cut 250,000 people off of medical assistance.\n\nOn this day that year, in response to this, Philadelphians living in poverty and homelessness organized through the Kensington Welfare Rights Union (KWRU), began a 140-mile march from Philadelphia to Harrisburg, the capitol of Pennsylvania. On August 31st, they arrived and camped on the front lawn of the Pennsylvania Capitol building, holding a rally there the next day.\n\nIn late September, a federal judge ordered the protesters to leave, however they defied the order, staying until they were forcibly removed by the police on October 3rd. Although the activists were able to speak with Governor Ridge, they were not successful in reversing the welfare reforms. The KWRU continued to organize protests, holding that economic rights and the right to housing, education, food, and a living wage are human rights.`,
+        link: 'https://www.mdrc.org/sites/default/files/full_606.pdf',
+        infoSrc: 'http://libcom.org/history/1996-7-philadelphians-campaign-against-welfare-cuts'
       },
     ],
   },
@@ -16951,13 +16960,22 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 26th, 2009',
+        title: 'South African Striking Troops Attacked (2009)',
+        imgSrc: require('./assets/eventPhotos/Events/saTroopsAttacked.jpg'),
+        description: `On this day in 2009, approximately 3,000 military personnel clashed with the police on the streets of Pretoria during demonstrations over pay and conditions. The troops had marched to union buildings, insisting on President Jacob Zuma to give them a 30% pay raise. Police used rubber bullets and teargas to disperse the marchers, who reportedly became unruly and attacked police cars.\n\nThe government claimed the protest was illegal and fired 697 soldiers in response to the strike.`,
+        link: 'http://news.bbc.co.uk/2/hi/africa/8230793.stm',
+        infoSrc: 'http://news.bbc.co.uk/2/hi/africa/8230793.stm'
+      },
+      {
+        category: 'Labor',
+        date: 'August 26th, 1913',
+        title: 'Dublin Lock-Out Begins (1913-14)',
+        imgSrc: require('./assets/eventPhotos/Events/dublinLockOut.jpg'),
+        description: `The Dublin Lock-Out was a major industrial dispute between approximately 20,000 workers and 300 employers which began on this day in 1913, in Ireland's capitol city of Dublin. The dispute is often viewed as the most severe and significant industrial dispute in Irish history.\n\nIn the years leading up to the strike, the Irish Transport and General Workers' Union (ITGWU) had been seeking to unionize and radicalize the Irish workforce. Founded by socialist revolutionary James Larkin in 1908, the ITGWU was the first Irish union to cater to both skilled and unskilled workers.\n\nIn July 1913, three hundred businesses (led by capitalist William Martin Murphy) agreed to not allow the ITGWU to unionize the Dublin workers. Murphy dismissed hundreds of workers of suspected of union membership soon after. Employers in Dublin then locked out their workers, affecting tens of thousands of Irish workers, many of whom were already the poorest in the United Kingdom.\n\nAfter outbreaks of violence between striking workers and strike-breakers, James Connolly, Larkin and ex-British Army Captain Jack White formed a worker's militia, the Irish Citizen Army, to protect workers' demonstrations.\n\nThe lock-out eventually concluded in early 1914, when the Trades Union Congress (TUC) in Britain rejected Larkin and Connolly's request for a sympathetic strike. Most workers, many of whom were on the brink of starvation, went back to work and signed pledges not to join the ITGWU.`,
+        link: 'https://www.historyireland.com/20th-century-contemporary-history/the-dublin-1913-lockout/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Dublin_lock-out'
       },
     ],
     'Birthdays': [
@@ -16973,24 +16991,24 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'August 26th, 1919',
+        title: 'Fannie Sellins (1872 - 1919)',
+        imgSrc: require('./assets/eventPhotos/Individuals/fannieSellins.jpg'),
+        description: `Fannie Sellins was an American union organizer who was murdered by deputies policing a picket line on this day in 1919.\n\nSellins came to the attention of United Mine Workers of America (UMWA) after helping organize a local chapter of the International Ladies' Garment Workers' Union in St. Louis, negotiating a worker lockout at a garment factory. The UMWA hired Sellins and, in 1919, sent her to the Allegheny River Valley district to direct picketing by striking miners at Allegheny Coal and Coke Company.\n\nOn this day that year, she witnessed guards attacking Joseph Starzeleski, a picketing miner who was being beaten to death. When Sellins intervened, deputies shot and killed her with four bullets and used a cudgel to fracture her skull. Others said that she was attempting to protect miners' children that were on scene. Three deputies were indicted for the killings, but a 1923 trial ended in acquittal for the two men accused of her murder.`,
+        link: 'https://battleofhomestead.org/bhf/tragedy-in-1919-fannie-sellins/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Fannie_Sellins'
       },
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'August 26th, 2017',
+        title: 'Negro Matapacos Passes Away (2017)',
+        imgSrc: require('./assets/eventPhotos/Individuals/negroMatapacos.jpg'),
+        description: `Negro Matapacos ("Black Cop-Killer") was a famous stray dog from the streets of Santiago who joined student protests across the city in the 2010s, the 2011 movement for free education in particular. Negro Matapacos was seen regularly at demonstrations, defying tear gas and water cannons, and always barking at or attacking only the riot police, never any students or rioters.\n\nMatapacos died from old age on this day in 2017.`,
+        link: 'https://en.wikipedia.org/wiki/Negro_Matapacos',
+        infoSrc: 'https://workingclasshistory.com/2019/08/26/negro-matapacos-chiles-riot-dog/'
       },
     ],
   },
@@ -17148,8 +17166,8 @@ export const eventLibrary = {
         date: 'August 29th, 1786',
         title: "Shay's Rebellion (1786)",
         imgSrc: require('./assets/eventPhotos/Events/shaysRebellion.jpg'),
-        description: `Shays' Rebellion was an armed uprising in Western Massachusetts in opposition to a debt crisis among the citizenry and the state government's increased efforts to collect taxes both on individuals and their trades. American Revolutionary War veteran Daniel Shays led four thousand rebels (called Shaysites) in a protest against economic and civil rights injustices.\n\nThe rebellion stoked some anti-democratic sentiment during the 1787 Constitutional Convention, which was dominated by strong-government advocates. Notably, Delegate Oliver Ellsworth of Connecticut argued that because the people could not be trusted (as exemplified by Shays' Rebellion), the members of the federal House of Representatives should be chosen by state legislatures, not by popular vote.`,
-        link: 'https://www.zinnedproject.org/news/tdih/shays-rebellion',
+        description: `Shays' Rebellion was an armed uprising in Western Massachusetts that began on this day in 1786 when more than one tousand armed protestors gathered in Northampton, Massachusetts and successfully prevented the county court from sitting. The rebellion was in response to a debt crisis among the citizenry, as well as the state government's increased efforts to collect taxes both on individuals and their trades.\n\nThe court shut-downs continued for months, with Massachusetts politician James Warren writing to John Adams on October 22nd: "We are now in a state of Anarchy and Confusion bordering on Civil War." The organized resistance was ended by a private army, formed with funds solicited by former Continental Army General Benjamin Lincoln.\n\nShay's Rebellion also stoked some anti-democratic sentiment during the 1787 Constitutional Convention, which was dominated by strong-government advocates. Notably, Delegate Oliver Ellsworth of Connecticut argued that, because the people could not be trusted (as exemplified by Shays' Rebellion), the members of the House of Representatives should be chosen by state legislatures, not by popular vote.`,
+        link: 'https://libcom.org/history/shays-rebellion-1786',
         infoSrc: 'https://en.wikipedia.org/wiki/Shays%27_Rebellion'
       },
     ],
@@ -23637,7 +23655,7 @@ export const eventLibrary = {
         date: 'November 28th, 1820',
         title: 'Friedrich Engels (1820 - 1895)',
         imgSrc: require('./assets/eventPhotos/Individuals/friedrichEngels.jpg'),
-        description: `Friedrich Engels was a German philosopher, historian, communist, social scientist, sociologist, journalist and businessman. His father was an owner of large textile factories in Salford, England, and Barmen, Prussia (now Wuppertal, Germany).\n\nEngels developed what is now known as Marxist theory together with Karl Marx and in 1845 he published The Condition of the Working Class in England, based on personal observations and research in English cities. In 1848, Engels co-authored The Communist Manifesto with Marx and also authored and co-authored (primarily with Marx) many other works.\n\nLater, Engels supported Marx financially, allowing him to do research and write Das Kapital. After Marx's death, Engels edited the second and third volumes of Das Kapital. Additionally, Engels organised Marx's notes on the Theories of Surplus Value, which were later published as the "fourth volume" of Das Kapital. In 1884, he published The Origin of the Family, Private Property and the State on the basis of Marx's ethnographic research.`,
+        description: `Friedrich Engels, born on this day in 1820, was a German philosopher, historian, communist, social scientist, sociologist, journalist and businessman. His father was an owner of large textile factories in Salford, England, and Barmen, Prussia (now Wuppertal, Germany).\n\nEngels developed what is now known as Marxist theory together with Karl Marx and in 1845 he published The Condition of the Working Class in England, based on personal observations and research in English cities. In 1848, Engels co-authored The Communist Manifesto with Marx and also authored and co-authored (primarily with Marx) many other works.\n\nLater, Engels supported Marx financially, allowing him to do research and write Das Kapital. After Marx's death, Engels edited the second and third volumes of Das Kapital. Additionally, Engels organized Marx's notes on the Theories of Surplus Value, which were later published as the "fourth volume" of Das Kapital. In 1884, he published The Origin of the Family, Private Property and the State on the basis of Marx's ethnographic research.`,
         link: 'https://www.britannica.com/biography/Friedrich-Engels',
         infoSrc: 'https://en.wikipedia.org/wiki/Friedrich_Engels',
       },
