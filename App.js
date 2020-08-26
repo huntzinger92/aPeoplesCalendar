@@ -16,6 +16,7 @@ import {styles} from './styles.js';
 import DateTimePicker from '@react-native-community/datetimepicker';
 //icons
 import {AntDesign} from '@expo/vector-icons';
+import {Feather} from '@expo/vector-icons';
 
 //notification stuff (on To Do list, expo's docs are a bit complicated)
 //import {Constants, Notifications, Permissions} from 'expo';
@@ -76,13 +77,15 @@ export default class App extends React.Component {
     this.state = {
       display: 'main', //main, about, or search
       showDatePicker: false,
+      showSearchBar: false,
       events: eventLibrary[initTodayString], //events from selected day, to display in CalendarDisplay
-      searchValue: 'Search the calendar!',
+      searchValue: '',
       notEmpty: isDayNotEmpty(eventLibrary[initTodayString]),
     };
     this.setDisplay = this.setDisplay.bind(this);
     this.setNewDate = this.setNewDate.bind(this);
     this.toggleDatePicker = this.toggleDatePicker.bind(this);
+    this.toggleSearchView = this.toggleSearchView.bind(this);
     this.searchEvents = this.searchEvents.bind(this);
     this.scrollToTop = this.scrollToTop.bind(this);
 
@@ -239,35 +242,66 @@ export default class App extends React.Component {
     });
   };
 
+  toggleSearchView() {
+    this.setState({
+      showSearchBar: !this.state.showSearchBar
+    });
+  };
+
   render() {
     //two possible views here, 'main' and 'about'
     //console.log(this.state.events);
     return (
       <View style={styles.container}>
         <StatusBar barStyle='light-content'/>
+        {this.state.display !== 'about' &&
+        <View>
         <View style={styles.onThisDay}>
-          {this.state.display !== 'search' && <StyledText text='On This Day in History' style={{fontSize: 26, textAlign: 'center', color: 'white'}}/>}
-          {this.state.display === 'search' && <StyledText text='Search Results' style={{fontSize: 26, textAlign: 'center', color: 'white'}}/>}
+          {!this.state.showSearchBar &&
+            <View>
+              <StyledText text='On This Day in History' style={{fontSize: 26, textAlign: 'center', color: 'white'}}/>
+              <TouchableOpacity
+                onPress={() => this.toggleSearchView()}
+                style={styles.toggleSearchIconWrapper}
+              >
+                <AntDesign name="search1" size={28} color="black" style={styles.toggleSearchIcon}/>
+              </TouchableOpacity>
+            </View>
+          }
+          {this.state.showSearchBar &&
+            <View>
+              <StyledText text='Search the Calendar!' style={{fontSize: 26, textAlign: 'center', color: 'white'}}/>
+              <TouchableOpacity
+                onPress={() => this.toggleSearchView()}
+                style={styles.toggleSearchIconWrapper}
+              >
+                <Feather name="x-square" size={28} color="white"/>
+              </TouchableOpacity>
+            </View>
+          }
         </View>
-        <TouchableOpacity style={styles.header} onPress={() => this.toggleDatePicker()}>
-          <AntDesign name='calendar' size={28} color='white' style={{position: 'absolute', left: 60}}/>
-          <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 26, color: 'white'}}/>
-        </TouchableOpacity>
-        {this.state.display !== 'about' && <View style={styles.searchBar}>
-          <TouchableOpacity
-            onPress={() => this.searchEvents()}
-            style={styles.iconContainer}
-          >
-            <AntDesign name="search1" size={28} color="black" style={styles.iconSearch}/>
-          </TouchableOpacity>
-          <TextInput
-            style={[styles.searchField, this.state.searchValue === 'Search the calendar!' ? {color: 'grey'} : {color: 'black'}]}
-            onChangeText={(text) => this.trackSearchText(text)}
-            value={this.state.searchValue}
-            maxLength={40}
-            onSubmitEditing={() => this.searchEvents()}
-            onFocus= {() => this.setState({searchValue : ''})}
-          />
+        {this.state.showSearchBar &&
+          <View style={styles.searchBar}>
+            <TouchableOpacity
+              onPress={() => this.searchEvents()}
+              style={styles.iconContainer}
+            >
+              <AntDesign name="search1" size={28} color="black" style={styles.iconSearch}/>
+            </TouchableOpacity>
+            <TextInput
+              style={[styles.searchField, this.state.searchValue === 'Search the calendar!' ? {color: 'grey'} : {color: 'black'}]}
+              onChangeText={(text) => this.trackSearchText(text)}
+              value={this.state.searchValue}
+              maxLength={40}
+              onSubmitEditing={() => this.searchEvents()}
+              onFocus= {() => this.setState({searchValue : ''})}
+            />
+          </View>}
+        {!this.state.showSearchBar &&
+          <TouchableOpacity style={styles.header} onPress={() => this.toggleDatePicker()}>
+            <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 26, color: 'white'}}/>
+            <AntDesign name='calendar' size={28} color='white' style={{position: 'absolute', right: 20, top: 11}}/>
+          </TouchableOpacity>}
         </View>}
         <ScrollView style={styles.everythingNotFooter} ref={(c) => {this.scrollViewRef = c}}>
           <View style={styles.mainContent}>

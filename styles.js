@@ -199,4 +199,12 @@ export const styles = StyleSheet.create({
     fontSize: 16,
     fontFamily: 'serif'
   },
+  toggleSearchIconWrapper: {
+    position: 'absolute',
+    right: 20,
+    top: 3,
+  },
+  toggleSearchIcon: {
+    color: 'white'
+  }
 });
