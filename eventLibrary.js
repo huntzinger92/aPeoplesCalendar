@@ -17125,13 +17125,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'August 28th, 1825',
+        title: 'Karl Ulrichs (1825 - 1895)',
+        imgSrc: require('./assets/eventPhotos/Individuals/karlUlrichs.jpg'),
+        description: `Karl Heinrich Ulrichs, born on this day in 1825, was a German lawyer, journalist, and author who is seen today as a pioneer of the modern gay rights movement. In 1857, Ulrichs was fired from his job as an administrative lawyer when his homosexuality became open knowledge. A few years later, he began publishing under his real name (possibly the first public "coming out" in modern Western society) and wrote a statement of legal and moral support for a man arrested for homosexual offences.\n\nOn August 29th, 1867 Ulrichs became the first homosexual to speak out publicly in defence of homosexuality when he pleaded at the Congress of German Jurists in Munich for a resolution urging the repeal of anti-homosexual laws. Although he was shouted down and no reform was passed, two years later the Austrian writer Karl-Maria Kertbeny coined the word "homosexual", and from the 1870s the subject of sexual orientation in the modern sense began to be widely discussed.\n\nIn Ulrichs' memory, the International Lesbian and Gay Law Association presents a Karl Heinrich Ulrichs Award for distinguished contributions to the advancement of sexual equality.`,
+        link: 'https://www.nytimes.com/2020/07/01/obituaries/karl-heinrich-ulrichs-overlooked.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Karl_Heinrich_Ulrichs'
       },
     ],
     'Assassinations': [
@@ -17179,27 +17179,54 @@ export const eventLibrary = {
         link: 'https://libcom.org/history/shays-rebellion-1786',
         infoSrc: 'https://en.wikipedia.org/wiki/Shays%27_Rebellion'
       },
+      {
+        category: 'Rebellion',
+        date: 'August 29th, 1944',
+        title: 'Slovak National Uprising (1944)',
+        imgSrc: require('./assets/eventPhotos/Events/slovakNationalUprising.jpg'),
+        description: `The Slovak National Uprising was an armed insurrection against the occupying Nazi forces and collaborationist government that began on this day in 1944, during World War II. Although various parties (Czech communists, Slovakian ultranationalists) later tried to take credit for the resistance movement, the participants and supporters of the uprising represented every religion, class, age, and anti-Nazi political faction of the country, according to historian Stanislav Mičev.\n\nAlthough the resistance was largely defeated by German forces, guerrilla operations continued until the Soviet Army, Czechoslovak Army and Romanian Army liberated Fascist Slovakia in 1945. In total, at least 12,000 members of the the Slovakian anti-fascist resistance lost their lives in the fighting.\n\nThe collaborationist government also executed Slovak people suspected of aiding the rebels, particularly Jews and Roma people - at least 211 mass graves were found after the war. The Slovak National Uprising is now commemorated as an annual holiday on August 29th in Slovakia.`,
+        link: 'https://www.warhistoryonline.com/instant-articles/slovak-national-uprising.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Slovak_National_Uprising'
+      },
+      {
+        category: 'Rebellion',
+        date: 'August 29th, 1968',
+        title: 'Long Binh Jail Uprising (1968)',
+        imgSrc: require('./assets/eventPhotos/Events/longBinhPrison.jpg'),
+        description: `Long Binh Jail was a U.S. military stockade located at Long Binh Post, in Đồng Nai Province, South Vietnam during the Vietnam War. Originally built to house 400 inmates, in August of 1968, LBJ was crammed with 719 men. Despite representing 11% of the troops in Vietnam, more than 50% of the men incarcerated at the stockade were black.\n\nOn this day in 1968, a group of black inmates approached the administration building just before midnight and attacked the guards. Chaos erupted as other inmates joined the riot. They began to set fire to buildings using kerosene stolen from the prison supply, burning the mess hall, the barber shop, latrine, administration, and finance buildings. The rioters assaulted white inmates as well as guards. Despite the violence, only four inmates escaped and one prisoner was killed.\n\nOn the effect of the riot and his detention in it, veteran Jimmie Childress told National Public Radio "I'm still angry about the way the military treated its own citizens. I still feel that something hand [sic] to be done...I guess I was just trying to prove that I was a human being. I'm over it now, but it took a long time. It took a long time."`,
+        link: 'https://en.wikipedia.org/wiki/Long_B%C3%ACnh_Jail',
+        infoSrc: 'https://www.npr.org/sections/codeswitch/2018/08/29/642617106/the-forgotten-history-of-a-prison-uprising-in-vietnam'
+      },
+      {
+        category: 'Rebellion',
+        date: 'August 29th, 1979',
+        title: 'RFSL Occupies Health and Welfare Office (1979)',
+        imgSrc: require('./assets/eventPhotos/Events/swedeGayProtest1979.jpg'),
+        description: `During Gay Liberation Week in August, 1979, the Swedish Federation for Lesbian, Gay, Bisexual and Transgender Rights (RFSL) decided to occupy the offices of the National Board of Health and Welfare, the government agency responsible for classifying diseases, to demand that homosexuality not be classified as a mental disorder. On this day that year, approximately forty activists entered the Health and Welfare officies, blocked a stairwell, unfurled banners, and began chanting.\n\nThe protesters were prepared to occupy the offices for a week, and some called in sick to work to allow for this, leading one worker to get sick pay on the basis of being gay. Despite this preparation, the protesters were more or less immediately met by the new director-general of Social Security, Barbro Westerholm, who indicated she agreed with protesters and was willing to help with their cause. By October 19th, 1979, they agreed to change their diagnosis registry and remove homosexuality from the list of illnesses.`,
+        link: 'https://www.rfsl.se/en/about-us/history/',
+        infoSrc: 'https://libcom.org/history/occupation-swedish-national-board-health-welfare-1979-steven-johns'
+      },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 29th, 1997',
+        title: 'Lusty Lady Strippers Unionize (1997)',
+        imgSrc: require('./assets/eventPhotos/Events/lustyLadyWorkers.jpg'),
+        description: `The Lusty Lady is a pair of now defunct peep show establishments, one in downtown Seattle and one in the North Beach district of San Francisco. The Lusty Lady was made famous by the labor activism of its San Francisco workers, who bought the San Francisco location in 2003 and managed it as a worker co-operative.\n\nOn this day in 1997, the San Francisco workers voted to unionize and were subsequently organized by the Exotic Dancers Union, an affiliate of Service Employees International Union, then a member of AFL-CIO. Workers at Pacer's, a strip club in San Diego, had unionized earlier, but were eventually decertified because of an "open shop" clause in their contract, allowing workers to become employed without joining the union.\n\nIn 2003, the workers bought the club for $400,000 with money borrowed from the old owners. After the change in ownership, the union was retained, but some changes in management were instituted. While dancers had been regularly evaluated by managers before, now a peer review process was established wherein dancers evaluate each other. The team leaders were elected from among the dancers for six month terms.\n\nLusty Lady closed in 2013 due to a failure to negotiate rent prices with their landlord, Roger Forbes (of Deja Vu Consulting Inc., which owned many clubs in San Francisco).`,
+        link: 'https://workingclasshistory.com/2019/03/13/e20-the-exotic-dancers-union/',
+        infoSrc: 'https://www.theatlantic.com/national/archive/2013/08/what-it-was-like-to-work-at-the-lusty-lady-a-unionized-strip-club/279236/'
       },
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'August 29th, 1923',
+        title: 'Truus Oversteegen (1923 - 2016)',
+        imgSrc: require('./assets/eventPhotos/Individuals/truusOversteegen.jpg'),
+        description: `Truus Menger-Oversteegen (shown left, with her sister Freddie) was a Dutch artist and anti-fascist freedom fighter born on this day in 1923. Oversteegen joined the Dutch anti-Nazi resistance at fourteen years old and quickly became an armed assassin of Nazi soldiers along with her sister Freddie Oversteegen and another young woman named Hannie Schaft. Together, the trio lured (on at least one occasion, seduced), ambushed, and killed German Nazis and their Dutch collaborators.\n\nTheir other duties in the Haarlem Resistance Group included "bringing Jewish [refugees] to a new hiding place, working in the emergency hospital in Enschede… [and] blowing up the railway line between Ijmuiden and Haarlem", according to Ellis Jonker, an anthropologist who intereviewed the sisters. In 1945, Hannie Schaft was arrested and killed by Nazi forces. Truus and Freddie Oversteegen went on to live long lives, however, both dying at the age of 92.`,
+        link: 'https://en.wikipedia.org/wiki/Truus_Menger-Oversteegen',
+        infoSrc: 'https://www.history.com/news/dutch-resistance-teenager-killed-nazis-freddie-oversteegen'
       },
     ],
     'Assassinations': [
@@ -18417,6 +18444,15 @@ export const eventLibrary = {
         description: `On this day, the Allegheny Textile Strike of 1845 began in Pittsburgh, Pennsylvania. The strike was led by women and children, and part of a series of strikes that took place between 1845-1848.\n\nMore than 400 textile workers struck to push for a ten hour day without a pay cut from their typical 12 hour day. In October, some workers began flinging mud and destroying factory fences with axes, presumably to scare off some scabs that had replaced them. This behavior scandalized the strike and damaged some public support of it.\n\nThe strike was initially unsuccessful, but, following a similar strike in 1848, a law was passed limiting the working day to 10 hours. Unfortunately, this achievement was undercut by an amendment that allowed workers to sign a contract allowing the workday to increase back to 12 hours.`,
         link: 'https://explorepahistory.com/hmarker.php?markerId=1-A-BD',
         infoSrc: 'https://en.wikipedia.org/wiki/Allegheny_Textile_Strikes_of_1845_and_1848'
+      },
+      {
+        category: 'Labor',
+        date: 'September 15th, 2016',
+        title: 'Curacao General Strike (2016)',
+        imgSrc: require('./assets/eventPhotos/Events/curacaoGeneralStrike.jpg'),
+        description: `On this day in 2016, a general strike on the island of Curacao took place in support of striking contract workers at the oil refinery Isla. Workers there had been striking unsuccessfully for more than a week, demanding a lump sum of 3,000 guilders (USD $1500) as compensation for the years in which the employers did not compensate their pay for inflation.\n\nOn September 13th, seventeen unions and two trade union federations, wrote a letter to the Governor in support the strikes, including the demand of the lump sum. That afternoon, former minister and former union leader Errol Cova announced a general strike that would begin on September 15th.\n\nOn that day, the general strike began and caused massive power outages that affected up to 80% of the island. The lack of air conditioning in the hot climate was frustrating for both locals and tourists. By the next day, the workers won their demands, including the lump sum, in total 1.8 million guilders for union members. Despite the widespread labor action, there were no reports of rioting or violence according to the Curacao Chronicle.`,
+        link: 'https://curacaochronicle.com/fs/general-strike-ends-contract-workers-celebrate/',
+        infoSrc: 'https://libcom.org/blog/general-strike-starting-refinery-workers-caribbean-island-curacao-awaiting-new-masters-chin'
       },
     ],
     'Birthdays': [
