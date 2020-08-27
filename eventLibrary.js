@@ -8451,13 +8451,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 29th, 1963',
+        title: 'Bristol Bus Boycott (1963)',
+        imgSrc: require('./assets/eventPhotos/Events/bristolBusBoycott.jpg'),
+        description: `The Bristol Bus Boycott, announced on this day in 1963, arose from the refusal of the Bristol Omnibus Company to employ black or Asian bus crews in the city of Bristol, England. The action was led by four young West Indian men, Roy Hackett, Owen Henry, Audley Evans and Prince Brown, who formed an action group later known as the "West Indian Development Council". Unhappy with the lack of progress in fighting discrimination by the West Indian Association and inspired by Montgomery bus boycott in the United States, the activists decided on a bus boycott in Bristol to win their rights.\n\nThe boycott drew national attention to racial discrimination in Britain, and continued for several months. The boycott was finally resolved on August 27th, 1963, when a mass meeting of 500 bus workers agreed to officially put an end to the "colour bar". On September 17th, Raghbir Singh, a Sikh, became Bristol's first non-white bus conductor.\n\nThe Bristol Bus Boycott is considered by some to have been influential in the passing of the Race Relations Act 1965 which made "racial discrimination unlawful in public places" and the Race Relations Act 1968, which extended the provisions to employment and housing.`,
+        link: 'https://libcom.org/history/black-white-buses-1963-colour-bar-dispute-bristol',
+        infoSrc: 'https://en.wikipedia.org/wiki/Bristol_Bus_Boycott'
       },
     ],
   },
@@ -10538,13 +10538,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'May 28th, 1925',
+        title: 'Mariola Sirakova (1904 - 1925)',
+        imgSrc: require('./assets/eventPhotos/Individuals/mariolaSirakova.jpg'),
+        description: `Mariola Sirakova, assassinated on this day in 1925, was a Bulgarian actress who revolted against her wealthy social background and organized with the revolutionary anarchist movement in Bulgaria, hiding wanted anarchists like Vassil Popov and Valko Shankov from the authorities\n\nIn 1923, a military coup led to the butchery of 35,000 workers and peasants, leading to a campaign of armed resistance against the state (the "September Rising"). A massive wave of repression was undertaken by the fascists and military against the revolutionary movement, and Mariola was arrested by the police, and raped and brutally beaten.\n\nAfter her release, she gave support to the Kilifarevo cheta (an armed guerilla unit), bringing them food, medicine and clothes and caring for the wounded. Mariola Sirakova and fellow anarchist Gueorgui Cheitanov were subsequently caught in an ambush and arrested. On this day in 1925, they were taken to Belovo railway station and summarily executed with 12 other prisoners. Mariola was twenty years old.`,
+        link: 'https://libcom.org/history/sirakova-mariola-1904-1925',
+        infoSrc: 'https://libcom.org/history/sirakova-mariola-1904-1925'
       },
     ],
     'Other': [
@@ -16119,13 +16119,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'August 14th, 1904',
+        title: 'Mariola Sirakova (1904 - 1925)',
+        imgSrc: require('./assets/eventPhotos/Individuals/mariolaSirakova.jpg'),
+        description: `Mariola Sirakova, born on this day in 1904, was a Bulgarian actress who revolted against her wealthy social background and organized with the revolutionary anarchist movement in Bulgaria, hiding wanted anarchists like Vassil Popov and Valko Shankov from the authorities\n\nIn 1923, a military coup led to the butchery of 35,000 workers and peasants, leading to a campaign of armed resistance against the state (the "September Rising"). A massive wave of repression was undertaken by the fascists and military against the revolutionary movement, and Mariola was arrested by the police, and raped and brutally beaten.\n\nAfter her release, she gave support to the Kilifarevo cheta (an armed guerilla unit), bringing them food, medicine and clothes and caring for the wounded. Mariola Sirakova and fellow anarchist Gueorgui Cheitanov were subsequently caught in an ambush and arrested. On May 28th, 1925, they were taken to Belovo railway station and summarily executed with 12 other prisoners. Mariola was twenty years old.`,
+        link: 'https://libcom.org/history/sirakova-mariola-1904-1925',
+        infoSrc: 'https://libcom.org/history/sirakova-mariola-1904-1925'
       },
     ],
     'Assassinations': [
@@ -16209,13 +16209,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'August 15th, 1975',
+        title: 'Joan Little Aquitted (1975)',
+        imgSrc: require('./assets/eventPhotos/Individuals/joanLittle.jpg'),
+        description: `Joan Little (pronounced "Jo Ann", 1953 - ) is an African-American woman whose trial for the 1974 murder of Clarence Alligood, a white prison guard at Beaufort County Jail in Washington, North Carolina, became a cause célèbre of the civil rights, feminist, and anti-death penalty movements. On this day in 1975, Little became the first woman in United States history to be acquitted using the defense that she used deadly force to resist sexual assault. Her case was also a pioneering instance of the application of scientific jury selection.\n\nOn August 27th, 1974, a police officer at the Beaufort County jail discovered the body of jailer Clarence Alligood on Joan Little's bunk, naked from the waist down and semen on his leg, with stab wounds to his head and heart areas. Alligood had suffered stab wounds to the temple and the heart area from an icepick. Little had also escaped.\n\nShe turned herself in a week later and was charged with first degree murder, which, if convicted, would result in the death penalty. During her trial, other women came forward to testify about Alligood's history of sexual assault in prison, and Little was acquitted by a racially-mixed jury of six white and six black people.`,
+        link: 'https://en.wikipedia.org/wiki/Joan_Little',
+        infoSrc: 'https://www.zinnedproject.org/news/tdih/joan-little-acquitted/'
       },
     ],
   },
@@ -16892,13 +16892,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 25th, 1968',
+        title: 'Chicago Bus Strike (1968)',
+        imgSrc: require('./assets/eventPhotos/Events/ctaStrikeChicago.jpg'),
+        description: `On this day in 1968, black bus drivers in Chicago turned off the lights on their vehicles and headed back to the Chicago Transit Authority (CTA) bus barns, beginning a two-week strike that shut down 52 of the city's 128 bus routes and effectively paralyzed the south and west sides of the city. More than half of the CTA's bus drivers were African-American and for weeks they had been fighting what they considered unfair union representation.\n\nLike many other protest movements in the 50s and 60s, the drivers took as their model the Montgomery bus boycott, organizing car pools and CTW "courtesy cars" to meet the transporation shortfall in some neighborhoods. According to Standish Willis, one of the striking drivers who later wrote a college thesis on the incident, "Black drivers were being arrested while trying to close down the white stations, and we were losing what little money we had bailing them out of jail...White drivers at black stations respected the picket lines. The white drivers at the white ones did not."\n\nAccording to Willis, the strike's failure was due to the collective effort of establishment political powers working against the strike: "With the police arresting our guys, the judges putting guys in jail and holding them for contempt, and the union threatening to kick our leaders out, it was a pretty concerted attack. And we certainly didn't have enough money to get people out of jail at the rate they were putting them in."`,
+        link: 'http://www.laborbeat.org/LB_Store_V2/index.php?route=product/product&product_id=50',
+        infoSrc: 'https://www.chicagoreader.com/chicago/seizing-the-wheel/Content?oid=895461'
       },
     ],
     'Birthdays': [
@@ -17037,13 +17037,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 27th, 1889',
+        title: `London Tailors' Strike Begins (1889)`,
+        imgSrc: require('./assets/eventPhotos/Events/jewishTailorsStrike.jpg'),
+        description: `The London Tailors' Strike, conducted by Jewish immigrants working in small tailoring workshops in Whitechapel, began on this day in 1889. The strike was called by the Amalgamated Society of Tailors and two smaller pressers' and machinists' unions. The striking workers deamnded a ten and a half hour day and a limit on overtime hours.\n\nBy September, 10,000 workers were on strike. Although the strike was on the brink of failure four weeks in because of the workers' impoverished conditions, the Docks Strike Committee (who were largely of Irish Catholic heritage, had little contact with Jews, and were led by an anti-Semitic bigot who called the Jews "dregs and scum of the continent") donated £100 to the tailors, allowing them to continue striking.\n\nIn early October, the employers finally caved to the workers' demands, granting a shorter workday and a limit on overtime hours.`,
+        link: 'https://www.thejc.com/culture/books/the-rebels-who-brought-london-to-a-standstill-1.65742',
+        infoSrc: 'http://www.unionhistory.info/timeline/Tl_Display.php?irn=78&QueryPage=..%2FAdvSearch.php#:~:text=London%20Tailors%20Strike%201889%20against,public%20house%20in%20Greenfield%20Street.'
       },
     ],
     'Birthdays': [
@@ -17094,13 +17094,22 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'August 28th, 1968',
+        title: `DNC Convention "Police Riot" (1968)`,
+        imgSrc: require('./assets/eventPhotos/Events/dncProtests1968.jpg'),
+        description: `In 1967, counterculture and anti-Vietnam War protest groups had been promising to come to Chicago and disrupt the Democratic Nation Convention (DNC), while the city was promising to maintain law and order. For eight days, the protesters were met by the Chicago Police Department (CPD) in the streets and parks of Chicago while the U.S. Democratic Party met at the convention in the International Amphitheater, with the protests climaxing in what a major report later said was a "police riot" this day in 1968.\n\nIt was on August 28th, that, in defiance of explicit orders by the police, thousands of protesters attempted to march on the streets of Chicago. When they did so, they were "attacked blitzkrieg fashion by busloads of club-swinging cops" and beaten and arrested en masse. According to the New York Times, "onlookers joined the protesters in booing the police. Rolls of toilet paper, bars of soap, and water glasses were thrown at the police from [Hilton] hotel windows, along with a number of rocks, bottles and cherry bombs". At least 45 protesters were treated at the hospital for injuries.\n\nOn the convention floor, several delegates made statements against Mayor Daley and the CPD, like Senator Abraham Ribicoff who denounced the use of "Gestapo tactics on the streets of Chicago" in his speech nominating George McGovern. Subsequently, the "Walker Report to the National Commission on the Causes and Prevention of Violence" assigned blame for the mayhem in the streets to the police force, calling the incident a "police riot".`,
+        link: 'https://libcom.org/history/chicago-1968',
+        infoSrc: 'https://en.wikipedia.org/wiki/1968_Democratic_National_Convention_protest_activity'
+      },
+      {
+        category: 'Rebellion',
+        date: 'August 28th, 1830',
+        title: 'Swing Riots Begin (1830)',
+        imgSrc: require('./assets/eventPhotos/Events/swingRiots.jpg'),
+        description: `The Swing Riots were a widespread uprising by agricultural workers in southern and eastern England that began on this day in 1830. The riots were in protest of agricultural mechanization (which displaced workers) and harsh working conditions. They began with the destruction of threshing machines in the Elham Valley area of East Kent in the summer of 1830, and by early December had spread through the whole of southern England and East Anglia, also destroying workhouses, tithe barns, ricks (hay bales), and maiming cows.\n\nHistorian J. F. C. Harrison concluded that the riots were overwhelmingly the result of the progressive impoverishment and dispossession of the English agricultural workforce over the previous fifty years. The name "Swing Riots" was derived from the pseudonym "Captain Swing", often signed to the threatening letters sent to farmers, magistrates, parsons, and others. The term "swing" was apparently a reference to the swinging stick of the flail used in hand threshing, and Captain Swing was regarded as the mythical figurehead of the rebellion.\n\nThe Swing Riots were a major influence on the Whig Government and, as a part of a wider chain of social unrest, helped pressure the government to pass the Reform Act 1832, the "Poor Law Amendment Act" of 1834, which ended "outdoor relief" in cash or kind, and the setting up of a chain of workhouses covering larger areas across the country, to which the poor had to go if they wanted help.`,
+        link: 'https://libcom.org/history/captain-swing-was-here',
+        infoSrc: 'https://en.wikipedia.org/wiki/Swing_Riots'
       },
     ],
     'Labor': [
