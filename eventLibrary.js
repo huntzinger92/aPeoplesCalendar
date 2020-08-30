@@ -13475,13 +13475,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 8th, 1908',
+        title: `Birmingham Coal Workers' Strike (1908)`,
+        imgSrc: require('./assets/eventPhotos/Events/birminghamCoal1908.jpg'),
+        description: `After years of escalating tensions over pay, miners in the greater Birmingham area began a strike on this day in 1908. The strike was declared by United Mine Workers (UMW) District 20, which had more than 20,000 members, against U.S. Steel, which had just purchased the Tennessee Coal, Iron and Rail Company (TCI) and instituted sharp pay cuts. More than 4,000 miners stayed off the job, but soon the protest grew to more than 10,000 people.\n\nMine owners responded by increasing their use of unpaid convicts leased from the state, deputizing hundreds of armed men to confront the workers, and urging Governor Braxton Bragg Comer to declare martial law and dispatch state troops into the coalfields, a request he eventually granted. Evicted from company housing, thousands of workers were forced to live in tent cities, which were later attacked by state troops.\n\nThe strike was also notable for the union's ability to unite miners across the racial divide, a development that was highly unusual for the United States in this period. A parade of striking black and white miners through the streets of Jasper angered members of Birmingham's business community, who denounced the UMW's interracial workforce as an insult to southern traditions and called for armed state intervention against the racially mixed strikers. In mid-August, black UMW member William Millin was snatched from his jail cell and lynched by two mine deputies.\n\nThe strike was effectively put down after state troops destroyed the miners' tent cities on August 26th, and was officially called off by the union four days later. One year afterward, the mines' production had returned to normal.`,
+        link: 'http://encyclopediaofalabama.org/article/h-1478',
+        infoSrc: 'http://encyclopediaofalabama.org/article/h-1478'
       },
     ],
     'Birthdays': [
@@ -17266,13 +17266,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'August 30th, 1958',
+        title: 'Notting Hill Race Riots (1958)',
+        imgSrc: require('./assets/eventPhotos/Events/nottingHillRaceRiots.jpg'),
+        description: `The Notting Hill race riots were a series of racially motivated riots that took place in Notting Hill, England between August 29th and September 5th, 1958. The riot is often believed to have been triggered by an assault against Majbritt Morrison, a white Swedish woman who came to the attention of local white supremacists while arguing with her Jamaican husband, Raymond Morrison. Following this incident, a white mob several hundred strong formed (associated with the racist "Teddy Boys" movement) and began to terrorize people of color in the area.\n\nOne resident, Baker Baron, born in Jamaica and a veteran of the Royal Air Force (RAF), decided to organize violent resistance to the mob violence. On this day, his force drove off a lynch mob with molotov cocktails. Here is what happened in Baron's own words:\n\n"When they told us that they were coming to attack that night I went around and told all the people that was living in the area to withdraw that night. The women I told them to keep pots, kettles of hot water boiling, get some caustic soda and if anyone tried to break down the door and come in, to just lash out with them.\n\nThe men, well we were armed...Make no mistake, there were iron bars, there were machetes, there were all kinds of arms, weapons, we had guns. We made preparations at the headquarters for the attack. We had men on the housetop waiting for them...'Let's burn the niggers, let's lynch the niggers.' That's the time I gave the order for the gates to open...I says, 'Start bombing them.' When they saw the Molotov cocktails coming and they start to panic and run.\n\n...I knew one thing, the following morning we walked the streets free because they knew we were not going to stand for that type of behaviour."`,
+        link: 'https://en.wikipedia.org/wiki/1958_Notting_Hill_race_riots',
+        infoSrc: 'https://libcom.org/library/1958-beating-back-mosley-in-notting-hill'
       },
     ],
     'Labor': [
@@ -17292,7 +17292,7 @@ export const eventLibrary = {
         date: 'August 30th, 1948',
         title: 'Fred Hampton (1948 - 1969)',
         imgSrc: require('./assets/eventPhotos/Individuals/fredHampton.jpg'),
-        description: `Fredrick Allen Hampton was an American activist and revolutionary socialist. He came to prominence in Chicago as chairman of the Illinois chapter of the Black Panther Party (BPP), and deputy chairman of the national BPP. In this capacity, he founded a prominent multicultural political organization, the Rainbow Coalition that initially included the Black Panthers, Young Patriots and the Young Lords, and an alliance among major Chicago street gangs to help them end infighting, and work for social change.\n\nIn 1967, Hampton was identified by the Federal Bureau of Investigation as a radical threat. The FBI tried to subvert his activities in Chicago, sowing disinformation among these groups and placing a counterintelligence operative in the local Panthers. In December 1969, Hampton was assassinated in his bed during a predawn raid at his Chicago apartment by a tactical unit of the Cook County State's Attorney's Office in conjunction with the Chicago Police Department and the Federal Bureau of Investigation; during the raid, another Panther was killed and several seriously wounded.\n\nAt a press conference the next day, the police announced the arrest team had been attacked by the "violent" and "extremely vicious" Panthers and had defended themselves accordingly. In a second press conference on December 8, the police leadership praised the assault team for their "remarkable restraint", "bravery", and "professional discipline" in not killing all the Panthers present. Photographic evidence was presented of bullet holes allegedly made by shots fired by the Panthers, but this was soon challenged by reporters. It was later found that all but one of nearly 100 shots were fired by police.`,
+        description: `Fredrick Allen Hampton, born on this day in 1948, was an American activist and revolutionary socialist. He came to prominence in Chicago as chairman of the Illinois chapter of the Black Panther Party (BPP), and deputy chairman of the national BPP. In this role, he founded a prominent multicultural political organization known as the "Rainbow Coalition" comprised of the BPP, the Young Patriots, the Young Lords, and an alliance among major Chicago street gangs to help them end infighting.\n\nIn 1967, Hampton was identified by the Federal Bureau of Investigation (FBI) as a radical threat. The FBI tried to subvert his activities in Chicago, sowing disinformation among these groups and placing a counterintelligence operative in the local Panthers. In December 1969, Hampton was assassinated during a predawn raid at his Chicago apartment by the Chicago Police Department. During the raid, Panther Mark Clark was also killed.\n\nAt a press conference the next day, the police announced the arrest team had been attacked by the "violent" and "extremely vicious" Panthers, and had defended themselves accordingly. In another press conference, police leadership praised the assault team for their "remarkable restraint" and "professional discipline" in not killing all the Panthers present. Photographic evidence was presented of bullet holes allegedly made by shots fired by the Panthers, but this was soon challenged. Later, it was found that all but one of nearly one hundred shots were fired by the police.`,
         link: 'https://www.blackpast.org/african-american-history/hampton-fred-1948-1969/',
         infoSrc: 'https://en.wikipedia.org/wiki/Fred_Hampton'
       },
@@ -17310,13 +17310,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'August 30th, 1979',
+        title: 'Jean Seberg Commits Suicide (1979)',
+        imgSrc: require('./assets/eventPhotos/Individuals/jeanSeberg.jpg'),
+        description: `Jean Dorothy Seberg (1938 - 1979) was an American actress, supporter of the Black Panther Party (BPP), and infamous target of the Federal Bureau of Investigation's (FBI) "COINTELPRO" program.\n\nDuring the late 1960s, Seberg provided financial support to various groups supporting civil rights, such as the NAACP as well as Native American school groups such as the Meskwaki Bucks at the Tama settlement near her home town. The FBI became aware of several gifts Seberg had made to the BPP, totaling just over $10k in contributions. The FBI operation against Seberg, directly overseen by J. Edgar Hoover, began to harass, intimidate, defame, and discredit Seberg.\n\nThe FBI's stated goal was an unspecified "neutralization" of Seberg with a subsidiary objective to "cause her embarrassment and serve to cheapen her image with the public", while taking the "usual precautions to avoid identification of the Bureau". The FBI spread a false rumor about her pregnancy, claiming she was bearing the child of a BPP member, which was repeated frequently in the press. She was also effectively blacklisted from Hollywood films at this time.\n\nOn this day in 1979, she committed suicide, writing "Forgive me. I can no longer live with my nerves.". Romain Gary, Seberg's second husband, called a press conference shortly after Seberg's death, publicly blaming the FBI's campaign against her for her deteriorating mental health.`,
+        link: 'https://libcom.org/library/jean-seberg-screen-icon-black-panther-supporter',
+        infoSrc: 'https://en.wikipedia.org/wiki/Jean_Seberg'
       },
     ],
   },
@@ -17635,13 +17635,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Labor',
+        date: 'September 4th, 1961',
+        title: 'BLSP Labor Dispute (1961)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `British Light Steel Pressings (BLSP) was a company at Warple Way, Acton, London producing bodies for the vehicle industry. A spate of 82 mainly unofficial strikes (i.e., "wildcat" strikes, taking place without union authorization) in 1961 caused the loss of over 27,000 man hours at the BLSP plant, which in turn caused the loss of 17,000 man hours at other plants owned by the BLSP parent company, "Rootes". The strike was chronicled by labor historian Ken Weller, who authored a pamphlet discussing the strike in detail, titled "The B.L.S.P Dispute".\n\nAccording to Weller, workers were unable to get union management to address their concerns about suspected upcoming layoffs. On this day in 1961, the workers began a wildcat strike, walking off the job without union authorization. Weller states that the strike failed, undermined by the workers' own unions. Ultimately, all participating workers were fired, and the strike was broken.`,
+        link: 'https://en.wikipedia.org/wiki/British_Light_Steel_Pressings#cite_note-3',
+        infoSrc: 'https://libcom.org/history/blsp-dispute-story-strike-ken-weller'
       },
     ],
     'Birthdays': [
