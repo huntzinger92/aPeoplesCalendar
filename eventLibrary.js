@@ -2834,13 +2834,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'February 10th, 1886',
+        title: 'Hiratsuka Raichō (1886 - 1971)',
+        imgSrc: require('./assets/eventPhotos/Individuals/hiratsukaRaicho.jpg'),
+        description: `Hiratsuka Raichō, born on this day in 1886, was a writer, journalist, political activist, anarchist and pioneering Japanese feminist.\n\nUpon graduating from university, Hiratsuka founded Japan's first all-women literary magazine, Seitō (青鞜, literally "Bluestocking"), in 1911. She began the first issue with the words, "In the beginning, woman was the sun", a reference to the Shinto goddess Amaterasu, and to the spiritual independence which women had lost. Adopting the pen name "Raichō" ("Thunderbird"), she began to call for a women’s spiritual revolution.\n\nHiratsuka also founded the New Women's Association with fellow women's rights activist Ichikawa Fusae. It was largely through this group's efforts that the Article 5 of the Police Security Regulations (which barred women from joining political organizations and holding or attending political meetings) was overturned in 1922.`,
+        link: 'https://unseenjapan.com/hiratsuka-raicho/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Hiratsuka_Raich%C5%8D'
       },
     ],
     'Assassinations': [
@@ -17334,13 +17334,31 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Rebellion',
+        date: 'August 31st, 1942',
+        title: 'Luxembourgish General Strike (1942)',
+        imgSrc: require('./assets/eventPhotos/Events/luxembourgWWII.jpg'),
+        description: `The Luxembourgish General Strike was a manifestation of passive resistance that began on this day in 1942, when Luxembourg was occupied by Nazi Germany during World War II. The strikes opposed a directive that conscripted young Luxembourgers into the Wehrmacht (Nazi Army). The day prior, the leader of the Nazi Luxembourg government Gustav Simon announced that all Luxembourger males born between 1920 and 1927 were to be conscripted into the Wehrmacht to fight against the Allies.\n\nThe next day, work was virtually at a stand-still as rumors that strikes had broken out in the steel-works in the industrial south of the country and in Wiltz, a little town in the Ardennes, were eagerly discussed and spread. By September 1st, enough of the country had gone on strike that the occupying Nazi government declared a national state of emergency.\n\nWithin hours, the strike leaders were rounded up and interrogated by the Gestapo. Twenty strike leaders were summarily tried by a special tribunal, sentenced to death, transferred to the Hinzert concentration camp, and executed. Two thousand Luxembourgers were arrested, 83 were tried by the special tribunal and transferred to the Gestapo. 290 high school children, boys and girls, were arrested and sent to re-education camps in Germany.`,
+        link: 'https://libcom.org/library/1942-luxembourg-post-office-strike',
+        infoSrc: 'https://en.wikipedia.org/wiki/1942_Luxembourgish_general_strike'
+      },
+      {
+        category: 'Rebellion',
+        date: 'August 31st, 1931',
+        title: 'Chicago Crowd Storms Unemployment Office (1931)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `In the 1930s, there was a crisis of unemployment aid and welfare not being offered to families that needed them. Sometimes, the poor resisted these conditions with direct action - crowds of jobless men and women would descend on relief offices, corner administrators, and even took over the offices until their demands were met, until money or goods were distributed to them.\n\nHistorians Harold Lasswell and Dorothy Blumenstock described one such episode that happened on this day in 1931, in Chicago, Illinois:\n\n"On the afternoon of August 31, 1931, a group of 400 persons began to march on the United Charities offices located at 4500 Prairie Avenue.\n\nBy the time they reached the relief station, the number had grown to fifteen or sixteen hundred. A speaker addressed them in front of the station, and the tension grew so high that when Joel Hunter, Chief Administrator of the Charities, asked for the selection of a committee to present the grievances of the crowd, there was a move to storm the station. A police squad arrived, and a general riot ensued."`,
+        link: 'https://libcom.org/history/1930-1939-unemployed-workers-movement',
+        infoSrc: 'https://libcom.org/history/1930-1939-unemployed-workers-movement'
+      },
+      {
+        category: 'Rebellion',
+        date: 'August 31st, 1976',
+        title: `Hull Prisoners' Revolt (1976)`,
+        imgSrc: require('./assets/eventPhotos/Events/hullPrisonersRevolt.jpg'),
+        description: `The HMP Hull is a Category B men's local prison located in Kingston upon Hull in the East Riding of Yorkshire, England. On this day in 1976, the first reports of what evolved into a prison-wide revolt emerged when a group of prisoners assembled, demanding to see a fellow inmate who was on the segregation unit. Claiming the man had been assaulted, the group staged a passive sit-in and blocked a prison officer from locking a door.\n\nThe protest escalated into destruction of prison property and outright rebellion. By the next day, inmates had control of two-thirds of the jail. Over the next four days, they caused £4m worth of damage. The rebelling prisoners made three demands: one, that the deputy regional director of prisons and chairman of the board of visitors and his deputy would be present at the surrender; two, that Irish prisoners would not be singled out for special treatment, they would all be treated the same as other prisoners; three, that prisoners wanted to be received by their own officers from Hull.\n\nThese demands, along with a promise to end brutality from guards, led to the prisoners' peaceful surrender on September 3rd. Upon re-entering the prison, however, many of the prisoners were severely beaten. Hull prison itself remained closed for a year, so extensive was the damage done to it.`,
+        link: 'https://libcom.org/history/hull-prisoners-revolt-1976-red-menace',
+        infoSrc: 'https://www.hulldailymail.co.uk/news/history/hull-prison-riots-terrifying-damage-3000686'
       },
     ],
     'Labor': [
