@@ -2838,7 +2838,7 @@ export const eventLibrary = {
         date: 'February 10th, 1886',
         title: 'Hiratsuka Raichō (1886 - 1971)',
         imgSrc: require('./assets/eventPhotos/Individuals/hiratsukaRaicho.jpg'),
-        description: `Hiratsuka Raichō, born on this day in 1886, was a writer, journalist, political activist, anarchist and pioneering Japanese feminist.\n\nUpon graduating from university, Hiratsuka founded Japan's first all-women literary magazine, Seitō (青鞜, literally "Bluestocking"), in 1911. She began the first issue with the words, "In the beginning, woman was the sun", a reference to the Shinto goddess Amaterasu, and to the spiritual independence which women had lost. Adopting the pen name "Raichō" ("Thunderbird"), she began to call for a women’s spiritual revolution.\n\nHiratsuka also founded the New Women's Association with fellow women's rights activist Ichikawa Fusae. It was largely through this group's efforts that the Article 5 of the Police Security Regulations (which barred women from joining political organizations and holding or attending political meetings) was overturned in 1922.`,
+        description: `Hiratsuka Raichō, born on this day in 1886, was a writer, journalist, political activist, anarchist and pioneering Japanese feminist.\n\nUpon graduating from university, Hiratsuka founded Japan's first all-women literary magazine, Seitō (青鞜, literally "Bluestocking"), in 1911. She began the first issue with the words, "In the beginning, woman was the sun", a reference to the Shinto goddess Amaterasu, and to the spiritual independence which women had lost. Adopting the pen name "Raichō" ("Thunderbird"), she began to call for a women's spiritual revolution.\n\nHiratsuka also founded the New Women's Association with fellow women's rights activist Ichikawa Fusae. It was largely through this group's efforts that the Article 5 of the Police Security Regulations (which barred women from joining political organizations and holding or attending political meetings) was overturned in 1922.`,
         link: 'https://unseenjapan.com/hiratsuka-raicho/',
         infoSrc: 'https://en.wikipedia.org/wiki/Hiratsuka_Raich%C5%8D'
       },
@@ -3996,7 +3996,7 @@ export const eventLibrary = {
         date: 'February 26th, 1925',
         title: 'Robert F. Williams (1925 - 1996)',
         imgSrc: require('./assets/eventPhotos/Individuals/robertWilliams.jpg'),
-        description: `Robert Franklin Williams, born on this day in 1925, was an American civil rights leader and author best known for serving as president of the Monroe, North Carolina chapter of the NAACP in the 1950s and into 1961. He succeeded in integrating the local public library and swimming pool in Monroe, and helped gain support for gubernatorial pardons for two young African-American boys who had received lengthy reformatory sentences in what was known as the "Kissing Case of 1958."\n\nAt a time of high racial tension and official abuses, Williams promoted armed Black self-defense in the United States. Williams obtained a charter from the National Rifle Association and set up a rifle club to defend Black people in Monroe from Ku Klux Klan, once driving them out of his neighborhood with gunfire.\n\nAfter allowing a white couple to take refuge in their home during race riots, the local police indicted Williams for kidnapping the couple, forcing him to flee the country and take up residence in Cuba as a guest of Fidel Castro. While there, he ran a radio program called "Radio Free Dixie" with Castro support. In 1966 Williams moved to China where he became a friend and advisor to Mao Zedong.\n\nIn 1969, he returned to the United States and adopted more moderate political views. In 1996, Williams died of Hodgkin's Lymphona in Grand Rapids, Michigan.`,
+        description: `Robert Franklin Williams, born on this day in 1925, was an American civil rights leader and author best known for serving as president of the Monroe, North Carolina chapter of the NAACP in the 1950s and into 1961. He succeeded in integrating the local public library and swimming pool in Monroe, and helped gain support for gubernatorial pardons for two young African-American boys who had received lengthy reformatory sentences in what was known as the "Kissing Case of 1958."\n\nAt a time of high racial tension and official abuses, Williams promoted armed Black self-defense in the United States. Williams obtained a charter from the National Rifle Association and set up a rifle club to defend black people in Monroe from Ku Klux Klan, once driving them out of his neighborhood with gunfire.\n\nAfter allowing a white couple to take refuge in their home during race riots, the local police indicted Williams for kidnapping the couple, forcing him to flee the country and take up residence in Cuba as a guest of Fidel Castro. While there, he ran a radio program called "Radio Free Dixie" with Castro support. In 1966 Williams moved to China where he became a friend and advisor to Mao Zedong.\n\nIn 1969, he returned to the United States and adopted more moderate political views. In 1996, Williams died of Hodgkin's Lymphona in Grand Rapids, Michigan.`,
         link: 'https://en.wikipedia.org/wiki/Robert_F._Williams',
         infoSrc: 'https://www.blackpast.org/african-american-history/williams-robert-f-1925-1996/'
       },
@@ -17488,7 +17488,7 @@ export const eventLibrary = {
       {
         category: 'Revolution',
         date: 'September 2nd, 1945',
-        title: 'Vietnam Proclamation of Independence (1945)',
+        title: 'Vietnam Declares Independence (1945)',
         imgSrc: require('./assets/eventPhotos/Events/vietnamDeclaration.jpg'),
         description: `The Proclamation of Independence of the Democratic Republic of Vietnam (Vietnamese: Tuyên ngôn độc lập Việt Nam Dân chủ Cộng hòa) was written by Hồ Chí Minh and announced in a public speech to a crowd of thousands at the Ba Đình flower garden (now the Ba Đình Square) on this day in 1945. The Proclamation led directly to war with France, which concluded in the country being divided between French and self-rule at the 17th parallel.\n\nThe Proclamation quoted heavily from the American Declaration of Independence and was vehemently critical of French rule. An excerpt reads:\n\n"'All men are created equal. They are endowed by their Creator with certain inalienable rights, among them are Life, Liberty, and the pursuit of Happiness.' This immortal statement was made in the Declaration of Independence of the United States of America in 1776. In a broader sense, this means: All the peoples on the earth are equal from birth, all the peoples have a right to live, to be happy and free.\n\n...Nevertheless, for more than eighty years, the French imperialists, abusing the standard of Liberty, Equality, and Fraternity, have violated our Fatherland and oppressed our fellow-citizens. They have acted contrary to the ideals of humanity and justice. In the field of politics, they have deprived our people of every democratic liberty...They have built more prisons than schools. They have mercilessly slain our patriots; they have drowned our uprisings in rivers of blood...They have robbed us of our rice fields, our mines, our forests, and our raw materials.\n\nFor these reasons, we, members of the Provisional Government of the Democratic Republic of Vietnam, solemnly declare to the world that Vietnam has the right to be a free and independent country - and in fact is so already. The entire Vietnamese people are determined to mobilize all their physical and mental strength, to sacrifice their lives and property in order to safeguard their independence and liberty."`,
         link: 'http://historymatters.gmu.edu/d/5139/',
@@ -17541,13 +17541,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 2nd, 2005',
+        title: 'Henry Glover Murdered by NOPD (2005)',
+        imgSrc: require('./assets/eventPhotos/Individuals/henryGlover.jpg'),
+        description: `Henry Glover (1974 - 2005) was a black resident of New Orleans, Louisiana who was fatally shot by New Orleans Police Department (NOPD) officer David Warren on this day in 2005. Glover's charred body was later found in a destroyed Chevrolet Malibu parked on a Mississippi River levee.\n\nGlover was shot from a second story window by Warren when he approaching a strip mall to acquire some baby clothing. His neighbor William Tanner drove the wounded Glover and his brother Edward King to nearby Habans Elementary School, which had been commandeered by police officers, where they were subsequently detained and beaten. Glover did not receive medical care and died in the back of the car.\n\nNew Orleans Police Officer Greg McRae took Tanner's car keys, got into his car, and drove away with Glover's body still inside. McRae drove the vehicle about a mile away by a levee, left the car running, and set it on fire. Four other NOPD officers were charged in connection with events following Glover's death, including the burning of the body.`,
+        link: 'https://en.wikipedia.org/wiki/Shooting_of_Henry_Glover',
+        infoSrc: 'https://www.blackpast.org/african-american-history/glover-henry-1974-2005/'
       },
     ],
   },
@@ -17567,7 +17567,7 @@ export const eventLibrary = {
       {
         category: 'Rebellion',
         date: 'September 3rd, 2016',
-        title: 'Dakota Access protesters (2016)',
+        title: 'Dakota Access Protesters Mauled (2016)',
         imgSrc: require('./assets/eventPhotos/Events/dakotaPipelineDog.jpg'),
         description: `The Dakota Access Pipeline protests were grassroots movements that began in early 2016 in reaction to the approved construction of Energy Transfer Partners' Dakota Access Pipeline in the northern United States. Many in the Standing Rock tribe and surrounding communities considered the pipeline and its intended crossing beneath the Missouri River to constitute a threat to the region's drinking and irrigation water, as well as to cultural sites of historic importance.\n\nOn this day in 2016, the Dakota Access Pipeline company used bulldozers to dig up part of the pipeline route that contained possible Native graves and burial artifacts; the land was subject to a pending legal injunction. protesters stormed the land and were attacked by a private security firm, armed with attack dogs and pepper spray.\n\nAmy Goodman, journalist with Democracy Now!, followed the protesters and recorded them being attacked by the firm. Goodman was later issued an arrest warrant by a state prosecutor for her actions.`,
         link: 'https://www.youtube.com/watch?v=kuZcx2zEo4k',
@@ -17603,6 +17603,15 @@ export const eventLibrary = {
         description: `Auguste Marie Joseph Jean Léon Jaurès, commonly referred to as Jean Jaurès, was a French Socialist leader. Initially a moderate republican, he was later one of the first social democrats, eventually becoming the leader of the French Socialist Party, which opposed Jules Guesde's revolutionary Socialist Party of France. The two parties merged in 1905 in the French Section of the Workers' International (SFIO).\n\nToday, a key aspect his legacy was his antimilitarism. Jaurès was an early opponent of the draft and desperately tried to prevent war between France and Germany before World War I, going so far as to try and organize a general strike in both countries to force their leaders to negotiate diplomatically.\n\nIn 1914, Jaurès returned to Paris from a diplomatic meeting in Brussels to advocate against the coming war. He was assassinated by a French nationalist at the outbreak of World War I, and remains one of the main historical figures of the French Left.`,
         link: 'https://www.marxists.org/archive/jaures/',
         infoSrc: 'https://en.wikipedia.org/wiki/Jean_Jaur%C3%A8s'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 3rd, 1940',
+        title: 'Eduardo Galeano (1940 - 2015)',
+        imgSrc: require('./assets/eventPhotos/Individuals/eduardoGaleano.jpg'),
+        description: `Eduardo Hughes Galeano, born on this day in 1940, was a Uruguayan journalist, writer and novelist considered, among other things, "global soccer's pre-eminent man of letters" and "a literary giant of the Latin American left".\n\nGaleano began his career as a political cartoonist and journalist - at fourteen, he was contributing political cartoons to the socialist newspaper "El Sol". At 20, he was the managing director of "Marcha", a storied weekly in Uruguay. Some of his high profile work as a journalist includes an interview with Juan Perón, a laudatory profile of Che Guevara, and a portrait of Pu Yi, the last emperor of China, who had just completed his Maoist reeducation in a nondescript building on the outskirts of Beijing.\n\nGaleano is perhaps best known for his book "Open Veins", which details how, through five centuries of plunder by European conquistadors and American corporations, the region's abundant natural resources had been extracted to enrich a few local elites and many foreign interests. The editors of Monthly Review Press, which published the US edition, described the book as "perhaps the finest description of the primary accumulation of capital since Marx."`,
+        link: 'https://en.wikipedia.org/wiki/Eduardo_Galeano',
+        infoSrc: 'https://www.thenation.com/article/archive/the-pan-american/'
       },
     ],
     'Assassinations': [
@@ -19808,13 +19817,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'Oct 4th, 1936',
+        title: 'Battle of Cable Street (1936)',
+        imgSrc: require('./assets/eventPhotos/Events/battleOfCableStreet.jpg'),
+        description: `The Battle of Cable Street was an event that took place in Cable Street and Whitechapel in the East End of London on Sunday this day in 1936. It was a clash between the Metropolitan Police, sent to protect a march by members of the British Union of Fascists led by Oswald Mosley, and various anti-fascist demonstrators, including local anarchist, communist, Jewish and socialist groups.\n\nAfter it became known that the British Union of Fascists (BUF) were organizing a march to take place through the heart of the East End (an area which then had a large Jewish population), an estimated 100,000 residents of the area petitioned then Home Secretary John Simon to ban the march because of the strong likelihood of violence. He refused, and sent a police escort in an attempt to prevent anti-fascist protesters from disrupting the march.\n\nAnti-fascists built roadblocks in an attempt to prevent the march from happening, and on Oct. 4th an estimated 20,000 anti-fascist demonstrators turned out, met by 6,000–7,000 policemen (including mounted police) and 2,000–3,000 fascists. The demonstrators fought the police with sticks, rocks, chair legs and other improvised weapons. Rubbish, rotten vegetables and the contents of chamber pots were thrown at the police by women in houses along the street.\n\nThe leader of the BUF, Edward Mosley, decided to abandon the march and fascists fled through Hyde Park while the anti-fascists rioted with police. More than 150 demonstrators were arrested and approximately 175 people, including police, women, and children, were injured in the violence.`,
+        link: 'https://www.aljazeera.com/indepth/features/2016/08/remembering-battle-cable-street-160802072152633.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Cable_Street'
       },
     ],
     'Labor': [
