@@ -4318,6 +4318,15 @@ export const eventLibrary = {
         link: 'https://en.wikipedia.org/wiki/Fish_Wars',
         infoSrc: 'https://www.historylink.org/File/5332'
       },
+      {
+        category: 'Rebellion',
+        date: 'March 2nd, 1955',
+        title: 'Claudette Colvin (1939 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/claudetteColvin.jpg'),
+        description: `Claudette Colvin (1939 - ) is a retired American nurse aide who was a pioneer of the 1950s civil rights movement. On this day in 1955, she was arrested at the age of fifteen in Montgomery, Alabama for refusing to give up her seat to a white woman on a crowded, segregated bus. This occurred nine months before the more widely known incident in which Rosa Parks, secretary of the local chapter of the National Association for the Advancement of Colored People (NAACP), helped spark the 1955 Montgomery Bus Boycott.\n\nFor many years, Montgomery's black leaders did not publicize Colvin's pioneering effort. She was an unmarried teenager at the time, and was reportedly impregnated by a married man. It is widely accepted that Colvin was not accredited by the civil rights campaigners at the time due to her pregnancy shortly after the incident, with even Rosa Parks saying "If the white press got ahold of that information, they would have [had] a field day. They'd call her a bad girl, and her case wouldn't have a chance."\n\nColvin left Montgomery for New York City in 1958, because she had difficulty finding and keeping work following her participation in the federal court case that overturned bus segregation (similarly, Rosa Parks left Montgomery for Detroit in 1957). Colvin stated she was branded a troublemaker by many in her community. She withdrew from college and went on to become a nurse in Manhattan.`,
+        link: 'https://www.npr.org/2009/03/15/101719889/before-rosa-parks-there-was-claudette-colvin',
+        infoSrc: 'https://en.wikipedia.org/wiki/Claudette_Colvin'
+      },
     ],
     'Labor': [
       {
@@ -5596,13 +5605,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 20th, 1928',
+        title: 'Xiang Jingyu Arrested (1928)',
+        imgSrc: require('./assets/eventPhotos/Individuals/xiangJingyu.jpg'),
+        description: `Xiang Jingyu (1895 - 1928) was one of the earliest female members of the Communist Party of China (CPC) and is widely regarded as a pioneer of the women's movement of China. Xiang Jingyu was politically radicalized when she attended the Montargis Women's University in France. While studying there, Jingyu read many of Marx's works and became a communist.\n\nIn 1923, Xiang became editor of a weekly supplement to The Republican Daily, a Guomindang newspaper. The same year Xiang Jingyu was also elected as a Central Committee member and became the first secretary of the "Women's Movement Committee". In 1924, she led a strike involving about ten thousand female workers from silk factories. Then, Xiang Jingyu founded the "Committee of Women's Liberation" and trained many female cadres, who then became a force against feudalism and imperialism.\n\nXiang Jingyu was arrested in the French Concession Sandeli in Wuhan on this day in 1928, due to the betrayal of members of her group to the police. The French officials turned her over to the Guomindang in April. On the first of May of that year Xiang Jingyu was executed by Guomindang police.`,
+        link: 'https://books.google.com/books?id=EFI7tr9XK6EC&lpg=RA3-PA449&dq=Xiang%20Jingyu%20(1895-1928)&pg=RA3-PA449#v=onepage&q&f=false',
+        infoSrc: 'https://en.wikipedia.org/wiki/Xiang_Jingyu'
       },
     ],
   },
@@ -17580,7 +17589,7 @@ export const eventLibrary = {
         date: 'September 3rd, 2013',
         title: `South Africa Miners Strike (2013)`,
         imgSrc: require('./assets/eventPhotos/Events/southAfrica2013Strike.jpg'),
-        description: `On this day in 2013, an estimated 80,000 - 90,000 gold miners went on strike in South Africa, demanding a 60% wage increase to $775 per month.\n\nMining in South Africa has a troubled past, with colonizers enforcing de facto slave labor in the early 20th century to the government using live ammunition to massacre 34 striking miners just a year prior to this strike. The year 2013 was called "The Year of the Strike" in South Africa by reporter Alec Hogg, with over tens of thousands of auto manufacturing, agricultural, and construction workers also going on strike in the same year.`,
+        description: `On this day in 2013, an estimated 80,000 - 90,000 gold miners went on strike in South Africa, demanding a 60% wage increase to $775 per month.\n\nMine workers in South Africa have had a long and difficult labor struggle, from colonizing forces maintaining brutal working conditions in the early 20th century to the government using live ammunition to massacre 34 striking miners just a year prior to this strike.\n\n2013 was called "The Year of the Strike" by reporter South African reporter Alec Hogg, with over tens of thousands of auto manufacturing, agricultural, and construction workers also going on strike in the same year.`,
         link: 'https://theweek.com/articles/460495/everything-need-know-about-south-african-gold-miners-strike',
         infoSrc: 'https://www.theguardian.com/world/2013/sep/03/south-africa-gold-miners-strike'
       },
@@ -17673,13 +17682,22 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 4th, 1839',
+        title: 'Victorine Brocher (1839 - 1921)',
+        imgSrc: require('./assets/eventPhotos/Individuals/victorineBrocher.jpg'),
+        description: `Victorine Brocher, born on this day on 1839, was a Parisian Communard and an anarchist. She participated in the Paris Commune and later wrote a memoir detailing her experience. Victorine was arrested and sentenced to death for setting the Court of Auditors on fire and subsequently absconded to Geneva, where she remained in hiding for over a year. She was considered dead when her mother mistakenly identified her among the remains of those shot dead at Versailles.\n\nBrocher was also a delegate to the 1881 London Anarchist Congress and the First International, where she was a member of the Bakunist faction. Brocher was a lifelong contributor to anarchist periodicals, and co-founded and taught at Louise Michel's international school.`,
+        link: 'https://libcom.org/history/brocher-rouchy-victorine-1838-1921',
+        infoSrc: 'https://en.wikipedia.org/wiki/Victorine_Brocher'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 4th, 1895',
+        title: 'Xiang Jingyu (1895 - 1928)',
+        imgSrc: require('./assets/eventPhotos/Individuals/xiangJingyu.jpg'),
+        description: `Xiang Jingyu, born on this day in 1895, was one of the earliest female members of the Communist Party of China (CPC) and is widely regarded as a pioneer of the women's movement of China. Xiang Jingyu was politically radicalized when she attended the Montargis Women's University in France. While studying there, Jingyu read many of Marx's works and became a communist.\n\nIn 1923, Xiang became editor of a weekly supplement to The Republican Daily, a Guomindang newspaper. The same year Xiang Jingyu was also elected as a Central Committee member and became the first secretary of the "Women's Movement Committee". In 1924, she led a strike involving about ten thousand female workers from silk factories. Then, Xiang Jingyu founded the "Committee of Women's Liberation" and trained many female cadres, who then became a force against feudalism and imperialism.\n\nXiang Jingyu was arrested in the French Concession Sandeli in Wuhan on March 20th, 1928 due to the betrayal of members of her group to the police. The French officials turned her over to the Guomindang in April. On the first of May of that year Xiang Jingyu was executed by Guomindang police.`,
+        link: 'https://books.google.com/books?id=EFI7tr9XK6EC&lpg=RA3-PA449&dq=Xiang%20Jingyu%20(1895-1928)&pg=RA3-PA449#v=onepage&q&f=false',
+        infoSrc: 'https://en.wikipedia.org/wiki/Xiang_Jingyu'
       },
     ],
     'Assassinations': [
@@ -17695,13 +17713,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 4th, 2005',
+        title: 'Danzinger Bridge Shootings (2005)',
+        imgSrc: require('./assets/eventPhotos/Events/danzingerBridgeShootings.jpg'),
+        description: `The Danziger Bridge Shootings were murders that took place on this day in 2005 at the Danziger Bridge in New Orleans, six days after Hurricane Katrina struck the city. The killings happened when members of the New Orleans Police Department (NOPD), allegedly responding to a call of an officer under fire, shot and killed two civilians - 17-year-old James Brissette and 40-year-old Ronald Madison. Four other civilians were also wounded. All of the victims were black and unarmed, and one, Ronald Madison, was mentally handicapped.\n\nThe NOPD attempted to cover-up the murders, falsely reporting that seven police officers responded to a police dispatch reporting an officer down, and that at least four suspects were firing weapons at the officers upon their arrival.\n\nAn attorney for the Justice Department described the case as "the most significant police misconduct prosecution [in the U.S.] since the Rodney King beating case". On April 20th, 2016, the five former officers pleaded guilty to various charges related to the shooting, and in return received reduced sentences ranging from three to twelve years. Three of the officers are white and two are black.`,
+        link: 'https://www.npr.org/templates/story/story.php?storyId=6063982',
+        infoSrc: 'https://en.wikipedia.org/wiki/Danziger_Bridge_shootings'
       },
     ],
   },
@@ -17719,13 +17737,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 5th, 1911',
+        title: `Children's Strikes Begin (1911)`,
+        imgSrc: require('./assets/eventPhotos/Events/childrensStrikes1911.jpg'),
+        description: `The Children's Strikes of 1911, which began on this day that year, were a series of walk-outs and protests by children across England, Wales, and Scotland.\n\nThe first strike occurred on the morning of September 5th, 1911, when children left their classrooms of Bigyn School, Llanelli, protesting at the physical punishment of one of their classmates. During the next three weeks, school strikes spread in a rapidly accelerating 'wave', affecting at least 62 town and cities, stretching as far north as Montrose in Scotland and as far south as Portsmouth, involving thousands of children.\n\nReasons for striking ranged from a desire to abolish the cane, less school work, more holidays, and payment for school monitors. Widespread school strikes are very rare events, with the exception of similar strikes in 1889, the scale of the 1911 strike represents a unique example of collective action by mainly working class school children.`,
+        link: 'https://libcom.org/history/childrens-strikes-1911',
+        infoSrc: 'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.836.665&rep=rep1&type=pdf'
       },
     ],
     'Labor': [
@@ -17741,13 +17759,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 5th, 1939',
+        title: 'Claudette Colvin (1939 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/claudetteColvin.jpg'),
+        description: `Claudette Colvin, born on this day in 1939, is a retired American nurse aide who was a pioneer of the 1950s civil rights movement. On March 2nd, 1955, she was arrested at the age of fifteen in Montgomery, Alabama for refusing to give up her seat to a white woman on a crowded, segregated bus. This occurred nine months before the more widely known incident in which Rosa Parks, secretary of the local chapter of the National Association for the Advancement of Colored People (NAACP), helped spark the 1955 Montgomery Bus Boycott.\n\nFor many years, Montgomery's black leaders did not publicize Colvin's pioneering effort. She was an unmarried teenager at the time, and was reportedly impregnated by a married man. It is widely accepted that Colvin was not accredited by the civil rights campaigners at the time due to her pregnancy shortly after the incident, with even Rosa Parks saying "If the white press got ahold of that information, they would have [had] a field day. They'd call her a bad girl, and her case wouldn't have a chance."\n\nColvin left Montgomery for New York City in 1958, because she had difficulty finding and keeping work following her participation in the federal court case that overturned bus segregation (similarly, Rosa Parks left Montgomery for Detroit in 1957). Colvin stated she was branded a troublemaker by many in her community. She withdrew from college and went on to become a nurse in Manhattan.`,
+        link: 'https://www.npr.org/2009/03/15/101719889/before-rosa-parks-there-was-claudette-colvin',
+        infoSrc: 'https://en.wikipedia.org/wiki/Claudette_Colvin'
       },
     ],
     'Assassinations': [
@@ -18491,6 +18509,15 @@ export const eventLibrary = {
         description: `Anne Moody was an American author who wrote about her experiences growing up poor and black in rural Mississippi, and her involvement in the Civil Rights Movement through the NAACP, Congress of Racial Equality (CORE), and Student Nonviolent Coordinating Committee (SNCC). Moody fought racism and segregation from when she was a little girl in Centreville, Mississippi, and continued throughout her adult life around the American South.\n\nAfter graduating from Tougaloo College, Moody became a full-time worker in the civil rights movement, participating in a variety of different protests such as marches and a sit-ins. Moody participated in a sit-in at a Woolworth's lunch counter in Jackson and a mob attacked her. She was also arrested in Jackson, Mississippi for attempting to protest inside of a post office with 13 other protesters, including Joan Trumpauer, Doris Erskine, Jeanette King, and Lois Chaffee.\n\nShortly after this, Anne Moody went quietly moved to New York and wrote her autobiography, "Coming of Age in Mississippi".`,
         link: 'https://www.blackpast.org/african-american-history/anne-moody-1940-2015/',
         infoSrc: 'https://en.wikipedia.org/wiki/Anne_Moody'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 15th, 1900',
+        title: 'Nguyễn An Ninh (1900 - 1943)',
+        imgSrc: require('./assets/eventPhotos/Individuals/nguyenNinh.jpg'),
+        description: `Nguyễn An Ninh, born on this day in 1900, was a radical Vietnamese political journalist and publicist in French colonial Cochinchina (modern day southern Vietnam). An independent and charismatic figure, Nguyen An Ninh was able to conciliate between different anti-colonial factions including, for a period in the 1930s, between the Communist Party of Nguyen Ai Quoc ("Ho Chi Minh", then in exile) and its left, Trotskyist, opposition.\n\nWhen Franco-Soviet relations were finally sundered by the Hitler-Stalin Pact and war followed two weeks later, "sedition" of every stripe and faction was repressed. Nguyen An Ninh was sentenced to 5 years in prison and 10 years exile. He died serving this sentence at the Pulo Condore penal colony on August 14th, 1943. Thirty-seven years after his death, the Vietnamese Socialist Republic posthumously conferred upon Nguyen An Ninh the title "Revolutionary Martyr."`,
+        link: 'https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_An_Ninh',
+        infoSrc: 'https://vietnamlawmagazine.vn/nguyen-an-ninh-a-patriotic-lawyer-4662.html'
       },
     ],
     'Assassinations': [
