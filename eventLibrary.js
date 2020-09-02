@@ -3280,13 +3280,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'February 16th, 1943',
+        title: 'Mildred Fish-Harnack (1902 - 1943)',
+        imgSrc: require('./assets/eventPhotos/Individuals/mildredHarnack.jpg'),
+        description: `Mildred Elizabeth Fish-Harnack (1902 - 1943) was an American-German literary historian, translator, and German Resistance fighter in Nazi Germany.\n\nTogether with her husband, Fish-Harnack brought together a discussion circle which debated political perspectives on the time after the National Socialists' expected downfall. From these meetings arose what the Gestapo called the "Red Orchestra" resistance group. Beginning in 1940, the group was in contact with Soviet agents, trying to thwart the forthcoming German attack upon the Soviet Union. Fish-Harnack even sent the Soviets information about the forthcoming Operation Barbarossa.\n\nOn September 7th, Arvid Harnack and Mildred Fish-Harnack were arrested while on a weekend outing. She was executed on this day in 1943 by beheading. Her last words were purported to have been: "Ich habe Deutschland auch so geliebt" ("I loved Germany so much as well"). She is the only member of the Red Orchestra whose burial site is known, as well as the only American woman executed on the orders of Adolf Hitler.`,
+        link: 'https://news.wisc.edu/mildred-fish-harnack-honored-as-hero-of-resistance-to-nazi-regime/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mildred_Harnack'
       },
     ],
     'Other': [
@@ -13714,6 +13714,15 @@ export const eventLibrary = {
         link: 'https://www.britannica.com/event/Coeur-dAlene-riots',
         infoSrc: 'https://en.wikipedia.org/wiki/1892_Coeur_d%27Alene_labor_strike'
       },
+      {
+        category: 'Labor',
+        date: 'July 11th, 2011',
+        title: 'ILWU Longshoreman Occupy Terminal (2011)',
+        imgSrc: require('./assets/eventPhotos/Events/ilwuLongshoreman2012.jpg'),
+        description: `2011 was a major year of labor struggle for longshoreman in Longview, Washington, an industrial town on the Columbia River. The International Longshore and Warehouse Union (ILWU) engaged in multiple episodes of rebellion. On this day that year, leaders of the ILWU (along with many other dock workers) were arrested for occupying the Port of Longview’s huge new, ultra-automated grain terminal a $200 million dollar facility built by EGT (a large shipping conglomerate) that was scheduled to soon begin testing operations with non-union labor.\n\nSheriff’s deputies and city cops from Longview and neighboring Kelso arrested the protesters, who did not resist. "We have worked this dock for 70 years", said Dan Coffman, President of ILWU Local 21, "and to have a big rich company come in and say, 'We don’t want you' is a problem. We’re all together. We’re going to jail as a union."\n\nThree days later, six hundred dock workers and supporters seized the railroad tracks that serve the Port. At 1:30 am, they stopped a train, 107 cars hauling corn, originating in Split Rock, Minnesota, headed for the Longview elevators. On September 7th, 2011, a massive picket line of some 700 longshoremen and their supporters blocked aother train from entering EGT's terminal. When cops started pepper spraying, the picketers pushed back.\n\nThe next day, the wrath of the rank and file rained down on EGT. Longshoremen from the major Northwest ports, Seattle, Tacoma and Portland, seeing images of the ILWU president being manhandled by cops, stopped work and began destroying EGT property. According to news reports, the cyclone fence was torn down, grain was dumped from the train cars, and the terminal was briefly occupied by angry longshore workers. Millions of dollars were lost in shipping, warning employers how far ILWU members were willing to go to protect their jobs.`,
+        link: 'https://www.counterpunch.org/2012/07/25/victory-in-longview-a-year-on/',
+        infoSrc: 'https://libcom.org/library/ilwu-longshore-struggle-longview-beyond-class-struggle-critique'
+      },
     ],
     'Birthdays': [
       {
@@ -17805,13 +17814,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 6th, 1921',
+        title: 'Cork Harbour Soviet (1921)',
+        imgSrc: require('./assets/eventPhotos/Events/corkHarbourStrike.jpg'),
+        description: `The Cork Harbour Strike was a labor dispute that lasted from September 2nd to September 7th, 1921. It was the result of the refusal of the Cork Harbor Board to increase the wages of its workers to a minimum of 70s. a week. On this day that year, the Cork Transport Workers' Union took possession of the Harbour Board's offices and assumed complete control of the port.\n\nAccording to the New York Times, "when the strikers took possession of the Harbour Board offices, they hoisted a red flag as a token of Soviet control and the strikers' leaders announced their intention of collecting dues from shipping agents and using them to pay members of the union."\n\nThe rebellion was short-lived, however, as negotiations between the Harbour Board and the strikers were reopened soon after, which came to a successful resolution. The revolt was not well-taken in the press. The Irish Times wrote "To-day Irish Labour is permeated with a spirit of revolt against all the principles and conventions of ordered society. The country's lawless state in recent months is partly responsible for this sinister development, and the wild teachings of the Russian Revolution have fallen on willing ears."`,
+        link: 'https://en.wikipedia.org/wiki/Irish_soviets',
+        infoSrc: 'https://libcom.org/history/cork-harbour-strike'
       },
     ],
     'Labor': [
@@ -17827,13 +17836,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 6th, 1923',
+        title: 'Nada Dimić (1923 - 1942)',
+        imgSrc: require('./assets/eventPhotos/Individuals/nadaDimic.jpg'),
+        description: `Nada Dimić, born on this day in 1923, was a Yugoslav communist who died in World War II and was proclaimed a People's Hero of Yugoslavia. When Yugoslavia was invaded in June 1941, she joined the 1st Sisak Partisan Detachment, the first Partisan unit in Croatia. The same year, the Ustasha police arrested her in Sisak, but as they transferred her to the prison in Zagreb, she swallowed poison in order to avoid interrogation.\n\nDimić survived the poisoning and was later rescued. She was eventually caught working as a spy by the Italians, who surrendered her to the Ustaša police on December 3rd, 1941, who then tortured her. She refused to give them any information and was sent to the Stara Gradiška concentration camp in February 1942. She was murdered there a month later, aged eighteen.`,
+        link: 'https://snv.hr/eng/famous-serbs-in-croatia/nada-dimic',
+        infoSrc: 'https://en.wikipedia.org/wiki/Nada_Dimi%C4%87'
       },
     ],
     'Assassinations': [
@@ -17845,6 +17854,15 @@ export const eventLibrary = {
         description: `On this day in 1901, President William McKinley was shot on the grounds of the Pan-American Exposition in Buffalo, New York by anarchist Leon Czolgosz. Czolgosz became an anarchist after losing his job during the Panic of 1893. He regarded McKinley as a symbol of oppression and was convinced that it was his duty as an anarchist to kill him.\n\nMcKinley died eight days later of gangrene caused by the wounds, succeeded by Theodore Roosevelt in office. Czolgosz was tried and found guilty just over a month later. Before his execution, Czolgosz explained "I killed the President because he was the enemy of the good people - the good working people...I am not sorry for my crime".\n\nThe aftermath of the assassination saw a backlash against anarchist movements. Several anarchists, including Emma Goldman, were arrested on suspicion of involvement in the attack, and vigilantes attacked anarchist colonies and newspapers. Fear of the movement also led to government surveillance programs of anarchists, which were eventually consolidated on a federal level when the Bureau of Investigation (BOI, later to become the FBI) was formed in 1908.`,
         link: 'https://libcom.org/history/1901-assassination-president-william-mckinley-Leon-Czolgosz',
         infoSrc: 'https://en.wikipedia.org/wiki/Assassination_of_William_McKinley'
+      },
+      {
+        category: 'Assassinations',
+        date: 'September 6th, 1966',
+        title: 'Prime Minister Verwoerd Stabbed (1966)',
+        imgSrc: require('./assets/eventPhotos/Events/verwoerdKilled.jpg'),
+        description: `In July 1966, at the age of forty-eight, anti-apartheid activist Dimitri Tsafendas (1918 - 1999) obtained a temporary position as a parliamentary messenger in the House of Assembly in Cape Town. When he first decided to take action against Prime Minister Hendrik Verwoerd (1901 - 1966), Tsafendas planned to only kidnap him. His fellow activists did not want to do anything risky, however, so Tsafendas decided to kill him instead, viewing Verwoerd as the "brains" behind the policy of apartheid.\n\nOn this day in 1966, Tsafendas approached Prime Minister Verwoerd as he was approaching his seat in Parliament, drew a concealed sheath knife from his belt, and stabbed him about four times in the torso before he was pulled away by other members of parliament. Tsafendas was taken into police custody, where he was severely beaten, and then moved to a hospital where he was treated for his injuries and interviewed by a psychiatrist. Throughout his time in custody, Tsafendas was subjected to severe torture from beatings, electric shocks, mock hangings, and pretended defenestrations.\n\nAt his trial, he was declared not guilty of murder by reason of insanity. His political motivations were concealed from the proceedings. The court ordered for him to be detained "at the pleasure of the State President", which meant that only the State President (later President) had the authority to order his release. He was never discharged and tortured in custody. He died at the age of eighty-one still in custody. Less than ten people attended his funeral service..`,
+        link: 'https://www.newframe.com/tsafendas-setting-record-straight/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Dimitri_Tsafendas'
       },
     ],
     'Other': [
@@ -17873,24 +17891,24 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'Septmeber 7th, 1977',
+        title: 'Workers Destroy Harig India Factory (1977)',
+        imgSrc: require('./assets/eventPhotos/Events/harigIndiaDestroyed.jpg'),
+        description: `On this day in 1977, workers at Harig India Pvt Limited (a machine production company) embarked on a massive protest in Gaziabad, near the capitol city, New Delhi. The protest began after factory security guards opened fire at unarmed workers protesting against the suspension of seven workers and unpaid wages.\n\nIn response to the firing and attack by the company thugs, the workers burned down the factory. The Central Indian Trade Union (CITU) and workers from near-by factories launched protests in solidarity with the workers of Harig India and condemned the rampant exploitation and attacks against working class.`,
+        link: 'https://libcom.org/history/cycle-struggle-1973-1979-india',
+        infoSrc: 'https://peoplesdispatch.org/2019/09/11/massive-workers-protest-at-harig-india-pvt-ltd/'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'September 7th, 2011',
+        title: 'ILWU Longshoreman Stop Train (2011)',
+        imgSrc: require('./assets/eventPhotos/Events/ilwuLongshoreman2012.jpg'),
+        description: `2011 was a major year of labor struggle for longshoreman in Longview, Washington, an industrial town on the Columbia River. The International Longshore and Warehouse Union (ILWU) engaged in multiple episodes of rebellion. On July 11th, 2011, leaders of the ILWU (and many other dock workers) were arrested for occupying the Port of Longview’s huge new, ultra-automated grain terminal, a $200 million dollar facility that was scheduled to soon begin testing operations with non-union labor.\n\nOn this day that same year, a massive picket line of some 700 longshoremen and their supporters blocked a grain train from entering EGT's (a large shipping conglomerate) terminal. When cops started pepper spraying, the picketers pushed back. ILWU McEllrath stepped forward amidst the chaos and was immediately arrested, although he was soon released after hundreds of workers surrounded the police officers.\n\nThe next day, the wrath of the rank and file rained down on EGT. Longshoremen from the major Northwest ports, Seattle, Tacoma and Portland, seeing images of the ILWU president being manhandled by cops, stopped work and began destroying EGT property. According to news reports, the cyclone fence was torn down, grain was dumped from the train cars, and the terminal was briefly occupied by angry longshore workers. Millions of dollars were lost in shipping, warning employers how far ILWU members were willing to go to protect their jobs.`,
+        link: 'https://www.counterpunch.org/2012/07/25/victory-in-longview-a-year-on/',
+        infoSrc: 'https://libcom.org/library/ilwu-longshore-struggle-longview-beyond-class-struggle-critique'
       },
     ],
     'Birthdays': [
@@ -17924,6 +17942,15 @@ export const eventLibrary = {
         description: `The Miss America Protest was a demonstration held at the Miss America 1969 contest on this day in 1968. The protest was attended by about two hundred feminists and civil rights advocates, and was widely publicized.\n\nThe event was organized by "New York Radical Women", and included putting symbolic feminine products - including bras, hairspray, makeup, girdles, corsets, false eyelashes, and mops - into a "Freedom Trash Can" on the Atlantic City boardwalk. Protesters also crowned a live sheep, comparing the beauty pageant to livestock competitions at county fairs, including an illustration of a woman's figure marked up like a side of beef.\n\nAccording to author Beth Kreydatus, the protest "'marked the end of the movement's obscurity' and made both 'women's liberation' and beauty standards topics for national discussion".`,
         link: 'https://www.smithsonianmag.com/history/fifty-years-ago-protestors-took-on-miss-america-pageant-electrified-feminist-movement-180967504/',
         infoSrc: 'https://en.wikipedia.org/wiki/Miss_America_protest'
+      },
+      {
+        category: 'Assassinations',
+        date: 'February 16th, 1943',
+        title: 'Arvid and Mildred Fish-Harnack Arrested (1942)',
+        imgSrc: require('./assets/eventPhotos/Individuals/avridMildredHarnack.jpg'),
+        description: `Mildred Elizabeth Fish-Harnack was an American-German literary historian, translator, and German Resistance fighter in Nazi Germany. Her husband, Arvid Fish-Harnack, was a German jurist and Marxist economist.\n\nTogether, brought together a discussion circle which debated political perspectives on the time after the National Socialists' expected downfall. From these meetings arose what the Gestapo called the "Red Orchestra" resistance group. Beginning in 1940, the group was in contact with Soviet agents, trying to thwart the forthcoming German attack upon the Soviet Union. Fish-Harnack even sent the Soviets information about the forthcoming Operation Barbarossa.\n\nUnfortunately, the Gestapo were able to decode the group's messages. On this day in 1942, Arvid Harnack and Mildred Fish-Harnack were arrested while on a weekend outing. Arvid was executed that December and Mildred was executed February the following year.\n\nMildred's last words were purported to have been: "Ich habe Deutschland auch so geliebt" ("I loved Germany so much as well"). Mildred is the only member of the Red Orchestra whose burial site is known, as well as the only American woman executed on the orders of Adolf Hitler.`,
+        link: 'https://news.wisc.edu/mildred-fish-harnack-honored-as-hero-of-resistance-to-nazi-regime/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mildred_Harnack'
       },
     ],
   },
@@ -18579,13 +18606,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 16th, 1902',
+        title: 'Mildred Fish-Harnack (1902 - 1943)',
+        imgSrc: require('./assets/eventPhotos/Individuals/mildredHarnack.jpg'),
+        description: `Mildred Elizabeth Fish-Harnack, born on this day in 1902, was an American-German literary historian, translator, and German Resistance fighter in Nazi Germany. Born in the United States, Fish-Harnack moved with her husband Arvid to Germany to continue her studies, eventually ended up at the University of Berlin. During her time there, Fish-Harnack became interested in the Soviet Union and communism, seeing them as a solution to poverty. In 1932, however, she was let go from her teaching position, as were many other women and foreigners.\n\nTogether with her husband, Fish-Harnack brought together a discussion circle which debated political perspectives on the time after the National Socialists' expected downfall. From these meetings arose what the Gestapo called the "Red Orchestra" resistance group. Beginning in 1940, the group was in contact with Soviet agents, trying to thwart the forthcoming German attack upon the Soviet Union. Fish-Harnack even sent the Soviets information about the forthcoming Operation Barbarossa.\n\nOn September 7th, Arvid Harnack and Mildred Fish-Harnack were arrested while on a weekend outing. Her last words were purported to have been: "Ich habe Deutschland auch so geliebt" ("I loved Germany so much as well"). She was the only American woman executed on the orders of Adolf Hitler.`,
+        link: 'https://news.wisc.edu/mildred-fish-harnack-honored-as-hero-of-resistance-to-nazi-regime/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mildred_Harnack'
       },
     ],
     'Assassinations': [
