@@ -18167,13 +18167,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 10th, 1933',
+        title: 'Battle of Stockton (1933)',
+        imgSrc: require('./assets/eventPhotos/Events/battleOfStockton.jpg'),
+        description: `The Battle of Stockton took place on this day in 1933 at Market Cross in the High Street of Stockton-on-Tees, County Durham, England. It was a clash between members of the British Union of Fascists (BUF) and anti-fascist demonstrators, including local communists and supporters of the Labour Party.\n\nThe BUF meeting included a few hundred fascists, but was attacked by 2,000-3,000 anti-fascist activists. Both sides fought, armed with staves, sticks and pickaxe handles. The anti-fascists also used various missiles including stones, half-bricks, knuckledusters and potatoes with razor blades inserted into them.\n\nPolice made no arrests that day. The march was an early and unsuccessful attempt by the BUF to rally support in economically depressed areas. The Battle of Stockton is remembered today as a precursor to the more famous Battle of Cable Street.`,
+        link: 'https://libcom.org/history/battle-stockton-1933',
+        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Stockton'
       },
     ],
     'Labor': [
@@ -18185,6 +18185,15 @@ export const eventLibrary = {
         description: `The Lattimer Massacre involved the killing of at least 19 unarmed striking immigrant anthracite miners at the Lattimer mine near Hazleton, Pennsylvania, on this day 1897.\n\nA week prior, over 3,000 miners had gone on strike, demanding better pay and an end to the forced use of the company store. On the morning of September 10th, approximately 400 miners (mostly Eastern European immigrants) peacefully marched to a newly opened coal mine in Lattimer to support a new United Mine Workers (UMW) union there. After refusing an order to disperse by a Luzerne County sheriff's posse, the posse fired into the crowd. Nineteen miners were killed and several dozen were wonded.\n\nDespite the fact that sheriffs had been overhead joking about how many strikers they would kill that morning, as well as medical evidence that demonstrated miners were mostly shot in the back, the sheriff and seventy-three deputies were acquitted at trial, insisting they were charged by the crowd. The massacre was a turning point in the history of the United Mine Workers (UMW), who received more than 10,000 new members in the aftermath of the massacre.`,
         link: 'https://en.wikipedia.org/wiki/Lattimer_massacre',
         infoSrc: 'https://www.zinnedproject.org/news/tdih/lattimer-massacre/'
+      },
+      {
+        category: 'Labor',
+        date: 'September 10th, 1979',
+        title: `Dublin McDonald's Strike Ends (1979)`,
+        imgSrc: require('./assets/eventPhotos/Events/dublinMcDonaldsStrike.jpg'),
+        description: `On March 16th, 1979, workers at two McDonald's locations in Dublin, Ireland walked off the job after management failed to recognize the union that they had formed. They demanded higher pay and recognition of the union. The workers had joined up with ITGWU (Irish Transport and General Workers' Union) in their attempts to organize a few weeks prior to the walk-out. McDonald's responded to the strike by offering free fries for customers who crossed the picket line and raised the hourly rate from 85p to £1.\n\nOn this day in 1979, the strike ended with a 24% pay increase and an agreement to follow Labour Court recommendations (which ultimately resulted in a recognized union for McDonald's workers). The victory was not perfect however - hours were cut back from 40 to 35 hours a week, at least one striker was not allowed to return to work, and union members were harassed on the job.`,
+        link: 'https://libcom.org/history/dublin-mcdonalds-strike-1979',
+        infoSrc: 'https://libcom.org/history/dublin-mcdonalds-strike-1979'
       },
     ],
     'Birthdays': [
@@ -18211,13 +18220,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 10th, 2003',
+        title: 'Kyung-Hae Anti-WTO Suicide (2003)',
+        imgSrc: require('./assets/eventPhotos/Individuals/leeKyungHae.jpg'),
+        description: `Lee Kyung Hae (1947 - 2003) was a South Korean farmer and activist who opposed neo-liberal globalization and protested for the local farmers and fishermen of his home country whose jobs were threatened. He was president of the Federation of Farmers and Fishermen of Korea.\n\nIn February and March 2003, Lee led a hunger strike at WTO headquarters in Geneva and issued continued statements about the effects of rapidly dropping crop prices on Korean farmers to the press. In Cancún, Mexico, Lee joined a march of over 15,000 other farmers and indigenous people from around the world and carried a sandwich board that stated, "WTO Kills Farmers."\n\nOn this day in 2003, Lee stood on top of a police barricade at a major protest demonstration near the WTO conference in Cancún and, in front of television cameras, he stabbed himself. Although he was rushed to a local hospital, Lee died during surgery. Lee is sometimes seen as a martyr to the anti-globalization movement.`,
+        link: 'https://www.theguardian.com/world/2003/sep/16/northkorea.wto',
+        infoSrc: 'https://en.wikipedia.org/wiki/Lee_Kyung-hae'
       },
     ],
   },
@@ -18246,13 +18255,22 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'September 11th, 1934',
+        title: 'Hazelton General Strike (1934)',
+        imgSrc: require('./assets/eventPhotos/Events/textileStrike1934.jpg'),
+        description: `On this day in 1934, as part of the larger national textile strike, 25,000 workers went on a general strike in Hazelton, Pennsylvania. American Federation of Labor (AFL) leaders joined business interests in denouncing the strikers. Rhode Island union leader Frank Gorman blamed the violence on communists and refused to sanction the flying pickets.\n\nAfter three weeks, the union leadership declared the strike a "victory" and workers were sent back into the mills, with nothing gained.`,
+        link: 'https://socialistworker.org/2009/10/06/lessons-of-1934',
+        infoSrc: 'https://socialistworker.org/2009/10/06/lessons-of-1934'
+      },
+      {
+        category: 'Labor',
+        date: 'September 11th, 1935',
+        title: 'Flour City Strikers Killed (1935)',
+        imgSrc: require('./assets/eventPhotos/Events/flourCityStrike.jpg'),
+        description: `On this day in 1935, two people were killed by Minneapolis police near Seward's Hub of Hell at 26th Avenue and 26th Street. At that time unions and workers were organizing, and business owners organized against workers with their own 'union', the Citizen's Alliance. Labor protests in the city had been violent and numerous following the trucker's strike the previous year.\n\nThe owner of Flour City Ornamental Iron Works, Walter Tetzlaff, was an active member of the Citizen's Alliance. He was vehemently opposed to the unionization of his staff, who were being organized by the International Association of Machinists. The workers at Tetzlaff's factory went on strike he refused their demands for a minimum wage, the guarantee of an eight-hour day, and time-and-a half pay for overtime.\n\nOn this day in 1935, 300 pickets were outside the factory in the evening. More than 100 officers arrived on the scene in squad cars, on motorcycles, and in armored cars. Though there were 1,200 men working at the factory, by the end of the night 5,000 workers and nonworkers were facing off with the police.\n\nThe police and protesters clashed, and the cops gassed and shot into the crowd. The clouds of gas were so thick that nearby bars had to close and streetcars refused to travel through it. By the end of the night, two people were killed and twenty-eight were injured. Face with the possibility of losing a lucrative government contract, Tetzlaff capitulated to the demands of a 40 hour work week, 25 cents per hour wage, and overtime pay to the workers, although he still refused to recognize the union.`,
+        link: 'https://libcom.org/history/1935-flour-city-ornamental-iron-works-strike-drew-shonka',
+        infoSrc: 'https://libcom.org/history/1935-flour-city-ornamental-iron-works-strike-drew-shonka'
       },
     ],
     'Birthdays': [
@@ -18264,6 +18282,24 @@ export const eventLibrary = {
         description: `Mary Elizabeth Lease, born on this day in 1850, was an American lecturer, writer, Georgist, and political activist. She was an advocate of the suffrage movement, but was best known for her work with the People's Party (Populists, associated with the Farmers' Alliance).\n\nLease was a renowned speaker within the Populist movement, and a polarizing political figure. While popular with the working class, she was slandered with misogynist criticisms in the press. One newspaper described her "a miserable character of womanhood and hideously ugly of features and foul of tongue" and another called her "an old harpy".\n\nOne of her most famous speeches began like this:\n\n"Wall Street owns the country. It is no longer a government of the people, by the people, and for the people, but a government of Wall STreet, by Wall Street, and for Street...Our laws are the output of a system which clothes rascals in robes and honesty in rags...`,
         link: 'https://www.historyisaweapon.com/defcon1/marylease.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Mary_Elizabeth_Lease'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 11th, 1895',
+        title: 'Vinoba Bhave (1895 - 1982)',
+        imgSrc: require('./assets/eventPhotos/Individuals/vinobaBhave.jpg'),
+        description: `Vinayak Narahari "Vinoba" Bhave, born on this day in 1895, was an Indian advocate of nonviolence and human rights. Often called "Acharya" (Sanskrit for "teacher"), he is best known for initiating the Bhoodan Movement, which attempted to persuade wealthy landowners to voluntarily give a percentage of their land to landless people.\n\nThe initial objective of the movement was to secure voluntary donations and distribute it to the landless, but it soon came to demand 1/6 of all private land. It was also a part of a comprehensive movement for the establishment of a Sarvodaya Society (The rise of all socio-economic-political order), both in and outside India.\n\nBhave is considered as a National Teacher of India and the spiritual successor of Mohandas Gandhi.`,
+        link: 'https://www.britannica.com/biography/Vinoba-Bhave',
+        infoSrc: 'https://en.wikipedia.org/wiki/Vinoba_Bhave'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 11th, 1917',
+        title: 'Maruja Lara (1917 - 2012)',
+        imgSrc: require('./assets/eventPhotos/Individuals/marujaLara.jpg'),
+        description: `Angustias Lara Sanchez, a Spanish anarchist and anti-fascist better known as Maruja Lara, was born on this day in 1917 in Granada, Spain.\n\nIn Valencia, Lara became branch treasurer of the Mujeres Libres (Free Women) and got to know militants such as Lucia Sánchez Saornil, Suceso Portales, Isabel Mesa, and others. When the war ended in March 1939, she and Mesa got on to a truck for Almeria to catch a ship for Algeria, but was imprisoned in the infamous Francoist concentration camp of Albatera, where 25,000 people were murdered by the Francoists and thrown into mass graves.\n\nAfter escaping Albatera, along with Isabel Mesa, she set up a newspaper kiosk in Valencia which secretly distributed the anarchist press. In 1942 with Isabel and others, she set up the underground group the Union of Democratic Women (UMD) to help prisoners and their families.\n\nIn 1955 she was arrested because of her anarchist activities. After the death of Franco, she was actively involved in the reconstruction of the CNT and supported the creation of the free radio station Radio Klara. In 1997, she also contributed to the anarchist journal "El Chico".`,
+        link: 'https://libcom.org/history/lara-maruja-aka-angustias-lara-sanchez-1913-2012',
+        infoSrc: 'https://libcom.org/history/lara-maruja-aka-angustias-lara-sanchez-1913-2012'
       },
     ],
     'Assassinations': [
