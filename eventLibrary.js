@@ -18328,24 +18328,33 @@ export const eventLibrary = {
   '9-12': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'September 12th, 1945',
+        title: `People's Republic of Korea Formed (1945)`,
+        imgSrc: require('./assets/eventPhotos/Organizations/peoplesRepublicKorea.png'),
+        description: `The People's Republic of Korea (PRK, flag shown above) was a short-lived provisional government that was formed on this day in 1945, when Japan surrendered at the end of World War II. At the time, Korea was being divided into two occupation zones, with the Soviet Union occupying the north, and the United States occupying the south.\n\nBased on a network of people's committees, it presented a program of radical social change, including seizing Japanese-owned land and redistributing it to peasants, universal suffrage, female equality, an eight-hour work day, and abolition of child labor.\n\nThe government was short-lived however - in the south, the US military government outlawed the PRK on December 12th, 1945, while in the north, the Soviet authorities co-opted the committees into the structure of the emerging Democratic People's Republic of Korea (North Korea).\n\nThe PRK is significant today because it was the first Korean political organization to implement local autonomy in the form of the people's committees. More than 140 committees were established nationwide in response to the support of the people.`,
+        link: 'https://en.wikipedia.org/wiki/People%27s_Committee_(postwar_Korea)',
+        infoSrc: 'https://en.wikipedia.org/wiki/People%27s_Republic_of_Korea'
       },
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 12th, 1992',
+        title: 'AFA Battle of Waterloo (1992)',
+        imgSrc: require('./assets/eventPhotos/Events/battleOfWaterloo.jpg'),
+        description: `On this day in 1992, members of the activist group British Anti-Fascist Action (AFA) clashed with 100 neo-nazis from the group Blood and Honour in what is now known as the "Battle of Waterloo". The name comes from the fact that AFA members took action by disrupting their redirection point at Waterloo station.\n\nScuffles broke out between police and members of the AFA. As some protesters chanted 'police protect Nazi scum', the neo-fascists were divided into groups of twenty and escorted out of the area. While they waited for their buses the anti-fascists threw rocks, stones and bottles at them. As the police moved in with batons and riot shields, both sides jeered and spat on the officers.\n\nThe event was canceled to, according to police, "protect the public". Thirty-six people were arrested and an unknown amount were injured.`,
+        link: 'https://libcom.org/library/bash-the-fash-anti-fascist-recollections-1984-1993/15-waterloo-blood-and-honour-gig-london-1992',
+        infoSrc: 'https://www.independent.co.uk/news/uk/station-closed-in-skinhead-battle-1551122.html'
+      },
+      {
+        category: 'Rebellion',
+        date: 'September 12th, 1911',
+        title: 'Hull Student Strike (1911)',
+        imgSrc: require('./assets/eventPhotos/Events/hullStudentStrike.jpg'),
+        description: `On this day in 1911, a student strike in Hull, England began when a dozen older boys at St Mary’s Roman Catholic school walked out during morning lessons. By that afternoon, the whole school had emptied, and the crowd at the gates was denouncing "too much work”"and shouting "blackleg" at pupils still in class.\n\nThe Hull Daily News reported the following day that "for weeks there has been a feeling of anxiety...first the sailors and dockers; then the millers, cement workers, timber workers, railway men, news boys, factory girls and now the school-boys". The strike soon spread to schools nearby which, according to the Hull Daily News, made local tradesmen "anxious about the whereabouts of their errand boys".\n\nAccording to historian Clive Bloom, most of these children had to go to work after school to help feed their families. A lone policeman riding through the poor dock area of Hull made at least one attempt to cow the crowd into submission when he charged at them on his bicycle.`,
+        link: 'https://libcom.org/history/childrens-strikes-1911',
+        infoSrc: 'https://www.historyextra.com/period/20th-century/the-1911-schoolchildren-strikes/#:~:text=The%20strike%20in%20Hull%20started,at%20laggards%20still%20in%20class.'
       },
     ],
     'Labor': [
@@ -18365,7 +18374,7 @@ export const eventLibrary = {
         date: 'September 12th, 1944',
         title: 'Leonard Peltier (1944 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/leonardPeltier.jpg'),
-        description: `Leonard Peltier, born on this day in 1944, is an American indigenous rights activist and an enrolled member of the Turtle Mountain Chippewa, and is of Lakota and Dakota descent. After being extradited from Canada through a false witness statement, he was convicted in a controversial 1977 trial and sentenced to two consecutive terms of life imprisonment for first-degree murder of murdering two Federal Bureau of Investigation (FBI) agents in a shooting on the Pine Ridge Indian Reservation in South Dakota.\n\nAs detailed by In the Spirit of Crazy Horse, his trials and conviction are considered highly controversial and Amnesty International has raised concerns about their fairness. On January 18th, 2017, the Office of the Pardon Attorney announced that President Barack Obama had denied Peltier's application for clemency.`,
+        description: `Leonard Peltier, born on this day in 1944, is an American indigenous rights activist and an enrolled member of the Turtle Mountain Chippewa, and is of Lakota and Dakota descent.\n\nAfter being extradited from Canada through a false witness statement, he was convicted in a controversial 1977 trial and sentenced to two consecutive terms of life imprisonment for first-degree murder of murdering two Federal Bureau of Investigation (FBI) agents in a shooting on the Pine Ridge Indian Reservation in South Dakota.\n\nAs detailed by In the Spirit of Crazy Horse, his trials and conviction are considered highly controversial and Amnesty International has raised concerns about their fairness. On January 18th, 2017, the Office of the Pardon Attorney announced that President Barack Obama had denied Peltier's application for clemency.`,
         link: 'https://montanapioneer.com/an-interview-with-leonard-peltier/',
         infoSrc: 'https://en.wikipedia.org/wiki/Leonard_Peltier'
       },
@@ -18392,13 +18401,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 12th, 1969',
+        title: 'First Gay Liberation Front Protest (1969)',
+        imgSrc: require('./assets/eventPhotos/Organizations/gayLiberationFront.jpg'),
+        description: `The United States Gay Liberation Front (GLF) was formed in the aftermath of the Stonewall Riots, considered to be the prime catalyst for the gay liberation movement and the modern fight for LGBT rights in the United States. Stonewall received homophobic coverage from the Village Voice, whose authors refered to the protesters with language like "blatant queens", "limp wristed", and dubbing the event "the Great Faggot Rebellion".\n\nA little over two months after the riot, the newly formed GLF tried to place two small ads in the Voice, however the Voice refused to run them, and claimed the word "gay" was profane. On this day in 1969, the GLF held their first protest, demanding a meeting with publisher Ed Fancher. The protest went on all day as Fancher stubbornly refused to meet with the group, however he eventually conceded to meet.\n\nIn the meeting, Fancher conceded the matter of the ads, and allowed the words "homosexual" and "gay" to appear in the paper; the protesters won.`,
+        link: 'https://en.wikipedia.org/wiki/Gay_Liberation_Front',
+        infoSrc: 'http://www.back2stonewall.com/2019/09/gay-history-september-12-1969-gay-liberation-front-protests-the-village-voice.html'
       },
     ],
   },
@@ -18454,6 +18463,15 @@ export const eventLibrary = {
         description: `Tavis Smiley, born on this day in 1964, is an American talk show host and author. Smiley was born in Gulfport, Mississippi, and grew up in Bunker Hill, Indiana. From 2010 to 2013, Smiley and Cornel West worked together to host their own radio talk show, Smiley & West.\n\nIn 2012, Smiley participated in a "Poverty Tour" with Princeton University professor Cornel West to promote their book The Rich and the Rest of Us: A Poverty Manifesto. The stated aim of the tour was to highlight the plight of the impoverished population of the United States prior to the 2012 presidential election, whose candidates Smiley and West stated had ignored the plight of the poor.`,
         link: 'https://pnhp.org/news/smiley-and-west-the-rich-and-the-rest-of-us/',
         infoSrc: 'https://en.wikipedia.org/wiki/Tavis_Smiley'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 13th, 1879',
+        title: 'Annie Kenney (1879 - 1953)',
+        imgSrc: require('./assets/eventPhotos/Individuals/annieKenney.jpg'),
+        description: `Ann "Annie" Kenney, born on this day in 1879, was an English working-class suffragette and socialist feminist who became a leading figure in the Women's Social and Political Union. She co-founded its first branch in London with Minnie Baldock.\n\nKenney attracted the attention of the press and public in 1905 when she and Christabel Pankhurst were imprisoned for several days for assault and obstruction after disrupting a Liberal rally attended by Winston Churchill and Sir Edward Grey demanding women's suffrage. The incident is credited with inaugurating a new phase in the struggle for women's suffrage in the UK, with the adoption of militant tactics.`,
+        link: 'https://spartacus-educational.com/Wkenney.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Annie_Kenney'
       },
     ],
     'Assassinations': [
@@ -18801,13 +18819,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 18th, 2012',
+        title: 'Georgian Prison Reform Protests (2012)',
+        imgSrc: require('./assets/eventPhotos/Events/georgianPrisonProtests.jpg'),
+        description: `On this day in 2012, two TV channels in the country of Georgia, Maestro and Channel 9, broadcast several videos and images of penitentiary guards torturing detainees at Gldani prison Number 8 in Tbilisi, Georgia's capitol city. One video showed a group of uniformed officials brutally beating a prisoner to the ground as other inmates waited, heads bowed in line. Another video showed multiple guards sodomizing a prisoner with police batons and a broomstick.\n\nThat evening, thousands of Georgians took to the streets in protest of the abuse. The protests went on for weeks and took on anti-government character, supporting the political opposition, the Georgian Dream Coalition. On October 1st, 2012, the governing United National Movement suffered a landslide defeat to the Dream Coalition in the parliamentary elections. The new administration promised to improve the penal system and prison conditions. In 2013, over the span of three months, the government granted large-scale prison amnesty reducing Georgia's 24,000-person strong prison population by half.`,
+        link: 'https://www.theguardian.com/world/2012/sep/21/georgia-protesters-demand-prison-prosecutions',
+        infoSrc: 'http://libcom.org/history/2012'
       },
     ],
     'Labor': [
