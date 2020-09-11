@@ -18279,7 +18279,7 @@ export const eventLibrary = {
         date: 'September 11th, 1850',
         title: 'Mary Elizabeth Lease (1850 - 1933)',
         imgSrc: require('./assets/eventPhotos/Individuals/maryLease.jpg'),
-        description: `Mary Elizabeth Lease, born on this day in 1850, was an American lecturer, writer, Georgist, and political activist. She was an advocate of the suffrage movement, but was best known for her work with the People's Party (Populists, associated with the Farmers' Alliance).\n\nLease was a renowned speaker within the Populist movement, and a polarizing political figure. While popular with the working class, she was slandered with misogynist criticisms in the press. One newspaper described her "a miserable character of womanhood and hideously ugly of features and foul of tongue" and another called her "an old harpy".\n\nOne of her most famous speeches began like this:\n\n"Wall Street owns the country. It is no longer a government of the people, by the people, and for the people, but a government of Wall STreet, by Wall Street, and for Street...Our laws are the output of a system which clothes rascals in robes and honesty in rags...`,
+        description: `Mary Elizabeth Lease, born on this day in 1850, was an American lecturer, writer, Georgist, and political activist. She was an advocate of the suffrage movement, but was best known for her work with the People's Party (Populists, associated with the Farmers' Alliance).\n\nLease was a renowned speaker within the Populist movement, and a polarizing political figure. While popular with the working class, she was slandered with misogynist criticisms in the press. One newspaper described her "a miserable character of womanhood and hideously ugly of features and foul of tongue" and another called her "an old harpy".\n\nOne of her most famous speeches began like this:\n\n"Wall Street owns the country. It is no longer a government of the people, by the people, and for the people, but a government of Wall Street, by Wall Street, and for Street...Our laws are the output of a system which clothes rascals in robes and honesty in rags..."`,
         link: 'https://www.historyisaweapon.com/defcon1/marylease.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Mary_Elizabeth_Lease'
       },
@@ -18588,13 +18588,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 15th, 1931',
+        title: 'Invergordon Mutiny (1931)',
+        imgSrc: require('./assets/eventPhotos/Events/invergordonMutiny.jpg'),
+        description: `The Invergordon Mutiny was a mutiny committed by 1,000 sailors in the British Atlantic Fleet that began on this day in 1931. For two days, ships of the Royal Navy at Invergordon were in open mutiny, one of the few military strikes in British history. The rebellion was caused because of widespread pay cuts initated by the British government, as part of its attempts to deal with the Great Depression. In the Navy this translated into a 10% pay cut for officers and senior ratings, and a 25% cut for ratings below petty officer who had joined before 1925.\n\nOn the morning of September 15th, sailors on four capital ships due to sail had already begun to refuse orders. On the Hood and the Nelson, crews carried out the ordinary harbour routine, refusing to put to sea; on the Valiant and the Rodney, crews carried out only essential duties, including the provision of safety patrols and fire guards, and did so without any recourse to their officers.\n\nBy the second day, the pay cuts had been mitigated, with the lower ranked members only receiving a 10% pay cut. A number of the organisers of the strike were jailed, while 200 sailors were discharged from the service. The mutiny caused a panic on the London Stock Exchange and a run on the pound, bringing Britain's economic troubles to a head and forcing it off the Gold Standard.`,
+        link: 'https://libcom.org/history/1931-invergordon-mutiny',
+        infoSrc: 'https://en.wikipedia.org/wiki/Invergordon_Mutiny'
       },
     ],
     'Labor': [
@@ -18615,6 +18615,15 @@ export const eventLibrary = {
         description: `On this day in 2016, a general strike on the island of Curacao took place in support of striking contract workers at the oil refinery Isla. Workers there had been striking unsuccessfully for more than a week, demanding a lump sum of 3,000 guilders (USD $1500) as compensation for the years in which the employers did not compensate their pay for inflation.\n\nOn September 13th, seventeen unions and two trade union federations, wrote a letter to the Governor in support the strikes, including the demand of the lump sum. That afternoon, former minister and former union leader Errol Cova announced a general strike that would begin on September 15th.\n\nOn that day, the general strike began and caused massive power outages that affected up to 80% of the island. The lack of air conditioning in the hot climate was frustrating for both locals and tourists. By the next day, the workers won their demands, including the lump sum, in total 1.8 million guilders for union members. Despite the widespread labor action, there were no reports of rioting or violence according to the Curacao Chronicle.`,
         link: 'https://curacaochronicle.com/fs/general-strike-ends-contract-workers-celebrate/',
         infoSrc: 'https://libcom.org/blog/general-strike-starting-refinery-workers-caribbean-island-curacao-awaiting-new-masters-chin'
+      },
+      {
+        category: 'Labor',
+        date: 'September 15th, 1978',
+        title: 'INCO Strike (1978)',
+        imgSrc: require('./assets/eventPhotos/Events/incoStrike.jpg'),
+        description: `The INCO Strike of 1978 (locally referred to as the Sudbury Strike of 1978) was a strike by workers at INCO's operations in Sudbury, Ontario, which began on this day that year and lasted for nine months, until June 1979. At the time, it was the longest strike in Canadian history (this record was broken in 2009, when workers at the same company went on strike again), and the conflict is noted as one of the most important labor disputes in Canadian history.\n\nThe conflict was caused by proposed layoffs and cuts to pay and benefits by INCO management, with low nickel prices as a justification. Around 11,600 workers were involved in the strike, which affected the wages sustaining 43,000 people, or about 26% of the population of metropolitan Sudbury. By the end of the strike, the company had been starved of over twenty-two million hours of labor.\n\nThe workers won small wage increase and a pension package, however thousands of workers lost their homes and cars because of the length of the strike. According to journalist Amy Miller, since 1979, INCO has fired 20,000 employees from their staff and now have more people receiving payments from the pension roll than pay roll.`,
+        link: 'http://www.dominionpaper.ca/articles/2131',
+        infoSrc: 'https://en.wikipedia.org/wiki/1978_INCO_strike'
       },
     ],
     'Birthdays': [
@@ -18657,6 +18666,24 @@ export const eventLibrary = {
         description: `The 16th Street Baptist Church bombing was a white supremacist terrorist attack which occurred at the African-American 16th Street Baptist Church in Birmingham, Alabama, on this day in 1963. Four members of a local Ku Klux Klan chapter planted at least 15 sticks of dynamite attached to a timing device beneath the steps located on the east side of the church.\n\nAt 10:22 am, the dynamite was detonated, blowing a hole measuring seven feet (2.1 m) in diameter in the church's rear wall, blowing a passing motorist out of his car, and destroying several cars nearby. Four girls, Addie Mae Collins (age 14); Carol Denise McNair (age 11); Carole Robertson (age 14); and Cynthia Wesley (age 14), were killed in the attack. Approximately 20 more people were wounded.\n\nOn May 13th, 1965, local investigators and the FBI formally named Blanton, Cash, Chambliss, and Cherry as the perpetrators of the bombing, with Robert Chambliss the likely ringleader of the four, however, they did not bring charges against any of them. Justice came later - in 1977, Chambliss was convicted of first degree murder; in 2001 and 2002, respectively, Blanton and Cherry were sentenced to life in prison.`,
         link: 'https://www.youtube.com/watch?v=DXXS7knc_Uo',
         infoSrc: 'https://en.wikipedia.org/wiki/16th_Street_Baptist_Church_bombing'
+      },
+      {
+        category: 'Other',
+        date: 'September 15th, 1954',
+        title: 'Morgan Testifies to SACB (1954)',
+        imgSrc: require('./assets/eventPhotos/Individuals/crawfordMorgan.jpg'),
+        description: `In September 1954, the Veterans of the Abraham Lincoln Brigade (a group of Americans that voluntarily fought in the Spanish Civil War against Francoist fascists) were brought before the Subversive Activities Control Board (SACB), a United States government committee to investigate Communist infiltration of American society during the 1950s Red Scare, founded after the passage of the McCarran Act.\n\nOn this day that year, Crawford Morgan, an African-American member of VALB, testified before the SACB. Here is an excerpt of his testimony:\n\nSACB: "Did you have any understanding, Mr. Morgan, before you went to Spain, of what the issues were connected to that war?"\n\nMorgan: "I felt that I had a pretty good idea of what fascism was and most of its ramifications. Being aware of what the Fascist Italian government did to the Ethiopians, and also the way that I and all the rest of the Negroes in this country have been treated ever since slavery, I figured I had a pretty good idea of what fascism was..."\n\nSACB: "Mr. Morgan, were those thoughts in your mind before you went to Spain?"\n\nMorgan: "Ever since I have been big enough to understand things I have rebelled. As a small child of three or four years old I would rebel at human injustice in the way I understood it at that age. And as long as I have been able to remember, up until now, the government and a lot of people have treated me as a second-class citizen. I am 43 years old, and all my life I have been treated as a second-class citizen, and naturally if you always have been treated like one you start feeling it at a very tender age.\n\nWith Hitler on the march, and fascism starting the fight in Spain, I felt that it could serve two purposes: I felt that if we cold lick the Fascists in Spain, I felt that in the trend of things it would offset a bloodbath later. I felt that if we didn’t lick Franco and stop fascism there, it would spread over lots of the world. And it is bad enough for white people to live under fascism, those of the white people that like freedom and democracy. But Negroes couldn’t live under it. They would be wiped out."`,
+        link: 'https://en.wikipedia.org/wiki/Subversive_Activities_Control_Board',
+        infoSrc: 'https://libcom.org/history/excerpts-congressional-testimony-crawford-morgan'
+      },
+      {
+        category: 'Other',
+        date: 'September 15th, 1933',
+        title: `Max Hoelz "Drowns" (1933)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/maxHoelz.jpg'),
+        description: `Max Hoelz (1889 - 1933) was a German Communist, most known for his role as a 'Communist Bandit' in the Vogtland region. Hoelz became politically radicalized by the 1917 October Revolution in Russia and by contact with Georg Schumann, a member of the socialist Spartakusbund (Schumann was later to be executed by the Nazis in 1945).\n\nIn 1920, after the right-wing Kapp Putsch, Hoelz organized workers from Falkenstein and Oelsnitz in a Red Guard, leading armed bands against the police, the army, and the far-right paramilitary Freikorps. In this role, he became a kind of "Robin Hood", raising money from employers under threat of reprisals, liberating prisoners, destroying property deeds and police archives, and burning villas of the rich.\n\nLater in life, after the Nazis began to come into power, he moved to Soviet Russia, however he became a dissident, criticizing bad conditions for the workers there. On this day in 1933, he died in a "boating accident", which is speculated to have actually been an NKVD assassination.`,
+        link: 'https://en.wikipedia.org/wiki/Max_Hoelz',
+        infoSrc: 'https://libcom.org/history/articles/1889-1933-max-hoelz'
       },
     ],
   },
@@ -19131,9 +19158,9 @@ export const eventLibrary = {
       {
         category: 'Labor',
         date: 'September 22nd, 1919',
-        title: 'Great Steel Strike of 1919',
+        title: 'Great Steel Strike (1919)',
         imgSrc: require('./assets/eventPhotos/Events/greatSteelStrike.jpg'),
-        description: `The Great Steel Strike of 1919 was an attempt by the weakened Amalgamated Association of Iron, Steel and Tin Workers (AA) to organize the United States steel industry in the wake of World War I. The strike began on this day in 1919, shutting down half the steel industry, including almost all mills in Pueblo, Colorado; Chicago, Illinois, Wheeling, West Virginia; Johnstown, Pennsylvania; Cleveland, Ohio; Lackawanna, New York; and Youngstown, Ohio.\n\nPublic opinion was generally against the strike. Factory owners claimed that the steelworker strike was being masterminded by communists and revolutionaries (the October Revolution had occurred less than two years prior), and played on nativist xenophobia by noting that a large number of steelworkers were immigrants.\n\nThe strike collapsed on January 8th, 1920, and the AA labor union was decimated in the aftermath of the strike's failure.`,
+        description: `The Great Steel Strike was an attempt by the weakened Amalgamated Association of Iron, Steel and Tin Workers (AA) to organize the United States steel industry in the wake of World War I. The strike began on this day in 1919, shutting down half the steel industry, including almost all mills in Pueblo, Colorado; Chicago, Illinois, Wheeling, West Virginia; Johnstown, Pennsylvania; Cleveland, Ohio; Lackawanna, New York; and Youngstown, Ohio.\n\nPublic opinion was generally against the strike. Factory owners claimed that the steelworker strike was being masterminded by communists and revolutionaries (the October Revolution had occurred less than two years prior), and played on nativist xenophobia by noting that a large number of steelworkers were immigrants.\n\nThe strike collapsed on January 8th, 1920, and the AA labor union was decimated in the aftermath of the strike's failure.`,
         link: 'https://libcom.org/history/us-national-steel-strike-1919-jeremy-brecher',
         infoSrc: 'https://en.wikipedia.org/wiki/Steel_strike_of_1919'
       },
@@ -20697,6 +20724,15 @@ export const eventLibrary = {
         description: `Johanna "Hannah" Cohn Arendt was a German-American philosopher and political theorist. Her many books and articles on topics ranging from totalitarianism to epistemology have had a lasting influence on political theory. She is widely considered one of the most important political philosophers of the twentieth century.\n\nHer works cover a broad range of topics, but is perhaps best known for those dealing with the nature of power and evil, politics, direct democracy, authority, and totalitarianism. Arendt coined the phrase "banality of evil" when attempting to explain how ordinary people become actors in totalitiarian systems in her work "Eichmann in Jerusalem: A Report on the Banality of Evil".`,
         link: 'http://www.openculture.com/2013/07/hannah-arendt-1964-tv-interview.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Hannah_Arendt'
+      },
+      {
+        category: 'Birthdays',
+        date: 'October 14th, 1889',
+        title: `Max Hoelz (1889 - 1933)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/maxHoelz.jpg'),
+        description: `Max Hoelz, born on this day in 1889, was a German Communist, most known for his role as a 'Communist Bandit' in the Vogtland region. Hoelz became politically radicalized by the 1917 October Revolution in Russia and by contact with Georg Schumann, a member of the socialist Spartakusbund (Schumann was later to be executed by the Nazis in 1945).\n\nIn 1920, after the right-wing Kapp Putsch, Hoelz organized workers from Falkenstein and Oelsnitz in a Red Guard, leading armed bands against the police, the army, and the far-right paramilitary Freikorps. In this role, he became a kind of "Robin Hood", raising money from employers under threat of reprisals, liberating prisoners, destroying property deeds and police archives, and burning villas of the rich.\n\nLater in life, after the Nazis began to come into power, he moved to Soviet Russia, however he became a dissident, criticizing bad conditions for the workers there. On September 15th, 1933, he died in a "boating accident", which is speculated to have actually been an NKVD assassination.`,
+        link: 'https://en.wikipedia.org/wiki/Max_Hoelz',
+        infoSrc: 'https://libcom.org/history/articles/1889-1933-max-hoelz'
       },
     ],
     'Assassinations': [
@@ -23738,6 +23774,15 @@ export const eventLibrary = {
         description: `Sarah Moore Grimké, born on this day in 1792, was an American abolitionist, widely held to be the mother of the women's suffrage movement. Born and reared in South Carolina to a prominent, slave-owning planter family, she moved to Philadelphia, Pennsylvania, in the 1820s and became a Quaker. She and her sister Angelina Grimké are the only white Southern women who became abolitionists.\n\nHere is an excerpt from her a series of articles she wrote titled "Letters on the Condition of Women and the Equality of the Sexes" (1838):\n\n"I ask no favors for my sex, I surrender not our claim to equality. All I ask of our brethren is that they will take their feet from off our necks, and permit us to stand upright on the ground which God has designed us to occupy...To me, it is perfectly clear that whatsoever it is morally right for a man to do, it is morally right for a woman to do."`,
         link: 'https://www.womenshistory.org/education-resources/biographies/sarah-moore-grimke',
         infoSrc: 'https://en.wikipedia.org/wiki/Sarah_Moore_Grimk%C3%A9'
+      },
+      {
+        category: 'Birthdays',
+        date: 'November 26th, 1864',
+        title: 'Herman Gorter (1864 - 1927)',
+        imgSrc: require('./assets/eventPhotos/Individuals/hermanGorter.jpg'),
+        description: `Herman Gorter, born on this day in 1864, was a Dutch poet and socialist. He was a leading member of the "Tachtigers", a highly influential group of Dutch writers who worked together in Amsterdam in the 1880s. Gorter's first book, a 4,000 verse epic poem called "Mei" (May), sealed his reputation as a great writer upon its publication in 1889, and is regarded as the pinnacle of Dutch Impressionist literature.\n\nGorter was an outspoken advocate of revolutionary communism and Marxist theory. In 1917, he hailed the Russian Revolution as the beginning of that global revolution and had correspondence with Lenin on multiple occasions, wishing him well and asking for his support in condemning Dutch social democrats for not condemning American imperialism. Lenin sent Gorter a copy of "State and Revolution" in response, which Gorter then offered to translate.`,
+        link: 'https://libcom.org/library/life-struggle-farewell-herman-gorter-anton-pannekoek',
+        infoSrc: 'https://en.wikipedia.org/wiki/Herman_Gorter'
       },
     ],
     'Assassinations': [
