@@ -1447,13 +1447,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 21st, 1895',
+        title: 'Itō Noe (1895 - 1923)',
+        imgSrc: require('./assets/eventPhotos/Individuals/itoNoe.jpg'),
+        description: `Itō Noe, born on this day in 1895, was a Japanese anarchist, social critic, author and feminist. She was the editor-in-chief of the feminist magazine "Seitō", although the magazine eventually folded due to lack of funds because the government would not let distributors carry it.\n\nBeginning in 1916, Itō lived and worked with her partner and fellow anarchist Sakae Ōsugi, and continued to gain prominence as a feminist and anarchist writer. She was highly critical of the existing political system in Japan, which led her to call for an anarchism to exist in "everyday practice", namely that people should in various small ways seek routinely to undermine the kokutai (a sense of national body politic). Itō also translated anarchist writings into Japanese, including works of Emma Goldman.\n\nOn September 16th, 1923, Itō, Ōsugi, and his 6-year-old nephew Munekazu were arrested, strangled to death, and thrown into an abandoned well by a squad of military police known as the "Kenpeitai". The killing of such high-profile anarchists, together with a young child, became a national controversy known as the "Amakasu Incident" (named after the leader of the squad). Lt. Amakasu was arrested and sentenced to ten years in prison for the murders, however he was released after serving only three years.`,
+        link: 'https://libcom.org/history/articles/1895-1923-ito-noe',
+        infoSrc: 'https://en.wikipedia.org/wiki/It%C5%8D_Noe'
       },
     ],
     'Assassinations': [
@@ -16126,13 +16126,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 14th, 1889',
+        title: 'London Dock Strike (1889)',
+        imgSrc: require('./assets/eventPhotos/Events/londonDockStrike.jpg'),
+        description: `The London Dock Strike was an industrial dispute involving dock workers in the Port of London that began on this day in 1889.\n\nBefore the strike began, workers were paid extremely poorly and did not have regular hours. Instead, they would show up en masse to work and a handful would be selected - the rest would be sent home without payment. In this way, their employers could only pay for exactly the labor needed for the day.\n\nOn August 14th, led by socialist union organizer Ben Tillet, the men in the West India Dock struck immediately started persuading other dockers to join them. The support they needed came when the Amalgamated Stevedores Union (whose workers were essential the operation of the dock), under Tom McCarthy, joined the strike.\n\nThe labor action became so large (one estimatation was 130,000 workers), that it could possibly be considered a general strike. A newspaper reported "Dockmen, lightermen, bargemen, cement workers, carmen, ironworkers and even factory girls are coming out."\n\nThe London Dock Strike resulted in a victory for the 100,000 strikers and established strong trade unions amongst London dockers, one of which became the nationally important "Dock, Wharf, Riverside and General Labourers' Union". The strike is widely considered a milestone in the development of the British labor movement, symbolizing the growth of industrial unionism, including casual, unskilled and poorly paid workers, in contrast to craft unionism.`,
+        link: 'https://en.wikipedia.org/wiki/London_dock_strike,_1889',
+        infoSrc: 'https://libcom.org/history/1889-the-great-london-dock-strike'
       },
     ],
     'Birthdays': [
@@ -17242,7 +17242,7 @@ export const eventLibrary = {
         date: 'August 29th, 1923',
         title: 'Truus Oversteegen (1923 - 2016)',
         imgSrc: require('./assets/eventPhotos/Individuals/truusOversteegen.jpg'),
-        description: `Truus Menger-Oversteegen (shown left, with her sister Freddie) was a Dutch artist and anti-fascist freedom fighter born on this day in 1923. Oversteegen joined the Dutch anti-Nazi resistance at fourteen years old and quickly became an armed assassin of Nazi soldiers along with her sister Freddie Oversteegen and another young woman named Hannie Schaft. Together, the trio lured (on at least one occasion, seduced), ambushed, and killed German Nazis and their Dutch collaborators.\n\nTheir other duties in the Haarlem Resistance Group included "bringing Jewish [refugees] to a new hiding place, working in the emergency hospital in Enschede… [and] blowing up the railway line between Ijmuiden and Haarlem", according to Ellis Jonker, an anthropologist who intereviewed the sisters. In 1945, Hannie Schaft was arrested and killed by Nazi forces. Truus and Freddie Oversteegen went on to live long lives, however, both dying at the age of 92.`,
+        description: `Truus Menger-Oversteegen (shown in the middle, with her sister Freddie left) was a Dutch artist and anti-fascist freedom fighter born on this day in 1923. Oversteegen joined the Dutch anti-Nazi resistance at fourteen years old and quickly became an armed assassin of Nazi soldiers along with her sister Freddie Oversteegen and another young woman named Hannie Schaft. Together, the trio lured (on at least one occasion, seduced), ambushed, and killed German Nazis and their Dutch collaborators.\n\nTheir other duties in the Haarlem Resistance Group included "bringing Jewish [refugees] to a new hiding place, working in the emergency hospital in Enschede… [and] blowing up the railway line between Ijmuiden and Haarlem", according to Ellis Jonker, an anthropologist who intereviewed the sisters. In 1945, Hannie Schaft was arrested and killed by Nazi forces. Truus and Freddie Oversteegen went on to live long lives, however, both dying at the age of 92.`,
         link: 'https://en.wikipedia.org/wiki/Truus_Menger-Oversteegen',
         infoSrc: 'https://www.history.com/news/dutch-resistance-teenager-killed-nazis-freddie-oversteegen'
       },
@@ -18731,6 +18731,24 @@ export const eventLibrary = {
         link: 'https://news.wisc.edu/mildred-fish-harnack-honored-as-hero-of-resistance-to-nazi-regime/',
         infoSrc: 'https://en.wikipedia.org/wiki/Mildred_Harnack'
       },
+      {
+        category: 'Birthdays',
+        date: 'September 16th, 1920',
+        title: 'Hannie Schaft (1920 - 1945)',
+        imgSrc: require('./assets/eventPhotos/Individuals/hannieSchaft.jpg'),
+        description: `Jannetje Johanna Schaft, born on this day in 1920, was a renowned Dutch communist resistance fighter during World War II. She became known as "the girl with the red hair" and her secret name in the resistance movement was "Hannie".\n\nAs a member of the anti-Nazi resistance, she carried out attacks on Germans, Dutch Nazis, collaborators and traitors. She learned to speak German fluently and sometimes became involved with German soldiers. Such was her notoriety that "the girl with the red hair" was added to the Nazi's most-wanted list, and she died her hair black to continue her acts of espionage.\n\nSchaft was eventually arrested at a military checkpoint in Haarlem on March 21st, 1945 while distributing the illegal communist newspaper "de Waarheid" (literally "The Truth"). She was shot dead three weeks before the end of the war in the dunes of Bloemendaal.`,
+        link: 'https://seducingandkillingnazis.com/about/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Hannie_Schaft'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 16th, 1873*',
+        title: 'Ricardo Flores Magón (1873 - 1922)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ricardoMagon.jpg'),
+        description: `*sources provide conflicting birth years - the one listed is provided by Encyclopedia Britannica\n\nRicardo Flores Magón, born on this day in 1873, was a noted Mexican anarchist and social reform activist. Followers of the Flores Magón brothers (including Enrique and Jesus) were known as Magonistas. In 1911, the Magonistas controlled Tijuana and Mexicali for about six months as part of the "Magonista Uprising" against the state.\n\nDrawing upon the influences of early anarchist writers, such as Kropotkin, Bakunin, Goldman, and others, Ricardo was one of the major thinkers of the Mexican Revolution and the Mexican revolutionary movement in the Partido Liberal Mexicano. Flores Magón organized with the Industrial Workers of the World (IWW) and edited the Mexican anarchist newspaper "Regeneración". He has been considered an important participant in the social movement that sparked the Mexican Revolution.\n\nAfter his works were banned in Mexico, Ricardo fled to the United States, where he would remain for the rest of his life. Arrested multiple times, his final arrest came he was charged and convicted with sedition under the Espionage Act of 1917, and he was sentenced to twenty years for "obstructing the war effort", a violation of the Act. Magón died at Leavenworth Penitentiary in Kansas, and speculation remains today about whether he died of natural causes or was murdered by prison guards.`,
+        link: 'https://libcom.org/history/magon-ricardo-flores-1873-1922',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ricardo_Flores_Mag%C3%B3n'
+      },
     ],
     'Assassinations': [
       {
@@ -18741,6 +18759,24 @@ export const eventLibrary = {
         description: `Víctor Lidio Jara Martínez was a Chilean teacher, theater director, poet, singer-songwriter and communist political activist. He developed Chilean theater by directing a broad array of works, ranging from locally produced plays to world classics, as well as the experimental work of playwrights such as Ann Jellicoe. He also played a pivotal role among neo-folkloric musicians who established the Nueva Canción Chilena (New Chilean Song) movement. This led to an uprising of new sounds in popular music during the administration of President Salvador Allende.\n\nJust a few days after the coup that ousted Allende from power, Jara was arrested, tortured, and killed by the dictatorship of Augusto Pincochet. Jara is one of many "desaparecidos", people who vanished under the Pinochet government and were most likely tortured and killed. Thirty-six years after his first burial, he received a full funeral on December 3rd, 2009 in Santiago.`,
         link: 'https://www.britannica.com/biography/Victor-Jara',
         infoSrc: 'https://en.wikipedia.org/wiki/V%C3%ADctor_Jara'
+      },
+      {
+        category: 'Assassinations',
+        date: 'September 16th, 1923',
+        title: 'Itō Noe (1923)',
+        imgSrc: require('./assets/eventPhotos/Individuals/itoNoe.jpg'),
+        description: `Itō Noe (1895 - 1923) was a Japanese anarchist, social critic, author and feminist who was assassinated with her partner by state police on this day in 1923. She was the editor-in-chief of the feminist magazine "Seitō", although the magazine eventually folded due to lack of funds because the government would not let distributors carry it.\n\nBeginning in 1916, Itō lived and worked with her partner and fellow anarchist Sakae Ōsugi, and continued to gain prominence as a feminist and anarchist writer. She was highly critical of the existing political system in Japan, which led her to call for an anarchism to exist in "everyday practice", namely that people should in various small ways seek routinely to undermine the kokutai (a sense of national body politic). Itō also translated anarchist writings into Japanese, including works of Emma Goldman.\n\nOn this day in 1923, Itō, Ōsugi, and his 6-year-old nephew Munekazu were arrested, strangled to death, and thrown into an abandoned well by a squad of military police known as the "Kenpeitai". The killing of such high-profile anarchists, together with a young child, became a national controversy known as the "Amakasu Incident" (named after the leader of the squad). Lt. Amakasu was arrested and sentenced to ten years in prison for the murders, however he was released after serving only three years.`,
+        link: 'https://libcom.org/history/articles/1895-1923-ito-noe',
+        infoSrc: 'https://en.wikipedia.org/wiki/It%C5%8D_Noe'
+      },
+      {
+        category: 'Assassinations',
+        date: 'September 16th, 1919',
+        title: 'Maria Nikiforova (1885 - 1919)',
+        imgSrc: require('./assets/eventPhotos/Individuals/mariaNikiforova.jpg'),
+        description: `Maria Grigor'evna Nikiforova (1885 - 1919) was a Ukrainian anarchist partisan leader, court martialed and executed by the White Army on this day in 1919. A self-described terrorist from the age of 16, she was known widely by her nickname "Marusya". Through her revolutionary efforts, she became a renowned figure in the anarchist movement of 1918–1919 in Ukraine during Russian Civil War. Nikiforova was allied with and influenced Nestor Makhno, and they worked together, pooling resources to fight off other forces in the civil war.\n\nOn August 11th, 1919, Marusya was recognized on the street in Sevastopol and she and her husband were arrested by the Whites. Marusya's arrest was a great victory for White counter-intelligence, and a month was spent gathering evidence for the case against her.\n\nHer trial, actually a field court-martial, was held on this day in 1919. Nikiforova and her husband were both found guilty of various acts of violence against counter-revolutionary forces in Ukraine (her husband just by association), and they were both executed.`,
+        link: 'https://libcom.org/history/atamansha-life-marusya-nikiforova',
+        infoSrc: 'https://en.wikipedia.org/wiki/Maria_Nikiforova'
       },
     ],
     'Other': [
@@ -18782,20 +18818,20 @@ export const eventLibrary = {
         date: 'September 17th, 1849',
         title: 'Harriet Tubman Escapes (1849)',
         imgSrc: require('./assets/eventPhotos/Individuals/harrietTubman.jpg'),
-        description: `Harriet Tubman (1822 - 1913) was an American abolitionist and political activist. On this day in 1849, she escaped from slavery and subsequently made some 13 missions to rescue approximately 70 enslaved people, including family and friends, using the network of antislavery activists and safe houses known as the Underground Railroad.\n\nDuring the American Civil War, she served as an armed scout and spy for the Union Army. In her later years, Tubman was an activist in the struggle for women's suffrage. She was friends with both John Brown and Frederick Douglass, and was a renowned for her heroism in her lifetime.`,
+        description: `Harriet Tubman (1822 - 1913) was an American abolitionist and political activist. On this day in 1849, she escaped from slavery and subsequently made approximately thirteen missions to rescue more than seventy enslaved people, including family and friends, using the network of antislavery activists and safe houses known as the "Underground Railroad".\n\nDuring the American Civil War, she served as an armed scout and spy for the Union Army. In later years, Tubman was an activist in the struggle for women's suffrage. She was friends with both John Brown and Frederick Douglass, and was renowned for her heroism in her lifetime.`,
         link: 'https://www.womenshistory.org/education-resources/biographies/harriet-tubman',
         infoSrc: 'https://en.wikipedia.org/wiki/Harriet_Tubman'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Labor',
+        date: 'September 17th, 1988',
+        title: `Teachers Strike in Philippines (1988)`,
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `The following account of the strike is quoted verbatim from a history of trade unionism by the International Communist Current, a left communist organization headquartered in Paris, France:\n\n"In September 17-21, 1988 thousands of school teachers led by ACT71 and MPSTA72 went on strike due to unpaid allowances. Classes were completely paralyzed, prompting Education Secretary Cariño to dismiss and suspend 3,000 teachers. This struggle was "led" by the CPP [Communist Party of the Philippines]. Instead of generalizing the struggle of the teachers, CPP isolated it, leading to its failure. This took place as the workers' movement in general was on the wane.\n\n...The years 1987-1988 were the last expression of the generalization of workers’ struggles. Attempts of the militant workers to generalize their struggles were marred by union sabotage of sectoral and industry by industry struggles of the unions."`,
+        link: 'https://world.internationalism.org/',
+        infoSrc: 'https://libcom.org/history/history-trade-unionism-philippines'
       },
     ],
     'Birthdays': [
@@ -18850,7 +18886,7 @@ export const eventLibrary = {
         date: 'September 18th, 2012',
         title: 'Georgian Prison Reform Protests (2012)',
         imgSrc: require('./assets/eventPhotos/Events/georgianPrisonProtests.jpg'),
-        description: `On this day in 2012, two TV channels in the country of Georgia, Maestro and Channel 9, broadcast several videos and images of penitentiary guards torturing detainees at Gldani prison Number 8 in Tbilisi, Georgia's capitol city. One video showed a group of uniformed officials brutally beating a prisoner to the ground as other inmates waited, heads bowed in line. Another video showed multiple guards sodomizing a prisoner with police batons and a broomstick.\n\nThat evening, thousands of Georgians took to the streets in protest of the abuse. The protests went on for weeks and took on anti-government character, supporting the political opposition, the Georgian Dream Coalition. On October 1st, 2012, the governing United National Movement suffered a landslide defeat to the Dream Coalition in the parliamentary elections. The new administration promised to improve the penal system and prison conditions. In 2013, over the span of three months, the government granted large-scale prison amnesty reducing Georgia's 24,000-person strong prison population by half.`,
+        description: `On this day in 2012, two TV channels in the country of Georgia, Maestro and Channel 9, broadcast several videos and images of penitentiary guards torturing detainees at Gldani prison Number 8 in Tbilisi, Georgia's capitol city. One video showed a group of uniformed officials brutally beating a prisoner to the ground as other inmates waited, heads bowed in line. Another video showed multiple guards sodomizing a prisoner with police batons and a broomstick.\n\nThat evening, thousands of Georgians took to the streets in protest of the abuse. The protests went on for weeks and took on anti-government character, supporting the political opposition, the Georgian Dream Coalition. On October 1st, 2012, the governing United National Movement suffered a landslide defeat to the Dream Coalition in the parliamentary elections. The new administration promised to improve the penal system and prison conditions.\n\nIn 2013, over the span of three months, the newly elected government granted large-scale prison amnesty reducing Georgia's 24,000-person strong prison population by half.`,
         link: 'https://www.theguardian.com/world/2012/sep/21/georgia-protesters-demand-prison-prosecutions',
         infoSrc: 'http://libcom.org/history/2012'
       },
@@ -19426,13 +19462,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 26th, 2012',
+        title: 'Athens General Strike (2012)',
+        imgSrc: require('./assets/eventPhotos/Events/greeceGeneralStrike.jpg'),
+        description: `On this day in 2012, more than 50,000 protesters took to the streets in Athens, Greece, as workers carried out a 24-hour general strike to protest against the policy of austerity. At the time, the conserative coalition in government was calling for a $15 billion cut to pensions and salaries. Official unemployment in the country was around 25% and the minimum wage had been cut by 22% that year. Those Greeks still working would labor six days a week under the new plan.\n\nWhen some protesters hurled molotov cocktails at the finance ministry and parliament, police responded with tear gas. The strike was called by the country's two biggest unions, which together represented half of the workforce. The general strike was one of several that had taken place since 2010.`,
+        link: 'https://en.wikipedia.org/wiki/Anti-austerity_movement_in_Greece',
+        infoSrc: 'https://labornotes.org/2012/09/general-strike-greece-says-we-wont-submit'
       },
     ],
     'Labor': [
@@ -19494,35 +19530,44 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 27th, 1936',
+        title: 'Battle of Holbeck Moor (1936)',
+        imgSrc: require('./assets/eventPhotos/Events/battleOfHolbeckMoor.jpg'),
+        description: `On this day in 1936, the Battle of Holbeck Moor took place in Leeds, England. It happened when 1,000 members of the British Union of Fascists, led by Oswald Mosley, attempted to hold a rally at Holbeck Moor. They were greeted by approximately 30,000 locals in a protest organized by the Communist Party. Notably, due to political differences with the Communist Party, the Labour Party did not attend.\n\nWhen Mosley attempted to give a speech from atop a van, the protesters surrounded the van and sang the Red Flag in order to drown out Mosley’s speech. Many threw stones at the Fascists, with at least one hitting Mosley in the temple. Outnumbered and facing violence, the BUF members dispersed. The Battle of Holbeck Moor happened just a week prior to the more well-known Battle of Cable Street, in which a BUF rally led by Oswald Mosley was again forcibly dispersed by anti-fascist demonstrators.`,
+        link: 'https://www.yorkshirepost.co.uk/news/dark-day-fascists-marched-leeds-598877',
+        infoSrc: 'https://secretlibraryleeds.net/2019/06/14/oswald-mosley-and-leeds-the-battle-of-holbeck-moor-27th-september-1936/'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Labor',
+        date: 'September 27th, 1915',
+        title: 'Chicago Garment Workers Strike (1915)',
+        imgSrc: require('./assets/eventPhotos/Events/chicagoGarmentStrike1915.jpg'),
+        description: `On September 14th, a meeting of approximately 5,000 garment workers agreed on a list of demands to send to their employers and to collectively go on strike on September 27th if their demands were not met. The demands they made included a 48 hour work-week, overtime pay, union recognition, a wage increase, and an end to blacklisting practices. Management not only did not meet the deamnds, they refused to negotiate with the workers entirely and requested police protection of their factories.\n\nOn this day in 1915, as planned, 5,000 garment workers walked out on strike. By September 29th, the amount of workers out had grown to 25,000. The strike was plagued with violence and police brutality, and multiple attempts by the city government to arbritrate the strike failed. It finally ended on December 12th, 1915 and, while the workers' union was not recognized, they won some of the demands from their employers.`,
+        infoSrc: 'https://books.google.com/books/reader?id=mJguAAAAMAAJ&printsec=frontcover&output=reader&source=gbs_atb&pg=GBS.PP9#v=snippet&q=1915%20garment&f=false',
+        link: 'https://www.newspapers.com/image/77858514/'
+      },
+      {
+        category: 'Labor',
+        date: 'September 27th, 1917',
+        title: 'International Workers of Africa (1917)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On this day in 1917, racially mixed study groups in South Africa founded the Industrial Workers of Africa, modeled on the International Workers of the World (IWW), and organized by an all-African committee. The new general union's demands were summed up in its slogan "Sifuna Zonke!" ("We want everything!"). It was one of the first trade unions for African workers ever formed in South Africa.\n\nAfter calling a general strike, the South African government arrested and charged seven activists - three from the International Socialists League, three from the Industrial Workers of Africa, and two from the Transvaal Native Congress - for "incitement to public violence." This trial was the first time white and black activists are jointly charged for political activities in South Africa.`,
+        link: 'https://libcom.org/history/articles/industrial-workers-africa-1917-1921',
+        infoSrc: 'https://www.sahistory.org.za/archive/industrial-workers-africa-1917-1921-bikisha-media-collective'
       },
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'September 27th, 1907*',
+        title: 'Bhagat Singh (1907 - 1931)',
+        imgSrc: require('./assets/eventPhotos/Individuals/bhagatSingh.jpg'),
+        description: `*Singh's birthday is disputed. Although Encyclopedia Britannica lists his birth date as Sept. 27th, other sources say Sept. 28th, and various biographers have suggested Oct. 19th of the same year\n\nBhagat Singh, born on this day in 1907, was an Indian socialist revolutionary whose two acts of dramatic violence against the British in India and execution at the young age of twenty-three made him a folk hero of the Indian independence movement. Singh was an avid reader of Bakunin, Marx, Lenin, and Trotsky. He was also openly critical of Mahatma Gandhi, having become disillusioned with his non-violent praxis after Gandhi called off the non-co-operation movement.\n\nIn December 1928, Bhagat Singh and an associate fatally shot a 21-year-old British police officer, John Saunders, in retalitation for the death of Lala Lajpat Rai, a popular Indian nationalist leader who died after being attacked by police. On the run from the police, Singh was arrested when he, along with Batukeshwar Dutt, exploded two improvised bombs inside the Central Legislative Assembly in Delhi, showered leaflets onto the legislators below, and allowed the authorities to arrest them.\n\nAwaiting trial, Singh gained public sympathy after he joined fellow defendant Jatin Das in a hunger strike, demanding better prison conditions for Indian prisoners. Das died from starvation in September 1929. Singh was convicted and hanged in March, 1931. Four days before his execution, Singh refused to sign a letter drafted for him that would appeal for clemency.`,
+        link: 'https://www.marxists.org/archive/bhagat-singh/index.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Bhagat_Singh'
       },
     ],
     'Assassinations': [
@@ -19538,13 +19583,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 27th, 1913',
+        title: 'First International Syndicalist Congress (1913)',
+        imgSrc: require('./assets/eventPhotos/Events/firstInternationalSyndicalist.jpg'),
+        description: `The First International Syndicalist Congress was a meeting of European and Latin American syndicalist organizations at Holborn Town Hall in London that began on this day in 1913. The congress was attended by 38 delegates representing 65 organizations from Argentina, Austria, Belgium, Brazil, Cuba, France, Germany, Italy, the Netherlands, Poland, Spain, Sweden, and the United Kingdom, with a total membership between 220,000 and 250,000.\n\nDespite being marked by heated disagreements over both tactics and principles, the Congress succeeded in creating the International Syndicalist Information Bureau as a vehicle of exchange and solidarity between the various organizations and the "Bulletin international du mouvement syndicaliste" as a means of communication. It would be viewed as a success by almost all who participated.`,
+        link: 'https://www.marxists.org/archive/lozovsky/1922/first-congress.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/First_International_Syndicalist_Congress'
       },
     ],
   },
@@ -22410,13 +22455,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 7th, 1939',
+        title: 'Canada Limits War Industry Strikes (1939)',
+        imgSrc: require('./assets/eventPhotos/Events/arvidaStrike.jpg'),
+        description: `On this day in 1939, the Canadian government extended the Industrial Disputes Investigation Act (IDIA) to cover disputes between employers and employees engaged in war work. The IDIA was first passed in 1907, and forbade strikes and lockouts in mines and certain public utility industries until a dispute had first been dealt with by a board of conciliation. Before 1939, only forty-one of one thousand applications actually made it to the strike stage.\n\nWar work was defined as including "the construction, execution, production, repair, manufacture, transportation, storage or delivery of munitions of war or supplies" and "the construction, remodelling, repair or demolition of defense projects." After the extension of the IDIA, the applications to strike increased six-fold, however only seven strikes (4% of the total) were allowed in the following year and a half.`,
+        link: 'https://archive.macleans.ca/article/1941/10/1/labor-and-the-war',
+        infoSrc: 'https://archive.macleans.ca/article/1941/10/1/labor-and-the-war'
       },
     ],
     'Birthdays': [
@@ -22425,7 +22470,7 @@ export const eventLibrary = {
         date: 'November 7th, 1879',
         title: 'Leon Trotsky (1879 - 1940)',
         imgSrc: require('./assets/eventPhotos/Individuals/leonTrotsky.jpg'),
-        description: `Leon Trotsky was a Soviet revolutionary, Marxist theorist and politician whose particular strain of Marxist thought is known as Trotskyism. Key characteristics of Trotskyist thought include the concepts of "Permanent Revolution" and the "United Front" of revolutionaries and reformers against common enemies.\n\nTrotsky joined the Bolshevik Party a few weeks before the October Revolution and immediately became a leader within the party, thus also playing a key role in the October Revolution. Trotsky became more prominent from March 1918 to January 1925 as the leader of the Red Army in the post of Commissar for Military and Naval Affairs. He was also a vital leading figure in the Red victory in the Russian Civil War and one of the seven members of the first Politburo.\n\nAfter the rise of Joseph Stalin, Trotsky was removed from his positions and eventually expelled from the Soviet Union in February 1929. He spent the rest of his life in exile, and was assassinated in 1940 in Mexico City by Ramón Mercader, a Soviet agent.`,
+        description: `Leon Trotsky, born on this day in day in 1879 was a Soviet revolutionary, Marxist theorist and politician whose particular strain of Marxist thought is known as Trotskyism. Key characteristics of Trotskyist thought include the concepts of "Permanent Revolution" and the "United Front" of revolutionaries and reformers against common enemies.\n\nTrotsky joined the Bolshevik Party a few weeks before the October Revolution and immediately became a leader within the party, thus also playing a key role in the October Revolution. Trotsky became more prominent from March 1918 to January 1925 as the leader of the Red Army in the post of Commissar for Military and Naval Affairs. He was also a vital leading figure in the Red victory in the Russian Civil War and one of the seven members of the first Politburo.\n\nAfter the rise of Joseph Stalin, Trotsky was removed from his positions and eventually expelled from the Soviet Union in February 1929. He spent the rest of his life in exile, and was assassinated in 1940 in Mexico City by Ramón Mercader, a Soviet agent.`,
         link: 'https://www.britannica.com/biography/Leon-Trotsky',
         infoSrc: 'https://en.wikipedia.org/wiki/Leon_Trotsky'
       },
@@ -22434,7 +22479,7 @@ export const eventLibrary = {
         date: 'November 7th, 1888',
         title: 'Nestor Makhno (1888 - 1934)',
         imgSrc: require('./assets/eventPhotos/Individuals/Makhno.jpg'),
-        description: `Nestor Ivanovych Makhno was a Ukrainian anarchist revolutionary and the commander of an independent anarchist army in Ukraine from 1917-21. Makhno was the commander of the Revolutionary Insurrectionary Army of Ukraine, commonly referred to as the Makhnovshchina (loosely translated as "Makhno movement"). The Makhnovshchina was a predominantly peasant phenomenon that grew into a mass social movement.\n\nMakhno and his supporters attempted to reorganize social and economic life along anarchist principles, including the establishment of communes on former landed estates, the requisition and egalitarian redistribution of land to the peasants, and the organization of free elections to local soviets (councils) and regional congresses.\n\nAlthough Makhno considered the Bolsheviks a threat to the development of an anarchist Free Territory within Ukraine, he entered into formal military alliances twice with the Red Army to defeat the White Army. In the aftermath of the White Army's defeat in Crimea in November 1920, the Bolsheviks initiated a military campaign against Makhno. After an extended period of open resistance against the Red Army, Makhno fled across the Romanian border in August 1921.\n\nIn exile, Makhno settled in Paris with his wife Halyna and daughter Yelena. While there, Makhno wrote numerous memoirs and articles for radical newspapers before dying there at the age of 45 from tuberculosis-related causes.`,
+        description: `Nestor Ivanovych Makhno, born on this day in 1888, was a Ukrainian anarchist revolutionary and the commander of an independent anarchist army in Ukraine from 1917-21. Makhno was the commander of the Revolutionary Insurrectionary Army of Ukraine, commonly referred to as the Makhnovshchina (loosely translated as "Makhno movement"). The Makhnovshchina was a predominantly peasant phenomenon that grew into a mass social movement.\n\nMakhno and his supporters attempted to reorganize social and economic life along anarchist principles, including the establishment of communes on former landed estates, the requisition and egalitarian redistribution of land to the peasants, and the organization of free elections to local soviets (councils) and regional congresses.\n\nAlthough Makhno considered the Bolsheviks a threat to the development of an anarchist Free Territory within Ukraine, he entered into formal military alliances twice with the Red Army to defeat the White Army. In the aftermath of the White Army's defeat in Crimea in November 1920, the Bolsheviks initiated a military campaign against Makhno. After an extended period of open resistance against the Red Army, Makhno fled across the Romanian border in August 1921.\n\nIn exile, Makhno settled in Paris with his wife Halyna and daughter Yelena. While there, Makhno wrote numerous memoirs and articles for radical newspapers before dying there at the age of 45 from tuberculosis-related causes.`,
         link: 'https://libcom.org/history/nestor-makhno-man-myth',
         infoSrc: 'https://en.wikipedia.org/wiki/Nestor_Makhno'
       },
