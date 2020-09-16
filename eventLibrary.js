@@ -13,7 +13,7 @@ export const eventLibrary = {
         date: 'January 1st, 1791',
         title: 'Haitian Independence (1804)',
         imgSrc: require('./assets/eventPhotos/Events/haitianRevolution.jpg'),
-        description: `The Haitian Revolution was a successful insurrection by self-liberated slaves against French colonial rule in Saint-Domingue, now the sovereign state of Haiti. The revolt began on August 22nd, 1791, and Haiti didn't achieve independence from France until this day in 1804. The Haitian Revolution was the only slave uprising that led to the founding of a state which was both free from slavery, and ruled by non-whites and former captives.\n\nThe revolt began when thousands of slaves began to kill their masters and plunged the colony into civil war after a well-attended vodou ceremony. Within the next ten days, slaves had taken control of the entire Northern Province in an unprecedented slave revolt. The slaves sought revenge on their masters through "pillage, rape, torture, mutilation, and death". Over 200,000 black people died from the initial uprising until independence.\n\nToussaint Louverture was a notable military leader of the revolution, but died shortly before independence was won. His former lieutenant Jean-Jacques Dessalines became the first leader of the newly independent nation on January 1st, 1804.`,
+        description: `The Haitian Revolution was a successful insurrection by self-liberated slaves against French colonial rule in Saint-Domingue, now the sovereign state of Haiti. The revolt began on August 22nd, 1791, and Haiti didn't achieve independence from France until this day in 1804. The Haitian Revolution was the only slave uprising that led to the founding of a state which was both free from slavery, and ruled by non-whites and former captives.\n\nThe revolt began when thousands of slaves began to kill their masters and plunged the colony into civil war after a well-attended vodou ceremony. Within the next ten days, slaves had taken control of the entire Northern Province in an unprecedented slave revolt. The slaves sought revenge on their masters through "pillage, rape, torture, mutilation, and death". Over 200,000 black people died from the initial uprising until independence.\n\nToussaint Louverture was a notable military leader of the revolution, but died shortly before independence was won. His former lieutenant Jean-Jacques Dessalines became the first leader of the newly independent nation on this day in 1804.`,
         link: 'https://www.blackpast.org/global-african-history/haitian-revolution-1791-1804/',
         infoSrc: 'https://en.wikipedia.org/wiki/Haitian_Revolution'
       },
@@ -182,7 +182,7 @@ export const eventLibrary = {
         date: 'January 3rd, 1793',
         title: 'Lucretia Mott (1793 - 1880)',
         imgSrc: require('./assets/eventPhotos/Individuals/lucretiaMott.jpg'),
-        description: `Lucretia Mott was a U.S. Quaker, abolitionist, women's rights activist, pacifist, and social reformer. She had formed the idea of reforming the position of women in society when she was amongst the women excluded from the World Anti-Slavery Convention in 1840. In 1848 she was invited by Jane Hunt to a meeting that led to the first meeting about women's rights. Mott helped write the Declaration of Sentiments during the 1848 Seneca Falls Convention.\n\nWhen slavery was outlawed in 1865, she advocated giving former slaves who had been bound to slavery laws within the boundaries of the United States, whether male or female, the right to vote. She remained a central figure in the abolition and suffrage movement until her death in 1880.`,
+        description: `Lucretia Mott was a U.S. Quaker, abolitionist, women's rights activist, pacifist, and social reformer born on this day in 1793. She had formed the idea of reforming the position of women in society when she was amongst the women excluded from the World Anti-Slavery Convention in 1840. In 1848, she was invited by Jane Hunt to a meeting that led to the first meeting about women's rights. Mott helped write the Declaration of Sentiments during the 1848 Seneca Falls Convention.\n\nWhen slavery was outlawed in 1865, she advocated giving former slaves who had been bound to slavery laws within the boundaries of the United States, whether male or female, the right to vote. She remained a central figure in the abolition and suffrage movement until her death in 1880.`,
         link: 'https://www.womenshistory.org/education-resources/biographies/lucretia-mott',
         infoSrc: 'https://en.wikipedia.org/wiki/Lucretia_Mott'
       },
@@ -329,7 +329,7 @@ export const eventLibrary = {
         date: 'January 5th, 1855',
         title: 'Dundalli (1820 - 1855)',
         imgSrc: require('./assets/eventPhotos/Individuals/dundalli.jpg'),
-        description: `Dundalli (1820- 1855) was an Aboriginal lawman who figured prominently in accounts of conflict between European settlers and indigenous aboriginal peoples in the area of Brisbane in South East Queensland. Traditionally described as a murderer, savage and terrorist, he is now thought variously to have been a guerilla leader or to have coordinated a decade-long resistance to white colonization the area.\n\nIn the escalating tensions between indigenous people and settlers around Brisbane, Dundalli's role as a tribal elder led to widespread speculation as to his instigation of various violent conflicts. Despite this perception, modern historians note that he had not exacted revenge for his brother's murder at the hands of a settler and rival tribe, and had saved at least one settler's life in a raid, suggesting Dundalli had adopted a more conciliatory policy of moderation rather than "savage" violence.\n\nIn 1854, Dundalli entered Brisbane to be paid for removing a felled tree, and was arrested by the police. Tried and convicted for murder on flimsy evidence, he was hanged a few months later, on January 5th.`,
+        description: `Dundalli (1820- 1855) was an Aboriginal lawman who figured prominently in accounts of conflict between European settlers and indigenous aboriginal peoples in the area of Brisbane in South East Queensland. Traditionally described as a murderer, savage and terrorist, he is now thought variously to have been a guerilla leader or to have coordinated a decade-long resistance to white colonization the area.\n\nIn the escalating tensions between indigenous people and settlers around Brisbane, Dundalli's role as a tribal elder led to widespread speculation as to his instigation of various violent conflicts. Despite this perception, modern historians note that he had not exacted revenge for his brother's murder at the hands of a settler and rival tribe, and had saved at least one settler's life in a raid, suggesting Dundalli had adopted a more conciliatory policy of moderation rather than "savage" violence.\n\nIn 1854, Dundalli entered Brisbane to be paid for removing a felled tree, and was arrested by the police. Tried and convicted for murder on flimsy evidence, he was hanged a few months later, on this day in 1855.`,
         link: 'https://eprints.usq.edu.au/7257/2/Connors_ANZLH_2006_PV.pdf',
         infoSrc: 'https://en.wikipedia.org/wiki/Dundalli'
       },
@@ -2972,9 +2972,9 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'February 12th, 1961',
-        title: 'David Graeber (1961 - )',
+        title: 'David Graeber (1961 - 2020)',
         imgSrc: require('./assets/eventPhotos/Individuals/davidGraeber.jpg'),
-        description: `David Rolfe Graeber, born on this day in this 1961, is an American anthropologist, anarchist activist and author known for his books "Debt: The First 5000 Years", "The Utopia of Rules", and "Bullshit Jobs: A Theory". He is currently a professor of anthropology at the London School of Economics.\n\nGraeber's parents were self-taught working-class intellectuals in New York. His father was a member of the Youth Communist Leaugue, and fought in the Spanish Civil War. Graeber has stated that he has been an anarchist since the age of 16.\n\nAside from his scholarship, Graeber has been active in the Global Justice movement, and played an early and influential role in the Occupy Wall Street protests.`,
+        description: `David Rolfe Graeber, born on this day in this 1961, was an American anthropologist, anarchist activist and author known for his books "Debt: The First 5000 Years", "The Utopia of Rules", and "Bullshit Jobs: A Theory". He was a professor of anthropology at the London School of Economics.\n\nGraeber's parents were self-taught working-class intellectuals in New York. His father was a member of the Youth Communist Leaugue, and fought in the Spanish Civil War. Graeber has stated that he has been an anarchist since the age of 16.\n\nAside from his scholarship, Graeber was been active in the Global Justice movement, and played an early and influential role in the Occupy Wall Street protests.`,
         link: 'https://www.theguardian.com/books/2015/mar/21/books-interview-david-graeber-the-utopia-of-rules',
         infoSrc: 'https://en.wikipedia.org/wiki/David_Graeber'
       },
@@ -5515,13 +5515,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'March 19th, 1731',
+        title: 'Gabriela Silang (1731 - 1763)',
+        imgSrc: require('./assets/eventPhotos/Individuals/gabrielaSilang.jpg'),
+        description: `María Josefa Gabriela Cariño de Silang, born on this day n 1731, was a Filipina revolutionary leader best known as the first female leader of an Ilocano movement for independence from Spain (Ilocanos are the third largest Filipino ethnolinguistic group that mostly reside within the Ilocos Region in northwestern Philippines).\n\nAfter the capture of Manila by the British, her husband Diego Silang sought to initiate an armed struggle to overthrow the Spanish functionaries in Ilocos and replace them with native-born officials. Notably, they co-operated with the British in this effort, who appointed Diego governor of the Ilocos region on their behalf.\n\nGabriela took over the reins of her husband's revolutionary movement after his assassination in 1763, leading the Ilocano rebels for four months before being captured and executed on September 20th that year by the colonial government of the Spanish East Indies.`,
+        link: 'https://liberationschool.org/07-04-27-gabriela-silang-anticolonial-f-html/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Gabriela_Silang'
       },
     ],
     'Assassinations': [
@@ -5732,7 +5732,7 @@ export const eventLibrary = {
         date: 'March 22nd, 1869',
         title: 'Emilio Aguinaldo (1869 - 1964)',
         imgSrc: require('./assets/eventPhotos/Individuals/emilioAguinaldo.jpg'),
-        description: `Emilio Aguinaldo, born on this day in 1869, was a highly controversial Filipino revolutionary, politician and military leader who is officially recognized as the first and the youngest President of the Philippines (1899-1901) and first president of a constitutional republic in Asia.\n\nHe led Philippine forces against multiple colonizing forces - first against Spain in the latter part of the Philippine Revolution (1896 - 1898), again in the Spanish-American War (1898), and finally against the United States during the Philippine-American War (1899-1901).`,
+        description: `Emilio Aguinaldo, born on this day in 1869, was a highly controversial Filipino revolutionary, politician and military leader who is officially recognized as the first and the youngest President of the Philippines (1899 - 1901) and first president of a constitutional republic in Asia.\n\nHe led Philippine forces against multiple colonizing forces - first against Spain in the latter part of the Philippine Revolution (1896 - 1898), again in the Spanish-American War (1898), and finally against the United States during the Philippine-American War (1899-1901).`,
         link: 'https://www.britannica.com/biography/Emilio-Aguinaldo',
         infoSrc: 'https://en.wikipedia.org/wiki/Emilio_Aguinaldo'
       },
@@ -15310,7 +15310,7 @@ export const eventLibrary = {
         date: 'August 3rd, 1981',
         title: 'PATCO Strike (1981)',
         imgSrc: require('./assets/eventPhotos/Events/patcoStrike.jpg'),
-        description: `After negotiations between the union and the FAA broke down, the Professional Air Traffic Controllers Organization (PATCO) declared a strike on August 3, 1981, seeking better working conditions, better pay, and a 32-hour workweek. In striking, the union violated a law which prohibits strikes by federal government employees.\n\nDespite supporting PATCO's effort in his 1980 campaign, Ronald Reagan declared the PATCO strike a "peril to national safety" and ordered them back to work under the terms of the Taft-Hartley Act. Reagan demanded those remaining on strike return to work within 48 hours or officially forfeit their positions.\n\nOnly 1,300 of the nearly 13,000 controllers returned to work. PATCO also disobeyed a federal court injunction ordering an end to the strike and to return to work. On August 5, following the PATCO workers' refusal to return to work, Reagan fired the 11,345 striking air traffic controllers who had ignored the order and banned them from federal service for life. PATCO was also decertified by the Federal Labor Relations Authority a few months later.`,
+        description: `After negotiations between the union and the FAA broke down, the Professional Air Traffic Controllers Organization (PATCO) declared a strike on this day in 1981, seeking better working conditions, better pay, and a 32-hour workweek. In striking, the union violated a law which prohibits strikes by federal government employees.\n\nDespite supporting PATCO in his 1980 campaign, Ronald Reagan declared the PATCO strike a "peril to national safety" and ordered them back to work under the terms of the Taft-Hartley Act. Reagan demanded those remaining on strike return to work within 48 hours or officially forfeit their positions.\n\nOnly 1,300 of the nearly 13,000 controllers returned to work. PATCO also disobeyed a federal court injunction ordering an end to the strike and to return to work. On August 5th, following the PATCO workers' refusal to return to work, Reagan fired the 11,345 striking air traffic controllers who had ignored the order and banned them from federal service for life. PATCO was also decertified by the Federal Labor Relations Authority a few months later.`,
         link: 'https://www.wnycstudios.org/podcasts/takeaway/segments/164690-strike-changed-american-labor',
         infoSrc: 'https://en.wikipedia.org/wiki/Professional_Air_Traffic_Controllers_Organization_(1968)#August_1981_strike'
       },
@@ -18632,7 +18632,7 @@ export const eventLibrary = {
         date: 'September 15th, 1940',
         title: 'Anne Moody (1940 - 2015)',
         imgSrc: require('./assets/eventPhotos/Individuals/anneMoody.jpg'),
-        description: `Anne Moody was an American author who wrote about her experiences growing up poor and black in rural Mississippi, and her involvement in the Civil Rights Movement through the NAACP, Congress of Racial Equality (CORE), and Student Nonviolent Coordinating Committee (SNCC). Moody fought racism and segregation from when she was a little girl in Centreville, Mississippi, and continued throughout her adult life around the American South.\n\nAfter graduating from Tougaloo College, Moody became a full-time worker in the civil rights movement, participating in a variety of different protests such as marches and a sit-ins. Moody participated in a sit-in at a Woolworth's lunch counter in Jackson and a mob attacked her. She was also arrested in Jackson, Mississippi for attempting to protest inside of a post office with 13 other protesters, including Joan Trumpauer, Doris Erskine, Jeanette King, and Lois Chaffee.\n\nShortly after this, Anne Moody went quietly moved to New York and wrote her autobiography, "Coming of Age in Mississippi".`,
+        description: `Anne Moody, born on this day in 1940, was an American author who wrote about her experiences growing up poor and black in rural Mississippi, and her involvement in the Civil Rights Movement through the NAACP, Congress of Racial Equality (CORE), and Student Nonviolent Coordinating Committee (SNCC). Moody fought racism and segregation from when she was a little girl in Centreville, Mississippi, and continued throughout her adult life around the American South.\n\nAfter graduating from Tougaloo College, Moody became a full-time worker in the civil rights movement, participating in a variety of different protests such as marches and a sit-ins. Moody participated in a sit-in at a Woolworth's lunch counter in Jackson and a mob attacked her. She was also arrested in Jackson, Mississippi for attempting to protest inside of a post office with 13 other protesters, including Joan Trumpauer, Doris Erskine, Jeanette King, and Lois Chaffee.\n\nShortly after this, Anne Moody went quietly moved to New York and wrote her autobiography, "Coming of Age in Mississippi".`,
         link: 'https://www.blackpast.org/african-american-history/anne-moody-1940-2015/',
         infoSrc: 'https://en.wikipedia.org/wiki/Anne_Moody'
       },
@@ -18915,13 +18915,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'September 18th, 1973',
+        title: 'Flora Sanhueza (1911 - 1973)',
+        imgSrc: require('./assets/eventPhotos/Individuals/floraSanhueza.jpg'),
+        description: `Flora Sanhueza was a Chilean socialist, anti-fascist soldier, and teacher who died on this day in 1973 as a result of torture inflicted by the new Chilean regime of Augusto Pinochet.\n\nBorn into an anarchist family, Sanhueza was a dedicated anti-fascist who fought against the Francoists during the Spanish Civil War. Upon returning home, she founded a school to educate working class women called "Luisa Michel Libertarian Athenaeum".\n\nOn the day of the Chilean Sept. 11th coup (which ousted socialist president Salvador Allende and brought Augusto Pinochet into power), Flora and her son were arrested and later transferred to the Pisagua concentration camp. There, she was brutally tortured and sexually assaulted. From the wounds caused by this treatment, she died on this day in 1973, one of the many early victims of the violent political repression of the Pinochet regime.`,
+        link: 'https://translate.google.com/translate?hl=en&sl=es&u=https://prensaopal.cl/2020/03/07/flora-sanhueza-resistencia-feminista-de-clase/&prev=search&pto=aue',
+        infoSrc: 'https://translate.google.com/translate?hl=en&sl=es&u=https://es.wikipedia.org/wiki/Flora_Sanhueza&prev=search&pto=aue'
       },
     ],
     'Other': [
@@ -18959,24 +18959,24 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 19th, 1795',
+        title: 'Curaçao Slave Revolt Defeated (1795)',
+        imgSrc: require('./assets/eventPhotos/Individuals/tulaStatue.jpg'),
+        description: `The Curaçao Slave Revolt of 1795 began on in August of that year and was led by Tula, a local slave.\n\nOn the morning of August 17th, at the Knip plantation of slave master Caspar Lodewijk van Utrecht at Bandabou, Curaçao, the revolt began when Tula and the others slaves gathered and informed van Utrecht they would no longer be his slaves. They then left to Lagun, where they freed 22 slaves from jail and went from farm to farm, liberating more and more slaves.\n\nAfter being defeated in open battle, rebels began a guerrilla campaign, poisoning wells and stealing food. On this day in 1795, Tula and Karpata were betrayed by a fellow slave. They were taken prisoner, and the war was effectively over. After Tula was captured, he was publicly tortured to death on October 3rd that year.\n\nSlaves were granted more freedom on the island as a result of the uprising, although the system of slavery was not formally abolished until 1863. Today, August 17th is celebrated in Curaçao to commemorate the beginning of the liberation struggle. The uprising was dramatized in the 2013 Dutch film "Tula: The Revolt".`,
+        link: 'https://www.curacaohistory.com/detail/1795-tula',
+        infoSrc: 'https://en.wikipedia.org/wiki/Cura%C3%A7ao_Slave_Revolt_of_1795'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'September 19th, 1981',
+        title: 'Solidarity Day March (1981)',
+        imgSrc: require('./assets/eventPhotos/Events/solidarityDayMarch.jpg'),
+        description: `The Solidarity Day March was a large political rally, held on this day in 1981 in Washington D.C. in support of striking air traffic controller workers fired by President Ronald Reagan. The March was organized and sponsored by the AFL-CIO, and came a few weeks into the Professional Air Traffic Controllers Organization (PATCO) strike. It was the first major demonstration to have been organized for decades by the AFL-CIO.\n\nUltimately, the rally's show of support was ineffectual; PATCO was de-certified as a union and the striking ATC workers did not get their jobs back.\n\nA 2nd Solidarity March was held near the 10 year anniversary of the original Solidary Day March and drew between 250,000 and 325,000 people. Union members, in the wake of the Gulf War, called on the federal government to turn its attention away from foreign affairs and to focus on domestic issues like improving health care and education and supporting workers' rights. Approximately 250,000-500,000 people took part in either event.`,
+        link: 'https://www.washingtonpost.com/archive/politics/1981/09/20/250000-march-to-protest-reagans-policies/680f4df6-905b-443a-859f-10d8fd3c6a04/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Solidarity_Day_march'
       },
     ],
     'Birthdays': [
@@ -19007,9 +19007,18 @@ export const eventLibrary = {
         date: 'September 19th, 1868',
         title: 'Camilla Massacre (1868)',
         imgSrc: require('./assets/eventPhotos/Events/original33.jpg'),
-        description: `The "Original 33" were the first 33 African-American members of the Georgia General Assembly who were elected to office in 1868, during the Reconstruction era. They were among the first African-American state legislators in the United States, and were expelled by the white members of the General Assembly, who claimed blacks could not hold office in Georgia.\n\nThe expelled members appealed to the federal government and state courts. In protest of the expulsion, former represenative Phillip Joiner led a 25 mile march to Camilla, the county seat on September 19th. There, they were attacked by an armed white mob - approximately a dozen marchers were killed and 30-40 wounded. The Camilla Massacre began the era of de facto voting discrimination and political disenfranchisement of the black population in Georgia.\n\nAlthough the expelled legislators eventually won a case in the Georgia Supreme Court (White v. Clements) that gave them the right to hold office, voter intimidation and de facto voting discrimination heightened to such a degree that Georgia went almost sixty years without having a single black legislator in its state congress, although they were legally allowed to do so.`,
+        description: `The "Original 33" were the first 33 African-American members of the Georgia General Assembly who were elected to office in 1868, during the Reconstruction era. They were among the first African-American state legislators in the United States, and were expelled by the white members of the General Assembly, who claimed blacks could not hold office in Georgia.\n\nThe expelled members appealed to the federal government and state courts. In protest of the expulsion, former represenative Phillip Joiner led a 25 mile march to Camilla, the county seat on this day in 1868. There, they were attacked by an armed white mob - approximately a dozen marchers were killed and 30-40 wounded. The Camilla Massacre began the era of de facto voting discrimination and political disenfranchisement of the black population in Georgia.\n\nAlthough the expelled legislators eventually won a case in the Georgia Supreme Court (White v. Clements) that gave them the right to hold office, voter intimidation and de facto voting discrimination heightened to such a degree that Georgia went almost sixty years without having a single black legislator in its state congress, although they were legally allowed to do so.`,
         link: 'https://en.wikipedia.org/wiki/Camilla_massacre',
         infoSrc: 'https://www.zinnedproject.org/news/tdih/camilla-massacre/'
+      },
+      {
+        category: 'Other',
+        date: 'September 19th, 1893',
+        title: `New Zealand Women's Suffrage (1893)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/kateSheppard.jpg'),
+        description: `On this day in 1893, New Zealand became the first country with a Western-style parliament that allowed women to vote in elections. Women's suffrage was granted after about two decades of campaigning throughout New Zealand, led by women such as Kate Sheppard (shown above) and Mary Ann Müller.\n\nThe activists delivered a series of petitions to Parliament - over 9,000 signatures were delivered in 1891, followed by a petition of almost 20,000 signatures in 1892, and finally in 1893 nearly 32,000 signatures were presented, almost a quarter of the adult European female population of New Zealand. Through this popular pressure, a bill was passed that granted women the right to vote.\n\nIt's worth noting that, in Polynesian society (and by extension Māori people), charismatic women were given significant direct influence (although this was limited by the inability of women to speak at some meetings in community houses). As a result, some historians see colonialism as initially regressive for women's rights in New Zealand.`,
+        link: 'https://nzhistory.govt.nz/politics/womens-suffrage/brief-history',
+        infoSrc: 'https://nzhistory.govt.nz/politics/womens-suffrage/brief-history'
       },
       {
         category: 'Other',
@@ -19019,6 +19028,15 @@ export const eventLibrary = {
         description: `The African Party for the Independence of Guinea and Cape Verde (Portuguese: Partido Africano para a Independência da Guiné e Cabo Verde, PAIGC) is a political party in Guinea-Bissau that was founded on this day in 1959. It had six founding members, including Amílcar Cabral and his half-brother Luís.\n\nOriginally formed to peacefully campaign for independence from Portugal, the party turned to armed conflict after the Pidjiguiti Massacre in 1959, where police fired into a crowd of striking workers, killing dozens.\n\nPAIGC was one of the belligerents in the Guinea-Bissau War of Independence, fought against Portugal. Towards the end of the war, the party established a Marxist-Leninist one-party state, which remained intact until multi-party democracy was introduced in the early 1990s.`,
         link: 'https://uca.edu/politicalscience/dadm-project/sub-saharan-africa-region/portuguese-guinea-1951-1974/',
         infoSrc: 'https://en.wikipedia.org/wiki/African_Party_for_the_Independence_of_Guinea_and_Cape_Verde'
+      },
+      {
+        category: 'Other',
+        date: 'September 19th, 1892',
+        title: 'Alexander Berkman Sentencing (1892)',
+        imgSrc: require('./assets/eventPhotos/Individuals/alexanderBerkman.jpg'),
+        description: `Alexander Berkman (1870 - 1936) was a leading member of the anarchist movement in the early 20th century, famous for both his political activism and his writing. He was also the partner of Emma Goldman, another remarkable and leading member of the 20th anarchist movement in the United States.\n\nIn 1892, Berkamn, Goldman, and his cousin Modest Aronstam planned to assassinate Henry Clay Frick, the anti-union factory manager and one of the worker antagonists in the Homestead Strike. Berkman's plan was to assassinate Frick and then kill himself; Goldman was to explain Berkman's motives after his death; and Aronstam was to follow Berkman in the event that he failed in his mission.\n\nThe mission failed, and Berkman was arrested. On this day, across the span of four hours, Berkman was tried, convicted, and sentenced to 21 years in prison, of which he served 14. His experiences in prison were the basis of his first book, "Prison Memoirs of an Anarchist", a staple of anarchist literature today. A link to a free, online copy of this book is provided below, under "More Info".`,
+        link: 'https://libcom.org/library/alexander-berkman-prison-memoirs-anarchist',
+        infoSrc: 'https://en.wikipedia.org/wiki/Alexander_Berkman'
       },
     ],
   },
@@ -19086,16 +19104,34 @@ export const eventLibrary = {
         link: 'https://www.npr.org/sections/thetwo-way/2017/05/22/529504340/richard-oakes-who-occupied-alcatraz-for-native-rights-gets-a-birthday-honor',
         infoSrc: 'https://en.wikipedia.org/wiki/Richard_Oakes_(activist)'
       },
+      {
+        category: 'Assassinations',
+        date: 'September 20th, 1973',
+        title: 'Frank Teruggi (1973)',
+        imgSrc: require('./assets/eventPhotos/Individuals/frankTeruggi.jpg'),
+        description: `Frank Teruggi, Jr. (1949 - 1973) was an American student, journalist, and member of the Industrial Workers of the World (IWW) from Chicago, Illinois.\n\nOn this day in 1973, just nine days after the Chilean Coup of 1973, Teruggi became one of the victims of General Augusto Pinochet's military. He was seized at his home and taken to the National Stadium in Santiago, which had been turned into an ad hoc concentration camp where prisoners were interrogated and tortured and many were executed.\n\nIn Costa-Gavras's film "Missing", Teruggi is depicted as a contributor for a small newspaper and friend of journalist Charles Horman, who had spoken with several US operatives that assisted the Chilean military government. The film alleges that Horman's discovery of US complicity in the coup led to his secret arrest, disappearance, and execution.\n\nIn 2011, Chilean judge Jorge Zepeda indicted Ray E. Davis, commander of the U.S. Military Group in Chile during the time of the coup, along with Pedro Espinoza, a Chilean general, and Rafael González Verdugo, a member of Chilean army intelligence, in the murders of Frank Teruggi and Charles Horman. Teruggi and Horman were merely two among 40,000 held at the Stadium.`,
+        link: 'https://libcom.org/library/killers-iww-member-frank-teruggi-sentenced-chile',
+        infoSrc: 'https://en.wikipedia.org/wiki/Frank_Teruggi'
+      },
+      {
+        category: 'Assassinations',
+        date: 'September 20th, 1763',
+        title: 'Gabriela Silang (1763)',
+        imgSrc: require('./assets/eventPhotos/Individuals/gabrielaSilang.jpg'),
+        description: `María Josefa Gabriela Cariño de Silang (1731 - 1763) was a Filipina revolutionary leader best known as the first female leader of an Ilocano movement for independence from Spain (Ilocanos are the third largest Filipino ethnolinguistic group that mostly reside within the Ilocos Region in northwestern Philippines).\n\nAfter the capture of Manila by the British, her husband Diego Silang sought to initiate an armed struggle to overthrow the Spanish functionaries in Ilocos and replace them with native-born officials. Notably, they co-operated with the British in this effort, who appointed Diego governor of the Ilocos region on their behalf.\n\nGabriela took over the reins of her husband's revolutionary movement after his assassination in 1763, leading the Ilocano rebels for four months before being captured and executed on this day that year by the colonial government of the Spanish East Indies.`,
+        link: 'https://liberationschool.org/07-04-27-gabriela-silang-anticolonial-f-html/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Gabriela_Silang'
+      },
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 20th, 1915',
+        title: 'New Zealand Censors the IWW (1915)',
+        imgSrc: require('./assets/eventPhotos/Organizations/IWW.png'),
+        description: `In the political climate of World War I, the government of New Zealand cracked down on dissident press and actions. The New Zealand International Workers of the World branch (founded in 1907) was an explicit target of the new censorship measures.\n\nOn this day in 1915, by an Order of the Council, the government specifically prohibited the "importation into New Zealand of the newspapers called Direct Action and Solidarity, and all other printed matter published by or on behalf of the society known as 'The Industrial Workers of the World.'" According to author Jared Davidson, Direct Action was "a lively newspaper published by the Australian IWW that found its way to New Zealand via seamen crossing the Tasman, or by mail."\n\nIn the following years, members of the IWW, labor activists, and political radicals such as Charles Johnson, Philip Josephs, and William Bell were imprisoned. Surveillance of the IWW continued for several years after the conclusion of World War I.`,
+        link: 'http://libcom.org/history/country-considered-be-free',
+        infoSrc: 'http://libcom.org/history/reds-wobblies-working-class-radicalism-state-new-zealand-1915-1925'
       },
     ],
   },
@@ -19113,13 +19149,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 21st, 2007',
+        title: 'Strike Bike Co-Op (2007)',
+        imgSrc: require('./assets/eventPhotos/Events/strikeBike.jpg'),
+        description: `When a bike factory's closing was announced in Nordhausen, Germany, striking workers there occupied the factory in protest in the end of July 2007. Although the owners of the factory attempted to evict the workers, courts ruled in favor of the workers when they claimed that they were simply holding a lengthy staff meeting.\n\nWhen news of the occupation spread, some leftists traveled to Nordhausen and suggested beginning worker-managed production of bicycles. Although the striking workers were skeptical initially, they eventually warmed up to the idea. On this day in 2007, the workers announced their plan to begin producing a limited edition "Strike Bike". Bought as a pre-order to help initiate production, the Strike Bike quickly sold out and production was set to begin on October 22nd.`,
+        link: 'https://libcom.org/history/occupied-bike-factory-germany-2007',
+        infoSrc: 'https://www.workerscontrol.net/geographical/strike-bike-occupied-factory-germany'
       },
     ],
     'Labor': [
