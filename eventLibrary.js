@@ -654,13 +654,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'Janauary 10th, 1859',
+        title: 'Francisco Ferrer (1859 - 1909)',
+        imgSrc: require('./assets/eventPhotos/Individuals/franciscoFerrer.jpg'),
+        description: `Francisco Ferrer i Guàrdia, born on this day in 1859, was a radical freethinker, anarchist, and educationist behind a network of secular, private, libertarian schools in and around Barcelona.\n\nIn 1901, Ferrer founded the Barcelona Modern School, "Escuela Moderna", which sought to provide a secular, libertarian curriculum as an alternative to the religious dogma and compulsory lessons common within Spanish schools. His school eschewed punishments and rewards, and encouraged practical experience over academic study.\n\nIn mid-1909, Ferrer was arrested and accused of orchestrating a week of insurrection known as Barcelona's "Tragic Week". He was convicted in a show trial and executed by firing squad on October 13th, 1909. His death triggered international outcry, and his life was prominently memorialized in writing, monuments, and demonstrations across three continents.`,
+        link: 'https://theanarchistlibrary.org/library/francisco-ferrer-the-origin-and-ideals-of-the-modern-school',
+        infoSrc: 'https://en.wikipedia.org/wiki/Francisco_Ferrer'
       },
     ],
     'Assassinations': [
@@ -8119,7 +8119,7 @@ export const eventLibrary = {
         date: 'April 25th, 1974',
         title: 'Carnation Revolution (1974)',
         imgSrc: require('./assets/eventPhotos/Events/carnationRevolution.jpg'),
-        description: `The Carnation Revolution (Portuguese: Revolução dos Cravos), was an anti-colonial military coup in Lisbon which overthrew the authoritarian Estado Novo regime. The revolution began as a coup organized by the Armed Forces Movement (MFA), composed of military officers who opposed the regime, but it was soon coupled with an unanticipated, mass civil resistance campaign.\n\nAside from toppling the Estado Novo government, the revolution ended the Portuguese Colonial War (leading to independence for Guinea-Bissau, Cape Verde, Angola, and others) and started a political process that would result in a democratic Portugal.\n\nAfter the coup, power was held by the National Salvation Junta (a military junta), and Portugal experienced a period of political turmoil as conflicting communist, socialist, and right-wing forces fought each other for power.\n\nPortugal's first free election was took place on the one-year anniversary of the Carnation Revolution in order to write a new constitution for the country. Another election was held in 1976 and the first constitutional government, led by centre-left socialist Mário Soares, took office.`,
+        description: `The Carnation Revolution (Portuguese: Revolução dos Cravos), was an anti-colonial military coup in Lisbon which overthrew the authoritarian Estado Novo regime. The revolution began as a coup organized by the Armed Forces Movement (MFA), composed of military officers who opposed the regime, but it was soon coupled with an unanticipated, mass civil resistance campaign.\n\nAside from toppling the Estado Novo government, the revolution ended the Portuguese Colonial War (leading to independence for Guinea-Bissau, Cape Verde, Angola, and others) and started a political process that would result in a democratic Portugal.\n\nAfter the coup, power was held by the National Salvation Junta (a military junta), and Portugal experienced a period of political turmoil as conflicting communist, socialist, and right-wing forces fought each other for power.\n\nPortugal's first free election was took place on the one-year anniversary of the Carnation Revolution in order to write a new constitution for the country. Another election was held in 1976 and the first constitutional government, led by center-left socialist Mário Soares, took office.`,
         link: 'https://www.jacobinmag.com/2019/04/portugal-carnation-revolution-national-liberation-april',
         infoSrc: 'https://en.wikipedia.org/wiki/Carnation_Revolution'
       },
@@ -19176,19 +19176,37 @@ export const eventLibrary = {
         title: 'Kwame Nkrumah (1909 - 1972)',
         imgSrc: require('./assets/eventPhotos/Individuals/kwameNkrumah.jpg'),
         description: `Kwame Nkrumah was a Ghanaian politician and revolutionary. He was the first Prime Minister and President of Ghana, having led the Gold Coast to independence from Britain in 1957. An influential advocate of pan-Africanism, Nkrumah was a founding member of the Organization of African Unity and winner of the Lenin Peace Prize from the Soviet Union in 1962.\n\nIn 1960, Ghanaians approved a new constitution and elected Nkrumah President. His administration funded national industrial and energy projects, developed a strong national education system and promoted a pan-Africanist culture. Under Nkrumah, Ghana played a leading role in African international relations during the decolonization period.\n\nIn 1964, a constitutional amendment made Ghana a one-party state, with Nkrumah as president for life of both the nation and its party. Nkrumah was deposed in 1966 by the National Liberation Council which under the supervision of international financial institutions privatized many of the country's state corporations. John Stockwell, a former CIA agent, wrote that the CIA was intimately involved in the coup that ousted him from power.\n\nNkrumah lived the rest of his life in Guinea, of which he was named honorary co-president.`,
-        link: 'https://www.jstor.org/stable/2934320',
+        link: 'https://libcom.org/tags/kwame-nkrumah',
         infoSrc: 'https://en.wikipedia.org/wiki/Kwame_Nkrumah'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 21st, 1919',
+        title: 'Teresa Rebull (1919 - 2015)',
+        imgSrc: require('./assets/eventPhotos/Individuals/teresaRebull.jpg'),
+        description: `Teresa Soler i Pi, better known by her stage name Teresa Rebull was a Marxist, feminist, and singer-songwriter who was born on this day in 1919. She joined the Partido Obrero de Unificación Marxista (POUM) in 1936 and worked as a volunteer nurse in the premises of her party during the Spanish Civil War.\n\nAfter Francisco Franco came into power, Rebull fled to France, where she continued her work with POUM and had a career as a musician.`,
+        link: 'https://translate.google.com/translate?hl=en&sl=es&u=https://es.wikipedia.org/wiki/Teresa_Rebull&prev=search&pto=aue',
+        infoSrc: 'https://libcom.org/history/teresa-rebull-dead-age-30-%E2%80%93-pepe-guti%C3%A9rrez'
       },
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'September 21st, 1976',
+        title: 'Orlando Letelier (1976)',
+        imgSrc: require('./assets/eventPhotos/Individuals/orlandoLetelier.jpg'),
+        description: `Marcos Orlando Letelier del Solar (1932 - 1976) was a Chilean economist, politician, and diplomat during the presidency of Salvador Allende who was assassinated on this day in 1976. After Allende was ousted in a coup and Augusto Pinochet came into power, Letelier fled to the United States and accepted several academic positions in Washington, D.C.\n\nIn 1976, agents of Dirección de Inteligencia Nacional (DINA), the Pinochet regime's secret police, assassinated Letelier and his colleague Ronni Moffitt in Washington with a car bomb. These agents had been working in collaboration with members of the Coordination of United Revolutionary Organizations, a U.S.-sponsored anti-Castro militant group.\n\nAccording to John Dinges, author of "The Condor Years", documents released in 2015 revealed a 1978 CIA report that proved they had knowledge Pinochet ordered the murders. A State Department document also refers to eight separate CIA reports from around the same date. Pinochet, who died in 2006, was never charged for ordering these murders.`,
+        link: 'https://www.jacobinmag.com/2016/09/orlando-letelier-pinochet-nixon-kissinger',
+        infoSrc: 'https://en.wikipedia.org/wiki/Assassination_of_Orlando_Letelier'
+      },
+      {
+        category: 'Assassinations',
+        date: 'September 21st, 1921',
+        title: 'Lev Chernyi (1921)',
+        imgSrc: require('./assets/eventPhotos/Individuals/levChernyi.jpg'),
+        description: `Lev Chernyi was a Russian individualist anarchist theorist, activist, poet, and leading figure of the Third Russian Revolution who was assassinated by Bolshevik secret police on this day in 1921.\n\nIn 1917, Chernyi was released from his political imprisonment by the Imperial Russian regime, and swiftly became one of the leading figures in Russian anarchism. Chernyi advocated a Nietzschean overthrow of the values of bourgeois Russian society, and rejected the voluntary communes of anarcho-communist Peter Kropotkin as a threat to the freedom of the individual.\n\nAfter publishing anarchist literature, Chernyi was imprisoned in Siberia under the Russian Czarist regime for his revolutionary activities. Later, after strongly denouncing the new Bolshevik government and joining several underground resistance movements, Chernyi was eventually arrested by the Cheka (Soviet police) on a charge of counterfeiting and was executed in 1921 without trial.`,
+        link: 'https://theanarchistlibrary.org/category/author/lev-chernyi',
+        infoSrc: 'https://en.wikipedia.org/wiki/Lev_Chernyi'
       },
     ],
     'Other': [
@@ -19217,13 +19235,22 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 22nd, 1918',
+        title: 'Bulgarian Soldiers Mutiny (1918)',
+        imgSrc: require('./assets/eventPhotos/Events/dobroPoleMutiny.jpg'),
+        description: `After suffering a disastrous defeat at the Battle of Dobro Pole, soldiers in the Bulgarian Army (fighting in World War I) began to defect on this day in 1918. Over the course of five days, the uprising involved every unit stationed in the Vardar plain up to the Bitolia region.\n\nAlthough some of the rebels returned to their villages, a force more than ten thousand strong began to march towards the capitol, intent on abolishing the monarchy and establishing a republic. In Radomir, they proclaimed the new "Republic in Radomir" on September 27th, 1918, and stormed the capitol Sofia the next day.\n\nThe rebels were overwhelmed by government forces, however, and they were militarily defeated within a matter of days (although it took more than a month to "pacify" the country). Despite this defeat, King Ferdinand was forced to abdicate the throne and Bulgaria formally withdrew from World War I the next year in the Treaty of Neuilly.`,
+        link: 'https://www.jacobinmag.com/2019/01/world-war-bulgaria-army-soldiers-revolt',
+        infoSrc: 'https://libcom.org/history/revolt-radomir-tico-jossifort'
+      },
+      {
+        category: 'Rebellion',
+        date: 'September 22nd, 1960',
+        title: 'Police Storm Council Houses (1960)',
+        imgSrc: require('./assets/eventPhotos/Events/stPrancasRentStrike.jpg'),
+        description: `On this day in 1960, bailiffs supported by about 800 police attacked both Silverdale and Kennistoun House in St Prancas, London in an effort to evict to tenant organizers. The attack took place in the context of a long rent-strike at both houses that began on January 4th, 1960.\n\nThe evening prior to the attack, a demonstration of about 500 tenants took place outside the St Pancras Town Hall, where a housing committee was being held, despite the police having banned demonstrations there. Police arrested eleven people, and there were reports of young children being charged at by mounted officeers.\n\nThe attack on September 22nd began early the next day, at five in the morning. At Kennistoun House, the pickets put up a two-hour defence against the bailiffs and the police, pouring oil on them as they tried to get up the stairs, to the entrance to Don Cook's (one of the organizers) flat on the top floor, however they were not successful in stopping his or fellow organizer Arthur Rowe's evictions that day.`,
+        link: 'https://www.worldsocialism.org/spgb/socialist-standard/2010s/2018/no-1366-june-2018/book-review-rent-strike-st-pancras-1960/',
+        infoSrc: 'https://libcom.org/history/rent-strike-st-pancras-1960'
       },
     ],
     'Labor': [
@@ -19235,6 +19262,15 @@ export const eventLibrary = {
         description: `The Great Steel Strike was an attempt by the weakened Amalgamated Association of Iron, Steel and Tin Workers (AA) to organize the United States steel industry in the wake of World War I. The strike began on this day in 1919, shutting down half the steel industry, including almost all mills in Pueblo, Colorado; Chicago, Illinois, Wheeling, West Virginia; Johnstown, Pennsylvania; Cleveland, Ohio; Lackawanna, New York; and Youngstown, Ohio.\n\nPublic opinion was generally against the strike. Factory owners claimed that the steelworker strike was being masterminded by communists and revolutionaries (the October Revolution had occurred less than two years prior), and played on nativist xenophobia by noting that a large number of steelworkers were immigrants.\n\nThe strike collapsed on January 8th, 1920, and the AA labor union was decimated in the aftermath of the strike's failure.`,
         link: 'https://libcom.org/history/us-national-steel-strike-1919-jeremy-brecher',
         infoSrc: 'https://en.wikipedia.org/wiki/Steel_strike_of_1919'
+      },
+      {
+        category: 'Labor',
+        date: 'September 22nd, 1978',
+        title: `"Winter of Discontent" Begins (1978)`,
+        imgSrc: require('./assets/eventPhotos/Events/winterOfDiscontent.jpg'),
+        description: `The "Winter of Discontent" took place during 1978-79 in the United Kingdom. It was characterized by widespread strikes from both private and public sector trade unions. Some of these industrial disputes caused great public inconvenience, exacerbated by the coldest winter for 16 years, in which severe storms isolated many remote areas of the country.\n\nOn this day in 1978, one of the first strikes of the "Winter of Discontent" began when 15,000 Ford workers, mostly from the Transport and General Workers Union (TGWU), began an unofficial strike. The number of participants later grew to 57,000. As the months progressed, workers from multiple industries went on strike, including lorry drivers, garbage collectors, and gravediggers. It was the largest UK labor stoppage since 1926.\n\nThe event was a disaster for the incumbent Labour Party, and they were swept out of power in the 1979 election, leading directly to the premiership of Margaret Thatcher that year.`,
+        link: 'https://libcom.org/history/1978-1979-winter-of-discontent',
+        infoSrc: 'https://en.wikipedia.org/wiki/Winter_of_Discontent'
       },
     ],
     'Birthdays': [
@@ -19261,13 +19297,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 22nd, 1912',
+        title: 'Casa del Obrero Mundial (1912)',
+        imgSrc: require('./assets/eventPhotos/Events/casaDelObreroMundial.jpg'),
+        description: `The Casa del Obrero Mundial (COM, "House of the World Worker") was a socialist and anarcho-syndicalist worker's organization founded on this day in 1912 in the Tepito Barrio of Mexico City. One of its founders was Antonio Díaz Soto y Gama, a Mexican revolutionary and supporter of Emiliano Zapata.\n\nCOM served as a cultural institution promoting worker's education and social transformation through a rationalist, socialist orientation, and as the headquarters for a number of syndicates and unions on a mutual aid basis.`,
+        link: 'https://translate.google.com/translate?hl=en&sl=es&u=https://mxcity.mx/2017/11/casa-del-obrero-mundial-un-ejemplo-de-anarcosindicalismo-en-mexico/&prev=search&pto=aue',
+        infoSrc: 'https://en.wikipedia.org/wiki/Casa_del_Obrero_Mundial'
       },
     ],
   },
@@ -19281,6 +19317,15 @@ export const eventLibrary = {
         description: `The Grito de Lares (Cry of Lares) was the first major revolt against Spanish rule in Puerto Rico, and began on this day in 1868. The short-lived uprising was an attempt to overthrow Spanish rule and establish Puerto Rican independence.\n\nA group known as the "Revolutionary Committee of Puerto Rico", led by Dr. Ramón Emeterio Betances and Segundo Ruiz Belvis, had been planning the rebellion since January 9th. The Committee issued several widely circulated "Proclamas", statements attacking the exploitation of the Puerto Ricans by the Spanish and calling for immediate insurrection.\n\nOn September 23rd, the Grito de Lares began when several hundred rebels arrived at the town of Lares, looting stores, seizing City Hall, imprisoning Spanish-born merchants, and flying the revolutionary flag of Lares at the town's church. The Republic of Puerto Rico was proclaimed and the revolutionaries offered freedom to the slaves who joined them.\n\nThe insurrection ended the next day when the Puerto Rican militia, significantly better armed than the rebels, put down the rebellion by force. Although all revolutionaries were initially sentenced to death by a military court, political pressure led the Spanish president to declare a general amnesty and free all prisoners (although the leaders of the uprising were still exiled).`,
         link: 'https://www.loc.gov/collections/puerto-rico-books-and-pamphlets/articles-and-essays/nineteenth-century-puerto-rico/rebellion-of-1868/',
         infoSrc: 'https://en.wikipedia.org/wiki/Grito_de_Lares'
+      },
+      {
+        category: 'Revolution',
+        date: 'September 23rd, 1945',
+        title: 'Saigon Commune (1945)',
+        imgSrc: require('./assets/eventPhotos/Events/saigonCommune.jpg'),
+        description: `On this day in 1945, spontaneous revolution broke out in Saigon, Vietnam in response to French troops occupying various police stations, the Post Office, the Central Bank, and the Town Hall in the city.\n\nAlthough the French soldiers met no resistance initially, news of the occupation set off open rebellion in the working class districts of Saigon - civic buildings were set on fire, revolutionary groups paraded in the street, and guerilla warfare was undertaken against the colonizing forces.\n\nUnder the slogan "Land to the Peasants! Factories to the workers!," the International Communist League (ICL) called on the population to arm themselves and organize in councils, establishing a Popular Revolutionary Committee whose delegates issued "a declaration in which they affirmed their independence from the political parties and resolutely condemned any attempt to restrict the autonomy of the decisions taken by workers and peasants."\n\nThe Trotskyist character of the movement was at odds with the Marxist-Leninist Vietminh, however, and the revolutionary movement was caught in the crossfire between French occupiers and the opposition of the Vietminh communists. The movement was successfully suppressed, and its leaders were either killed or exiled.`,
+        link: 'https://en.wikipedia.org/wiki/Trotskyism_in_Vietnam',
+        infoSrc: 'https://libcom.org/history/articles/saigon-commune-1945'
       },
     ],
     'Rebellion': [
@@ -19314,6 +19359,15 @@ export const eventLibrary = {
         description: `George Lester Jackson, born on this day in 1941, was an African-American author and revolutionary. While serving a sentence for armed robbery in 1961, Jackson co-founded the Marxist-Leninist Black Guerrilla Family.\n\nIn 1970, he was charged, along with two other Soledad Brothers, with the murder of prison guard John Vincent Mills in the aftermath of a prison fight. The same year, he published "Soledad Brother: The Prison Letters of George Jackson", a combination of autobiography and manifesto addressed to a black American audience. The book became a bestseller and earned Jackson personal fame.\n\nJackson was killed during an attempted prison escape on August 21st, 1971. Quoting communist revolutionary Ho Chi Minh, Jackson freed twenty-six prisoners and took hostages at gunpoint. Jackson and five other men were killed.`,
         link: 'https://www.sfgate.com/bayarea/article/EXIT-THE-DRAGON-It-s-been-30-years-since-George-2888071.php',
         infoSrc: 'https://en.wikipedia.org/wiki/George_Jackson_(activist)'
+      },
+      {
+        category: 'Birthdays',
+        date: 'September 23rd, 1893*',
+        title: 'Libertad Rodenas (1893 - 1970)',
+        imgSrc: require('./assets/eventPhotos/Individuals/libertadRodenas.jpg'),
+        description: `*some sources list her birth year as 1891 or 1892 as well\n\nLibertad Rodenas Dominguez, born on this day in 1893, was a militant Spanish unionist, anarchist, and member of the Mujeres Libres. Her home in Barcelona was a center for meetings of anarchist militants, refuge for those persecuted by the authorities, and hiding place for arms for the anarchist movement. Despite being arrested in 1920, Rodenas refused to renounce her militant politics.\n\nIn 1937, she joined the libertarian women’s organization Mujeres Libres and contributed to its paper. She also involved herself in literacy campaigns, especially in the activities of the "House of The Working Women", where hundreds of women were taught to read and write.\n\nAfter the collapse of the Spanish Republican government, Rodenas fled the country, eventually settling in Mexico, There, she remained active with the Confederación Nacional del Trabajo (CNT) in exile.`,
+        link: 'https://www.portaloaca.com/historia/biografias/5751-libertad-rodenas-y-rosario-dulcet-biografia-de-dos-mujeres-anarquistas.html',
+        infoSrc: 'https://libcom.org/history/rodenas-libertad-1893-1970'
       },
     ],
     'Assassinations': [
@@ -19864,6 +19918,15 @@ export const eventLibrary = {
         link: 'http://www.nyhistory.com/gerritsmith/jerry.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Jerry_Rescue'
       },
+      {
+        category: 'Rebellion',
+        date: 'October 1st, 1946',
+        title: 'Autumn Uprising Begins (1946)',
+        imgSrc: require('./assets/eventPhotos/Events/autumnUprising.jpg'),
+        description: `The Autumn Uprising (also known as the Daegu Riot) was a peasant uprising throughout the southern provinces of Korea against the policies of the military government, headed by American general John R. Hodge, in favor of the people's committees organized by the People's Republic of Korea (PRK).\n\nIt began on this day in 1946 when thousands of workers gathered at Daegu Station. Protesting, they threw rocks at the police and chanted "Kill the police!". Violence escalated, and the U.S.-led government brought in strikebreakers, declared martial law, and put down the rebellion with U.S. soldiers and tanks.\n\nIn total, the uprising resulted in killing of 38 policemen, 163 civil workers, and 73 civilians. The defeat of the uprising is considered to be a turning point in establishing political control over Korea, as the PRK people's committees and the National Council of Korean Labor Unions were weakened by the suppression.`,
+        link: 'https://www.jstor.org/stable/2782585',
+        infoSrc: 'https://en.wikipedia.org/wiki/Autumn_Uprising_of_1946'
+      },
     ],
     'Labor': [
       {
@@ -20004,21 +20067,30 @@ export const eventLibrary = {
         category: '',
         date: '',
         title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        imgSrc: require('./assets/eventPhotos/Events/autumnUprising.jpg'),
         description: ``,
-        link: '',
-        infoSrc: ''
+        link: 'https://www.jstor.org/stable/2782585',
+        infoSrc: 'https://en.wikipedia.org/wiki/Autumn_Uprising_of_1946'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Labor',
+        date: 'October 3rd, 1932',
+        title: 'Belfast Outdoor Relief Strike (1932)',
+        imgSrc: require('./assets/eventPhotos/Events/outdoorReliefStrike.jpg'),
+        description: `In Belfast, Ireland, on September 30th, 1932, 2,000 relief workers organized by the socialist Revolutionary Workers Group (RWG) voted to go on strike if their demands weren't met. These demands included the abolition of "task work", an increase in relief payments, all work schemes to be paid at trade union rates, and adequate outdoor allowances for all single unemployed men and women who were not receiving unemployment benefits.\n\nOn this day that year, a crowd of 30,000 marched from Frederick Street Labour Exchange to the Custom House steps, where a mass meeting was held. Notably, Catholics and Protestants set aside their differences and made common cause against the ruling class.\n\nAfter negotiations with the relief workers fell through, they called a rent strike, lit bonfires in working class districts, and speakers from the strike committee addressed thousands. Thousands of police were called in. Over the next several days, protesters clashed in battles with police and many workers were killed and injured.\n\nWorkers won most of their demands, including big cash increases in their relief pay. One of the main demands, though, was not conceded - the giving of relief to single persons. Geehan and the other RWG members who were on the strike committee came under heavy criticism for ending the strike before winning this.`,
+        link: 'https://socialistworker.co.uk/art/29274/1932+outdoor+relief+strike%3A+when+the+North+of+Ireland+fought+as+one',
+        infoSrc: 'https://libcom.org/history/1932-belfast-outdoor-relief-strike'
+      },
+      {
+        category: 'Labor',
+        date: 'October 3rd, 1983',
+        title: 'Filipino Army Strike (1983)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On this day in 1983, 22,000 Filipino workers walked off the job in a strike against the United States' two largest foreign military bases, Clark Air Base, home of the U.S. 13th Air Force, and Subic Bay Naval Base, the logistics and depot center for the U.S. Seventh Fleet.\n\nFilipinos were solely employed in maintenance and lower level positions, paid in pesos, and generally made less than their American counterparts. Striking workers demanded a 10% pay raise, and refused a counter-offer from the American government of 4.6%.`,
+        link: 'https://www.washingtonpost.com/archive/politics/1983/10/04/filipinos-strike-at-us-base/6a003fd0-acc3-423d-84d2-9a0d680b7e9e/',
+        infoSrc: 'https://www.upi.com/Archives/1983/10/03/Some-22000-Filipino-workers-walked-off-the-job-Monday/6749434001600/'
       },
     ],
     'Birthdays': [
@@ -20379,24 +20451,33 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Labor',
+        date: 'October 8th, 1916',
+        title: 'Bayonne Refinery Strike (1916)',
+        imgSrc: require('./assets/eventPhotos/Events/bayonneRefineryStrike.jpg'),
+        description: `The Bayonne Refinery Strikes of 1915-1916 were labor actions of refinery workers in Bayonne, New Jersey, mostly Polish-Americans, who struck Rockefeller-owned Standard Oil and Tidewater Petroleum plants.\n\nOn this day in 1916, Standard Oil workers went on strike, as they had the year before in mid-July. The strikers faced fierce opposition from law-enforcement, and the strike action became violent. In the course of the ten-day strike, 4 people were killed and 86 wounded.\n\nAccording to communist journalist John Reed (an eyewitness to the strike action), this was the first time in industrial dispute where the police officials explicitly announced that their object was to break the strike. Multiple journalists in Bayonne criticized mainstream press as portraying the strikers and protesters as more violent than they actually were; according to Reed and others, the violence was initiated by the police themselves.`,
+        link: 'https://en.wikipedia.org/wiki/Bayonne_refinery_strikes_of_1915%E2%80%9316',
+        infoSrc: 'https://libcom.org/history/bloodshed-bayonne'
+      },
+      {
+        category: 'Labor',
+        date: 'October 8th, 1923',
+        title: 'West Coast Longshore Strike (1923)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On this day in 1923, the 1,400 members of the International Longshoremen's Association (ILA) in Vancouver struck for higher wages. The Shipping Federation imported strikebreakers, housed in the CPR ship Empress of Japan, while an armed group of 350 men guarded the waterfront from potential interference from striking workers.\n\nThe longshoremen gave up on December 10th, and the Shipping Federation took over the dispatch of the work force, formerly controlled by the union, and set up a company union, the "Vancouver and District Waterfront Workers Association. This union went on to lead the more well-known West Coast Longshore Strike of 1935.`,
+        link: 'https://www.thecanadianencyclopedia.ca/en/article/west-coast-longshore-strikes-1923-and-1935',
+        infoSrc: 'https://www.thecanadianencyclopedia.ca/en/article/west-coast-longshore-strikes-1923-and-1935'
       },
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 8th, 1897',
+        title: 'Antonio Soto (1897 - 1963)',
+        imgSrc: require('./assets/eventPhotos/Individuals/antonioSoto.jpg'),
+        description: `Antonio Soto Canalejo (also known as "El Gallego Soto"), born on this day in 1897, was one of the principal anarcho-syndicalist leaders in the rural strikes in Patagonia of Argentina in 1921.\n\nIn early 1921, Patagonic landowners were refusing to make concessions to an increasingly discontented working class, continuing with layoffs, holding back pay, and maintaining of poor working conditions. In response to this, a general strike was declared on March 25th.\n\nSoto and his comrades traveled along farms of the cordillera of the Andes recruiting rural workers of several large farms, driving the southeast of Santa Cruz into an uprising. They requisitioned arms and food for the campaign, granting vouchers promising to eventually return the goods and occasionally taking the landowners and managers hostage.\n\nIn the aftermath of the strike, Soto fled the country and settled in Puntas Aras, Chile. There, he managed a small hotel which served as a meeting place of libertarians, intellectuals, and free-thinkers and founded the "Centro Republicano Español". His tombstone can be found in the Cementerio Municipal de Punta Arenas.`,
+        link: 'https://libcom.org/history/soto-antonio-1897-1963',
+        infoSrc: 'https://en.wikipedia.org/wiki/Antonio_Soto_(syndicalist)'
       },
     ],
     'Assassinations': [
@@ -20436,24 +20517,24 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'October 9th, 1972',
+        title: 'Kirkby Rent Strike (1972)',
+        imgSrc: require('./assets/eventPhotos/Events/kirkbyRentStrike.jpg'),
+        description: `The Kirkby Rent Strike was a 14-month long rent strike initiated by 3,000 tenants on this day in 1972, in the town of Kirkby, outside Liverpool, against the Housing Finances Act.\n\nThe Act caused a £1 rent rise for residents of Tower Hill and brought grievances that had been bubbling under for the previous decade to a head. The women who lived there formed an Unfair Rents Action Group and responded to the rent raise by organizing a 14-month long rent strike. The rent strike was ultimately defeated.`,
+        link: 'https://bigflameuk.files.wordpress.com/2009/05/tower-all.pdf',
+        infoSrc: 'https://libcom.org/blog/kirkby-rent-strike-1972-documentary-08042012'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'October 9th, 1912',
+        title: 'Little Falls Textile Strike (1912)',
+        imgSrc: require('./assets/eventPhotos/Events/littleFallsTextileStrike.jpg'),
+        description: `On this day in 1912, the Little Falls Textile strike began with a spontaneous walkout of workers in the Phoenix Mill in response to mill owners refusing to comply with a law that limited the workweek from 60 hours to 54, as well as to demand higher wages.\n\nThe International Workers of the World (IWW) sent in organizers such as Matilda Rabinowitz, Ben Legere, Joe Ettor, and "Big Bill" Haywood to assist with the strike, resulting in many of the striking workers voting to join the IWW.\n\nThe strike ended on January 3rd, 1913 with the striking workers and IWW prevailing. The workers' demands were met, including the 54-hour work week at the previous 60-hour pay.`,
+        link: 'https://littlefallshistoricalsociety.org/museum-exhibit/1912-little-falls-textile-strike/',
+        infoSrc: 'https://libcom.org/history/november-we-remember-centennial-1912-little-falls-textile-strike-brendan-maslauskas-dunn'
       },
     ],
     'Birthdays': [
@@ -20469,13 +20550,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'October 9th, 1967',
+        title: 'Che Guevara (1967)',
+        imgSrc: require('./assets/eventPhotos/Individuals/cheGuevara.jpg'),
+        description: `Ernesto "Che" Guevara (1928 - 1967) was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a ubiquitous countercultural symbol of rebellion and global insignia in popular culture.\n\nAfter performing key roles in Castro's government, Guevara left Cuba in 1965 to foment revolution abroad, first unsuccessfully in Congo-Kinshasa and later in Bolivia, where he was captured by CIA-assisted Bolivian forces and summarily executed on this day in 1967.\n\nOn November 3rd, 1966, Guevara secretly arrived in La Paz on a flight from Montevideo under the false name Adolfo Mena González, posing as a middle-aged Uruguayan businessman working for the Organization of American States. Once there, Guevara had difficulty getting co-operation from both local dissidents and the Bolivian Communist Party, despite besting the Bolivian military in several skirmishes.\n\nMany of the inhabitants willingly informed the Bolivian authorities and military about the guerrillas and their movements in the area, which led directly to Guevara's capture on October 7th, 1967. He famously shouted "Do not shoot! I am Che Guevara and I am worth more to you alive than dead!", however he remained defiant in captivity. On October 9th, on orders from the Bolivian President René Barrientos, Guevara was executed.`,
+        link: 'https://www.thenation.com/article/archive/the-death-of-che-guevara-declassified/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Che_Guevara'
       },
     ],
     'Other': [
@@ -20741,13 +20822,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'October 13th, 1909',
+        title: 'Francisco Ferrer (1909)',
+        imgSrc: require('./assets/eventPhotos/Individuals/franciscoFerrer.jpg'),
+        description: `Francisco Ferrer i Guàrdia (1859 - 1909) was a radical freethinker, anarchist, and educationist behind a network of secular, private, libertarian schools in and around Barcelona.\n\nIn 1901, Ferrer founded the Barcelona Modern School, "Escuela Moderna", which sought to provide a secular, libertarian curriculum as an alternative to the religious dogma and compulsory lessons common within Spanish schools. His school eschewed punishments and rewards, and encouraged practical experience over academic study.\n\nIn mid-1909, Ferrer was arrested and accused of orchestrating a week of insurrection known as Barcelona's "Tragic Week". He was convicted in a show trial and executed by firing squad on this day in 1909. His death triggered international outcry, and his life was prominently memorialized in writing, monuments, and demonstrations across three continents.`,
+        link: 'https://theanarchistlibrary.org/library/francisco-ferrer-the-origin-and-ideals-of-the-modern-school',
+        infoSrc: 'https://en.wikipedia.org/wiki/Francisco_Ferrer'
       },
     ],
     'Other': [
