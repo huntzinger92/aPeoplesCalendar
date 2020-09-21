@@ -17063,6 +17063,15 @@ export const eventLibrary = {
         link: 'https://www.thejc.com/culture/books/the-rebels-who-brought-london-to-a-standstill-1.65742',
         infoSrc: 'http://www.unionhistory.info/timeline/Tl_Display.php?irn=78&QueryPage=..%2FAdvSearch.php#:~:text=London%20Tailors%20Strike%201889%20against,public%20house%20in%20Greenfield%20Street.'
       },
+      {
+        category: 'Labor',
+        date: 'August 27th, 1934',
+        title: 'Salinas Lettuce Strike (1934)',
+        imgSrc: require('./assets/eventPhotos/Events/salinasLettuceStrike1934.jpg'),
+        description: `On this day in 1934, Filipino lettuce cutters went on strike in Salinas Valley, California, demanding official union recognition and a wage increase. Of the approximately 7,000 workers who became involved in the strike, almost half were Filipinos. The Filipino Labor Union (FLU) was the main organizing force behind the labor action.\n\nIn response to picketing workers, Filipinos were targeted and attacked by anti-strike vigilantes and the police. After Rufo Canete was appointed president of the FLU and formed a new strike committee, a large mob of vigilantes burned down Canete's labor camp, an organizational center for the FLU and home to hundreds of Filipino workers and drove hundreds of Filipinos out of Salinas Valley at gunpoint.\n\nThe strike ended on September 24th, 1934, with workers winning official FLU recognition and a wage increase. The Salinas Lettuce Strike was also the first time any Filipino union or organization had been able to come to an agreement with employers and be recognized as an authoritative body.`,
+        link: 'https://en.wikipedia.org/wiki/Salinas_Lettuce_strike_of_1934',
+        infoSrc: 'https://www.peoplesworld.org/article/today-in-labor-history-1934-filipino-lettuce-cutters-strike/'
+      },
     ],
     'Birthdays': [
       {
@@ -18963,7 +18972,7 @@ export const eventLibrary = {
         date: 'September 19th, 1795',
         title: 'Curaçao Slave Revolt Defeated (1795)',
         imgSrc: require('./assets/eventPhotos/Individuals/tulaStatue.jpg'),
-        description: `The Curaçao Slave Revolt of 1795 began on in August of that year and was led by Tula, a local slave.\n\nOn the morning of August 17th, at the Knip plantation of slave master Caspar Lodewijk van Utrecht at Bandabou, Curaçao, the revolt began when Tula and the others slaves gathered and informed van Utrecht they would no longer be his slaves. They then left to Lagun, where they freed 22 slaves from jail and went from farm to farm, liberating more and more slaves.\n\nAfter being defeated in open battle, rebels began a guerrilla campaign, poisoning wells and stealing food. On this day in 1795, Tula and Karpata were betrayed by a fellow slave. They were taken prisoner, and the war was effectively over. After Tula was captured, he was publicly tortured to death on October 3rd that year.\n\nSlaves were granted more freedom on the island as a result of the uprising, although the system of slavery was not formally abolished until 1863. Today, August 17th is celebrated in Curaçao to commemorate the beginning of the liberation struggle. The uprising was dramatized in the 2013 Dutch film "Tula: The Revolt".`,
+        description: `The Curaçao Slave Revolt began in August of 1795 and was led by Tula, a local slave.\n\nOn the morning of August 17th, at the Knip plantation of slave master Caspar Lodewijk van Utrecht at Bandabou, Curaçao, the revolt began when Tula and the others slaves gathered and informed van Utrecht they would no longer be his slaves. They then left to Lagun, where they freed 22 slaves from jail and went from farm to farm, liberating more and more slaves.\n\nAfter being defeated in open battle, rebels began a guerrilla campaign, poisoning wells and stealing food. On this day in 1795, Tula and Karpata were betrayed by a fellow slave. They were taken prisoner, and the war was effectively over. After Tula was captured, he was publicly tortured to death on October 3rd that year.\n\nSlaves were granted more freedom on the island as a result of the uprising, although the system of slavery was not formally abolished until 1863. Today, August 17th is celebrated in Curaçao to commemorate the beginning of the liberation struggle. The uprising was dramatized in the 2013 Dutch film "Tula: The Revolt".`,
         link: 'https://www.curacaohistory.com/detail/1795-tula',
         infoSrc: 'https://en.wikipedia.org/wiki/Cura%C3%A7ao_Slave_Revolt_of_1795'
       },
@@ -18974,7 +18983,7 @@ export const eventLibrary = {
         date: 'September 19th, 1981',
         title: 'Solidarity Day March (1981)',
         imgSrc: require('./assets/eventPhotos/Events/solidarityDayMarch.jpg'),
-        description: `The Solidarity Day March was a large political rally, held on this day in 1981 in Washington D.C. in support of striking air traffic controller workers fired by President Ronald Reagan. The March was organized and sponsored by the AFL-CIO, and came a few weeks into the Professional Air Traffic Controllers Organization (PATCO) strike. It was the first major demonstration to have been organized for decades by the AFL-CIO.\n\nUltimately, the rally's show of support was ineffectual; PATCO was de-certified as a union and the striking ATC workers did not get their jobs back.\n\nA 2nd Solidarity March was held near the 10 year anniversary of the original Solidary Day March and drew between 250,000 and 325,000 people. Union members, in the wake of the Gulf War, called on the federal government to turn its attention away from foreign affairs and to focus on domestic issues like improving health care and education and supporting workers' rights. Approximately 250,000-500,000 people took part in either event.`,
+        description: `The Solidarity Day March was a large political rally held on this day in 1981 in Washington D.C. to support striking air traffic controller workers fired by President Ronald Reagan. The March was organized and sponsored by the AFL-CIO, and came a few weeks into the Professional Air Traffic Controllers Organization (PATCO) strike.\n\nIt was the first major demonstration organized in decades by the AFL-CIO. Ultimately, the rally's show of support was ineffectual; PATCO was de-certified as a union and the striking ATC workers did not get their jobs back.\n\nA 2nd Solidarity March was held near the 10 year anniversary of the original Solidary Day March. Union members, in the wake of the Gulf War, called on the federal government to turn its attention away from foreign affairs and to focus on domestic issues like improving health care and education and supporting workers' rights. Approximately 250,000-500,000 people took part in either event.`,
         link: 'https://www.washingtonpost.com/archive/politics/1981/09/20/250000-march-to-protest-reagans-policies/680f4df6-905b-443a-859f-10d8fd3c6a04/',
         infoSrc: 'https://en.wikipedia.org/wiki/Solidarity_Day_march'
       },
@@ -19025,7 +19034,7 @@ export const eventLibrary = {
         date: 'September 19th, 1956',
         title: 'PAIGC Founded (1956)',
         imgSrc: require('./assets/eventPhotos/Organizations/PAIGC.png'),
-        description: `The African Party for the Independence of Guinea and Cape Verde (Portuguese: Partido Africano para a Independência da Guiné e Cabo Verde, PAIGC) is a political party in Guinea-Bissau that was founded on this day in 1959. It had six founding members, including Amílcar Cabral and his half-brother Luís.\n\nOriginally formed to peacefully campaign for independence from Portugal, the party turned to armed conflict after the Pidjiguiti Massacre in 1959, where police fired into a crowd of striking workers, killing dozens.\n\nPAIGC was one of the belligerents in the Guinea-Bissau War of Independence, fought against Portugal. Towards the end of the war, the party established a Marxist-Leninist one-party state, which remained intact until multi-party democracy was introduced in the early 1990s.`,
+        description: `The African Party for the Independence of Guinea and Cape Verde (PAIGC) is a political party in Guinea-Bissau that was founded on this day in 1959. It had six founding members, including Amílcar Cabral and his half-brother Luís.\n\nOriginally formed to peacefully campaign for independence from Portugal, the party turned to armed conflict after the Pidjiguiti Massacre in 1959, where police fired into a crowd of striking workers, killing dozens.\n\nPAIGC was one of the belligerents in the Guinea-Bissau War of Independence, fought against Portugal. Towards the end of the war, the party established a Marxist-Leninist one-party state, which remained intact until multi-party democracy was introduced in the early 1990s.`,
         link: 'https://uca.edu/politicalscience/dadm-project/sub-saharan-africa-region/portuguese-guinea-1951-1974/',
         infoSrc: 'https://en.wikipedia.org/wiki/African_Party_for_the_Independence_of_Guinea_and_Cape_Verde'
       },
@@ -19069,7 +19078,7 @@ export const eventLibrary = {
         date: 'September 20th, 1899',
         title: 'Havana General Strike (1899)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: `In the aftermath of the U.S. military occupation of Cuba, a gathering of thousands of workers in Havana launched a general strike for the eight-hour day in September 1899.\n\nThe striking workers issued a statement, saying "...we have determined to promote the struggle between the worker and the capitalist. For the workers of Cuba will no longer tolerate remaining in total subjection." The American General William Ludlow ordered the mayor of Havana to arrest eleven strike leaders, and U.S. troops occupied railroad stations and docks.\n\nOn this day that year, the Los Angeles Herald reported "The strike has assumed serious proportions. It is now estimated that there are 32,000 striking masons, painters, carpenters, cartmen and laundry workers, and if, as is threatened, the hackmen, stevedores and strike, within the next few days there will be another 4000...".`,
+        description: `In the aftermath of the U.S. military occupation of Cuba, a gathering of thousands of workers in Havana launched a general strike for the eight-hour day in September 1899.\n\nThe striking workers issued a statement, saying "...we have determined to promote the struggle between the worker and the capitalist. For the workers of Cuba will no longer tolerate remaining in total subjection." The American General William Ludlow ordered the mayor of Havana to arrest eleven strike leaders, and U.S. troops occupied railroad stations and docks.\n\nOn this day in 1899, the Los Angeles Herald reported "The strike has assumed serious proportions. It is now estimated that there are 32,000 striking masons, painters, carpenters, cartmen and laundry workers, and if, as is threatened, the hackmen, stevedores and strike, within the next few days there will be another 4000...".`,
         link: 'https://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LAH18990921.2.97&e=-------en--20--1--txt-txIN--------1',
         infoSrc: 'https://www.historyisaweapon.com/defcon1/zinnempire12.html'
       },
@@ -19080,7 +19089,7 @@ export const eventLibrary = {
         date: 'September 20th, 1878',
         title: 'Upton Sinclair (1878 - 1968)',
         imgSrc: require('./assets/eventPhotos/Individuals/uptonSinclair.jpg'),
-        description: `Upton Beall Sinclair Jr. was an American writer who wrote nearly 100 books and other works in several genres. Sinclair was an outspoken socialist, and his books are particularly notable for depicting the scandalous working conditions of the laboring class, particularly in the book "The Jungle".\n\nSinclair was inspired to write "The Jungle" after spending six months researching the Chicago meatpacking industry. His descriptions of the unsanitary and inhumane conditions that workers suffered served to shock and galvanize readers. Jack London called Sinclair's book "the Uncle Tom's Cabin of wage slavery", and it caused the domestic and foreign purchases of American meat fell by half, leading to federal regulation of the meat industry.\n\nIt is worth noting that Sinclair was a racist. With the income from "The Jungle", he founded the utopian community Helicon Home Colony in Englewood, New Jersey, which excluded black and Jewish people. The colony burned down under suspicious circumstances within a year.\n\nIn the 1920s, Sinclair moved to Monrovia, California (near Los Angeles), where he founded the state's chapter of the American Civil Liberties Union. In 1934, Sinclair ran in the California gubernatorial election as a Democrat. Sinclair's platform, known as the End Poverty in California movement (EPIC), galvanized the support of the Democratic Party. Sinclair gained its nomination, but was defeated by the incumbent Frank Merriam.`,
+        description: `Upton Beall Sinclair Jr., born on this day in 1878, was an American writer who wrote nearly 100 books and other works in several genres. Sinclair was an outspoken socialist, and his books are particularly notable for depicting the scandalous working conditions of the laboring class, particularly in the book "The Jungle".\n\nSinclair was inspired to write "The Jungle" after spending six months researching the Chicago meatpacking industry. His descriptions of the unsanitary and inhumane conditions that workers suffered served to shock and galvanize readers. Jack London called Sinclair's book "the Uncle Tom's Cabin of wage slavery", and it caused the domestic and foreign purchases of American meat fell by half, leading to federal regulation of the meat industry.\n\nIt is worth noting that Sinclair was a racist. With the income from "The Jungle", he founded the utopian community Helicon Home Colony in Englewood, New Jersey, which excluded black and Jewish people. The colony burned down under suspicious circumstances within a year.\n\nIn the 1920s, Sinclair moved to Monrovia, California (near Los Angeles), where he founded the state's chapter of the American Civil Liberties Union. In 1934, Sinclair ran in the California gubernatorial election as a Democrat. Sinclair's platform, known as the End Poverty in California movement (EPIC), galvanized the support of the Democratic Party. Sinclair gained its nomination, but was defeated by the incumbent Frank Merriam.`,
         link: 'https://www.britannica.com/biography/Upton-Sinclair',
         infoSrc: 'https://en.wikipedia.org/wiki/Upton_Sinclair'
       },
@@ -19109,7 +19118,7 @@ export const eventLibrary = {
         date: 'September 20th, 1973',
         title: 'Frank Teruggi (1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/frankTeruggi.jpg'),
-        description: `Frank Teruggi, Jr. (1949 - 1973) was an American student, journalist, and member of the Industrial Workers of the World (IWW) from Chicago, Illinois.\n\nOn this day in 1973, just nine days after the Chilean Coup of 1973, Teruggi became one of the victims of General Augusto Pinochet's military. He was seized at his home and taken to the National Stadium in Santiago, which had been turned into an ad hoc concentration camp where prisoners were interrogated and tortured and many were executed.\n\nIn Costa-Gavras's film "Missing", Teruggi is depicted as a contributor for a small newspaper and friend of journalist Charles Horman, who had spoken with several US operatives that assisted the Chilean military government. The film alleges that Horman's discovery of US complicity in the coup led to his secret arrest, disappearance, and execution.\n\nIn 2011, Chilean judge Jorge Zepeda indicted Ray E. Davis, commander of the U.S. Military Group in Chile during the time of the coup, along with Pedro Espinoza, a Chilean general, and Rafael González Verdugo, a member of Chilean army intelligence, in the murders of Frank Teruggi and Charles Horman. Teruggi and Horman were merely two among 40,000 held at the Stadium.`,
+        description: `Frank Teruggi, Jr. (1949 - 1973) was an American student, journalist, and member of the Industrial Workers of the World (IWW) from Chicago, Illinois.\n\nOn this day in 1973, just nine days after the Chilean Coup of 1973, Teruggi became a victim of General Augusto Pinochet's political repression. He was seized at his home and taken to the National Stadium in Santiago, which had been turned into an ad hoc concentration camp where prisoners were interrogated and tortured and many were executed.\n\nIn Costa-Gavras's film "Missing", Teruggi is depicted as a contributor for a small newspaper and friend of journalist Charles Horman, who had spoken with several US operatives that assisted the Chilean military government. The film alleges that Horman's discovery of US complicity in the coup led to his secret arrest, disappearance, and execution.\n\nIn 2011, Chilean judge Jorge Zepeda indicted Ray E. Davis, commander of the U.S. Military Group in Chile during the time of the coup, along with Pedro Espinoza, a Chilean general, and Rafael González Verdugo, a member of Chilean army intelligence, in the murders of Frank Teruggi and Charles Horman. Teruggi and Horman were merely two among 40,000 held at the Stadium.`,
         link: 'https://libcom.org/library/killers-iww-member-frank-teruggi-sentenced-chile',
         infoSrc: 'https://en.wikipedia.org/wiki/Frank_Teruggi'
       },
@@ -19118,7 +19127,7 @@ export const eventLibrary = {
         date: 'September 20th, 1763',
         title: 'Gabriela Silang (1763)',
         imgSrc: require('./assets/eventPhotos/Individuals/gabrielaSilang.jpg'),
-        description: `María Josefa Gabriela Cariño de Silang (1731 - 1763) was a Filipina revolutionary leader best known as the first female leader of an Ilocano movement for independence from Spain (Ilocanos are the third largest Filipino ethnolinguistic group that mostly reside within the Ilocos Region in northwestern Philippines).\n\nAfter the capture of Manila by the British, her husband Diego Silang sought to initiate an armed struggle to overthrow the Spanish functionaries in Ilocos and replace them with native-born officials. Notably, they co-operated with the British in this effort, who appointed Diego governor of the Ilocos region on their behalf.\n\nGabriela took over the reins of her husband's revolutionary movement after his assassination in 1763, leading the Ilocano rebels for four months before being captured and executed on this day that year by the colonial government of the Spanish East Indies.`,
+        description: `María Josefa Gabriela Cariño de Silang (1731 - 1763) was a Filipina revolutionary leader best known as the first female leader of an Ilocano movement for independence from Spain. Ilocanos are the third largest Filipino ethnolinguistic group that mostly reside within the Ilocos Region in northwestern Philippines.\n\nAfter the capture of Manila by the British, her husband Diego Silang sought to initiate an armed struggle to overthrow the Spanish functionaries in Ilocos and replace them with native-born officials. Notably, they co-operated with the British in this effort, who appointed Diego governor of the Ilocos region on their behalf.\n\nGabriela took over the reins of her husband's revolutionary movement after his assassination in 1763, leading the Ilocano rebels for four months before being captured and executed on this day that year by the colonial government of the Spanish East Indies.`,
         link: 'https://liberationschool.org/07-04-27-gabriela-silang-anticolonial-f-html/',
         infoSrc: 'https://en.wikipedia.org/wiki/Gabriela_Silang'
       },
@@ -19129,7 +19138,7 @@ export const eventLibrary = {
         date: 'September 20th, 1915',
         title: 'New Zealand Censors the IWW (1915)',
         imgSrc: require('./assets/eventPhotos/Organizations/IWW.png'),
-        description: `In the political climate of World War I, the government of New Zealand cracked down on dissident press and actions. The New Zealand International Workers of the World branch (founded in 1907) was an explicit target of the new censorship measures.\n\nOn this day in 1915, by an Order of the Council, the government specifically prohibited the "importation into New Zealand of the newspapers called Direct Action and Solidarity, and all other printed matter published by or on behalf of the society known as 'The Industrial Workers of the World.'" According to author Jared Davidson, Direct Action was "a lively newspaper published by the Australian IWW that found its way to New Zealand via seamen crossing the Tasman, or by mail."\n\nIn the following years, members of the IWW, labor activists, and political radicals such as Charles Johnson, Philip Josephs, and William Bell were imprisoned. Surveillance of the IWW continued for several years after the conclusion of World War I.`,
+        description: `In the political climate of World War I, the government of New Zealand cracked down on dissident press and actions. The New Zealand International Workers of the World branch (founded in 1907) was an explicit target of the new censorship measures.\n\nOn this day in 1915, the government prohibited the "importation into New Zealand of the newspapers called Direct Action and Solidarity, and all other printed matter published by or on behalf of the society known as 'The Industrial Workers of the World.'" According to author Jared Davidson, Direct Action was "a lively newspaper published by the Australian IWW that found its way to New Zealand via seamen crossing the Tasman, or by mail."\n\nIn the following years, members of the IWW, labor activists, and political radicals such as Charles Johnson, Philip Josephs, and William Bell were imprisoned. Surveillance of the IWW continued for several years after the conclusion of World War I.`,
         link: 'http://libcom.org/history/country-considered-be-free',
         infoSrc: 'http://libcom.org/history/reds-wobblies-working-class-radicalism-state-new-zealand-1915-1925'
       },
@@ -19416,13 +19425,31 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Rebellion',
+        date: 'September 24th, 2003',
+        title: 'Israeli Pilots Refuse to Fly (2003)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On this day in 2003, 27 Israeli pilots refused to fly assassination missions, referring to them as "illegal and immoral". This was declared in an open letter, and in opposition of Israel's policy of assassinating activists of Hamas, Islamic Jihad, and the Al-Aqsa Martyrs' Brigade.\n\nSince August 19th of that year, Israel's airforce had killed 12 Hamas members and four bystanders. Over the past two years Israel's "targeted assassinations" had killed dozens of bystanders, using bombs wieghing up to one ton in densely populated areas of the Gaza Strip.`,
+        link: 'http://archive.boston.com/news/world/articles/2003/09/25/27_israeli_pilots_refuse_raid_duty/',
+        infoSrc: 'https://libcom.org/library/israel-pilots-refuse-assassination-missions'
+      },
+      {
+        category: 'Rebellion',
+        date: 'September 24th, 1994',
+        title: 'Anti-Water Charges Strike (1994)',
+        imgSrc: require('./assets/eventPhotos/Events/abolishWaterStrikes.jpg'),
+        description: `On this day in 1994, in opposition to higher water bills, activists organized a Federation of Dublin Anti-Water Charges Campaigns (FDAWCC). A protest march five hundred strong took place in the city center in Novemmber, and over the course of late 1994/early 1995 nearly every house in Fingal and South Dublin had received a leaflet from the campaign.\n\nIn response to people not paying water bills, the city declared that, if people didn't pay their outstanding bills within a certain number of days, they would begin cutting off people's water supply. In response the community followed and spied on water inspectors, in order to prevent them from shutting off the water supply to various homes.\n\nLegal action escalated, and some residents were called into court over unpaid water charges. Despite this, very few people were actually issued disconnections, and more than 50% of houses were not paying their water bills. Finally, on December 19th, 1996 the Minister for the Environment announced that the water charge would be done away with.`,
+        link: 'https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_the_Republic_of_Ireland#Development_of_water_charges',
+        infoSrc: 'https://libcom.org/history/articles/dublin-water-charge-campaign-1996'
+      },
+      {
+        category: 'Rebellion',
+        date: 'September 24th, 1968',
+        title: 'Milwaukee Fourteen (1968)',
+        imgSrc: require('./assets/eventPhotos/Events/milwaukee14.jpg'),
+        description: `The Milwaukee Fourteen were fourteen peace activists who burned Selective Service records to protest the Vietnam War on this day in 1968. As a group, they entered a building that held documents of nine draft boards, gathered up 10,000 files, carried them to an open public space, and set them on fire with homemade napalm.\n\nThe fourteen then remained at the site, singing and reading from the gospels of John and Luke as Milwaukee firemen and police officers arrived. Similar acts of rebellion took place in protest of the Vietnam War draft. Earlier in 1968, the Catonsville Nine burned 378 draft files. In 1971, the Camden 28 attempted a similar protest, however the FBI had infiltrated their group and arrested them mid-break-in.\n\nHoward Zinn testified in support of the Milwaukee Fourteen at their trial, however he was cut off from speaking by the judge. After eleven days, the defendants were each found guilty of theft, arson, and burglary.`,
+        link: 'https://en.wikipedia.org/wiki/Milwaukee_Fourteen',
+        infoSrc: 'https://www.zinnedproject.org/news/tdih/milwaukee-14-burn-draft-cards/'
       },
     ],
     'Labor': [
@@ -19460,13 +19487,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'September 24th, 1918',
+        title: 'Canada Bans IWW (1918)',
+        imgSrc: require('./assets/eventPhotos/Organizations/IWW.png'),
+        description: `On this day in 1918, a Canadian federal order declared that, while Canada was engaged in war, fourteen organizations were unlawful, including the International Workers of the World (IWW). Penalty for membership was set at 5 years in prison, to be served in one of 24 internment camps.\n\nThe same order banned meetings conducted in the language of any enemy country (German, Bulgarian, Hungarian, Turkish, etc.) or in Russian, Ukrainian or Finnish (except for religious services).\n\nNotably, an organization in Western Canada called the One Big Union (OBU) was formed in 1919, and its philosophy of industrial unionism was closely aligned with those of the IWW.`,
+        infoSrc: 'https://canadianlabour.ca/industrial-workers-of-the-world-iww-declared-illegal-in-canada/',
+        link: 'https://libcom.org/library/iww-canada-g-jewell'
       },
     ],
   },
@@ -19486,11 +19513,20 @@ export const eventLibrary = {
       {
         category: 'Rebellion',
         date: 'September 25th, 1800',
-        title: 'Gabriel Prosser Captured (1775 - 1800)',
+        title: 'Gabriel Prosser Captured (1800)',
         imgSrc: require('./assets/eventPhotos/Individuals/gabrielProsser.jpg'),
-        description: `Gabriel Prosser was the leader of an unsuccessful slave revolt in Richmond, Virginia in 1800. Little is known of Prosser's life before the revolt that catapulted him into notoriety. Prosser's two brothers, Solomon and Martin and his wife, Nanny, were all owned by Thomas Prosser and all participated in the insurrection.\n\nAt the time of the insurrection, Gabriel Prosser was twenty-four years old, six feet two inches, literate, and a blacksmith by trade. He was described by a contemporary as "a fellow of courage and intellect above his rank in life." With the help of other slaves, Prosser devised a plan to seize control of Richmond by killing all of the whites (except the Methodists, Quakers and Frenchmen) and then establishing a Kingdom of Virginia with himself as monarch.\n\nUnfortunately, Prosser was betrayed twice - first by his fellow slaves, who told their owner about his plan, and then by slaves in Norfolk, who turned a fleeing Prosser in to the authorities for a bounty. It was on this day in 1800 that Prosser was captured. He was executed, along with two of his brothers and 23 other slaves, a few weeks later on October 6th.`,
+        description: `Gabriel Prosser (1775 - 1800) was the leader of an unsuccessful slave revolt in Richmond, Virginia. Little is known of Prosser's life before the revolt that catapulted him into notoriety. Gabriel's two brothers, Solomon and Martin and his wife, Nanny, were all owned by Thomas Prosser and all participated in the insurrection.\n\nAt the time of the insurrection, Gabriel Prosser was twenty-four years old, six feet two inches, literate, and a blacksmith by trade. He was described by a contemporary as "a fellow of courage and intellect above his rank in life." With the help of other slaves, Prosser devised a plan to seize control of Richmond by killing all of the whites (except the Methodists, Quakers and Frenchmen) and then establishing a Kingdom of Virginia with himself as monarch.\n\nUnfortunately, Prosser was betrayed twice - first by his fellow slaves, who told their owner about his plan, and then by slaves in Norfolk, who turned a fleeing Prosser in to the authorities for a bounty. On this day in 1800, Prosser was captured. He was executed along with two of his brothers and 23 other slaves a few weeks later on October 6th.`,
         link: 'https://en.wikipedia.org/wiki/Gabriel_Prosser',
         infoSrc: 'https://www.blackpast.org/african-american-history/prosser-gabriel-1775-1800/'
+      },
+      {
+        category: 'Rebellion',
+        date: 'September 25th, 1919',
+        title: 'Anarchists Bomb Bolshevik HQ (1919)',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: `On this day in 1919, a group known as the "Underground Anarchists" in Russia bombed Bolshevik headquarters in Moscow, during a plenary meeting. Twelve communists were killed and fifty-five others were wounded, including eminent Bolshevik theorist and Pravda editor Nikolai Bukharin.\n\nAccording to Alexander Berkman:\n\n"The Anarchist organisations of Moscow, not considering terrorism a solution of the difficulties, publicly expressed disapproval of the tactics of the underground group. The government, however, replied with repressions against all Anarchists. Many members of the underground group were executed, a number of Moscow Anarchists were arrested, and in the provinces every expression of the Anarchist movement was suppressed."`,
+        link: 'http://dwardmac.pitzer.edu/Anarchist_archives/bright/berkman/iish/rusrev/russianrevandcp.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Lev_Chernyi'
       },
     ],
     'Labor': [
@@ -19697,13 +19733,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'September 28th, 1985',
+        title: 'Brixton Riot (1985)',
+        imgSrc: require('./assets/eventPhotos/Events/brixtonRiot.jpg'),
+        description: `On this day in 1981, the Brixton riot began after police in London Metropolitan Police shot and paralyzed Jamaican immigrant Dorothy Groce. Groce was shot during a police raid on her home in which police were looking for her son, who was not home at the time.\n\nAs word of the shooting spread, a group of more than 60 people formed outside Groce's house, later moving to the local district police station, chanting anti-police slogans and demanding disciplinary action against the officers involved.\n\nThere, hostility between the largely black crowd and the largely white police force quickly escalated violence, and then riot. Police lost control of the area for the next two days. Police, community residents, and bypassers were all attacked, leading to the death of at least one person and injuring dozens.\n\nDorothy Groce received later received over £500,000 in compensation from the Metropolitan Police, but with no admission of liability. In 2014, three years after her death, the police issued a formal apology for her shooting.`,
+        link: 'http://news.bbc.co.uk/onthisday/hi/dates/stories/september/28/newsid_2540000/2540397.stm',
+        infoSrc: 'https://en.wikipedia.org/wiki/1985_Brixton_riot'
       },
     ],
     'Labor': [
@@ -19730,13 +19766,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'September 28th, 1991',
+        title: 'Shankar Guha Niyogi (1991)',
+        imgSrc: require('./assets/eventPhotos/Individuals/shankarNiyogi.jpg'),
+        description: `Shankar Guha Niyogi (1943 - 1991) was a Marxist Indian labor organizer who was assassinated in his sleep on this day in 1991. Niyogi founded "Chhattisgarh Mukti Morcha", a union run in the town of Dalli Rajhara Mines in Chhattisgarh. Because of his unionization efforts, Niyogi was repeatedly arrested, harassed, and threatened.\n\nOn September 28th, 1991, Niyogi was shot and killed in his sleep, allegedly at the instance of some industrialists who felt threatened by his struggles. His murder trial generated tremendous controversy, as a lower court awarded strict punishments to all suspects, but higher courts later convicted just one suspect and let off two industrialists implicated in the crime.`,
+        link: 'https://web.archive.org/web/20080821041615/http://www.hinduonnet.com/fline/fl2205/stories/20050311001004400.htm#',
+        infoSrc: 'https://thewire.in/labour/shankar-guha-niyogi'
       },
     ],
     'Other': [
@@ -19745,7 +19781,7 @@ export const eventLibrary = {
         date: 'September 28th, 1864',
         title: 'First International Founded (1864)',
         imgSrc: require('./assets/eventPhotos/Organizations/firstInternational.png'),
-        description: `The International Workingmen's Association (IWA), often called the First International, was an international organization which aimed at uniting a variety of different left-wing ideologies and trade unions that were based on the working class and class struggle. It was founded in 1864 in a workmen's meeting held in St. Martin's Hall, London.\n\nNotable members of the IWA included Pierre-Joseph Proudhon, Wilhelm Liebknecht, Louis Auguste Blanqui, Karl Marx, and Mikhail Bakunin. The organization was polarized on the issue of state power (followers of Bakunin and Proudhon categorically opposed state power and considered Marx's ideas inherently authoritarian), and split on this basis after its Fifth Congress in 1872.`,
+        description: `The International Workingmen's Association (IWA), often called the First International, was an international organization which aimed at uniting a variety of different left-wing ideologies and trade unions that were based on the working class and class struggle. The IWA was founded in 1864 in a meeting held in St. Martin's Hall, London.\n\nNotable members of the IWA included Pierre-Joseph Proudhon, Wilhelm Liebknecht, Louis Auguste Blanqui, Karl Marx, and Mikhail Bakunin. The organization was polarized on the issue of state power (followers of Bakunin and Proudhon categorically opposed state power and considered Marx's ideas inherently authoritarian), and split on this basis after its Fifth Congress in 1872.`,
         link: 'https://www.marxists.org/archive/steklov/history-first-international/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/International_Workingmen%27s_Association'
       },
@@ -20653,13 +20689,22 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'October 11th, 1972',
+        title: 'El Centro de la Raza Founded (1972)',
+        imgSrc: require('./assets/eventPhotos/Events/centroRaza.jpg'),
+        description: `On this day in 1972, members of the ESL program at South Seattle Community College occupied a vacant school building in Seattle's Beacon Hill neighborhood and founded El Centro de la Raza ("The Center for the People of All Races"). The activists were inspired by the 1970 occupation of the decommissioned Fort Lawton in Seattle's Magnolia neighborhood by Native Americans, which resulted in the founding of the "Daybreak Star Cultural Center".\n\nAfter three months of occupying the building and numerous rallies, petitions and letters, the Seattle City Council finally agreed to hear their case. The City Council approved the lease, but Mayor Wes Uhlman vetoed the action, causing supporters to then occupy the mayor's office. A five-year lease signed January 20th, 1973, at $1 rent annually.\n\nToday, El Centro de la Raza continues to function as an educational, cultural, and social service agency. It is considered a significant part of civil rights history in the Pacific Northwest. In 2015, El Centro de la Raza built more than one hundred moderately-priced apartments south of its main building. The apartments are designed for families making 30-60% of the average median annual income in Seattle, or $24,000 to $49,000.`,
+        link: 'http://www.elcentrodelaraza.org/history-evolution/',
+        infoSrc: 'https://en.wikipedia.org/wiki/El_Centro_de_la_Raza'
+      },
+      {
+        category: 'Rebellion',
+        date: 'October 11th, 1972',
+        title: 'D.C. Jail Uprising (1972)',
+        imgSrc: require('./assets/eventPhotos/Events/dcJailUprising.jpg'),
+        description: `On this day in 1972, inmates at a Washington, D.C. jail seized control of part of their prison, taking hostages and demanding to be released.\n\nThe uprising began when an inmate, pretending to have a seizure, drew a loaded .38 pistol on the two officers that came to check on him. After subduing the officers, they freed 50 other inmates and took control of the cellblock, capturing several other guards as hostages in the process.\n\nThe inmates demanded to speak to a prison reporter, Washington Claiborne. Inmates issued varying statements to him that indicated a revolutionary fervor among prisoners:\n\n"We don't want nothin' but the sidewalk. What do you think we want, better food? Bullshit. We want the sidewalk, man."\n\n"We want you to understand one thing very clearly. This is not a riot, it's a revolution."\n\n"We ain't bitches, man. We don’t mind dying for the fucking cause."\n\nPrison negoitators eventually got the inmates to back off of demanding release, but only in exchange for the opportunity to go before a federal judge to air their grievances about the jail and the promise of no reprisals for their actions. The inmates got their hearing, and a new facility was built. Despite the promise of no reprisals, all nine inmates who participated in the uprising were prosecuted and convicted on various charges.`,
+        link: 'https://dccrimeandpunishment.wordpress.com/2013/10/11/crime-history-oct-11-1972-inmates-at-d-c-jail-hold-corrections-officials-hostage/',
+        infoSrc: 'https://boundarystones.weta.org/2018/10/15/hostage-standoff-dc-jail-october-11-1972'
       },
     ],
     'Labor': [
