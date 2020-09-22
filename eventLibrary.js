@@ -8902,13 +8902,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'May 5th, 1937',
+        title: 'Camillo Berneri (1897 - 1937)',
+        imgSrc: require('./assets/eventPhotos/Individuals/camilloBerneri.jpg'),
+        description: `Camillo Berneri (1897 - 1937) was an Italian professor of philosophy and anarchist militant who was assassinated in Barcelona, Spain on this day in 1937.\n\nBorn in northern Italy, Berneri joined the Italian anarchist movement at a young age. When fascists seized power in Italy, Camillo was a militant dissenter, active with the Union of Italian Anarchists. In May 1926, Berneri became a political refugee, fleeing to France with his family.\n\nWhen the Spanish Civil War broke out, Berneri rushed to Catalonia, the center of a revolution spearheaded by the Confederación Nacional del Trabajo (CNT). Together with Carlo Rosselli, he organized the first column of Italian volunteers to fight on the Aragon front, which were incorporated into the militia column of Joaquín Ascaso.\n\nOn this day in 1937, Camillo Berneri and his anarchist friend Francesco Barbieri were taken out of their apartment by a dozen plainclothes men with red armbands and policemen. The corpses of the two Italian anarchists were later found riddled with bullets. It is speculated that the Soviet Union, which suppressed anarchist movements in Spain, was responsible for the killings.`,
+        link: 'https://theanarchistlibrary.org/category/author/camillo-berneri',
+        infoSrc: 'https://en.wikipedia.org/wiki/Camillo_Berneri'
       },
     ],
     'Other': [
@@ -13651,9 +13651,9 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'July 10th, 1946',
-        title: 'Stuart Christie (1946 - )',
+        title: 'Stuart Christie (1946 - 2020)',
         imgSrc: require('./assets/eventPhotos/Individuals/stuartChristie.jpg'),
-        description: `Stuart Christie, born on this day in 1946, is a Scottish anarchist writer and publisher. When he was eighteen years old, Christie was arrested while carrying explosives to assassinate the Spanish dictator, General Francisco Franco. Charged with "banditry and terrorism", he served three years of a twenty year stence before international pressure won him an early release.\n\nChristie is also known for his 2004 book "Granny Made Me an Anarchist" and went on to found the Cienfuegos Press publishing house and the online Anarchist Film Channel, which hosts films and documentaries with anarchist and libertarian socialist themes.`,
+        description: `Stuart Christie, born on this day in 1946, was a Scottish anarchist writer and publisher. When he was eighteen years old, Christie was arrested while carrying explosives to assassinate the Spanish dictator, General Francisco Franco. Charged with "banditry and terrorism", he served three years of a twenty year stence before international pressure won him an early release.\n\nChristie was also known for his 2004 book "Granny Made Me an Anarchist" and went on to found the Cienfuegos Press publishing house and the online Anarchist Film Channel, which hosts films and documentaries with anarchist and libertarian socialist themes.`,
         link: 'https://tahriricn.wordpress.com/2013/05/03/interview-with-anarchist-stuart-christie/',
         infoSrc: 'https://en.wikipedia.org/wiki/Stuart_Christie'
       },
@@ -19184,7 +19184,7 @@ export const eventLibrary = {
         date: 'September 21st, 1909',
         title: 'Kwame Nkrumah (1909 - 1972)',
         imgSrc: require('./assets/eventPhotos/Individuals/kwameNkrumah.jpg'),
-        description: `Kwame Nkrumah was a Ghanaian politician and revolutionary. He was the first Prime Minister and President of Ghana, having led the Gold Coast to independence from Britain in 1957. An influential advocate of pan-Africanism, Nkrumah was a founding member of the Organization of African Unity and winner of the Lenin Peace Prize from the Soviet Union in 1962.\n\nIn 1960, Ghanaians approved a new constitution and elected Nkrumah President. His administration funded national industrial and energy projects, developed a strong national education system and promoted a pan-Africanist culture. Under Nkrumah, Ghana played a leading role in African international relations during the decolonization period.\n\nIn 1964, a constitutional amendment made Ghana a one-party state, with Nkrumah as president for life of both the nation and its party. Nkrumah was deposed in 1966 by the National Liberation Council which under the supervision of international financial institutions privatized many of the country's state corporations. John Stockwell, a former CIA agent, wrote that the CIA was intimately involved in the coup that ousted him from power.\n\nNkrumah lived the rest of his life in Guinea, of which he was named honorary co-president.`,
+        description: `Kwame Nkrumah was a Ghanaian politician and pan-African socialist revolutionary born on this day in 1909. He was the first Prime Minister and President of Ghana, having led the Gold Coast to independence from Britain in 1957. An influential advocate of pan-Africanism, Nkrumah was a founding member of the Organization of African Unity and winner of the Lenin Peace Prize from the Soviet Union in 1962.\n\nIn 1960, Ghanaians approved a new constitution and elected Nkrumah President. His administration funded national industrial and energy projects, developed a strong national education system and promoted a pan-Africanist culture. Under Nkrumah, Ghana played a leading role in African international relations during the decolonization period.\n\nIn 1964, a constitutional amendment made Ghana a one-party state, with Nkrumah as president for life of both the nation and its party. Nkrumah was deposed in 1966 by the National Liberation Council which under the supervision of international financial institutions privatized many of the country's state corporations. John Stockwell, a former CIA agent, wrote that the CIA was intimately involved in the coup that ousted him from power.\n\nNkrumah lived the rest of his life in Guinea, of which he was named honorary co-president.`,
         link: 'https://libcom.org/tags/kwame-nkrumah',
         infoSrc: 'https://en.wikipedia.org/wiki/Kwame_Nkrumah'
       },
@@ -19288,7 +19288,7 @@ export const eventLibrary = {
         date: 'September 22nd, 1928',
         title: 'James Lawson (1928 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/jamesLawson.jpg'),
-        description: `James Morris Lawson, Jr. (born on this day in 1928) is an American activist and university professor. He was a leading theoretician and tactician of nonviolence within the Civil Rights Movement. During the 1960s, he served as a mentor to the Nashville Student Movement and the Student Nonviolent Coordinating Committee.\n\nLawson was expelled from Vanderbilt University for his role in organizing the Nashville Sit-ins in 1960. He later served as a pastor in Los Angeles, California, for 25 years.`,
+        description: `James Morris Lawson, Jr., born on this day in 1928, is an American activist and university professor. He was a leading theoretician and tactician of nonviolence within the Civil Rights Movement. During the 1960s, he served as a mentor to the Nashville Student Movement and the Student Nonviolent Coordinating Committee.\n\nLawson was expelled from Vanderbilt University for his role in organizing the Nashville Sit-ins in 1960. He later served as a pastor in Los Angeles, California, for 25 years.`,
         link: 'http://repository.wustl.edu/concern/videos/mp48sf472',
         infoSrc: 'https://en.wikipedia.org/wiki/James_Lawson_(activist)'
       },
@@ -21144,24 +21144,33 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Labor',
+        date: 'October 17th, 1985',
+        title: 'Victoria Nurses Strike (1985)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On this day in 1985, thousands of nurses in Victoria, Australia went on an indefinite, state-wide strike for the first time in the country's history.\n\nThe strike was preceded by a breakdown in negotiations between the nurses' union, which was demanding a pay increase, and Health Minister David White. On October 11th, nurses held a meeting where they agreed to go strike the following week indefinitelys.\n\nOn Oct. 17th, they picketed hospitals, handed out leaflets to people on the street, and collected money. Most of them had never been on strike before, but they stood their ground in the face of widespread media criticism and outrage from government officials.\n\nThe strike ended after five days in only a partial victory for the workers. The government agreed to co-operate on some demands regarding staffing, but lower level nurses would get no wage increases - they would have to wait for arbitration. The following year, thousands of nurses in Victoria would go on strike on October 31st, but this time for fifty days.`,
+        link: 'https://libcom.org/history/1986-victoria-nurses-strike',
+        infoSrc: 'https://libcom.org/history/articles/victoria-nurses-strike-1985'
+      },
+      {
+        category: 'Labor',
+        date: 'October 17th, 1950',
+        title: 'Empire Zinc Strike (1950)',
+        imgSrc: require('./assets/eventPhotos/Events/empireZincStrike.jpg'),
+        description: `The Empire Zinc Strike, also known as the Salt of the Earth strike, was a 15-month-long miners' strike that began on this day in 1950 against the Empire Zinc Company for its discriminatory pay and housing practices. Later, workers also demanded indoor plumbing and hot water for Mexican-American homes as well.\n\nEmpire Zinc fought back by sending police to harass picketers, posting eviction notices on company houses, and cutting off credit to strikers at the company grocery store. Labor activist Clinton Jencks, who was the union's business agent, was arrested on strike and kept in solitary confinement for 16 months. After the company got a court injunction forbidding picketers to return to the picket line, the workers' wives and children took their place.\n\nAfter 15 months of a protest, the company came to an agreement with the striking workers on January 21st, 1952, giving the strikers nearly everything they asked for. The strike drew national attention, and, after it was settled in 1952, a movie entitled "Salt of the Earth" (1954) was released that offered a fictionalized version of events.`,
+        link: 'https://www.pri.org/stories/2019-06-13/and-they-will-inherit-it',
+        infoSrc: 'https://en.wikipedia.org/wiki/Empire_Zinc_strike'
       },
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 17th, 1915',
+        title: 'Pérez Collado (1915 - 2014)',
+        imgSrc: require('./assets/eventPhotos/Individuals/perezCollado.jpg'),
+        description: `Concha Pérez Collado, born on this day in 1915, was an anarchist involved with the Confederación Nacional del Trabajo (CNT) and freedom fighter in the Spanish Civil War.\n\nWhen the Civil War broke out, Collado already had access to weapons and training because she was part of an anarchist group that were preparing for what they saw as an inevitable military uprising. She saw action in Barcelona and Aragon, attacking prisons, building barricades for her neighborhood, and working in a munitions factory, before eventually moving to a French refugee camp where she gave birth to her only son.\n\nPérez Collado returned to Spain under Francisco Franco's rule and ran a jewelry shop with her partner Maurici Palau which doubled as a secret meeting place for anarchists. From 1982 to 1984, Collado participated in a series of interviews with Nick Rider about anarchism in Spain during the 1930s.`,
+        link: 'https://libcom.org/history/perez-concha-1915-2014',
+        infoSrc: 'https://en.wikipedia.org/wiki/Concha_P%C3%A9rez_Collado'
       },
     ],
     'Assassinations': [
@@ -21177,13 +21186,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 17th, 1961',
+        title: 'Paris Massacre (1961)',
+        imgSrc: require('./assets/eventPhotos/Events/parisMassacre1961.jpg'),
+        description: `The Paris Massacre was a brutal instance of police repression against Algerians that occurred on this day in 1961, during the Algerian War.\n\nThere were multiple episodes of violence between French police and the French Algerian community during the Algerian War. The police department was racist on an institutional level and terrorized Algerians with violence; pro-liberation Algerians targeted and killed police with bombing campaigns.\n\nIt was in this context that the head of the Parisian police, Maurice Papon (a former Nazi collaborator later convicted of crimes against humanity) ordered police to kill Algerians, insisting that they would be protected from any consequences.\n\nUnder these orders, the French National Police attacked a demonstration by 30,000 pro-National Liberation Front (FLN) Algerians on October 17th, beating dozens to death and throwing people into the Seine river, where many drowned. After 37 years of denial and censorship of the press, the French government finally acknowledged 40 deaths in 1998, although there are estimates of 100 to 300 victims.`,
+        link: 'https://www.france24.com/en/20121017-paris-massacre-algeria-october-17-1961-51-years-anniversary-historian-einaudi',
+        infoSrc: 'https://en.wikipedia.org/wiki/Paris_massacre_of_1961'
       },
     ],
   },
