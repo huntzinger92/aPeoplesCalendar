@@ -454,7 +454,7 @@ export const eventLibrary = {
         date: 'January 7th, 1884',
         title: 'Arturo Giovannitti (1884 - 1959)',
         imgSrc: require('./assets/eventPhotos/Individuals/arturoGiovannitti.jpg'),
-        description: `Arturo M. Giovannitti, born on this day in 1884, was an Italian-American union leader, socialist political activist, and poet. Giovannitti was a member of the International Workers of the World (IWW), and is best remembered for his leadership and subsequent arrest in the 1912 Lawrence Textile Strike.\n\nAlong with "Smiling Joe" Ettor, Giovannitti was sent to Lawrence to help rally and organize striking workers there. When a striking worker was shot and killed, Ettor and Giovannitti were arrested as accomplices to the murder on little to no evidence.\n\nWhile in jail, he wrote many poems, "The Walker" in particular becoming well-known. The trial made the textile strike a national controvery and resulted in "Big Bill" Haywood and Elizabeth Gurley Flynn coming in to lead the strike in their stead. Months after the strike itself ended, Ettor, Giovannitti, and a third co-defendant were acquitted of all charges.`,
+        description: `Arturo M. Giovannitti, born on this day in 1884, was an Italian-American union leader, socialist political activist, and poet. Giovannitti was a member of the Industrial Workers of the World (IWW), and is best remembered for his leadership and subsequent arrest in the 1912 Lawrence Textile Strike.\n\nAlong with "Smiling Joe" Ettor, Giovannitti was sent to Lawrence to help rally and organize striking workers there. When a striking worker was shot and killed, Ettor and Giovannitti were arrested as accomplices to the murder on little to no evidence.\n\nWhile in jail, he wrote many poems, "The Walker" in particular becoming well-known. The trial made the textile strike a national controvery and resulted in "Big Bill" Haywood and Elizabeth Gurley Flynn coming in to lead the strike in their stead. Months after the strike itself ended, Ettor, Giovannitti, and a third co-defendant were acquitted of all charges.`,
         link: 'https://www.historyisaweapon.com/defcon1/giovannittijury.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Arturo_Giovannitti'
       },
@@ -1868,7 +1868,7 @@ export const eventLibrary = {
         date: 'January 27th, 1850',
         title: 'Samuel Gompers (1850 - 1924)',
         imgSrc: require('./assets/eventPhotos/Individuals/samuelGompers.jpg'),
-        description: `Samuel Gompers, born on this day in 1850, was British immigrant to America and a key figure in American labor history. Gompers founded the American Federation of Labor (AFL), and served as the organization's president from 1886 to 1894, and from 1895 until his death in 1924. He promoted harmony among the different craft unions that comprised the AFL and supported collective bargaining to secure shorter hours and higher wages for laborers.\n\nAlthough Gompers began his career sympathetic to socialist and Georgist thought, he became increasingly conservative throughout his career, making "peace" with capitalist labor relations rather than seeking to abolish them. This led to a split in the labor movement, with the International Workers of the World (IWW) representing the more radical advocation of labor. Gompers successfully led the anti-socialist faction within the AFL.`,
+        description: `Samuel Gompers, born on this day in 1850, was British immigrant to America and a key figure in American labor history. Gompers founded the American Federation of Labor (AFL), and served as the organization's president from 1886 to 1894, and from 1895 until his death in 1924. He promoted harmony among the different craft unions that comprised the AFL and supported collective bargaining to secure shorter hours and higher wages for laborers.\n\nAlthough Gompers began his career sympathetic to socialist and Georgist thought, he became increasingly conservative throughout his career, making "peace" with capitalist labor relations rather than seeking to abolish them. This led to a split in the labor movement, with the Industrial Workers of the World (IWW) representing the more radical advocation of labor. Gompers successfully led the anti-socialist faction within the AFL.`,
         link: 'https://aflcio.org/about/history/labor-history-people/samuel-gompers',
         infoSrc: 'https://en.wikipedia.org/wiki/Samuel_Gompers'
       },
@@ -2219,7 +2219,7 @@ export const eventLibrary = {
         date: 'February 1st, 1931',
         title: 'Farabundo Martí (1893 - 1931)',
         imgSrc: require('./assets/eventPhotos/Individuals/farabundoMarti.jpg'),
-        description: `Agustín Farabundo Martí Rodríguez, popularly known as Farabundo Martí, was a Marxist-Leninist activist and a revolutionary leader in El Salvador during the 1932 Salvadoran peasant massacre. Martí is also known for co-founding of the Communist Party of Central America, as well as helping lead a communist alternative to the Red Cross known as "International Red Aid".\n\nIn 1931, Martí returned to El Salvador and helped start a guerrilla revolt of indigenous farmers. The Communist-led peasant uprising against dictator Maximiliano Hernández Martínez, fomented by collapsing coffee prices, enjoyed some initial success, but was soon drowned in a bloodbath, being crushed by the Salvadoran military ten days after it had begun. Over 30,000 indigenous people were killed at what was to be a "peaceful meeting" in 1932; this became known as "La Matanza" ("The Slaughter").\n\nFor his role in the uprising, Martí was executed by Salvadoran President Hernández Martínez.`,
+        description: `Agustín Farabundo Martí Rodríguez, popularly known as Farabundo Martí, was a Marxist-Leninist activist and a revolutionary leader in El Salvador during the 1932 Salvadoran peasant massacre. Martí is also known for co-founding of the Communist Party of Central America, as well as helping lead a communist alternative to the Red Cross known as "International Red Aid".\n\nIn 1931, Martí returned to El Salvador and helped start a guerrilla revolt of indigenous farmers. The Communist-led peasant uprising against dictator Maximiliano Hernández Martínez, fomented by collapsing coffee prices, enjoyed some initial success, but was soon drowned in a bloodbath, being crushed by the Salvadoran military ten days after it had begun. Over 30,000 indigenous people were killed at what was to be a "peaceful meeting" in 1932; this became known as "La Matanza" ("The Slaughter").\n\nFor his role in the uprising, Martí was executed on this day in 1931 by Salvadoran President Hernández Martínez.`,
         link: 'https://www.zinnedproject.org/news/tdih/la-matanza',
         infoSrc: 'https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD'
       },
@@ -6437,7 +6437,7 @@ export const eventLibrary = {
         date: 'April 1st, 1918',
         title: 'IWW Espionage Trial Begins (1918)',
         imgSrc: require('./assets/eventPhotos/Events/iwwTrial.jpg'),
-        description: `Using the newly passed Espionage Act of 1917 as justification, the Department of Justice raided forty-eight International Workers of the World (IWW) meeting halls on September 5th, 1917. The Department of Justice, with the approval of President Woodrow Wilson, then proceeded to arrest 165 IWW members for "conspiring to hinder the draft, encourage desertion, and intimidate others in connection with labor disputes."\n\nOf the 165 arrested, only 101 actually stood trial. The trial, which began on this day the next year, was unusual in the way that the prosection did not try to demonstrate the guilt of individuals, but rather to indict the IWW as a whole, by reading inflammatory passages from seized documents; accordingly, the defense testified about the plight of the working man and the evils of capitalism.\n\nAll defendants were found guilty on all charges brought by the prosecution, and many IWW members served several years in prison. Among those convicted was the "Big Bill" Haywood, a well-known leader of the IWW, however he skipped bail before his sentencing and fled to the Soviet Union, where he would spend the rest of his life.`,
+        description: `Using the newly passed Espionage Act of 1917 as justification, the Department of Justice raided forty-eight Industrial Workers of the World (IWW) meeting halls on September 5th, 1917. The Department of Justice, with the approval of President Woodrow Wilson, then proceeded to arrest 165 IWW members for "conspiring to hinder the draft, encourage desertion, and intimidate others in connection with labor disputes."\n\nOf the 165 arrested, only 101 actually stood trial. The trial, which began on this day the next year, was unusual in the way that the prosection did not try to demonstrate the guilt of individuals, but rather to indict the IWW as a whole, by reading inflammatory passages from seized documents; accordingly, the defense testified about the plight of the working man and the evils of capitalism.\n\nAll defendants were found guilty on all charges brought by the prosecution, and many IWW members served several years in prison. Among those convicted was the "Big Bill" Haywood, a well-known leader of the IWW, however he skipped bail before his sentencing and fled to the Soviet Union, where he would spend the rest of his life.`,
         link: 'https://www.thenation.com/article/archive/iww-trial/',
         infoSrc: 'https://depts.washington.edu/iww/justice_dept.shtml'
       },
@@ -8895,7 +8895,7 @@ export const eventLibrary = {
         date: 'May 5th, 1893',
         title: 'Farabundo Martí (1893 - 1931)',
         imgSrc: require('./assets/eventPhotos/Individuals/farabundoMarti.jpg'),
-        description: `Agustín Farabundo Martí Rodríguez, popularly known as Farabundo Martí, was a Marxist-Leninist activist and a revolutionary leader in El Salvador during the 1932 Salvadoran peasant massacre. Martí is also known for co-founding of the Communist Party of Central America, as well as helping lead a communist alternative to the Red Cross known as "International Red Aid".\n\nIn 1931, Martí returned to El Salvador and helped start a guerrilla revolt of indigenous farmers. The Communist-led peasant uprising against dictator Maximiliano Hernández Martínez, fomented by collapsing coffee prices, enjoyed some initial success, but was soon drowned in a bloodbath, being crushed by the Salvadoran military ten days after it had begun. Over 30,000 indigenous people were killed at what was to be a "peaceful meeting" in 1932; this became known as "La Matanza" ("The Slaughter").\n\nFor his role in the uprising, Martí was executed by Salvadoran President Hernández Martínez.`,
+        description: `Agustín Farabundo Martí Rodríguez, born on this day in 1893, was a Marxist-Leninist activist and a revolutionary leader in El Salvador during the 1932 Salvadoran peasant massacre. Martí is also known for co-founding of the Communist Party of Central America, as well as helping lead a communist alternative to the Red Cross known as "International Red Aid".\n\nIn 1931, Martí returned to El Salvador and helped start a guerrilla revolt of indigenous farmers. The Communist-led peasant uprising against dictator Maximiliano Hernández Martínez, fomented by collapsing coffee prices, enjoyed some initial success, but was soon drowned in a bloodbath, being crushed by the Salvadoran military ten days after it had begun. Over 30,000 indigenous people were killed at what was to be a "peaceful meeting" in 1932; this became known as "La Matanza" ("The Slaughter").\n\nFor his role in the uprising, Martí was executed by Salvadoran President Hernández Martínez.`,
         link: 'https://www.zinnedproject.org/news/tdih/la-matanza',
         infoSrc: 'https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD'
       },
@@ -9121,7 +9121,7 @@ export const eventLibrary = {
         date: 'May 8th, 1940',
         title: 'ACLU Expels Elizabeth Flynn (1940)',
         imgSrc: require('./assets/eventPhotos/Individuals/elizabethFlynn.jpg'),
-        description: `Elizabeth Gurley Flynn was a radical labor activist who co-founded International Workers of the World (IWW). She had a long history of labor organizing, playing a leading role in the Paterson Silk Strike of 1913 and a free speech fight in Spokane, Washington, where she chained herself to a lamppost to delay her inevitable arrest. She was also a member of the Communist Party of the United States of America, joining in 1936.\n\nOn this day in 1940, the leadership of the American Civil Liberties Union (ACLU), voted to expel labor radical and founding member Elizabeth Gurley Flynn for her Communist Party membership. In February 1940, the ACLU board and adopted a controversial resolution that effectively barred communists from serving. For her part, Elizabeth Gurley Flynn refused to leave, forcing the organization to vote to remove her.\n\nLater, the ACLU would also fail to come to the defense of one W.E.B. Du Bois, one its most prominent founding members who was also a communist, when he arrested and facing trial for gathering signatures for a global nuclear non-proliferation treaty in 1951.`,
+        description: `Elizabeth Gurley Flynn was a radical labor activist who co-founded Industrial Workers of the World (IWW). She had a long history of labor organizing, playing a leading role in the Paterson Silk Strike of 1913 and a free speech fight in Spokane, Washington, where she chained herself to a lamppost to delay her inevitable arrest. She was also a member of the Communist Party of the United States of America, joining in 1936.\n\nOn this day in 1940, the leadership of the American Civil Liberties Union (ACLU), voted to expel labor radical and founding member Elizabeth Gurley Flynn for her Communist Party membership. In February 1940, the ACLU board and adopted a controversial resolution that effectively barred communists from serving. For her part, Elizabeth Gurley Flynn refused to leave, forcing the organization to vote to remove her.\n\nLater, the ACLU would also fail to come to the defense of one W.E.B. Du Bois, one its most prominent founding members who was also a communist, when he arrested and facing trial for gathering signatures for a global nuclear non-proliferation treaty in 1951.`,
         link: 'https://en.wikipedia.org/wiki/Elizabeth_Gurley_Flynn',
         infoSrc: 'https://jacobinmag.com/2020/05/aclu-elizabeth-gurley-flynn-red-baiting'
       },
@@ -9573,7 +9573,7 @@ export const eventLibrary = {
         date: 'May 15th, 1893',
         title: 'Western Federation of Miners Founded (1893)',
         imgSrc: require('./assets/eventPhotos/Organizations/wfm.jpg'),
-        description: `The Western Federation of Miners (WFM) was a radical labor union that gained a reputation for militancy in the mines of the western United States and British Columbia. Its efforts to organize both hard rock miners and smelter workers brought it into sharp conflicts - and often pitched battles - with both employers and governmental authorities. It was one of the organizations at the heart of the Colorado Coal Wars.\n\nThe organization's earliest years were radical, adopting an explicitly socialist platform in 1901. "Big Bill" Haywood, who had joined the WFM as a secretary, was a prominent member during this time.\n\nThe WFM played a role in founding the International Workers of the World (IWW) in 1905, however the split between revolutionaries and reformists led to the WFM withdrawing from the organization several years later and joining the American Federation of Labor (AFL). Because of this, Haywood and prominent labor leader Vincent St. John quit the WFM and channeling their efforts through the IWW instead.`,
+        description: `The Western Federation of Miners (WFM) was a radical labor union that gained a reputation for militancy in the mines of the western United States and British Columbia. Its efforts to organize both hard rock miners and smelter workers brought it into sharp conflicts - and often pitched battles - with both employers and governmental authorities. It was one of the organizations at the heart of the Colorado Coal Wars.\n\nThe organization's earliest years were radical, adopting an explicitly socialist platform in 1901. "Big Bill" Haywood, who had joined the WFM as a secretary, was a prominent member during this time.\n\nThe WFM played a role in founding the Industrial Workers of the World (IWW) in 1905, however the split between revolutionaries and reformists led to the WFM withdrawing from the organization several years later and joining the American Federation of Labor (AFL). Because of this, Haywood and prominent labor leader Vincent St. John quit the WFM and channeling their efforts through the IWW instead.`,
         link: 'https://www.marxists.org/glossary/orgs/w/e.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Western_Federation_of_Miners'
       },
@@ -15196,7 +15196,7 @@ export const eventLibrary = {
         date: 'August 1st, 1917',
         title: 'Frank Little (1878 - 1917)',
         imgSrc: require('./assets/eventPhotos/Individuals/frankLittle.jpg'),
-        description: `Frank H. Little was an American labor leader and organizer with the International Workers of the World (IWW) who was murdered on this day in 1917, Butte, Montana. In the months before his death, Little had been helping organize copper workers in a strike against the Anaconda Copper Company and speaking out against World War I, calling it a "rich man's war and a poor man's fight".\n\nIn the early hours of August 1st, six masked men broke into the boardinghouse where he was staying and beat, kidnapped, and lynched Little by tying him to the back of a speeding car. No one was apprehended for his murder, although IWW members alleged members of the local police were involved, noting that Butte's chief of detectives, Ed Morrissey, took a three week leave of absence after Little's death.\n\nAn estimated 10,000 workers lined the route of Frank Little's funeral procession, which was followed by 3,500 more people. His funeral is still the largest ever in Butte history.`,
+        description: `Frank H. Little was an American labor leader and organizer with the Industrial Workers of the World (IWW) who was murdered on this day in 1917, Butte, Montana. In the months before his death, Little had been helping organize copper workers in a strike against the Anaconda Copper Company and speaking out against World War I, calling it a "rich man's war and a poor man's fight".\n\nIn the early hours of August 1st, six masked men broke into the boardinghouse where he was staying and beat, kidnapped, and lynched Little by tying him to the back of a speeding car. No one was apprehended for his murder, although IWW members alleged members of the local police were involved, noting that Butte's chief of detectives, Ed Morrissey, took a three week leave of absence after Little's death.\n\nAn estimated 10,000 workers lined the route of Frank Little's funeral procession, which was followed by 3,500 more people. His funeral is still the largest ever in Butte history.`,
         link: 'https://en.wikipedia.org/wiki/Frank_Little_(unionist)',
         infoSrc: 'https://archive.iww.org/history/biography/FrankLittle/1/'
       },
@@ -17763,6 +17763,15 @@ export const eventLibrary = {
         link: 'https://libcom.org/history/childrens-strikes-1911',
         infoSrc: 'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.836.665&rep=rep1&type=pdf'
       },
+      {
+        category: 'Rebellion',
+        date: 'September 5th, 1977',
+        title: 'RAF Kidnaps Schleyer (1977)',
+        imgSrc: require('./assets/eventPhotos/Individuals/hannsSchleyer.jpg'),
+        description: `Hanns Martin Schleyer (1915 - 1977) was a German member of the SS, business executive, and employer and industry representative who was kidnapped by the Red Army Faction (RAF) on this day in 1977. Schleyer's conservative anti-communist views, anti-union activities, and his past as a former SS officer made him a target for radical elements of the German student movement in the 1970s.\n\nOn this day in 1977, the RAF (a West German, far-left militant organization) kidnapped Schleyer in an attempt to force the West German government to release Andreas Baader and three other RAF members. The government steadfastly refused to negotiate with the RAF, and, after discovering that three RAF members were killed in prison, his kidnappers executed Schleyer in a car en route to France on October 18th, 1977.`,
+        link: 'https://www.dw.com/en/germany-terror-casualty-hanns-martin-schleyer-sacrificed-by-the-state/a-40340024',
+        infoSrc: 'https://en.wikipedia.org/wiki/Kidnapping_and_murder_of_Hanns-Martin_Schleyer'
+      },
     ],
     'Labor': [
       {
@@ -17770,7 +17779,7 @@ export const eventLibrary = {
         date: 'September 5th, 1917',
         title: 'IWW Headquarters Raided (1917)',
         imgSrc: require('./assets/eventPhotos/Individuals/haywoodMugshot.jpg'),
-        description: `Using the newly passed Espionage Act of 1917 as justification, the Department of Justice raided forty-eight International Workers of the World (IWW) meeting halls on this day in 1917. The Department of Justice, with the approval of President Woodrow Wilson, then proceeded to arrest 165 IWW members for "conspiring to hinder the draft, encourage desertion, and intimidate others in connection with labor disputes."\n\nOf the 165 arrested, only 101 actually stood trial. The trial was unusual in the way that the prosection did not try to demonstrate the guilt of individuals, but rather to indict the IWW as a whole, by reading inflammatory passages from seized documents; accordingly, the defense testified about the plight of the working man and the evils of capitalism.\n\nAll defendants were found guilty on all charges brought by the prosecution, and many IWW members served several years in prison. Among those convicted was the "Big Bill" Haywood, a well-known leader of the IWW, however he skipped bail before his sentencing and fled to the Soviet Union, where he would spend the rest of his life.`,
+        description: `Using the newly passed Espionage Act of 1917 as justification, the Department of Justice raided forty-eight Industrial Workers of the World (IWW) meeting halls on this day in 1917. The Department of Justice, with the approval of President Woodrow Wilson, then proceeded to arrest 165 IWW members for "conspiring to hinder the draft, encourage desertion, and intimidate others in connection with labor disputes."\n\nOf the 165 arrested, only 101 actually stood trial. The trial was unusual in the way that the prosection did not try to demonstrate the guilt of individuals, but rather to indict the IWW as a whole, by reading inflammatory passages from seized documents; accordingly, the defense testified about the plight of the working man and the evils of capitalism.\n\nAll defendants were found guilty on all charges brought by the prosecution, and many IWW members served several years in prison. Among those convicted was the "Big Bill" Haywood, a well-known leader of the IWW, however he skipped bail before his sentencing and fled to the Soviet Union, where he would spend the rest of his life.`,
         link: 'https://www.nytimes.com/1918/04/01/archives/iww-trial-starts-today-fate-of-syndicalist-movement-in-america.html',
         infoSrc: 'https://depts.washington.edu/iww/justice_dept.shtml'
       },
@@ -19138,7 +19147,7 @@ export const eventLibrary = {
         date: 'September 20th, 1915',
         title: 'New Zealand Censors the IWW (1915)',
         imgSrc: require('./assets/eventPhotos/Organizations/IWW.png'),
-        description: `In the political climate of World War I, the government of New Zealand cracked down on dissident press and actions. The New Zealand International Workers of the World branch (founded in 1907) was an explicit target of the new censorship measures.\n\nOn this day in 1915, the government prohibited the "importation into New Zealand of the newspapers called Direct Action and Solidarity, and all other printed matter published by or on behalf of the society known as 'The Industrial Workers of the World.'" According to author Jared Davidson, Direct Action was "a lively newspaper published by the Australian IWW that found its way to New Zealand via seamen crossing the Tasman, or by mail."\n\nIn the following years, members of the IWW, labor activists, and political radicals such as Charles Johnson, Philip Josephs, and William Bell were imprisoned. Surveillance of the IWW continued for several years after the conclusion of World War I.`,
+        description: `In the political climate of World War I, the government of New Zealand cracked down on dissident press and actions. The New Zealand Industrial Workers of the World branch (founded in 1907) was an explicit target of the new censorship measures.\n\nOn this day in 1915, the government prohibited the "importation into New Zealand of the newspapers called Direct Action and Solidarity, and all other printed matter published by or on behalf of the society known as 'The Industrial Workers of the World.'" According to author Jared Davidson, Direct Action was "a lively newspaper published by the Australian IWW that found its way to New Zealand via seamen crossing the Tasman, or by mail."\n\nIn the following years, members of the IWW, labor activists, and political radicals such as Charles Johnson, Philip Josephs, and William Bell were imprisoned. Surveillance of the IWW continued for several years after the conclusion of World War I.`,
         link: 'http://libcom.org/history/country-considered-be-free',
         infoSrc: 'http://libcom.org/history/reds-wobblies-working-class-radicalism-state-new-zealand-1915-1925'
       },
@@ -19374,7 +19383,7 @@ export const eventLibrary = {
         date: 'September 23rd, 1893*',
         title: 'Libertad Rodenas (1893 - 1970)',
         imgSrc: require('./assets/eventPhotos/Individuals/libertadRodenas.jpg'),
-        description: `*some sources list her birth year as 1891 or 1892 as well\n\nLibertad Rodenas Dominguez, born on this day in 1893, was a militant Spanish unionist, anarchist, and member of the Mujeres Libres. Her home in Barcelona was a center for meetings of anarchist militants, refuge for those persecuted by the authorities, and hiding place for arms for the anarchist movement. Despite being arrested in 1920, Rodenas refused to renounce her militant politics.\n\nIn 1937, she joined the libertarian women’s organization Mujeres Libres and contributed to its paper. She also involved herself in literacy campaigns, especially in the activities of the "House of The Working Women", where hundreds of women were taught to read and write.\n\nAfter the collapse of the Spanish Republican government, Rodenas fled the country, eventually settling in Mexico, There, she remained active with the Confederación Nacional del Trabajo (CNT) in exile.`,
+        description: `*some sources list her birth year as 1891 or 1892 as well.\n\nLibertad Rodenas Dominguez, born on this day in 1893, was a militant Spanish unionist, anarchist, and member of the Mujeres Libres. Her home in Barcelona was a center for meetings of anarchist militants, refuge for those persecuted by the authorities, and hiding place for arms for the anarchist movement. Despite being arrested in 1920, Rodenas refused to renounce her militant politics.\n\nIn 1937, she joined the libertarian women’s organization Mujeres Libres and contributed to its paper. She also involved herself in literacy campaigns, especially in the activities of the "House of The Working Women", where hundreds of women were taught to read and write.\n\nAfter the collapse of the Spanish Republican government, Rodenas fled the country, eventually settling in Mexico, There, she remained active with the Confederación Nacional del Trabajo (CNT) in exile.`,
         link: 'https://www.portaloaca.com/historia/biografias/5751-libertad-rodenas-y-rosario-dulcet-biografia-de-dos-mujeres-anarquistas.html',
         infoSrc: 'https://libcom.org/history/rodenas-libertad-1893-1970'
       },
@@ -19491,7 +19500,7 @@ export const eventLibrary = {
         date: 'September 24th, 1918',
         title: 'Canada Bans IWW (1918)',
         imgSrc: require('./assets/eventPhotos/Organizations/IWW.png'),
-        description: `On this day in 1918, a Canadian federal order declared that, while Canada was engaged in war, fourteen organizations were unlawful, including the International Workers of the World (IWW). Penalty for membership was set at 5 years in prison, to be served in one of 24 internment camps.\n\nThe same order banned meetings conducted in the language of any enemy country (German, Bulgarian, Hungarian, Turkish, etc.) or in Russian, Ukrainian or Finnish (except for religious services).\n\nNotably, an organization in Western Canada called the One Big Union (OBU) was formed in 1919, and its philosophy of industrial unionism was closely aligned with those of the IWW.`,
+        description: `On this day in 1918, a Canadian federal order declared that, while Canada was engaged in war, fourteen organizations were unlawful, including the Industrial Workers of the World (IWW). Penalty for membership was set at 5 years in prison, to be served in one of 24 internment camps.\n\nThe same order banned meetings conducted in the language of any enemy country (German, Bulgarian, Hungarian, Turkish, etc.) or in Russian, Ukrainian or Finnish (except for religious services).\n\nNotably, an organization in Western Canada called the One Big Union (OBU) was formed in 1919, and its philosophy of industrial unionism was closely aligned with that of the IWW.`,
         infoSrc: 'https://canadianlabour.ca/industrial-workers-of-the-world-iww-declared-illegal-in-canada/',
         link: 'https://libcom.org/library/iww-canada-g-jewell'
       },
@@ -19678,9 +19687,9 @@ export const eventLibrary = {
       {
         category: 'Labor',
         date: 'September 27th, 1917',
-        title: 'International Workers of Africa (1917)',
+        title: 'Industrial Workers of Africa (1917)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: `On this day in 1917, racially mixed study groups in South Africa founded the Industrial Workers of Africa, modeled on the International Workers of the World (IWW), and organized by an all-African committee. The new general union's demands were summed up in its slogan "Sifuna Zonke!" ("We want everything!"). It was one of the first trade unions for African workers ever formed in South Africa.\n\nAfter calling a general strike, the South African government arrested and charged seven activists - three from the International Socialists League, three from the Industrial Workers of Africa, and two from the Transvaal Native Congress - for "incitement to public violence." This trial was the first time white and black activists are jointly charged for political activities in South Africa.`,
+        description: `On this day in 1917, racially mixed study groups in South Africa founded the Industrial Workers of Africa, modeled on the Industrial Workers of the World (IWW), and organized by an all-African committee. The new general union's demands were summed up in its slogan "Sifuna Zonke!" ("We want everything!"). It was one of the first trade unions for African workers ever formed in South Africa.\n\nAfter calling a general strike, the South African government arrested and charged seven activists - three from the International Socialists League, three from the Industrial Workers of Africa, and two from the Transvaal Native Congress - for "incitement to public violence." This trial was the first time white and black activists are jointly charged for political activities in South Africa.`,
         link: 'https://libcom.org/history/articles/industrial-workers-africa-1917-1921',
         infoSrc: 'https://www.sahistory.org.za/archive/industrial-workers-africa-1917-1921-bikisha-media-collective'
       },
@@ -20568,7 +20577,7 @@ export const eventLibrary = {
         date: 'October 9th, 1912',
         title: 'Little Falls Textile Strike (1912)',
         imgSrc: require('./assets/eventPhotos/Events/littleFallsTextileStrike.jpg'),
-        description: `On this day in 1912, the Little Falls Textile strike began with a spontaneous walkout of workers in the Phoenix Mill in response to mill owners refusing to comply with a law that limited the workweek from 60 hours to 54, as well as to demand higher wages.\n\nThe International Workers of the World (IWW) sent in organizers such as Matilda Rabinowitz, Ben Legere, Joe Ettor, and "Big Bill" Haywood to assist with the strike, resulting in many of the striking workers voting to join the IWW.\n\nThe strike ended on January 3rd, 1913 with the striking workers and IWW prevailing. The workers' demands were met, including the 54-hour work week at the previous 60-hour pay.`,
+        description: `On this day in 1912, the Little Falls Textile strike began with a spontaneous walkout of workers in the Phoenix Mill in response to mill owners refusing to comply with a law that limited the workweek from 60 hours to 54, as well as to demand higher wages.\n\nThe Industrial Workers of the World (IWW) sent in organizers such as Matilda Rabinowitz, Ben Legere, Joe Ettor, and "Big Bill" Haywood to assist with the strike, resulting in many of the striking workers voting to join the IWW.\n\nThe strike ended on January 3rd, 1913 with the striking workers and IWW prevailing. The workers' demands were met, including the 54-hour work week at the previous 60-hour pay.`,
         link: 'https://littlefallshistoricalsociety.org/museum-exhibit/1912-little-falls-textile-strike/',
         infoSrc: 'https://libcom.org/history/november-we-remember-centennial-1912-little-falls-textile-strike-brendan-maslauskas-dunn'
       },
@@ -21064,6 +21073,15 @@ export const eventLibrary = {
         link: 'https://www.britannica.com/event/Harpers-Ferry-Raid',
         infoSrc: 'https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry'
       },
+      {
+        category: 'Rebellion',
+        date: 'October 16th, 1979',
+        title: 'Bu-Ma Democratic Protests (1979)',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: `The Bu-Ma Democratic Protests against the South Korean Yushin regime began on this day in 1979, starting in Busan and later spreading to and Masan (now Changwon). The first to protest were students from Pusan National University, who began calling for the abolition of the Yushin regime in public demonstrations.\n\nThe protests quickly grew, and, just two days later, they had spread to Masan, resulted in the destruction of a tax collection office and burned police vehicles, and President Park Chung-hee declared martial law, arrested more than 1,000 people. On October 26th, President Park Chung-hee was assassinated, leading to the eventual dissolution of the Fourth Republic of South Korea.\n\nOn the 40th anniversary of the event, President Moon Jae-in apologized for the previous episodes of political repression, stating "As long as we have a history of great democratic protests, no power can rule over the people".`,
+        link: 'https://www.koreatimes.co.kr/www/nation/2019/10/356_277235.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Bu-Ma_Democratic_Protests'
+      },
     ],
     'Labor': [
       {
@@ -21221,13 +21239,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'October 18th, 1927',
+        title: 'Colorado Miners Strike (1927)',
+        imgSrc: require('./assets/eventPhotos/coloradoMinersStrike.jpg'),
+        description: `On this day in 1927, the Industrial Workers of the World (IWW) called a strike of all mine workers, which was quickly heeded in Coloardo. Nearly all the mines in Colorado were closed, and the dozen still open did so using imported scab labor. For the still-operating Columbine mine, scab workers were housed in Serene, which was fortified with barbed wire on the fences and armed guards.\n\nMass rallies had been held by workers outside the Columbine mine in Serene for several weeks and, on the morning of November 21st, miners and their families were fired upon by a militia of ex-police, armed with machine guns and tear gas. Six people were killed, and the event became known as the "Columbine Massacre".\n\nThe owner of the Rocky Mountain Fuel Company, Josephine Roche, brought an end to the strike several weeks after the incident at Columbine by declaring that the company union was to be affiliated with the American Federation of Labor (AFL) and recognizing the United Mine Workers of America (UMWA). The backbone of IWW support in the Colorado mines was broken, and the revolutionary union went into decline.`,
+        link: 'https://en.wikipedia.org/wiki/Columbine_Mine_massacre',
+        infoSrc: 'https://libcom.org/history/1927-colorado-miners-strike-and-columbine-mine-massacre'
       },
     ],
     'Birthdays': [
@@ -21243,13 +21261,22 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'October 18th, 1976',
+        title: 'Laureano Cerrado (1902 - 1976)',
+        imgSrc: require('./assets/eventPhotos/Individuals/laureanoCerrado.jpg'),
+        description: `Laureano Cerrada Santos was an anarchist activist and member of the Confederación Nacional del Trabajo (CNT) who was assassinated on this day in 1976. He fought in the Spanish Civil War, helped found the railway union of the CNT, and ran a large forgery operation in France that helped bankroll anti-fascist activism in Francoist Spain.\n\nOn January 18th, 1951, an attempted robbery committed by Spanish anarchists went wrong, killing at least three people and wounding eight innocent bystanders. The Francoist government used this episode to lead a widespread crackdown on the libertarian movement, and France soon followed suit. Cerrada was exiled from the CNT for his association with these activities, but continued his work after being released from prison.\n\nOn this day in 1976, Cerrada was murdered by Ramón Benicho Canuda, a CNT Infiltrator and French Mafioso who killed Cerrado to prevent his discovery. Canuda fled to Canada after the murder, and was never charged for the crime. Named as working for a foreign power while in Toronto, Canuda subsequently disappeared.`,
+        link: 'https://www.katesharpleylibrary.net/z613wc',
+        infoSrc: 'https://christiebooks.co.uk/2017/09/laureano-cerrada-santos-notes-from-pistoleros-the-chronicles-of-farquhar-mcharg-2-1919-1944-1954/?doing_wp_cron=1600914944.3111619949340820312500'
+      },
+      {
+        category: 'Assassinations',
+        date: 'October 18th, 1977',
+        title: 'Martin Schleyer (1915 - 1977)',
+        imgSrc: require('./assets/eventPhotos/Individuals/hannsSchleyer.jpg'),
+        description: `Hanns Martin Schleyer was a German member of the SS, business executive, and employer and industry representative who was assassinated by the Red Army Faction (RAF) on this day in 1977. Schleyer's conservative anti-communist views, anti-union activities, and his past as a former SS officer made him a target for radical elements of the German student movement in the 1970s.\n\nOn September 5th, 1977, the RAF (a West German, far-left militant organization) kidnapped Schleyer in an attempt to force the West German government to release Andreas Baader and three other RAF members. The government steadfastly refused to negotiate with the RAF, and after discovering that three RAF members were killed in prison, his kidnappers executed Schleyer in a car en route to France on October 18th, 1977.`,
+        link: 'https://www.dw.com/en/germany-terror-casualty-hanns-martin-schleyer-sacrificed-by-the-state/a-40340024',
+        infoSrc: 'https://en.wikipedia.org/wiki/Kidnapping_and_murder_of_Hanns-Martin_Schleyer'
       },
     ],
     'Other': [
@@ -22962,7 +22989,7 @@ export const eventLibrary = {
         date: 'November 11th, 1919',
         title: 'Centralia Massacre (1919)',
         imgSrc: require('./assets/eventPhotos/Events/centraliaMassacre.jpg'),
-        description: `The Centralia Massacre, also known as the Centralia Conspiracy and the Armistice Day Riot, was a violent and bloody incident that occurred in Centralia, Washington, on this day in 1919, during a parade celebrating the first anniversary of Armistice Day. The conflict was an armed shootout between members of the local American Legion and International Workers of the World (IWW) members.\n\nOn Armistice Day, celebrating the end of World War I, American Legion members went on parade throughout the city. They stopped in front of the IWW hall, and gunfire broke out, killing two American Legion members immediately. The Legion members stormed the IWW hall, and several more people more shot.\n\nMany IWW members were arrested following the incident. Wesley Everest, an IWW member who had shot multiple Legion members while fleeing the IWW hall, was taken from the jail and lynched by an angry mob. Seven IWW members were convicted on murder charges. In all, five people were killed and three people were injured.`,
+        description: `The Centralia Massacre, also known as the Centralia Conspiracy and the Armistice Day Riot, was a violent and bloody incident that occurred in Centralia, Washington, on this day in 1919, during a parade celebrating the first anniversary of Armistice Day. The conflict was an armed shootout between members of the local American Legion and Industrial Workers of the World (IWW) members.\n\nOn Armistice Day, celebrating the end of World War I, American Legion members went on parade throughout the city. They stopped in front of the IWW hall, and gunfire broke out, killing two American Legion members immediately. The Legion members stormed the IWW hall, and several more people more shot.\n\nMany IWW members were arrested following the incident. Wesley Everest, an IWW member who had shot multiple Legion members while fleeing the IWW hall, was taken from the jail and lynched by an angry mob. Seven IWW members were convicted on murder charges. In all, five people were killed and three people were injured.`,
         link: 'https://www.washingtonpost.com/outlook/2019/11/11/why-massacre-centralia-years-ago-is-critically-important-today/',
         infoSrc: 'https://en.wikipedia.org/wiki/Centralia_massacre_(Washington)'
       },
@@ -23623,13 +23650,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 21st, 1927',
+        title: 'Columbine Massacre (1927)',
+        imgSrc: require('./assets/eventPhotos/coloradoMinersStrike.jpg'),
+        description: `On October 18th 1927, the Industrial Workers of the World (IWW) called a strike of all mine workers, which was quickly heeded in Coloardo. Nearly all the mines in Colorado were closed, and the dozen still open did so using imported scab labor. For the still-operating Columbine mine, scab workers were housed in Serene, which was fortified with barbed wire on the fences and armed guards.\n\nMass rallies had been held by miners outside the Columbine mine in Serene for several weeks and, this day in 1927, more than five hundred workers were greeted by an ex-cop militia, armed with machine pistols, rifles, riot guns and tear gas grenades.\n\nThe workers were fired upon after a dispute on whether or not they could enter the town of Serene. The event is known as the Columbine Massacre; six people were killed, all miners. No member of the militia was ever held accountable for the violence of that day.`,
+        link: 'https://en.wikipedia.org/wiki/Columbine_Mine_massacre',
+        infoSrc: 'https://libcom.org/history/1927-colorado-miners-strike-and-columbine-mine-massacre'
       },
     ],
     'Birthdays': [
