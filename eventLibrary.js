@@ -23662,7 +23662,7 @@ export const eventLibrary = {
         category: 'Labor',
         date: 'November 21st, 1927',
         title: 'Columbine Massacre (1927)',
-        imgSrc: require('./assets/eventPhotos/coloradoMinersStrike.jpg'),
+        imgSrc: require('./assets/eventPhotos/Events/coloradoMinersStrike.jpg'),
         description: `On October 18th 1927, the Industrial Workers of the World (IWW) called a strike of all mine workers, which was quickly heeded in Coloardo. Nearly all the mines in Colorado were closed, and the dozen still open did so using imported scab labor. For the still-operating Columbine mine, scab workers were housed in Serene, which was fortified with barbed wire on the fences and armed guards.\n\nMass rallies had been held by miners outside the Columbine mine in Serene for several weeks and, this day in 1927, more than five hundred workers were greeted by an ex-cop militia, armed with machine pistols, rifles, riot guns and tear gas grenades.\n\nThe workers were fired upon after a dispute on whether or not they could enter the town of Serene. The event is known as the Columbine Massacre; six people were killed, all miners. No member of the militia was ever held accountable for the violence of that day.`,
         link: 'https://en.wikipedia.org/wiki/Columbine_Mine_massacre',
         infoSrc: 'https://libcom.org/history/1927-colorado-miners-strike-and-columbine-mine-massacre'
