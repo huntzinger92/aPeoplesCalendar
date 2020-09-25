@@ -8714,6 +8714,15 @@ export const eventLibrary = {
         link: 'https://nvdatabase.swarthmore.edu/content/washington-dc-protests-against-war-vietnam-mayday-1971',
         infoSrc: 'https://en.wikipedia.org/wiki/1971_May_Day_protests'
       },
+      {
+        category: 'Rebellion',
+        date: 'May 3rd, 1937',
+        title: 'Spanish May Days (1937)',
+        imgSrc: require('./assets/eventPhotos/Events/spanishMayDays.jpg'),
+        description: `The May Days refer to a series of street battles that began on this day in 1937, fought between Republican factions of the Spanish Civil War. These conflicts were the culmination of strife between pre-war Republican legality and the Spanish Revolution.\n\nOn May 3rd, a body of 200 police officers went to the Telefónica central exchange and presented itself at the censorship department located on the second floor, with the intention of taking control of the building. The anarchists, who were occupying the building legally, opened fire from the second floor of the building. Eventually, they surrended with a cease fire agreement.\n\nA crowd gathered, at first believing that the anarchists had captured the head of the police. The POUM, the Friends of Durruti Group, the Bolshevik-Leninists and the Libertarian Youth took positions, and, after a few hours, all political parties had taken out the weapons they had hidden and began building barricades.\n\nFrom this skirmish, battles began in different parts of the city. Several hundred barricades were built and police units occupied roofs and church towers. The fighting continued for several days and Assault Guards in Barcelona, Tarragona and other many towns proceeded to disarm and arrest numerous members of the CNT, FAI, Libertarian Youth and POUM that had taken part in the riots. The contemporary press estimated the casualties at 500 dead and 1,000 injured.`,
+        link: 'https://libcom.org/library/part-4-0',
+        infoSrc: 'https://en.wikipedia.org/wiki/May_Days'
+      },
     ],
     'Labor': [
       {
@@ -21242,7 +21251,7 @@ export const eventLibrary = {
         category: 'Labor',
         date: 'October 18th, 1927',
         title: 'Colorado Miners Strike (1927)',
-        imgSrc: require('./assets/eventPhotos/coloradoMinersStrike.jpg'),
+        imgSrc: require('./assets/eventPhotos/Events/coloradoMinersStrike.jpg'),
         description: `On this day in 1927, the Industrial Workers of the World (IWW) called a strike of all mine workers, which was quickly heeded in Coloardo. Nearly all the mines in Colorado were closed, and the dozen still open did so using imported scab labor. For the still-operating Columbine mine, scab workers were housed in Serene, which was fortified with barbed wire on the fences and armed guards.\n\nMass rallies had been held by workers outside the Columbine mine in Serene for several weeks and, on the morning of November 21st, miners and their families were fired upon by a militia of ex-police, armed with machine guns and tear gas. Six people were killed, and the event became known as the "Columbine Massacre".\n\nThe owner of the Rocky Mountain Fuel Company, Josephine Roche, brought an end to the strike several weeks after the incident at Columbine by declaring that the company union was to be affiliated with the American Federation of Labor (AFL) and recognizing the United Mine Workers of America (UMWA). The backbone of IWW support in the Colorado mines was broken, and the revolutionary union went into decline.`,
         link: 'https://en.wikipedia.org/wiki/Columbine_Mine_massacre',
         infoSrc: 'https://libcom.org/history/1927-colorado-miners-strike-and-columbine-mine-massacre'
@@ -21575,13 +21584,13 @@ export const eventLibrary = {
   '10-23': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'October 23rd, 1956',
+        title: 'Hungarian Revolution (1956)',
+        imgSrc: require('./assets/eventPhotos/Events/hungarianRevolution1956.jpg'),
+        description: `The Hungarian Revolution of 1956 began on this day in history, and was a nationwide revolution against the Hungarian People's Republic and its Soviet-imposed policies. The uprising was the first major threat to Soviet control since the Red Army drove Nazi Germany from its territory at the End of World War II in Europe.\n\nThe revolt began as a student protest, which attracted thousands as they marched through central Budapest to the Hungarian Parliament building. Protesters were fired upon from within the building by the State Security Police, killing multiple students. As the news of the violence spread, disorder and violence erupted throughout the capitol.\n\nThe revolt spread quickly and the government collapsed. Thousands of people organized militias, battling the state police and Soviet troops. Radical workers' councils wrested municipal control from the ruling Hungarian Working People's Party and demanded political change.\n\nOn November 4th, a large Soviet force invaded Budapest and other regions of the country. Over 2,500 Hungarians and 700 Soviet troops were killed in the conflict, and 200,000 Hungarians fled as refugees. Mass arrests and denunciations continued for months thereafter, and suppression of the revolution continued for decades afterward.\n\nThese Soviet actions, while strengthening control over the Eastern Bloc, alienated many Western Marxists, leading to splits and/or considerable losses of membership for communist parties in capitalist states. At the inauguration of the Third Hungarian Republic in 1989, October 23rd was declared a national holiday.`,
+        link: 'https://libcom.org/history/articles/hungary-56',
+        infoSrc: 'https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956'
       },
     ],
     'Rebellion': [
@@ -21608,13 +21617,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 23rd, 1874',
+        title: 'Otto Rühle (1874 - 1943)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ottoRuhle.jpg'),
+        description: `Otto Rühle, born on this day in 1874, was a German left communist educator and writer who participated in the Spartacus League (along with Rosa Luxemburg and Karl Liebknecht). Rühle was also a vocal opponent of both World War I and World War II.\n\nAlthough Liebknecht and Luxemburg were murdered in 1919 for their involvement in the German Revolution, Rühle lived on to participate in the left opposition of the German labour movement, developing both an early communist critique of Bolshevism as well as an early opposition to fascism. Rühle saw the Soviet Union as a form of state capitalism that had much in common with the state-centred capitalism of the West as well as fascism.`,
+        link: 'https://libcom.org/library/otto-ruhle-and-the-german-labour-movement-mattick',
+        infoSrc: 'https://en.wikipedia.org/wiki/Otto_R%C3%BChle'
       },
     ],
     'Assassinations': [
