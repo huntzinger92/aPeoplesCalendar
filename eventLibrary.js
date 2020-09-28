@@ -3350,7 +3350,7 @@ export const eventLibrary = {
         date: 'February 17th, 1942',
         title: 'Huey Newton (1942 - 1989)',
         imgSrc: require('./assets/eventPhotos/Individuals/hueyNewton.jpg'),
-        description: `Huey Percy Newton was an African-American political activist and Marxist-Leninist revolutionary who, along with fellow Merritt College student Bobby Seale, co-founded the Black Panther Party (1966-1982). Together with Seale, Newton created a ten-point program which laid out guidelines for how the African-American community could achieve liberation.\n\nIn the 1960s, under Newton's leadership, the Black Panther Party founded over 60 community support programs (renamed survival programs in 1971) including food banks, medical clinics, HIV support groups, sickle cell anemia tests, prison busing for families of inmates, legal advice seminars, clothing banks, housing cooperates, and their own ambulance service.\n\nThe most famous of these programs was the Free Breakfast for Children program which fed thousands of impoverished children daily during the early 1970s. Newton also co-founded the Black Panther newspaper service which became one of America's most widely distributed African-American newspapers. In 1967, he was involved in a shootout which led to the death of the police officer John Frey. Although arrested for the murder of Frey, the charges were eventually dismissed.\n\nDespite graduating from high school not knowing how to read, he taught himself literacy by reading Plato's Republic and earned a Ph.D. in social philosophy from the University of California at Santa Cruz's History of Consciousness program in 1980. In 1989, he was murdered in Oakland, California by Tyrone Robinson, a member of the Black Guerrilla Family.`,
+        description: `Huey Percy Newton was an African-American political activist and Marxist-Leninist revolutionary who, along with fellow Merritt College student Bobby Seale, co-founded the Black Panther Party (1966-1982). Together with Seale, Newton created a ten-point program which laid out guidelines for how the African-American community could achieve liberation.\n\nIn the 1960s, under Newton's leadership, the Black Panther Party founded over 60 community support programs (renamed survival programs in 1971) including food banks, medical clinics, HIV support groups, sickle cell anemia tests, prison busing for families of inmates, legal advice seminars, clothing banks, housing co-ops, and their own ambulance service.\n\nThe most famous of these programs was the Free Breakfast for Children program which fed thousands of impoverished children daily during the early 1970s. Newton also co-founded the Black Panther newspaper service which became one of America's most widely distributed African-American newspapers. In 1967, he was involved in a shootout which led to the death of the police officer John Frey. Although arrested for the murder of Frey, the charges were eventually dismissed.\n\nDespite graduating from high school not knowing how to read, he taught himself literacy by reading Plato's Republic and earned a Ph.D. in social philosophy from the University of California at Santa Cruz's History of Consciousness program in 1980. In 1989, he was murdered in Oakland, California by Tyrone Robinson, a member of the Black Guerrilla Family.`,
         link: 'http://digital.wustl.edu/e/eii/eiiweb/new5427.0458.119hueypnewton.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Huey_P._Newton'
       },
@@ -19533,7 +19533,7 @@ export const eventLibrary = {
         date: 'September 25th, 1800',
         title: 'Gabriel Prosser Captured (1800)',
         imgSrc: require('./assets/eventPhotos/Individuals/gabrielProsser.jpg'),
-        description: `Gabriel Prosser (1775 - 1800) was the leader of an unsuccessful slave revolt in Richmond, Virginia. Little is known of Prosser's life before the revolt that catapulted him into notoriety. Gabriel's two brothers, Solomon and Martin and his wife, Nanny, were all owned by Thomas Prosser and all participated in the insurrection.\n\nAt the time of the insurrection, Gabriel Prosser was twenty-four years old, six feet two inches, literate, and a blacksmith by trade. He was described by a contemporary as "a fellow of courage and intellect above his rank in life." With the help of other slaves, Prosser devised a plan to seize control of Richmond by killing all of the whites (except the Methodists, Quakers and Frenchmen) and then establishing a Kingdom of Virginia with himself as monarch.\n\nUnfortunately, Prosser was betrayed twice - first by his fellow slaves, who told their owner about his plan, and then by slaves in Norfolk, who turned a fleeing Prosser in to the authorities for a bounty. On this day in 1800, Prosser was captured. He was executed along with two of his brothers and 23 other slaves a few weeks later on October 6th.`,
+        description: `Gabriel Prosser (1775 - 1800) was the leader of an unsuccessful slave revolt in Richmond, Virginia who was captured on this day in 1800. Little is known of Prosser's life before the revolt that catapulted him into notoriety. Gabriel's two brothers, Solomon and Martin and his wife, Nanny, were all owned by Thomas Prosser and all participated in the insurrection.\n\nAt the time of the insurrection, Gabriel Prosser was twenty-four years old, six feet two inches, literate, and a blacksmith by trade. He was described by a contemporary as "a fellow of courage and intellect above his rank in life." With the help of other slaves, Prosser devised a plan to seize control of Richmond by killing all of the whites (except the Methodists, Quakers and Frenchmen) and then establishing a Kingdom of Virginia with himself as monarch.\n\nUnfortunately, Prosser was betrayed twice - first by his fellow slaves, who told their owner about his plan, and then by slaves in Norfolk, who turned a fleeing Prosser in to the authorities for a bounty. On this day in 1800, Prosser was captured. He was executed along with two of his brothers and 23 other slaves a few weeks later on October 6th.`,
         link: 'https://en.wikipedia.org/wiki/Gabriel_Prosser',
         infoSrc: 'https://www.blackpast.org/african-american-history/prosser-gabriel-1775-1800/'
       },
@@ -19678,7 +19678,7 @@ export const eventLibrary = {
         date: 'September 27th, 1936',
         title: 'Battle of Holbeck Moor (1936)',
         imgSrc: require('./assets/eventPhotos/Events/battleOfHolbeckMoor.jpg'),
-        description: `On this day in 1936, the Battle of Holbeck Moor took place in Leeds, England. It happened when 1,000 members of the British Union of Fascists, led by Oswald Mosley, attempted to hold a rally at Holbeck Moor. They were greeted by approximately 30,000 locals in a protest organized by the Communist Party. Notably, due to political differences with the Communist Party, the Labour Party did not attend.\n\nWhen Mosley attempted to give a speech from atop a van, the protesters surrounded the van and sang the Red Flag in order to drown out Mosley’s speech. Many threw stones at the Fascists, with at least one hitting Mosley in the temple. Outnumbered and facing violence, the BUF members dispersed. The Battle of Holbeck Moor happened just a week prior to the more well-known Battle of Cable Street, in which a BUF rally led by Oswald Mosley was again forcibly dispersed by anti-fascist demonstrators.`,
+        description: `On this day in 1936, the Battle of Holbeck Moor took place in Leeds, England when anti-fascist demonstrators disrupted a rally held by the British Union of Fascists (BUF), led by Oswald Mosley. The 1,000 fascist demonstrators were greeted by approximately 30,000 locals in a protest organized by the Communist Party. Notably, due to political differences with the Communist Party, the Labour Party did not attend.\n\nWhen Mosley attempted to give a speech from atop a van, the protesters surrounded the van and sang the Red Flag in order to drown out Mosley’s speech. Many threw stones at the Fascists, with at least one hitting Mosley in the temple. Outnumbered and facing violence, the BUF members dispersed. The Battle of Holbeck Moor happened just a week prior to the more well-known Battle of Cable Street, in which a BUF rally led by Oswald Mosley was again forcibly dispersed by anti-fascist demonstrators.`,
         link: 'https://www.yorkshirepost.co.uk/news/dark-day-fascists-marched-leeds-598877',
         infoSrc: 'https://secretlibraryleeds.net/2019/06/14/oswald-mosley-and-leeds-the-battle-of-holbeck-moor-27th-september-1936/'
       },
@@ -19698,7 +19698,7 @@ export const eventLibrary = {
         date: 'September 27th, 1917',
         title: 'Industrial Workers of Africa (1917)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: `On this day in 1917, racially mixed study groups in South Africa founded the Industrial Workers of Africa, modeled on the Industrial Workers of the World (IWW), and organized by an all-African committee. The new general union's demands were summed up in its slogan "Sifuna Zonke!" ("We want everything!"). It was one of the first trade unions for African workers ever formed in South Africa.\n\nAfter calling a general strike, the South African government arrested and charged seven activists - three from the International Socialists League, three from the Industrial Workers of Africa, and two from the Transvaal Native Congress - for "incitement to public violence." This trial was the first time white and black activists are jointly charged for political activities in South Africa.`,
+        description: `On this day in 1917, racially mixed study groups in South Africa founded the Industrial Workers of Africa, modeled on the Industrial Workers of the World (IWW). The new general union's demands were summed up in its slogan "Sifuna Zonke!" ("We want everything!"). It was one of the first trade unions for African workers ever formed in South Africa.\n\nAfter calling a general strike, the South African government arrested and charged seven activists - three from the International Socialists League, three from the Industrial Workers of Africa, and two from the Transvaal Native Congress - for "incitement to public violence." This trial was the first time white and black activists are jointly charged for political activities in South Africa.`,
         link: 'https://libcom.org/history/articles/industrial-workers-africa-1917-1921',
         infoSrc: 'https://www.sahistory.org.za/archive/industrial-workers-africa-1917-1921-bikisha-media-collective'
       },
@@ -19709,7 +19709,7 @@ export const eventLibrary = {
         date: 'September 27th, 1907*',
         title: 'Bhagat Singh (1907 - 1931)',
         imgSrc: require('./assets/eventPhotos/Individuals/bhagatSingh.jpg'),
-        description: `*Singh's birthday is disputed. Although Encyclopedia Britannica lists his birth date as Sept. 27th, other sources say Sept. 28th, and various biographers have suggested Oct. 19th of the same year\n\nBhagat Singh, born on this day in 1907, was an Indian socialist revolutionary whose two acts of dramatic violence against the British in India and execution at the young age of twenty-three made him a folk hero of the Indian independence movement. Singh was an avid reader of Bakunin, Marx, Lenin, and Trotsky. He was also openly critical of Mahatma Gandhi, having become disillusioned with his non-violent praxis after Gandhi called off the non-co-operation movement.\n\nIn December 1928, Bhagat Singh and an associate fatally shot a 21-year-old British police officer, John Saunders, in retalitation for the death of Lala Lajpat Rai, a popular Indian nationalist leader who died after being attacked by police. On the run from the police, Singh was arrested when he, along with Batukeshwar Dutt, exploded two improvised bombs inside the Central Legislative Assembly in Delhi, showered leaflets onto the legislators below, and allowed the authorities to arrest them.\n\nAwaiting trial, Singh gained public sympathy after he joined fellow defendant Jatin Das in a hunger strike, demanding better prison conditions for Indian prisoners. Das died from starvation in September 1929. Singh was convicted and hanged in March, 1931. Four days before his execution, Singh refused to sign a letter drafted for him that would appeal for clemency.`,
+        description: `*Singh's birthday is disputed. Although Encyclopedia Britannica lists his birth date as Sept. 27th, other sources say Sept. 28th, and various biographers have suggested Oct. 19th of the same year\n\nBhagat Singh, born on this day in 1907, was an Indian socialist revolutionary whose acts of violence against the British and subsequent execution made him a folk hero of the Indian independence movement. Singh was an avid reader of Bakunin, Marx, Lenin, and Trotsky. He was also openly critical of Mahatma Gandhi, having become disillusioned with his non-violent praxis after Gandhi called off the non-co-operation movement.\n\nIn December 1928, Bhagat Singh and an associate fatally shot a 21-year-old British police officer, John Saunders, in retaliation for the death of Lala Lajpat Rai, a popular Indian nationalist leader who died after being attacked by police. On the run from the police, Singh was arrested when he, along with Batukeshwar Dutt, exploded two improvised bombs inside the Central Legislative Assembly in Delhi, showered leaflets onto the legislators below, and allowed the authorities to arrest them.\n\nAwaiting trial, Singh gained public sympathy after he joined fellow defendant Jatin Das in a hunger strike, demanding better prison conditions for Indian prisoners. Das died from starvation in September 1929. Singh was convicted and hanged in March, 1931. Four days before his execution, Singh refused to sign a letter drafted for him that would appeal for clemency.`,
         link: 'https://www.marxists.org/archive/bhagat-singh/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Bhagat_Singh'
       },
@@ -19799,7 +19799,7 @@ export const eventLibrary = {
         date: 'September 28th, 1864',
         title: 'First International Founded (1864)',
         imgSrc: require('./assets/eventPhotos/Organizations/firstInternational.png'),
-        description: `The International Workingmen's Association (IWA), often called the First International, was an international organization which aimed at uniting a variety of different left-wing ideologies and trade unions that were based on the working class and class struggle. The IWA was founded in 1864 in a meeting held in St. Martin's Hall, London.\n\nNotable members of the IWA included Pierre-Joseph Proudhon, Wilhelm Liebknecht, Louis Auguste Blanqui, Karl Marx, and Mikhail Bakunin. The organization was polarized on the issue of state power (followers of Bakunin and Proudhon categorically opposed state power and considered Marx's ideas inherently authoritarian), and split on this basis after its Fifth Congress in 1872.`,
+        description: `The International Workingmen's Association (IWA), commonly known as the First International, was an organization aimed at uniting different left-wing ideologies founded on this day in 1864.\n\nNotable members of the IWA included Pierre-Joseph Proudhon, Wilhelm Liebknecht, Louis Auguste Blanqui, Karl Marx, and Mikhail Bakunin. The organization was polarized on the issue of state power (followers of Bakunin and Proudhon categorically opposed state power and considered Marx's ideas inherently authoritarian), and split on this basis after its Fifth Congress in 1872.`,
         link: 'https://www.marxists.org/archive/steklov/history-first-international/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/International_Workingmen%27s_Association'
       },
@@ -19808,7 +19808,7 @@ export const eventLibrary = {
         date: 'September 28th, 1829',
         title: `David Walker's Appeal (1829)`,
         imgSrc: require('./assets/eventPhotos/Individuals/davidWalker.jpg'),
-        description: `David Walker (1796 - 1830) was an American abolitionist, writer, and anti-slavery activist. On this day in 1829 (coincidentally his birthday), while living in Boston, Massachusetts, he published "An Appeal to the Coloured Citizens of the World", a call for black unity and a fight against slavery.\n\nThe text was widely known and has become regarded as one of the most important political documents of the 19th century, influencing multiple generations of black leaders that came after it, including Frederick Douglass, W.E.B. Du Bois, Martin Luther King, and Malcolm X. Perhaps not suprisingly, the text infuriated southern slaveowners; the state of Georgia offered a $10,000 bounty for Walker alive and $1,000 for him dead.\n\nWalker died the next year, soon after publishing the third edition of his Appeal. Although foul play was suspected, historians consider it more likely he died of tuberculosis, which his daughter had passed away from a week prior. David Walker's son, Edward G. Walker, was an attorney and in 1866 was one of the first two black men elected to the Massachusetts State Legislature.`,
+        description: `David Walker (1796 - 1830) was an American abolitionist, writer, and anti-slavery activist who published "An Appeal to the Coloured Citizens of the World" on this day in 1829. The piece was an early historical call for black unity in the fight against slavery.\n\nThe text was widely known and has become regarded as one of the most important political documents of the 19th century, influencing multiple generations of black leaders that came after it, including Frederick Douglass, W.E.B. Du Bois, Martin Luther King, and Malcolm X. Not suprisingly, the text infuriated southern slaveowners; the state of Georgia offered a $10,000 bounty for Walker alive and $1,000 for him dead.\n\nWalker died the next year, soon after publishing the third edition of his Appeal. Although foul play was suspected, historians consider it more likely he died of tuberculosis, which his daughter had passed away from a week prior. David Walker's son, Edward G. Walker, was an attorney and, in 1866, was one of the first two black men elected to the Massachusetts State Legislature.`,
         link: `https://en.wikipedia.org/wiki/David_Walker_(abolitionist)#Walker's_1829_Appeal`,
         infoSrc: 'http://www.davidwalkermemorial.org/appeal'
       },
@@ -21799,13 +21799,31 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'October 26th, 1983',
+        title: 'Northwood and Pinner Hospital Occupation (1983)',
+        imgSrc: require('./assets/eventPhotos/Events/northwoodHospital.jpg'),
+        description: `The following information is taken verbatim from the libcom.org entry cited below:\n\nThe local health authority was proposing to close Northwood and Pinner hospital on October 31st, 1983. The workers, led by matron Jean Carey, a member of health workers' union COHSE (which later merged into Unison), occupied the hospital on this day that year to oppose the closure and began the work-in the next day.\n\nThey ran the hospital themselves, until eventually the authority caved and agreed to keep the hospital open. The nearby Hayes Cottage hospital was also successfully occupied and saved from closure at the same time.`,
+        link: 'https://libcom.org/history/northwood-pinner-hospital-occupation-1983',
+        infoSrc: 'https://libcom.org/history/northwood-pinner-hospital-occupation-1983'
+      },
+      {
+        category: 'Rebellion',
+        date: 'October 26th, 1977',
+        title: 'Hounslow Hospital Occupation Raided (1977)',
+        imgSrc: require('./assets/eventPhotos/Events/hounslowHospital.jpg'),
+        description: `Hounslow Hospital was a small facility for geriatric and long-stay patients in an industrial area. The hospital was considered a home as well as a place for treatment. Hounslow's closure was announced in January 1977 and scheduled for August. The worker occupation started as a "work-in" in March, intent on exploiting a legal loophole where, if the hospital has patients, the law mandates the hosptial be funded.\n\nManagement tried to transfer staff, and threatened those who refused with sanctions and firing. The threats did not succeed, and the work-in continued beyond the scheduled closing date.\n\nOn this day in 1977, a district team of officers raided the hospital, cutting phone lines and removing patients from the facility by force. Beds and furniture were wrecked, the floor strewn with food, torn mattresses, sheets, and personal articles.\n\nThus, the hospital was closed by force. The raid provoked a public outcry and led directly a year-long occupation of the closed hosptial. 2000 striking hospital workers picketed the Ealing, Hammersmith, and Hounslow Area Health Authority (AHA) to protest the raid and demand that the hospital be reopened. When the occupation ended, work began on redesigning the facilities into a new community hospital/health center.`,
+        link: 'https://www.workersliberty.org/story/2012/11/28/occupy-stop-closures',
+        infoSrc: 'https://libcom.org/library/south-london-womens-hospital-occupation-1984-85'
+      },
+      {
+        category: 'Rebellion',
+        date: 'October 26th, 1977',
+        title: `Swadeshi Cotton Mill Workers' Siege (1977)`,
+        imgSrc: require('./assets/eventPhotos/Events/swadeshiCottonMill.jpg'),
+        description: `On this day in 1977, 8,000 workers at the Swadeshi Cotton Mill in India surrounded the factory, held management hostage, and placed gas cylinders on the roof of the building, threatening to blow the factory up if their demands were not met. Wages had not been paid for several weeks. The uprising was also directly antagonistic to the trade union; leaders of the unions were beaten.\n\nThe workers' wages were paid after 54 hours of the siege. Despite winning their demands, labor strife continued - on the 6th of December around 1,000 workers again surrounded the factory. Violence broke out between private security and workers, and police intervened by shooting into the crowd of workers. Although official numbers listed 11 dead workers, workers claimed more than 100 people died.`,
+        link: 'http://www.sacw.net/article2320.html',
+        infoSrc: 'https://libcom.org/history/cycle-struggle-1973-1979-india'
       },
     ],
     'Labor': [
@@ -21821,13 +21839,22 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 26th, 1913',
+        title: 'José Ester Borrás (1913 - 1980)',
+        imgSrc: require('./assets/eventPhotos/Individuals/joseBorras.jpg'),
+        description: `José Ester Borrás, born on this day in 1913 in Barcelona, Spain, was an anarchist active in the Confederación Nacional del Trabajo (CNT) and the Spanish Civil War.\n\nIn 1938, Borrás was arrested by the communists for allegedly shooting a political commissar and held in prison until Francisco Franco won the war. He fled to France, where he took part in the escape and evasion network led by anarcho-syndicalist Francisco Ponzán Vidal. While in France, Borrás was arrested and deported to the concentration camp Mauthausen, where he was part of the committee that planned prisoner revolts that sucessfully self-liberated the camp.\n\nAfter achieving his freedom, Borrás returned to France in 1945 and founded FEDIP (Federación Española de Deportados e Internados Políticos), which campaigned for the release of both political prisoners in Franco's Spain and Spanish antifascists who were deported to labor camps in the Soviet Union.`,
+        link: 'https://translate.google.com/translate?hl=en&sl=es&u=https://es.wikipedia.org/wiki/Josep_Ester_i_Borr%25C3%25A1s&prev=search&pto=aue',
+        infoSrc: 'https://libcom.org/history/jos-ester-borr-s'
+      },
+      {
+        category: 'Birthdays',
+        date: 'October 26th, 1881',
+        title: 'Dolores Cacuango (1881 - 1971)',
+        imgSrc: require('./assets/eventPhotos/Individuals/doloresCacuango.jpg'),
+        description: `Dolores Cacuango, born on this day in 1881 and also known as "Mamá Doloreyuk", was a pioneer in the fight for indigenous and farmers rights in Ecuador. She founded the Federación Ecuatoriana de Indios (FEI) in 1944, with the help of Ecuador's Communist Party.\n\nCacuango was born to slaves in San Pablourco, who worked the Pesillo Hacienda near Cayambe without being paid. She had no access to education due to her lack of resources, and learned Spanish while working as a housemaid.\n\nIn 1930, Cacuango was among the leaders of the historic workers' strike at the Pesillo hacienda in Cayambe, which was a milestone for indigenous and peasant rights. During the May 1944 Revolution in Ecuador, Cacuango personally led an assault on a government military base. She co-founded the Indigenous Federation of Ecuador (FEI), one of the first groups to fight for indigenous rights, and helped establish the first bilingual indigenous schools.`,
+        link: 'https://www.womensactivism.nyc/stories/1997',
+        infoSrc: 'https://en.wikipedia.org/wiki/Dolores_Cacuango'
       },
     ],
     'Assassinations': [
@@ -21957,13 +21984,22 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 28th, 1879',
+        title: 'Luisa Capetillo (1879 - 1922)',
+        imgSrc: require('./assets/eventPhotos/Individuals/luisaCapetillo.jpg'),
+        description: `Luisa Capetillo, born on this day in 1879, was a Puerto Rican labor organizer, feminist, and Christian anarchist.\n\nIn her career as a labor activist, she organized workers throughout the United States, worked as a reporter for the FLT (American Federation of Labor), and traveled throughout Puerto Rico, educating and organizing women. Her hometown, Arecibo, became the most unionized area of the country.\n\nIn 1908, during the FLT convention, Capetillo asked the union to approve a policy for women's suffrage, insisting that all women should have the same right to vote as men. Capetillo is considered to be one of Puerto Rico's first suffragists. Along with other labor activists, she also helped pass a minimum-wage law in the Puerto Rican Legislature.\n\nToday, Capetillo is perhaps best known for being arrested for wearing pants in public, however the charges were later dropped. In 2014, the Legislative Assembly of Puerto Rico honored Capetillo, along with eleven other women, with plaques in the "La Plaza en Honor a la Mujer Puertorriqueña" (Plaza in Honor of Puerto Rican Women).`,
+        link: 'https://libcom.org/history/biography-luisa-capetillo',
+        infoSrc: 'https://en.wikipedia.org/wiki/Luisa_Capetillo'
+      },
+      {
+        category: 'Birthdays',
+        date: 'October 28th, 1901',
+        title: 'Emilienne Morin (1901 - 1991)',
+        imgSrc: require('./assets/eventPhotos/Individuals/emilienneMorin.jpg'),
+        description: `Emilienne Morin, born on this day in 1901, was a French anarchist and writer who was active in the Spanish Civil War and anti-fascist resistance against Francisco Franco. In 1931, Morin and her partner, fellow anarchist Buenaventura Durruti, moved to Spain. There, Emilienne was active writing for the Confederación Nacional del Trabajo (CNT) press and took part in anarchist meetings and demonstrations.\n\nWith the outbreak of the Spanish Revolution and Civil War, Emilienne joined the Durruti Column on the Aragon Front and worked as secretary at its HQ, where she was in charge of its press department. After the death of Durruti, Morin returned to France to take part in solidarity campaigns for the Spanish anarchists, writing articles and addressing meetings.`,
+        link: 'https://libcom.org/history/morin-emilienne-leontine-1901-1991-aka-mimi-aka-mimi-fai',
+        infoSrc: 'https://libcom.org/history/morin-emilienne-leontine-1901-1991-aka-mimi-aka-mimi-fai'
       },
     ],
     'Assassinations': [
@@ -21979,13 +22015,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 28th, 1967',
+        title: 'Huey Newton Clashes With Police (1967)',
+        imgSrc: require('./assets/eventPhotos/Events/freeHuey.jpg'),
+        description: `Huey Percy Newton was an African-American political activist and Marxist-Leninist revolutionary who, along with fellow Merritt College student Bobby Seale, co-founded the Black Panther Party (BPP). In the 1960s, under Newton's leadership, the BPP founded over 60 community support programs, including food banks, medical clinics, HIV support groups, legal advice seminars, clothing banks, housing co-ops, and their own ambulance service.\n\nOn this day in 1967, while Newton was celebrating his release from probation, he was wounded in a shootout with police. The incident occurred after he was pulled over by Oakland cop John Frey, who called for backup after realizing who Newton was. When a second officer arrived, shots rang out; Frey was killed, while Newton and the other officer were wounded.\n\nThe "Free Huey!" campaign began in December, the phrase originating out a coalation between the BPP and the Peace and Freedom Party. The trial, which began on July 15th, 1968, quickly ascended beyond the scope of Newton himself, evolving into a racially-charged political movement. Although initially convicted of voluntary manslaughter, Huey was freed after months of appeals from his lawyer, on August 5th, 1970.`,
+        link: 'https://www.pbs.org/hueypnewton/actions/actions_freehuey.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Huey_P._Newton'
       },
     ],
   },
@@ -22372,13 +22408,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 3rd, 2003',
+        title: `UK Postal Workers' Strike Ends (2003)`,
+        imgSrc: require('./assets/eventPhotos/Events/ukPostalStrike2003.jpg'),
+        description: `On this day in 2003, a wildcat strike involving two-thirds of Royal Mail workers (around 20,000 people) ended in success for the striking mailing carriers.\n\nIn August of that year, the Communication Workers Union (CWU) called for a national strike for higher wages, however the proposition we defeated in a close vote. A few months later, in late October, postal workers engaged in a wildcat strike of their own, indicating a lack of trust between union rank-and-file and leadership.\n\nThe strike began when a driver in Dartford, London was sacked and 400 co-workers engaged in a spontaneous work stoppage. Within eleven days, 20,000 to 25,000 workers were out, mostly from London and the South East. More than 16 million letters per day were piling up and, after a few days, 10,000 post boxes across London were sealed off.\n\nOn November 3rd, after the management promised that there would be no repression, sackings or local deals, the strike was resolved. On the aims of the workers and why the strike was successful, one worker commented:\n\n"It was a defensive, but successful strike. The issue is we broke the anti strike legislation. In this case even the headquarters union official were not trying very hard to enforce the law and the local union reps were actively working against the law. We broke through the unions officials 'anti-strike' politics again, and we were successful when we did."`,
+        link: 'https://www.theguardian.com/uk/2003/oct/30/post',
+        infoSrc: 'https://libcom.org/history/2003-postal-workers-wildcat-strike'
       },
     ],
     'Birthdays': [
@@ -24713,13 +24749,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'December 6th, 1977',
+        title: `Swadeshi Cotton Mill Massacre (1977)`,
+        imgSrc: require('./assets/eventPhotos/Events/swadeshiCottonMill.jpg'),
+        description: `On this day in 1977, around 1,000 workers again surrounded the Swadeshi Cotton Mill. Violence broke out between private security and workers, and police intervened by shooting into the crowd of workers. Although official numbers listed 11 dead workers, workers claimed more than 100 people died.\n\nThe surrounding of the factory took place in the context of previous labor strife and uprising at the mill. A few months earlier, in response to unpaid wages, 8,000 workers had surrounded the factory, held management hostage, and placed gas cylinders on the roof of the building, threatening to blow the factory up if their demands were not met. The workers' wages were paid after 54 hours of the siege.`,
+        link: 'http://www.sacw.net/article2320.html',
+        infoSrc: 'https://libcom.org/history/cycle-struggle-1973-1979-india'
       },
     ],
     'Labor': [
