@@ -13925,6 +13925,15 @@ export const eventLibrary = {
         link: 'https://www.theatlantic.com/magazine/archive/1861/06/denmark-vesey/396239/',
         infoSrc: 'https://en.wikipedia.org/wiki/Denmark_Vesey'
       },
+      {
+        category: 'Rebellion',
+        date: 'July 14th, 1970',
+        title: 'HRUM Occupies Lincoln Hospital (1970)',
+        imgSrc: require('./assets/eventPhotos/Events/youngLordsLincoln.jpg'),
+        description: `On this day in 1970, the Health Revolutionary Unity Movement (HRUM), a group of Puerto Rican and black medical workers whose membership strongly overlapped with the Young Lords, occupied Lincoln Hospital in New York City. The occupation came after a young Puerto Rican woman died from negligent care after a minor surgical procedure.\n\nThe Young Lords made seven demands (shown above), including "no cutbacks in services or jobs, free food and a day care center for patients and their kids who wait hours to be attended, and the immediate formation of a community-worker board to control the policies and practices of the hospitals". HRUM also demanded "total self determination of all health services through a community-worker board to operate Lincoln Hospital."\n\nAs a result of their takeover, over a hundred news articles reported the controversies over the hospital's conditions, eventually leading to the passage of anti-lead poisoning legislation. The Young Lords later launched the People's Program at Lincoln Hospital, which was a methadone detoxification program run entirely by volunteers.`,
+        link: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3020214/',
+        infoSrc: 'https://blogs.baruch.cuny.edu/histmed3450/?p=127'
+      },
     ],
     'Labor': [
       {
@@ -19786,9 +19795,9 @@ export const eventLibrary = {
       {
         category: 'Assassinations',
         date: 'September 28th, 1991',
-        title: 'Shankar Guha Niyogi (1991)',
+        title: 'Shankar Guha Niyogi (1943 - 1991)',
         imgSrc: require('./assets/eventPhotos/Individuals/shankarNiyogi.jpg'),
-        description: `Shankar Guha Niyogi (1943 - 1991) was a Marxist Indian labor organizer who was assassinated in his sleep on this day in 1991. Niyogi founded "Chhattisgarh Mukti Morcha", a union run in the town of Dalli Rajhara Mines in Chhattisgarh. Because of his unionization efforts, Niyogi was repeatedly arrested, harassed, and threatened.\n\nOn September 28th, 1991, Niyogi was shot and killed in his sleep, allegedly at the instance of some industrialists who felt threatened by his struggles. His murder trial generated tremendous controversy, as a lower court awarded strict punishments to all suspects, but higher courts later convicted just one suspect and let off two industrialists implicated in the crime.`,
+        description: `Shankar Guha Niyogi was a Marxist Indian labor organizer who was assassinated in his sleep on this day in 1991. Niyogi founded "Chhattisgarh Mukti Morcha", a union run in the town of Dalli Rajhara Mines in Chhattisgarh. Because of his unionization efforts, Niyogi was repeatedly arrested, harassed, and threatened.\n\nOn September 28th, 1991, Niyogi was shot and killed in his sleep, allegedly at the instance of some industrialists who felt threatened by his struggles. His murder trial generated tremendous controversy, as a lower court awarded strict punishments to all suspects, but higher courts later convicted just one suspect and let off two industrialists implicated in the crime.`,
         link: 'https://web.archive.org/web/20080821041615/http://www.hinduonnet.com/fline/fl2205/stories/20050311001004400.htm#',
         infoSrc: 'https://thewire.in/labour/shankar-guha-niyogi'
       },
@@ -19922,7 +19931,7 @@ export const eventLibrary = {
         date: 'September 30th, 1933*',
         title: 'Michael Parenti (1933 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/michaelParenti.jpg'),
-        description: `*This exact day of birth is still unconfirmed\n\nMichael John Parenti (born 1933) is an American political scientist and cultural critic. He has taught at American and international universities and has been a guest lecturer before campus and community audiences.\n\nParenti is particularly notable for his scholarly work "Blackshirts & Reds: Rational Fascism and the Overthrow of Communism", which details political and living conditions in the Soviet Bloc, and "To Kill a Nation: The Attack on Yugoslavia", which vehemently condemned the NATO bombing of the country.`,
+        description: `*This day of birth was pulled from a Parenti fan page and needs further confirmation.\n\nMichael John Parenti, born on this day in 1933, is a Marxist American political scientist and cultural critic. He has taught at American and international universities and has been a guest lecturer before campus and community audiences.\n\nParenti is perhaps most well-known for his scholarly work "Blackshirts & Reds: Rational Fascism and the Overthrow of Communism", which details political and living conditions in the Soviet Bloc, as well as "To Kill a Nation: The Attack on Yugoslavia", which vehemently condemned the NATO bombing of that country.`,
         link: 'http://www.michaelparenti.org/',
         infoSrc: 'https://en.wikipedia.org/wiki/Michael_Parenti'
       },
@@ -19968,7 +19977,7 @@ export const eventLibrary = {
         date: 'October 1st, 1851',
         title: `The "Jerry Rescue" (1851)`,
         imgSrc: require('./assets/eventPhotos/Events/jerryRescue.jpg'),
-        description: `On this day in 1851, William "Jerry" Henry was arrested in Syracuse as a fugitive slave. Earlier that year, the pro-slavery Secretary of State Daniel Webster had warned that the new Fugitive Slave Act (passed in 1850) would be enforced even "here in Syracuse in the midst of the next Anti-Slavery Convention." The arrest was considered a message that the locally-unpopular law would be enforced by federal authorities.\n\nThe abolitionist Liberty Party was holding a state convention in Syracuse and, when the arrest became known, several hundred abolitionists broke into the city jail and freed the fugitive. The event came to be widely known as the "Jerry Rescue".\n\nJerry himself was hidden in Syracuse for several days, then was taken to the Orson Ames House in Mexico, New York, and from there to Oswego, before crossing Lake Ontario into freedom in Canada. Many of the prominent members of the jailbreak also fled to Canada, including Reverend J.W. Loguen and minister Samuel Ringgold Ward.`,
+        description: `On this day in 1851, fugitive slave William "Jerry" Henry was arrested in Syracuse, New York and then broken out of jail by hundreds of abolitionists. Earlier that year, the pro-slavery Secretary of State Daniel Webster had warned that the new Fugitive Slave Act (passed in 1850) would be enforced even "here in Syracuse in the midst of the next Anti-Slavery Convention." The arrest was considered a message that the locally-unpopular law would be enforced by federal authorities.\n\nThe abolitionist Liberty Party was holding a state convention in Syracuse and, when Jerry's arrest became known, several hundred abolitionists broke into the city jail and freed him. The event came to be widely known as the "Jerry Rescue".\n\nJerry himself was hidden in Syracuse for several days, then was taken to the Orson Ames House in Mexico, New York, and from there to Oswego, before crossing Lake Ontario into freedom in Canada. Many of the prominent members of the jailbreak also fled to Canada, including Reverend J.W. Loguen and minister Samuel Ringgold Ward.`,
         link: 'http://www.nyhistory.com/gerritsmith/jerry.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Jerry_Rescue'
       },
@@ -19977,7 +19986,7 @@ export const eventLibrary = {
         date: 'October 1st, 1946',
         title: 'Autumn Uprising Begins (1946)',
         imgSrc: require('./assets/eventPhotos/Events/autumnUprising.jpg'),
-        description: `The Autumn Uprising (also known as the Daegu Riot) was a peasant uprising throughout the southern provinces of Korea against the policies of the military government, headed by American general John R. Hodge, in favor of the people's committees organized by the People's Republic of Korea (PRK).\n\nIt began on this day in 1946 when thousands of workers gathered at Daegu Station. Protesting, they threw rocks at the police and chanted "Kill the police!". Violence escalated, and the U.S.-led government brought in strikebreakers, declared martial law, and put down the rebellion with U.S. soldiers and tanks.\n\nIn total, the uprising resulted in killing of 38 policemen, 163 civil workers, and 73 civilians. The defeat of the uprising is considered to be a turning point in establishing political control over Korea, as the PRK people's committees and the National Council of Korean Labor Unions were weakened by the suppression.`,
+        description: `The Autumn Uprising was an anti-government worker uprising throughout the southern provinces of Korea that began on this day in 1946 at Daegu Station. The protests were against the policies of the military government, headed by American general John R. Hodge, in favor of the people's committees organized by the People's Republic of Korea (PRK).\n\nThe protesting began as thousands of workers gathered at Daegu station for the anti-government protest. There, they threw rocks at the police, chanting "Kill the police!". Violence broke out, and the U.S.-led government brought in strikebreakers, declared martial law, and put down the rebellion by force with U.S. soldiers and tanks.\n\nIn total, the rebellion resulted in killing of 38 policemen, 163 civil workers, and 73 civilians. The defeat of the uprising is considered to be a turning point in establishing political control over Korea, as the PRK people's committees and the National Council of Korean Labor Unions were weakened by the suppression.`,
         link: 'https://www.jstor.org/stable/2782585',
         infoSrc: 'https://en.wikipedia.org/wiki/Autumn_Uprising_of_1946'
       },
@@ -20021,9 +20030,9 @@ export const eventLibrary = {
         date: 'October 1st, 1838',
         title: 'Trail of Tears (1838)',
         imgSrc: require('./assets/eventPhotos/Events/trailOfTears.jpg'),
-        description: `The Trail of Tears was a series of forced relocations of approximately 60,000 Native Americans in the United States from their ancestral homelands in the Southeastern United States, to areas to the west of the Mississippi River that had been designated as Indian Territory. It was on this day in 1838 that the first group of Native Americans, over 12,000 Cherokee, in hundreds of covered wagons, began traveling westward.\n\nThe relocated peoples suffered from exposure, disease, and starvation while en route to their new designated reserve, and approximately 4,000 died before reaching their destinations or shortly after from disease. The name "Trail of Tears" at least in part came from the description of a Choctaw leader of the journey, who called it "a trail of tears and death".`,
+        description: `The Trail of Tears was a series of forced relocations of approximately 60,000 Native Americans in the United States from their ancestral homelands in the Southeastern United States to areas to the west of the Mississippi River that had been designated as "Indian Territory".\n\nIn 1837-38, President Martin Van Buren allowed Georgia, Tennessee, North Carolina, and Alabama, using an armed force of 7,000 people, to relocate about 13,000 Cherokees to Cleveland, Tennessee. On this day in 1838, the first major group of Cherokee, more than 12,000 people in hundreds of covered wagons, were forced out of Tennessee, traveling westward from the town of Red Clay.\n\nTaking the journey through an unusually cold winter, they suffered terribly from exposure, disease, and starvation, killing several thousand people while en route to their new designated reserve. They were also attacked by locals and economically exploited - starving Indians were charged a dollar a head (equal to $24.01 today) to cross the Ohio River, which typically charged twelve cents, equal to $2.88 today.\n\nThe name "Trail of Tears" comes at least in part from the description of a Choctaw leader of the journey, who called it "a trail of tears and death".`,
         link: 'https://en.wikipedia.org/wiki/Trail_of_Tears',
-        infoSrc: 'https://georgiainfo.galileo.usg.edu/thisday/gahistory/10/01/final-council-meeting-before-trail-of-tears#:~:text=On%20Oct.,government%20in%20their%20new%20home.'
+        infoSrc: 'https://georgiainfo.galileo.usg.edu/thisday/gahistory/10/01/final-council-meeting-before-trail-of-tears'
       },
     ],
   },
@@ -20133,7 +20142,7 @@ export const eventLibrary = {
         date: 'October 3rd, 1932',
         title: 'Belfast Outdoor Relief Strike (1932)',
         imgSrc: require('./assets/eventPhotos/Events/outdoorReliefStrike.jpg'),
-        description: `In Belfast, Ireland, on September 30th, 1932, 2,000 relief workers organized by the socialist Revolutionary Workers Group (RWG) voted to go on strike if their demands weren't met. These demands included the abolition of "task work", an increase in relief payments, all work schemes to be paid at trade union rates, and adequate outdoor allowances for all single unemployed men and women who were not receiving unemployment benefits.\n\nOn this day that year, a crowd of 30,000 marched from Frederick Street Labour Exchange to the Custom House steps, where a mass meeting was held. Notably, Catholics and Protestants set aside their differences and made common cause against the ruling class.\n\nAfter negotiations with the relief workers fell through, they called a rent strike, lit bonfires in working class districts, and speakers from the strike committee addressed thousands. Thousands of police were called in. Over the next several days, protesters clashed in battles with police and many workers were killed and injured.\n\nWorkers won most of their demands, including big cash increases in their relief pay. One of the main demands, though, was not conceded - the giving of relief to single persons. Geehan and the other RWG members who were on the strike committee came under heavy criticism for ending the strike before winning this.`,
+        description: `In Belfast, Ireland, on September 30th, 1932, 2,000 relief workers organized by the socialist Revolutionary Workers Group (RWG) voted to go on strike if their demands weren't met. These demands included the abolition of "task work", an increase in relief payments, all work schemes to be paid at trade union rates, and adequate outdoor allowances for all single unemployed men and women who were not receiving unemployment benefits.\n\nOn this day in 1932, a crowd of 30,000 protesters marched from Frederick Street Labour Exchange, holding a mass meeting on the Custom House steps. Notably, Catholics and Protestants set aside their differences to unite in class struggle.\n\nAfter negotiations with the relief workers fell through, they called a rent strike, lit bonfires in working class districts, and speakers from the strike committee addressed thousands. Thousands of police were called in. Over the next several days, protesters clashed in battles with police and many workers were killed and injured.\n\nWorkers won most of their demands, including big cash increases in their relief pay. One of the main demands, though, was not conceded - the giving of relief to single persons. Geehan and the other RWG members who were on the strike committee were heavily criticized for ending the strike before winning this demand.`,
         link: 'https://socialistworker.co.uk/art/29274/1932+outdoor+relief+strike%3A+when+the+North+of+Ireland+fought+as+one',
         infoSrc: 'https://libcom.org/history/1932-belfast-outdoor-relief-strike'
       },
@@ -20142,7 +20151,7 @@ export const eventLibrary = {
         date: 'October 3rd, 1983',
         title: 'Filipino Army Strike (1983)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: `On this day in 1983, 22,000 Filipino workers walked off the job in a strike against the United States' two largest foreign military bases, Clark Air Base, home of the U.S. 13th Air Force, and Subic Bay Naval Base, the logistics and depot center for the U.S. Seventh Fleet.\n\nFilipinos were solely employed in maintenance and lower level positions, paid in pesos, and generally made less than their American counterparts. Striking workers demanded a 10% pay raise, and refused a counter-offer from the American government of 4.6%.`,
+        description: `On this day in 1983, 22,000 Filipino workers walked off the job in a strike against the United States' two largest foreign military bases, Clark Air Base and Subic Bay Naval Base. The military bases were the home of the U.S. 13th Air Force and logistics center for the U.S. Seventh Fleet, respectively.\n\nFilipinos were solely employed in maintenance and lower level positions, paid in pesos, and generally made less than their American counterparts. Striking workers demanded a 10% pay raise, and refused a counter-offer from the American government of a 4.6% increase.`,
         link: 'https://www.washingtonpost.com/archive/politics/1983/10/04/filipinos-strike-at-us-base/6a003fd0-acc3-423d-84d2-9a0d680b7e9e/',
         infoSrc: 'https://www.upi.com/Archives/1983/10/03/Some-22000-Filipino-workers-walked-off-the-job-Monday/6749434001600/'
       },
@@ -20661,13 +20670,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 10th, 1941',
+        title: 'Ken Saro-Wiwa (1941 - 1995)',
+        imgSrc: require('./assets/eventPhotos/Individuals/kenSaroWiwa.jpg'),
+        description: `Kenule Beeson "Ken" Saro-Wiwa was a Nigerian writer, television producer, and environmental who was born on this day in 1941.\n\nSaro-Wiwa was a member of the Ogoni people, an ethnic minority in Nigeria whose homeland, Ogoniland, in the Niger Delta has been targeted for crude oil extraction since the 1950s and suffered extreme environmental damage from decades of indiscriminate petroleum waste dumping.\n\nInitially as spokesperson for (and later as president of) the "Movement for the Survival of the Ogoni People" (MOSOP), Saro-Wiwa led a nonviolent campaign against environmental degradation of the land and waters of Ogoniland by the operations of the multinational petroleum industry, especially the Royal Dutch Shell company.\n\nIn 1994, Saro-Wiwa, along with eight other leaders of MOSOP (together known as the Ogoni Nine), were arrested on false charges and sentenced to death. On November 10th, 1995, the Ogoni nine were hanged by the military dictatorship of General Sani Abacha. Saro-Wiwa's execution provoked international outrage, and resulted in Nigeria's suspension from the Commonwealth of Nations for over three years.`,
+        link: 'https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/29/the-complex-life-death-of-ken-saro-wiwa/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ken_Saro-Wiwa'
       },
     ],
     'Assassinations': [
@@ -20685,9 +20694,9 @@ export const eventLibrary = {
       {
         category: 'Other',
         date: 'October 10th, 2013',
-        title: 'SRA Founded (2013)',
+        title: 'Socialist Rifle Association Founded (2013)',
         imgSrc: require('./assets/eventPhotos/Organizations/SRA.png'),
-        description: `The Socialist Rifle Association (SRA) is an American socialist firearm organization that is dedicated to "providing working class people the information they need to be effectively armed for self and community defense".\n\nThe SRA describes the mission of their organization as "to provide an alternate to the mainstream, toxic, right-wing, and non-inclusive gun culture that has dominated the firearms community for decades. We seek to provide a safe, inclusive, and left-leaning platform for talking about gun rights and self defense, free from racist and reactionary prejudices, while providing a platform for the working class to obtain the skills necessary for all aspects of community defense".`,
+        description: `The Socialist Rifle Association (SRA), founded on this day in 2013, is an American socialist firearm organization that is dedicated to "providing working class people the information they need to be effectively armed for self and community defense".\n\nThe SRA describes the mission of their organization as "to provide an alternate to the mainstream, toxic, right-wing, and non-inclusive gun culture that has dominated the firearms community for decades. We seek to provide a safe, inclusive, and left-leaning platform for talking about gun rights and self defense, free from racist and reactionary prejudices, while providing a platform for the working class to obtain the skills necessary for all aspects of community defense".`,
         link: 'https://socialistra.org/',
         infoSrc: 'https://en.wikipedia.org/wiki/Socialist_Rifle_Association'
       },
@@ -22509,13 +22518,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'November 4th, 1970',
+        title: 'United Farm Workers Office Bombed (1970)',
+        imgSrc: require('./assets/eventPhotos/Events/ufwBomb.jpg'),
+        description: `On this day in 1970, during the Salad Bowl strike in Salinas Valley, California, a United Farm Workers (UFW) office was bombed. The bombing took place in a larger context of sporadic violence against UFW workers during the Salad Bowl strike, which was the largest farm workers strike in history when it began on August 23rd of that year.\n\nThe strike was in protest against the International Brotherhood of Teamsters winning legal jurisdiction over farm workers in California (the UFW had previously organized these workers). The Salad Bowl Strike caused the price of lettuce to double practically overnight, and lettuce growers lost $500,000 a day.\n\nThe strike also led to César Chávez, a UFW leader, to get arrested and imprisoned. When he was visited by athlete Rafer Johnson and Ethel Kennedy, widow of slain Senator Robert F. Kennedy, Johnson and Kennedy were attacked by an anti-union mob on the steps of the jail and police had to suppress a would-be riot.\n\nAlthough the strike ended on March 26th, 1971, when the Teamsters and UFW signed a new jurisdictional agreement reaffirming the UFW's right to organize field workers, jurisdictional labor disputes (and the associated violence) would continue for years afterward. These tensions led directly to the passage of the California Agricultural Labor Relations Act in 1975.`,
+        link: 'https://peoplesworld.org/article/today-in-labor-history-united-farm-workers-launch-the-lettuce-boycott/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Salad_Bowl_strike'
       },
     ],
   },
@@ -22907,24 +22916,24 @@ export const eventLibrary = {
   '11-10': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'November 10th, 1937',
+        title: 'Estado Novo (1937)',
+        imgSrc: require('./assets/eventPhotos/Events/estadoNovo.jpg'),
+        description: `On this day in 1937, Brazilian President Getúlio Vargas gave a national address declaring a state of emergency and abolishing the constitution on the basis of a (fabricated) communist plot to take over the government. Vargas announced a new, severely authoritarian Constitution - "Estado Novo" - that effectively gave him autocratic powers.\n\nThe new government greatly expanded the power police, persecuted political dissidents, de facto banned union activity, and allowed Vargas to rule for the next eight years under what amounted to martial law. Vargas was eventually deposed by the military in a coup launched from his own War Ministry on October 29th, 1945, after the conclusion of World War II.`,
+        link: 'https://libcom.org/history/organized-labor-brazil-1900-1937-anarchist-origins-government-control-colin-everett',
+        infoSrc: 'https://en.wikipedia.org/wiki/Vargas_Era#Third_Brazilian_Republic_(Estado_Novo)'
       },
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 10th, 2010',
+        title: `London Student Protest and Occupation (2010)`,
+        imgSrc: require('./assets/eventPhotos/Events/manchesterUniversityOccupation.jpg'),
+        description: `On this day in 2010, 30,000 - 52,000 students protested the Conservative UK government's proposed raise of tuition caps from £3,290 to £9,000. The protest was organized by the National Union of Students (NUS) and the University and College Union (UCU), and had participation from multiple organizations across the political left, including the Labour Party, Green Party, Socialist Workers Party, Young Communist League, and Revolutionary Communist Group.\n\nThe demonstrators marched from Whitehall past Downing Street, the home of the Prime Minister, and then past the Houses of Parliament. As protesters passed the Houses of Parliament and moved towards Tate Britain for the post-march rally, several thousand people surrounded 30 Millbank in Westminster - campaign headquarters of the Conservative Party.\n\nForcing their way past the limited police presence, approximately 200 people broke in and occupied the building, while a thousand more cheered and supported them from outside. These protesters lit placards on fire, smashed windows, and vandalized the reception area. Staff working in the building were evacuated, and protesters clashed with riot police. Fourteen people had to be hospitalized and fifty-four were arrested, the majority of them students.`,
+        link: 'https://en.wikipedia.org/wiki/2010_United_Kingdom_student_protests#10_November',
+        infoSrc: 'https://libcom.org/news/battle-millbank-occupation-manchester-university-14112010'
       },
     ],
     'Labor': [
@@ -22951,13 +22960,22 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'November 10th, 1944',
+        title: 'Gestapo Executes Ehrenfeld Anti-Fascists (1944)',
+        imgSrc: require('./assets/eventPhotos/Events/ehrenfeldExecution.jpg'),
+        description: `On this date in 1944, the Gestapo publicly hanged 13 members of the anti-Nazi Ehrenfeld Group without trial, near Cologne, Germany.\n\nThe Ehrenfeld Group consisted of over one hundred people, some of whom also participated in the local Edelweiss Pirates organization, was led by Hans Steinbrück, an escaped concentration camp prisoner. They engaged in many acts of rebellion against the Nazi regime, including petty theft, escaping prisoners, and stealing and hiding weapons.\n\nAfter a botched attempt at stealing explosives, on October 8th, 1944, the Gestapo began arresting members of the group, eventually capturing 63 people, including Steinbrück himself. Of those, thirteen Germans, including several teenagers, were executed without trial in a public hanging next to the Ehrenfeld train station on November 10th, 1944.`,
+        link: 'https://en.wikipedia.org/wiki/Ehrenfeld_Group',
+        infoSrc: 'http://www.executedtoday.com/2015/11/10/1944-thirteen-from-the-ehrenfeld-roup-and-the-edelweiss-pirates/'
+      },
+      {
+        category: 'Assassinations',
+        date: 'November 10th, 1995',
+        title: 'Ken Saro-Wiwa (1941 - 1995)',
+        imgSrc: require('./assets/eventPhotos/Individuals/kenSaroWiwa.jpg'),
+        description: `Kenule Beeson "Ken" Saro-Wiwa was a Nigerian writer, television producer, and environmental activist executed by the Nigerian government on this day in 1995.\n\nSaro-Wiwa was a member of the Ogoni people, an ethnic minority in Nigeria whose homeland, Ogoniland, in the Niger Delta has been targeted for crude oil extraction since the 1950s and suffered extreme environmental damage from decades of indiscriminate petroleum waste dumping.\n\nInitially as spokesperson for (and later as president of) the "Movement for the Survival of the Ogoni People" (MOSOP), Saro-Wiwa led a nonviolent campaign against environmental degradation of the land and waters of Ogoniland by the operations of the multinational petroleum industry, especially the Royal Dutch Shell company.\n\nIn 1994, Saro-Wiwa, along with eight other leaders of MOSOP (together known as the Ogoni Nine), were arrested on false charges and sentenced to death. On this day in 1995, the Ogoni nine were hanged by the military dictatorship of General Sani Abacha. Saro-Wiwa's execution provoked international outrage, and resulted in Nigeria's suspension from the Commonwealth of Nations for over three years.`,
+        link: 'https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/29/the-complex-life-death-of-ken-saro-wiwa/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ken_Saro-Wiwa'
       },
     ],
     'Other': [
