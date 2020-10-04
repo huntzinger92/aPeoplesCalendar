@@ -20218,7 +20218,7 @@ export const eventLibrary = {
         category: 'Labor',
         date: 'October 4th, 1907',
         title: 'General Levee Strike (1907)',
-        imgSrc: require('./assets/eventPhotos/Events/newOrleans1907.jpg'),
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: `In the autumn of 1907, both black and white longshore workers launched an extended general strike against their shipping company employers. The general strike began as a sympathy strike with screwmen (skilled workers responsible for tightly compressing and packing cotton bales into the holds of ships).\n\nOn this day in 1907, all of the shipping lines locked out the screwmen, black and white alike, for failing to meet employer bale quotas. 9,000 dockworkers, black and white, struck the New Orleans port that evening in a show of solidarity with the screwmen. Freight handlers from the Southern Pacific line also struck, ending any work on the port.\n\nDuring the second week of the strike, employers launched strong attempts to create a racial break among the black and white strikers. Shippers also revived the White League, a group designed to intimidate black strikers. Despite the attempts, strikers remained united, with some unions noting that if the employers played successfully played one racial group against the other, they would all face starvation wages. The strike lasted twenty days, ending on October 24th, and striking workers won most of their demands.`,
         link: 'http://nolaworkers.org/2018/12/17/the-1907-new-orleans-dockworkers-general-strike/',
         infoSrc: 'https://en.wikipedia.org/wiki/New_Orleans_dock_workers_and_unionization#The_1907_General_Levee_Strike'
