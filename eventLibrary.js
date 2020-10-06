@@ -8573,10 +8573,10 @@ export const eventLibrary = {
     'Labor': [
       {
         category: 'Labor',
-        date: 'May 1st',
-        title: 'May Day',
+        date: 'May 1st, 1889',
+        title: 'May Day (1889)',
         imgSrc: require('./assets/eventPhotos/Events/mayDay.jpg'),
-        description: `International Workers' Day, also known as labor Day or May Day, is a celebration of laborers and the working classes that is promoted by the international labor movement, and occurs every year on May 1st. The date was chosen in 1889 by the Second International to commemorate a notable campaign for the eight-hour day, which culminated in the deadly Haymarket Affair in Chicago on May 4th, 1886. May Day subsequently became an annual event.\n\nThe Haymarket Affair began with a general strike that demanded an eight-hour day. On May 4th, the police acted to disperse a public assembly in support of the strike when an unidentified person threw a bomb. The police responded by firing on the crowd of protesters. The ensuing violence led to the deaths of seven police officers, four to eight civilians, and wounded approximately one hundred people on either side.\n\nHundreds of labor leaders and sympathizers were later rounded-up and four were executed by hanging after conviction in a trial widely perceived as a miscarriage of justice. The following day in Milwaukee Wisconsin, state militia fired on a crowd of strikers killing seven, including a schoolboy and a man feeding chickens in his yard.`,
+        description: `International Workers' Day, also known as labor Day or May Day, is a celebration of laborers and the working classes that is promoted by the international labor movement, and occurs every year on this day. The date was chosen in 1889 by the Second International to commemorate a notable campaign for the eight-hour day, which culminated in the deadly Haymarket Affair in Chicago on May 4th, 1886. May Day subsequently became an annual event.\n\nThe Haymarket Affair began with a general strike that demanded an eight-hour day. On May 4th, the police acted to disperse a public assembly in support of the strike when an unidentified person threw a bomb. The police responded by firing on the crowd of protesters. The ensuing violence led to the deaths of seven police officers, four to eight civilians, and wounded approximately one hundred people on either side.\n\nHundreds of labor leaders and sympathizers were later rounded-up and four were executed by hanging after conviction in a trial widely perceived as a miscarriage of justice. The following day in Milwaukee Wisconsin, state militia fired on a crowd of strikers killing seven, including a schoolboy and a man feeding chickens in his yard.`,
         link: 'https://archive.iww.org/history/library/misc/origins_of_mayday/',
         infoSrc: 'https://en.wikipedia.org/wiki/International_Workers%27_Day'
       },
@@ -8798,7 +8798,7 @@ export const eventLibrary = {
         date: 'May 4th, 1886',
         title: 'The Haymarket Affair (1886)',
         imgSrc: require('./assets/eventPhotos/Events/haymarketAffair.jpg'),
-        description: `The Haymarket affair (also known as the Haymarket massacre, Haymarket riot, or Haymarket Square riot) was the aftermath of a bombing that took place at a labor demonstration on May 4, 1886, at Haymarket Square in Chicago.\n\nIt began as a peaceful rally in support of workers striking for an eight-hour work day, the day after police killed one and injured several workers. After police began trying to disperse the rally, an unknown person threw a dynamite bomb at the police. The bomb blast and ensuing gunfire resulted in the deaths of seven police officers, four to eight civilians, and wounded approximately one hundred people on either side.\n\nIn the internationally publicized legal proceedings that followed, eight anarchists were convicted of conspiracy. Seven were sentenced to death and one to a term of 15 years in prison. Illinois Governor Richard J. Oglesby commuted two of the sentences to terms of life in prison; another committed suicide in jail rather than face the gallows. The other four were hanged on November 11th, 1887.\n\nAmong supporters of the labor movement in the United States and abroad and others, the trial was widely believed to have been unfair, and even a serious miscarriage of justice. The Haymarket Affair was commemorated by the creation of the holiday "May Day", which honors the struggles of the working classes and is celebrated on May 1st of every year.`,
+        description: `The Haymarket affair (also known as the Haymarket massacre, Haymarket riot, or Haymarket Square riot) was the aftermath of a bombing that took place at a labor demonstration on this day in 1886, at Haymarket Square in Chicago.\n\nIt began as a peaceful rally in support of workers striking for an eight-hour work day the day after police killed one worker and injured several more. After police began trying to disperse the rally, an unknown person threw a dynamite bomb at the police. The bomb blast and ensuing gunfire resulted in the deaths of seven police officers, four to eight civilians, and wounded approximately one hundred people on either side.\n\nIn the internationally publicized legal proceedings that followed, eight anarchists were convicted of conspiracy. Seven were sentenced to death and one to a term of 15 years in prison. Illinois Governor Richard J. Oglesby commuted two of the sentences to terms of life in prison; another committed suicide in jail rather than face the gallows. The other four were hanged on November 11th, 1887.\n\nAmong supporters of the labor movement in the United States and abroad and others, the trial was widely believed to have been unfair, and even a serious miscarriage of justice. The Haymarket Affair was commemorated by the creation of the holiday "May Day", which honors the struggles of the working classes and is celebrated on May 1st of every year.`,
         link: 'https://en.wikipedia.org/wiki/Haymarket_affair',
         infoSrc: 'https://www.britannica.com/event/Haymarket-Affair'
       },
@@ -20252,7 +20252,7 @@ export const eventLibrary = {
         date: 'October 4th, 1984',
         title: 'Sankara U.N. Speech (1984)',
         imgSrc: require('./assets/eventPhotos/Events/sankaraSpeech.jpg'),
-        description: `Thomas Sankara (1949 - 1987) was a militant social justice campaigner and President of Burkina Faso from 1983 to 1987. A Marxist-Leninist and pan-Africanist, he was viewed by supporters as a charismatic and iconic figure of revolution and is sometimes referred to as "Africa's Che Guevara".\n\nOn this day in 1984, he gave a notable speech at the United Stations. Sankara had been in power for just over a year by this point. Here is an excerpt from the speech where he expresses international solidarity with oppressed peoples all over the world:\n\n"Let me say to those who are listening to me now that I speak not only on behalf of Burkina Faso, my country which I love so much, but also on behalf of all those who suffer, wherever they may be.\n\nI speak on behalf of those millions of human beings who are in ghettos because their skin is black, or because they have a different kind of culture, those whose status is hardly higher than that of an animal.\n\nI suffer, too, on behalf of those Indians who have been massacred, trampled on and humiliated and who, for centuries, have been confined to reservations, so that they do not have any aspirations to any rights whatsoever, so that their culture cannot become enriched through contact with other cultures, including that of the invader.\n\nI speak out on behalf of those who are unemployed because of a structurally unjust system which has now been completely disrupted, the unemployed who have been reduced to seeing their lives as only the reflection of the lives of those who have more than themselves.\n\nI speak on behalf of women throughout the entire world who suffer from a system of exploitation imposed on them by men".`,
+        description: `Thomas Sankara (1949 - 1987) was a militant social justice campaigner and President of Burkina Faso from 1983 to 1987. A Marxist-Leninist and pan-Africanist, he was viewed by supporters as a charismatic and iconic figure of revolution and is sometimes referred to as "Africa's Che Guevara".\n\nOn this day in 1984, Sankara gave a notable speech at the United Stations, expressing international solidarity with oppressed peoples all over the world. Here is a short excerpt from the speech he gave:\n\n"Let me say to those who are listening to me now that I speak not only on behalf of Burkina Faso, my country which I love so much, but also on behalf of all those who suffer, wherever they may be.\n\nI speak on behalf of those millions of human beings who are in ghettos because their skin is black, or because they have a different kind of culture, those whose status is hardly higher than that of an animal.\n\nI suffer, too, on behalf of those Indians who have been massacred, trampled on and humiliated and who, for centuries, have been confined to reservations, so that they do not have any aspirations to any rights whatsoever, so that their culture cannot become enriched through contact with other cultures, including that of the invader.\n\nI speak out on behalf of those who are unemployed because of a structurally unjust system which has now been completely disrupted, the unemployed who have been reduced to seeing their lives as only the reflection of the lives of those who have more than themselves.\n\nI speak on behalf of women throughout the entire world who suffer from a system of exploitation imposed on them by men".`,
         link: 'https://en.wikipedia.org/wiki/Thomas_Sankara',
         infoSrc: 'https://www.marxists.org/archive/sankara/1984/october/04.htm'
       },
@@ -20366,7 +20366,7 @@ export const eventLibrary = {
         date: 'October 6th, 1917',
         title: 'Fannie Lou Hamer (1917 - 1977)',
         imgSrc: require('./assets/eventPhotos/Individuals/fannieLouHamer.jpg'),
-        description: `Fannie Lou Hamer was an American voting and women's rights activist, community organizer, and a leader in the civil rights movement. She was the co-founder and vice-chair of the Freedom Democratic Party, which she represented at the 1964 Democratic National Convention. She was also a co-founder of the National Women's Political Caucus, an organization created to recruit, train, and support women of all races who wish to seek election to government office.\n\nWhile having surgery in 1961 to remove a tumor, 44-year-old Hamer was also given a hysterectomy without consent by a white doctor; this was a frequent occurrence under Mississippi's compulsory sterilization plan to reduce the number of poor blacks in the state. Hamer is credited with coining the phrase "Mississippi appendectomy" as a euphemism for the involuntary or uninformed sterilization of black women, common in the South in the 1960s.\n\nHamer was extorted, threatened, harassed, shot at, and assaulted by white supremacists and police while trying to register for and exercise her right to vote. She later helped and encouraged thousands of African-Americans in Mississippi to become registered voters, and helped hundreds of disenfranchised people in her area through her work in programs like the Freedom Farm Cooperative, which she formed to subvert state oppression of black people in the agricultural industry.`,
+        description: `Fannie Lou Hamer, born on this day in 1917, was an American voting and women's rights activist, community organizer, and a leader in the civil rights movement. She was the co-founder and vice-chair of the Freedom Democratic Party, which she represented at the 1964 Democratic National Convention. She was also a co-founder of the National Women's Political Caucus, an organization created to recruit, train, and support women of all races who wish to seek election to government office.\n\nWhile having surgery in 1961 to remove a tumor, 44-year-old Hamer was also given a hysterectomy without consent by a white doctor; this was a frequent occurrence under Mississippi's compulsory sterilization plan to reduce the number of poor blacks in the state. Hamer is credited with coining the phrase "Mississippi appendectomy" as a euphemism for the involuntary or uninformed sterilization of black women, common in the South in the 1960s.\n\nHamer was extorted, threatened, harassed, shot at, and assaulted by white supremacists and police while trying to register for and exercise her right to vote. She later helped and encouraged thousands of African-Americans in Mississippi to become registered voters, and helped hundreds of disenfranchised people in her area through her work in programs like the Freedom Farm Cooperative, which she formed to subvert state oppression of black people in the agricultural industry.`,
         link: 'https://americanarchive.org/catalog/cpb-aacip_28-bg2h70895r',
         infoSrc: 'https://en.wikipedia.org/wiki/Fannie_Lou_Hamer'
       },
@@ -22938,13 +22938,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 10th, 1933',
+        title: 'Hormel Sit-Down Strike (1933)',
+        imgSrc: require('./assets/eventPhotos/Events/hormelSitDown.jpg'),
+        description: `On this day in 1933, in one of the first sit-down strikes in American history, workers at a Hormel meatpacking plant in Austin, Minnesota went on strike, seizing control of the factory to keep out scabs.\n\nWorkers at the plant had organized themselves under the banner of the Independent Union of All Workers (IUAW), a newly formed union inspired by Frank Ellis (who had been agitating and radicalizing workers in Austin) and the Workers of the World (IWW). They demanded recognition of their union, higher wages, equal pay for women, and a safer workplace.\n\nJust three days later, on November 13th, workers at the meatpacking plant ended their labor action, winning some of their demands. Although the wage increase was not as high as strikers wanted, the newly recognized union acquired prestige among workers in the plant. Frank Ellis recalled that, following the decision of the Industrial Commission, workers rushed to join the union, a boon to the new and unstable IUAW.`,
+        link: 'http://theraucousrooster.com/2013/11/13/hormel-workers-won-a-historic-victory/',
+        infoSrc: 'https://libcom.org/history/we-were-poor-people-hormel-strike-1933-larry-d-engelmann'
       },
     ],
     'Birthdays': [
@@ -23030,20 +23030,20 @@ export const eventLibrary = {
         date: 'November 11th, 1914',
         title: 'Daisy Bates (1914 - 1999)',
         imgSrc: require('./assets/eventPhotos/Individuals/daisyBates.jpg'),
-        description: `Daisy Bates was an American civil rights activist, publisher, journalist, and lecturer who played a leading role in the Little Rock Integration Crisis of 1957. Her mother was raped and murdered by three white men, who went unpunished.\n\nBates was active in the NAACP, becoming head of the Arkansas state chapter in the 1950s. In this role, she played an essential role in helping the Little Rock Nine enroll in Little Rock Central High School, an all-white high school - organizing their protection, advising the families, and using her home as an official checkpoint for the students before and after school.`,
+        description: `Daisy Bates was an American civil rights activist, publisher, journalist, and lecturer who played a leading role in the Little Rock Integration Crisis of 1957. Her mother was raped and murdered by three white men, who went unpunished.\n\nBates was active in the NAACP, becoming head of the Arkansas state chapter in the 1950s. In this role, she played an essential role in helping the Little Rock Nine enroll in Little Rock Central High School, an all-white high school, organizing their protection, advising the families, and using her home as an official checkpoint for the students before and after school.`,
         link: 'https://docsouth.unc.edu/sohp/G-0009/G-0009.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Daisy_Bates_(activist)'
       },
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'November 11th, 1887',
+        title: 'Haymarket Anarchists Executed (1887)',
+        imgSrc: require('./assets/eventPhotos/Events/haymarketExecutions.jpg'),
+        description: `The Haymarket affair (also known as the Haymarket massacre, Haymarket riot, or Haymarket Square riot) was the aftermath of a bombing that took place at a labor demonstration on May 4th, 1886, at Haymarket Square in Chicago. It began as a peaceful rally in support of workers striking for an eight-hour work day and turned into a massacre after an unknown person threw a dynamite bomb at the police.\n\nIn the internationally publicized legal proceedings that followed, eight anarchists were convicted of conspiracy. Seven were sentenced to death and one to a term of 15 years in prison. Illinois Governor Richard J. Oglesby commuted two of the sentences to terms of life in prison; another committed suicide in jail rather than face the gallows.\n\nOn this day in 1887, the remaining four defendants, George Engel, Adolph Fischer, Albert Parsons, and August Spies, were hanged. At the gallows, they sang the "Marseillaise", then the anthem of the international revolutionary movement. Family members who attempted to see them for the last time, including notable anarchist Lucy Parsons, were arrested.\n\nAccording to witnesses, in the moments before the men were hanged, Spies shouted, "The time will come when our silence will be more powerful than the voices you strangle today." Parsons then requested to speak, but he was cut off when the signal was given to open the trap door.`,
+        link: 'https://www.britannica.com/event/Haymarket-Affair',
+        infoSrc: 'https://en.wikipedia.org/wiki/Haymarket_affair'
       },
     ],
     'Other': [
@@ -23140,24 +23140,33 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 13th, 1887',
+        title: 'Bloody Sunday (1887)',
+        imgSrc: require('./assets/eventPhotos/Events/bloodySunday1887.jpg'),
+        description: `On this day in 1887, thousands of marchers protesting unemployment and state repression clashed with the Metropolitan Police and British Army in Trafalgar Square, Central London. In the aftermath, approximately four hundred people were arrested and seventy-five were badly injured, included many police officers. The event is known as "Bloody Sunday".\n\nThe demonstration was organized by the Social Democratic Federation, Britain's first formally socialist party, and the Irish National League, an Irish nationalist organization. On November 13th, 1887, at least 10,000 protesters marched in to Trafalgar Square from several different directions, led by leaders of the Social Democratic Federation. Members of the Fabian Society were also present, including playwright George Bernard Shaw and Eleanor Marx.\n\nTwo thousand police and 400 troops were deployed to halt the demonstration and protesters, many armed with "iron bars, knives, pokers and gas pipes", fought back. John Burns and Robert Cunninghame-Graham, Social Democratic Federation leaders, were arrested and imprisoned for six weeks. The following Sunday, there was another demonstration and more casualties.`,
+        link: 'http://pubs.socialistreviewindex.org.uk/sr224/charlton.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Bloody_Sunday_(1887)'
+      },
+      {
+        category: 'Rebellion',
+        date: 'November 13th, 1909',
+        title: 'Suffragette Assaults Churchill (1909)',
+        imgSrc: require('./assets/eventPhotos/Individuals/theresaGarnett.jpg'),
+        description: `On this day in 1909, British suffragette Theresa Garnett (1888 - 1966) assaulted Winston Churchill with a whip, striking him several times while shouting "Take that in the name of the insulted women of England!".\n\nThe action came out of the militancy of the suffragist group "Women's Social and Political Union", of which Garnett was a member. Set up in Manchester, its policy of "deeds not words" led to militant methods of campaigning by women frustrated by the failure of more peaceful methods. Members of the group committed many illegal activities, ranging from slapping policemen to widespread arson attacks.\n\nAlthough Garnett arrested for assaulting Churchill, she was only charged with disturbing the peace because Churchill did not want to appear in court. She served one month in Horsfield Prison.`,
+        link: 'https://en.wikipedia.org/wiki/Theresa_Garnett',
+        infoSrc: 'https://libcom.org/history/theresa-garnett-vs-winston-churchill'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 13th, 1995',
+        title: 'Full Sutton Prison Strike (1995)',
+        imgSrc: require('./assets/eventPhotos/Events/fullSutton.jpg'),
+        description: `On this day in 1995, four of Full Sutton Prison's six wings (all those not set aside for sex offenders) went on strike.\n\nAfter breakfast, inmates from four out of the six wings went on strike, refusing to perform their duties, including meal preparation, kitchen help, carpentry, textiles, industrial cleaning, and other trade jobs. Inmates sat in their cells and refused to work.\n\nThe protest was mainly against the new 'Incentives and Earned Privileges Scheme', as well as anger over a series of restrictions imposed on prisoners there over the previous months, including restrictions on use of phones, on the amount of property inmates were allowed to keep, and a ban on them having property handed in by relatives and friends.\n\nThe strike lasted for at least three days, ended by the authorities sending in officers in riot gear to break it up. Dozens of inmates (estimated between 20 and 60) were moved to other jails as a consequence.`,
+        link: 'https://nvdatabase.swarthmore.edu/content/british-prison-inmates-strike-oppose-new-system-control-full-sutton-prison-1995',
+        infoSrc: 'https://libcom.org/history/full-sutton-prisoners-strike-1995'
       },
     ],
     'Birthdays': [
@@ -23173,13 +23182,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'November 13th, 1974',
+        title: 'Silkwood Dies in Mysterious Crash (1974)',
+        imgSrc: require('./assets/eventPhotos/Individuals/karenSilkwood.jpg'),
+        description: `Karen Gay Silkwood (1946 - 1974) was an American chemical technician and labor union activist who was possibly assassinated on this day in 1974. Silkwood is most known for raising concerns about corporate practices related to health and safety in the Kerr-McGee Cimarron Fuel Fabrication Site in Oklahoma.\n\nAs an employee of Kerr-Mcgee, Silkwood made plutonium pellets and was the first woman on the union's negotiating team. After investigating her workplace, she found several health code violations and later testified to the Atomic Energy Commission about her concerns for the handling of radioactive materials at work. Shortly before her death, Silkwood's body contained 400 times the legal limit of plutonium.\n\nOn this day in 1974, while en route to meet a New York Times journalist and union official, Silkwood died in a crash where her car ran off the road. She had just left a union meeting at the Hub cafe in Crescent and was seen with with a binder full of documents. None of the documents were found at the scene of the crash.\n\nAlthough foul play was not conclusively proven, skid marks from Silkwood's car were present on the road, suggesting that she was trying to get back onto the road after being pushed from behind. Investigators also noted damage on the rear of Silkwood's vehicle that was not present before the accident, and microscopic examination of the rear of Silkwood's car showed paint chips that could have come only from a rear impact by another vehicle.\n\nSilkwood's family sued Kerr-McGee on grounds of negligence, and Kerr-McGee eventually settled out of court for $1.38 million, admitting no liability. Kerr-McGee closed its nuclear fuel plants in 1975.`,
+        link: 'https://www.pbs.org/wgbh/pages/frontline/shows/reaction/interact/silkwood.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Karen_Silkwood'
       },
     ],
     'Other': [
@@ -23838,13 +23847,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 23rd, 1913',
+        title: 'Irish Citizen Army Founded (1913)',
+        imgSrc: require('./assets/eventPhotos/Organizations/ica.jpg'),
+        description: `The Irish Citizen Army (ICA) was a small paramilitary group of trained trade union volunteers from the Irish Transport and General Workers' Union (ITGWU) founded on this day in 1913. The ICA was founded by James Larkin, James Connolly, and Jack White in Dublin, Ireland, and established for the defense of workers' demonstrations from the Dublin Metropolitan Police.\n\nThe organization was first formed in the political turmoil of the Lockout of 1913 in Dublin. The violence at union rallies during the strike prompted Larkin to call for a workers' militia to be formed to protect themselves against the police. For the duration of the lock-out was armed with hurleys and bats to protect workers' demonstrations from the police.\n\nIn 1916, it took part in the Easter Rising, an armed insurrection aimed at ending British rule in Ireland. Despite the relatively small size of the army, it was more organized than the larger Irish Volunteers, with its members receiving superior training and being less affected by factional and ideological division. The ICA became involved in the War of Independence, taking responsibility for parts of Dublin and aiding the Irish Republican Army (IRA) in various operations.`,
+        link: 'https://libcom.org/library/story-irish-citizen-army-sean-ocasey',
+        infoSrc: 'https://en.wikipedia.org/wiki/Irish_Citizen_Army'
       },
     ],
     'Labor': [
