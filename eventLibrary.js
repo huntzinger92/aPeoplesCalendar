@@ -13781,13 +13781,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'July 12th, 1873',
+        title: 'Cantonal Rebellion (1873)',
+        imgSrc: require('./assets/eventPhotos/Events/cantonalRebellion.jpg'),
+        description: `The Cantonal Rebellion was a cantonalist insurrection that began on this day in 1873, during the First Spanish Republic. The uprising was initiated by federal Republicans who wanted to immediately establish a federal republic from the bottom-up, without waiting for the Constituent Cortes (the legislature of the new First Republic) to draft and approve the new Federal Constitution.\n\nThe rebellion began in Cartagena, Spain and spread in the following days through the regions of Valencia, Murcia and Andalusia. In these areas, cantons were formed, whose federation would constitute the base of the Spanish Federal Republic. Although the federalists defied the authority of the Cortes, historians do not consider the movement separatist in character.\n\nThe Cantonal Rebellion was put down by force form the First Spanish Republic, which portrayed itself as maintaining the rule of law. When the last canton, Cartagena, surrendered, thousands of people were deported to the Philippines, Cuba, and the Marianas Islands on charges of being a federalist.`,
+        link: 'https://libcom.org/history/anarchism-history-libertarian-ideas-movements-george-woodcock',
+        infoSrc: 'https://en.wikipedia.org/wiki/Cantonal_rebellion'
       },
     ],
     'Labor': [
@@ -20421,7 +20421,7 @@ export const eventLibrary = {
         date: 'October 7th, 2019',
         title: 'Chilean Protests and Strikes (2019-20)',
         imgSrc: require('./assets/eventPhotos/Events/chileProtests.jpg'),
-        description: `On this day in 2019, protests and riots began throughout Chile in response to a raise in the Santiago Metro's subway fare, the increased cost of living, privatization and inequality prevalent in the country. The protests have been considered the "worst civil unrest" having occurred in Chile since the end of Augusto Pinochet's military dictatorship due to the scale of damage to public infrastructure, the number of protesters, and the measures taken by the government.\n\nOn the 25th of October, over a million people took to the streets throughout Chile to protest against President Piñera, demanding his resignation. As of December 29th, 2019, 29 people have died, nearly 2,500 have been injured, and 2,840 have been arrested. Human rights organizations have received several reports of violations conducted against protesters by security forces, including torture, sexual abuse and sexual assault.`,
+        description: `On this day in 2019, protests and riots began throughout Chile in response to a raise in the Santiago Metro's subway fare, the increased cost of living, privatization and inequality prevalent in the country.\n\nThe protests have been called the "worst civil unrest" in Chile since the end of Augusto Pinochet's military dictatorship due to the scale of damage to public infrastructure, the number of protesters, and the measures taken by the government to put down the rebellion.\n\nOn the 25th of October, over a million people took to the streets throughout Chile to protest against President Piñera, demanding his resignation. As of December 29th, 2019, 29 people have died, nearly 2,500 have been injured, and 2,840 have been arrested. Human rights organizations have received several reports of violations conducted against protesters by security forces, including torture, sexual abuse and sexual assault.`,
         link: 'https://www.bbc.com/news/world-latin-america-50191746',
         infoSrc: 'https://en.wikipedia.org/wiki/2019%E2%80%932020_Chilean_protests'
       },
@@ -20443,7 +20443,7 @@ export const eventLibrary = {
         date: 'October 7th, 1967',
         title: 'Michelle Alexander (1967 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/michelleAlexander.jpg'),
-        description: `Michelle Alexander is a writer, civil rights advocate, and visiting professor at Union Theological Seminary. She is best known for her 2010 book "The New Jim Crow: Mass Incarceration in the Age of Colorblindness" and is an opinion columnist for The New York Times.\n\nIn "The New Jim Crow", Alexander describes how oppressed minorities are "subject to legalized discrimination in employment, housing, public benefits, and jury service, just as their parents, grandparents, and great-grandparents once were". Alexander makes a compelling case for how "people whose only crime is drug addiction or possession of a small amount of drugs for recreational use" find themselves permanently locked out of the mainstream society, as well as the racial biases of how the drug war has been waged.`,
+        description: `Michelle Alexander, born on this day in 1967, is a writer, civil rights advocate, and visiting professor at Union Theological Seminary. She is best known for her 2010 book "The New Jim Crow: Mass Incarceration in the Age of Colorblindness" and is an opinion columnist for The New York Times.\n\nIn "The New Jim Crow", Alexander describes how oppressed minorities are "subject to legalized discrimination in employment, housing, public benefits, and jury service, just as their parents, grandparents, and great-grandparents once were". Alexander makes a compelling case for how "people whose only crime is drug addiction or possession of a small amount of drugs for recreational use" find themselves permanently locked out of the mainstream society, as well as the racial biases of how the drug war has been waged.`,
         link: 'https://www.americanswhotellthetruth.org/portraits/michelle-alexander',
         infoSrc: 'https://en.wikipedia.org/wiki/Michelle_Alexander'
       },
@@ -20461,7 +20461,7 @@ export const eventLibrary = {
         date: 'October 7th, 1879',
         title: 'Joe Hill (1879 - 1915)',
         imgSrc: require('./assets/eventPhotos/Individuals/joeHill.jpg'),
-        description: `Joe Hill, born on this day in 1879, was a Swedish-American labor activist, songwriter, and member of the Industrial Workers of the World (IWW). Hill, an immigrant worker frequently facing unemployment and underemployment, became a popular songwriter and cartoonist for the union. His most famous songs include "The Preacher and the Slave", "There Is Power in a Union", and "Casey Jones - the Union Scab", which describes the harsh lives itinerant workers, and call for them to organize to improve their working conditions.\n\nIn 1914, John G. Morrison, a Salt Lake City area grocer and former policeman, and his son were shot and killed by two men. The same evening, Hill arrived at a doctor's office with a gunshot wound, and briefly mentioned a fight over a woman. He refused to explain further, even after he was accused of the grocery store murders on the basis of his injury. Hill was convicted of the murders in a controversial trial and executed on November 19th, despite widespread calls for clemency, including from President Woodrow Wilson and Helen Keller.`,
+        description: `Joe Hill, born on this day in 1879, was a Swedish-American labor activist, songwriter, and member of the Industrial Workers of the World (IWW).\n\nHill, an immigrant worker frequently facing unemployment and underemployment, became a popular songwriter and cartoonist for the union. His most famous songs include "The Preacher and the Slave", "There Is Power in a Union", and "Casey Jones - the Union Scab", which describes the harsh lives itinerant workers, and call for them to organize to improve their working conditions.\n\nIn 1914, John G. Morrison, a Salt Lake City area grocer and former policeman, and his son were shot and killed by two men. The same evening, Hill arrived at a doctor's office with a gunshot wound, and briefly mentioned a fight over a woman. He refused to explain further, even after he was accused of the grocery store murders on the basis of his injury.\n\nHill was convicted of the murders in a controversial trial and executed on November 19th, despite widespread calls for clemency, including from President Woodrow Wilson and Helen Keller.`,
         link: 'https://aflcio.org/about/history/labor-history-people/joe-hill',
         infoSrc: 'https://en.wikipedia.org/wiki/Joe_Hill'
       },
@@ -23217,24 +23217,33 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 14th, 1973',
+        title: 'Athens Polytechnic Uprising (1973)',
+        imgSrc: require('./assets/eventPhotos/Events/athensPolytechnicUprising.jpg'),
+        description: `The Athens Polytechnic Uprising began on this day in 1973 with a massive student demonstration against the governing Greek military junta. An assembly formed during the protest elected to occupy the Polytechnic School, which lasted for three days before being forcibly ended by a military-scale attack by the government.\n\nThe uprising had popular support, with thousands of Athenians flooding into the streets to support their anti-government protest. The occupying students demanded the restoration of democracy in Greece, and were shot at by government snipers set up around the building. On November 17th, the state finally broke through erected barricades by sending a tank crashing through the gates of the Polytechnic.\n\nAlthough the state claimed no students were killed, there were at least 24 recorded deaths, and many estimates are much higher. Although the rebellion was crushed at first, it caused political instability that ultimately led to the regime's downfall in 1974. Greek schools commemorate the uprising annually on November 17th.`,
+        link: 'https://greekcitytimes.com/2018/11/17/november-17-1973-uprising-of-the-polytechnic/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Athens_Polytechnic_uprising'
+      },
+      {
+        category: 'Rebellion',
+        date: 'November 14th, 1990',
+        title: 'Berlin Squatters Battle Police (1990)',
+        imgSrc: require('./assets/eventPhotos/Events/mainzerStrasseEviction.jpg'),
+        description: `On this day in 1990, German squatters battled with approximately 1,500 heavily armed police officers who were attempting to evict squatters from a tenement neighborhood in eastern Berlin. The officers went in with tear gas and water cannons and fought squatters for nearly six hours through a block-long stretch of Mainzer Strasse. Gangs of squatters on rooftops, some masked, bombarded police officers with cobblestones and gasoline bombs while the police retaliated with tear gas and water cannons.\n\nAccording to the NY Times, the squatters, mostly from western Berlin and western Germany, had first fought with the police late Monday night, then constructed a veritable fortress throughout the area, digging deep ditches with a stolen excavator, stringing barbed wire and storing stones, gasoline bombs and railroad flares as weapons.\n\nOn the evening of November 14th, thousands of squatters and their supporters marched through Berlin to protest the action. The government claimed that at least 85 people, including 70 police officers, were injured, and 350 people were taken into custody.`,
+        link: 'https://www.nytimes.com/1990/11/15/world/evolution-in-europe-berlin-is-rocked-by-a-squatters-war.html',
+        infoSrc: 'https://www.washingtonpost.com/archive/politics/1990/11/14/anarchists-face-down-berlin-police/7b21ef2c-6501-42dc-8be9-63bf6e6ec2e0/'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 14th, 1159 BC',
+        title: 'First Recorded Strike in History (1159 BC)',
+        imgSrc: require('./assets/eventPhotos/Events/firstRecordedStrike.jpg'),
+        description: `On this day in 1159 BC, the first recorded strike in history began when necropolis workers in Ancient Egypt refused to continue working after going 18 days without pay. The workers were preparing for Pharoah Ramses III's thirty-year jubilee, a lavish celebration in his honor, years in advance.\n\nThe payment to the workers at Deir el-Medina (also known as Set-Ma'at, "The Place of Truth") was inconsistent before finally stopping altgether. After 18 days of non-payment, workers laid down their tools and marched toward the city shouting "We are hungry!".\n\nAfter negotiations for back pay broke down, the workers took over the southern gate of the Ramesseum, the central storehouse of grain in Thebes. After winning their back pay, wages continued to be paid inconsistently and workers again went on strike, taking over and blocking all access to the Valley of the Kings, which disrupted important religious ceremonies.\n\nThese labor actions went on for three years; the workers would not receive their pay, they would then go on strike, the officials would find the means to pay them, and the same scenario would be repeated again the next month.`,
+        link: 'https://nvdatabase.swarthmore.edu/content/egyptian-laborers-strike-pay-1170-bce',
+        infoSrc: 'https://www.ancient.eu/article/1089/the-first-labor-strike-in-history/'
       },
     ],
     'Birthdays': [
@@ -23261,13 +23270,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'November 14th, 1917',
+        title: 'Night of Terror (1917)',
+        imgSrc: require('./assets/eventPhotos/Events/nightOfTerror.jpg'),
+        description: `On this day in 1917 the superintendent of the Occoquan Workhouse prison ordered forty guards to brutalize suffragists, imprisoned for picketing for the right to vote in Washington D.C. Before November 14th, some of the activists had initiated a hunger strike to protest the conditions of the prison, the prison doctors forcefed the women by putting tubes down their throats, causing some women to vomit.\n\nOn the night of November 14th, prison guards beat Lucy Burns and chained her hands to the cell bars above her head for the entire night. They threw Dora Lewis into a dark cell and beat her unconscious. Her cellmate, Alice Cosu, who believed Lewis to be dead, suffered a heart attack, and was refused medical treatment. Dorothy Day (famous for later founding Catholic Worker Movement) was slammed repeatedly over the back of an iron bench. Guards grabbed, dragged, beat, choked, pinched, and kicked other women.\n\nThe suffragists dubbed the episode the "Night of Terror", and the brutality was highly publicized, garnerning support for the movement to give women the right to vote. On January 9th, 1918, President Woodrow Wilson (who had been specifically targeted by suffragette pickets) finally announced his support for the proposed women's suffrage amendment.`,
+        link: 'https://en.wikipedia.org/wiki/Silent_Sentinels#Occoquan_Workhouse_and_the_Night_of_Terror',
+        infoSrc: 'https://www.washingtonpost.com/news/retropolis/wp/2017/11/10/night-of-terror-the-suffragists-who-were-beaten-and-tortured-for-seeking-the-vote/'
       },
     ],
   },
@@ -23386,13 +23395,22 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'November 16th, 1945',
+        title: 'Gavril Myasnikov (1889 - 1945)',
+        imgSrc: require('./assets/eventPhotos/Individuals/gavrilMyasnikov.jpg'),
+        description: `Gavril Ilyich Myasnikov was a Russian Bolshevik revolutionary and later left communist dissident who was executed by the USSR on this day in 1945. Myansikov participated in the Revolution of 1905 and became an underground Bolshevik activist in 1906. He was arrested by Tsarist police and spent over seven years at hard labor in Siberia.\n\nIn 1922, along with former members of the Workers' Opposition (a dissident group with the Bolsheviks), Myasnikov signed the "Letter of the Twenty-Two", sent to the Comintern in 1922, protesting the Russian Communist Party leaders' suppression of dissent among proletarian members of the Communist Party. Shortly thereafter, Myasnikov was expelled from the Russian Communist Party, and he formed an opposition faction called "Workers Group of the Russian Communist Party" that opposed the New Economic Policy (NEP).\n\nMyasnikov was arrested by the Soviet state in 1923, and served several years in prison before being exiled to Armenia, where he fled the country. In 1944, he accepted an invitation by the Soviet embassy in France to return to the USSR. Upon his arrival, he was arrested by the Soviet secret police and later executed on November 16th, 1945.`,
+        link: 'https://www.marxists.org/archive/miasnikov/index.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Gavril_Myasnikov'
+      },
+      {
+        category: 'Assassinations',
+        date: 'November 16th, 1989',
+        title: 'Salvadoran Jesuits Murdered (1989)',
+        imgSrc: require('./assets/eventPhotos/Events/elSalvadorJesuits.jpg'),
+        description: `On this day in 1989, during the Salvadoran Civil War, Salvadoran Army soldiers killed six Jesuits and two others on the campus of Central American University in San Salvador and attempted to frame the act on rebel groups. The Jesuits were advocates of a negotiated settlement between the government of El Salvador and the Farabundo Martí National Liberation Front (FMLN), and their murders prompted international outrage.\n\nThe Atlacatl Battalion (trained at the U.S. "School of the Americas") was an elite unit of the Salvadoran Army responsible for the violence. The Jesuits were deemed "subversives" that needed to be eliminated, and officers attempted to disguise the operation as a rebel attack, using an AK-47 rifle that had been captured from the FMLN.\n\nAfter storming their residence and killing the priests, soldiers also executed housekeeper Julia Elba Ramos and her 16-year-old daughter, Celina Mariceth Ramos. The murders increased international pressure for a cease-fire and became one of the key turning points that led toward a negotiated settlement to the war.`,
+        link: 'https://libcom.org/history/1970-1990-the-war-of-counter-insurgency-in-el-salvador',
+        infoSrc: 'https://en.wikipedia.org/wiki/1989_murders_of_Jesuits_in_El_Salvador'
       },
     ],
     'Other': [
@@ -24317,13 +24335,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'November 29th, 1864',
+        title: 'Sand Creek Massacre (1864)',
+        imgSrc: require('./assets/eventPhotos/Events/sandCreekMassacre.jpg'),
+        description: `The Sand Creek Massacre was a massacre of Cheyenne and Arapaho people by the U.S. Army that occurred on this day in 1864, as part of the American Indian Wars.\n\nIt began when a 675-man force of the Third Colorado Cavalry attacked and destroyed a village of Cheyenne and Arapaho people in southeastern Colorado Territory, killing and mutilating hundreds of indigenous people, about two-thirds of whom were women and children. This violence took place despite the fact that Black Kettle, a chief known for choosing policies of peace with the colonizers, was flying an American flag and white flag over his lodge to forestall any possible attack.\n\nTwo officers of the attacking forces, Captain Silas Soule and Lieutenant Joseph Cramer refused to obey the order to attack the camp. The rest of the soldiers charged however, killing all present, regardless of age. The soldiers killed children and took trophies, cutting off the fingers, ears, noses, and testicles of the fallen as keepsakes.\n\nChief Ochinee (One-Eye) managed to escape from the camp, but, seeing the massacre unfolding, returned to die with his people. A survivor of the massacre, a 24-year old indigenous woman named Mochni, became a warrior afterward, and participated in raids against colonizers until her incarceration and death. Many others, who had previously supported peace, joined the Dog Soldiers, an indigenous group that engaged against guerilla warfare against the state and would-be settlers on their land.`,
+        link: 'https://www.smithsonianmag.com/history/horrific-sand-creek-massacre-will-be-forgotten-no-more-180953403/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Sand_Creek_massacre'
       },
     ],
   },
