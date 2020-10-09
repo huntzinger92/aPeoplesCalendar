@@ -20515,10 +20515,10 @@ export const eventLibrary = {
     'Labor': [
       {
         category: 'Labor',
-        date: 'October 8th, 1916',
+        date: 'October 8th, 1916*',
         title: 'Bayonne Refinery Strike (1916)',
         imgSrc: require('./assets/eventPhotos/Events/bayonneRefineryStrike.jpg'),
-        description: `The Bayonne Refinery Strikes of 1915-1916 were labor actions of refinery workers in Bayonne, New Jersey, mostly Polish-Americans, who struck Rockefeller-owned Standard Oil and Tidewater Petroleum plants.\n\nOn this day in 1916, Standard Oil workers went on strike, as they had the year before in mid-July. The strikers faced fierce opposition from law-enforcement, and the strike action became violent. In the course of the ten-day strike, 4 people were killed and 86 wounded.\n\nAccording to communist journalist John Reed (an eyewitness to the strike action), this was the first time in industrial dispute where the police officials explicitly announced that their object was to break the strike. Multiple journalists in Bayonne criticized mainstream press as portraying the strikers and protesters as more violent than they actually were; according to Reed and others, the violence was initiated by the police themselves.`,
+        description: `*There is at least one government source that claims the strike took place on October 3rd, however historian Tom McDonough has stated the strike began on October 8th\n\nThe Bayonne Refinery Strikes of 1915-1916 were labor actions of refinery workers in Bayonne, New Jersey, mostly Polish-Americans, who struck against Rockefeller-owned Standard Oil and Tidewater Petroleum plants.\n\nOn this day in 1916, thousands of Standard Oil workers went on strike, demanding higher wages. The strikers faced fierce opposition from law-enforcement, and the labor action became violent. In the course of the ten-day strike, 4 people were killed and 86 were wounded.\n\nAccording to communist journalist John Reed (an eyewitness to the strike action), this was the first time in industrial dispute where the police officials announced that their explicit objective was to break the strike. Multiple journalists in Bayonne criticized mainstream press as portraying the strikers and protesters as more violent than they actually were; according to Reed and others, the violence was initiated by the police themselves.`,
         link: 'https://en.wikipedia.org/wiki/Bayonne_refinery_strikes_of_1915%E2%80%9316',
         infoSrc: 'https://libcom.org/history/bloodshed-bayonne'
       },
@@ -20584,7 +20584,7 @@ export const eventLibrary = {
         date: 'October 9th, 1972',
         title: 'Kirkby Rent Strike (1972)',
         imgSrc: require('./assets/eventPhotos/Events/kirkbyRentStrike.jpg'),
-        description: `The Kirkby Rent Strike was a 14-month long rent strike initiated by 3,000 tenants on this day in 1972, in the town of Kirkby, outside Liverpool, against the Housing Finances Act.\n\nThe Act caused a £1 rent rise for residents of Tower Hill and brought grievances that had been bubbling under for the previous decade to a head. The women who lived there formed an Unfair Rents Action Group and responded to the rent raise by organizing a 14-month long rent strike. The rent strike was ultimately defeated.`,
+        description: `The Kirkby Rent Strike was a 14-month long rent strike initiated by 3,000 tenants on this day in 1972 in the town of Kirkby (outside Liverpool), against the Housing Finances Act.\n\nThe Act caused a £1 rent rise for residents of Tower Hill and brought grievances that had been bubbling under the surface for years to a boiling point. The women who lived there formed the Unfair Rents Action Group, and responded to the rent raise by organizing a 14-month long rent strike.\n\nMore than 3,000 people participated in the strike, and women from a tenant organization called Merseyside Big Flame helped them organize. The rent strike was ultimately defeated on December 24th, 1973.`,
         link: 'https://bigflameuk.files.wordpress.com/2009/05/tower-all.pdf',
         infoSrc: 'https://libcom.org/blog/kirkby-rent-strike-1972-documentary-08042012'
       },
@@ -20595,7 +20595,7 @@ export const eventLibrary = {
         date: 'October 9th, 1912',
         title: 'Little Falls Textile Strike (1912)',
         imgSrc: require('./assets/eventPhotos/Events/littleFallsTextileStrike.jpg'),
-        description: `On this day in 1912, the Little Falls Textile strike began with a spontaneous walkout of workers in the Phoenix Mill in response to mill owners refusing to comply with a law that limited the workweek from 60 hours to 54, as well as to demand higher wages.\n\nThe Industrial Workers of the World (IWW) sent in organizers such as Matilda Rabinowitz, Ben Legere, Joe Ettor, and "Big Bill" Haywood to assist with the strike, resulting in many of the striking workers voting to join the IWW.\n\nThe strike ended on January 3rd, 1913 with the striking workers and IWW prevailing. The workers' demands were met, including the 54-hour work week at the previous 60-hour pay.`,
+        description: `On this day in 1912, the Little Falls Textile strike began when Phoenix Mill workers spontaneously walked off their job in response to demand a wage increase and that mill owners comply with a state law that limited the workweek to 54 hours.\n\nThe Industrial Workers of the World (IWW) sent in organizers such as Matilda Rabinowitz, Ben Legere, Joe Ettor, and "Big Bill" Haywood to assist with the strike, resulting in many of the striking workers voting to join the IWW.\n\nThe strike ended on January 3rd, 1913 with the striking workers and IWW prevailing. The workers' demands were met, including the 54-hour work week at the previous 60-hour pay.`,
         link: 'https://littlefallshistoricalsociety.org/museum-exhibit/1912-little-falls-textile-strike/',
         infoSrc: 'https://libcom.org/history/november-we-remember-centennial-1912-little-falls-textile-strike-brendan-maslauskas-dunn'
       },
@@ -20617,7 +20617,7 @@ export const eventLibrary = {
         date: 'October 9th, 1967',
         title: 'Che Guevara (1967)',
         imgSrc: require('./assets/eventPhotos/Individuals/cheGuevara.jpg'),
-        description: `Ernesto "Che" Guevara (1928 - 1967) was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a ubiquitous countercultural symbol of rebellion and global insignia in popular culture.\n\nAfter performing key roles in Castro's government, Guevara left Cuba in 1965 to foment revolution abroad, first unsuccessfully in Congo-Kinshasa and later in Bolivia, where he was captured by CIA-assisted Bolivian forces and summarily executed on this day in 1967.\n\nOn November 3rd, 1966, Guevara secretly arrived in La Paz on a flight from Montevideo under the false name Adolfo Mena González, posing as a middle-aged Uruguayan businessman working for the Organization of American States. Once there, Guevara had difficulty getting co-operation from both local dissidents and the Bolivian Communist Party, despite besting the Bolivian military in several skirmishes.\n\nMany of the inhabitants willingly informed the Bolivian authorities and military about the guerrillas and their movements in the area, which led directly to Guevara's capture on October 7th, 1967. He famously shouted "Do not shoot! I am Che Guevara and I am worth more to you alive than dead!", however he remained defiant in captivity. On October 9th, on orders from the Bolivian President René Barrientos, Guevara was executed.`,
+        description: `Ernesto "Che" Guevara (1928 - 1967) was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a ubiquitous countercultural symbol of rebellion and global insignia in popular culture.\n\nAfter performing key roles in Castro's government, Guevara left Cuba in 1965 to foment revolution abroad, first unsuccessfully in Congo-Kinshasa and later in Bolivia. While agitating for communist revolution in Bolivia, Guevara was captured by CIA-assisted state forces and summarily executed on this day in 1967.\n\nOn November 3rd, 1966, Guevara had secretly arrived in La Paz on a flight from Montevideo under the false name Adolfo Mena González, posing as a middle-aged Uruguayan businessman working for the Organization of American States. Once there, Guevara had difficulty getting co-operation from both local dissidents and the Bolivian Communist Party, despite besting the Bolivian military in several skirmishes.\n\nMany of the inhabitants willingly informed the Bolivian authorities and military about the guerrillas and their movements in the area, which led directly to Guevara's capture on October 7th, 1967. He famously shouted "Do not shoot! I am Che Guevara and I am worth more to you alive than dead!", however he remained defiant in captivity. On October 9th, on orders from the Bolivian President René Barrientos, Guevara was executed.`,
         link: 'https://www.thenation.com/article/archive/the-death-of-che-guevara-declassified/',
         infoSrc: 'https://en.wikipedia.org/wiki/Che_Guevara'
       },
@@ -20674,7 +20674,7 @@ export const eventLibrary = {
         date: 'October 10th, 1941',
         title: 'Ken Saro-Wiwa (1941 - 1995)',
         imgSrc: require('./assets/eventPhotos/Individuals/kenSaroWiwa.jpg'),
-        description: `Kenule Beeson "Ken" Saro-Wiwa was a Nigerian writer, television producer, and environmental who was born on this day in 1941.\n\nSaro-Wiwa was a member of the Ogoni people, an ethnic minority in Nigeria whose homeland, Ogoniland, in the Niger Delta has been targeted for crude oil extraction since the 1950s and suffered extreme environmental damage from decades of indiscriminate petroleum waste dumping.\n\nInitially as spokesperson for (and later as president of) the "Movement for the Survival of the Ogoni People" (MOSOP), Saro-Wiwa led a nonviolent campaign against environmental degradation of the land and waters of Ogoniland by the operations of the multinational petroleum industry, especially the Royal Dutch Shell company.\n\nIn 1994, Saro-Wiwa, along with eight other leaders of MOSOP (together known as the Ogoni Nine), were arrested on false charges and sentenced to death. On November 10th, 1995, the Ogoni nine were hanged by the military dictatorship of General Sani Abacha. Saro-Wiwa's execution provoked international outrage, and resulted in Nigeria's suspension from the Commonwealth of Nations for over three years.`,
+        description: `Kenule Beeson "Ken" Saro-Wiwa was a Nigerian writer, television producer, and environmental activist who was born on this day in 1941.\n\nSaro-Wiwa was a member of the Ogoni people, an ethnic minority in Nigeria whose homeland, Ogoniland, in the Niger Delta has been targeted for crude oil extraction since the 1950s and suffered extreme environmental damage from decades of indiscriminate petroleum waste dumping.\n\nInitially as spokesperson for (and later as president of) the "Movement for the Survival of the Ogoni People" (MOSOP), Saro-Wiwa led a nonviolent campaign against environmental degradation of the land and waters of Ogoniland by the operations of the multinational petroleum industry, especially the Royal Dutch Shell company.\n\nIn 1994, Saro-Wiwa, along with eight other leaders of MOSOP (together known as the Ogoni Nine), were arrested on false charges and sentenced to death. On November 10th, 1995, the Ogoni nine were hanged by the military dictatorship of General Sani Abacha. Saro-Wiwa's execution provoked international outrage, and resulted in Nigeria's suspension from the Commonwealth of Nations for over three years.`,
         link: 'https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/29/the-complex-life-death-of-ken-saro-wiwa/',
         infoSrc: 'https://en.wikipedia.org/wiki/Ken_Saro-Wiwa'
       },
@@ -24454,13 +24454,22 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'December 1st, 1963',
+        title: 'Harlem Rent Strike (1963)',
+        imgSrc: require('./assets/eventPhotos/Events/harlemRentStrike.jpg'),
+        description: `On this day in 1963, residents of 34 Harlem tenements (585 families in total) went on a rent strike in protest of inhumane living conditions.\n\nAt  the  time  of  the  strike,  only  12 percent  of the  city's  welfare  recipients  lived in public housing. The rest occupied the city's most dilapidated and dan-gerous buildings, many of which had long since been declared unlivable. Many tenants lived without consistent heat, electricty, and plumbing, as well as dealing with terrible pest infestations.\n\nOn December 30th, 1963, these tenants were expected to appear in Manhattan Civil Court to defend themselves against the landlords who ordered their evictions. With news media looking on, they brought rats, both dead and alive, to the court, along with evidence that the heat, electricity, working plumbing, and rodent extermination were routinely denied them. Their cases were dismissed.\n\n`,
+        link: 'https://libcom.org/files/Rad%20America%20V1%20I3.pdf',
+        infoSrc: 'https://journals.ku.edu/amsj/article/view/2942/2901'
+      },
+      {
+        category: 'Rebellion',
+        date: 'December 1st, 1955',
+        title: 'Rosa Parks Refuses to Move (1955)',
+        imgSrc: require('./assets/eventPhotos/Events/rosaParksArrested.jpg'),
+        description: `On this day in 1955, in Montgomery, Alabama, civil rights activist Rosa Parks rejected a bus driver's order to relinquish her seat to a white passenger.\n\nParks was not the first person to resist bus segregation, nor was it the first time she herself refused to accomodate the bus laws. As early as 1943, Parks exited the bus rather than to give up her seat but continue riding. Parks said, "My resisting being mistreated on the bus did not begin with that particular arrest. I did a lot of walking in Montgomery."\n\nThe National Association for the Advancement of Colored People (NAACP), for whom Parks worked as a secretary, believed that she was the best candidate for seeing through a court challenge because she was perceived as a responsible, mature woman with a good reputation. Accordingly, the NAACP bailed her out of jail after her arrest.\n\nDue to economic sanctions used against activists, Parks lost her job at the department store, and her husband quit his job after his boss forbade him to talk about his wife or her legal case. Parks was convicted in a local trial within a week of her arrest, and the appeals process was greatly slowed by the state government of Alabama. From the economic pressure of the Montgomery Bus Boycott, eventually the city conceded and reversed its segregation bus laws.`,
+        link: 'https://www.washingtonpost.com/posteverything/wp/2015/12/01/how-history-got-the-rosa-parks-story-wrong/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Rosa_Parks'
       },
     ],
     'Labor': [
@@ -24798,20 +24807,38 @@ export const eventLibrary = {
         date: 'December 6th, 1977',
         title: `Swadeshi Cotton Mill Massacre (1977)`,
         imgSrc: require('./assets/eventPhotos/Events/swadeshiCottonMill.jpg'),
-        description: `On this day in 1977, around 1,000 workers again surrounded the Swadeshi Cotton Mill. Violence broke out between private security and workers, and police intervened by shooting into the crowd of workers. Although official numbers listed 11 dead workers, workers claimed more than 100 people died.\n\nThe surrounding of the factory took place in the context of previous labor strife and uprising at the mill. A few months earlier, in response to unpaid wages, 8,000 workers had surrounded the factory, held management hostage, and placed gas cylinders on the roof of the building, threatening to blow the factory up if their demands were not met. The workers' wages were paid after 54 hours of the siege.`,
-        link: 'http://www.sacw.net/article2320.html',
-        infoSrc: 'https://libcom.org/history/cycle-struggle-1973-1979-india'
+        description: `On December 6, 1977, the biggest and one of the oldest textile mills in India, Swadeshi Cotton Mills in Kanpur, erupted in a bloody orgasm of violence as over 700 rioting workers demanding payment of deferred wages fought a pitched battle with armed police forces. When the tear gas and the cordite fumes had cleared, the gigantic mill lay in a shambles.\n\nOn this day in 1977, around 1,000 workers rioted outside the Swadeshi Cotton Mill in Kanpur, India due to deferred wages, battling with police forces. The Swadeshi Cotton Mills were some of the oldest textile mills in India, and home to particularly brutal labor strife. A few months earlier, 8,000 workers held management hostage and placed gas cylinders on the roof of the building, threatening to blow the factory up if their wages were not paid.\n\nThe December 6th riots became violent when fights broke out between private security and the workers; police intervened by shooting into the crowd of workers. Although official numbers listed 11 dead workers, others have claimed more than 100 people died. 300 workers disappeared in the aftermath of the violence. Both sources provided below state that the government's figures are false, and that the police shooting was completely unjustified.`,
+        link: 'https://www.jstor.org/stable/4366400?read-now=1&seq=2#page_scan_tab_contents',
+        infoSrc: 'https://www.indiatoday.in/magazine/investigation/story/19780131-swadeshi-cotton-mills-in-kanpur-erupts-in-violence-workers-killed-in-police-firing-822808-2014-10-30'
+      },
+      {
+        category: 'Rebellion',
+        date: 'December 6th, 2008',
+        title: 'Grigoropoulos Killed, Greeks Riot (2008)',
+        imgSrc: require('./assets/eventPhotos/Events/greekRiots2008.jpg'),
+        description: `On this day in 2008, the worst Greek riots in decades began after Alexandros Grigoropoulos, a 15-year-old student, was killed by a police officer in central Athens. The killing of the young student by police resulted in large protests within an hour of the shooting, which later escalated to widespread rioting, with numerous rioters damaging property and engaging riot police with Molotov cocktails.\n\nThe demonstrations and rioting soon spread to several other cities and lasted for several weeks, into January of 2009. On December 10th, the General Confederation of Greek Workers (ΓΣΕΕ) and the Civil Servants' Confederation (ΑΔΕΔΥ), together representing half of the total Greek workforce, called a one-day general strike in protest against the government's economic policies.`,
+        link: 'https://libcom.org/history/greek-riots-eyewitness-reports-2008',
+        infoSrc: 'https://en.wikipedia.org/wiki/2008_Greek_riots'
+      },
+      {
+        category: 'Rebellion',
+        date: 'December 6th, 1918',
+        title: 'West Indies Regiment Mutiny (1918)',
+        imgSrc: require('./assets/eventPhotos/Events/westIndiesMutiny.jpg'),
+        description: `On this day in 1918, members of the British West Indies Regiment mutinied, facing pay and rank discrimination in the British Army. As a result of severe labor shortages in Taranto, Italy, the West Indians had to carry out arduous physical tasks, unloading ships and cleaning toilets for white soldiers. Black members were also not allowed to have a rank higher than Sergeant, and wite soldiers were given a pay raise while black soldiers were not.\n\nUner these conditions, the men of the 9th Battalion revolted and attacked their black officers. The mutiny lasted four days. Approximately 60 soldiers were tried for mutiny and those convicted received sentences ranging from three to five years, although one was executed by firing squad.\n\nIn the aftermath of the crushed mutiny, an organization called the Caribbean League was formed by West Indian soldiers. When one sergeant stated "the black man should have freedom and govern himself in the West Indies and that if necessary, force and bloodshed should be used to attain that object" at a meeting, he was loudly applauded by the majority of those present.\n\nThe soldiers decided to hold a general strike for higher wages on their return to the West Indies. A secret memo written by the British government in 1919 recognized the revolutionary sentiments among the soldiers: "Nothing we can do will alter the fact that the black man has begun to think and feel himself as good as the white."`,
+        link: 'https://www.iwm.org.uk/history/the-story-of-the-british-west-indies-regiment-in-the-first-world-war',
+        infoSrc: 'https://libcom.org/history/british-west-indies-regiment-mutiny-1918'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'December 6th, 1907',
+        title: 'Monongah Mining Disaster (1907)',
+        imgSrc: require('./assets/eventPhotos/Events/monongahMiningDisaster.jpg'),
+        description: `The Monongah Mining Disaster, described as the "the worst mining disaster in American history", took place on this day in 1907 in West Virginia. Out of 367 workers officially in the mine, the disaster killed at least 362 of them, most of whom were immigrants. The actual number may be higher because workers would often take family members (including children) into the mines to help with their work.\n\nThe disaster was caused by an explosion that occurred in Fairmont Coal Company's No. 6 and No. 8 mines which destroyed the ventilation shafts and caused the roof to collapse. Rescue attempts were greatly hindered because the air was not fit to breathe - rescuers could not be in the mine for more than fifteen minutes at a time. Only one worker was rescued, another four escaped.\n\nChief Mine Inspector James W. Paul concluded that Fairmont Coal Company was operating within the bounds of state law. The disaster was one of the contributing events that led to the creation of the United States Bureau of Mines.`,
+        link: 'http://www.wvculture.org/history/disasters/monongah03.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Monongah_mining_disaster'
       },
     ],
     'Birthdays': [
@@ -24838,13 +24865,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'December 6th, 1989',
+        title: 'École Polytechnique Massacre (1989)',
+        imgSrc: require('./assets/eventPhotos/Events/ecoleMassacre.jpg'),
+        description: `The École Polytechnique Massacre was an anti-feminist mass shooting in Montreal at the École Polytechnique engineering school on this day in 1989.\n\nClaiming he was "fighting feminism", the shooter entered a mechanical engineering class at the school and ordered the women and men to opposite sides of the classroom. He instructed the men to leave and shot the remaining women. After this, the shooter walked throughout the school, targeting women for another 20 minutes before committing suicide. Fourteen women were killed, ten women and four men were injured.\n\nThe event was the most deadly mass shooting in Canada's history at the time, and led to more stringent gun control laws as well as changes in the tactical response of police to mass shootings.`,
+        link: 'https://www.thecanadianencyclopedia.ca/en/article/polytechnique-tragedy',
+        infoSrc: 'https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_massacre'
       },
     ],
   },
