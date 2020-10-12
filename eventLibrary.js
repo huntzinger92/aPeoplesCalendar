@@ -20375,7 +20375,7 @@ export const eventLibrary = {
         date: 'October 6th, 1885',
         title: `"Smiling Joe" Ettor (1885 - 1948)`,
         imgSrc: require('./assets/eventPhotos/Individuals/joeEttor.jpg'),
-        description: `Joseph James "Smiling Joe" Ettor, born on this day in 1885, was an Italian-American trade union organizer who, in the middle-1910s, was one of the leading public faces of the Industrial Workers of the World (IWW). Although he is best remembered for his role in the Lawrence Textile Strike of 1912, Ettor had been active in several strikes in the years leading up to it. He was also governing General Executive Board of the IWW from 1908-1914.\n\nEttor was particularly useful for organizing immigrant workers because he could speak five languages, and he used these skills as a leader of the Lawrence Textile Strike. During the strike, a worker was shot and killed, and he and the other IWW leader present, Arturo Giovannitti, were arrested as accomplices on little to no evidence. The arrests were controversial, and both were eventually acquitted of charges of having been an accessory to the murder.`,
+        description: `Joseph James "Smiling Joe" Ettor, born on this day in 1885, was an Italian-American industrial union organizer who, in the middle-1910s, was one of the leading public faces of the Industrial Workers of the World (IWW). Although he is best remembered for his role in the Lawrence Textile Strike of 1912, Ettor had been active in several strikes in the years leading up to it. He was also governing General Executive Board of the IWW from 1908-1914.\n\nEttor was particularly useful for organizing immigrant workers because he could speak five languages, and he used these skills as a leader of the Lawrence Textile Strike. During the strike, a worker was shot and killed, and he and the other IWW leader present, Arturo Giovannitti, were arrested as accomplices on little to no evidence. The arrests were controversial, and both were eventually acquitted of charges of having been an accessory to the murder.`,
         link: 'https://libcom.org/history/joseph-ettor-1885-1948',
         infoSrc: 'https://en.wikipedia.org/wiki/Joseph_James_Ettor'
       },
@@ -20720,7 +20720,7 @@ export const eventLibrary = {
         date: 'October 11th, 1972',
         title: 'El Centro de la Raza Founded (1972)',
         imgSrc: require('./assets/eventPhotos/Events/centroRaza.jpg'),
-        description: `On this day in 1972, members of the ESL program at South Seattle Community College occupied a vacant school building in Seattle's Beacon Hill neighborhood and founded El Centro de la Raza ("The Center for the People of All Races"). The activists were inspired by the 1970 occupation of the decommissioned Fort Lawton in Seattle's Magnolia neighborhood by Native Americans, which resulted in the founding of the "Daybreak Star Cultural Center".\n\nAfter three months of occupying the building and numerous rallies, petitions and letters, the Seattle City Council finally agreed to hear their case. The City Council approved the lease, but Mayor Wes Uhlman vetoed the action, causing supporters to then occupy the mayor's office. A five-year lease signed January 20th, 1973, at $1 rent annually.\n\nToday, El Centro de la Raza continues to function as an educational, cultural, and social service agency. It is considered a significant part of civil rights history in the Pacific Northwest. In 2015, El Centro de la Raza built more than one hundred moderately-priced apartments south of its main building. The apartments are designed for families making 30-60% of the average median annual income in Seattle, or $24,000 to $49,000.`,
+        description: `On this day in 1972, members of the ESL program at South Seattle Community College occupied a vacant school building in the Beacon Hill neighborhood and founded El Centro de la Raza ("The Center for the People of All Races"). The activists were inspired by the 1970 occupation of the decommissioned Fort Lawton in Seattle's Magnolia neighborhood by Native Americans, which resulted in the founding of the "Daybreak Star Cultural Center".\n\nAfter three months of occupying the building and numerous rallies, petitions and letters, the Seattle City Council finally agreed to hear their case. The City Council approved the lease, but Mayor Wes Uhlman vetoed the action, causing supporters to then occupy the mayor's office. A five-year lease signed January 20th, 1973, at $1 rent annually.\n\nToday, El Centro de la Raza continues to function as an educational, cultural, and social service agency. It is considered a significant part of civil rights history in the Pacific Northwest. In 2015, El Centro de la Raza built more than one hundred moderately-priced apartments south of its main building. The apartments are designed for families making 30-60% of the average median annual income in Seattle, or $24,000 to $49,000.`,
         link: 'http://www.elcentrodelaraza.org/history-evolution/',
         infoSrc: 'https://en.wikipedia.org/wiki/El_Centro_de_la_Raza'
       },
@@ -20808,7 +20808,7 @@ export const eventLibrary = {
         date: 'October 12th, 1898',
         title: 'The Battle of Virden (1898)',
         imgSrc: require('./assets/eventPhotos/Events/battleOfVirden.jpg'),
-        description: `The Battle of Virden, also known as the Virden Massacre, was a labor union conflict in central Illinois that occurred on this day in 1898. After a local chapter of the United Mine Workers of America began striking at a mine in Virden, Illinois, the Chicago-Virden Coal Company hired black strikebreakers from Birmingham, Alabama and shipped them to Virden by train.\n\nThe company hired armed detectives or security guards to accompany the strikebreakers. An armed conflict broke out when armed miners surrounded the train as it arrived in town. The detectives shot first, but strikers the were also armed. A total of four detectives and seven striking mine workers were killed, with five guards, thirty miners, and an unrecorded number of strikebreakers wounded.\n\nAfter this incident, Illinois Governor John Tanner ordered the national guard to prevent any more strikebreakers from coming into the state by force. The next month, the Chicago-Virden Coal Company relented and allowed the unionization of its workers.`,
+        description: `The Battle of Virden was an armed labor union conflict that occurred on this day in 1898 when members of the United Mine Workers of America (UMW) surrounded a train full of strikebreakers in central Illinois. After a local chapter of the UMW began striking at a mine in Virden, Illinois, the Chicago-Virden Coal Company hired black strikebreakers from Birmingham, Alabama and shipped them to Virden by train.\n\nThe company hired armed detectives or security guards to accompany the strikebreakers, and an armed conflict broke out when armed miners surrounded the train as it arrived in town. A total of four detectives and seven striking mine workers were killed, with five guards, thirty miners, and an unrecorded number of strikebreakers wounded.\n\nAfter this incident, Illinois Governor John Tanner ordered the national guard to prevent any more strikebreakers from coming into the state by force. The next month, the Chicago-Virden Coal Company relented and allowed the unionization of its workers.`,
         link: 'https://www.zinnedproject.org/news/tdih/battle-of-virden/',
         infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Virden'
       },
@@ -20819,7 +20819,7 @@ export const eventLibrary = {
         date: 'October 12th, 1904',
         title: 'Ding Ling (1904 - 1986)',
         imgSrc: require('./assets/eventPhotos/Individuals/dingLing.jpg'),
-        description: `Jiang Bingzhi, better known by her pen name Ding Ling was born on this day in 1904 and is considered one of China's most popular 20th century authors. In her early career, Ding Ling initially wrote highly successful short stories centring on young, unconventional Chinese women. Around 1930 she became a major literary figure of the "leftist" literature.\n\nIn 1931, her husband, communist poet Hu Yepin, was executed in Shanghai by the Kuomintang government for his association with the Communists. Shortly thereafter, she joined the Chinese Communist Party and almost all of her fiction from this time on was in support of its goals.\n\nDespite this, in 1957 she was denounced as a "rightist", purged from the party, and her fiction and essays were banned. She spent five years in jail during the Cultural Revolution and was sentenced to do manual labor on a farm for twelve years before being "rehabilitated" in 1978.`,
+        description: `Jiang Bingzhi (better known by her pen name Ding Ling) was a feminist and Marxist Chinese writer born on this day in 1904. She is considered one of China's most popular 20th century authors. In her early career, Ding Ling initially wrote highly successful short stories centering on young, unconventional Chinese women. Around 1930 she became a major literary figure of the "leftist" literature.\n\nIn 1931, her husband, communist poet Hu Yepin, was executed in Shanghai by the Kuomintang government for his association with the Communists. Shortly thereafter, she joined the Chinese Communist Party and almost all of her fiction from this time on was in support of its goals.\n\nDespite this, in 1957 she was denounced as a "rightist", purged from the party, and her fiction and essays were banned. She spent five years in jail during the Cultural Revolution and was sentenced to do manual labor on a farm for twelve years before being "rehabilitated" in 1978.`,
         link: 'https://en.wikipedia.org/wiki/Ding_Ling',
         infoSrc: 'https://www.britannica.com/biography/Ding-Ling'
       },
@@ -20830,7 +20830,7 @@ export const eventLibrary = {
         date: 'October 12th, 1960',
         title: 'Inejiro Asanuma Assassinated (1960)',
         imgSrc: require('./assets/eventPhotos/Events/asanumaAssassination.jpg'),
-        description: `Inejiro Asanuma (浅沼 稲次郎, 1898 - 1960) was a Japanese politician and leader of the Japan Socialist Party. Asanuma became a forceful advocate of socialism in post-war Japan. He was noted for his support of the Chinese Communist Party (CCP) and controversial criticism of U.S-Japanese relations, calling the United States "the shared enemy of China and Japan".\n\nOn this day in 1960, Asanuma was assassinated by 17-year-old Otoya Yamaguchi, a nationalist, during a televised political debate for the coming elections for the House of Representatives. While Asanuma spoke from the lectern at Tokyo's Hibiya Hall, Yamaguchi rushed onstage and ran his yoroi-dōshi (a traditional samurai sword) through Asanuma's ribs on the left side, killing him. Yamaguchi was later apprehended, but killed himself in police custody.`,
+        description: `Inejiro Asanuma (1898 - 1960) was a leader of the Japan Socialist Party assassinated by a nationalist with a samurai sword on this day in 1960. Asanuma was a forceful advocate of socialism in post-war Japan. He was noted for his support of the Chinese Communist Party (CCP) and controversial criticism of U.S-Japanese relations, calling the United States "the shared enemy of China and Japan".\n\nOn October 12th, 160, Asanuma was assassinated by 17-year-old Otoya Yamaguchi, a nationalist, during a televised political debate for the coming elections for the House of Representatives. While Asanuma spoke from the lectern at Tokyo's Hibiya Hall, Yamaguchi rushed onstage and ran his yoroi-dōshi (a traditional samurai sword) through Asanuma's ribs on the left side, killing him. Yamaguchi was later apprehended, but killed himself in police custody.`,
         link: 'https://books.google.com/books?id=F4-dAwAAQBAJ&pg=PA234&lpg=PA234&dq=Inejiro+Asanuma&source=bl&ots=upa72gzlSU&sig=ACfU3U2FbOKpRqGa9ANQ2jRLtbrqFGMvjQ&hl=en&sa=X&ved=2ahUKEwiopIC-jZLrAhWUUs0KHfzPDYAQ6AEwA3oECBkQAQ#v=onepage&q=Inejiro%20Asanuma&f=false',
         infoSrc: 'https://en.wikipedia.org/wiki/Inejiro_Asanuma'
       },
@@ -25146,13 +25146,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'December 10th, 1924',
+        title: 'Society for Human Rights Founded (1924)',
+        imgSrc: require('./assets/eventPhotos/Individuals/henryGerber.jpg'),
+        description: `The Society for Human Rights, founded on this day in 1924 in Illinois by Henry Gerber, was the first gay rights organization in the United States. The Society for Human Rights also published the earliest-documented homosexual periodical, Friendship and Freedom. Although Gerber (shown above) founded the group, a black clergyman named John T. Graves was its first president, with Gerber serving as a director.\n\nGerber set out to expand the Society's membership beyond the original seven but had difficulty interesting anyone other than poorer gays in joining. More affluent members of Chicago's gay community refused to join his society, not wanting to ruin their reputations by being associated with homosexuality.\n\nThe Society was only a chartered organization for a few months before police arrested Gerber and several other members. After their arrests, the Chicago Examiner reported the story under the headline "Strange Sex Cult Exposed".\n\nGerber was subjected to three highly publicized trials, and his defense, ultimately successful, cost him his life savings. Unable to continue funding the Society, the group dismantled, and Gerber left for New York City, embittered that none of the wealthier gays of Chicago had come to his aid for a cause he believed was designed to advance the common good.`,
+        link: 'https://www.nps.gov/articles/lgbtq-activism-henry-gerber-house-chicago-il.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Society_for_Human_Rights'
       },
     ],
   },
@@ -25214,13 +25214,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'December 11th, 1981',
+        title: 'El Mozote Massacre (1981)',
+        imgSrc: require('./assets/eventPhotos/Events/elMozoteMassacre.jpg'),
+        description: `The El Mozote Massacre took place in the villeage of el Mozote, El Salvador this day in 1981, when the Salvadoran Army killed 800-1200 villagers, including the rape and murder of children. The massacre was carried out by units of the Salvadoran army's Atlacatl Battalion, which was created in 1980 at the U.S. Army's School of the Americas.\n\nSoldiers separated the population of el Mozote into men, women, and children, and began by torturing and executing the men. Girls as young as 10 were raped, and they murdered the children by cutting their throats and hanging them from trees. At least one child killed in this way was reportedly two years old.\n\nThe NY Times and Washing Post reporters who broke the story in early 1982 were heavily criticzed, and both the U.S. and Salvodran governments denied or downplayed the incident. Officials of the Reagan administration called them "gross exaggerations" and as late as 2001, U.S. official Elliott Abrams said that Washington's policy in El Salvador was a "fabulous achievement." In December 2011, the government of El Salvador apologized for the massacre`,
+        link: 'https://www.theatlantic.com/ideas/archive/2019/02/ilhan-omar-elliott-abrams-and-el-mozote-massacre/582889/',
+        infoSrc: 'https://en.wikipedia.org/wiki/El_Mozote_massacre'
       },
     ],
   },
@@ -25260,13 +25260,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 12th, 1873',
+        title: 'Lola Ridge (1873 - 1941)',
+        imgSrc: require('./assets/eventPhotos/Individuals/lolaRidge.jpg'),
+        description: `Lola Ridge, born on this day in 1873, was an Irish-American anarchist poet and an influential editor of avant-garde, feminist, and Marxist publications. Her collections include Firehead (1930), Red Flag (1927), Sun-up, and Other Poems (1920), and The Ghetto, and Other Poems (1918).\n\nDedicated to radical politics, Ridge's subject matter was often the stories of the working class. She was arrested while protesting against the executions of Nicola Sacco and Bartolomeo Vanzetti in 1927.`,
+        link: 'https://www.poetryfoundation.org/poets/lola-ridge',
+        infoSrc: 'https://en.wikipedia.org/wiki/Lola_Ridge'
       },
     ],
     'Assassinations': [
@@ -25282,13 +25282,31 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Other',
+        date: 'December 12th, 1866',
+        title: 'Oaks Colliery Explosion (1866)',
+        imgSrc: require('./assets/eventPhotos/Events/oaksColliery.jpg'),
+        description: `On this day in 1866, the Oaks Colliery explosion occurred in Yorkshire, England, killing 361 miners and rescuers, aged 10 to 67. The disaster was the second worst mining disaster in the United Kingdom (after the Senghenydd colliery disaster in Wales), and the worst in England itself. The deaths were caused by an explosion, so large it shook houses for three miles, in the mines, trapping workers inside.\n\nThe Oaks was a notoriously dangerous mine, and ten years earlier the 400-strong workforce had gone on an unsuccessful ten-week strike because of management incompetence. On the day of the explosion, 340 people, adults and children, were underground.\n\nMultiple rescue attempts were made over the following days, however they had to be abandoned because of continuing explosions within the mine. A 29-strong party led by mine engineer Parkin Jeffcock was killed during one of the rescue operations. No one was ever held accountable for the death of the workers or the dangerous work conditions of the Oaks Colliery.`,
+        link: 'https://www.bbc.com/news/uk-england-south-yorkshire-41187124',
+        infoSrc: 'https://en.wikipedia.org/wiki/Oaks_explosion'
+      },
+      {
+        category: 'Other',
+        date: 'December 12th, 1969',
+        title: 'Piazza Fontana Bombing (1969)',
+        imgSrc: require('./assets/eventPhotos/Events/piazzaFontanaBombing.jpg'),
+        description: `The Piazza Fontana Bombing was a false flag terrorist attack in Milan, Italy that occurred on this day in 1969, committed by the fascist group "Ordine Nuovo". The bombing took place in the headquarters of Banca Nazionale dell'Agricoltura ("National Agricultural Bank") in Piazza Fontana, and killed 17 people, wounding 88. The same afternoon, three more bombs were detonated in Rome and Milan.\n\nThe attack was initially attributed to Italian anarchists, leading to more than 80 arrests were made. Giuseppe Pinelli, an anarchist railway worker, died after falling from the fourth-floor window of the police station where he was being held. Anarchist Pietro Valpreda was falsely convicted and served 18 years in prison.\n\nOrdine Nuovo committed the attacks to prevent the country falling into the hands of the left-wing by duping the public into believing the bombings were part of a communist insurgency. They also had assistance from the state - General Gianandelio Maletti, the head of SID (Servizio Informazioni Difesa) obstructed the investigation and withheld information from one of the trials. Maletti also destroyed a report implicating Ordine Nuovo and arranged for potential witnesses to leave the country before fleeing himself to South Africa.`,
+        link: 'https://libcom.org/history/articles/strategy-of-tension-italy',
+        infoSrc: 'https://en.wikipedia.org/wiki/Piazza_Fontana_bombing'
+      },
+      {
+        category: 'Other',
+        date: 'December 12th, 1948',
+        title: 'Batang Kali Massacre (1948)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `The Batang Kali Massacre, described by "Britain's My Lai", was the killing of 24 unarmed villagers by British troops on this day in 1948. The massacre happened during the Malayan Emergency and was part of counter-insurgency operations against Malay and Chinese communists in Malaya – then a colony of the British Crown.\n\nA state of emergency was declared by colonial authorities in Malaya in June 1948 because of escalating violence and the assassinations of several prominent British landowners by insurgent forces. The massacre itself occurred that December when British Troops surrounded a rubber plantation at Sungai Rimoh near Batang Kali in Selangor and gunned down 24 unarmed adult men. The only adult male survivor was a man named Chong Hong, who fainted and was presumed dead.\n\nDespite several investigations by the British government since the 1950s, and a re-examination of the evidence by the Royal Malaysia Police between 1993 and 1997, no charges were brought against any of the alleged perpetrators. As recently as 2018, the European Court of Human Rights declared one appeal for justice as inadmissible on the grounds that it took place too long ago.`,
+        link: 'https://libcom.org/library/malayan-emergency-retrospect-organization-successful-counterinsurgency-effort',
+        infoSrc: 'https://en.wikipedia.org/wiki/Batang_Kali_massacre'
       },
     ],
   },
