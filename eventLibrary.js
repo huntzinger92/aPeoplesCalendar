@@ -20865,7 +20865,7 @@ export const eventLibrary = {
         date: 'October 13th, 1968',
         title: 'Sid Mills Fish-in Arrest (1968)',
         imgSrc: require('./assets/eventPhotos/Individuals/sidMills.jpg'),
-        description: `The Fish Wars were a series of civil disobedience protests in the 1960s and '70s in which Native American tribes around the Puget Sound pressured the U.S. government to recognize fishing rights granted by the Point No Point Treaty. The acts of protest often involved Native Americans fishing "illegaly" on rivers that previous treaties, then ignored, had grante them rights to.\n\nOne protester arrested was Sid Mills, who was arrested following a fish-in at Frank's Landing on the Nisqually River in Washington on this day in 1968. He issued a statement:\n\n"I am a Yakima and Cherokee Indian, and a man...I served in combat in Vietnam-until critically wounded...I hereby renounce further obligation in service or duty to the United States Army.\n\nMy first obligation now lies with the Indian People fighting for the lawful Treaty to fish in usual and accustomed water of the Nisqualiy, Columbia and other rivers of the Pacific Northwest, and in serving them in this fight in any way possible.\n\n...My decision is influenced by the fact that we have already buried Indian fishermen returned dead from Vietnam, while Indian fishermen live here without protection and under steady attack..."`,
+        description: `The Fish Wars were a series of civil disobedience protests in the 1960s and '70s in which Native American tribes around the Puget Sound pressured the U.S. government to recognize fishing rights granted by the Point No Point Treaty. The acts of protest often involved Native Americans fishing "illegaly" on rivers that previous treaties, then ignored, had grante them rights to.\n\nOn this day in 1968, while conducting a Fish-in protest at Frank's Landing on the Nisqually River, activist Sid Mills was arrested. He issued a statement:\n\n"I am a Yakima and Cherokee Indian, and a man...I served in combat in Vietnam-until critically wounded...I hereby renounce further obligation in service or duty to the United States Army.\n\nMy first obligation now lies with the Indian People fighting for the lawful Treaty to fish in usual and accustomed water of the Nisqualiy, Columbia and other rivers of the Pacific Northwest, and in serving them in this fight in any way possible.\n\n...My decision is influenced by the fact that we have already buried Indian fishermen returned dead from Vietnam, while Indian fishermen live here without protection and under steady attack..."`,
         link: 'https://en.wikipedia.org/wiki/Fish_Wars',
         infoSrc: 'https://www.historyisaweapon.com/defcon1/zinnsur19.html'
       },
@@ -20887,7 +20887,7 @@ export const eventLibrary = {
         date: 'October 13th, 1923',
         title: 'Dorothy Bolden (1923 - 2005)',
         imgSrc: require('./assets/eventPhotos/Individuals/dorothyLeeBolden.jpg'),
-        description: `Dorothy Lee Bolden, born on this day in 1923, was the founder of the National Domestic Worker's Union of America and worked to fight for women's rights and bring segregation to an end.  Martin Luther King Jr. was an early influence in Bolden's life, who was her neighbor at the time of the Civil Rights Movement.\n\nShe began working as a domestic worker at the age of nine and would eventually utilize her past experiences to form the Domestic Worker's Union in Atlanta, Georgia. Through the Domestic Worker's Union, had over 13,000 women members throughout the United States and won better pay and working conditions for them. Bolden was also responsible for registering thousands of African Americans to vote.`,
+        description: `Dorothy Lee Bolden, born on this day in 1923, was the founder of the National Domestic Worker's Union of America and activist who fought for for women's rights and ending segregation. Martin Luther King Jr. was an early influence in Bolden's life, who was her neighbor at the time of the Civil Rights Movement.\n\nShe began working as a domestic worker at the age of nine and would eventually utilize her past experiences to form the Domestic Worker's Union in Atlanta, Georgia. Through the Domestic Worker's Union, had over 13,000 women members throughout the United States and won better pay and working conditions for them. Bolden was also responsible for registering thousands of African Americans to vote.`,
         link: 'https://www.blackpast.org/african-american-history/dorothy-lee-bolden-1924-2005/',
         infoSrc: 'https://en.wikipedia.org/wiki/Dorothy_Lee_Bolden'
       },
@@ -20898,7 +20898,7 @@ export const eventLibrary = {
         date: 'October 13th, 1909',
         title: 'Francisco Ferrer (1909)',
         imgSrc: require('./assets/eventPhotos/Individuals/franciscoFerrer.jpg'),
-        description: `Francisco Ferrer i Guàrdia (1859 - 1909) was a radical freethinker, anarchist, and educationist behind a network of secular, private, libertarian schools in and around Barcelona.\n\nIn 1901, Ferrer founded the Barcelona Modern School, "Escuela Moderna", which sought to provide a secular, libertarian curriculum as an alternative to the religious dogma and compulsory lessons common within Spanish schools. His school eschewed punishments and rewards, and encouraged practical experience over academic study.\n\nIn mid-1909, Ferrer was arrested and accused of orchestrating a week of insurrection known as Barcelona's "Tragic Week". He was convicted in a show trial and executed by firing squad on this day in 1909. His death triggered international outcry, and his life was prominently memorialized in writing, monuments, and demonstrations across three continents.`,
+        description: `Francisco Ferrer i Guàrdia (1859 - 1909) was a radical freethinker, anarchist, and educator who was assassinated by the state on this day in 1909.\n\nFerrer was well-known for founding a network of secular and libertarian schools in and around Barcelona. In 1901, Ferrer founded the Barcelona Modern School, "Escuela Moderna", which sought to provide a secular, libertarian curriculum as an alternative to the religious dogma and compulsory lessons common within Spanish schools. His school eschewed punishments and rewards, and encouraged practical experience over academic study.\n\nIn mid-1909, Ferrer was arrested and accused of orchestrating a week of insurrection known as Barcelona's "Tragic Week". He was convicted in a show trial and executed by firing squad on October 13th, 1909. His death triggered international outcry, and his life was prominently memorialized in writing, monuments, and demonstrations across three continents.`,
         link: 'https://theanarchistlibrary.org/library/francisco-ferrer-the-origin-and-ideals-of-the-modern-school',
         infoSrc: 'https://en.wikipedia.org/wiki/Francisco_Ferrer'
       },
@@ -20955,7 +20955,7 @@ export const eventLibrary = {
         date: 'October 14th, 1906',
         title: 'Hannah Arendt (1906 - 1975)',
         imgSrc: require('./assets/eventPhotos/Individuals/hannahArendt.jpg'),
-        description: `Johanna "Hannah" Cohn Arendt was a German-American philosopher and political theorist. Her many books and articles on topics ranging from totalitarianism to epistemology have had a lasting influence on political theory. She is widely considered one of the most important political philosophers of the twentieth century.\n\nHer works cover a broad range of topics, but is perhaps best known for those dealing with the nature of power and evil, politics, direct democracy, authority, and totalitarianism. Arendt coined the phrase "banality of evil" when attempting to explain how ordinary people become actors in totalitiarian systems in her work "Eichmann in Jerusalem: A Report on the Banality of Evil".`,
+        description: `Johanna "Hannah" Cohn Arendt was a German-American philosopher and political theorist born on this day in 1906. Her many books and articles on topics ranging from totalitarianism to epistemology have had a lasting influence on political theory. She is widely considered one of the most important political philosophers of the twentieth century.\n\nHer works cover a broad range of topics, but is perhaps best known for those dealing with the nature of power and evil, politics, direct democracy, authority, and totalitarianism. Arendt coined the phrase "banality of evil" when attempting to explain how ordinary people become actors in totalitiarian systems in her work "Eichmann in Jerusalem: A Report on the Banality of Evil".`,
         link: 'http://www.openculture.com/2013/07/hannah-arendt-1964-tv-interview.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Hannah_Arendt'
       },
@@ -20964,7 +20964,7 @@ export const eventLibrary = {
         date: 'October 14th, 1889',
         title: `Max Hoelz (1889 - 1933)`,
         imgSrc: require('./assets/eventPhotos/Individuals/maxHoelz.jpg'),
-        description: `Max Hoelz, born on this day in 1889, was a German Communist, most known for his role as a 'Communist Bandit' in the Vogtland region. Hoelz became politically radicalized by the 1917 October Revolution in Russia and by contact with Georg Schumann, a member of the socialist Spartakusbund (Schumann was later to be executed by the Nazis in 1945).\n\nIn 1920, after the right-wing Kapp Putsch, Hoelz organized workers from Falkenstein and Oelsnitz in a Red Guard, leading armed bands against the police, the army, and the far-right paramilitary Freikorps. In this role, he became a kind of "Robin Hood", raising money from employers under threat of reprisals, liberating prisoners, destroying property deeds and police archives, and burning villas of the rich.\n\nLater in life, after the Nazis began to come into power, he moved to Soviet Russia, however he became a dissident, criticizing bad conditions for the workers there. On September 15th, 1933, he died in a "boating accident", which is speculated to have actually been an NKVD assassination.`,
+        description: `Max Hoelz, born on this day in 1889, was a German Communist most known for his role as a "Communist Bandit", leading raids against police, releasing prisoners, and destroying property deeds. Hoelz became politically radicalized by the 1917 October Revolution in Russia and by contact with Georg Schumann, a member of the socialist Spartakusbund (Schumann was later to be executed by the Nazis in 1945).\n\nIn 1920, after the right-wing Kapp Putsch, Hoelz organized workers from Falkenstein and Oelsnitz in a Red Guard, leading armed bands against the police, the army, and the far-right paramilitary Freikorps. In this role, he became a kind of "Robin Hood", raising money from employers under threat of reprisals, liberating prisoners, destroying property deeds and police archives, and burning villas of the rich.\n\nLater in life, after the Nazis began to come into power, he moved to Soviet Russia, however he became a dissident, criticizing bad conditions for the workers there. On September 15th, 1933, he died in a "boating accident", which is speculated to have actually been an NKVD assassination.`,
         link: 'https://en.wikipedia.org/wiki/Max_Hoelz',
         infoSrc: 'https://libcom.org/history/articles/1889-1933-max-hoelz'
       },
@@ -21063,7 +21063,7 @@ export const eventLibrary = {
         date: 'October 15th, 1967',
         title: 'Moratorium to End the War in Vietnam (1967)',
         imgSrc: require('./assets/eventPhotos/Events/vietnamMoratorium.jpg'),
-        description: `The Moratorium to End the War in Vietnam was a massive demonstration and teach-in across the United States against the United States involvement in the Vietnam War. It took place on this day in 1969, and was followed a month later by a large Moratorium March in Washington, D.C. Fred Halstead wrote that it was "the first time [the anti-war movement] reached the level of a full-fledged mass movement."\n\nOver a quarter of million people attended the Moratorium march in Washington, D.C., where they marched down Pennsylvania Avenue in the evening bearing candles led by Coretta Scott King to the White House. Scott King told the marchers that it would have delighted her assassinated husband, Martin Luther King Jr., to have seen people of all races rallying together for the cause of peace.\n\nThe rallies held in New York, Detroit, Boston (where about 100,000 attended a speech by anti-war Senator George McGovern), and Miami were also well attended.`,
+        description: `The "Moratorium to End the War in Vietnam" was a massive demonstration and teach-in in protest of the Vietnam War that took place on this day in 1967, across the United States. It was followed a month later by a large Moratorium March in Washington, D.C. Socialist politican Fred Halstead wrote that it was "the first time [the anti-war movement] reached the level of a full-fledged mass movement."\n\nOver a quarter of million people attended the Moratorium march in Washington, D.C., where they marched down Pennsylvania Avenue in the evening bearing candles led by Coretta Scott King to the White House. Scott King told the marchers that it would have delighted her assassinated husband, Martin Luther King Jr., to have seen people of all races rallying together for the cause of peace.\n\nThe rallies held in New York, Detroit, Boston (where about 100,000 attended a speech by anti-war Senator George McGovern), and Miami were also well attended.`,
         link: 'http://news.bbc.co.uk/onthisday/hi/dates/stories/october/15/newsid_2533000/2533131.stm',
         infoSrc: 'https://en.wikipedia.org/wiki/Moratorium_to_End_the_War_in_Vietnam'
       },
@@ -21481,13 +21481,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'October 21st, 1928',
+        title: 'Giuseppe Pinelli (1928 - 1969)',
+        imgSrc: require('./assets/eventPhotos/Individuals/giuseppePinelli.jpg'),
+        description: `Giuseppe "Pino" Pinelli (1928 - 1969) was an Italian railroad worker and anarchist born on this day in 1928. He died in 1969 by falling out of a window while in Italian police custody.\n\nPinelli was a member of the Milan-based anarchist association named "Ponte della Ghisolfa", and was also the secretary of the Italian branch of the Anarchist Black Cross. He organized young anarchists in the "Gioventu Libertaria" (Libertarian Youth) in 1962 and helped found the "Sacco and Vanzetti anarchist association" in 1965.\n\nOn December 12th, 1969, Italian fascists from the "Ordine Nuovo" orchestrated a bombing campaign in Milan; one bomb in Piazza Fontana killed 17 people and injured 88. The bombing was blamed on Italian anarchists, and Pinelli was detained along with many other leftists, including Pietro Valpreda, who was falsely convicted and served eighteen years in prison.\n\nJust before midnight on December 15th, 1969, Pinelli fell to his death from a fourth floor window of the Milan police station. Three police officers interrogating Pinelli, including Commissioner Luigi Calabresi, were put under investigation in 1971 for his death, but legal proceedings concluded it was due to accidental causes. Calabresi was later gunned down at his home in 1972, for which Adriano Sofri was convicted in 1997.`,
+        link: 'https://libcom.org/history/pinelli-giuseppe-pino-1928-1969',
+        infoSrc: 'https://en.wikipedia.org/wiki/Giuseppe_Pinelli'
       },
     ],
     'Assassinations': [
@@ -25478,13 +25478,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'December 15th, 2014',
+        title: 'Belgian Anti-Austerity General Strike (2014)',
+        imgSrc: require('./assets/eventPhotos/Events/belgium2014General.jpg'),
+        description: `On this day in 2014, a 24-hour general strike took place in Belgium to protest new austerity policies. The austerity measures included raising the pension age, freezing wages, and cutting public services, projected to save €11bn (£8.7bn) over five years.\n\nThe strike grounded hundreds of flights, stopped all train services, caused ports to be blockaded, and forced many businesses, schools and government offices to close. Despite the general strike and continued demonstrations over the following months, the Belgian government passed the proposed austerity policies.`,
+        link: 'https://www.theguardian.com/world/2014/dec/15/belgium-unions-general-strike-charles-michel',
+        infoSrc: 'https://www.bbc.com/news/business-30475230'
       },
     ],
     'Labor': [
@@ -25500,24 +25500,42 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 15th, 1897',
+        title: 'Mary Brooksbank (1897 - 1978)',
+        imgSrc: require('./assets/eventPhotos/Individuals/maryBrooksBank.jpg'),
+        description: `Mary Brooksbank, born on this day in 1897, was a Scottish mill worker, socialist, and musician. Inspired by John McLean, she was an active member of the Communist Party of Great Britain between 1920 and 1933, and imprisoned three times as a result of her political activism. Later, Brooksbank became critical of Stalin and more sympathetic to Scottish nationalism.\n\nToday, Brooksbank is today as a prominent figure in Dundee's labor movement. She founded the Working Women Guild to fight for better health and social services in Dundee, securing a membership of over 300, and was heavily involved in October 1934 with the National Unemployed Workers Movement county march to Forfar, to lobby the County Council. She was also a songwriter, writing "mill songs" about the working-class mill workers of Dundee.`,
+        link: 'https://mainlynorfolk.info/folk/songs/thejutemillsong.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mary_Brooksbank'
+      },
+      {
+        category: 'Birthdays',
+        date: 'December 15th, 1944',
+        title: 'Chico Mendes (1944 - 1988)',
+        imgSrc: require('./assets/eventPhotos/Individuals/chicoMendes.jpg'),
+        description: `Francisco Alves Mendes Filho, better known as Chico Mendes, was a Brazilian rubber tapper, trade union leader, and environmentalist born on this day in 1944.\n\nBorn into the Brazilian rubber industry, Chico was known as both a radical unionist and an activist by the mid-1980s, also running for several local political positions such as state deputy and city councilor. He fought to preserve the Amazon rainforest, and advocated for the human rights of Brazilian peasants and indigenous peoples.\n\nIn 1988, Mendes launched a campaign to stop a man named Darly Alves da Silva from logging the area that its inhabitants wanted demarcated as an extractive reserve. On the evening December 22nd, 1988, Mendes was assassinated in his Xapuri home by Darci, the son of Darly Alves da Silva. He was the 90th rural activist murdered that year in Brazil.`,
+        link: 'https://www.theguardian.com/world/2013/dec/20/brazil-salutes-chico-mendes-25-years-after-murder',
+        infoSrc: 'https://en.wikipedia.org/wiki/Chico_Mendes'
       },
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'December 15th, 1890',
+        title: 'Sitting Bull Assassinated (1890)',
+        imgSrc: require('./assets/eventPhotos/Individuals/sittingBull.jpg'),
+        description: `Sitting Bull (c. 1831 - 1890) was an indigenous leader of resistance against the United States government who was killed by Indian agency police on this day in 1890. Sitting Bull was Lakota, and formed cross-tribal alliances in his efforts to resist the process of colonization. Sitting Bull also steadfastly refused to become dependent on the U.S. government.\n\nOn June 25th, 1876, Colonel Custer and his forces were wiped out at the battle of Little Big Horn. Sitting Bull did not take part in the battle, but acted as a kind of spiritual leader to those who did, performing the Sun Dance, in which he fasted and sacrificed over 100 pieces of flesh from his arms, a week prior. Following this battle, the U.S. government sent thousands of soldiers to the area, causing many Lakota to surrender.\n\nIn 1890, due to fears that Sitting Bull would use his influence to support the Ghost Dance movement (a movement of indigenous resistance), Indian Service agent James McLaughlin ordered his arrest. Early on the morning December 15th, 39 police officers and four volunteers approached Sitting Bull's house. The camp awakened and men converged at the house.\n\nWhen Sitting Bull refused to comply, the police used force on him, enraging the Sioux in the village. Catch-the-Bear, a Lakota, shouldered his rifle and shot one of the Indian agents, who reacted by firing his revolver into the chest of Sitting Bull. In 1953, his Lakota family exhumed what were believed to be his remains, reburying them near Mobridge, South Dakota, near his birthplace.`,
+        infoSrc: 'https://www.history.com/this-day-in-history/sitting-bull-killed-by-indian-police',
+        link: 'https://en.wikipedia.org/wiki/Sitting_Bull'
+      },
+      {
+        category: 'Assassinations',
+        date: 'December 15th, 1969',
+        title: 'Giuseppe Pinelli Dies in Police Custody (1969)',
+        imgSrc: require('./assets/eventPhotos/Individuals/giuseppePinelli.jpg'),
+        description: `Giuseppe "Pino" Pinelli (1928 - 1969) was an Italian railroad worker and anarchist who fell to his death on this day in 1969 while being detained by Italian police.\n\nPinelli was a member of the Milan-based anarchist association named "Ponte della Ghisolfa", and was also the secretary of the Italian branch of the Anarchist Black Cross. He organized young anarchists in the "Gioventu Libertaria" (Libertarian Youth) in 1962 and helped found the "Sacco and Vanzetti anarchist association" in 1965.\n\nA few days before Pinelli's death, Italian fascists from the "Ordine Nuovo" orchestrated a bombing campaign in Milan; one bomb in Piazza Fontana killed 17 people and injured 88. The bombing was blamed on Italian anarchists, and Pinelli was detained along with many other leftists, including Pietro Valpreda, who was falsely convicted and served eighteen years in prison.\n\nJust before midnight on December 15th, 1969, Pinelli fell to his death from a fourth floor window of the Milan police station. Three police officers interrogating Pinelli, including Commissioner Luigi Calabresi, were put under investigation in 1971 for his death, but legal proceedings concluded it was due to accidental causes. Calabresi was later gunned down at his home in 1972, for which Adriano Sofri was convicted in 1997.`,
+        link: 'https://libcom.org/history/pinelli-giuseppe-pino-1928-1969',
+        infoSrc: 'https://en.wikipedia.org/wiki/Giuseppe_Pinelli'
       },
     ],
     'Other': [
@@ -25976,35 +25994,53 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 22nd, 1946',
+        title: 'Kuwasi Balagoon (1946 - 1986)',
+        imgSrc: require('./assets/eventPhotos/Individuals/kuwasiBalagoon.jpg'),
+        description: `Kuwasi Balagoon was a queer New Afrikan anarchist and a member of the Black Liberation Army born on this day in 1946. A veteran of the U.S. Army, the racism he experienced in the military led him to begin tenant organizing in New York City, where he joined the Black Panther Party. He was one of the defendants in the Panther 21 case.\n\nBalagoon later escaped from Rahway State Prison in New Jersey and went underground with the Black Liberation Army (BLA) in 1978. On October 20th, 1981, he was captured while participating in an armored truck robbery (known as the Brinks Robbery of 1981) which killed two cops and a money courier. Balagoon was subsequently sentenced to life in prison.\n\nBalagoon authored several texts while in prison, writings that have become influential among black and other anarchists since first being published and distributed by anarchist prisoner support networks in the 1980s and 1990s. He died in prison of an AIDS-related illness on December 13th, 1986, aged 39.`,
+        link: 'https://theanarchistlibrary.org/category/author/kuwasi-balagoon',
+        infoSrc: 'https://en.wikipedia.org/wiki/Kuwasi_Balagoon'
+      },
+      {
+        category: 'Birthdays',
+        date: 'December 22nd, 1900',
+        title: 'Valerio Isca (1900 - 1996)',
+        imgSrc: require('./assets/eventPhotos/Individuals/valerioIsca.jpg'),
+        description: `Valerio Isca, born on this day in 1900, was an anarchist who co-founded the Libertarian Book Club in 1945, in New York City. Born in Italy, Isca immigrated to the United States after fighting in World War I. In New York City, Isca helped spread anarchist ideas, a champion of the libertarian socialism advocated by Peter Kropotkin.\n\nSpeaking to anarchist historian Paul Avrich, he stated "Anarchism at bottom is an ethical philosophy. When a man realizes that it is immoral to exploit another man and immoral to oppress another man, and when he refuses to do so, that man has become an anarchist, as far as I am concerned."`,
+        link: 'https://www.fifthestate.org/archive/348-fall-1996/our-fallen-anarchist-comrades/',
+        infoSrc: 'https://libcom.org/history/valerio-isca'
+      },
+      {
+        category: 'Birthdays',
+        date: 'December 22nd, 1905',
+        title: 'Kenneth Rexroth (1905 - 1982)',
+        imgSrc: require('./assets/eventPhotos/Individuals/kennethRexroth.jpg'),
+        description: `Kenneth Rexroth was an American poet, anarchist, and Wobbly born on this day in 1905. Although he did not consider himself to be a Beat poet, and disliked the association, he was dubbed the "Father of the Beats" by Time magazine.\n\nRexroth was born in Indianna to a family familiar with radical politics; his dad used to drink with Eugene V. Debs. Rexroth was almost completely self-educated, with only five years of formal schooling, and taught himself several languages. He became skeptical of the Soviet Union after the failed Kronstadt rebellion in 1921, which solidified his anarchist leanings.\n\nHere is a poem composed by Rexroth on the subject of anarchists Bartomeleo Vanzetti and Nicola Sacco who were executed by the state:\n\n"I saw you both marching in an army\n\nYou with the red and black flag, Sacco with the\n\nrattlesnake banner.\n\nI kicked steps up the last snow bank and came\n\nTo the indescribably blue and fragrant\n\nPolemonium and the dead sky and the sterile\n\nCrystalline granite and final monolith of the summit.\n\nThese are the things that will last a long time,\n\nVanzetti,\n\nI am glad that once on your day I have stood among them.\n\nSome day mountains will be named after you and Sacco.\n\nThey will be here and your name with them,\n\nWhen these days are but a dim remembering of the time\n\nWhen man was wolf to man.\n\nI think men will be remembering you a long time\n\nStanding on the mountains\n\nMany men, a long time, comrade."`,
+        link: 'https://en.wikipedia.org/wiki/Kenneth_Rexroth',
+        infoSrc: 'https://libcom.org/history/rexroth-kenneth-1905-1982'
       },
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'December 22nd, 1988',
+        title: 'Chico Mendes (1944 - 1988)',
+        imgSrc: require('./assets/eventPhotos/Individuals/chicoMendes.jpg'),
+        description: `Francisco Alves Mendes Filho, better known as Chico Mendes, was a Brazilian rubber tapper, trade union leader, and environmentalist assassinated by a rancher on this day in 1988.\n\nBorn into the Brazilian rubber industry, Chico was known as both a radical unionist and an activist by the mid-1980s, also running for several local political positions such as state deputy and city councilor. He fought to preserve the Amazon rainforest, and advocated for the human rights of Brazilian peasants and indigenous peoples.\n\nIn 1988, Mendes launched a campaign to stop a man named Darly Alves da Silva from logging the area that its inhabitants wanted demarcated as an extractive reserve. On the evening December 22nd, 1988, Mendes was assassinated in his Xapuri home by Darci, the son of Darly Alves da Silva. He was the 90th rural activist murdered that year in Brazil.`,
+        link: 'https://www.theguardian.com/world/2013/dec/20/brazil-salutes-chico-mendes-25-years-after-murder',
+        infoSrc: 'https://en.wikipedia.org/wiki/Chico_Mendes'
       },
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'December 22nd, 1997',
+        title: 'Acteal Massacre (1997)',
+        imgSrc: require('./assets/eventPhotos/Events/actealMassacre.jpg'),
+        description: `The Acteal Massacre was a massacre committed by a right-wing paramilitary against forty-five members of the pacifist group Las Abejas ("The Bees"), sympathizers of the Zapatistas, who were attending a prayer meeting in Chiapas. The killing took place in the small village of Acteal in the municipality of Chenalhó, and among the people killed were a number of children and pregnant women.\n\nLas Abejas had earlier professed their support for the goals of the Zapatista Army of National Liberation (EZLN). The right-wing paramilitary group Máscara Roja ("Red Mask") took responsibility for the attack initially, however in July of 2020, the Mexican government admitted some culpability in the killings.`,
+        link: 'https://libcom.org/library/commune-chiapas-zapatista-mexico',
+        infoSrc: 'https://en.wikipedia.org/wiki/Acteal_massacre'
       },
     ],
   },
@@ -26044,13 +26080,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 23rd, 1877',
+        title: 'Luigi Fabbri (1877 - 1935)',
+        imgSrc: require('./assets/eventPhotos/Individuals/luigiFabbri.jpg'),
+        description: `Luigi Fabbri, born on this day in 1877, was an anarchist theorist and educator from Italy. Starting from the age of sixteen, Fabbri spent many years in prison for his anarchist activism.\n\nFabbri was a prolific contributor to the anarchist press in Europe and later South America, including co-editing, along with Errico Malatesta, the paper "L'Agitazione". In 1936, he published "Dictatorship and Revolution", an anarchist response to Vladimir Lenin's work "The State and Revolution". In his work "Marxism and Anarchism", Fabbri makes distinct the political philosophies of anarchism and Marxism.\n\nIn 1929, Fabbri fled Europe to Uruguay with his family before settling in Buenos Aires and continuing his writing with the anarchist newspaper "The Protest". He was also a journalist in the Rio Plata region, where he dealt with the political and trade union problems of the local workers' movement, in which there was a strong anarchist presence.`,
+        link: 'https://libcom.org/history/articles/1877-1935-luigi-fabbri',
+        infoSrc: 'https://en.wikipedia.org/wiki/Luigi_Fabbri'
       },
     ],
     'Assassinations': [
