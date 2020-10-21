@@ -66,14 +66,15 @@ export const styles = StyleSheet.create({
     padding: 5,
   },
   descriptionImg: {
-    width: '90%'
+    width: '90%',
+    resizeMode: 'contain',
   },
   descriptionImgWrapper: {
     marginLeft: 'auto',
     marginRight: 'auto',
-    width: '90%',
     justifyContent: 'center',
     alignItems: 'center',
+    width: '100%',
   },
   descriptionWrapper: {
     width: '95%',
@@ -88,6 +89,7 @@ export const styles = StyleSheet.create({
     paddingLeft: 20,
     paddingRight: 20,
     backgroundColor: 'white',
+    flexShrink: 2,
   },
   descriptionTextWrapper: {
     marginTop: 15,

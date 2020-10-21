@@ -1,9 +1,16 @@
 import React from "react";
-import { Text, View, ScrollView, BackHandler, TouchableOpacity, Linking } from "react-native";
+import { Image, Dimensions, Text, View, ScrollView, BackHandler, TouchableOpacity, Linking } from "react-native";
 import {StyledText} from "./styledText.js";
 import {styles} from "./styles.js";
+import resolveAssetSource from 'react-native/Libraries/Image/resolveAssetSource';
 
 export function About() {
+  const win = Dimensions.get('window');
+  const image = require('./assets/eventPhotos/Individuals/mauriceBishop.jpg');
+  const source = resolveAssetSource(image);
+  const width = source.width;
+  const height = source.height;
+  const ratio = win.width/source.width;
   return (
     <ScrollView style={styles.aboutWrapper}>
       <View style={{marginLeft: 'auto', marginRight: 'auto', marginBottom: 15, paddingBottom: 3, borderBottomWidth: 1}}>
@@ -15,6 +22,16 @@ export function About() {
           style={styles.aboutHeader}
         />
       </View>
+      <Image
+        source={require('./assets/eventPhotos/Individuals/mauriceBishop.jpg')}
+        style={{width: win.width, height: height * ratio}}
+      />
+      {/*<View style={{borderWidth: 1}}>
+        <Image
+          source={require('./assets/eventPhotos/Individuals/mauriceBishop.jpg')}
+          style={{width: '100%', resizeMode: 'center'}}
+        />
+      </View>*/}
       <StyledText
         text="A People's Calendar (aPC) seeks to promote the worldwide history of working class movements and liberation struggles."
         style={styles.aboutText}

@@ -1,8 +1,9 @@
 import React from 'react';
-import { Text, View, ScrollView, TouchableOpacity, Linking, Image } from 'react-native';
+import { Text, View, ScrollView, TouchableOpacity, Linking, Image, Dimensions } from 'react-native';
 import {StyledText} from './styledText.js';
 import {styles} from './styles.js';
 import { Ionicons } from '@expo/vector-icons';
+import resolveAssetSource from 'react-native/Libraries/Image/resolveAssetSource';
 
 //responsible for styling/rendering the data for a specific, user selected event. Rendered inside of calendarDisplay.js
 export class SpecificEvent extends React.Component {
@@ -11,7 +12,26 @@ export class SpecificEvent extends React.Component {
   };
 
   render() {
-    //console.log(this.props.event.imgSrc);
+    //react native does not handle automatic image re-sizing, so the following code does it
+    //first, get dimensions of window and of event image
+    const win = Dimensions.get('window');
+    const imgSrc = this.props.event.imgSrc;
+    const image = resolveAssetSource(imgSrc);
+    const width = image.width;
+    const height = image.height;
+    //second, try resizing image to be around 28% of total view height
+    var resizeHeight = win.height/3.8; //image will take up around 28% of the window's height
+    var ratio = resizeHeight/height; //the ratio by which image has shrunk
+    var resizeWidth = width * ratio; //apply ratio to width
+    //if the resized image becomes too wide (happens with short but wide images)
+    if (resizeWidth > win.width - 40) {
+      //console.log('image too damn big');
+      //resize the image with respect to width, setting it equal to 80% of total view width
+      resizeWidth = win.width * 4/5;
+      ratio = resizeWidth/width; //new ratio of shrunkedness
+      resizeHeight = height * ratio; //apply new ratio to height
+    };
+
     return (
       <View style={{marginBottom: 15, marginTop: 10}}>
         <View style={{marginTop: 7, width: '90%', marginLeft: 'auto', marginRight: 'auto'}}>
@@ -28,9 +48,9 @@ export class SpecificEvent extends React.Component {
           </View>
           <View style={styles.descriptionImgWrapper}>
             <Image
-              style={styles.descriptionImg}
+              style={[styles.descriptionImg], {width: resizeWidth, height: resizeHeight}}
               source={this.props.event.imgSrc}
-              resizeMode={'contain'}
+              resizeMode="contain"
             />
           </View>
           <View style={styles.descriptionTextWrapper}>
