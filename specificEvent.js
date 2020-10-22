@@ -47,11 +47,11 @@ export class SpecificEvent extends React.Component {
             <StyledText text={this.props.event.date} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 20}}/>
           </View>
           <View style={styles.descriptionImgWrapper}>
-            <Image
+            {width !== 1 && <Image
               style={[styles.descriptionImg], {width: resizeWidth, height: resizeHeight}}
               source={this.props.event.imgSrc}
               resizeMode="contain"
-            />
+            />}
           </View>
           <View style={styles.descriptionTextWrapper}>
             <StyledText text={this.props.event.description}/>
