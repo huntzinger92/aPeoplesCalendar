@@ -21756,13 +21756,13 @@ export const eventLibrary = {
   '10-25': {
     'Revolution': [
       {
-        category: 'Revolution',
-        date: 'October 25th, 1917',
-        title: 'October Revolution (1917)',
-        imgSrc: require('./assets/eventPhotos/Events/octoberRevolution.jpg'),
-        description: `The October Revolution, also known as the Bolshevik Revolution, began on this day in Russia in 1917. Led by the Bolshevik Party of Vladimir Lenin, the revolution took place through an armed insurrection in Petrograd and was instrumental in the larger Russian Revolution of 1917 - 1923. By the following day, the Winter Palace (the seat of the Provisional government located in Petrograd, then capitol of Russia) was captured.\n\nElections were held on November 12th. In contrast to their majority in the Soviets (local council governments), the Bolsheviks only won 175 seats in the 715-seat legislative body, coming in second behind the Socialist Revolutionary Party, which won 370 seats. On its first and only day in session, the Constituent Assembly came into conflict with the Soviets, and it rejected Soviet decrees on peace and land, resulting in the Constituent Assembly being dissolved by the Bolsheviks in January.\n\nThe political situation devolved into a civil war between the Bolsheviks, the Whites (counter-revolutionaries), Makhnovists, independence movements, and other socialist factions. Eventually, the Bolsheviks defeated all rival parties militarily and formed the Union of Soviet Socialist Republics (USSR) in 1922.`,
-        link: 'https://www.britannica.com/topic/October-Revolution-Russian-history',
-        infoSrc: 'https://en.wikipedia.org/wiki/October_Revolution'
+        category: '',
+        date: '',
+        title: '',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: ``,
+        link: '',
+        infoSrc: ''
       },
     ],
     'Rebellion': [
@@ -22719,6 +22719,15 @@ export const eventLibrary = {
         description: `Central Revolutionary Base, commonly called the Jiangxi-Fujian Soviet, was the largest component territory of the Chinese Soviet Republic, an unrecognized state established in November 1931 by Mao Zedong and Zhu De during the Chinese civil war. It served as the county seat and headquarters of the Chinese Soviet government.\n\nOn this day in 1931, with the Soviet Union's help, the "Chinese Soviet Republic" was born, though the majority of China was still under the control of the nationalist Government of the Republic of China. On November 7th, they had an open ceremony for the new country, and Mao Zedong and other Communists attended a military parade. Claiming its own bank, printing its own money, and collecting tax through its own tax bureau, the modern Chinese Communist Party considers this the beginning of Two Chinas.\n\nThe Jiangxi-Fujian base area was defended ably by the First Red Front Armyn but in 1934 it was finally overrun by the Kuomintang government's National Revolutionary Army in the Fifth of its Encirclement Campaigns. This last campaign in 1934-35 precipitated the most famous of the communist army retreats known collectively as the "Long March".`,
         link: 'https://en.wikipedia.org/wiki/Jiangxi%E2%80%93Fujian_Soviet',
         infoSrc: 'https://www.britannica.com/topic/Jiangxi-Soviet'
+      },
+      {
+        category: 'Revolution',
+        date: 'November 7th, 1917',
+        title: 'October Revolution (1917)',
+        imgSrc: require('./assets/eventPhotos/Events/octoberRevolution.jpg'),
+        description: `The October Revolution, also known as the Bolshevik Revolution, began on this day in Russia in 1917. The name "October Revolution" comes from the fact that the revolution began on October 25th in the dating convention of the time.\n\nLed by the Bolshevik Party of Vladimir Lenin, the revolution took place through an armed insurrection in Petrograd and was instrumental in the larger Russian Revolution of 1917 - 1923. By the following day, the Winter Palace (the seat of the Provisional government located in Petrograd, then capitol of Russia) was captured.\n\nElections were held on November 12th. In contrast to their majority in the Soviets (local council governments), the Bolsheviks only won 175 seats in the 715-seat legislative body, coming in second behind the Socialist Revolutionary Party, which won 370 seats. On its first and only day in session, the Constituent Assembly came into conflict with the Soviets, and it rejected Soviet decrees on peace and land, resulting in the Constituent Assembly being dissolved by the Bolsheviks in January.\n\nThe political situation devolved into a civil war between the Bolsheviks, the Whites (counter-revolutionaries), Makhnovists, independence movements, and other socialist factions. Eventually, the Bolsheviks defeated all rival parties militarily and formed the Union of Soviet Socialist Republics (USSR) in 1922.`,
+        link: 'https://www.britannica.com/topic/October-Revolution-Russian-history',
+        infoSrc: 'https://en.wikipedia.org/wiki/October_Revolution'
       },
     ],
     'Rebellion': [
