@@ -19,8 +19,8 @@ export class SpecificEvent extends React.Component {
     const image = resolveAssetSource(imgSrc);
     const width = image.width;
     const height = image.height;
-    //second, try resizing image to be around 28% of total view height
-    var resizeHeight = win.height/3.8; //image will take up around 28% of the window's height
+    //second, try resizing image to be around 33% of total view height
+    var resizeHeight = win.height/3; //image will take up around 33% of the window's height
     var ratio = resizeHeight/height; //the ratio by which image has shrunk
     var resizeWidth = width * ratio; //apply ratio to width
     //if the resized image becomes too wide (happens with short but wide images)

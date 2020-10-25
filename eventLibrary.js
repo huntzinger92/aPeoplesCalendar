@@ -110,13 +110,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'January 2nd, 1873',
+        title: 'Anton Pannekoek (1873 - 1960)',
+        imgSrc: require('./assets/eventPhotos/Individuals/antonPannekoek.jpg'),
+        description: `Antonie Pannekoek, born on this day in 1873, was a Dutch astronomer, philosopher, Marxist theorist, and socialist revolutionary.\n\nA respected Marxist theorist, Pannekoek was one of the founders of council communism and a main figure in the radical left in the Netherlands and Germany, active in the Communist Party of the Netherlands, the Communist Workers' Party of the Netherlands and the Communist Workers' Party of Germany.\n\nPannekoek is perhaps best known for his writing on workers' councils. He regarded these as a new form of organization capable of overcoming the limitations of the old institutions of the labor movement, the trade unions and social democratic parties.\n\nHe was a sharp critic of anarchism, social democracy, and Leninism. During the early years of the Russian revolution, Pannekoek gave critical support to the Bolsheviks. In later analysis, however, Pannekoek argued that the Bolsheviks crippled the workers' soviets, and formed a new ruling class of their own party. Unlike some other progressives of his time, Pannekoek was also highly critical of social darwinism, derisively calling it "bourgeois darwinism".`,
+        link: 'https://www.marxists.org/archive/mattick-paul/1960/pannekoek.htm',
+        infoSrc: 'https://en.wikipedia.org/wiki/Antonie_Pannekoek'
       },
     ],
     'Assassinations': [
@@ -132,13 +132,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'January 2nd, 1920',
+        title: '2nd Palmer Raids Begin (1920)',
+        imgSrc: require('./assets/eventPhotos/Events/palmerRaids.jpg'),
+        description: `The Palmer Raids were a series of raids conducted in November 1919 and January 1920 during the First Red Scare by the United States Department of Justice (DoJ) under the administration of President Woodrow Wilson. The raids targeted suspected leftists and labor activists, mostly Italian and Eastern European immigrants, especially if they were anarchists or communists, and generally sought to deport them from the United States.\n\nThe raids and arrests occurred under the leadership of Attorney General A. Mitchell Palmer, with more than 3,000 arrested. Though 556 people were deported, including many prominent leftist leaders like Emma Goldman, Palmer's efforts were largely frustrated by officials at the U.S. Department of Labor, which had authority for deportations and objected to methods.\n\nOn this day in 1920, the Justice Department launched its second series of raids leftists and labor organizers across more than 23 states, arresting more than 3000 people. Because the raids targeted entire organizations, agents engaged in mass arrests, and President Hoover later admitted that there were "clear cases of brutality".\n\nAlthough the DoJ intially claimed to have taken possession of several bombs, no evidence of the bombs was produced. In their entirety, all the raids only confiscated four pistols.`,
+        link: 'https://www.jacobinmag.com/2019/12/red-scare-industrial-workers-of-the-world-iww',
+        infoSrc: 'https://en.wikipedia.org/wiki/Palmer_Raids'
       },
     ],
   },
@@ -1220,6 +1220,15 @@ export const eventLibrary = {
         link: 'https://progressive.org/dispatches/the-time-native-americans-routed-the-ku-klux-klan-Hayes-Pond-1958-180719/',
         infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Hayes_Pond'
       },
+      {
+        category: 'Rebellion',
+        date: 'January 18th, 1969',
+        title: 'Tokyo Students Battle Police (1969)',
+        imgSrc: require('./assets/eventPhotos/Events/tokyoCampusOccupation.jpg'),
+        description: `On this day in 1969, around four hundred protesters who had occupied Tokyo University's Yasuda Hall in protest of US-Japan relations battled with police, throwing rocks and gas‐filled bottles at officers on the street. The battle lasted until January 19th, and was broadcast on television, causing a national sensation.\n\nThe protest was part of a growing leftist sentiment against the US and the conservative Japanese government that led to more than 10,000 young people being arrested by the end of the year. One year after this event, more than 22 colleges were either closed or only partially open due to student unrest.`,
+        link: 'https://aboutjapan.japansociety.org/tokyo_university_protest',
+        infoSrc: 'https://www.nytimes.com/1970/01/19/archives/newleft-youths-protest-in-tokyo-5000-pledge-a-revolution-in-japan.html'
+      },
     ],
     'Labor': [
       {
@@ -1313,13 +1322,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'January 19th, 2009',
+        title: 'Baburova and Markelov Assassinated (2009)',
+        imgSrc: require('./assets/eventPhotos/Individuals/baburovaMarkelov.jpg'),
+        description: `On this day in 2009, anarchist journalist Anastasia Baburova (1983 - 2009) and human rights lawyer Stanislav Markelov (1974 - 2009) were assassinated by Russian neo-Nazis. Baburova was a member of the Russian anarchist group "Autonomous Action" and a student of journalism at Moscow State University. Markelov was a lawyer who defended left-wing political activists, anti-fascists, journalists, and victims of police violence.\n\nOn January 19th, 2009, Markelov gave a press conference where he fiercely denounced the early prison release of a Russian army officer, convicted for the abduction and murder of a Chechen girl. After finishing, a masked assailant shot him in the back of the head, killing him instantly. Baburova, who was covering the press conference, was shot and killed after trying to stop the shooter.\n\nIn May 2011, the shooter Nikita Tikhonov was sentenced to life imprisonment, and his partner Eugenia Khasis was sentenced to 18 years in prison. Russian military analyst Pavel Felgenhauer has speculated that the Russian government was involved, noting that Tikhonov's use of a pistol fitted with a silencer was atypical for the neo-Nazi movement, which usually used knives and homemade explosives to commit violence.`,
+        link: 'https://www.frontlinedefenders.org/en/profile/anastasia-baburova',
+        infoSrc: 'https://en.wikipedia.org/wiki/Stanislav_Markelov'
       },
     ],
     'Other': [
@@ -6872,9 +6881,9 @@ export const eventLibrary = {
       {
         category: 'Birthdays',
         date: 'April 7th, 1925',
-        title: 'Edward Herman (1925 - 2017)',
+        title: 'Edward S. Herman (1925 - 2017)',
         imgSrc: require('./assets/eventPhotos/Individuals/edwardHerman.jpg'),
-        description: `Edward Samuel Herman was an American economist, media scholar and social critic. Herman is known for his media criticism, in particular his propaganda model hypothesis developed with Noam Chomsky, a frequent co-writer.\n\nTheir most well-known co-authored work is "Manufacturing Consent".`,
+        description: `Edward Samuel Herman was an American economist, media scholar and social critic. Herman is known for his media criticism, in particular his propaganda model hypothesis developed with Noam Chomsky, a frequent co-writer.\n\nTheir most well-known co-authored work is "Manufacturing Consent", however they also co-authored "Counter-Revolutionary Violence" in 1973.`,
         link: 'https://monthlyreview.org/author/edwardsherman/',
         infoSrc: 'https://en.wikipedia.org/wiki/Edward_S._Herman'
       },
@@ -6886,6 +6895,15 @@ export const eventLibrary = {
         description: `William Monroe Trotter, born on this day in 1872, was a newspaper editor and real estate businessman based in Boston, Massachusetts, and an activist for African-American civil rights. He was an early opponent of the accommodationist race policies of Booker T. Washington, and in 1901 founded the Boston Guardian, an independent African-American newspaper he used to express that opposition.\n\nTrotter was a key founding member of the "Niagra Movement" with W.E.B. Du Bois and contributed to the formation of the National Association for the Advancement of Colored People (NAACP), although he never participated in the group after its formation due to a bitter split with Du Bois.`,
         link: 'https://trotter.umich.edu/article/timeline-william-monroe-trotters-life',
         infoSrc: 'https://en.wikipedia.org/wiki/William_Monroe_Trotter'
+      },
+      {
+        category: 'Birthdays',
+        date: 'April 7th, 1872',
+        title: 'Marie Equi (1872 - 1952)',
+        imgSrc: require('./assets/eventPhotos/Individuals/marieEqui.jpg'),
+        description: `Marie Equi, born on this day in 1872, was a radical medical doctor, gay rights advocate, Wobbly, and anarchist.\n\nProviding care for poor and working-class patients, she also regularly provided birth control information and abortions at a time when both were illegal. As a political activist, she was a vocal opponent of World War I and advocated civic and economic reforms, including the women's right to vote and an eight-hour workday.\n\nAfter witnessing first-hand the brutality of police repression of a cannery workers' strike, Equi aligned herself with anarchists and the radical labor movement. While participating in the strike, she was clubbed by a policeman after becoming enraged at watching a pregnant women be dragged away by police.\n\nEqui was also a lesbian who maintained a primary relationship with Harriet Frances Speckart (1883 - 1927) for more than a decade. The two women adopted an infant and raised the child in an early U.S. example of a same-sex family. In 1918, Equi was convicted under the Sedition Act for speaking out against U.S. involvement in World War I. She was sentenced to a three-year term at San Quentin State Prison, but was released after ten months.`,
+        link: 'https://www.oregonencyclopedia.org/articles/equi_marie_1872_1952_/#.X5Ip_IhKiM8',
+        infoSrc: 'https://en.wikipedia.org/wiki/Marie_Equi'
       },
     ],
     'Assassinations': [
@@ -21606,7 +21624,7 @@ export const eventLibrary = {
         date: 'October 23rd, 1956',
         title: 'Hungarian Revolution (1956)',
         imgSrc: require('./assets/eventPhotos/Events/hungarianRevolution1956.jpg'),
-        description: `The Hungarian Revolution of 1956 began on this day in history, and was a nationwide revolution against the Hungarian People's Republic and its Soviet-imposed policies. The uprising was the first major threat to Soviet control since the Red Army drove Nazi Germany from its territory at the End of World War II in Europe.\n\nThe revolt began as a student protest, which attracted thousands as they marched through central Budapest to the Hungarian Parliament building. Protesters were fired upon from within the building by the State Security Police, killing multiple students. As the news of the violence spread, disorder and violence erupted throughout the capitol.\n\nThe revolt spread quickly and the government collapsed. Thousands of people organized militias, battling the state police and Soviet troops. Radical workers' councils wrested municipal control from the ruling Hungarian Working People's Party and demanded political change.\n\nOn November 4th, a large Soviet force invaded Budapest and other regions of the country. Over 2,500 Hungarians and 700 Soviet troops were killed in the conflict, and 200,000 Hungarians fled as refugees. Mass arrests and denunciations continued for months thereafter, and suppression of the revolution continued for decades afterward.\n\nThese Soviet actions, while strengthening control over the Eastern Bloc, alienated many Western Marxists, leading to splits and/or considerable losses of membership for communist parties in capitalist states. At the inauguration of the Third Hungarian Republic in 1989, October 23rd was declared a national holiday.`,
+        description: `The Hungarian Revolution of 1956 began on this day in history, and was a nationwide revolution against the Hungarian People's Republic and its Soviet-imposed policies. The uprising was the first major threat to Soviet control since the Red Army drove Nazi Germany from its territory at the End of World War II in Europe.\n\nThe revolt began as a student protest, which attracted thousands as they marched through central Budapest to the Hungarian Parliament building. Protesters were fired upon from within the building by the State Security Police, killing multiple students. As the news of the violence spread, disorder and violence erupted throughout the capitol.\n\nThe rebellion spread quickly and the government collapsed. Thousands of people organized militias, battling the state police and Soviet troops. Radical workers' councils wrested municipal control from the ruling Hungarian Working People's Party and demanded political change.\n\nOn November 4th, a large Soviet force invaded Budapest and other regions of the country. Over 2,500 Hungarians and 700 Soviet troops were killed in the conflict, and 200,000 Hungarians fled as refugees. Mass arrests and denunciations continued for months thereafter, and suppression of the revolution continued for decades afterward.\n\nThese Soviet actions, while strengthening control over the Eastern Bloc, alienated many Western Marxists, leading to splits and/or considerable losses of membership for communist parties in capitalist states. At the inauguration of the Third Hungarian Republic in 1989, October 23rd was declared a national holiday.`,
         link: 'https://libcom.org/history/articles/hungary-56',
         infoSrc: 'https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956'
       },
@@ -21639,7 +21657,7 @@ export const eventLibrary = {
         date: 'October 23rd, 1874',
         title: 'Otto Rühle (1874 - 1943)',
         imgSrc: require('./assets/eventPhotos/Individuals/ottoRuhle.jpg'),
-        description: `Otto Rühle, born on this day in 1874, was a German left communist educator and writer who participated in the Spartacus League (along with Rosa Luxemburg and Karl Liebknecht). Rühle was also a vocal opponent of both World War I and World War II.\n\nAlthough Liebknecht and Luxemburg were murdered in 1919 for their involvement in the German Revolution, Rühle lived on to participate in the left opposition of the German labour movement, developing both an early communist critique of Bolshevism as well as an early opposition to fascism. Rühle saw the Soviet Union as a form of state capitalism that had much in common with the state-centred capitalism of the West as well as fascism.`,
+        description: `Otto Rühle, born on this day in 1874, was a German left communist educator and writer who participated in the Spartacus League (along with Rosa Luxemburg and Karl Liebknecht). Rühle was also a vocal opponent of both World War I and World War II.\n\nAlthough Liebknecht and Luxemburg were murdered in 1919 for their involvement in the German Revolution, Rühle lived on to participate in the left opposition of the German labor movement, developing an early communist critique of both Bolshevism and fascism. Rühle saw the Soviet Union as a form of state capitalism that had much in common with the state-centred capitalism of the West as well as fascism.`,
         link: 'https://libcom.org/library/otto-ruhle-and-the-german-labour-movement-mattick',
         infoSrc: 'https://en.wikipedia.org/wiki/Otto_R%C3%BChle'
       },
@@ -21685,7 +21703,7 @@ export const eventLibrary = {
         date: 'October 24th, 1871',
         title: 'Chinese Massacre of 1871',
         imgSrc: require('./assets/eventPhotos/Events/chineseMassacre1871.jpg'),
-        description: `The Chinese Massacre of 1871 was a race riot that occurred on this day in Los Angeles, California when a mob of around 500 white and mestizo persons entered Chinatown and attacked, robbed, and murdered Chinese residents.\n\nThe massacre took place on Calle de los Negros, also known as "Negro Alley". The mob gathered after hearing that a policeman had been shot and a rancher killed by Chinese. Historian John Johnson has described this as the largest mass lynching in American history.\n\nAn estimated 17 to 20 Chinese immigrants were hanged by the mob in the course of the riot, but most had already been shot to death. At least one was mutilated, when someone cut off a finger to get his diamond ring. Ten men of the mob were prosecuted and eight were convicted of manslaughter in these deaths. The convictions were overturned on appeal due to technicalities.`,
+        description: `The Chinese Massacre of 1871 was a race riot that occurred on this day in Los Angeles, California when a mob of around 500 white and mestizo people entered Chinatown and attacked, robbed, and murdered Chinese residents.\n\nThe massacre took place on Calle de los Negros, also known as "Negro Alley". The mob gathered after hearing that a policeman had been shot and a rancher killed by Chinese. Historian John Johnson has described this as the largest mass lynching in American history.\n\nAn estimated 17 to 20 Chinese immigrants were hanged by the mob in the course of the riot, but most had already been shot to death. At least one was mutilated when someone cut off a finger to get his diamond ring. Ten men of the mob were prosecuted and eight were convicted of manslaughter in these deaths. The convictions were overturned on appeal due to technicalities.`,
         link: 'http://www.laweekly.com/how-los-angeles-covered-up-the-massacre-of-17-chinese/',
         infoSrc: 'https://en.wikipedia.org/wiki/Chinese_massacre_of_1871'
       },
@@ -21742,7 +21760,7 @@ export const eventLibrary = {
         date: 'October 25th, 1917',
         title: 'October Revolution (1917)',
         imgSrc: require('./assets/eventPhotos/Events/octoberRevolution.jpg'),
-        description: `The October Revolution, also known as the Bolshevik Revolution, began on this day in Russia in 1917. Led by the Bolshevik Party of Vladimir Lenin, the revolution took place through an armed insurrection in Petrograd and was instrumental in the larger Russian Revolution of 1917-1923. The following day, the Winter Palace (the seat of the Provisional government located in Petrograd, then capitol of Russia) was captured.\n\nElections were held on November 12th. In contrast to their majority in the Soviets (local council governments), the Bolsheviks only won 175 seats in the 715-seat legislative body, coming in second behind the Socialist Revolutionary Party, which won 370 seats. On its first and only day in session, the Constituent Assembly came into conflict with the Soviets, and it rejected Soviet decrees on peace and land, resulting in the Constituent Assembly being dissolved by the Bolsheviks in January.\n\nThe political situation devolved into a civil war between the Bolsheviks, the Whites (counter-revolutionaries), Makhnovists, independence movements, and other socialist factions. Eventually, the Bolsheviks defeated all rival parties militarily and formed the Union of Soviet Socialist Republics (USSR) in 1922.`,
+        description: `The October Revolution, also known as the Bolshevik Revolution, began on this day in Russia in 1917. Led by the Bolshevik Party of Vladimir Lenin, the revolution took place through an armed insurrection in Petrograd and was instrumental in the larger Russian Revolution of 1917 - 1923. By the following day, the Winter Palace (the seat of the Provisional government located in Petrograd, then capitol of Russia) was captured.\n\nElections were held on November 12th. In contrast to their majority in the Soviets (local council governments), the Bolsheviks only won 175 seats in the 715-seat legislative body, coming in second behind the Socialist Revolutionary Party, which won 370 seats. On its first and only day in session, the Constituent Assembly came into conflict with the Soviets, and it rejected Soviet decrees on peace and land, resulting in the Constituent Assembly being dissolved by the Bolsheviks in January.\n\nThe political situation devolved into a civil war between the Bolsheviks, the Whites (counter-revolutionaries), Makhnovists, independence movements, and other socialist factions. Eventually, the Bolsheviks defeated all rival parties militarily and formed the Union of Soviet Socialist Republics (USSR) in 1922.`,
         link: 'https://www.britannica.com/topic/October-Revolution-Russian-history',
         infoSrc: 'https://en.wikipedia.org/wiki/October_Revolution'
       },
@@ -22770,7 +22788,7 @@ export const eventLibrary = {
         category: 'Other',
         date: 'November 7th, 1919',
         title: 'Palmer Raids Begin (1919)',
-        imgSrc: require('./assets/eventPhotos/Individuals/agPalmer.jpg'),
+        imgSrc: require('./assets/eventPhotos/Events/palmerRaids.jpg'),
         description: `The Palmer Raids were a series of raids conducted in November 1919 and January 1920 during the First Red Scare by the United States Department of Justice under the administration of President Woodrow Wilson. The raids targeted suspected leftists and labor activists, mostly Italian and Eastern European immigrants, especially if they were anarchists or communists, and generally sought to deport them from the United States.\n\nThe raids and arrests occurred under the leadership of Attorney General A. Mitchell Palmer, with more than 3,000 arrested. Though 556 people were deported, including many prominent leftist leaders like Emma Goldman, Palmer's efforts were largely frustrated by officials at the U.S. Department of Labor, which had authority for deportations and objected to methods.\n\nThe first raid took place on this day in 1919, when agents of the Bureau of Investigation working with local police executed a series of well-publicized and violent raids against the Union of Russian Workers in twelve cities. Newspaper accounts reported some were "badly beaten" during the arrests. The American Civil Liberties Union (ACLU) was founded in direct response to this xenophobic and political persecution.`,
         link: 'https://immigrationhistory.org/item/the-palmer-raids/',
         infoSrc: 'https://en.wikipedia.org/wiki/Palmer_Raids'
@@ -23459,13 +23477,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 17th, 1878',
+        title: 'Australian Maritime Strike Begins (1878)',
+        imgSrc: require('./assets/eventPhotos/Events/maritimeStrike1878.jpg'),
+        description: `On this day in 1878, the first intercolonial dispute in Australia began when maritime workers went on strike to prevent the Australasian Steam Navigation Company from replacing Australian seamen with Chinese workers. Chinese laborers were cheaper; the company was paying Australian seamen eight pounds per month, but could hire Chinese seamen three pounds per month.\n\nThe strike contineud until January 2nd, when the company gave in and agreed to discharge all their Chinese crews over the next two years and re-employ the Australian seamen who had been fired. The strike is an early example of how the forces of international capital, labor, and race intersect.`,
+        link: 'https://nativistherald.com.au/2019/01/28/the-maritime-strike-of-1878/',
+        infoSrc: 'https://libcom.org/history/articles/australia-maritime-strike-1878'
       },
     ],
     'Birthdays': [
@@ -24439,13 +24457,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Other',
+        date: 'November 30th, 1912',
+        title: 'Korean Wobbly B. Duck Sue Severely Beaten (1912)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `The following passage is taken verbatim from the University of Washington's IWW History Project, which has produced a database of "Arrests, Prosecutions, Beatings, and other Violence 1906-1920" from the history of the Industrial Workers of the World (IWW).\n\nOn this day in 1912, Korean I.W.W. organizer (B. Duck Sue) was beaten severely with heavy whips for organizing fifty two plantation laborers. He was forced from the county but the workers' wages were increased from twenty dollars a month to twenty four dollars a month.`,
+        link: 'https://depts.washington.edu/iww/persecution.shtml',
+        infoSrc: 'https://depts.washington.edu/iww/persecution.shtml'
       },
     ],
   },
@@ -26638,13 +26656,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'December 31st, 1986',
+        title: 'Dupont Plata Hotel Fire (1986)',
+        imgSrc: require('./assets/eventPhotos/Events/dupontHotelFire.jpg'),
+        description: `On this day in 1986, striking hotel workers set fire to the Dupont Plaza Hotel in Puerto Rico in an attempt to scare off tourists; the fires burned out of control and killed more than 96 people.\n\nIn the weeks leading up to the fire, there was significant labor strife at the Dupont Plaza Hotel. The tension was so great that locals were advising tourists to stay away from the hotel and its casino. On December 31st, hotel workers voted to go on strike, and three of the labor organizers used chafing fuel to set a storage room on the ground floor on fire.\n\nAlthough their intent was to merely pressure management into agreeing to union demands, it quickly burned out of control, spreading to the adjacent ballroom and then casino. To prevent theft, hotel managers had locked emergency exits from the casino, and most of the deaths occurred there.\n\nThe fire claimed between 96 and 98 lives and caused 140 injuries, becoming the most catastrophic hotel fire in Puerto Rican history and the second deadliest in the history of the United States. The three labor organizers were convicted of murder and sentenced to varying prison terms.`,
+        link: 'https://www.nfpa.org/News-and-Research/Publications-and-media/NFPA-Journal/2012/November-December-2012/News-and-Analysis/Looking-Back',
+        infoSrc: 'https://en.wikipedia.org/wiki/Dupont_Plaza_Hotel_arson'
       },
     ],
     'Labor': [
