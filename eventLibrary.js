@@ -1122,7 +1122,7 @@ export const eventLibrary = {
       {
         category: 'Other',
         date: 'January 16th, 1943',
-        title: `Draftee's Prayer (1943)`,
+        title: `Draftee's Prayer Published (1943)`,
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
         description: `On this day in 1943, a "Draftee's Prayer" was published in the newspaper Baltimore Afro-American:\n\n"Dear Lord, today\n\nI go to war:\n\nTo fight, to die,\n\nTell me what for?\n\nDear Lord, I'll fight,\n\nI do not fear,\n\nGermans or Japs;\n\nMy fears are here.\n\nAmerica!"`,
         link: 'https://www.historyisaweapon.com/defcon1/zinnpeopleswar.html',
@@ -1919,24 +1919,33 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Rebellion',
+        date: 'January 28th, 1917',
+        title: 'Torres Starts Bath Riots (1917)',
+        imgSrc: require('./assets/eventPhotos/Events/bathRiots.png'),
+        description: `On this day in 1917, seventeen year old maid Carmelita Torres refused a delousing gasoline bath from immigration authorities and sparked what is now known as the "Bath Riots".\n\nLike many other Mexicans, Carmelita Torres crossed every day from Juarez to El Paso to clean American homes. As part of this process, in order to fight a typhus outbreak, the workers were forced to strip and bathe in gasoline, which killed any lice on their bodies. On the morning of January 28th, Torres refused to be bathed, instead, convincing thirty other Mexican women to get out and protest with her.\n\nWithin an hour, there were more than 200 women blocking the entrance to El Paso. By the end of the protest, the crowd was several thousand strong. They laid in front of trains and vehicles and refused to leave when threatened with guns by the police. Eventually, the riot was subdued and Torres was arrested for her role in starting it.\n\nDespite the energized protest, the noxious delousing continued, later with insecticides like DDT, for decades afterward.`,
+        link: 'https://en.wikipedia.org/wiki/Carmelita_Torres',
+        infoSrc: 'https://www.npr.org/templates/story/story.php?storyId=5176177'
+      },
+      {
+        category: 'Rebellion',
+        date: 'January 28th, 1918',
+        title: 'Berlin General Strike (1918)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On this day in 1918, 200,000 workers began striking in Berlin, Germany to demand an end to World War I and the democratization of their government. By the end of the week, approximately 500,000 workers were on strike in Berlin alone, not counting workers striking elsewhere in Germany. Members of the revolutionary Spartacus League were active in the uprising, and were trying to turn the strike into a full-fledged revolution.\n\nWorkers elected a council of 414 delegates, who issued a set of demands. These included an end to the war, amnesty for all political prisoners, the democratization of government, and more and better quality food.\n\nThe rebellion was quelled with considerable force from the state on February 3rd, who viewed the strike as a threat to the current order. Despite the initial failure of the strike, on November 9th of the same year, the social-democratic German Revolution of 1918 took place. Emperor Wilhelm II was forced to abdicate his throne and flee the country; German elections were held in January of 1919.`,
+        link: 'https://www.cairn.info/revue-cahiers-bruxellois-2014-1E-page-173.htm',
+        infoSrc: 'https://www.jstor.org/stable/4545893?seq=1#metadata_info_tab_contents'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'January 28th, 1935',
+        title: `Buckley's Sugar Strike (1935)`,
+        imgSrc: require('./assets/eventPhotos/Events/stKittsStrike.jpg'),
+        description: `On this day in 1935, sugar cane cutters on Buckley's Estate on the Caribbean island of St. Kitts went on strike after not receiving a pay raise that year. Strikers marched to the Shadwell Estate and convinced workers there to join them. The owner threatened the workers with a gun, but the crowd overpowered him, beating him and breaking his weapon.\n\nAfter another violent clash between a plantation owner and workers, the governor of St. Kitts deployed troops to the area. Soldiers and police attempted to control the crowd of striking workers and, on January 29th, used live ammunition on them, killing three and wounding eight. Thirty-nine strikers were arrested and six were sentenced to terms of imprisonment of from two to five years.`,
+        link: 'https://libcom.org/library/labour-rebellions-1930s-british-caribbean-region-colonies-richard-hart',
+        infoSrc: 'https://www.historicstkitts.kn/events/buckley-s-strike-timeline'
       },
     ],
     'Birthdays': [
@@ -1963,13 +1972,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'January 28th, 1946',
+        title: 'Plaza Bulnes Massacre (1946)',
+        imgSrc: require('./assets/eventPhotos/Events/plazaBulnes.jpg'),
+        description: `On this day in 1946, a group of labor organizers in Santiago, Chile held a solidarity rally in Plaza Bulnes and were gunned down by police, killing six and wounding several others. Among the workers killed was Ramona Parra Alarcón, a young communist activist who became an icon for the victims of this massacre.\n\nAfter the incident, the Communist Party of Chile withdrew from the government. The next year, the concentration camp Pisagua (formerly used for detaining citizens of enemy nations during WWII) was re-opened, and a period of open state persecution of communists and anarchists began.`,
+        link: 'https://libcom.org/history/articles/anarchism-in-chile?fbclid=IwAR077BHapDG3HhMLWhRIFwEihGF2DnhyEZZCSH05Kvw95iKOotlbkgRIyVo',
+        infoSrc: 'https://es.wikipedia.org/wiki/Masacre_de_la_Plaza_Bulnes'
       },
     ],
   },
@@ -21879,7 +21888,7 @@ export const eventLibrary = {
         date: 'October 26th, 1913',
         title: 'José Ester Borrás (1913 - 1980)',
         imgSrc: require('./assets/eventPhotos/Individuals/joseBorras.jpg'),
-        description: `José Ester Borrás, born on this day in 1913 in Barcelona, Spain, was an anarchist active in the Confederación Nacional del Trabajo (CNT) and the Spanish Civil War.\n\nIn 1938, Borrás was arrested by the communists for allegedly shooting a political commissar and held in prison until Francisco Franco won the war. He fled to France, where he took part in the escape and evasion network led by anarcho-syndicalist Francisco Ponzán Vidal. While in France, Borrás was arrested and deported to the concentration camp Mauthausen, where he was part of the committee that planned prisoner revolts that sucessfully self-liberated the camp.\n\nAfter achieving his freedom, Borrás returned to France in 1945 and founded FEDIP (Federación Española de Deportados e Internados Políticos), which campaigned for the release of both political prisoners in Franco's Spain and Spanish antifascists who were deported to labor camps in the Soviet Union.`,
+        description: `José Ester Borrás, born on this day in 1913 in Barcelona, Spain, was an anarchist active in the Confederación Nacional del Trabajo (CNT) and the Spanish Civil War.\n\nIn 1938, Borrás was arrested by the communists for allegedly shooting a political commissar and held in prison until Francisco Franco won the war. He fled to France, where he took part in the escape and evasion network led by anarcho-syndicalist Francisco Ponzán Vidal. While in France, Borrás was arrested and deported to the concentration camp Mauthausen, where he was part of the committee that planned prisoner revolts that successfully self-liberated the camp.\n\nAfter achieving his freedom, Borrás returned to France in 1945 and founded FEDIP (Federación Española de Deportados e Internados Políticos), which campaigned for the release of both political prisoners in Franco's Spain and Spanish antifascists who were deported to labor camps in the Soviet Union.`,
         link: 'https://translate.google.com/translate?hl=en&sl=es&u=https://es.wikipedia.org/wiki/Josep_Ester_i_Borr%25C3%25A1s&prev=search&pto=aue',
         infoSrc: 'https://libcom.org/history/jos-ester-borr-s'
       },
@@ -21930,13 +21939,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'October 27th, 2005',
+        title: 'French Riots Begin (2005)',
+        imgSrc: require('./assets/eventPhotos/Events/parisRiots2005.jpg'),
+        description: `On this day in 2005, weeks of riots erupted throughout France after two youths died from electrocution while hiding from the police in a power substation.\n\nAccording to a youth that survived the substation incident, they hid "to avoid the lengthy questioning that youths in the housing projects say they often face from the police. [He said] they are required to present identity papers and can be held as long as four hours at the police station, and sometimes their parents must come before the police will release them."\n\nThe deaths ignited pre-existing tensions in immigrant communities, particularly those of African and Arab origin, and protesters took to the street en masse. Initially confined to the Paris area, the protests and riots quickly spread throughout the country. By November 4th, thousands of vehicles had been burned, three people had been killed, and more than 2800 rioters were arrested.\n\nOn November 8th, President Jacques Chirac declared a state of emergency, which was granted a three month extension a week later. Local authorities were allowed to impose curfews, conduct house-to-house searches, and ban public gatherings to quell the riots.`,
+        link: 'https://libcom.org/history/recent-violence-french-suburbs-difficult-integrate-general-class-combat-2005',
+        infoSrc: 'https://en.wikipedia.org/wiki/2005_French_riots'
       },
     ],
     'Labor': [
@@ -22108,13 +22117,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'October 29th, 1901',
+        title: 'Leon Czolgosz Executed (1901)',
+        imgSrc: require('./assets/eventPhotos/Individuals/leonCzolgosz.jpg'),
+        description: `Leon Czolgosz (1873 - 1901) was an anarchist American steelworker who assassinated American President William McKinley, executed by the U.S. government on this day in 1901.\n\nCzolgosz was a socialist from a young age, working in factories and mills as a teenager and witnessing labor strife firsthand. He was greatly inspired by Emma Goldman, and met her briefly after a lecture she gave in Cleveland. Czolgosz's direct inspiration to assassinate a national leader possibly came from the assassination of King Umberto I of Italy by anarchist Gaetano Bresci in 1900.\n\nOn September 6th, 1901, Czolgosz shot President William McKinley on the grounds of the Pan-American Exposition in Buffalo, New York. McKinley died eight days later of gangrene caused by the wounds and was succeeded by Theodore Roosevelt in office. Czolgosz was tried and found guilty just over a month later. Before his execution, Czolgosz explained "I killed the President because he was the enemy of the good people - the good working people...I am not sorry for my crime".\n\nThe aftermath of the assassination saw a backlash against anarchist movements. Several anarchists, including Emma Goldman, were arrested on suspicion of involvement in the attack, and vigilantes attacked anarchist colonies and newspapers. Fear of the movement also led to government surveillance programs of anarchists, which were eventually consolidated on a federal level when the Bureau of Investigation (BOI, later to become the FBI) was formed in 1908.`,
+        link: 'https://www.britannica.com/biography/Leon-Czolgosz',
+        infoSrc: 'https://en.wikipedia.org/wiki/Leon_Czolgosz'
       },
     ],
     'Other': [
