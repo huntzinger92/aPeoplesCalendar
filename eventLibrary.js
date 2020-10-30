@@ -1985,35 +1985,35 @@ export const eventLibrary = {
   '1-29': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'January 29th, 1911',
+        title: 'Magonistas Take Mexicali (1911)',
+        imgSrc: require('./assets/eventPhotos/Events/magonistaRebellion.jpg'),
+        description: `On this day in 1911, Magonistas, Mexican anarchists drawing from the ideas of Ricardo Flores Magón, took the city of Mexicali in the first of battle of the Magonista Rebellion of 1911.\n\nThe Magonista uprising was an early incident of the more broad period of unrest known as the Mexican Revolution. It was organized by the Liberal Party of Mexico (Spanish: Partido Liberal Mexicano, PLM), and was successful in northern Mexico; the Magonistas controlled Tijuana and Mexicali for about six months.\n\nThe capture of Mexicali began in a pre-dawn raid on January 29th, 1911, when 30 rebels, guided by José María Leyva and Simón Berthold, along with a group of residents seized the town of Mexicali without resistance. They opened the jail, killed the jailor, occupied the barracks, and confiscated government office funds.\n\nOther settlers joined the rebels as well as many foreign socialists and anarchists, mainly militant members of the Industrial Workers of the World (IWW), including Frank Little and Joe Hill. The U.S. government in Calexico and Yuma offered military support to aid the Mexican government's efforts to suppress the rebellion in order to protect hydraulic works of American engineers.\n\nAlthough the rebellion was launched against the rule of Porfirio Díaz, it was was put down by forces loyal to Francisco Madero, a wealthy landowner who supported reforms, and who became the Mexican President in 1911. The PLM split into factions, with one faction still supporting the incarcerated Magón brothers while the other faction supported Madero, the new president of Mexico.`,
+        link: 'http://libcom.org/library/magonista-revolt-tijuana-prelude-san-diego-free-speech-fight',
+        infoSrc: 'https://en.wikipedia.org/wiki/Magonista_rebellion_of_1911'
       },
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'January 29th, 1919',
+        title: 'Fort Leavenworth Prison Strike (1919)',
+        imgSrc: require('./assets/eventPhotos/Events/fortLeavenworth.jpg'),
+        description: `On this day in 1919, 150 workers at Fort Leavenworth Prison stopped their assigned work in the middle of the day, beginning a labor strike that would quickly grow to more than 2,000 over the next few days. The same night, three prisoners started a fire and burned parts of the quartermaster’s warehouse, causing $100,000 of damage, although it's unclear whether this was part of the labor action.\n\nAlthough the initial group of prisoners were not settled on specific demands, 2,300 workers who went on strike the next day spent their day organizing, setting up committees and electing leaders from each wing of the prison. Out of this organization came a drafted a list of demands, including the immediate release of military prisoners, immunity from punishment for all men who had participated in the strike, and establishing a permanent grievance committee.\n\nThe strike was successful. Over the next few months, many improvements were made: committee members replaced some of the prison guards; prisoners were were given charge of discipline in the kitchen, mess hall, and yard; meat, poultry, butter, and eggs came from a farm from inside the prison; new bathrooms were built; prison officials gave five members of the Prisoners Committee adjudication powers for fellow prisoners accused of breaking basic prison rules.`,
+        link: 'http://libcom.org/history/1919-prison-strikes-fort-leavenworth',
+        infoSrc: 'https://nvdatabase.swarthmore.edu/content/fort-leavenworth-prison-strike-better-prison-conditions-and-reduced-sentences-1919'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'January 29th, 1936',
+        title: 'Firestone Sit-Down Strike (1936)',
+        imgSrc: require('./assets/eventPhotos/Events/akronSitDown.jpg'),
+        description: `On this day in 1936, truck tire builders at the Firestone plant in Akron, Ohio engaged in a sit-down strike to protest a reduction in rates and the firing of a union committeeman.\n\nThe sit-down strikes at these plants were some of the earliest recording in U.S. history. Sit-down strikes were effective because the workers would occupy the factory and stand by their machines, not allowing production to continue with strikebreakers. They were also often spontaneous, not easily controlled or planned for by union and factory management.\n\nThe workers began the strike by sending one committee around the plant to call out other departments, another to talk with the boss, and a third to police the shop. Within a day, the entire Plant No. 1 was struck, and after fifty-three hours the workers at Plant No.2 announced they had voted to sit down in sympathy.\n\nManagement gave in completely, and, over the next few weeks a waves of strikes rocked other plants in Akron, most dramatically at Goodyear, where as many as 10,000 workers, including people from all trades in Akron, picketed around the many gates to the Goodyear factory.`,
+        link: 'https://en.wikipedia.org/wiki/Akron_rubber_strike_of_1936',
+        infoSrc: 'https://libcom.org/history/akron-rubber-workers-struggles-1933-1936-jeremy-brecher'
       },
     ],
     'Birthdays': [
@@ -2029,13 +2029,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'January 29th, 1912',
+        title: 'Anna LoPizzo Murdered by Police (1912)',
+        imgSrc: require('./assets/eventPhotos/Individuals/annaLoPizzo.jpg'),
+        description: `On this day in 1912, striking worker Anna LoPizzo was shot and killed by police during the Lawrence Textile Strike (also known as the Bread and Roses Strike), one of the most significant struggles in U.S. labor history.\n\nThe Lawrence Textile Strike was a strike of immigrant workers in Lawrence, Massachusetts that began on January 11th, 1912. It was led by the Industrial Workers of the World (IWW) and united immigrant workers of over forty nationalities. Prompted by a two-hour pay cut corresponding to a new law shortening the workweek for women, the strike spread rapidly through the town, growing to more than twenty thousand workers and involving nearly every mill in Lawrence.\n\nLoPizzo was a striking immigrant worker who was killed when, according to IWW literature, officer Oscar Benoit fired into a crowd of protesters who had been cornered and were being attacked by police. Anna LoPizzo was likely an assumed name; historian Ardis Cameron wrote "relying on old-world practices and principles of collectivity, the immigrant community routinely 'swapped' names and falsified documents to evade 'impossible' laws and ensure mutual survival."\n\nAfter her death, two IWW leaders, "Smiling Joe" Ettor and Arturo Giovannitti, were arrested on fabricated charges related to the murder of a striking worker. Upon their arrest, "Big Bill" Haywood and Elizabeth Gurley Flynn took over leadership of the strike. They further sensationalized the condition of the striking workers by ostentatiously sending their hungry children to stay with families and supporters in New York City.\n\nThe Lawrence Strike was ultimately won by the IWW and strikers. Eugene V. Debs said this of the ordeal: "The Victory at Lawrence was the most decisive and far-reaching ever won by organized labor."`,
+        link: 'https://libcom.org/history/articles/lawrence-textile-strike-1912',
+        infoSrc: 'https://en.wikipedia.org/wiki/Anna_LoPizzo'
       },
     ],
     'Other': [
@@ -16658,7 +16658,7 @@ export const eventLibrary = {
         date: 'August 21st, 1831',
         title: "Nat Turner's Rebellion (1831)",
         imgSrc: require('./assets/eventPhotos/Events/natTurnerRebellion.jpg'),
-        description: `Nat Turner's Rebellion was a rebellion of black slaves that took place in Southampton County, Virginia, in August 1831, led by Nat Turner. Fugitive enslaved people killed from 55 to 65 people, at least 51 being white. The group spared a few homes "because Turner believed the poor white inhabitants 'thought no better of themselves than they did of negroes.'"\n\nThe state executed 56 slaves accused of being part of the rebellion, and many non-participant slaves were punished in the frenzy. Approximately 120 slaves and free blacks were murdered by militias and mobs in the area. State legislatures passed new laws prohibiting education of slaves and free black people, restricting rights of assembly and other civil liberties for free black people, and requiring white ministers to be present at all worship services.`,
+        description: `On this day in 1831, Nat Turner, a slave preacher in Southampton County, Virginia, began a slave insurrection in which a group of slaves went house to house, liberating the enslaved and killing their masters. Turner (1800 - 1831) was born and raised in Southampton County, Virginia, an area where black people outnumbered whites. He learned how to read and write at a young age and was deeply religious, eventually becoming an influential preacher in the area.\n\nIn early 1831, on the basis of religious visions, Nat Turner began preparing a slave insurrection. The rebellion began on this day in 1831, and rebels traveled from house to house, freeing slaves and killing many of the white people that they encountered.\n\nAt least 55 white people were killed, and the slaves killed men, women, and children. The group spared a few homes "because Turner believed the poor white inhabitants 'thought no better of themselves than they did of negroes'". The rebellion was put down by a combined force of local milita and three companies of artillery. The state executed 56 black people, and militias killed at least 100 more, some of whom were not involved in the rebellion.\n\nTurner went on the run, eluding capture for six weeks. On October 30th, 1831, a white farmer discovered him hidden among the local Nottoway people in a depression in the earth, created by a large, fallen tree that was covered with fence rails. After being tried and convicted for "conspiring to rebel and making insurrection", he was asked if he regretted what he had done. Turner responded "Was Christ not crucified?"\n\nHe was hanged on November 11th, 1831. After his death, state legislatures passed new laws prohibiting education of slaves and free black people, restricting rights of assembly and other civil liberties for free black people, and requiring white ministers to be present at all worship services.`,
         link: 'https://www.jacobinmag.com/2016/10/birth-of-a-nation-nat-turner-nate-parker',
         infoSrc: 'https://en.wikipedia.org/wiki/Nat_Turner%27s_slave_rebellion'
       },
@@ -22064,7 +22064,7 @@ export const eventLibrary = {
         date: 'October 28th, 1967',
         title: 'Huey Newton Clashes With Police (1967)',
         imgSrc: require('./assets/eventPhotos/Events/freeHuey.jpg'),
-        description: `Huey Percy Newton was an African-American political activist and Marxist-Leninist revolutionary who, along with fellow Merritt College student Bobby Seale, co-founded the Black Panther Party (BPP). In the 1960s, under Newton's leadership, the BPP founded over 60 community support programs, including food banks, medical clinics, HIV support groups, legal advice seminars, clothing banks, housing co-ops, and their own ambulance service.\n\nOn this day in 1967, while Newton was celebrating his release from probation, he was wounded in a shootout with police. The incident occurred after he was pulled over by Oakland cop John Frey, who called for backup after realizing who Newton was. When a second officer arrived, shots rang out; Frey was killed, while Newton and the other officer were wounded.\n\nThe "Free Huey!" campaign began in December, the phrase originating out a coalation between the BPP and the Peace and Freedom Party. The trial, which began on July 15th, 1968, quickly ascended beyond the scope of Newton himself, evolving into a racially-charged political movement. Although initially convicted of voluntary manslaughter, Huey was freed after months of appeals from his lawyer, on August 5th, 1970.`,
+        description: `Huey Percy Newton was an African-American political activist and Marxist-Leninist revolutionary who, along with fellow Merritt College student Bobby Seale, co-founded the Black Panther Party (BPP). In the 1960s, under Newton's leadership, the BPP founded over 60 community support programs, including food banks, medical clinics, HIV support groups, legal advice seminars, clothing banks, housing co-ops, and their own ambulance service.\n\nOn this day in 1967, while Newton was celebrating his release from probation, he was wounded in a shootout with police. The incident occurred after he was pulled over by Oakland cop John Frey, who called for backup after realizing who Newton was. When a second officer arrived, shots rang out; Frey was killed, while Newton and the other officer were wounded.\n\nThe "Free Huey!" campaign began in December, the phrase originating out a coalition between the BPP and the Peace and Freedom Party. The trial, which began on July 15th, 1968, quickly ascended beyond the scope of Newton himself, evolving into a racially-charged political movement. Although initially convicted of voluntary manslaughter, Huey was freed after months of appeals from his lawyer, on August 5th, 1970.`,
         link: 'https://www.pbs.org/hueypnewton/actions/actions_freehuey.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Huey_P._Newton'
       },
@@ -22110,7 +22110,7 @@ export const eventLibrary = {
         date: 'October 29th, 1811',
         title: 'Louis Blanc (1811 - 1882)',
         imgSrc: require('./assets/eventPhotos/Individuals/louisBlanc.jpg'),
-        description: `Louis Jean Joseph Charles Blanc, born on this day in 1811, was a French politician and historian. A socialist who favored reforms, he called for the creation of cooperatives in order to guarantee employment for the urban poor. Although Blanc's ideas of the workers' cooperatives were never realized, his political and social ideas greatly contributed to the development of socialism in France.\n\nBlanc was a government official in the French Second Republic and was key in the formation of its National Workshops, which used land taxes to fund employment services for unemployed workers. Blanc is sometime credited as being the first person to use the word capitalism in something like its modern form, defining capitalism as "the appropriation of capital by some to the exclusion of others".`,
+        description: `Louis Blanc, born on this day in 1811, was a socialist French politician, historian, and advocate of worker co-operatives. A socialist who favored reforms, he called for the creation of cooperatives in order to guarantee employment for the urban poor. Although Blanc's ideas of the workers' cooperatives were never realized, his political and social ideas greatly contributed to the development of socialism in France.\n\nBlanc was a government official in the French Second Republic and was key in the formation of its National Workshops, which used land taxes to fund employment services for unemployed workers. Blanc is sometime credited as being the first person to use the word capitalism in something like its modern form, defining capitalism as "the appropriation of capital by some to the exclusion of others".`,
         link: 'https://www.britannica.com/biography/Louis-Blanc',
         infoSrc: 'https://en.wikipedia.org/wiki/Louis_Blanc'
       },
@@ -22196,13 +22196,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'October 30th, 1831',
+        title: "Nat Turner Captured (1831)",
+        imgSrc: require('./assets/eventPhotos/Events/natTurnerRebellion.jpg'),
+        description: `On this day in 1831, Nat Turner, a slave preacher who was on the run after initiating a slave rebellion that August, was captured. Turner (1800 - 1831) was born and raised in Southampton County, Virginia, an area where black people outnumbered whites. He learned how to read and write at a young age and was deeply religious, eventually becoming an influential preacher in the area.\n\nIn early 1831, on the basis of religious visions, Nat Turner began preparing a slave insurrection. The rebellion began on August 21st, and rebels traveled from house to house, freeing slaves and killing many of the white people that they encountered.\n\nAt least 55 white people were killed, and the slaves killed men, women, and children. The group spared a few homes "because Turner believed the poor white inhabitants 'thought no better of themselves than they did of negroes'". The rebellion was put down by a combined force of local milita and three companies of artillery. The state executed 56 black people, and militias killed at least 100 more, some of whom were not involved in the rebellion.\n\nTurner went on the run, eluding capture for six weeks. On this day in 1831, a white farmer discovered him hidden among the local Nottoway people in a depression in the earth, created by a large, fallen tree that was covered with fence rails. After being tried and convicted for "conspiring to rebel and making insurrection", he was asked if he regretted what he had done. Turner responded "Was Christ not crucified?"\n\nHe was hanged on November 11th, 1831. After his death, state legislatures passed new laws prohibiting education of slaves and free black people, restricting rights of assembly and other civil liberties for free black people, and requiring white ministers to be present at all worship services.`,
+        link: 'https://www.jacobinmag.com/2016/10/birth-of-a-nation-nat-turner-nate-parker',
+        infoSrc: 'https://en.wikipedia.org/wiki/Nat_Turner%27s_slave_rebellion'
       },
     ],
   },
