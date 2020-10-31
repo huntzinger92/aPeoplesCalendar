@@ -2268,24 +2268,24 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Rebellion',
+        date: 'February 2nd, 1932',
+        title: 'NYC Tenants Resist Evictions (1932)',
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On this day in 1932, a crowd of more than 1,000 people clashed with police officers attempting to evict three families in the Bronx neighborhood. The New York Times described the crowd like this: "Women shrieked from the windows, the different sections of the crowd hissed and booed and shouted invectives. Fighting began simultaneously in the house and the street".\n\nThe action was part of a larger period of tenant rebellion in 1930s New York City. Beginning in 1930, small bands of people, often led by communists, began to use strong-arm tactics to prevent marshals from putting furniture on the street. Rent riots began in the Lower East Side and Harlem, but quickly spread to other parts of the city.\n\nHistorians Richard Boyer and Herbert M. Morais claimed that these acts of resistance kept 77,000 tenants from being evicted.`,
+        link: 'http://www.tenant.net/Community/history/hist03d.html',
+        infoSrc: 'https://libcom.org/history/1930-1939-unemployed-workers-movement'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 2nd, 1821',
+        title: 'Battle of Cinderloo (1821)',
+        imgSrc: require('./assets/eventPhotos/Events/cinderloo.jpg'),
+        description: `On this day, a crowd of 3,000 striking workers clashed with Yeomanry in present-day Telford, England, who fired into the crowd after workers refused an order to disperse.\n\nColliers across the Coalbrookdale Coalfields had gone on strike the previos day in response to the lowering of their wages, and production across the area came to a halt. A large body of men marched to ironworks at Madeley Wood and Dawley, blowing out all the furnaces, damaging machinery, and inciting unstriking workers to join in.\n\nBy mid-afternoon the next day, a crowd of 3,000 had gathered at Old Park, near two industrial spoil heaps known as the 'Cinders Hills'. Yeomanry were sent out to disperse the crowd, and they were read the Riot Act and ordered go home. When Yeomanry moved forward to arrest the ringleaders of the strike, they were assaulted by the crowd. After further attempts to control the protesters were frustrated, the Yeomanry fired onto the crowd, killing two.\n\nNine strikers were arrested - two were sentenced to death and the other seven served nine months of hard labor. The initial dispute which had caused the riot was resolved soon after, with some ironmasters agreeing to reduce the daily pay of the workers by 4d instead of 6d.`,
+        link: 'http://www.dawleyheritage.co.uk/unpublished-articles/355/battle-of-cinderloo-by-p-sherry',
+        infoSrc: 'https://en.wikipedia.org/wiki/Cinderloo_Uprising'
       },
     ],
     'Birthdays': [
@@ -9675,7 +9675,7 @@ export const eventLibrary = {
         date: 'May 16th, 1771',
         title: 'Battle of Alamance (1771)',
         imgSrc: require('./assets/eventPhotos/Events/alamance.jpg'),
-        description: `The War of the Regulation, also known as Regulator Movement, was an uprising in British America's Carolina colonies, lasting from about 1765 to 1771, in which citizens took up arms against colonial officials, whom they viewed as corrupt, saying their "highest study is the promotion of their wealth". Historian Howard Zinn considered this a form of class conflict, as the Regulators described themselves as poor peasants, oppressed by the wealthier classes.\n\nOn this day in 1771, these tensions came to a head in the Battle of Alamance, which was fought between several thousand rebel Regulators and a North Carolina milita. Approximately two dozen men were killed. Notably, most ex-Regulators did not support the American government in the Revolutionary War that began five years later.`,
+        description: `The War of the Regulation, also known as Regulator Movement, was an uprising in British America's Carolina colonies, lasting from about 1765 to 1771, in which citizens took up arms against colonial officials, whom they viewed as corrupt, saying their "highest study is the promotion of their wealth". Historian Howard Zinn considered this a form of class conflict, as the Regulators described themselves as poor peasants, oppressed by the wealthier classes.\n\nOn this day in 1771, these tensions came to a head in the Battle of Alamance, which was fought between several thousand rebel Regulators and a North Carolina militia. Approximately two dozen men were killed. Notably, most ex-Regulators did not support the American government in the Revolutionary War that began five years later.`,
         link: 'https://en.wikipedia.org/wiki/War_of_the_Regulation',
         infoSrc: 'https://www.historyisaweapon.com/defcon1/zinntyr4.html'
       },
@@ -16658,7 +16658,7 @@ export const eventLibrary = {
         date: 'August 21st, 1831',
         title: "Nat Turner's Rebellion (1831)",
         imgSrc: require('./assets/eventPhotos/Events/natTurnerRebellion.jpg'),
-        description: `On this day in 1831, Nat Turner, a slave preacher in Southampton County, Virginia, began a slave insurrection in which a group of slaves went house to house, liberating the enslaved and killing their masters. Turner (1800 - 1831) was born and raised in Southampton County, Virginia, an area where black people outnumbered whites. He learned how to read and write at a young age and was deeply religious, eventually becoming an influential preacher in the area.\n\nIn early 1831, on the basis of religious visions, Nat Turner began preparing a slave insurrection. The rebellion began on this day in 1831, and rebels traveled from house to house, freeing slaves and killing many of the white people that they encountered.\n\nAt least 55 white people were killed, and the slaves killed men, women, and children. The group spared a few homes "because Turner believed the poor white inhabitants 'thought no better of themselves than they did of negroes'". The rebellion was put down by a combined force of local milita and three companies of artillery. The state executed 56 black people, and militias killed at least 100 more, some of whom were not involved in the rebellion.\n\nTurner went on the run, eluding capture for six weeks. On October 30th, 1831, a white farmer discovered him hidden among the local Nottoway people in a depression in the earth, created by a large, fallen tree that was covered with fence rails. After being tried and convicted for "conspiring to rebel and making insurrection", he was asked if he regretted what he had done. Turner responded "Was Christ not crucified?"\n\nHe was hanged on November 11th, 1831. After his death, state legislatures passed new laws prohibiting education of slaves and free black people, restricting rights of assembly and other civil liberties for free black people, and requiring white ministers to be present at all worship services.`,
+        description: `On this day in 1831, Nat Turner, a slave preacher in Southampton County, Virginia, began a slave insurrection in which a group of slaves went house to house, liberating the enslaved and killing their masters. Turner (1800 - 1831) was born and raised in Southampton County, Virginia, an area where black people outnumbered whites. He learned how to read and write at a young age and was deeply religious, eventually becoming an influential preacher in the area.\n\nIn early 1831, on the basis of religious visions, Nat Turner began preparing a slave insurrection. The rebellion began on this day in 1831, and rebels traveled from house to house, freeing slaves and killing many of the white people that they encountered.\n\nAt least 55 white people were killed, and the slaves killed men, women, and children. The group spared a few homes "because Turner believed the poor white inhabitants 'thought no better of themselves than they did of negroes'". The rebellion was put down by a combined force of local militia and three companies of artillery. The state executed 56 black people, and militias killed at least 100 more, some of whom were not involved in the rebellion.\n\nTurner went on the run, eluding capture for six weeks. On October 30th, 1831, a white farmer discovered him hidden among the local Nottoway people in a depression in the earth, created by a large, fallen tree that was covered with fence rails. After being tried and convicted for "conspiring to rebel and making insurrection", he was asked if he regretted what he had done. Turner responded "Was Christ not crucified?"\n\nHe was hanged on November 11th, 1831. After his death, state legislatures passed new laws prohibiting education of slaves and free black people, restricting rights of assembly and other civil liberties for free black people, and requiring white ministers to be present at all worship services.`,
         link: 'https://www.jacobinmag.com/2016/10/birth-of-a-nation-nat-turner-nate-parker',
         infoSrc: 'https://en.wikipedia.org/wiki/Nat_Turner%27s_slave_rebellion'
       },
@@ -18148,7 +18148,7 @@ export const eventLibrary = {
         date: 'September 9th, 1739',
         title: 'Stono Slave Rebellion (1739)',
         imgSrc: require('./assets/eventPhotos/Events/stonoRebellion.jpg'),
-        description: `The Stono Rebellion was a slave rebellion that began on this day in 1739, in the colony of South Carolina. It was the largest slave uprising in the British mainland colonies, with 25 colonists and 35 to 50 Africans killed. The uprising was led by native Africans who were likely from the Central African Kingdom of Kongo, as some of the rebels spoke Portuguese.\n\nThe slaves were making their way to Spanish Florida, as the Spanish had promised freedom to any slave who managed to escape from the British colonies. As the slaves made their way south, they killed approximately two dozen white people and seized weapons and ammunition, before being attacked by a well-armed milita.\n\nAround 50 slaves and 25 militiamen were killed in the fighting, and the rebellion was quelled. The Stono Rebellion was directly responsible for the "Negro Act of 1740", which slave freedom of movement and education in South Carolina.`,
+        description: `The Stono Rebellion was a slave rebellion that began on this day in 1739, in the colony of South Carolina. It was the largest slave uprising in the British mainland colonies, with 25 colonists and 35 to 50 Africans killed. The uprising was led by native Africans who were likely from the Central African Kingdom of Kongo, as some of the rebels spoke Portuguese.\n\nThe slaves were making their way to Spanish Florida, as the Spanish had promised freedom to any slave who managed to escape from the British colonies. As the slaves made their way south, they killed approximately two dozen white people and seized weapons and ammunition, before being attacked by a well-armed militia.\n\nAround 50 slaves and 25 militiamen were killed in the fighting, and the rebellion was quelled. The Stono Rebellion was directly responsible for the "Negro Act of 1740", which slave freedom of movement and education in South Carolina.`,
         link: 'https://www.blackpast.org/african-american-history/stono-rebellion-1739/',
         infoSrc: 'https://en.wikipedia.org/wiki/Stono_Rebellion'
       },
@@ -22200,7 +22200,7 @@ export const eventLibrary = {
         date: 'October 30th, 1831',
         title: "Nat Turner Captured (1831)",
         imgSrc: require('./assets/eventPhotos/Events/natTurnerRebellion.jpg'),
-        description: `On this day in 1831, Nat Turner, a slave preacher who was on the run after initiating a slave rebellion that August, was captured. Turner (1800 - 1831) was born and raised in Southampton County, Virginia, an area where black people outnumbered whites. He learned how to read and write at a young age and was deeply religious, eventually becoming an influential preacher in the area.\n\nIn early 1831, on the basis of religious visions, Nat Turner began preparing a slave insurrection. The rebellion began on August 21st, and rebels traveled from house to house, freeing slaves and killing many of the white people that they encountered.\n\nAt least 55 white people were killed, and the slaves killed men, women, and children. The group spared a few homes "because Turner believed the poor white inhabitants 'thought no better of themselves than they did of negroes'". The rebellion was put down by a combined force of local milita and three companies of artillery. The state executed 56 black people, and militias killed at least 100 more, some of whom were not involved in the rebellion.\n\nTurner went on the run, eluding capture for six weeks. On this day in 1831, a white farmer discovered him hidden among the local Nottoway people in a depression in the earth, created by a large, fallen tree that was covered with fence rails. After being tried and convicted for "conspiring to rebel and making insurrection", he was asked if he regretted what he had done. Turner responded "Was Christ not crucified?"\n\nHe was hanged on November 11th, 1831. After his death, state legislatures passed new laws prohibiting education of slaves and free black people, restricting rights of assembly and other civil liberties for free black people, and requiring white ministers to be present at all worship services.`,
+        description: `On this day in 1831, Nat Turner, a slave preacher who was on the run after initiating a slave rebellion that August, was captured. Turner (1800 - 1831) was born and raised in Southampton County, Virginia, an area where black people outnumbered whites. He learned how to read and write at a young age and was deeply religious, eventually becoming an influential preacher in the area.\n\nIn early 1831, on the basis of religious visions, Nat Turner began preparing a slave insurrection. The rebellion began on August 21st, and rebels traveled from house to house, freeing slaves and killing many of the white people that they encountered.\n\nAt least 55 white people were killed, and the slaves killed men, women, and children. The group spared a few homes "because Turner believed the poor white inhabitants 'thought no better of themselves than they did of negroes'". The rebellion was put down by a combined force of local militia and three companies of artillery. The state executed 56 black people, and militias killed at least 100 more, some of whom were not involved in the rebellion.\n\nTurner went on the run, eluding capture for six weeks. On this day in 1831, a white farmer discovered him hidden among the local Nottoway people in a depression in the earth, created by a large, fallen tree that was covered with fence rails. After being tried and convicted for "conspiring to rebel and making insurrection", he was asked if he regretted what he had done. Turner responded "Was Christ not crucified?"\n\nHe was hanged on November 11th, 1831. After his death, state legislatures passed new laws prohibiting education of slaves and free black people, restricting rights of assembly and other civil liberties for free black people, and requiring white ministers to be present at all worship services.`,
         link: 'https://www.jacobinmag.com/2016/10/birth-of-a-nation-nat-turner-nate-parker',
         infoSrc: 'https://en.wikipedia.org/wiki/Nat_Turner%27s_slave_rebellion'
       },
@@ -22238,6 +22238,15 @@ export const eventLibrary = {
         description: `The Coal Creek War was an early 1890s armed labor uprising in the southeastern United States that took place primarily in Anderson County, Tennessee. This labor conflict ignited during 1891 when coal mine owners in the Coal Creek watershed began to remove and replace their company-employed, private coal miners then on the payroll with convict laborers leased out by the Tennessee state prison system, used in this case as strikebreakers.\n\nCoal workers at the Tennessee Coal Mining Company (TCMC) went on strike on April 1st, 1891, demanding to be paid in cash, not scrip (currency only usable at company stores) and to be allowed to check the weight of their haul (they were paid by weight, but not allowed to check the company's measurement). On July 14th, armed miners surrounded the stockades where leased convicts were held and sent them by train out of the city.\n\nAfter repeated attacks on mine property and the stockades where the prisoners were being kept, it was on this day in 1891 when the miners burned the stockades to the ground and freed the hundreds of convicts being held there. On Nov. 2nd, another band attacked stockades in a different location and freed those prisoners as well. From these two events alone, at least 453 convicts were set free.\n\nThe strike was forcibily put down by state militia, ending with the arrest of hundreds of miners. All but one were either acquitted or merely fined. Tennessee ended its policy of allowing convict labor in 1892.`,
         link: 'https://libcom.org/files/stockade-stood-burning-rebellion-and-convict-lease-tennessees-coalfields-1891-1895-1.pdf',
         infoSrc: 'https://en.wikipedia.org/wiki/Coal_Creek_War'
+      },
+      {
+        category: 'Labor',
+        date: 'October 31st, 1995',
+        title: 'JJ Foods Strike (1995)',
+        imgSrc: require('./assets/eventPhotos/Events/jjFoodsStrike.jpg'),
+        description: `On this day in 1995, workers at the JJ Fast Food Distribution plant in Tottenham, London effectively went on strike to demand the reinstatement of their elected shop steward, beginning a several-month strike at the factory. The workers were mostly Kurdish and Turkish immigrants, as the food and textile industries were significant employers of immigrant workers.\n\nWorking conditions at the plant were difficult - according to the anarchist publication Black Flag, workers were putting in 60-70 hours per week with no overtime, sick, or holiday pay. The day before the strike, the factory manager had fired the elected shop steward in response workers' attempts to organize through the Transport and General Workers' Union (TGWU).\n\nWhen arriving to work the next day, workers refused to work, demanding the reinstatement of their elected represenative. The boss then demanded union workers leave, and then fighting broke out. The union members then gathered outside the gate, some injured, where they were attacked by police.\n\nThe following day, the sacked workers and around 100 supporters again gathered outside the warehouse, attempting to block the access road and again clashing with police. The labor disputes continued for months. After two weeks, an Industrial Tribunal initiated by TGWU ruled that the workers had been sacked for union membership, and ordered them to return to work February 26th.\n\nDespite this apparent victory, when 35 workers returned to their jobs, they were told that their union would not be recognized and that they be forced to work from 5 in the morning until midnight. This caused another strike, however it was short-lived and ineffective; only twelve out of the original forty-two fired JJ workers returned to work on March 18th.`,
+        link: 'https://libcom.org/library/1995-the-jj-foods-strike',
+        infoSrc: 'https://libcom.org/history/up-against-the-odds'
       },
     ],
     'Birthdays': [
@@ -22299,13 +22308,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 1st, 1919',
+        title: 'UMW Coal Strike (1919)',
+        imgSrc: require('./assets/eventPhotos/Events/umwCoalStrike1919.jpg'),
+        description: `On this day in 1919, the United Mine Workers (UMW) initiated an illegal, nationwide strike of more than 400,000 coal miners, demanding better wages and a 30-hour week. The strike was declared illegal by the U.S. Attorney General, A. Mitchell Palmer (the same person behind the infamous Palmer raids), who invoked the Lever Act, a wartime measure that made it a crime to interfere with the production or transportation of necessities.\n\nThe law had never been used against a union before, and in fact American Federation of Labor Samuel Gompers had been promised by President Woodrow Wilson that the Lever Act would not be used to suppress labor actions.\n\nThe strike was subject to Red Scare propaganda: coal operators made false charges that Lenin and Trotsky had ordered the strike and were financing it, and some of the press repeated those claims. Others used words like "insurrection" and "Bolshevik revolution". Because of this propaganda and the Attorney General's injuction against the strike, the UMW called the strike off on November 8th.\n\nMany strikers ignored this order, however, and the strike continued for over a month, with a final agreement being reached on December 10th. Workers won a 14% wage increase and the creation of an investigatory commission to mediate the wage issue.`,
+        link: 'https://libcom.org/history/us-miners-strikes-1919-1922-jeremy-brecher',
+        infoSrc: 'https://en.wikipedia.org/wiki/United_Mine_Workers_coal_strike_of_1919'
       },
     ],
     'Birthdays': [
