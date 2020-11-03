@@ -2626,24 +2626,24 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'February 7th, 1949',
+        title: 'Miguel García Death Sentence (1949)',
+        imgSrc: require('./assets/eventPhotos/Individuals/miguelGarcia.jpg'),
+        description: `On this day in 1949, anti-Francoist activist, anarchist, and writer Miguel García, along with 8 others, was sentenced to death by the fascist Spanish government. García (1909 - 1980) was a member of the Tallion Action Group who militantly opposed Franscisco Franco's fascism. His capture came during a brutal crackdown on political dissidents by Spanish security forces in October 1949.\n\nWell known writers and intellectuals, including Andre Breton, Albert Camus, Rene Char, Jean-Paul Sartre, and Ignazio Silone protested the planned executions. There was also support for the nine prisoners from the British Labour Party. For unknown reasons, four of the condemned men, including García, had their sentences commuted to life imprisonment. The other five were executed on March 14th, 1952, in Barcelona.\n\nHere are the names and a brief description of the five executed men:\n\nPedro Adrover Font, aged 44, was a major figure in the Barcelona anarchist resistance who had once placed a bomb under a cathedral in order to assassinate Franco.\n\nSantiago Amir Gruanas ("El Sheriff"), aged 38, was a guide and member of the anarchist resistance who had helped shot-down British airmen, Jews, and French Resistance members from France into Spain.\n\nGines Urrea Pina, aged 56, was a veteran of the Spanish Civil War and advocated for launching a new period of armed resistance against Franco.\n\nJose Perez Pedrero, nicknamed "Tragapanes" ("bread swallower") because he was always hungry, was a miner and had been involved in many guerrilla operations with the anarchist resistance.\n\nJorge Pons Argiles "Tarantula" was a farmer and, like Tragapanes, was involved with the guerrilla activities of the resistance.`,
+        link: 'https://en.wikipedia.org/wiki/Miguel_Garc%C3%ADa_Garc%C3%ADa',
+        infoSrc: 'https://www.katesharpleylibrary.net/dv42ss'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'February 7th, 2006',
+        title: 'France Anti-CPE Protests (2006)',
+        imgSrc: require('./assets/eventPhotos/Events/franceCPEProtests.jpg'),
+        description: `On this day in 2006, around 400,000 people in France took the streets to protest the "First Employment Contract" (CPE), Prime Minister Villepin's new labor law, which eroded worker protections for young people. Claiming that "urgent" action was needed to "bring the French labour market into the modern era", Villepin's CPE package would allow employers to hire 18-26 year-olds on two year contracts and fire them without notice or explanation.\n\nIn response, student unions called for a week of meetings and mobilization, and for a national day of protest for the 7th February. The national protest continued beyond February 7th, however, and a national strike was called on March 28th (incidentally, the same day a million workers in the UK struck to defend their pensions).\n\nHundreds of thousands of workers went on strike, and three million people took to the streets all across the country. Unions were prepared to call another general strike when the French government finally gave in and withdrew the law.\n\nA similar law (the CNE), which applied to small businesses of fewer than 25 people, was eventually overturned in the courts in 2007.`,
+        link: 'https://en.wikipedia.org/wiki/2006_youth_protests_in_France',
+        infoSrc: 'https://libcom.org/blog/short-history-cpe-protests-france'
       },
     ],
     'Birthdays': [
@@ -12665,7 +12665,7 @@ export const eventLibrary = {
         date: 'June 26th, 1908',
         title: 'Salvador Allende (1908 - 1973)',
         imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),
-        description: `Salvador Allende was a Chilean socialist politician and physician born on this day in 1908. Allende was President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on November 3rd, 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn September 11th, 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.`,
+        description: `Salvador Allende was a Chilean socialist politician and physician born on this day in 1908. Allende was President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on November 3rd, 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impoverished areas, and establishing a minimum wage for workers of all ages.\n\nOn September 11th, 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.`,
         link: 'https://jacobinmag.com/2019/09/salvador-allende-chile-revolucion-democratica-frente-amplio',
         infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
       },
@@ -22435,7 +22435,7 @@ export const eventLibrary = {
         date: 'November 3rd, 1970',
         title: 'Allende Assumes Office (1970)',
         imgSrc: require('./assets/eventPhotos/Individuals/salvadorAllende.jpg'),
-        description: `Salvador Allende was a Chilean socialist politician and physician, President of Chile from 1970 until 1973, and head of the Popular Unity political coalition government; on this day in 1970, he was Latin America's first ever Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impovershied areas, and establishing a minimum wage for workers of all ages.\n\nOn September 11th, 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
+        description: `Salvador Allende was a Chilean socialist politician and physician who, on this day in 1970, became Latin America's first Marxist to become the elected leader of a liberal democracy.\n\nAs president, Allende sought to nationalize major industries, expand education and improve the living standards of the working class. Specific examples of his policies include giving educational grants to indigenous children, literacy programs in impoverished areas, and establishing a minimum wage for workers of all ages.\n\nOn September 11th, 1973, the military moved to oust Allende in a coup d'état assisted by the Henry Kissinger and the CIA. As troops surrounded La Moneda Palace, he gave his last speech vowing not to resign. Later that day, Allende died of suicide with a gun, according to an investigation conducted by a Chilean court with the assistance of international experts in 2011.\n\nFollowing Allende's death, General Augusto Pinochet refused to return authority to a civilian government, and Chile was later ruled by a military junta that was in power up until 1990. This junta dissolved the Congress of Chile, suspended the Constitution, and began a persecution of alleged dissidents, in which at least 3,095 civilians disappeared or were killed.`,
         link: 'https://jacobinmag.com/2019/09/salvador-allende-chile-revolucion-democratica-frente-amplio',
         infoSrc: 'https://en.wikipedia.org/wiki/Salvador_Allende'
       },
@@ -22465,7 +22465,7 @@ export const eventLibrary = {
         category: 'Labor',
         date: 'November 3rd, 2003',
         title: `UK Postal Workers' Strike Ends (2003)`,
-        imgSrc: require('./assets/eventPhotos/Events/ukPostalStrike2003.jpg'),
+        imgSrc: require('./assets/eventPhotos/Events/ukPostalStrike2003.jpeg'),
         description: `On this day in 2003, a wildcat strike involving two-thirds of Royal Mail workers (around 20,000 people) ended in success for the striking mailing carriers.\n\nIn August of that year, the Communication Workers Union (CWU) called for a national strike for higher wages, however the proposition we defeated in a close vote. A few months later, in late October, postal workers engaged in a wildcat strike of their own, indicating a lack of trust between union rank-and-file and leadership.\n\nThe strike began when a driver in Dartford, London was sacked and 400 co-workers engaged in a spontaneous work stoppage. Within eleven days, 20,000 to 25,000 workers were out, mostly from London and the South East. More than 16 million letters per day were piling up and, after a few days, 10,000 post boxes across London were sealed off.\n\nOn November 3rd, after the management promised that there would be no repression, sackings or local deals, the strike was resolved. On the aims of the workers and why the strike was successful, one worker commented:\n\n"It was a defensive, but successful strike. The issue is we broke the anti strike legislation. In this case even the headquarters union official were not trying very hard to enforce the law and the local union reps were actively working against the law. We broke through the unions officials 'anti-strike' politics again, and we were successful when we did."`,
         link: 'https://www.theguardian.com/uk/2003/oct/30/post',
         infoSrc: 'https://libcom.org/history/2003-postal-workers-wildcat-strike'
