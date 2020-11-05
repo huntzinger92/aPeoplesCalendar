@@ -2898,13 +2898,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'February 11th, 2004',
+        title: 'Slovak Unemployment Riots Begin (2004)',
+        imgSrc: require('./assets/eventPhotos/Events/slovakUnemployedRiots.jpg'),
+        description: `On this day in 2004, the first supermarket was looted in a series of escalating riots and peaceful demonstration by unemployed people, predominantly Roma, in Slovakia.\n\nThe protests were in response to welfare cuts by the Slovakian government. At the time, 51% Roma women and 72% Roma men were unemployed, a trend which can be traced back to liberalization policies after the collapse of the Soviet Union. In February 2004, the unemployed all over Slovakia received official notices from the government informing them of steep cuts to welfare benefits, and demonstrations broke out in the eastern parts of the country.\n\nThe reaction was a mix of peaceful demonstrations and outright rioting. Signs from protests read "We want work, not food stamps" and "We've had enough of capitalism", and were attended by some of the white ethnic majority.\n\nIn the largest police and military operation since 1989, over 2000 troops were mobilized and sent to the affected regions. On February 23rd, in Trebišov (southeastern Slovakia), police attacked a Roma demonstration with teargas and, in the freezing February cold, water cannon. Early the next morning, around 240 policemen attacked a settlement the protesters were suspected to live in by about 80 people in the historical town of Levoča.\n\nAlthough the protests failed to develop into a more substantive political movement, they had a lasting impact. Soon afterward, the government made important concessions, increasing activation benefits by 50%, introducing scholarships and various subsidies for pupils and students from poor families, and increasing funding for placement opportunities for the unemployed.`,
+        link: 'http://www.errc.org/cikk.php?cikk=1884',
+        infoSrc: 'https://libcom.org/history/slovakias-unemployed-riots-2004'
       },
     ],
     'Labor': [
@@ -2920,13 +2920,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: `February 11th, 1888`,
+        title: `Virgilia D'Andrea (1888 - 1933)`,
+        imgSrc: require('./assets/eventPhotos/Individuals/virgiliaDAndrea.jpg'),
+        description: `Virgilia D'Andrea, born on this day in 1888, was an anarchist activist and poet whose writings were suppressed by the fascist regime of Benito Mussolini.\n\nD'Andrea was politicized by the bloodshed of World War I and left teaching to join the movement against Italian participation in the war. By 1917, the state had deemed her an effective and dangerous radical anti-war agitator. Following Italy's entry into the war, both D'Andrea and her partner Armando Borghi were subjected to house arrest and legally confined for the duration of the war.\n\nIn 1922, she published her first book of poetry, "Tormento", which included a forward by Italian anarchist Errico Malatesta. A prominent free love advocate and noted anti-fascist, she fled Italy with the rise of fascism and emigrated to the United States. In 1929, a second edition of "Tormento" was published, however the prints were immediately seized by the authorities, who charged that its words "excited the spirits" and inspired revolt.`,
+        link: 'https://libcom.org/history/andrea-virgilia-d-1890-1933',
+        infoSrc: 'https://en.wikipedia.org/wiki/Virgilia_D%27Andrea'
       },
     ],
     'Assassinations': [
@@ -4181,13 +4181,13 @@ export const eventLibrary = {
   '2-29': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'February 29th, 2004',
+        title: 'Haitian Coup (2004)',
+        imgSrc: require('./assets/eventPhotos/Events/haiti2004.jpg'),
+        description: `On this day in 2004, a coup d'état took place in Haiti, ousting democratically elected President Jean-Bertrand Aristide in favor of Boniface Alexandre, the Chief Justice of the Haitian Supreme Court. Aristide was flown out of Haiti by U.S. personnel, and accounts differ on the nature of his exist. Aristide claims he was kidnapped and told to leave by the U.S. Haitian Embassy's chief of staff under threat of violence, although the U.S. government disputes this claim.\n\nIn the years leading up to the coup, rightwing paramilitary groups violently targeted activists and government officials aligned with the Aristide government. There were also incidents of police brutality against students protesting Aristide's government.\n\nIn the aftermath, Boniface Alexandre succeeded Aristide as interim president and petitioned the United Nations Security Council for the intervention of an international peacekeeping force. Within days, official U.N. troops the combined forces of U.S., Canadian, French and Chilean troops arrived on the island. Aristide was forced into exile in South Africa, although he returned to Haiti in 2011.`,
+        link: 'https://www.cnn.com/2004/WORLD/americas/03/01/aristide.claim/',
+        infoSrc: 'https://en.wikipedia.org/wiki/2004_Haitian_coup_d%27%C3%A9tat'
       },
     ],
     'Rebellion': [
@@ -22602,7 +22602,7 @@ export const eventLibrary = {
         date: 'November 5th, 1916',
         title: 'The Everett Massacre (1916)',
         imgSrc: require('./assets/eventPhotos/Events/everettMassacre.jpg'),
-        description: `The Everett Massacre (also known as Bloody Sunday) was an armed confrontation in Everett, Washington between local authorities and members of the Industrial Workers of the World (IWW) union.\n\nThe Seattle IWW sent three hundred of its members up to Everett to demonstrate in solidarity with striking shingle workers there. Upon arriving at the dock, however, they were greeted by Snohomish County Sheriff McRae and two hundred "citizen deputies", who refused to let them land.\n\nGunfire was exchanged, and at least seven people were killed and forty-three were wounded. Despite this violence, striking workers in Everett continued with their planned demonstration, and were promptly taken to jail by McRae.`,
+        description: `The Everett Massacre (also known as Bloody Sunday) was an armed confrontation in Everett, Washington between local authorities and members of the Industrial Workers of the World (IWW) union that took place on this day in 1916.\n\nThe Seattle IWW sent three hundred of its members up to Everett to demonstrate in solidarity with striking shingle workers there. Upon arriving at the dock, however, they were greeted by Snohomish County Sheriff McRae and two hundred "citizen deputies", who refused to let them land.\n\nGunfire was exchanged, and at least seven people were killed and forty-three were wounded. Despite this violence, striking workers in Everett continued with their planned demonstration, and were promptly taken to jail by McRae.`,
         link: 'https://depts.washington.edu/iww/everett_intro.shtml',
         infoSrc: 'https://en.wikipedia.org/wiki/Everett_massacre'
       },
@@ -22613,7 +22613,7 @@ export const eventLibrary = {
         date: 'November 5th, 1855',
         title: 'Eugene V. Debs (1855 - 1926)',
         imgSrc: require('./assets/eventPhotos/Individuals/eugeneDebs.jpg'),
-        description: `Eugene Victor Debs was an American socialist, political activist, trade unionist, one of the founding members of the Industrial Workers of the World (IWW) and five times the candidate of the Socialist Party of America for President of the United States. Through his presidential candidacies as well as his work with labor movements, Debs eventually became one of the best-known socialists living in the United States.\n\nWhile in prison for leading the Pullman Strike, Debs read various works of socialist theory and emerged six months later as a committed adherent of the international socialist movement. Debs was a founding member of the Social Democracy of America (1897), the Social Democratic Party of America (1898) and the Socialist Party of America (1901). Debs ran as a Socialist candidate for President of the United States five times, including 1900 (earning 0.6% of the popular vote), 1904 (3.0%), 1908 (2.8%), 1912 (6.0%) and 1920 (3.4%), the last time from a prison cell. He was also a candidate for United States Congress from his native state Indiana in 1916.\n\nDebs was noted for his oratory, and his speech denouncing American participation in World War I led to his second arrest in 1918. He was convicted under the Sedition Act of 1918 and sentenced to a term of 10 years. In his speech to the court, he provided one of his most well-known quotes: \n\n"Your Honor, years ago I recognized my kinship with all living beings, and I made up my mind that I was not one bit better than the meanest on earth. I said then, and I say now, that while there is a lower class, I am in it, and while there is a criminal element, I am of it, and while there is a soul in prison, I am not free."`,
+        description: `Eugene V. Debs, born on this day in 1855, was an American socialist, trade unionist, a founding member of the Industrial Workers of the World (IWW), and a five time presidential candidate of the Socialist Party of America. Through his presidential candidacies as well as his work with labor movements, Debs eventually became one of the best-known socialists living in the United States.\n\nWhile in prison for leading the Pullman Strike, Debs read various works of socialist theory and emerged six months later as a committed adherent of the international socialist movement. Debs was a founding member of the Social Democracy of America (1897), the Social Democratic Party of America (1898) and the Socialist Party of America (1901). Debs ran as a Socialist candidate for President of the United States five times, including 1900 (earning 0.6% of the popular vote), 1904 (3.0%), 1908 (2.8%), 1912 (6.0%) and 1920 (3.4%), the last time from a prison cell. He was also a candidate for United States Congress from his native state Indiana in 1916.\n\nDebs was noted for his oratory, and his speech denouncing American participation in World War I led to his second arrest in 1918. He was convicted under the Sedition Act of 1918 and sentenced to a term of 10 years. In his speech to the court, he provided one of his most well-known quotes: \n\n"Your Honor, years ago I recognized my kinship with all living beings, and I made up my mind that I was not one bit better than the meanest on earth. I said then, and I say now, that while there is a lower class, I am in it, and while there is a criminal element, I am of it, and while there is a soul in prison, I am not free."`,
         link: 'https://www.marxists.org/archive/debs/index.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Eugene_V._Debs'
       },
@@ -22622,7 +22622,7 @@ export const eventLibrary = {
         date: 'November 5th, 1940',
         title: 'Cedric Robinson (1940 - 2016)',
         imgSrc: require('./assets/eventPhotos/Individuals/cedricRobinson.jpg'),
-        description: `Cedric Robinson was a professor in the Department of Black Studies and the Department of Political Science at the University of California, Santa Barbara (UCSB). Robinson's areas of interest included political philosophy, radical social theory in the African diaspora, comparative politics, and the relationships between and among media and politics.\n\nIn his work "Black Marxism: The Making of the Black Radical Tradition", Robinson makes the argument that analysing black history solely through a Marxist lens is incomplete, and that to understand black radicalism, one must include African traditions and the unique experiences of black people in Western nations.`,
+        description: `Cedric Robinson, born on this day in 1940, was a professor in the Department of Black Studies and the Department of Political Science at the University of California, Santa Barbara (UCSB). Robinson's areas of interest included political philosophy, radical social theory in the African diaspora, comparative politics, and the relationships between and among media and politics.\n\nIn his work "Black Marxism: The Making of the Black Radical Tradition", Robinson makes the argument that analysing black history solely through a Marxist lens is incomplete, and that to understand black radicalism, one must include African traditions and the unique experiences of black people in Western nations.`,
         link: 'https://uncpress.org/book/9780807848296/black-marxism/',
         infoSrc: 'https://en.wikipedia.org/wiki/Cedric_Robinson'
       },
@@ -22631,7 +22631,7 @@ export const eventLibrary = {
         date: 'November 5th, 1857',
         title: 'Ida Tarbell (1857 - 1944)',
         imgSrc: require('./assets/eventPhotos/Individuals/idaTarbell.jpg'),
-        description: `Ida Minerva Tarbell, born on this day in 1857, was an American writer, investigative journalist, biographer, feminist, and lecturer. She was one of the leading muckrakers of the late 19th and early 20th centuries and pioneered investigative journalism. Born in Pennsylvania at the onset of the oil boom,\n\nTarbell is best known for her 1904 book, The History of the Standard Oil Company. It has been called a "masterpiece of investigative journalism", by historian J. North Conway, as well as "the single most influential book on business ever published in the United States" by historian Daniel Yergin.\n\nThe work would contribute to the dissolution of the Standard Oil monopoly and helped usher in multiple pieces of anti-trust reform, including the Clayton Antitrust Act and the creation of the Federal Trade Commission (FTC).`,
+        description: `Ida Minerva Tarbell, born on this day in 1857, was an American writer, investigative journalist, biographer, feminist, and lecturer. She was one of the leading muckrakers of the late 19th and early 20th centuries and pioneered investigative journalism.\n\nBorn in Pennsylvania at the onset of the oil boom, Tarbell is best known for her 1904 book, The History of the Standard Oil Company. It was called a "masterpiece of investigative journalism", by historian J. North Conway, as well as "the single most influential book on business ever published in the United States" by historian Daniel Yergin.\n\nThe work would contribute to the dissolution of the Standard Oil monopoly and helped usher in multiple pieces of anti-trust reform, including the Clayton Antitrust Act and the creation of the Federal Trade Commission (FTC).`,
         link: 'https://www.smithsonianmag.com/history/the-woman-who-took-on-the-tycoon-651396/',
         infoSrc: 'https://en.wikipedia.org/wiki/Ida_Tarbell'
       },
