@@ -1675,7 +1675,7 @@ export const eventLibrary = {
         date: 'January 24th, 1930',
         title: 'Kim Chwa-chin (1889 - 1930)',
         imgSrc: require('./assets/eventPhotos/Individuals/kimChwaChin.jpg'),
-        description: `Kim Chwa-chin (also written Kim Chwa-jin) (1889 - 1930) was a Korean general, independence activist, and anarchist who played an important role in the early attempts at development of anarchism in Korea. When Kim was 18, he released 50 families of slaves when he burned the slave registry and provided each family with enough land to live on, resulting in the first emancipation of slaves in modern Korea.\n\nIn 1918, Kim was one of 40 Korean represenatives to sign the Korean Declaration of independence. He then joined the Korea Justice Corps, later becoming the general commander of the Northern Military Administration Office Army and playing a key role in the "Battle of Cheongsanri" against japanese forces.\n\nIn 1928, the Korea Independence Party was formed, and the following year, when the Korean General Association was established as the successor of the new people, Chwa-chin was designated as the President. During this process, conflicts between the nationalist and communist independence activists intensified. On this day in 1930, Kim was assassinated by Park Sang-sil, an agent of the Japanese colonial government.`,
+        description: `Kim Chwa-chin (also written Kim Chwa-jin) (1889 - 1930) was a Korean general, independence activist, and anarchist who played an important role in the early attempts at development of anarchism in Korea. When Kim was 18, he released 50 families of slaves when he burned the slave registry and provided each family with enough land to live on, resulting in the first emancipation of slaves in modern Korea.\n\nIn 1918, Kim was one of 40 Korean representatives to sign the Korean Declaration of independence. He then joined the Korea Justice Corps, later becoming the general commander of the Northern Military Administration Office Army and playing a key role in the "Battle of Cheongsanri" against japanese forces.\n\nIn 1928, the Korea Independence Party was formed, and the following year, when the Korean General Association was established as the successor of the new people, Chwa-chin was designated as the President. During this process, conflicts between the nationalist and communist independence activists intensified. On this day in 1930, Kim was assassinated by Park Sang-sil, an agent of the Japanese colonial government.`,
         link: 'https://web.archive.org/web/20151226035222/http://english.hongseong.go.kr/eng/sub01_05_04.do',
         infoSrc: 'https://en.wikipedia.org/wiki/Kim_Chwa-chin'
       },
@@ -4576,7 +4576,7 @@ export const eventLibrary = {
         date: 'March 5th, 1871',
         title: 'Rosa Luxemburg (1871 - 1919)',
         imgSrc: require('./assets/eventPhotos/Individuals/rosaLuxemburg.jpg'),
-        description: `Rosa Luxemburg was a Polish Marxist, philosopher, economist, anti-war activist and revolutionary socialist who was born on this day in 1871. Successively, she was a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD) and the Communist Party of Germany (KPD).\n\nIn 1918-19, Luxemberg publicly supported a violent rebellion against the German state. She was captured and summarily executed by the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Her body was thrown in the Landwehr Canal in Berlin.\n\nDue to her pointed criticism of both the Leninist and the more moderate social democratic schools of socialism, Luxemburg's legacy is a radical, non-Leninist school of revolutionary socialist thought.`,
+        description: `Rosa Luxemburg was a Polish Marxist, philosopher, economist, anti-war activist and revolutionary socialist who was born on this day in 1871. Successively, she was a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD) and finally, the Communist Party of Germany (KPD).\n\nIn 1918-19, Luxemberg publicly supported a violent rebellion against the German state. She was captured and summarily executed by the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Her body was thrown in the Landwehr Canal in Berlin.\n\nDue to her pointed criticism of both Leninist and more moderate social democratic schools of socialism, Luxemburg's legacy is a radical, but non-Leninist school of revolutionary socialist thought.`,
         link: 'https://www.versobooks.com/blogs/4203-the-many-interpretations-of-rosa-luxemburg-s-legacy',
         infoSrc: 'https://en.wikipedia.org/wiki/Rosa_Luxemburg'
       },
@@ -4888,13 +4888,13 @@ export const eventLibrary = {
   '3-10': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'March 10th, 1952',
+        title: `Batista Coup d'état (1952)`,
+        imgSrc: require('./assets/eventPhotos/Events/batista1952.jpg'),
+        description: `On this day in 1952, Fulgencio Batista led a bloodless coup against outgoing president Carlos Prío Socarrás, three months before elections were scheduled to take place. Batista himself was a candidate in the elections, but was not leading in the polls.\n\nClaiming his actions were necessary to "save the Republic from chaos", Batista, with the backing of the army, stormed the presidential palace, with squads of troops and police surrounding the building. President Prío had left the area 30 minutes before however, and the palace was seized without violence.\n\nThe United States recognized his government on March 27th, and Batista allowed U.S. financial interests (including the mafia) to dominate Cuba's economy. By the late 1950s, U.S. financial interests owned 90% of Cuban mines, 80% of its public utilities, 50% of its railways, 40% of its sugar production and 25% of its bank deposits, approximately $1 billion in total assets.\n\nBatista's reign ended on January 1st, 1959, when he was ousted from power by communist rebels. Early January 1st, 1959, Batista fled with an estimated personal fortune of $300 million to the Dominican Republic, where strongman and previous military ally Rafael Trujillo held power. Batista eventually found political asylum in Oliveira Salazar's Portugal and Francisco Franco's Spain, dying in the latter in 1973.`,
+        infoSrc: 'https://www.theguardian.com/theguardian/2013/mar/11/cuba-batista-fifth-revolution-1952',
+        link: 'https://en.wikipedia.org/wiki/Fulgencio_Batista'
       },
     ],
     'Rebellion': [
@@ -4910,13 +4910,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'March 10th, 1906',
+        title: 'Courrières Mine Disaster (1906)',
+        imgSrc: require('./assets/eventPhotos/Events/courrieres.jpg'),
+        description: `On this day in 1906, the Courrières Mine Disaster, Europe's worst mining accident, occurred, killing 1,099 miners in Northern France and causing 46,000 miners to go on strike. This was the second-worst mining disaster in history, surpassed only by the Benxihu Colliery accident in China on April 26th, 1942, which killed 1,549 miners.\n\nThe majority of the deaths and destruction were likely caused by an explosion of coal dust, which swept through the mine. Around 500 miners were able to get to the surface in the hours after the explosion, however survivors trapped underground were found as late as April 4th.`,
+        link: 'https://www.lefigaro.fr/histoire/archives/2016/03/09/26010-20160309ARTFIG00306-courrieres-la-catastrophe-miniere-la-plus-meurtiere-d-europe-1906.php',
+        infoSrc: 'https://en.wikipedia.org/wiki/Courri%C3%A8res_mine_disaster'
       },
     ],
     'Birthdays': [
@@ -4932,13 +4932,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'March 10th, 1919',
+        title: 'Leo Jogiches (1919)',
+        imgSrc: require('./assets/eventPhotos/Individuals/leoJogiches.jpg'),
+        description: `Leon "Leo" Jogiches (1867 - 1919), also known by the party name Jan Tyszka, was a Marxist revolutionary and politician who was executed on this day in 1919 for investigating the recent murders of Rosa Luxemberg and Karl Liebknecht. Jogiches was active in both Germany and Poland, founding the political party "The Social Democracy of the Kingdom of Poland" in 1893, as well as becoming a key figure in the underground Spartacus League in Germany during World War I.\n\nJogiches was also a personal companion and a close political ally of Rosa Luxemburg. After Luxemburg and her political partner Karl Liebknecht were killed by the German Freikorps, Jogiches began investigating their deaths. It is likely for this reason that he was assassinated in Moabit prison on March 10th, 1919, in Berlin.`,
+        infoSrc: 'https://spartacus-educational.com/RUSjogiches.htm',
+        link: 'https://en.wikipedia.org/wiki/Leo_Jogiches'
       },
     ],
     'Other': [
@@ -17712,7 +17712,7 @@ export const eventLibrary = {
         date: 'September 3rd, 1865',
         title: 'Original 33 Expelled (1865)',
         imgSrc: require('./assets/eventPhotos/Events/original33.jpg'),
-        description: `The "Original 33" were the first 33 African-American members of the Georgia General Assembly who were elected to office in 1868, during the Reconstruction era. They were among the first African-American state legislators in the United States, and 24 of the members were ministers.\n\nAfter most of the legislators voted for losing candidates in the legislature's elections for the U.S. Senate, the white majority conspired to remove the black and mixed-ethnicity members from the Assembly. On this day in 1865, the Georgia legislators voted to expel all black members of the General Assembly (4 of the 33 were allowed to stay due to being 1/8 or less black).\n\nThe expelled members appealed to the federal government and state courts. In protest of the expulsion, former represenative Phillip Joiner led a 25 mile march to Camilla, the county seat on September 19th. There, they were attacked by an armed white mob, and approximately a dozen marchers were killed. The Camilla Massacre began the era of de facto voting discrimination and political disenfranchisement of the black population in Georgia.`,
+        description: `The "Original 33" were the first 33 African-American members of the Georgia General Assembly who were elected to office in 1868, during the Reconstruction era. They were among the first African-American state legislators in the United States, and 24 of the members were ministers.\n\nAfter most of the legislators voted for losing candidates in the legislature's elections for the U.S. Senate, the white majority conspired to remove the black and mixed-ethnicity members from the Assembly. On this day in 1865, the Georgia legislators voted to expel all black members of the General Assembly (4 of the 33 were allowed to stay due to being 1/8 or less black).\n\nThe expelled members appealed to the federal government and state courts. In protest of the expulsion, former representative Phillip Joiner led a 25 mile march to Camilla, the county seat on September 19th. There, they were attacked by an armed white mob, and approximately a dozen marchers were killed. The Camilla Massacre began the era of de facto voting discrimination and political disenfranchisement of the black population in Georgia.`,
         link: 'https://en.wikipedia.org/wiki/Original_33',
         infoSrc: 'https://www.georgiapol.com/2018/02/01/original-33-georgia-general-assembly/'
       },
@@ -19079,7 +19079,7 @@ export const eventLibrary = {
         date: 'September 19th, 1868',
         title: 'Camilla Massacre (1868)',
         imgSrc: require('./assets/eventPhotos/Events/original33.jpg'),
-        description: `The "Original 33" were the first 33 African-American members of the Georgia General Assembly who were elected to office in 1868, during the Reconstruction era. They were among the first African-American state legislators in the United States, and were expelled by the white members of the General Assembly, who claimed blacks could not hold office in Georgia.\n\nThe expelled members appealed to the federal government and state courts. In protest of the expulsion, former represenative Phillip Joiner led a 25 mile march to Camilla, the county seat on this day in 1868. There, they were attacked by an armed white mob - approximately a dozen marchers were killed and 30-40 wounded. The Camilla Massacre began the era of de facto voting discrimination and political disenfranchisement of the black population in Georgia.\n\nAlthough the expelled legislators eventually won a case in the Georgia Supreme Court (White v. Clements) that gave them the right to hold office, voter intimidation and de facto voting discrimination heightened to such a degree that Georgia went almost sixty years without having a single black legislator in its state congress, although they were legally allowed to do so.`,
+        description: `The "Original 33" were the first 33 African-American members of the Georgia General Assembly who were elected to office in 1868, during the Reconstruction era. They were among the first African-American state legislators in the United States, and were expelled by the white members of the General Assembly, who claimed blacks could not hold office in Georgia.\n\nThe expelled members appealed to the federal government and state courts. In protest of the expulsion, former representative Phillip Joiner led a 25 mile march to Camilla, the county seat on this day in 1868. There, they were attacked by an armed white mob - approximately a dozen marchers were killed and 30-40 wounded. The Camilla Massacre began the era of de facto voting discrimination and political disenfranchisement of the black population in Georgia.\n\nAlthough the expelled legislators eventually won a case in the Georgia Supreme Court (White v. Clements) that gave them the right to hold office, voter intimidation and de facto voting discrimination heightened to such a degree that Georgia went almost sixty years without having a single black legislator in its state congress, although they were legally allowed to do so.`,
         link: 'https://en.wikipedia.org/wiki/Camilla_massacre',
         infoSrc: 'https://www.zinnedproject.org/news/tdih/camilla-massacre/'
       },
@@ -22244,7 +22244,7 @@ export const eventLibrary = {
         date: 'October 31st, 1995',
         title: 'JJ Foods Strike (1995)',
         imgSrc: require('./assets/eventPhotos/Events/jjFoodsStrike.jpg'),
-        description: `On this day in 1995, workers at the JJ Fast Food Distribution plant in Tottenham, London effectively went on strike to demand the reinstatement of their elected shop steward, beginning a several-month strike at the factory. The workers were mostly Kurdish and Turkish immigrants, as the food and textile industries were significant employers of immigrant workers.\n\nWorking conditions at the plant were difficult - according to the anarchist publication Black Flag, workers were putting in 60-70 hours per week with no overtime, sick, or holiday pay. The day before the strike, the factory manager had fired the elected shop steward in response workers' attempts to organize through the Transport and General Workers' Union (TGWU).\n\nWhen arriving to work the next day, workers refused to work, demanding the reinstatement of their elected represenative. The boss then demanded union workers leave, and then fighting broke out. The union members then gathered outside the gate, some injured, where they were attacked by police.\n\nThe following day, the sacked workers and around 100 supporters again gathered outside the warehouse, attempting to block the access road and again clashing with police. The labor disputes continued for months. After two weeks, an Industrial Tribunal initiated by TGWU ruled that the workers had been sacked for union membership, and ordered them to return to work February 26th.\n\nDespite this apparent victory, when 35 workers returned to their jobs, they were told that their union would not be recognized and that they be forced to work from 5 in the morning until midnight. This caused another strike, however it was short-lived and ineffective; only twelve out of the original forty-two fired JJ workers returned to work on March 18th.`,
+        description: `On this day in 1995, workers at the JJ Fast Food Distribution plant in Tottenham, London effectively went on strike to demand the reinstatement of their elected shop steward, beginning a several-month strike at the factory. The workers were mostly Kurdish and Turkish immigrants, as the food and textile industries were significant employers of immigrant workers.\n\nWorking conditions at the plant were difficult - according to the anarchist publication Black Flag, workers were putting in 60-70 hours per week with no overtime, sick, or holiday pay. The day before the strike, the factory manager had fired the elected shop steward in response workers' attempts to organize through the Transport and General Workers' Union (TGWU).\n\nWhen arriving to work the next day, workers refused to work, demanding the reinstatement of their elected representative. The boss then demanded union workers leave, and then fighting broke out. The union members then gathered outside the gate, some injured, where they were attacked by police.\n\nThe following day, the sacked workers and around 100 supporters again gathered outside the warehouse, attempting to block the access road and again clashing with police. The labor disputes continued for months. After two weeks, an Industrial Tribunal initiated by TGWU ruled that the workers had been sacked for union membership, and ordered them to return to work February 26th.\n\nDespite this apparent victory, when 35 workers returned to their jobs, they were told that their union would not be recognized and that they be forced to work from 5 in the morning until midnight. This caused another strike, however it was short-lived and ineffective; only twelve out of the original forty-two fired JJ workers returned to work on March 18th.`,
         link: 'https://libcom.org/library/1995-the-jj-foods-strike',
         infoSrc: 'https://libcom.org/history/up-against-the-odds'
       },
@@ -22860,7 +22860,7 @@ export const eventLibrary = {
         date: 'November 8th, 1892',
         title: 'New Orleans General Strike (1892)',
         imgSrc: require('./assets/eventPhotos/Events/newOrleansGeneralStrike.jpg'),
-        description: `The New Orleans General Strike was a city-wide, multi-racial strike in New Orleans, Louisiana that began on this day in 1892. The general strike grew out of a strike by three unions who had joined forces to go on strike the two weeks prior. The three unions, collectively known as the "Triple Alliance", were an alliance of black and white workers. The New Orleans Board of Trade announced it would sign contracts agreeing to the terms - but only with the white unions, however this offer was steadfastly refused.\n\nEventually, other union leaders in the city began calling for a strike in support of the Triple Alliance, and, on this day in 1892, a multi-racial coalition of 25,000 workers across the entire city went on strike. Efforts by the city to find strikebreaking workers, both from within and outside of New Orleans, failed.\n\nAfter just three days, the Board of Trade agreed to binding arbitration to settle the strike, with employers agreeing to sit down with both white and black union leaders. After 48 hours of negotiations, the employers agreed to the 10-hour day and overtime pay for the Triple Alliance workers. Members of other unions also won reduced hours and higher pay.`,
+        description: `The New Orleans General Strike was a city-wide strike across racial lines in New Orleans, Louisiana that began on this day in 1892. The general strike grew out of a strike by three unions who had joined forces to go on strike the two weeks prior. The three unions, collectively known as the "Triple Alliance", were an alliance of black and white workers. The New Orleans Board of Trade announced it would sign contracts agreeing to the terms - but only with the white unions, however this offer was steadfastly refused.\n\nEventually, other union leaders in the city began calling for a strike in support of the Triple Alliance, and, on this day in 1892, a multi-racial coalition of 25,000 workers across the entire city went on strike. Efforts by the city to find strikebreaking workers, both from within and outside of New Orleans, failed.\n\nAfter just three days, the Board of Trade agreed to binding arbitration to settle the strike, with employers agreeing to sit down with both white and black union leaders. After 48 hours of negotiations, the employers agreed to the 10-hour day and overtime pay for the Triple Alliance workers. Members of other unions also won reduced hours and higher pay.`,
         link: 'https://neworleanshistorical.org/items/show/1406',
         infoSrc: 'https://en.wikipedia.org/wiki/1892_New_Orleans_general_strike'
       },
@@ -22871,7 +22871,7 @@ export const eventLibrary = {
         date: 'November 8th, 1897',
         title: 'Dorothy Day (1897 - 1980)',
         imgSrc: require('./assets/eventPhotos/Individuals/dorothyDay.jpg'),
-        description: `Dorothy Day, born on this day in 1897, was an American journalist, social activist and anarchist who became a Catholic Christian while engaging in anarchist activism. She was perhaps the best-known political radical in the American Catholic Church and is heavily associated with the Catholic Worker Movement, which she co-founded with Peter Maurin.\n\nThe Catholic Worker movement started when the first issue of the Catholic Worker appeared on May 1, 1933, priced at one cent, and published continuously since then. It was aimed at those suffering the most in the depths of the Great Depression, "those who think there is no hope for the future", and announced to them that "the Catholic Church has a social program...there are men of God who are working not only for their spiritual but for their material welfare." It accepted no advertising and did not pay its staff.\n\nLike many newspapers of the day, including those for which Day had been writing, it was an unapologetic example of advocacy journalism. It provided coverage of strikes, explored working conditions, especially of women and black workers, and explicated papal teaching on social issues. Its viewpoint was partisan and stories were designed to move its readers to take action locally, for example, by patronizing laundries recommended by the Laundry Workers' Union. Its advocacy of federal child labor laws put it at odds with the American Church hierarchy from its first issue.\n\nDay's activism continued throughout the rest of her life, resulting in multiple arrests. In the summer of 1973, she joined César Chávez in his campaign for farm laborers in the fields of California and was arrested at the age of 75 for defying an injunction against picketing, spending ten days in jail.`,
+        description: `Dorothy Day, born on this day in 1897, was a prominent American Catholic, journalist, and anarchist activist associated with the Catholic Worker movement. She was perhaps the best-known political radical in the American Catholic Church and co-founded the Catholic Worker movement with her partner Peter Maurin.\n\nThe Catholic Worker movement started when the first issue of the Catholic Worker appeared on May 1st, 1933, priced at one cent, and published continuously since then. It was aimed at those suffering the most in the depths of the Great Depression, "those who think there is no hope for the future", and announced to them that "the Catholic Church has a social program...there are men of God who are working not only for their spiritual but for their material welfare." It accepted no advertising and did not pay its staff.\n\nLike many newspapers of the day, including those for which Day had been writing, it was an unapologetic example of advocacy journalism. It provided coverage of strikes, explored working conditions, especially of women and black workers, and explicated papal teaching on social issues. Its viewpoint was partisan and stories were designed to move its readers to take action locally, for example, by patronizing laundries recommended by the Laundry Workers' Union. Its advocacy of federal child labor laws put it at odds with the American Church hierarchy from its first issue.\n\nDay's activism continued throughout the rest of her life, resulting in multiple arrests. In the summer of 1973, she joined César Chávez in his campaign for farm laborers in the fields of California and was arrested at the age of 75 for defying an injunction against picketing, spending ten days in jail.`,
         link: 'https://sojo.net/magazine/december-1976/interview-dorothy-day',
         infoSrc: 'https://en.wikipedia.org/wiki/Dorothy_Day'
       },
@@ -22880,7 +22880,7 @@ export const eventLibrary = {
         date: 'November 8th, 1862',
         title: 'Ed Boyce (1862 - 1941)',
         imgSrc: require('./assets/eventPhotos/Individuals/edBoyce.jpg'),
-        description: `Edward "Ed" Boyce, born on this day in 1862, was president of the Western Federation of Miners (WFM), a radical American labor organizer and a socialist state represenative. Boyce was arrested for his role in the 1892 Coeur d'Alene labor strike and inspired "Big Bill" Haywood (co-founder of the IWW) to join his first union.\n\nIn 1894, Boyce was elected to the Idaho state senate. There, he battled for the eight-hour day for miners, the establishment of an arbitration board to settle labor disputes, an investigation of the 1892 mining war, and the banning of "yellow-dog" contracts (contracts prohibiting workers from joining the union). He was so disillusioned by the political process he resigned after one term.`,
+        description: `Edward "Ed" Boyce, born on this day in 1862, was president of the Western Federation of Miners (WFM), a radical American labor organizer and a socialist state representative. Boyce was arrested for his role in the 1892 Coeur d'Alene labor strike and inspired "Big Bill" Haywood (co-founder of the IWW) to join his first union.\n\nIn 1894, Boyce was elected to the Idaho state senate. There, he battled for the eight-hour day for miners, the establishment of an arbitration board to settle labor disputes, an investigation of the 1892 mining war, and the banning of "yellow-dog" contracts (contracts prohibiting workers from joining the union). He was so disillusioned by the political process he resigned after one term.`,
         link: 'https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=5727&context=etd',
         infoSrc: 'https://en.wikipedia.org/wiki/Ed_Boyce'
       },
@@ -22922,17 +22922,6 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: 'Rebellion',
-        date: 'November 9th, 1969*',
-        title: 'Occupation of Alcatraz (1969 - 1971)',
-        imgSrc: require('./assets/eventPhotos/Events/alcatrazOccupation.jpg'),
-        description: `*Some sources give the start date of the occupation as Nov. 9th, others Nov. 20th. I have chosen to go with the date listed by Howard Zinn in "A People's History of the United States"\n\nThe Occupation of Alcatraz was a 19-month long protest which began on this day in 1969, when 89 American Indians and their supporters occupied Alcatraz Island. The protest was led by Richard Oakes and Grace Thorpe. This group lived on the island together until the protest was forcibly ended by the U.S. government. The group claimed that, under the Treaty of Fort Laramie between the U.S. and the Lakota tribe, all retired, abandoned, or out-of-use federal land was returned to the Indians who once occupied it.\n\nBy late May of 1971, the government had cut off all electrical power and all telephone service to the island. Left without power, fresh water, and in the face of diminishing public support and sympathy, the number of occupiers began to dwindle. On June 11th, 1971, a large force of federal officers removed the remaining 15 people from the island.`,
-        link: 'https://www.kqed.org/news/11788540/a-look-back-at-the-occupation-of-alcatraz-50-years-later',
-        infoSrc: 'https://en.wikipedia.org/wiki/Occupation_of_Alcatraz'
-      },
-    ],
-    'Labor': [
-      {
         category: '',
         date: '',
         title: '',
@@ -22940,6 +22929,17 @@ export const eventLibrary = {
         description: ``,
         link: '',
         infoSrc: ''
+      },
+    ],
+    'Labor': [
+      {
+        category: 'Labor',
+        date: 'November 9th, 1988',
+        title: 'Striking CSN Workers Killed (1988)',
+        imgSrc: require('./assets/eventPhotos/Events/csn1988.png'),
+        description: `On this day in 1988, a conflict between army soldiers, military police, and metallurgists on strike at Companhia Siderúrgica Nacional (CSN), in Rio de Janeiro, Brazil led to the deaths of three workers, with at least 31 more people injured.\n\nAccording to author Andrew Costa, the city of Volta Redonda was engaged in a general strike for the implementation of a six-hour shift and the reinstatement of workers dismissed in the 1987 strike. Women in the local neighborhoods prevented CSN vans from picking up their husbands to work with pickets on the street, and the Residents Associations carried out barricades so that CSN buses and other transport could not run while the company was refusing to negotiate with workers.\n\nThe conflict on November 9th began when about 600 state soldiers descended Avenida Independência, in front of CSN, throwing tear gas bombs at a crowd of workers. The crowded responded with by attacking sticks and stones. Three people were killed, and 31 were wounded. A monument dedicated to the victims of the violence was partially destroyed with bombs. Workers eventually prevailed, winning their right to six-hour shifts.`,
+        link: 'https://subverta.org/2017/10/25/1988-a-historica-greve-da-csn-em-volta-redonda/',
+        infoSrc: 'http://almanaque.folha.uol.com.br/cotidiano_10nov1988.htm'
       },
     ],
     'Birthdays': [
@@ -22966,13 +22966,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'November 9th, 1938',
+        title: 'Kristallnacht (1938)',
+        imgSrc: require('./assets/eventPhotos/Events/kristallnacht.jpg'),
+        description: `Kristallnacht, also known as the Night of Broken Glass or the November Pogroms, was a pogrom against Jewish people that began on this day in 1938, carried out by the Sturmabteilung, Nazi paramilitary forces and civilians. The name Kristallnacht ("Crystal Night") comes from the shards of broken glass that littered the streets after the windows of Jewish-owned stores, buildings and synagogues were smashed.\n\nThe pretext for the attacks was the assassination of the German diplomat Ernst vom Rath by Herschel Grynszpan, a 17-year-old German-born Polish Jew, after Grynszpan learned that his parents from Germany to the Polish frontier. Within hours of Rath's death, the Kristallnacht was launched against Jewish communities in Germany.\n\nJewish homes, hospitals and schools were ransacked as attackers demolished buildings with sledgehammers. Rioters destroyed 267 synagogues throughout Germany, Austria, and the Sudetenland. Over 7,000 Jewish businesses were damaged or destroyed, and 30,000 Jewish men were arrested and incarcerated in concentration camps. Estimates of the amount of people killed vary from 91 to as high as 638. Historians view Kristallnacht as a prelude to the Final Solution and the murder of six million Jews during the Holocaust.`,
+        link: 'https://encyclopedia.ushmm.org/content/en/article/kristallnacht',
+        infoSrc: 'https://en.wikipedia.org/wiki/Kristallnacht'
       },
     ],
   },
@@ -23715,13 +23715,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'November 20th, 1969*',
+        title: 'Occupation of Alcatraz (1969 - 1971)',
+        imgSrc: require('./assets/eventPhotos/Events/alcatrazOccupation.jpg'),
+        description: `*Some sources give the start date of the occupation as Nov. 9th, others Nov. 20th; on November 9th, the island was symbolically reclaimed by indigenous people, and the same group returned on November 20th to begin a prolonged occupation of the island\n\nThe Occupation of Alcatraz was a 19-month long protest which began on this day in 1969, when 89 Native Americans and their supporters occupied Alcatraz Island. The protest was led by Richard Oakes and Grace Thorpe. This group lived on the island together until the protest was forcibly ended by the U.S. government. The group claimed that, under the Treaty of Fort Laramie between the U.S. and the Lakota tribe, all retired, abandoned, or out-of-use federal land was returned to the Indians who once occupied it.\n\nBy late May of 1971, the government had cut off all electrical power and all telephone service to the island. Left without power, fresh water, and in the face of diminishing public support and sympathy, the number of occupiers began to dwindle. On June 11th, 1971, a large force of federal officers removed the remaining 15 people from the island.`,
+        link: 'https://www.kqed.org/news/11788540/a-look-back-at-the-occupation-of-alcatraz-50-years-later',
+        infoSrc: 'https://en.wikipedia.org/wiki/Occupation_of_Alcatraz'
       },
     ],
     'Labor': [
@@ -25653,7 +25653,7 @@ export const eventLibrary = {
         date: 'December 16th, 1889',
         title: 'Kim Chwa-chin (1889 - 1930)',
         imgSrc: require('./assets/eventPhotos/Individuals/kimChwaChin.jpg'),
-        description: `Kim Chwa-chin (also written Kim Chwa-jin), born on this day in 1889, was a Korean general, independence activist, and anarchist who played an important role in the early attempts at development of anarchism in Korea. When Kim was 18, he released 50 families of slaves when he burned the slave registry and provided each family with enough land to live on, resulting in the first emancipation of slaves in modern Korea.\n\nIn 1918, Kim was one of 40 Korean represenatives to sign the Korean Declaration of independence. He then joined the Korea Justice Corps, later becoming the general commander of the Northern Military Administration Office Army and playing a key role in the "Battle of Cheongsanri" against japanese forces.\n\nIn 1928, the Korea Independence Party was formed, and the following year, when the Korean General Association was established as the successor of the new people, Chwa-chin was designated as the President. During this process, conflicts between the nationalist and communist independence activists intensified. On January 24th, 1930, Kim was assassinated by Park Sang-sil, an agent of the Japanese colonial government.`,
+        description: `Kim Chwa-chin (also written Kim Chwa-jin), born on this day in 1889, was a Korean general, independence activist, and anarchist who played an important role in the early attempts at development of anarchism in Korea. When Kim was 18, he released 50 families of slaves when he burned the slave registry and provided each family with enough land to live on, resulting in the first emancipation of slaves in modern Korea.\n\nIn 1918, Kim was one of 40 Korean representatives to sign the Korean Declaration of independence. He then joined the Korea Justice Corps, later becoming the general commander of the Northern Military Administration Office Army and playing a key role in the "Battle of Cheongsanri" against japanese forces.\n\nIn 1928, the Korea Independence Party was formed, and the following year, when the Korean General Association was established as the successor of the new people, Chwa-chin was designated as the President. During this process, conflicts between the nationalist and communist independence activists intensified. On January 24th, 1930, Kim was assassinated by Park Sang-sil, an agent of the Japanese colonial government.`,
         link: 'https://web.archive.org/web/20151226035222/http://english.hongseong.go.kr/eng/sub01_05_04.do',
         infoSrc: 'https://en.wikipedia.org/wiki/Kim_Chwa-chin'
       },
