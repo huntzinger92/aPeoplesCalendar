@@ -6274,7 +6274,7 @@ export const eventLibrary = {
         category: 'Other',
         date: 'March 29th, 1933',
         title: 'The Storming of Connolly House (1933)',
-        imgSrc: require('./assets/eventPhotos/Organizations/cmi.jpg'),
+        imgSrc: require('./assets/eventPhotos/Organizations/cpi.jpg'),
         description: `On this day in 1933, a crowd of 5,000-6,000 Catholic anti-communists stormed and burnt down the Connolly House in Dublin, the headquarters of the Communist Party. Attempts were also made to attack the Workers’ College in Eccles Street and the Workers Union of Ireland office in Marlborough Street.\n\nThe Connolly House had been under siege for multiple days, and the incident was part of a larger series of events where anti-communist crowds attacked Dublin buildings associated with the far left.\n\nThe Catholic Church played a key role in creating this anti-communist sentiment. In October 1931, the Church stated "You cannot be a Catholic and a Communist. One stands for Christ, the other for Anti-Christ". In his Lenten pastoral for 1933, the Bishop of Kildare warned his congregration "be prepared to fight...There is no reason why anyone who undertakes to propagate Communism should be allowed do so".`,
         link: 'http://www.workersrepublic.org/Pages/Ireland/Communism/cpihistory2.html',
         infoSrc: 'https://www.historyireland.com/20th-century-contemporary-history/the-storming-of-connolly-house/'
