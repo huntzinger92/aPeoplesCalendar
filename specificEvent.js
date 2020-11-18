@@ -54,7 +54,7 @@ export class SpecificEvent extends React.Component {
             />}
           </View>
           <View style={styles.descriptionTextWrapper}>
-            <StyledText text={this.props.event.description}/>
+            <StyledText text={this.props.event.description} style={{lineHeight: 20}}/>
           </View>
           <View style={styles.linkContainer}>
             <TouchableOpacity
