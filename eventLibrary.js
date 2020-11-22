@@ -8343,24 +8343,33 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'April 27th, 1920',
+        title: 'Waldeck-Rousseau Mutiny (1920)',
+        imgSrc: require('./assets/eventPhotos/Events/waldeckRousseau.jpg'),
+        description: `On this day in 1919, as part of the larger Black Sea Mutiny, sailors on the Ukraine-stationed cruiser Waldeck-Rousseau mutinied, demanding better food, demobilization of reservists, and an immediate return to France. The Black Sea Mutiny was a set of revolts by sailors who had been dispatched to the Black Sea as part of the French, pro-White Army intervention in southern Russia.\n\nAlthough some of the crew already had radical politics, the impetus for outright rebellion came when the sailors learned that André Marty, a communist prisoner from another ship, had been brought on board. A crew-led revolutionary action committee aimed both to free Marty and to take the ship into the port of Odessa, Ukraine.\n\nWhen the ship's captain appealed to the "national interest" as a means of quelling the revolt, the soldiers replied "No and never. It's not our job to defend the millions of French capitalists!". The mutineers threatened to give the ship over to the Bolsheviks if they were not returned to France immediately.\n\nIn the aftermath of the Black Sea Mutiny, which included several ships besides the Waldeck-Rousseau, about 100 sailors were sentenced by French military tribunals, although the majority were rapidly reprieved. For his part, Marty to 20 years forced labor, however he became a leading and successful figure in the French Communist Party (PCF) for nearly thirty years, joining the National Assembly in 1924.`,
+        link: 'https://en.wikipedia.org/wiki/Black_Sea_mutiny',
+        infoSrc: 'https://www.marxists.org/history/etol/revhist/backiss/vol8/no2/blacksea.html'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'April 27th, 1934',
+        title: 'Santiago FOCH Massacre (1934)',
+        imgSrc: require('./assets/eventPhotos/Events/FOCH1934.jpg'),
+        description: `On this day in 1934, the Chilean Workers' Federation (FOCH) headquarters in Santiago were attacked by the police and armed vigilantes known as the "White Guards" - 7 workers and a child were murdered, with 200 more people badly injured.\n\nThe FOCH was founded in 1909, and functioned as a kind of trade union center, with a socialist bent. FOCH began to suppressed, facing the closure of premises, banning of newspapers, and the arrest of its leaders. FOCH officially dissolved on December 26th, 1936, going on to the form the Confederation of Chile (CTCH).`,
+        link: 'https://es.wikipedia.org/wiki/Federaci%C3%B3n_Obrera_de_Chile',
+        infoSrc: 'https://libcom.org/history/articles/anarchism-in-chile'
+      },
+      {
+        category: 'Labor',
+        date: 'April 27th, 1998',
+        title: 'Danish General Strike (1998)',
+        imgSrc: require('./assets/eventPhotos/Events/danishStrike1998.jpg'),
+        description: `On this day in 1998, more than 500,000 Danish workers, a fifth of the enitre workforce, walked off the job in a general strike, demanding a 35-hour work-week, an extra week of paid holiday, and a 6% wage increase. The strike action came after a big economic boom in Denmark that left workers feeling left out from the increased profits of their employers.\n\nThe strike effected a wide variety of industries - from schools to manufacturing to airports to food and petrol stations. Workers in Sweden exhibited solidarity by refusing to load planes heading for Denmark.\n\nMay Day marked the fifth day of the strike, and a gigantic demonstration of more than 500,000 people took place in Copenhagen. The government intervened, ordering everyone back to work on May 11th and announcing that any strikes by the affected workers before March 2000 would be illegal.\n\nA compromise deal was accepted by union leadership, and the majority of strikers returned to work, however some spontaneous walk-outs occurred in the following days - in 96 workplaces, 6,200 workers walked out for a one-day strike. Notably, baggage handlers at Copenhagen International Airport stopped making their contributions to the Social Democratic Party, which led the government throughout the labor action.`,
+        link: 'https://nvdatabase.swarthmore.edu/content/danish-workers-general-strike-six-weeks-paid-vacation-1998-0',
+        infoSrc: 'http://libcom.org/history/1998-danish-private-sector-strike'
       },
     ],
     'Birthdays': [
@@ -8387,13 +8396,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 27th, 1981',
+        title: 'Operation Red Dog (1981)',
+        imgSrc: require('./assets/eventPhotos/Events/operationRedDog.jpg'),
+        description: `On this day in 1981, Canadian neo-nazi Wolfgang Droege and eight other men, including the American Don Black (who later founded the white nationalist website Stormfront) were arrested by federal agents as they attempted to initiate an armed coup of the island country Dominica.\n\nThe plan was to restore former Domincan Prime Minister Patrick John back to power and profit from capitalist enterprise there. They were arrested in New Orleans as they prepared to board a boat with automatic weapons, shotguns, rifles, handguns, dynamite, ammunition, and a black and white Nazi flag.\n\nThe plan was known as "Operation Red Dog", however the incident was mocked in the press as the "Bayou of Pigs". Mike Perdue and six other men pleaded guilty to violation of the Neutrality Act while two others were found guilty by a jury. The men received three-year prison sentences.`,
+        link: 'https://web.archive.org/web/20030519071411/http://www.canadiancontent.ca/articles/031401reddog.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Operation_Red_Dog'
       },
     ],
   },
@@ -23761,10 +23770,10 @@ export const eventLibrary = {
     'Rebellion': [
       {
         category: 'Rebellion',
-        date: 'November 20th, 1969*',
+        date: 'November 20th, 1969',
         title: 'Occupation of Alcatraz (1969 - 1971)',
         imgSrc: require('./assets/eventPhotos/Events/alcatrazOccupation.jpg'),
-        description: `*Some sources give the start date of the occupation as Nov. 9th, others Nov. 20th; on November 9th, the island was symbolically reclaimed by indigenous people, and the same group returned on November 20th to begin a prolonged occupation of the island\n\nThe Occupation of Alcatraz was a 19-month long protest which began on this day in 1969, when 89 Native Americans and their supporters occupied Alcatraz Island. The protest was led by Richard Oakes and Grace Thorpe. This group lived on the island together until the protest was forcibly ended by the U.S. government. The group claimed that, under the Treaty of Fort Laramie between the U.S. and the Lakota tribe, all retired, abandoned, or out-of-use federal land was returned to the Indians who once occupied it.\n\nBy late May of 1971, the government had cut off all electrical power and all telephone service to the island. Left without power, fresh water, and in the face of diminishing public support and sympathy, the number of occupiers began to dwindle. On June 11th, 1971, a large force of federal officers removed the remaining 15 people from the island.`,
+        description: `The Occupation of Alcatraz was a 19-month long protest which began on this day in 1969, when 89 Native Americans and their supporters occupied and reclaimed Alcatraz Island as indigenous land.\n\nThe protest was led by Richard Oakes and Grace Thorpe. This group lived on the island together until the protest was forcibly ended by the U.S. government. The group claimed that, under the Treaty of Fort Laramie between the U.S. and the Lakota tribe, all retired, abandoned, or out-of-use federal land was returned to the Indians who once occupied it.\n\nBy late May of 1971, the government had cut off all electrical power and all telephone service to the island. Left without power, fresh water, and in the face of diminishing public support and sympathy, the number of occupiers began to dwindle. On June 11th, 1971, a large force of federal officers removed the remaining 15 people from the island.`,
         link: 'https://www.kqed.org/news/11788540/a-look-back-at-the-occupation-of-alcatraz-50-years-later',
         infoSrc: 'https://en.wikipedia.org/wiki/Occupation_of_Alcatraz'
       },
@@ -23783,19 +23792,19 @@ export const eventLibrary = {
     'Birthdays': [
       {
         category: 'Birthdays',
-        date: 'November 20th, 1920',
-        title: 'Dr. Robert Hayling (1920 - 2015)',
+        date: 'November 20th, 1929',
+        title: 'Dr. Robert Hayling (1929 - 2015)',
         imgSrc: require('./assets/eventPhotos/Individuals/robertHayling.jpg'),
-        description: `Dr. Robert B. Hayling, born on this day in 1920, has been hailed as the "father" of St. Augustine's civil rights movement and was a staunch advocate are armed self-defense within the black community. He organized demonstrations and coordinated visiting activists, including Dr. Martin Luther King.\n\nDr. Hayling brought direct action to the local chapter of the NAACP by organizing young people into a youth council within the organization. At his dental office, Dr. Hayling taught them methods of nonviolent activism. He arranged picketing and sit-ins at white-only restaurants, and wade-ins at a white-only pool and beach, and was arrested many times for his activism, as well as being assaulted by the Ku Klux Klan.\n\nDr. Hayling is also remembered for this quote: "I and the others have armed. We will shoot first and answer questions later. We are not going to die like Medgar Evers." Accordingly, civil rights activists drove out KKK members who were terrorizing their neighborhoods at night with gunfire. Dr. Hayling died in 2015, at the age of 86.`,
+        description: `Dr. Robert B. Hayling, born on this day in 1929, has been hailed as the "father" of St. Augustine's civil rights movement and was a staunch advocate of armed self-defense within the black community. He organized demonstrations and coordinated visiting activists, including Dr. Martin Luther King.\n\nDr. Hayling brought direct action to the local chapter of the NAACP by organizing young people into a youth council within the organization. At his dental office, Dr. Hayling taught them methods of nonviolent activism. He arranged picketing and sit-ins at white-only restaurants, and wade-ins at a white-only pool and beach, and was arrested many times for his activism, as well as being assaulted by the Ku Klux Klan.\n\nAs he gained a reputation for militance, Hayling was threatened with the revocation of his local NAACP chapter's charter by Executive Secretary Roy Wilkins. Hayling replied, "I will mail you your charter", and vowed to continue his activities without the support of the NAACP.\n\nDr. Hayling is also remembered for this quote: "I and the others have armed. We will shoot first and answer questions later. We are not going to die like Medgar Evers." Dr. Hayling died in 2015, at the age of 86.`,
         link: 'https://www.visitstaugustine.com/history/black_history/dr_robert_hayling/',
-        infoSrc: 'https://www.visitstaugustine.com/history/black_history/dr_robert_hayling/'
+        infoSrc: 'https://en.wikipedia.org/wiki/Robert_Hayling'
       },
       {
         category: 'Birthdays',
         date: 'November 20th, 1884',
         title: 'Norman Thomas (1884 - 1968)',
         imgSrc: require('./assets/eventPhotos/Individuals/normanThomas.jpg'),
-        description: `Norman Mattoon Thomas, born on this day in 1884, was an American Presbyterian minister who achieved fame as a socialist, pacifist, and six-time presidential candidate for the Socialist Party of America. He was a vehement anti-racist who played an early role in dismantling Jim Crow laws, and was deeply critical of Israel's policies towards Arabs.\n\nNotably, Martin Luther King Jr. called him "one of the bravest men I've ever met". For Thomas's 80th birthday, he wrote:\n\n"I can think of no man who has done more than you to inspire the vision of a society free of injustice and exploitation...Your pursuit of racial and economic democracy at home, and of sanity and peace in the world, has been awesome in scope. It is with deep admiration and indebtedness that I carry the inspiration of your life to Oslo."`,
+        description: `Norman Mattoon Thomas, born on this day in 1884, was an American Presbyterian minister who achieved fame as a socialist, pacifist, and six-time presidential candidate for the Socialist Party of America. He was a vehement anti-racist who played an early role in dismantling Jim Crow laws, and was deeply critical of Israel's policies towards Arabic people.\n\nNotably, Martin Luther King Jr. called him "one of the bravest men I've ever met". For Thomas's 80th birthday, King wrote:\n\n"I can think of no man who has done more than you to inspire the vision of a society free of injustice and exploitation...Your pursuit of racial and economic democracy at home, and of sanity and peace in the world, has been awesome in scope. It is with deep admiration and indebtedness that I carry the inspiration of your life to Oslo."`,
         link: 'https://popularresistance.org/the-bravest-man-i-ever-met-by-dr-martin-luther-king-jr-1965/',
         infoSrc: 'https://en.wikipedia.org/wiki/Norman_Thomas'
       },
@@ -23852,7 +23861,7 @@ export const eventLibrary = {
         date: 'November 21st, 1927',
         title: 'Columbine Massacre (1927)',
         imgSrc: require('./assets/eventPhotos/Events/coloradoMinersStrike.jpg'),
-        description: `On October 18th 1927, the Industrial Workers of the World (IWW) called a strike of all mine workers, which was quickly heeded in Colorado. Nearly all the mines in Colorado were closed, and the dozen still open did so using imported scab labor. For the still-operating Columbine mine, scab workers were housed in Serene, which was fortified with barbed wire on the fences and armed guards.\n\nMass rallies had been held by miners outside the Columbine mine in Serene for several weeks and, this day in 1927, more than five hundred workers were greeted by an ex-cop militia, armed with machine pistols, rifles, riot guns and tear gas grenades.\n\nThe workers were fired upon after a dispute on whether or not they could enter the town of Serene. The event is known as the Columbine Massacre; six people were killed, all miners. No member of the militia was ever held accountable for the violence of that day.`,
+        description: `On October 18th 1927, the Industrial Workers of the World (IWW) called a strike of all mine workers, which was quickly heeded in Colorado. Nearly all the mines in Colorado were closed, and the dozen still open did so using imported scab labor. For the still-operating Columbine mine, scab workers were housed in Serene, which was fortified with barbed wire on the fences and armed guards.\n\nMass rallies had been held by miners outside the Columbine mine in Serene for several weeks and, on this day in 1927, a crowd of more than five hundred workers was fired on by an ex-cop militia. The militia was armed with machine pistols, rifles, riot guns and tear gas grenades.\n\nThe workers were fired upon after a dispute on whether or not they could enter the town of Serene. The event is known as the Columbine Massacre; six people were killed, all miners. No member of the militia was ever held accountable for the violence of that day.`,
         link: 'https://en.wikipedia.org/wiki/Columbine_Mine_massacre',
         infoSrc: 'https://libcom.org/history/1927-colorado-miners-strike-and-columbine-mine-massacre'
       },
@@ -23863,7 +23872,7 @@ export const eventLibrary = {
         date: 'November 21st, 1870',
         title: 'Alexander Berkman (1870 - 1936)',
         imgSrc: require('./assets/eventPhotos/Individuals/alexanderBerkman.jpg'),
-        description: `Alexander Berkman, born on this day in 1870, was a leading member of the anarchist movement in the early 20th century, famous for both his political activism and his writing. He was the one-time lover and lifelong friend of anarchist Emma Goldman. In 1892, undertaking an act of propaganda of the deed, Berkman made an unsuccessful attempt to assassinate businessman Henry Clay Frick, for which he served 14 years in prison.\n\nOn their release from prison (for conspiring against the draft), Berkman and Goldman were arrested and deported to Russia. Initially supportive of the Bolshevik revolution, Berkman and Goldman soon became disillusioned, voicing their opposition to the Soviets' use of terror after seizing power and their repression of fellow revolutionaries.`,
+        description: `Alexander Berkman, born on this day in 1870, was a leading member of the anarchist movement in the early 20th century, famous for both his political activism and his writing. He was the lover and lifelong friend of anarchist Emma Goldman. In 1892, undertaking an act of propaganda of the deed, Berkman made an unsuccessful attempt to assassinate businessman Henry Clay Frick, for which he served 14 years in prison.\n\nOn their release from prison (for conspiring against the draft), Berkman and Goldman were arrested and deported to Russia. Initially supportive of the Bolshevik revolution, Berkman and Goldman soon became disillusioned, voicing their opposition to the Soviets' use of terror after seizing power and their repression of fellow revolutionaries.\n\nAmong Berkman's most notable works are "Prison Memoirs of an Anarchist" (1912), an account of his 14 years in prison after attempting to assassinate Frick; "The Bolshevik Myth" (1925), describing his experiences in Bolshevist Russia from 1920 to 1922; "Now and After: The ABC of Communist Anarchism" (1929), which anarchist Stuart Christie called "among the best introductions to the ideas of anarchism in the English language".`,
         link: 'http://www.gutenberg.org/ebooks/34406',
         infoSrc: 'https://en.wikipedia.org/wiki/Alexander_Berkman'
       },
@@ -23916,13 +23925,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'November 22nd, 1919',
+        title: 'Bogalusa Sawmill Killings (1919)',
+        imgSrc: require('./assets/eventPhotos/Events/bogalusaSawmill.jpg'),
+        description: `The Bogalusa Sawmill Killings was a massacre of labor organizers by the white paramilitary group "Self-Preservation and Loyalty League" (SPLL) on this day in 1919, in Thibodaux, Louisiana.\n\nThe Bogalusa Sawmill employed both white and black workers, and they had been attempting to form an interracial union for years. To offset labor demands for better wages, local police would arrest black men nightly for minor crimes and force them to work in the mill at gunpoint.\n\nIn response to the attempted unionizing efforts, the company organized racist whites into the SPLL. Company gunmen and the SPLL assaulted union members, evicted them from company housing, burned private homes, kidnapped, and tortured organizers.\n\nOn November 21st, they shot up black labor organizer Sol Dacus's home. In a show of force the next day, Dacus marched through the town accompanied by white supporters and allies in the labor movement. The SPLL then murdered four of those white allies, including one American Federation of Labor (AFL) district representative. Dacus and his family were able to escape to New Orleans.\n\nThis incident was part of a larger period of civil unrest known as the American Red Summer of 1919, including massacres and riots in Elaine, Arkansas, Chicago, Washington D.C., Knoxville, Tennessee, Wilmington, Delaware, and other cities.`,
+        infoSrc: 'https://www.zinnedproject.org/news/tdih/bogalusa-labor-massacre/',
+        link: 'https://en.wikipedia.org/wiki/Bogalusa_sawmill_killings'
       },
     ],
     'Birthdays': [
@@ -23931,7 +23940,7 @@ export const eventLibrary = {
         date: 'November 22nd, 1906',
         title: 'Antonio Guiteras (1906 - 1935)',
         imgSrc: require('./assets/eventPhotos/Individuals/antonioGuiteras.jpg'),
-        description: `Antonio Guiteras y Holmes, born on this day in 1906, was a revolutionary socialist in Cuba during the 1930s.\n\nBorn in Bala Cynwyd, Pennsylvania, USA, he participated in the radical government installed after the overthrow of the autocratic right wing Cuban President Gerardo Machado y Morales in 1933. He first became widely known as a student leader and associate of Julio Antonio Mella, a Cuban Communist revolutionary.\n\nAccording to the New York Times, Guiteras died in a firefight while trying to flee the country of Cuba.`,
+        description: `Antonio Guiteras y Holmes, born on this day in 1906, was a revolutionary socialist in Cuba during the 1930s.\n\nBorn in Bala Cynwyd, Pennsylvania, USA, he participated in the radical government installed after the overthrow of the autocratic right wing Cuban President Gerardo Machado y Morales in 1933. He first became widely known as a student leader and associate of Julio Antonio Mella, a Cuban Communist revolutionary.\n\nIn his book "Cuba: A New History", the leftist historian Richard Gott wrote the following about Guiteras:\n\n"Guiteras's views reflected an eclectic mix of revolutionary influences, from Auguste Blanqui to Jean Jacques Jaurès. He drew inspiration from the Mexican and the Russian revolutions, the struggle in Ireland and Sandino's guerrilla movement in Nicaragua. He shared the anti-imperialist politics of the age and, drawing on anarchist roots, advocated rural and urban armed struggle, assaults on army barracks and the assassination of policemen and members of the government.\n\nHe was a firm believer in direct action, the propaganda of the deed, derived from Blanqui and the Spanish anarchists, and was much criticised by the Communists for his voluntarism and his predilection for violence."\n\nAccording to the New York Times, Guiteras died in a firefight while trying to flee the country.`,
         link: 'https://en.wikipedia.org/wiki/Antonio_Guiteras',
         infoSrc: 'http://www.latinamericanstudies.org/cuba-news/guiteras.htm'
       },
