@@ -8442,35 +8442,35 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'April 28th, 1883',
+        title: 'Etta Federn-Kohlaas (1883 - 1951)',
+        imgSrc: require('./assets/eventPhotos/Individuals/ettaFedern.png'),
+        description: `Etta Federn-Kohlhaas, born on this day in 1883, was an anarchist writer, translator, educator, and member of the Mujeres Libres.\n\nWhen the Nazis came to power, Federn was an established writer in Berlin, Germany, working as a literary critic, translator, novelist, and biographer. In 1932, she fled to Barcelona, Spain, joining the anarchist-feminist group Mujeres Libres.\n\nIn 1938, towards the end of the Spanish Civil War, Federn again fled, this time to France. There, she was hunted by the Gestapo as both a Jew and supporter of the French Resistance.  Her son, active in the Resistance, was murdered by French collaborators in 1944, however she survived the war.\n\nFedern was a strong supporter of literacy for women, birth control, and sexual freedom. She wrote: "Educated mothers relate their own experiences and sufferings to their children; they intuitively understand their feelings and expressions. They are good educators, as they are also friends of the children they educate."`,
+        link: 'https://libcom.org/history/federn-marietta-etta-1883-1951',
+        infoSrc: 'https://en.wikipedia.org/wiki/Etta_Federn'
       },
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'April 28th, 1945',
+        title: 'Benito Mussolini Executed (1945)',
+        imgSrc: require('./assets/eventPhotos/Individuals/benitoMussolini.jpg'),
+        description: `On this day in 1945, Italian fascist Benito Mussolini was summarily executed, likely by communist partisan Walter Audisio, and then his corpse was hung upside down in the Piazzale Loreto, where it was beaten and shot by angry crowds.\n\nBenito Mussolini (1883 - 1945) was the founder and leader of the National Fascist Party who inspired numerous fascist leaders, such as Adolf Hitler, Francisco Franco, and António de Oliveira Salazar. Mussolini had ruled Italy as "Il Duce" since 1925\n\nMussolini's grip on power had begun slipping as the Allies pressed into Italian territory during World War II. On April 25th, 1945, Mussolini attempted to flee Milan for Switzerland after the Comitato di Liberazione Nazionale Alta Italia (Committee of National Liberation for Northern Italy) seized control of the city. Two days later, Mussolini, along with other fascist leaders, were arrested traveling in a German convoy near the village of Dongo.\n\nAccounts vary on how exactly Mussolini was killed, but it is likely that communist partisan Walter Audisio was the person behind the trigger. Regardless, that evening, the bodies of Mussolini, his mistress, and the other executed fascists were loaded onto a van and dumped in Piazzale Loreto, a town square where fifteen partisans had been executed by fascists and their bodies left on public display.`,
+        link: 'https://www.history.com/news/mussolinis-final-hours',
+        infoSrc: 'https://en.wikipedia.org/wiki/Death_of_Benito_Mussolini'
       },
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'April 28th, 1965',
+        title: 'U.S. Invades the Dominican Republic (1965)',
+        imgSrc: require('./assets/eventPhotos/Events/dominicanRepublic1965.jpg'),
+        description: `On this day in 1965, the United States invaded the Dominican Republic with more than 22,000 troops in order to prevent a "communist dictatorship" from forning.\n\nThe Dominican Republic had been fraught with political instability since the assassination of dictator Rafael Trujillo in 1961. Although Trujillo brutally suppressed the population, his anti-communism made him a natural ally of the U.S. govenrment. After his death, liberal reformer Juan Bosch became president, both was deposed in a coup after less than a year in power.\n\nIn the ensuing power struggle, the U.S. was committed to preventing "another Cuba" (i.e., a communist revolution) from taking place. On April 28th, 1965, President Lyndon B. Johnson declared that he had taken action to forestall the establishment of a "communist dictatorship" in the country, providing reporters with lists of suspected communists there as evidence. These lists, however, contained people who were not communists or were in fact deceased.\n\nThe military action was supported by the Organization of American States (OAS). Over the next few weeks, they established a conservative, non-military government, which held fraudulent elections in June 1966. 69% of American people approved of the decision to send in troops at the time.\n\nAccording to Rory Fanning of Jacobin: "Upon taking power, U.S.-backed leader Joaquín Balaguer began funneling nearly all of Dominican Republic's minerals and sugar into the warehouses of US businesses. His three-decade rule was marked by corruption and fraud. Wages plummeted, unions were dismantled, inflation soared, and unemployment hovered around 30 percent."`,
+        link: 'https://www.jacobinmag.com/2015/04/dominican-republic-occupation-united-states-1965/',
+        infoSrc: 'https://www.history.com/this-day-in-history/u-s-troops-land-in-the-dominican-republic'
       },
     ],
   },
@@ -10667,7 +10667,7 @@ export const eventLibrary = {
         date: 'May 29th, 1969',
         title: 'Cordobazo Uprising (1969)',
         imgSrc: require('./assets/eventPhotos/Events/cordobazo.jpg'),
-        description: `The Cordobazo was a civil uprising in the city of Córdoba, Argentina that began on this day in 1969, under the military dictatorship of General Juan Carlos Onganía. The labor union CGT de los Argentinos, headed in Cordoba by Agustín Tosco, alled for National strike on May 30th, 1969, but in Cordoba they decided to do a general strike one day earlier.\n\nThe strike came in the wake of mass repression and acts of state violence against student and union activists in Argentina. After the police opened fire on thousands of protesters, killing one worker named Maximo Mena, the strike escalated into a citywide revolt, leading to widespread destruction of property and seizing of city spaces.`,
+        description: `The Cordobazo was a civil uprising in the city of Córdoba, Argentina that began on this day in 1969, under the military dictatorship of General Juan Carlos Onganía. The labor union CGT de los Argentinos, headed in Cordoba by Agustín Tosco, called for National strike on May 30th, 1969, but in Cordoba they decided to do a general strike one day earlier.\n\nThe strike came in the wake of mass repression and acts of state violence against student and union activists in Argentina. After the police opened fire on thousands of protesters, killing one worker named Maximo Mena, the strike escalated into a citywide revolt, leading to widespread destruction of property and seizing of city spaces.`,
         infoSrc: 'https://libcom.org/library/working-class-protest-popular-revolt-urban-insurrection-argentina-1969-cordobazo',
         link: 'https://en.wikipedia.org/wiki/Cordobazo'
       },
@@ -24153,7 +24153,7 @@ export const eventLibrary = {
         date: 'November 25th, 1904',
         title: 'Ba Jin (1904 - 2005)',
         imgSrc: require('./assets/eventPhotos/Individuals/baJin.jpg'),
-        description: `Li Yaotang, better known by his pen name Ba Jin and also known as Li Pei Kan, was a Chinese author, political activist, and dissident born on this day in 1904. He is best known for his novel The Family and is considered to be one of the most important and widely read Chinese writers of the 20th century.\n\nInfluenced by Kropotkin, Ba Jin's politics drew heavily from anarchist political thinking. From 1927 to 1928 Ba Jin lived in France, meeting many anarchists, including Alexander Berkman, translating some of his works.\n\nBa Jin was persecuted by Mao's Cultural Revolution - he was forced to rewrite some of his works accommodate state dogma and his wife died while being denied medical care by the government. He was officially rehabilitated by the PRC in 1977 and went on to serve as national chairman of the Chinese Writers' Association.`,
+        description: `Li Yaotang, better known by his pen name Ba Jin, was an anarchist Chinese author, political activist, and dissident born on this day in 1904. He is best known for his novel "The Family", and is considered to be one of the most important and widely read Chinese writers of the 20th century.\n\nInfluenced by Peter Kropotkin, Ba Jin's politics drew heavily from anarchist political thinking. From 1927 to 1928, Ba Jin lived in France, meeting many anarchists, including Alexander Berkman, translating some of his works.\n\nBa Jin was persecuted by Mao's Cultural Revolution - he was forced to rewrite some of his works accommodate state dogma and his wife died while being denied medical care by the government. He was officially rehabilitated by the government in 1977 and went on to serve as chairman of the Chinese Writers' Association.\n\n"Only by not forgetting the past can we be the master of the future." - Ba Jin`,
         link: 'https://en.wikipedia.org/wiki/Ba_Jin',
         infoSrc: 'http://www.revoltlib.com/people/ba-jin/view.php'
       },
@@ -24164,7 +24164,7 @@ export const eventLibrary = {
         date: 'November 25th, 1960',
         title: 'Mirabal Sisters Assassinated (1960)',
         imgSrc: require('./assets/eventPhotos/Events/mirabalSisters.jpg'),
-        description: `The Mirabal Sisters were four Dominican sisters known commonly as Patria, Minerva, María Teresa, and Dedé, who opposed the dictatorship of Rafael Trujillo, and were involved in clandestine activities against his regime. On this day in 1960, three of the four sisters (Patria, Minerva, María Teresa) were assassinated by the Trujillo government. The last sister, Dedé, died of natural causes in 2014.\n\nTo organize against the state, Minerva, María Teresa, and Patria began distributing pamphlets about the many people whom Trujillo had killed and obtained materials for guns and bombs to use when they eventually openly revolted. The sisters called themselves "Las Mariposas" ("The Butterflies"), after Minerva's underground name. For their acts of subversion, María, Minerva, both of their husbands, and Patria's husband were all imprisoned.\n\nAfter being freed, Patria, Minerva, María Teresa, and their driver, Rufino de la Cruz were attacked after visiting María's and Minerva's incarcerated husbands. On the way home, the sisters and de la Cruz were separated, strangled, and clubbed to death. The bodies were then gathered and put in their Jeep, which was run off the mountain road in an attempt to make their deaths look like an accident.\n\nThe assassinations turned the Mirabal sisters into "symbols of both popular and feminist resistance". In 1999, in their honor, the United Nations General Assembly designated the 25th of November as "International Day for the Elimination of Violence against Women".`,
+        description: `The Mirabal Sisters were four Dominican sisters who opposed the dictatorship of Rafael Trujillo and were assassinated by his government on this day in 1960 because of their clandestine activities against it. One the four sisters - Patria, Minerva, María Teresa, and Dedé - only Dedé survived, dying of natural causes in 2014.\n\nTo organize against the state, Minerva, María Teresa, and Patria began distributing pamphlets about the many people whom Trujillo had killed, and obtained materials for guns and bombs for use when they eventually openly revolted. The sisters called themselves "Las Mariposas" ("The Butterflies"), after Minerva's underground name. For their acts of subversion, María, Minerva, both of their husbands, and Patria's husband were all imprisoned.\n\nAfter being freed, Patria, Minerva, María Teresa, and their driver, Rufino de la Cruz were attacked after visiting María's and Minerva's incarcerated husbands. On the way home, the sisters and de la Cruz were separated, strangled, and clubbed to death. The bodies were then gathered and put in their Jeep, which was run off the mountain road in an attempt to make their deaths look like an accident.\n\nThe assassinations turned the Mirabal sisters into "symbols of both popular and feminist resistance", according to the New York Times. In their honor, the United Nations General Assembly designated the 25th of November as "International Day for the Elimination of Violence against Women" in 1999.`,
         link: 'https://time.com/5793594/mirabal-sisters-100-women-of-the-year/',
         infoSrc: 'https://en.wikipedia.org/wiki/Mirabal_sisters'
       },
@@ -24221,7 +24221,7 @@ export const eventLibrary = {
         date: 'November 26th, 1792',
         title: 'Sarah Grimké (1792 - 1873)',
         imgSrc: require('./assets/eventPhotos/Individuals/sarahGrimke.jpg'),
-        description: `Sarah Moore Grimké, born on this day in 1792, was an American abolitionist, widely held to be the mother of the women's suffrage movement. Born and reared in South Carolina to a prominent, slave-owning planter family, she moved to Philadelphia, Pennsylvania, in the 1820s and became a Quaker. She and her sister Angelina Grimké are the only white Southern women who became abolitionists.\n\nHere is an excerpt from her a series of articles she wrote titled "Letters on the Condition of Women and the Equality of the Sexes" (1838):\n\n"I ask no favors for my sex, I surrender not our claim to equality. All I ask of our brethren is that they will take their feet from off our necks, and permit us to stand upright on the ground which God has designed us to occupy...To me, it is perfectly clear that whatsoever it is morally right for a man to do, it is morally right for a woman to do."`,
+        description: `Sarah Moore Grimké, born on this day in 1792, was an American abolitionist, also widely held to be one of the mothers of the women's suffrage movement. Born and reared in South Carolina to a prominent, slave-owning planter family, she moved to Philadelphia, Pennsylvania, in the 1820s and became a Quaker. She and her sister Angelina Grimké are two of the very few white Southern women who became abolitionists.\n\nHere is an excerpt from her a series of articles she wrote, titled "Letters on the Condition of Women and the Equality of the Sexes" (1838):\n\n"I ask no favors for my sex, I surrender not our claim to equality. All I ask of our brethren is that they will take their feet from off our necks, and permit us to stand upright on the ground which God has designed us to occupy...To me, it is perfectly clear that whatsoever it is morally right for a man to do, it is morally right for a woman to do."`,
         link: 'https://www.womenshistory.org/education-resources/biographies/sarah-moore-grimke',
         infoSrc: 'https://en.wikipedia.org/wiki/Sarah_Moore_Grimk%C3%A9'
       },
@@ -24230,7 +24230,7 @@ export const eventLibrary = {
         date: 'November 26th, 1864',
         title: 'Herman Gorter (1864 - 1927)',
         imgSrc: require('./assets/eventPhotos/Individuals/hermanGorter.jpg'),
-        description: `Herman Gorter, born on this day in 1864, was a Dutch poet and socialist. He was a leading member of the "Tachtigers", a highly influential group of Dutch writers who worked together in Amsterdam in the 1880s. Gorter's first book, a 4,000 verse epic poem called "Mei" (May), sealed his reputation as a great writer upon its publication in 1889, and is regarded as the pinnacle of Dutch Impressionist literature.\n\nGorter was an outspoken advocate of revolutionary communism and Marxist theory. In 1917, he hailed the Russian Revolution as the beginning of that global revolution and had correspondence with Lenin on multiple occasions, wishing him well and asking for his support in condemning Dutch social democrats for not condemning American imperialism. Lenin sent Gorter a copy of "State and Revolution" in response, which Gorter then offered to translate.`,
+        description: `Herman Gorter, born on this day in 1864, was a prominent Dutch poet and council communist. He was a leading member of the "Tachtigers", a highly influential group of Dutch writers who worked together in Amsterdam in the 1880s. Gorter's first book, a 4,000 verse epic poem called "Mei" (May), sealed his reputation as a great writer upon its publication in 1889, and is regarded as the pinnacle of Dutch Impressionist literature.\n\nGorter was an outspoken advocate of revolutionary communism and Marxist theory. In 1917, he hailed the Russian Revolution as the beginning of that global revolution and had correspondence with Lenin on multiple occasions, wishing him well and asking for his support in condemning Dutch social democrats for not condemning American imperialism. Lenin sent Gorter a copy of "State and Revolution" in response, which Gorter then offered to translate.`,
         link: 'https://libcom.org/library/life-struggle-farewell-herman-gorter-anton-pannekoek',
         infoSrc: 'https://en.wikipedia.org/wiki/Herman_Gorter'
       },
@@ -24307,9 +24307,9 @@ export const eventLibrary = {
       {
         category: 'Assassinations',
         date: 'November 27th, 1978',
-        title: 'Harvey Milk (1930 - 1978)',
+        title: 'Harvey Milk Assassinated (1978)',
         imgSrc: require('./assets/eventPhotos/Individuals/harveyMilk.jpg'),
-        description: `Harvey Bernard Milk (1930 - 1978) was an American politician and the first openly gay elected official in the history of California, where he was elected to the San Francisco Board of Supervisors. Although he was the most pro-LGBT politician in the United States at the time, politics was not something he came to later in life, after his experiences in the counterculture movement of the 1960s.\n\nIn 1972, Milk moved from New York City to the Castro District of San Francisco and took advantage of the growing political and economic power of the neighborhood to promote his activism. Milk's unsuccessfully ran for office three times, but finally won a seat as a city supervisor in 1977.\n\nMilk was assassinated on this day in 1978, after only eleven months in office. He was killed by Dan White, another city supervisor.\n\nDuring Milk's short time in office, he sponsored a bill banning discrimination in public accommodations, housing, and employment on the basis of sexual orientation. After his death, Milk became an icon in San Francisco and a martyr for the gay community.`,
+        description: `Harvey Bernard Milk (1930 - 1978) was the first openly gay elected official in the history of California, elected to the San Francisco Board of Supervisors, and was assassinated on this day in 1978. Although he achieved national renown as one of the most pro-LGBT politicians in the United States at the time, politics was something Milk came to later in life, after his experiences with the counterculture movement of the 1960s.\n\nIn 1972, Milk moved from New York City to the Castro District of San Francisco and took advantage of the growing political and economic power of the neighborhood to promote his activism. Milk unsuccessfully ran for office three times, but finally won a seat as a city supervisor in 1977.\n\nMilk was assassinated on this day in 1978, after only eleven months in office. He was killed by Dan White, a disgruntled former city supervisor.\n\nDuring Milk's short time in office, he sponsored a bill banning discrimination in public accommodations, housing, and employment on the basis of sexual orientation. After his death, Milk became an icon in San Francisco and a martyr for the gay community.`,
         link: 'http://milkfoundation.org/about/harvey-milk-biography/',
         infoSrc: 'https://en.wikipedia.org/wiki/Harvey_Milk'
       },
