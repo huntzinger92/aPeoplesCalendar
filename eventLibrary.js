@@ -8710,24 +8710,24 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'May 2nd, 1967',
+        title: 'Armed Panthers Protest Mulford Act (1967)',
+        imgSrc: require('./assets/eventPhotos/Events/blackPanthersCaliCapitol.jpeg'),
+        description: `On this day in 1967, 30 armed Black Panthers entered the California State Capitol building while open carrying rifles, shotguns, and revolvers in protest of the Mulford Act, which was designed to end Panther patrols of Oakland neighborhoods.\n\nInitially, no one attempted to stop the protesters - they entered the building with their guns pointed at the ceiling and a large group of journalists following them in. When six Panthers entered the assembly chamber, where the lawmakers in session, some legislators reportedly took cover under desks. Police then ordered the Panthers to leave the premises, and they peacefully complied while insisting they were within their legal right to carry.\n\nOutside, Bobby Seale spoke to a crowd of reporters. Here is a small excerpt of what he said:\n\n"Black people have begged, prayed, petitioned, demonstrated, and everything else to get the racist power structure of America to right the wrongs which have historically been perpetuated against black people. All of these efforts have been answered by more repression, deceit and hypocrisy. As the aggression of the racist American government escalates in Vietnam, the police agencies of America escalate the oppression of black people throughout the ghettoes of America."\n\nShortly after Seale finished speaking, police arrested the group on felony charges of conspiracy to disrupt a legislative session, although the protesters would later plead guilty to various misdemeanors.`,
+        link: 'https://www.sacbee.com/news/local/history/article148667224.html',
+        infoSrc: 'https://www.huffpost.com/entry/black-panthers-california-1967_n_568accfce4b014efe0db2f40'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 2nd, 1968',
+        title: 'Dodge Wildcat Strike - DRUM Forms (1968)',
+        imgSrc: require('./assets/eventPhotos/Organizations/drum.jpg'),
+        description: `On this day in 1968, 4,000 black and white workers at a Dodge plant Hamtramck, Michigan went on a wildcat strike to protest working conditions; the racist reaction from management led to the formation of the Dodge Revolutionary Union Movement (DRUM).\n\nThe strike began as a multi-racial protest against working conditions and a speedup in the production lines. Punishment for the strike fell disproportionately on black workers, with five of the seven fired workers being black despite whites participating in the labor action.\n\nIn response to this and discrimination within the plant - black workers were kept in the lowest-paying and most dangerous jobs, passed over for promotion, and the United Auto Workers union (UAW) would not help them combat discrimination - DRUM was formed to organize the black workers at the company.\n\nIn July, DRUM called for another shutdown of the plant and, this time, more than 3,000 black workers participated in the strike, keeping it closed for over two days. Their success inspired the formation of other Revolutionary Union Movements in other Michigan auto plants and industries, such as FRUM (Ford), CADRUM (GM's Cadillac plant), and GRUM (the larger GM caucus), healthcare workers (HRUM), and UPS workers (UPRUM).\n\nFrom these organizations, seven activists organized the various -RUMs into one umbrella organization with a socialist bent - the League of Revolutionary Black Workers (LRBW). The LRBW sought to transform the UAW from within, eventually compelling the UAW to hire black people into leadership positions.`,
+        link: 'https://projects.lib.wayne.edu/12thstreetdetroit/exhibits/show/aftermathofunrest/drum',
+        infoSrc: 'https://www.blackpast.org/african-american-history/dodge-revolutionary-union-movement-1968-1971/'
       },
     ],
     'Birthdays': [
@@ -24366,9 +24366,18 @@ export const eventLibrary = {
         date: 'November 28th, 1820',
         title: 'Friedrich Engels (1820 - 1895)',
         imgSrc: require('./assets/eventPhotos/Individuals/friedrichEngels.jpg'),
-        description: `Friedrich Engels, born on this day in 1820, was a German philosopher, historian, communist, social scientist, sociologist, journalist and businessman. His father was an owner of large textile factories in Salford, England, and Barmen, Prussia (now Wuppertal, Germany).\n\nEngels developed what is now known as Marxist theory together with Karl Marx and in 1845 he published The Condition of the Working Class in England, based on personal observations and research in English cities. In 1848, Engels co-authored The Communist Manifesto with Marx and also authored and co-authored (primarily with Marx) many other works.\n\nLater, Engels supported Marx financially, allowing him to do research and write Das Kapital. After Marx's death, Engels edited the second and third volumes of Das Kapital. Additionally, Engels organized Marx's notes on the Theories of Surplus Value, which were later published as the "fourth volume" of Das Kapital. In 1884, he published The Origin of the Family, Private Property and the State on the basis of Marx's ethnographic research.`,
+        description: `Friedrich Engels, born on this day in 1820, was a German philosopher, historian, journalist, and revolutionary socialist who collaborated with Karl Marx, co-authoring the Communist Manifesto and editing the second and third volumes of Marx's "Das Kapital".\n\nEngels was born in Barmen, Rhine Province, Prussia (now Wuppertal, Germany), to a wealthy family. His father owned large textile factories in Barmen and Salford, England. His revolutionary predilections (and later, his atheistic beliefs) put him at odds with his family, who expected Engels to inherit the family business.\n\nEngels' career became intertwined with Marx's when he began writing articles for "Rheinische Zeitung", a German newspaper that Karl Marx edited. In 1845, Engels published "The Condition of the Working Class in England", based on personal observations and research of poverty and disease in English cities. In 1848, Engels co-authored the "Communist Manifesto" with Marx.\n\nLater, Engels supported Marx financially, allowing him to perform research and write "Das Kapital". After Marx's death, Engels edited the second and third volumes of "Das Kapital". Additionally, Engels organized Marx's notes into "Theories of Surplus Value", which were later published as the fourth volume of "Das Kapital". In 1884, he published "The Origin of the Family", Private Property and the State", based on Marx's ethnographic research.`,
         link: 'https://www.britannica.com/biography/Friedrich-Engels',
         infoSrc: 'https://en.wikipedia.org/wiki/Friedrich_Engels',
+      },
+      {
+        category: 'Birthdays',
+        date: 'November 28th, 1919',
+        title: 'Faye Schulman (1919 - )',
+        imgSrc: require('./assets/eventPhotos/Individuals/fayeSchulman.jpg'),
+        description: `Faye Schulman, born on this day in 1919, was a Jewish partisan and photographer who took up arms against the Nazis who were responsible for killing her family.\n\nOn August 14th, 1942, the Germans killed 1,850 Jews from the "Lenin" ghetto (named after Lenin, Poland, where Faye was from), including her parents, sisters, and younger brother. Faye was spared for her ability to develop photographs, and the Nazis ordered Faye to develop their photographs of the massacre. Later, she cited taking a photo of her dead family in a mass grave as the impetus to take up arms.\n\nDuring a partisan raid on the camp, Faye fled to the forests and joined the Molotava Brigade, a partisan group mostly comprised of escaped Soviet Red Army POWs. She was accepted because her brother-in-law had been a doctor and they were desperate for anyone who knew anything about medicine. Faye served the group as a nurse from September 1942 to July 1944, even though she had no previous medical experience.\n\nDuring a raid on Lenin, Faye succeeded in recovering her old photographic equipment. During the next two years, she took over a hundred photographs, developing the medium format negatives under blankets and making "sun prints" during the day. While on missions, Faye buried the camera and tripod to keep it safe. Schulman is the only known Jewish partisan photographer from this era.\n\n"I want people to know that there was resistance. Jews did not go like sheep to the slaughter. I was a photographer. I have pictures. I have proof." - Faye Schulman`,
+        link: 'https://www.pbs.org/daringtoresist/fayeb.html',
+        infoSrc: 'https://encyclopedia.ushmm.org/content/en/article/faye-schulman'
       },
     ],
     'Assassinations': [
