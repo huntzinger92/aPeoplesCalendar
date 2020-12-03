@@ -24529,14 +24529,14 @@ export const eventLibrary = {
         date: 'November 30th, 1945',
         title: 'Charlie Clements (1945 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/charlesClements.jpg'),
-        description: `Charlie Clements, born on this day in 1945, is a retired American physician and human rights activist who was committed to a psych ward after refusing to fly bombing campaigns in Cambodia during the Vietnam War.\n\nThe decision came after flying more than 50 missions as a pilot in the war, and Clements refused to fly participate in the invasion of Cambodia on moral grounds. The Air Force responded by committing him to a psychiatric hospital, and he was subsequently declared to have a 10% mental disability and discharged.\n\nAfterward, Clements became a trained physician, connecting the struggle for social justice to his medical practice. After learning of the U.S.-backed death squads in El Salvador, Clements traveled to an area controlled by the Salvadoran guerrilla resistance group Farabundo Martí National Liberation Front (FMLN), to care the wounded.\n\nDr. Clements has served as president of both the Unitarian Universalist Service Committee and Physicians for Human Rights, a US-based not-for-profit that uses medicine and science to document and advocate against mass atrocities and severe human rights violations around the world.`,
+        description: `Charlie Clements, born on this day in 1945, is a retired American physician and human rights activist who was committed to a psych ward after refusing to fly missions in Cambodia during the Vietnam War.\n\nThe decision came after flying more than 50 missions as a pilot in the war, and Clements refused to participate in the invasion of Cambodia on moral grounds. The Air Force responded by committing him to a psychiatric hospital, and he was subsequently declared to have a 10% mental disability and discharged.\n\nAfterward, Clements became a trained physician, connecting the struggle for social justice to his medical practice. After learning of the U.S.-backed death squads in El Salvador, Clements traveled to an area controlled by the Salvadoran guerrilla resistance group Farabundo Martí National Liberation Front (FMLN), to care the wounded.\n\nDr. Clements has served as president of both the Unitarian Universalist Service Committee and Physicians for Human Rights, a US-based not-for-profit that uses medicine and science to document and advocate against mass atrocities and severe human rights violations around the world.`,
         link: 'https://www.americanswhotellthetruth.org/portraits/charlie-clements',
         infoSrc: 'https://en.wikipedia.org/wiki/Charlie_Clements_(physician)'
       },
       {
         category: 'Birthdays',
         date: 'November 30th, 1924',
-        title: 'Shirley Chisholm (1924 - 2995)',
+        title: 'Shirley Chisholm (1924 - 1995)',
         imgSrc: require('./assets/eventPhotos/Individuals/shirleyChisholm.jpg'),
         description: `Shirley Anita Chisholm, born on this day in 1924, was an American politician, educator, and author who became the first black woman elected to the United States Congress. Chisholm was born to immigrant parents from the Caribbean. When she was five, she was sent to live with her maternal grandmother in Barbados because her parents' work schedules made it difficult to raise children.\n\nChisholm returned to the United States at the age of ten, and spoke with a slight West Indies accent for the rest of her life. On her grandmother's influence, Chisholm later stated "Granny gave me strength, dignity, and love. I learned from an early age that I was somebody. I didn't need the black revolution to tell me that."\n\nIn 1968, she became the first black woman elected to the United States Congress in an upset victory where she defeated civil rights activist James Farmer. Her campaign slogan, later the title of her autobiography was "Unbought and Unbossed". She represented New York's 12th congressional district for seven terms from 1969 to 1983. In the 1972 United States presidential election, she became the first black candidate for a major party's nomination for President of the United States.`,
         link: 'https://www.womenshistory.org/education-resources/biographies/shirley-chisholm',
@@ -24694,7 +24694,7 @@ export const eventLibrary = {
         date: 'December 2nd, 1980',
         title: 'Missionaries Murdered in El Salvador (1980)',
         imgSrc: require('./assets/eventPhotos/Events/salvadorNuns.jpg'),
-        description: `On this day in 1980, four Catholic missionaries from the United States working in El Salvador were raped and murdered by five members of the El Salvador National Guard. Their names were Maura Clarke and Ita Ford, Ursuline Dorothy Kazel, and Jean Donovan. Although they were ostensibly missionaries, the nuns were also political radicals, with Maura Clarke having supported the Sandinistas in Nicaragua.\n\nAlthough thousands of native Salvadorans had already been murdered by death squads there, the killing of these missionaries prompted international outrage and criticism of President Carter's support for the government in El Salvador. Although Carter initially suspended aid to the regime, he later reinstated it and President Reagan continued this support.\n\nAfter the release of declassified documents in the 1990s, New Jersey congressman Robert Torricelli stated that it was "now clear that while the Reagan Administration was certifying human rights progress in El Salvador they knew the terrible truth that the Salvadoran military was engaged in a widespread campaign of terror and torture".`,
+        description: `On this day in 1980, four Catholic missionaries from the United States working in El Salvador were raped and murdered by five members of the El Salvador National Guard. Their names were Maura Clarke, Ita Ford, Ursuline Dorothy Kazel, and Jean Donovan. Although they were ostensibly missionaries, the nuns were also political radicals, with Maura Clarke having supported the Sandinistas in Nicaragua.\n\nAlthough thousands of native Salvadorans had already been murdered by death squads there, the killing of these missionaries prompted international outrage and criticism of President Carter's support for the government in El Salvador. Although Carter initially suspended aid to the regime, he later reinstated it and President Reagan continued this support.\n\nAfter the release of declassified documents in the 1990s, New Jersey congressman Robert Torricelli stated that it was "now clear that while the Reagan Administration was certifying human rights progress in El Salvador they knew the terrible truth that the Salvadoran military was engaged in a widespread campaign of terror and torture".`,
         link: 'https://www.jacobinmag.com/2017/05/el-salvador-civil-war-reagan-cold-war-death-squads-sandinistas',
         infoSrc: 'https://en.wikipedia.org/wiki/1980_murders_of_U.S._missionaries_in_El_Salvador'
       },
@@ -24725,13 +24725,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'December 3rd, 1944',
+        title: 'Dekemvriana Massacre (1944)',
+        imgSrc: require('./assets/eventPhotos/Events/dekemrianaMassacre.jpg'),
+        description: `On this day in 1944, Greek police, with the assistance of the British Army, fired on a crowd of 200,000 left-wing protesters in Athens, killing 28 people and wounding approximately 150 more.\n\nThe protest had been called by the EAM (National Liberation Front), a communist resistance movement against the Nazi occupation of Greece, in response to being ordered to disarm by British officer Ronald Scobie and opposition to the Nazi-collaborating "Security Battalions" generally.\n\nThe shootings began when protesters marched to the Tomb of the Unknown Soldier, in front of the Royal Palace. Among the many accounts of the violence, N. Farmakis, a teenaged member of the Anti-EAM "Organization X" testified that he saw the head of the police Angelos Evert giving the order to open fire on the crowd by means of a handkerchief waved from the window.\n\nThe massacre marked the beginning of the "Dekemvriana" ("December Events" in English), a period of fighting between the EAM and the British Army and its collaborators. The Dekemvriana broke the power of the EAM, with 13,000 members of the EAM arrested and transferred by the British to concentration camps. The massacre and its aftermath were important events in the lead up to the Greek Civil War of 1946.`,
+        link: 'https://libcom.org/history/british-perfidy-greece-story-worth-remembering-ed-vulliamy-helena-smith',
+        infoSrc: 'https://en.wikipedia.org/wiki/Dekemvriana'
       },
     ],
     'Labor': [
