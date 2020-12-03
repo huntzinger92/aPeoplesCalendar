@@ -24728,7 +24728,7 @@ export const eventLibrary = {
         category: 'Rebellion',
         date: 'December 3rd, 1944',
         title: 'Dekemvriana Massacre (1944)',
-        imgSrc: require('./assets/eventPhotos/Events/dekemrianaMassacre.jpg'),
+        imgSrc: require('./assets/eventPhotos/Events/dekemvrianaMassacre.jpg'),
         description: `On this day in 1944, Greek police, with the assistance of the British Army, fired on a crowd of 200,000 left-wing protesters in Athens, killing 28 people and wounding approximately 150 more.\n\nThe protest had been called by the EAM (National Liberation Front), a communist resistance movement against the Nazi occupation of Greece, in response to being ordered to disarm by British officer Ronald Scobie and opposition to the Nazi-collaborating "Security Battalions" generally.\n\nThe shootings began when protesters marched to the Tomb of the Unknown Soldier, in front of the Royal Palace. Among the many accounts of the violence, N. Farmakis, a teenaged member of the Anti-EAM "Organization X" testified that he saw the head of the police Angelos Evert giving the order to open fire on the crowd by means of a handkerchief waved from the window.\n\nThe massacre marked the beginning of the "Dekemvriana" ("December Events" in English), a period of fighting between the EAM and the British Army and its collaborators. The Dekemvriana broke the power of the EAM, with 13,000 members of the EAM arrested and transferred by the British to concentration camps. The massacre and its aftermath were important events in the lead up to the Greek Civil War of 1946.`,
         link: 'https://libcom.org/history/british-perfidy-greece-story-worth-remembering-ed-vulliamy-helena-smith',
         infoSrc: 'https://en.wikipedia.org/wiki/Dekemvriana'
