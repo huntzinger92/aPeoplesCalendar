@@ -24872,13 +24872,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'December 5th, 2008',
+        title: 'Republic Windows and Doors Occupation (2008)',
+        imgSrc: require('./assets/eventPhotos/Events/republicWindowsStrike.jpg'),
+        description: `On this day in 2008, in the midst of the financial crisis, 300 workers at Republic Windows and Doors occupied their workplace after being laid off, losing health insurance and owed vacation pay with just 3 days notice.\n\nOn Tuesday December 2nd, the workers were told that the business would close at the end of the week. Two hundred and forty local union members voted to have a sit-in at the end of the week. They carefully organized the action, dividing into three shifts to manage and clean the factory equipment, provide security, and communicate with the media and supporters 24 hours a day.\n\nProtesting workers displayed signs that said "No More Bailouts for the Ruling Class!" and "You got bailed out, We got sold out". The action won national attention, and eventually the corporation changed ownership, and all workers were able to keep their jobs.\n\nRichard Gillman, the former CEO of Republic Windows and Doors, was convicted of stealing more than $500,000 from the company, fined $100,000 and sentenced to four years in prison. On May 30th, 2012, some members of the local union founded the New Era Windows Cooperative with the help of The Working World, an organization that finances worker cooperatives.`,
+        link: 'https://www.peoplesworld.org/article/ten-years-ago-republic-windows-workers-occupied-their-factory-now-they-own-it/',
+        infoSrc: 'http://libcom.org/history/2008-sit-down-strike-republic-windows-doors'
       },
     ],
     'Birthdays': [
