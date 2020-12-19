@@ -1664,7 +1664,7 @@ export const eventLibrary = {
       {
         category: 'Assassinations',
         date: 'January 24th, 1930',
-        title: 'Kim Chwa-chin (1889 - 1930)',
+        title: 'Kim Chwa-chin Assassinated (1930)',
         imgSrc: require('./assets/eventPhotos/Individuals/kimChwaChin.jpg'),
         description: `Kim Chwa-chin (also written Kim Chwa-jin) (1889 - 1930) was a Korean general, independence activist, and anarchist who played an important role in the early attempts at development of anarchism in Korea. When Kim was 18, he released 50 families of slaves when he burned the slave registry and provided each family with enough land to live on, resulting in the first emancipation of slaves in modern Korea.\n\nIn 1918, Kim was one of 40 Korean representatives to sign the Korean Declaration of independence. He then joined the Korea Justice Corps, later becoming the general commander of the Northern Military Administration Office Army and playing a key role in the "Battle of Cheongsanri" against japanese forces.\n\nIn 1928, the Korea Independence Party was formed, and the following year, when the Korean General Association was established as the successor of the new people, Chwa-chin was designated as the President. During this process, conflicts between the nationalist and communist independence activists intensified. On this day in 1930, Kim was assassinated by Park Sang-sil, an agent of the Japanese colonial government.`,
         link: 'https://web.archive.org/web/20151226035222/http://english.hongseong.go.kr/eng/sub01_05_04.do',
@@ -8718,6 +8718,15 @@ export const eventLibrary = {
         link: 'https://www.sacbee.com/news/local/history/article148667224.html',
         infoSrc: 'https://www.huffpost.com/entry/black-panthers-california-1967_n_568accfce4b014efe0db2f40'
       },
+      {
+        category: 'Revolution',
+        date: 'May 2nd, 1968',
+        title: 'May 68 Rebellion (1968)',
+        imgSrc: require('./assets/eventPhotos/Events/may68.jpg'),
+        description: `On this day in 1968, the May 68 Rebellion, the largest general strike in French history, began when school officials shut down the University of Paris shut down the school after months of student protests, leading to nationwide unrest.\n\nIn mid-March, leftist students had occupied an administration building there, although they left peacefully after their demands were published. After the university was closed on May 2nd, the tensions escalated. On May 6th, more than 20,000 students, teachers, and supporters engaged in a protest march. The march was attacked by police and devolved into a riot.\n\nThe state repression of protesters caused two major left union federations, the Confédération Générale du Travail (CGT) and the Force Ouvrière (CGT-FO), to call a one-day general strike on May 13th. More than one million people demonstrated that day.\n\nBy the middle of May, demonstrations had extended to factories, though demands there were different from the students'. Across France, students occupied university structures and up to one-third of the country's workforce was on strike.\n\nThe protests reached such a point that political leaders feared civil war or revolution. President Charles de Gaulle secretly fled France to Germany at one point, and the national government at times ceased to function.\n\nRevolution was averted when de Gaulle dissolved the National Assembly and scheduled an election that the left dissidents agreed to participate in. Revolutionary fervor subsided and the government banned a number of leftist organizations. In the electon, de Gaulle's party won the greatest victory in French parliamentary history, taking 353 of 486 seats versus the Communists' 34 and the Socialists' 57.`,
+        link: 'https://jacobinmag.com/2018/05/how-beautiful-it-was/',
+        infoSrc: 'https://en.wikipedia.org/wiki/May_68'
+      },
     ],
     'Labor': [
       {
@@ -9097,13 +9106,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'May 7th, 1912',
+        title: `NYC Waiters' Strike (1912)`,
+        imgSrc: require('./assets/eventPhotos/Events/nycWaiters1912.jpg'),
+        description: `On this day in 1912, the first industry-wide strike of restaurant and hotel workers in New York City history began when 150 hotel workers, organized by the IWW, walked out to protest their poor working conditions. At the height of the strike, there were 54 hotels and 30 restaurants and other establishments without their staff, amounting to approximately 2,500 waiters, 1,000 cooks, and 3,000 other striking hotel workers.\n\nThe strike was organized directly by Joe Ettor and Elizabeth Gurley Flynn of the Industrial Workers of the World (IWW). Before the IWW, the only union in place for hotel workers only had about 2,000 members and prohibitively high membership dues.\n\nThe workers demanded at least one day off a week, a higher minimum wage, and a prohibition of discrimination for being in a union. The strike continued through the rest of May but faced repression from the police. The strike officially ended on June 25th, 1912 without legal recognition for the IWW created Hotel Workers' International Union. Despite this failure, hotel workers would go on strike again in 1913, 1918, 1929, and 1934.`,
+        link: 'https://hotelworkers.org/about/history/the-story-of-the-first-contract',
+        infoSrc: 'https://en.wikipedia.org/wiki/1912_New_York_City_waiters%27_strike'
       },
     ],
     'Birthdays': [
@@ -25793,7 +25802,7 @@ export const eventLibrary = {
         date: 'December 17th, 1987',
         title: 'Chelsea Manning (1987 - )',
         imgSrc: require('./assets/eventPhotos/Individuals/chelseaManning.jpg'),
-        description: `Chelsea Elizabeth Manning is an American activist and whistleblower. She is a former United States Army soldier who was convicted by court-martial in July 2013 of violations of the Espionage Act and other offenses, after disclosing to WikiLeaks nearly 750,000 classified, or unclassified but sensitive, military and diplomatic documents.\n\nAmong the documents released was the infamous "Collateral Murder" video, which depicted two American helicopters firing on Reuters journalists and children. Manning was imprisoned from 2010 until 2017, when her sentence was commuted by Barack Obama.`,
+        description: `Chelsea Elizabeth Manning is an American activist and whistleblower who was born on this day in 1987. She is a former United States Army soldier who was convicted by court-martial in July 2013 of violations of the Espionage Act and other offenses, after disclosing to WikiLeaks nearly 750,000 classified, or unclassified but sensitive, military and diplomatic documents.\n\nAmong the documents released was the infamous "Collateral Murder" video, which depicted two American helicopters firing on Reuters journalists and children. Manning was imprisoned from 2010 until 2017, when her sentence was commuted by Barack Obama.`,
         link: 'https://www.theguardian.com/us-news/2018/oct/07/chelsea-manning-wikileaks-whistleblowing-interview-carole-cadwalladr',
         infoSrc: 'https://en.wikipedia.org/wiki/Chelsea_Manning'
       },
@@ -25861,7 +25870,7 @@ export const eventLibrary = {
         date: 'December 18th, 1878',
         title: 'Joseph Stalin (1878 - 1953)',
         imgSrc: require('./assets/eventPhotos/Individuals/josephStalin.jpg'),
-        description: `Joseph Stalin, born on this day in 1878, was a Marxist-Leninist revolutionary and politician who led the Soviet Union from the mid-1920s until his death in 1953.\n\nBorn to a poor family in modern day Georgia, Stalin joined the Marxist Russian Social Democratic Labour Party as a youth. He edited the party's newspaper Pravda and raised funds for Vladimir Lenin's Bolshevik faction via robberies, kidnappings, and protection rackets. After the Bolsheviks seized power during the 1917 October Revolution, Stalin joined its governing Politburo and assumed leadership over the country following Lenin's 1924 death.\n\nThrough the Five-Year Plans developed under his leadership, the Soviet Union collectivized its agricultural sector and rapidly industrialized, creating a centralized command economy. This rapid change caused disruptions in food production that were a factor in the famine of 1932 - 1933. Despite this, the first five-year plan greatly increased the country's productive capacity.\n\nStalin's legacy remains controversial, even among leftist thinkers and movements. Although the Sovet Union under his leadership succeeded in rapidly industrializing Russia, helping end Russian monarchial rule, defeating fascist movements in Europe, and opposing American imperialism, his reign was marred by severe political repression, suppression of labor movements, episodes of ethnic cleansing during the Great Purge of 1937-38, and the criminalization of homosexuality.\n\nShortly after Stalin's death, the Soviet Union went through a period of "de-Stalinization". His successor, Nikita Khrushchev, gave a series of remarks titled "On the Cult of Personality and Its Consequences" (also known as the "Secret Speech") to a closed session of the national congress, denouncing Stalin's political repression and the cult of personality that surrounded him.`,
+        description: `Joseph Stalin, born on this day in 1878, was a Marxist-Leninist revolutionary and politician who led the Soviet Union from the mid-1920s until his death in 1953.\n\nBorn to a poor family in modern day Georgia, Stalin joined the Marxist Russian Social Democratic Labour Party as a youth. He edited the party's newspaper Pravda and raised funds for Vladimir Lenin's Bolshevik faction via robberies, kidnappings, and protection rackets. After the Bolsheviks seized power during the 1917 October Revolution, Stalin joined its governing Politburo and assumed leadership over the country following Lenin's 1924 death.\n\nThrough the Five-Year Plans developed under his leadership, the Soviet Union collectivized its agricultural sector and rapidly industrialized, creating a centralized command economy. This rapid change caused disruptions in food production that were a factor in the famine of 1932 - 1933. Despite this, the first five-year plan greatly increased the country's productive capacity.\n\nStalin's legacy remains controversial, even among leftist thinkers and movements. Although the Soviet Union under his leadership succeeded in rapidly industrializing Russia, helping end Russian monarchial rule, defeating fascist movements in Europe, and opposing American imperialism, his reign was marred by severe political repression, suppression of labor movements, episodes of ethnic cleansing during the Great Purge of 1937-38, and the criminalization of homosexuality.\n\nShortly after Stalin's death, the Soviet Union went through a period of "de-Stalinization". His successor, Nikita Khrushchev, gave a series of remarks titled "On the Cult of Personality and Its Consequences" (also known as the "Secret Speech") to a closed session of the national congress, denouncing Stalin's political repression and the cult of personality that surrounded him.`,
         link: 'https://www.britannica.com/biography/Joseph-Stalin',
         infoSrc: 'https://en.wikipedia.org/wiki/Joseph_Stalin'
       },
@@ -25925,13 +25934,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 19th, 1925',
+        title: 'Lepa Radić (1925 - 1943)',
+        imgSrc: require('./assets/eventPhotos/Individuals/lepaRadic.jpg'),
+        description: `Lepa Radić, born on this day in 1925, was a teenage communist executed by the SS after refusing to turn over information, shouting from the gallows "Fight, people, for your freedom! Do not surrender to the evildoers! I will be killed, but there are those who will avenge me!"\n\nUnder the influence of her uncle, a labor organize, Radić joined the Communist Party of Yugoslavia at the age of 15. THe same year, Radić and her family were arrested by the Ustaše, Nazi collaborators, however they escaped with the help of undercover partisan associates. Following this, she joined the 7th partisan company of the 2nd Krajiški Detachmen.\n\nDuring a fight against the 7th SS Volunteer Mountain Division "Prinz Eugen", Radić was captured and sentenced to death by hanging after being tortured for several days in an attempt to extra information. She refused her interrogators, stating "I am not a traitor of my people. Those whom you are asking about will reveal themselves when they have succeeded in wiping out all you evildoers, to the last man."\n\nRadić was posthumously awared the "Order of the People's Hero" in 1951, the youngest recipient at the the time at seventeen years of age.`,
+        link: 'https://ycl.org.uk/2019/02/11/international-womens-day-2019-lepa-radic/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Lepa_Radi%C4%87'
       },
     ],
     'Assassinations': [
@@ -25997,20 +26006,20 @@ export const eventLibrary = {
         date: 'December 20th, 1951',
         title: 'Marta Russell (1951 - 2013)',
         imgSrc: require('./assets/eventPhotos/Individuals/martaRussell.jpg'),
-        description: `Marta Russell was an American writer and disability rights activist. Her book, "Beyond Ramps: Disability at the End of the Social Contract published in 1998" analyzes the relationship between disability, social Darwinism, and economic austerity under capitalism.\n\nHer political views, which she described as "left, not liberal," informed her writing on topics such as healthcare, the prison-industrial complex, physician-assisted suicide, poverty, ableism, and the Americans with Disabilities Act of 1990.`,
+        description: `Marta Russell was an American writer and disability rights activistm born on this day in 1951. Her book, "Beyond Ramps: Disability at the End of the Social Contract published in 1998" analyzes the relationship between disability, social Darwinism, and economic austerity under capitalism.\n\nHer political views, which she described as "left, not liberal," informed her writing on topics such as healthcare, the prison-industrial complex, physician-assisted suicide, poverty, ableism, and the Americans with Disabilities Act of 1990.`,
         link: 'https://solidarity-us.org/atc/169/p4113/',
         infoSrc: 'https://en.wikipedia.org/wiki/Marta_Russell'
       },
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'December 20th, 1973',
+        title: 'Carrero Blanco Bombed by ETA (1973)',
+        imgSrc: require('./assets/eventPhotos/Events/francoAssassination.jpg'),
+        description: `On this day in 1973, Spanish Prime Minister Luis Carrero Blanco, the hand-picked successor to fascist Francisco Franco, was killed in a car bombing by Euskadi Ta Askatasuna (ETA), a left-wing, Basque separatist group.\n\nBlanco (1904 - 1973) had previously served as a naval officer on the Francoist side of the Spanish Civil War, eventually becoming Chief of Naval Operations in 1939. In 1973, he was appointed to the position of Prime Ministers. Six months into his term, he was assassinated by the ETA while returning from mass at San Francisco de Borja church.\n\nFor five months, the ETA members dug under the street from a rented out basement near his route. On the day of the attack, members disguised as electricians were present on the scene to trigger detonation.\n\nIn a collective interview justifying the attack, the ETA bombers said Carrero Blanco "symbolized better than anyone else the figure of 'pure Francoism' and without totally linking himself to any of the Francoist tendencies..." and called him "a man without scruples".\n\nThe assassination had far-reaching political implications, and is crediting with helping Spain become more democratic. Carrero Blanco's successor, Carlos Arias Navarro, promised liberalizing reforms, including the right to form political associations. Franco himself died in 1975, and elections in Spain were held in 1977, with a new constitution being approved the following year.`,
+        link: 'https://www.irishtimes.com/news/world/europe/in-1973-i-applauded-an-eta-killing-not-now-1.3039065',
+        infoSrc: 'https://en.wikipedia.org/wiki/Assassination_of_Luis_Carrero_Blanco'
       },
     ],
     'Other': [
@@ -26019,7 +26028,7 @@ export const eventLibrary = {
         date: 'December 20th, 1828',
         title: 'Georgia Discrimination Against Cherokees (1828)',
         imgSrc: require('./assets/eventPhotos/Events/cherokeeDeported.jpg'),
-        description: `On this day in 1828, the state legislature of Georgia, fearful that the United States would not enforce (as a matter of federal policy) the removal of the Cherokee people from their historic lands in the state, enacted a series of laws which stripped the Cherokee of their rights under the laws of the state. This was ostensibly an attempt to force the Cherokee to leave the state.\n\nAmong other forms of discrimination, Cherokee could not dig for gold discovered on their land, any Cherokee caught advising others to not migrate westward could be jailed, and no Cherokee could testify in court against a white man. The Cherokee Nation sued the state of Georgia and lost; on appeal, the Supreme Court declined to rule on the case.\n\nA year later, the Supreme Court ruled that the Cherokee Nation was a sovereign entity and that the Georgia laws were illegal, however President Andrew Jackson flagrantly violated this ruling and ordered the expulsion of the Cherokee Nation. This led directly to the infamous "Trail of Tears".`,
+        description: `On this day in 1828, the state legislature of Georgia, worried the U.S. would not forcibly remove the Cherokee people from their historic lands in the state, enacted a series of laws which stripped the Cherokee of their legal rights, culminating in the "Trail of Tears". This was ostensibly an attempt to force the Cherokee to leave the state.\n\nAmong other forms of discrimination, Cherokee could not dig for gold discovered on their land, any Cherokee caught advising others to not migrate westward could be jailed, and no Cherokee could testify in court against a white man. The Cherokee Nation sued the state of Georgia and lost; on appeal, the Supreme Court declined to rule on the case.\n\nA year later, the Supreme Court ruled that the Cherokee Nation was a sovereign entity and that the Georgia laws were illegal, however President Andrew Jackson flagrantly violated this ruling and ordered the expulsion of the Cherokee Nation. This led directly to the infamous "Trail of Tears".`,
         link: 'https://www.historyisaweapon.com/defcon1/zinnasl7.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Cherokee_Nation_v._Georgia'
       },
