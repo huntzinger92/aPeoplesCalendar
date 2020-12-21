@@ -4047,13 +4047,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'February 27th, 1973',
+        title: 'Wounded Knee Occupation (1973)',
+        imgSrc: require('./assets/eventPhotos/Events/woundedKneeOccupation.jpg'),
+        description: `The Wounded Knee Occupation began on this day in 1973, when approximately 200 Oglala Lakota and followers of the American Indian Movement (AIM) seized and occupied the town of Wounded Knee, South Dakota, on the Pine Ridge Indian Reservation. Paul Manhart S.J. and ten other residents of the area were apprehended at gunpoint and taken hostage.\n\nThe rebellion followed the failure of an effort of the Oglala Sioux Civil Rights Organization (OSCRO) to impeach tribal president Richard Wilson, whom they accused of corruption and abuse of opponents. Additionally, the rebels criticized the United States government's failure to fulfill treaties with Native American people and demanded the reopening of treaty negotiations.\n\nThe activists chose the site of the 1890 Wounded Knee Massacre for its symbolic value, and the town was promptly surrounded by nearly one thousand federal agents. Tribal leaders called off the occupation after 71 days, due to the death of a young Lakota man by U.S. sniper fire. The terms of ending the occuption included a mandated meeting at Chief Fools Crow's land to discuss reinstating an 1868 Treaty.`,
+        link: 'https://www.theatlantic.com/national/archive/2012/10/occupy-wounded-knee-a-71-day-siege-and-a-forgotten-civil-rights-movement/263998/',
+        infoSrc: 'https://en.wikipedia.org/wiki/Wounded_Knee_Massacre'
       },
     ],
     'Labor': [
@@ -26006,7 +26006,7 @@ export const eventLibrary = {
         date: 'December 20th, 1951',
         title: 'Marta Russell (1951 - 2013)',
         imgSrc: require('./assets/eventPhotos/Individuals/martaRussell.jpg'),
-        description: `Marta Russell was an American writer and disability rights activistm born on this day in 1951. Her book, "Beyond Ramps: Disability at the End of the Social Contract published in 1998" analyzes the relationship between disability, social Darwinism, and economic austerity under capitalism.\n\nHer political views, which she described as "left, not liberal," informed her writing on topics such as healthcare, the prison-industrial complex, physician-assisted suicide, poverty, ableism, and the Americans with Disabilities Act of 1990.`,
+        description: `Marta Russell was an American writer and disability rights activist born on this day in 1951. Her book, "Beyond Ramps: Disability at the End of the Social Contract published in 1998" analyzes the relationship between disability, social Darwinism, and economic austerity under capitalism.\n\nHer political views, which she described as "left, not liberal," informed her writing on topics such as healthcare, the prison-industrial complex, physician-assisted suicide, poverty, ableism, and the Americans with Disabilities Act of 1990.\n\n"There is no Death with Dignity when people choose to die because health care economics and the social services system prevent life with dignity." - Marta Russell`,
         link: 'https://solidarity-us.org/atc/169/p4113/',
         infoSrc: 'https://en.wikipedia.org/wiki/Marta_Russell'
       },
@@ -26017,7 +26017,7 @@ export const eventLibrary = {
         date: 'December 20th, 1973',
         title: 'Carrero Blanco Bombed by ETA (1973)',
         imgSrc: require('./assets/eventPhotos/Events/francoAssassination.jpg'),
-        description: `On this day in 1973, Spanish Prime Minister Luis Carrero Blanco, the hand-picked successor to fascist Francisco Franco, was killed in a car bombing by Euskadi Ta Askatasuna (ETA), a left-wing, Basque separatist group.\n\nBlanco (1904 - 1973) had previously served as a naval officer on the Francoist side of the Spanish Civil War, eventually becoming Chief of Naval Operations in 1939. In 1973, he was appointed to the position of Prime Ministers. Six months into his term, he was assassinated by the ETA while returning from mass at San Francisco de Borja church.\n\nFor five months, the ETA members dug under the street from a rented out basement near his route. On the day of the attack, members disguised as electricians were present on the scene to trigger detonation.\n\nIn a collective interview justifying the attack, the ETA bombers said Carrero Blanco "symbolized better than anyone else the figure of 'pure Francoism' and without totally linking himself to any of the Francoist tendencies..." and called him "a man without scruples".\n\nThe assassination had far-reaching political implications, and is crediting with helping Spain become more democratic. Carrero Blanco's successor, Carlos Arias Navarro, promised liberalizing reforms, including the right to form political associations. Franco himself died in 1975, and elections in Spain were held in 1977, with a new constitution being approved the following year.`,
+        description: `On this day in 1973, Spanish Prime Minister Luis Carrero Blanco, the hand-picked successor to fascist Francisco Franco, was killed in a car bombing by Euskadi Ta Askatasuna (ETA), a left-wing, Basque separatist group.\n\nBlanco (1904 - 1973) had previously served as a naval officer on the Francoist side of the Spanish Civil War, eventually becoming Chief of Naval Operations in 1939. In 1973, he was appointed to the position of Prime Ministers. Six months into his term, he was assassinated by the ETA while returning from mass at San Francisco de Borja church.\n\nFor five months, the ETA members dug under the street from a rented out basement near his route. On the day of the attack, members disguised as electricians were present on the scene to trigger detonation.\n\nIn a collective interview justifying the attack, the ETA bombers said Carrero Blanco "symbolized better than anyone else the figure of 'pure Francoism' and without totally linking himself to any of the Francoist tendencies..." and called him "a man without scruples".\n\nThe assassination had far-reaching political implications, and is credited with helping Spain become more democratic. Carrero Blanco's successor, Carlos Arias Navarro, promised liberalizing reforms, including the right to form political associations. Franco himself died in 1975, and elections in Spain were held in 1977, with a new constitution being approved the following year.`,
         link: 'https://www.irishtimes.com/news/world/europe/in-1973-i-applauded-an-eta-killing-not-now-1.3039065',
         infoSrc: 'https://en.wikipedia.org/wiki/Assassination_of_Luis_Carrero_Blanco'
       },
@@ -26028,7 +26028,7 @@ export const eventLibrary = {
         date: 'December 20th, 1828',
         title: 'Georgia Discrimination Against Cherokees (1828)',
         imgSrc: require('./assets/eventPhotos/Events/cherokeeDeported.jpg'),
-        description: `On this day in 1828, the state legislature of Georgia, worried the U.S. would not forcibly remove the Cherokee people from their historic lands in the state, enacted a series of laws which stripped the Cherokee of their legal rights, culminating in the "Trail of Tears". This was ostensibly an attempt to force the Cherokee to leave the state.\n\nAmong other forms of discrimination, Cherokee could not dig for gold discovered on their land, any Cherokee caught advising others to not migrate westward could be jailed, and no Cherokee could testify in court against a white man. The Cherokee Nation sued the state of Georgia and lost; on appeal, the Supreme Court declined to rule on the case.\n\nA year later, the Supreme Court ruled that the Cherokee Nation was a sovereign entity and that the Georgia laws were illegal, however President Andrew Jackson flagrantly violated this ruling and ordered the expulsion of the Cherokee Nation. This led directly to the infamous "Trail of Tears".`,
+        description: `On this day in 1828, the state legislature of Georgia enacted a series of laws which stripped the Cherokee people of their legal rights in order to force them out of the state, ultimately culminating in the "Trail of Tears".\n\nAmong other forms of discrimination, Cherokee could not dig for gold discovered on their land, any Cherokee caught advising others to not migrate westward could be jailed, and no Cherokee could testify in court against a white man. The Cherokee Nation sued the state of Georgia and lost; on appeal, the Supreme Court declined to rule on the case.\n\nA year later, the Supreme Court ruled that the Cherokee Nation was a sovereign entity and that the Georgia laws were illegal, however President Andrew Jackson flagrantly violated this ruling and ordered the expulsion of the Cherokee Nation. This led directly to the infamous "Trail of Tears".`,
         link: 'https://www.historyisaweapon.com/defcon1/zinnasl7.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Cherokee_Nation_v._Georgia'
       },
@@ -26459,7 +26459,7 @@ export const eventLibrary = {
         date: 'December 26th, 1893',
         title: 'Mao Zedong (1893 - 1976)',
         imgSrc: require('./assets/eventPhotos/Individuals/maoZedong.jpg'),
-        description: `Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who became the founding father of the People's Republic of China (PRC), which he ruled as the chairman of the Communist Party of China from its establishment in 1949 until his death in 1976. Ideologically a Marxist-Leninist, his theories, military strategies, and political policies are collectively known as Maoism.\n\nA controversial figure, Mao is regarded as one of the most important and influential individuals in modern world history. He is also known as a political intellect, theorist, military strategist, poet, and visionary. During Mao's era, China was involved in the Korean War, the Sino-Soviet split, the Vietnam War, and the rise of Khmer Rouge; in particular, in 1972, Mao welcomed U.S. President Richard Nixon in Beijing, signalling the start of a policy of opening China to the world.\n\nSupporters credit him with driving imperialism out of China, modernising the nation and building it into a world power, promoting the status of women, improving education and health care, as well as increasing life expectancy of the average Chinese citizen.\n\nConversely, his regime has been called autocratic and totalitarian, and condemned for bringing about mass repression and destroying religious and cultural artifacts and sites. It was additionally responsible for vast numbers of deaths with estimates ranging from 30 to 80 million victims through starvation, persecution, prison labor and mass executions.`,
+        description: `Mao Zedong, born on this day in 1893, was a communist revolutionary who became a founder of the People's Republic of China (PRC), which he governed as the chairman of the Communist Party of China (CCP) from 1949 until his death in 1976. Ideologically a Marxist-Leninist, his theories, military strategies, and political policies are collectively known as Maoism.\n\nHe is also known as a political intellect, theorist, and military strategist. Several monumental events in Chinese history occurred under his watch, such as involement in the Korean the Vietnam Wars, the Sino-Soviet split, Richard Nixon's 1972 diplomatic visit to Beijing.\n\nSupporters credit him with driving imperialism out of China, modernizing the nation and building it into a world power, promoting the status of women, improving education and healthcare, as well as increasing life expectancy of the average Chinese citizen.\n\nConversely, opponents paint his rule as autocratic and totalitarian, causing famines and engaging in political repression, and condemning the destruction of many cultural artifacts and sites that took place under his watch.`,
         link: 'https://www.britannica.com/biography/Mao-Zedong',
         infoSrc: 'https://en.wikipedia.org/wiki/Mao_Zedong'
       },
@@ -26501,13 +26501,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: 'Rebellion',
-        date: 'February 27th, 1973',
-        title: 'Wounded Knee Occupation (1973)',
-        imgSrc: require('./assets/eventPhotos/Events/woundedKneeOccupation.jpg'),
-        description: `The Wounded Knee Occupation began on this day in 1973, when approximately 200 Oglala Lakota and followers of the American Indian Movement (AIM) seized and occupied the town of Wounded Knee, South Dakota, on the Pine Ridge Indian Reservation. Paul Manhart S.J. and ten other residents of the area were apprehended at gunpoint and taken hostage.\n\nThe rebellion followed the failure of an effort of the Oglala Sioux Civil Rights Organization (OSCRO) to impeach tribal president Richard Wilson, whom they accused of corruption and abuse of opponents. Additionally, the rebels criticized the United States government's failure to fulfill treaties with Native American people and demanded the reopening of treaty negotiations.\n\nThe activists chose the site of the 1890 Wounded Knee Massacre for its symbolic value, and the town was promptly surrounded by nearly one thousand federal agents. Tribal leaders called off the occupation after 71 days, due to the death of a young Lakota man by U.S. sniper fire. The terms of ending the occuption included a mandated meeting at Chief Fools Crow's land to discuss reinstating an 1868 Treaty.`,
-        link: 'https://www.theatlantic.com/national/archive/2012/10/occupy-wounded-knee-a-71-day-siege-and-a-forgotten-civil-rights-movement/263998/',
-        infoSrc: 'https://en.wikipedia.org/wiki/Wounded_Knee_Massacre'
+        category: '',
+        date: '',
+        title: '',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: ``,
+        link: '',
+        infoSrc: ''
       },
     ],
     'Labor': [
@@ -26523,24 +26523,24 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'December 27th, 1821',
+        title: 'Joseph Déjacque (1821 - 1864)',
+        imgSrc: require('./assets/eventPhotos/Individuals/josephDejacque.jpg'),
+        description: `Joseph Déjacque, born on this day in 1821, was a French anarcho-communist poet, philosopher, and writer noted for coining the term "libertarian" in reference to his own anti-capitalist politics. He utilized the term in an 1857 letter written to Pierre-Joseph Proudhon, criticizing his sexist views and support of individual ownership of the product of labor and a market economy.\n\nDéjacque was sentenced to two years of prison for his collection of poems "Les Lazaréennes, Fables et Poésies Sociales", but escaped to London around the time of the December 2nd, 1851 coup d'état. There, he joined a small community of outlaws gathered in Jersey and published "La question révolutionnaire", an exposition of the philosophy of anarchism.\n\nLater, Déjacque moved to the UNited States, where he publicly condemned the hanging of John Brown abd promoted the abolitionist cause. As the American Civil War began, Déjacque published a last issue of his paper "Libertaire" with an urgent appeal in which he urges the American people, whom he would like to be "less religious and more socialist", to defend freedom and the Republic against the "Jesuits, slavers, absolutists and authoritarians" who were at their door.\n\nHe then returned to France, living his remaining years in poverty and passing away in 1864.`,
+        link: 'https://drc.libraries.uc.edu/bitstream/handle/2374.UC/677186/Dejacque-Humanisphere.pdf?sequence=1',
+        infoSrc: 'https://en.wikipedia.org/wiki/Joseph_D%C3%A9jacque'
       },
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'December 27th, 1923',
+        title: 'Toranomon Incident (1923)',
+        imgSrc: require('./assets/eventPhotos/Events/nanbaAssassination.jpg'),
+        description: `The Toranomon Incident (虎ノ門事件) was an assassination attempt on the Prince Regent Hirohito of Japan by communist agitator Daisuke Nanba that took place at the Toranomon intersection in downtown Tokyo, Japan on this day in 1923. Nanba was sentenced to death and executed on November 15th, 1924.\n\nNanba was motivated both by leftist ideology and a desire to avenge the execution of Shūsui Kōtoku, who was executed for his alleged role in the High Treason Incident of 1910. Hirohito was on his way to the opening of the 48th Session of the Imperial Diet when Namba fired a small pistol into his carriage, shattering a window and injuring a chamberlain, but leaving Hirohito unharmed.\n\nAfter being arrested, Nanba explained that he was a communist and was seeking to avenge the death of Kōtoku. Despite court records affirming his sound state of mind, Namba was presented as insane to the public.`,
+        link: 'http://libcom.org/history/anarcho-syndicalism-japan-1911-1934-philippe-pelletier',
+        infoSrc: 'https://en.wikipedia.org/wiki/Toranomon_incident'
       },
     ],
     'Other': [
@@ -26641,7 +26641,7 @@ export const eventLibrary = {
         date: 'December 29th, 1890',
         title: 'Wounded Knee Massacre (1890)',
         imgSrc: require('./assets/eventPhotos/Events/woundedKneeMassacre.jpg'),
-        description: `The Wounded Knee Massacre was a domestic massacre of several hundred Lakota people, almost half of whom were women and children, by soldiers of the United States Army. It occurred on this day in 1890, near Wounded Knee Creek in South Dakota, following a botched attempt to disarm the Lakota camp.\n\nAccording to the journalist Charles Allen who witnessed the massacre, the fighting began when soldiers tried to disarm a deaf Native American, and the gun went off in a struggle. Soldiers began firing indiscriminately, and, although the Lakota fought back, many of them had been disarmed by this point.\n\nBy the time the massacre was over, as many as 300 men, women, and children of the Lakota had been killed and 51 were wounded Twenty soldiers were awarded the Medal of Honor.`,
+        description: `The Wounded Knee Massacre was a domestic massacre of several hundred Lakota people, almost half of whom were women and children, by soldiers of the United States Army. It occurred on this day in 1890, near Wounded Knee Creek in South Dakota, following a botched attempt to disarm the Lakota camp.\n\nAccording to the journalist Charles Allen who witnessed the massacre, the fighting began when soldiers tried to disarm a deaf Native American, and the gun went off in a struggle. Soldiers began firing indiscriminately, and, although the Lakota fought back, many of them had been disarmed by this point.\n\nBy the time the massacre was over, as many as 300 men, women, and children of the Lakota had been killed and 51 were wounded Twenty soldiers were awarded the Medal of Honor.\n\n"I shall not be there. I shall rise and pass. Bury my heart at Wounded Knee." - Stephen Vincent Benet`,
         link: 'https://www.pbs.org/weta/thewest/program/episodes/eight/likegrass.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Wounded_Knee_Massacre'
       },
@@ -26720,7 +26720,7 @@ export const eventLibrary = {
         date: 'December 30th, 1828',
         title: `Dover Mill Women's Strike (1828)`,
         imgSrc: require('./assets/eventPhotos/Events/doverMillStrike.jpg'),
-        description: `On this day in 1828, the first women's only strike in United States history took place. In the early 1800s, young women were often implied in textile mills and garment factories. Unmarried Dover mill girls lived in dorms managed by the mill company, worked eleven hour days, and were fined for being late.\n\nAfter the factory's ownership changed hands in 1828 and wages were reduced (for only the women employees), hundreds of the workers decided to strike. They formed a procession over a half mile long, complete with "artillery and martial music".\n\nDespite this enthusiasm, the strike was not successful and the women returned to work at reduced wages three days later.`,
+        description: `On this day in 1828, the first women's only strike in United States history took place when hundreds of Dover Mill workers walked out in protest of their working conditions. In the early 1800s, young women were often implied in textile mills and garment factories. Unmarried Dover mill girls lived in dorms managed by the mill company, worked eleven hour days, and were fined for being late.\n\nAfter the factory's ownership changed hands in 1828 and wages were reduced (for only the women employees), hundreds of the workers decided to strike. They formed a procession over a half mile long, complete with "artillery and martial music".\n\nDespite this enthusiasm, the strike was not successful and the women returned to work at reduced wages three days later.`,
         link: 'http://www.dover.nh.gov/government/city-operations/library/history/the-strike-of-the-mill-girls.html',
         infoSrc: 'http://www.dover.nh.gov/government/city-operations/library/history/the-strike-of-the-mill-girls.html'
       },
@@ -26777,7 +26777,7 @@ export const eventLibrary = {
         date: 'December 31st, 1986',
         title: 'Dupont Plaza Hotel Fire (1986)',
         imgSrc: require('./assets/eventPhotos/Events/dupontHotelFire.jpg'),
-        description: `On this day in 1986, striking hotel workers set fire to the Dupont Plaza Hotel in Puerto Rico in an attempt to scare off tourists; the fires burned out of control and killed more than 96 people.\n\nIn the weeks leading up to the fire, there was significant labor strife at the Dupont Plaza Hotel. The tension was so great that locals were advising tourists to stay away from the hotel and its casino. On December 31st, hotel workers voted to go on strike, and three of the labor organizers used chafing fuel to set a storage room on the ground floor on fire.\n\nAlthough their intent was to merely pressure management into agreeing to union demands, it quickly burned out of control, spreading to the adjacent ballroom and then casino. To prevent theft, hotel managers had locked emergency exits from the casino, and most of the deaths occurred there.\n\nThe fire claimed between 96 and 98 lives and caused 140 injuries, becoming the most catastrophic hotel fire in Puerto Rican history and the second deadliest in the history of the United States. The three labor organizers were convicted of murder and sentenced to varying prison terms.`,
+        description: `On this day in 1986, striking hotel workers set fire to the Dupont Plaza Hotel in Puerto Rico in an attempt to scare off tourists; the fires burned out of control and killed more than 96 people.\n\nIn the weeks leading up to the fire, there was significant labor strife at the Dupont Plaza Hotel. The tension was so great that locals were advising tourists to stay away from the hotel and its casino.\n\nOn December 31st, hotel workers voted to go on strike, and three of the labor organizers used chafing fuel to set a storage room on the ground floor on fire.\n\nAlthough their intent was to merely pressure management into agreeing to union demands, it quickly burned out of control, spreading to the adjacent ballroom and then casino. To prevent theft, hotel managers had locked emergency exits from the casino, and most of the deaths occurred there.\n\nThe fire claimed between 96 and 98 lives and caused 140 injuries, becoming the most catastrophic hotel fire in Puerto Rican history and the second deadliest in the history of the United States. The three labor organizers were convicted of murder and sentenced to varying prison terms.`,
         link: 'https://www.nfpa.org/News-and-Research/Publications-and-media/NFPA-Journal/2012/November-December-2012/News-and-Analysis/Looking-Back',
         infoSrc: 'https://en.wikipedia.org/wiki/Dupont_Plaza_Hotel_arson'
       },
