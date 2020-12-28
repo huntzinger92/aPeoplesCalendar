@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, View, ScrollView, TouchableOpacity, Linking, Image, Dimensions } from 'react-native';
 import {StyledText} from './styledText.js';
 import {styles} from './styles.js';
-import { Ionicons } from '@expo/vector-icons';
+import { AntDesign } from '@expo/vector-icons';
 import resolveAssetSource from 'react-native/Libraries/Image/resolveAssetSource';
 
 //responsible for styling/rendering the data for a specific, user selected event. Rendered inside of calendarDisplay.js
@@ -36,7 +36,7 @@ export class SpecificEvent extends React.Component {
       <View style={{marginBottom: 15, marginTop: 10}}>
         <View style={{marginTop: 7, width: '90%', marginLeft: 'auto', marginRight: 'auto'}}>
           <TouchableOpacity onPress={() => this.props.setDisplay('all')} style={{alignContent: 'center', width: 70}}>
-            <Ionicons name="md-arrow-round-back" size={32} color="black"/>
+            <AntDesign name="arrowleft" size={32} color="black" />
           </TouchableOpacity>
         </View>
         <View style={styles.descriptionWrapper}>
@@ -63,17 +63,19 @@ export class SpecificEvent extends React.Component {
             >
               <StyledText text="Source" style={styles.linkText}/>
             </TouchableOpacity>
-            {this.props.event.infoSrc !== this.props.event.link && <TouchableOpacity
-              style={styles.linkWrapper}
-              onPress={() => Linking.openURL(this.props.event.link)}
-            >
-              <StyledText text="Learn More" style={styles.linkText}/>
-            </TouchableOpacity>}
+            {this.props.event.infoSrc !== this.props.event.link && 
+              <TouchableOpacity
+                style={styles.linkWrapper}
+                onPress={() => Linking.openURL(this.props.event.link)}
+              >
+                <StyledText text="Learn More" style={styles.linkText}/>
+              </TouchableOpacity>
+            }
           </View>
         </View>
         <View style={{marginTop: 7, width: '90%', marginLeft: 'auto', marginRight: 'auto'}}>
           <TouchableOpacity onPress={() => this.props.setDisplay('all')} style={{alignContent: 'center', width: 70}}>
-            <Ionicons name="md-arrow-round-back" size={32} color="black"/>
+            <AntDesign name="arrowleft" size={32} color="black" />
           </TouchableOpacity>
         </View>
       </View>

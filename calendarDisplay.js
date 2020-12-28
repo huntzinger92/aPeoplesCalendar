@@ -92,7 +92,18 @@ export class CalendarDisplay extends React.Component {
               />
               <TouchableOpacity
                 onPress={() => Linking.openURL('https://docs.google.com/forms/d/e/1FAIpQLScWvVl15jwOMNyltSzl3elc_mEQzRqamlkKy0HpEvX3fYt_sA/viewform')}
-                style={{backgroundColor: '#1c1c1c', borderRadius: 5, marginTop: 15, marginLeft: 'auto', marginRight: 'auto', borderWidth: 1, padding: 12, width: 240, justifyContent: 'center'}}
+                style={{
+                  backgroundColor: '#1c1c1c', 
+                  borderRadius: 5, 
+                  marginTop: 15, 
+                  marginLeft: 'auto', 
+                  marginRight: 'auto', 
+                  borderWidth: 1, 
+                  padding: 12, 
+                  width: 240, 
+                  justifyContent: 'center',
+                  textAlign: 'center',
+                }}
               >
                 <StyledText
                   text="Suggest an Entry"

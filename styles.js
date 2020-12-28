@@ -156,7 +156,7 @@ export const styles = StyleSheet.create({
     marginTop: 15,
   },
   linkText: {
-    fontSize: 24,
+    fontSize: 21,
     color: 'white',
     marginLeft: 'auto',
     marginRight: 'auto',
@@ -167,7 +167,7 @@ export const styles = StyleSheet.create({
     borderWidth: 1,
     borderRadius: 10,
     padding: 10,
-    width: 160,
+    width: 142,
   },
   main: {
     marginTop: -10

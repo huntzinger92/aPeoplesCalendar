@@ -15,7 +15,7 @@ import DateTimePicker from '@react-native-community/datetimepicker';
 //icons
 import {AntDesign} from '@expo/vector-icons';
 import {Feather} from '@expo/vector-icons';
-//import {NotificationTest} from './NotificationTest.js';
+import {NotificationTest} from './NotificationTest.js';
 
 //notification stuff (on To Do list, expo's docs are a bit complicated)
 //import {Constants, Notifications, Permissions} from 'expo';
@@ -316,6 +316,7 @@ export default class App extends React.Component {
                 search={false}
               />
             }
+            {/*this.state.display === 'about' && <NotificationTest/>*/}
             {this.state.display === 'about' && <About/>}
             {this.state.display === 'search' &&
               <CalendarDisplay

@@ -18,20 +18,15 @@ export function About() {
       </View>
       <View style={styles.aboutHeaderWrapper}>
         <StyledText
-          text="About Us"
+          text="About"
           style={styles.aboutHeader}
         />
       </View>
-      <Image
+      
+      {/*<Image
         source={require('./assets/eventPhotos/Individuals/mauriceBishop.jpg')}
         style={{width: win.width, height: height * ratio}}
-      />
-      {/*<View style={{borderWidth: 1}}>
-        <Image
-          source={require('./assets/eventPhotos/Individuals/mauriceBishop.jpg')}
-          style={{width: '100%', resizeMode: 'center'}}
-        />
-      </View>*/}
+      />*/}
       <StyledText
         text="A People's Calendar (aPC) seeks to promote the worldwide history of working class movements and liberation struggles."
         style={styles.aboutText}
@@ -59,7 +54,7 @@ export function About() {
         style={styles.aboutText}
       />
       <TouchableOpacity style={styles.contactButton} onPress={() => Linking.openURL('mailto:aPeoplesCalendar@gmail.com')}>
-        <StyledText text='Contact' style={{fontSize: 27, color: 'white', marginLeft: 15, marginRight: 15,}}/>
+        <StyledText text='Contact' style={{fontSize: 24, color: 'white', marginLeft: 15, marginRight: 15,}}/>
       </TouchableOpacity>
     </ScrollView>
   );
