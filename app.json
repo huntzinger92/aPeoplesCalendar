@@ -30,7 +30,8 @@
     },
     "android": {
       "package": "com.aPeoplesCalendar.aPC",
-      "versionCode": 2
+      "versionCode": 2,
+      
     }
   }
 }

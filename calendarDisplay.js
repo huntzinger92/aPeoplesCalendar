@@ -2,8 +2,6 @@ import React from 'react';
 import { Text, View, ScrollView, BackHandler, TouchableOpacity, Linking } from 'react-native';
 import {StyledText} from './styledText.js';
 import {styles} from './styles.js';
-
-import {eventLibrary} from './eventLibrary.js';
 import {SpecificEvent} from './specificEvent.js';
 import { Ionicons } from '@expo/vector-icons';
 

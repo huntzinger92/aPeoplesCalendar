@@ -7,8 +7,6 @@ import { StatusBar, Keyboard, Text, View, ScrollView, BackHandler, TouchableOpac
 import {StyledText} from './styledText.js';
 import {CalendarDisplay} from './calendarDisplay.js';
 import {About} from './aboutComponent.js';
-//donateComponent.js is not used, but keeping it here in case I decide to build a donate view
-import {Donate} from './donateComponent.js';
 //eventLibrary (big JSON of all events)
 import {eventLibrary} from './eventLibrary.js';
 //styles
@@ -17,6 +15,7 @@ import DateTimePicker from '@react-native-community/datetimepicker';
 //icons
 import {AntDesign} from '@expo/vector-icons';
 import {Feather} from '@expo/vector-icons';
+//import {NotificationTest} from './NotificationTest.js';
 
 //notification stuff (on To Do list, expo's docs are a bit complicated)
 //import {Constants, Notifications, Permissions} from 'expo';
@@ -120,7 +119,7 @@ export default class App extends React.Component {
   searchEvents() {
     //iterate over each day, each day's category, each day's category's list of events, see if this.state.searchValue is in the event's description
     //if it is, add that event to the "artificial" day that is created from search results (held as this.searchEventsResult)
-    //this day is then passed to calendarDisplay, retaining all the funcitonality of a calendar day's events
+    //this day is then passed to calendarDisplay, retaining all the functionality of a calendar day's events
 
     //dismiss Keyboard
     Keyboard.dismiss();
@@ -259,7 +258,7 @@ export default class App extends React.Component {
         <View style={styles.onThisDay}>
           {!this.state.showSearchBar &&
             <View>
-              <StyledText text='On This Day in History' style={{fontSize: 26, textAlign: 'center', color: 'white'}}/>
+              <StyledText text='On This Day in History' style={{fontSize: 24, textAlign: 'center', color: 'white'}}/>
               <TouchableOpacity
                 onPress={() => this.toggleSearchView()}
                 style={styles.toggleSearchIconWrapper}
@@ -270,7 +269,7 @@ export default class App extends React.Component {
           }
           {this.state.showSearchBar &&
             <View>
-              <StyledText text='Search the Calendar!' style={{fontSize: 26, textAlign: 'center', color: 'white'}}/>
+              <StyledText text='Search the Calendar!' style={{fontSize: 24, textAlign: 'center', color: 'white'}}/>
               <TouchableOpacity
                 onPress={() => this.toggleSearchView()}
                 style={styles.toggleSearchIconWrapper}
@@ -299,8 +298,8 @@ export default class App extends React.Component {
           </View>}
         {!this.state.showSearchBar &&
           <TouchableOpacity style={styles.header} onPress={() => this.toggleDatePicker()}>
-            <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 26, color: 'white'}}/>
-            <AntDesign name='calendar' size={28} color='white' style={{position: 'absolute', right: 20, top: 11}}/>
+            <StyledText text={this.today.toDateString()} style={{marginLeft: 'auto', marginRight: 'auto', fontSize: 24, color: 'white'}}/>
+            <AntDesign name='calendar' size={28} color='white' style={{position: 'absolute', right: 12, top: 11}}/>
           </TouchableOpacity>}
         </View>}
         <ScrollView style={styles.everythingNotFooter} ref={(c) => {this.scrollViewRef = c}}>

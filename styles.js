@@ -203,7 +203,7 @@ export const styles = StyleSheet.create({
   },
   toggleSearchIconWrapper: {
     position: 'absolute',
-    right: 20,
+    right: 12,
     top: 3,
   },
   toggleSearchIcon: {
