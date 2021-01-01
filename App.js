@@ -316,8 +316,8 @@ export default class App extends React.Component {
                 search={false}
               />
             }
-            {/*this.state.display === 'about' && <NotificationTest/>*/}
-            {this.state.display === 'about' && <About/>}
+            {this.state.display === 'about' && <NotificationTest/>}
+            {/*this.state.display === 'about' && <About/>*/}
             {this.state.display === 'search' &&
               <CalendarDisplay
                 appDisplay={this.state.display}

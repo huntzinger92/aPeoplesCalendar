@@ -3,6 +3,7 @@ import * as Notifications from 'expo-notifications';
 import * as Permissions from 'expo-permissions';
 import React, { useState, useEffect, useRef } from 'react';
 import { Text, View, Button, Platform } from 'react-native';
+import {eventLibrary} from './eventLibrary.js';
 
 Notifications.setNotificationHandler({
   handleNotification: async () => ({
@@ -11,6 +12,29 @@ Notifications.setNotificationHandler({
     shouldSetBadge: false,
   }),
 });
+
+//get event of the day
+var now = new Date();
+var month = now.getMonth() + 1;
+var day = now.getDate();
+//for the actual getting of data:
+var initTodayString = month + '-' + day;
+//todaysEvents is an object of categories (Rebellion, Labor, etc.), where each prop is a list of events that happened otd
+var todaysEvents = eventLibrary[initTodayString];
+var categoryList = ['Revolution', 'Rebellion', 'Labor', 'Birthdays', 'Assassinations', 'Other'];
+var eventOfTheDay = {description: ''};
+for (var i = 0; i < categoryList.length; i++) {
+  var category = categoryList[i];
+  for (var j = 0; j < todaysEvents[category].length; j++) {
+    //console.log(todaysEvents[category][j].description.length);
+    if (todaysEvents[category][j].description.length >= eventOfTheDay.description.length) {
+      eventOfTheDay = todaysEvents[category][j];
+    };
+  };
+};
+//rough get on this day statement:
+var firstSentence = new RegExp('[^\.]*\.');
+var notifBody = eventOfTheDay.description.match(firstSentence)[0];
 
 export function NotificationTest() {
   const [expoPushToken, setExpoPushToken] = useState('');
@@ -61,11 +85,11 @@ export function NotificationTest() {
 async function schedulePushNotification() {
   await Notifications.scheduleNotificationAsync({
     content: {
-      title: "You've got mail! 📬",
-      body: 'Here is the notification body',
+      title: eventOfTheDay.title,
+      body: notifBody,
       data: { data: 'goes here' },
     },
-    trigger: { seconds: 2 },
+    trigger: { seconds: 10 },
   });
 }
 
