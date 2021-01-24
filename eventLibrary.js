@@ -1374,7 +1374,7 @@ export const eventLibrary = {
         date: 'January 20th, 1901',
         title: 'Juan García Oliver (1901 - 1980)',
         imgSrc: require('./assets/eventPhotos/Individuals/juanGarcia.jpg'),
-        description: `Juan García Oliver, born on this day in 1901, was a Spanish anarcho-syndicalist revolutionary, affiliated with the Confederación Nacional del Trabajo (CNT) and Minister of Justice of the Second Spanish Republic.\n\nHe was a leading figure of anarchism in Spain and fought on the side of the republic against fascists in the Spanish Civil War. During the war, García organized "People's War Schools", set up work camps for political detainees, abolished court fees were abolished, and wiped criminal records.\n\nWith the end of the Spanish Civil War in 1939, he settled in Sweden, Venezuela, and finally Mexico. In 1978, two years before his death, García Oliver published his autobiography, "El eco de los pasos".`,
+        description: `Juan García Oliver, born on this day in 1901, was a Spanish anarcho-syndicalist revolutionary, affiliated with the Confederación Nacional del Trabajo (CNT) and Minister of Justice of the Second Spanish Republic.\n\nHe was a leading figure of anarchism in Spain and fought on the side of the republic against fascists in the Spanish Civil War. During the war, García organized "People's War Schools", set up work camps for political detainees, abolished court fees, and wiped criminal records.\n\nWith the end of the Spanish Civil War in 1939, he settled in Sweden, Venezuela, and finally Mexico. In 1978, two years before his death, García Oliver published his autobiography, "El eco de los pasos".`,
         link: `https://libcom.org/history/%E2%80%9Crevolutionary-syndicalism-serves-proletariat-whereas-anarchism-one-brand-humanism%E2%80%9D-inte`,
         infoSrc: 'https://en.wikipedia.org/wiki/Juan_Garc%C3%ADa_Oliver'
       },
@@ -1666,9 +1666,27 @@ export const eventLibrary = {
         date: 'January 24th, 1930',
         title: 'Kim Chwa-chin Assassinated (1930)',
         imgSrc: require('./assets/eventPhotos/Individuals/kimChwaChin.jpg'),
-        description: `Kim Chwa-chin (1889 - 1930) was a Korean general, independence activist, and anarchist who was assassinated by Park Sang-sil, an agent of the Japanese colonial government. When Kim was 18, he released 50 families of slaves when he burned the slave registry and provided each family with enough land to live on, resulting in the first emancipation of slaves in modern Korea.\n\nIn 1918, Kim was one of 40 Korean representatives to sign the Korean Declaration of independence. He then joined the Korea Justice Corps, later becoming the general commander of the Northern Military Administration Office Army and playing a key role in the "Battle of Cheongsanri" against japanese forces.\n\nIn 1928, the Korea Independence Party was formed, and the following year, when the Korean General Association was established as the successor of the new people, Chwa-chin was designated as its President. During this process, conflicts between the nationalist and communist independence activists intensified. It was these tensions that led to Kim Chaw-chin's killing.`,
+        description: `Kim Chwa-chin (1889 - 1930) was a Korean general, independence activist, and anarchist who was assassinated by Park Sang-sil, an agent of the Japanese colonial government, on this day in 1930.\n\nWhen Kim was 18, he released 50 families of slaves when he burned the slave registry and provided each family with enough land to live on, resulting in the first emancipation of slaves in modern Korea.\n\nIn 1918, Kim was one of 40 Korean representatives to sign the Korean Declaration of independence. He then joined the Korea Justice Corps, later becoming the general commander of the Northern Military Administration Office Army and playing a key role in the "Battle of Cheongsanri" against japanese forces.\n\nIn 1928, the Korea Independence Party was formed, and the following year, when the Korean General Association was established, Chwa-chin was designated as its President. During this process, conflicts between the nationalist and communist independence activists intensified. It was these tensions that led to Kim Chaw-chin's killing.`,
         link: 'https://web.archive.org/web/20151226035222/http://english.hongseong.go.kr/eng/sub01_05_04.do',
         infoSrc: 'https://en.wikipedia.org/wiki/Kim_Chwa-chin'
+      },
+      {
+        category: 'Assassinations',
+        date: 'January 24th, 1977',
+        title: 'Atocha Massacre (1977)',
+        imgSrc: require('./assets/eventPhotos/Events/atochaMassacre.jpg'),
+        description: `On this day in 1977, the Atocha Massacre took place when Spanish fascists assassinated five labor activists from the Communist Party of Spain (PCE) and the workers' federation Comisiones Obreras.\n\nThe night of January 24th, three fascists entered a legal office run by the PCE in support of workers' rights. Their target was Joaquín Navarro, the general secretary of the transport union of the Comisiones Obreras, who at that time was leading a transport strike in Madrid. The attackers searched the office and found the eight remaining staff, however, not finding Navarro, as he had departed just before, they decided to kill all present.\n\nTold to raise their "little hands up high", the remaining eight people present were lined up against a wall and shot, killing four (the fifth victim was killed earlier) and injuring four people. One of the injured, Dolores Ruiz, was pregnant lost her child as a result of the attack.\n\nThe assassinations took place within the wider context of far-right reaction to Spain's transition to constitutional democracy following the death of dictator Francisco Franco two years prior Intended to provoke a violent left-wing response that would provide legitimacy for a subsequent right-wing counter coup d'état, the massacre had an immediate opposite effect, generating mass popular revulsion of the far-right and accelerating the legalization of the long-banned Communist Party.\n\nThe trial took place in February 1980 and the defendants were sentenced to a total of 464 years in jail, however several of the perpetrators escaped custody and fled to South America. After more than 20 years on the run, one the perpetrators, García Juliá, was arrested in Brazil in 2018. Juliá extradited to Spain in February 2020, and transferred to Soto del Real prison to serve the remainder of his sentence.`,
+        link: 'https://libcom.org/history/wildcat-spain-encounters-democracy-1976-1978',
+        infoSrc: 'https://en.wikipedia.org/wiki/1977_Atocha_massacre'
+      },
+      {
+        category: 'Assassinations',
+        date: 'January 24th, 1911',
+        title: 'High Treason Twelve Executed (1911)',
+        imgSrc: require('./assets/eventPhotos/Individuals/denjiroKanna.jpg'),
+        description: `On this day in 1911, the Japanese government executed twelve anarchists, including radical anarchist journalists Kanno Sugako and Kōtoku Shūsui (shown above), as part of a widespread crackdown on left-wing activism. Among those executed were Uchiyama Gudō, a Buddhist priest and socialist who spoke out against the Meiji government for its imperialism and advocated for conscripted soldiers to desert en masse.\n\nThe pretext for this crackdown was the "High Treason Incident", a plot to assassinate the Emperor of Japan. The incident began when police searched the room of Miyashita Takichi, a young lumbermill employee, and found materials which could be used to construct bombs, concluding that there was a broader conspiracy to harm the imperial family.\n\nOn the basis of this plot, the Japanese government rounded up leftist activists from all over the country. 24 of the 26 defendants actually brought to trial were sentenced to death, despite the evidence against nearly all of them being circumstantial.\n\nPrior to his execution, Kōtoku Shūsui, etched this message on the wall of his cell: "How has it come about that I have committed this grave crime? Today my trial is hidden from outside observers and I have even less liberty than previously to speak about these events. Perhaps in 100 years someone will speak out about them on my behalf."`,
+        link: 'https://libcom.org/blog/great-treason-incident-anarchism-japan-16082018',
+        infoSrc: 'https://www.amwenglish.com/articles/-taigyaku-jiken-an-introduction-to-the-anarchists-of-japan/'
       },
     ],
     'Other': [
@@ -1690,7 +1708,7 @@ export const eventLibrary = {
         date: 'January 25th, 2011',
         title: `Egyptian "Day of Anger" (2011)`,
         imgSrc: require('./assets/eventPhotos/Events/tahrirSquare.jpg'),
-        description: `On this day in 2011, known as the "Day of Anger" in Egypt, millions of Egyptians took the streets in protest in cities all across Egypt, including Cairo, Alexandria, Suez and Ismaïlia. The protests kicked off weeks of civil disobedience that successfully ousted Hosni Mubarak from power on February 11th, 2011.\n\nJournalist and activist Hossam el-Hamalawy gave this statement on the protests to Al-Jazeera:\n\n"People are fed up of Mubarak and of his dictatorship and of his torture chambers and of his failed economic policies. If Mubarak is not overthrown tomorrow then it will be the day after. If it's not the day after it's going to be next week."`,
+        description: `On this day in 2011, known as the "Day of Anger" in Egypt, millions of Egyptians took to the streets in massive anti-government protests in cities all across Egypt, including Cairo, Alexandria, Suez and Ismaïlia. The protests kicked off weeks of civil disobedience that successfully ousted Hosni Mubarak from power on February 11th, 2011.\n\nJournalist and activist Hossam el-Hamalawy gave this statement on the protests to Al-Jazeera:\n\n"People are fed up of Mubarak and of his dictatorship and of his torture chambers and of his failed economic policies. If Mubarak is not overthrown tomorrow then it will be the day after. If it's not the day after it's going to be next week."`,
         link: 'https://english.alaraby.co.uk/english/blog/2017/1/28/egypts-day-of-rage-six-years-on',
         infoSrc: 'https://en.wikipedia.org/wiki/Timeline_of_the_Egyptian_revolution_of_2011#25_January_%E2%80%93_Day_of_Anger'
       },
@@ -2274,7 +2292,7 @@ export const eventLibrary = {
         date: 'February 2nd, 1821',
         title: 'Battle of Cinderloo (1821)',
         imgSrc: require('./assets/eventPhotos/Events/cinderloo.jpg'),
-        description: `On this day, a crowd of 3,000 striking workers clashed with Yeomanry in present-day Telford, England, who fired into the crowd after workers refused an order to disperse.\n\nColliers across the Coalbrookdale Coalfields had gone on strike the previos day in response to the lowering of their wages, and production across the area came to a halt. A large body of men marched to ironworks at Madeley Wood and Dawley, blowing out all the furnaces, damaging machinery, and inciting non-striking workers to join in.\n\nBy mid-afternoon the next day, a crowd of 3,000 had gathered at Old Park, near two industrial spoil heaps known as the 'Cinders Hills'. Yeomanry were sent out to disperse the crowd, and they were read the Riot Act and ordered go home. When Yeomanry moved forward to arrest the ringleaders of the strike, they were assaulted by the crowd. After further attempts to control the protesters were frustrated, the Yeomanry fired onto the crowd, killing two.\n\nNine strikers were arrested - two were sentenced to death and the other seven served nine months of hard labor. The initial dispute which had caused the riot was resolved soon after, with some ironmasters agreeing to reduce the daily pay of the workers by 4d instead of 6d.`,
+        description: `On this day in 1821, a crowd of 3,000 striking workers in present-day Telford, England clashed with Yeomanry, who fired into the crowd after workers refused an order to disperse.\n\nColliers across the Coalbrookdale Coalfields had gone on strike the previos day in response to the lowering of their wages, and production across the area came to a halt. A large body of men marched to ironworks at Madeley Wood and Dawley, blowing out all the furnaces, damaging machinery, and inciting non-striking workers to join in.\n\nBy mid-afternoon the next day, a crowd of 3,000 had gathered at Old Park, near two industrial spoil heaps known as the 'Cinders Hills'. Yeomanry were sent out to disperse the crowd, and they were read the Riot Act and ordered go home. When Yeomanry moved forward to arrest the ringleaders of the strike, they were assaulted by the crowd. After further attempts to control the protesters were frustrated, the Yeomanry fired onto the crowd, killing two.\n\nNine strikers were arrested - two were sentenced to death and the other seven served nine months of hard labor. The initial dispute which had caused the riot was resolved soon after, with some ironmasters agreeing to reduce the daily pay of the workers by 4d instead of 6d.`,
         link: 'http://www.dawleyheritage.co.uk/unpublished-articles/355/battle-of-cinderloo-by-p-sherry',
         infoSrc: 'https://en.wikipedia.org/wiki/Cinderloo_Uprising'
       },
@@ -2421,7 +2439,7 @@ export const eventLibrary = {
         date: 'February 4th, 1869',
         title: 'Big Bill Haywood (1869 - 1928)',
         imgSrc: require('./assets/eventPhotos/Individuals/billHaywood.jpg'),
-        description: `William Dudley "Big Bill" Haywood, born on this day in 1869, was a founding member and leader of the Industrial Workers of the World (IWW) and a member of the executive committee of the Socialist Party of America. During the first two decades of the 20th century, Haywood was involved in several important labor battles, including the Colorado Labor Wars, the Lawrence Textile Strike, and other textile strikes in Massachusetts and New Jersey.\n\nHaywood was an advocate of industrial unionism, a labor philosophy that favors organizing all workers in an industry under one union, regardless of the specific trade or skill level. He believed that workers of all ethnicities should be united, and favored direct action over political action.\n\nHaywood was renowned for leading strikes in times of crisis. When martial law was declared during the Lawrence Textile Strike, Haywood traveled to the strike and implemented many innovative tactics to help the workers involved. One such ploy was to very publicly send the hungry children of striking workers to host families in other states, garnering good press for the working families.\n\nIn 1917, Big Bill Haywood was arrested for espionage, along with 164 other members of the IWW. He was convicted, and, while temporarily released from prison due to an appeal, fled to the Soviet Union, where he served as labor advisor to Vladimir Lenin and spend the rest of life.`,
+        description: `William "Big Bill" Haywood, born on this day in 1869, was a founding member and leader of the Industrial Workers of the World (IWW) and a member of the executive committee of the Socialist Party of America. During the first two decades of the 20th century, Haywood was involved in several important labor battles, including the Colorado Labor Wars, the Lawrence Textile Strike, and other textile strikes in Massachusetts and New Jersey.\n\nHaywood was an advocate of industrial unionism, a labor philosophy that favors organizing all workers in an industry under one union, regardless of the specific trade or skill level. He believed that workers of all ethnicities should be united, and favored direct action over political action.\n\nHaywood was renowned for leading strikes in times of crisis. When martial law was declared during the Lawrence Textile Strike, Haywood traveled to the strike and implemented many innovative tactics to help the workers involved. One such ploy was to very publicly send the hungry children of striking workers to host families in other states, garnering good press for the working families.\n\nIn 1917, Big Bill Haywood was arrested for espionage, along with 164 other members of the IWW. He was convicted, and, while temporarily released from prison due to an appeal, fled to the Soviet Union, where he served as labor advisor to Vladimir Lenin and spend the rest of life.`,
         link: 'https://www.marxists.org/archive/haywood-b/1922/04/prisoners.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Bill_Haywood'
       },
@@ -2430,7 +2448,7 @@ export const eventLibrary = {
         date: 'February 4th, 1913',
         title: 'Rosa Parks (1913 - 2005)',
         imgSrc: require('./assets/eventPhotos/Individuals/rosaParks.jpg'),
-        description: `Rosa Louise McCauley Parks, born on this day in 1913, was an American activist in the civil rights movement best known for her pivotal role in the Montgomery bus boycott. The United States Congress has called her "the first lady of civil rights" and "the mother of the freedom movement".\n\nParks was not the first person to resist bus segregation, but the National Association for the Advancement of Colored People (NAACP) believed that she was the best candidate for seeing through a court challenge after her arrest for civil disobedience in violating Alabama segregation laws.\n\nParks' prominence in the community and her willingness to become a controversial figure inspired the black community to boycott the Montgomery buses for over a year, the first major direct action campaign of the post-war civil rights movement.\n\nParks' act of defiance and the Montgomery bus boycott became important symbols of the movement. She became an international icon of resistance to racial segregation.`,
+        description: `Rosa Parks, born on this day in 1913, was an American activist in the civil rights movement best known for her pivotal role in the Montgomery Bus Boycott. The United States Congress has called her "the first lady of civil rights" and "the mother of the freedom movement".\n\nParks was not the first person to resist bus segregation, but the National Association for the Advancement of Colored People (NAACP) believed that she was the best candidate for seeing through a court challenge after her arrest for civil disobedience in violating Alabama segregation laws.\n\nParks' prominence in the community and her willingness to become a controversial figure inspired the black community to boycott the Montgomery buses for over a year, the first major direct action campaign of the post-war civil rights movement.\n\nParks' act of defiance and the Montgomery bus boycott became important symbols of the movement. She became an international icon of resistance to racial segregation.`,
         link: 'http://teacher.scholastic.com/rosa/interview.htm',
         infoSrc: 'https://en.wikipedia.org/wiki/Rosa_Parks'
       },
@@ -2439,7 +2457,7 @@ export const eventLibrary = {
         date: 'February 4th, 1921',
         title: 'Betty Friedan (1921 - 2006)',
         imgSrc: require('./assets/eventPhotos/Individuals/bettyFriedan.jpg'),
-        description: `Betty Friedan, born on this day in 1921, was an American feminist writer and activist. A leading figure in the women's movement in the United States, her 1963 book "The Feminine Mystique" is often credited with sparking the second wave of American feminism in the 20th century.\n\nIn 1966, Friedan co-founded and was elected the first president of the National Organization for Women (NOW), which aimed to bring women "into the mainstream of American society now [in] fully equal partnership with men."\n\nIn 1970, Friedan organized the nationwide Women's Strike for Equality on August 26th, the 50th anniversary of the Nineteenth Amendment to the United States Constitution granting women the right to vote.\n\nThe national strike was successful beyond expectations in broadening the feminist movement; the march led by Friedan in New York City alone attracted over 50,000 people. In 1971, Friedan joined other leading feminists to establish the National Women's Political Caucus.`,
+        description: `Betty Friedan, born on this day in 1921, was an American feminist activist and writer, authoring the widely influential "The Feminine Mystique" in 1963. "The Feminine Mystique" is often credited with sparking the second wave of American feminism in the 20th century.\n\nIn 1966, Friedan co-founded and was elected the first president of the National Organization for Women (NOW), which aimed to bring women "into the mainstream of American society now [in] fully equal partnership with men."\n\nIn 1970, Friedan organized the nationwide Women's Strike for Equality on August 26th, the 50th anniversary of the Nineteenth Amendment to the United States Constitution granting women the right to vote.\n\nThe national strike was successful beyond expectations in broadening the feminist movement; the march led by Friedan in New York City alone attracted over 50,000 people. In 1971, Friedan joined other leading feminists to establish the National Women's Political Caucus.`,
         link: 'https://www.womenshistory.org/education-resources/biographies/betty-friedan',
         infoSrc: 'https://en.wikipedia.org/wiki/Betty_Friedan'
       },
@@ -2461,7 +2479,7 @@ export const eventLibrary = {
         date: 'February 4th, 1793',
         title: 'Fugitive Slave Act (1793)',
         imgSrc: require('./assets/eventPhotos/Events/fugitiveSlaveAct.jpg'),
-        description: `The Fugitive Slave Act of 1793 was an Act of the United States Congress to give effect to the Fugitive Slave Clause of the U.S. Constitution (Article 4, Section 2, Clause 3), which was later overruled by the Thirteenth Amendment. The former guaranteed a right for a slaveholder to recover an escaped slave, and declared that the children of any escaped slave were still property of the slaveowner\n\nNotably, George Washington used the Fugitive Slave Act twice to try and recover one of his escaped slaves, named Oney Judge. Oney later gave an interview in the 1840s, stating that, even fifty years after escaping, she and her child could still be claimed as the legal property of Washington's descendants due to this law.`,
+        description: `The Fugitive Slave Act was an Act of the United States Congress passed on this day in 1793 that guaranteed the right of a slaveholder to recover an escaped slave and declared children of escaped slaves property of the slaveowner.\n\nNotably, George Washington used the Fugitive Slave Act twice to try and recover one of his escaped slaves, named Oney Judge. Oney later gave an interview in the 1840s, stating that, even fifty years after escaping, she and her child could still be claimed as the legal property of Washington's descendants due to this law.`,
         link: 'http://marthawashington.us/items/show/4',
         infoSrc: 'https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1793'
       },
@@ -2495,7 +2513,7 @@ export const eventLibrary = {
         category: 'Labor',
         date: 'February 5th, 1919',
         title: 'La Canadenca Strike (1919)',
-        imgSrc: require('./assets/eventPhotos/Events/canadencaStrike.jpg'),
+        imgSrc: require('./assets/eventPhotos/Events/canadencaStrike.jpeg'),
         description: `The Canadenca strike was a general strike that began on this day in 1919, in Catalonia, Spain. The strike was initiated after an energy company, La Canadenca, reduced wages and fired over one hundred striking workers who were protesting the pay cuts. This and the curbing of labor rights prompted the rest of the workers at La Canadenca to go on strike and demand the readmission of those sacked and wage increases.\n\nThe strike soon spread to other companies in the sector via the CNT's union for water, gas and electricity workers. The lack of electricity in the city affected transport, hampering the provision of supplies and paralyzing 70% of factories in the province of Barcelona.\n\nA state of war was declared by the government and over 3,000 workers were detained. Despite this, the strike ended after two days on the conditions of no repercussions for participating workers, an increase in wages, and, most notably, an 8 hour work day.`,
         link: 'https://books.google.com/books?id=iN8I1fl9hl0C&pg=PT215&lpg=PT215&dq=La+Canadenca+strike&source=bl&ots=GCbBklHEAI&sig=ACfU3U2vuyLI-PjXZOCWwChMk7LJqALpHg&hl=en&sa=X&ved=2ahUKEwjAx7n-iZzqAhVOGs0KHQU1DUI4ChDoATABegQIChAB#v=onepage&q=La%20Canadenca%20strike&f=false',
         infoSrc: 'https://www.barcelona.cat/infobarcelona/en/barcelona-marks-the-centenary-of-the-canadenca-strike_797743.html'
@@ -2507,7 +2525,7 @@ export const eventLibrary = {
         date: 'February 5th, 1813',
         title: 'J.W. Loguen (1813 - 1872)',
         imgSrc: require('./assets/eventPhotos/Individuals/jwLoguen.jpg'),
-        description: `Rev. Jermain Wesley Loguen, born on this day into slavery, was an African-American abolitionist and bishop of the African Methodist Episcopal Zion Church, and an author of the slave narrative "The Rev. J. W. Loguen, as a Slave and as a Freeman, a Narrative of Real Life".\n\nAt the age of 21, he escaped slavery via the Underground Railroad, and his home as a free man went on to become a major stop in the railroad. He also founded schools for black children in Utica and his city of resident, Syracuse, New York.\n\nOn October 1st, 1851, a slave he was harboring known as "Jerry" was arrested under the Fugitive Slave Act of 1850. The anti-slavery Liberty Party was holding its state convention in the city and, when word of the arrest spread, several hundred abolitionists broke into the city jail and freed Jerry. The event came to be widely known as the Jerry Rescue.`,
+        description: `Rev. Jermain Wesley Loguen, born into slavery on this day in 1813, was an abolitionist, bishop of the African Methodist Episcopal Church, and author of the slave narrative "The Rev. J. W. Loguen, as a Slave and as a Freeman, a Narrative of Real Life".\n\nAt the age of 21, he escaped slavery via the Underground Railroad, and his home as a free man went on to become a major stop in the railroad. He also founded schools for black children in Utica and his city of resident, Syracuse, New York.\n\nOn October 1st, 1851, a slave he was harboring known as "Jerry" was arrested under the Fugitive Slave Act of 1850. The anti-slavery Liberty Party was holding its state convention in the city and, when word of the arrest spread, several hundred abolitionists broke into the city jail and freed Jerry. The event came to be widely known as the Jerry Rescue.`,
         link: 'https://www.nationalabolitionhalloffameandmuseum.org/jermain-wesley-loguen.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Jermain_Wesley_Loguen'
       },
@@ -2564,7 +2582,7 @@ export const eventLibrary = {
         date: 'February 6th, 1919',
         title: 'Seattle General Strike (1919)',
         imgSrc: require('./assets/eventPhotos/Events/seattleGeneralStrike.jpg'),
-        description: `The Seattle General Strike of 1919 was a five-day general work stoppage by approximately 100,000 workers in the city of Seattle, Washington that began on this day in history. Dissatisfied workers in several unions began the strike to gain higher wages after two years of World War I wage controls. Government officials, the press, and much of the public viewed the strike as a radical attempt to subvert American institutions.\n\nDuring the strike, a cooperative body made up of rank and file workers from all the striking locals was formed, called the General Strike Committee. It acted as a "virtual counter-government for the city." The committee organized to provide essential services for the people of Seattle during the work stoppage. A system of food distribution was also established, which distributed as many as 30,000 meals each day.\n\nArmy veterans created an alternative to the police in order to maintain order. A group called the "Labor War Veteran's Guard" forbade the use of force and did not carry weapons, and used "persuasion only." Major General John F. Morrison, stationed in Seattle, claimed that he had never seen "a city so quiet and orderly."\n\nImmediately following the general strike's end, the Socialist Party headquarters was raided by police, and thirty-nine IWW members were arrested as "ringleaders of anarchy" despite playing a marginal role in the strike's development.`,
+        description: `The Seattle General Strike was a five-day general work stoppage by approximately 100,000 workers in the city of Seattle, Washington that began on this day in 1919. Dissatisfied workers in several unions began the strike to gain higher wages after two years of World War I wage controls. Government officials, the press, and much of the public viewed the strike as a radical attempt to subvert American institutions.\n\nDuring the strike, a cooperative body made up of rank and file workers from all the striking locals was formed, called the General Strike Committee. It acted as a "virtual counter-government for the city." The committee organized to provide essential services for the people of Seattle during the work stoppage. A system of food distribution was also established, which distributed as many as 30,000 meals each day.\n\nArmy veterans created an alternative to the police in order to maintain order. A group called the "Labor War Veteran's Guard" forbade the use of force and did not carry weapons, and used "persuasion only." Major General John F. Morrison, stationed in Seattle, claimed that he had never seen "a city so quiet and orderly."\n\nImmediately following the general strike's end, the Socialist Party headquarters was raided by police, and thirty-nine IWW members were arrested as "ringleaders of anarchy" despite playing a marginal role in the strike's development.`,
         link: 'http://depts.washington.edu/labhist/strike/index.shtml',
         infoSrc: 'https://en.wikipedia.org/wiki/Seattle_General_Strike'
       },
@@ -2620,7 +2638,7 @@ export const eventLibrary = {
         category: 'Rebellion',
         date: 'February 7th, 1949',
         title: 'Miguel García Death Sentence (1949)',
-        imgSrc: require('./assets/eventPhotos/Individuals/miguelGarcia.jpg'),
+        imgSrc: require('./assets/eventPhotos/Individuals/miguelGarcia.jpeg'),
         description: `On this day in 1949, anti-Francoist activist, anarchist, and writer Miguel García, along with 8 others, was sentenced to death by the fascist Spanish government. García (1909 - 1980) was a member of the Tallion Action Group who militantly opposed Franscisco Franco's fascism. His capture came during a brutal crackdown on political dissidents by Spanish security forces in October 1949.\n\nWell known writers and intellectuals, including Andre Breton, Albert Camus, Rene Char, Jean-Paul Sartre, and Ignazio Silone protested the planned executions. There was also support for the nine prisoners from the British Labour Party. For unknown reasons, four of the condemned men, including García, had their sentences commuted to life imprisonment. The other five were executed on March 14th, 1952, in Barcelona.\n\nHere are the names and a brief description of the five executed men:\n\nPedro Adrover Font, aged 44, was a major figure in the Barcelona anarchist resistance who had once placed a bomb under a cathedral in order to assassinate Franco.\n\nSantiago Amir Gruanas ("El Sheriff"), aged 38, was a guide and member of the anarchist resistance who had helped shot-down British airmen, Jews, and French Resistance members from France into Spain.\n\nGines Urrea Pina, aged 56, was a veteran of the Spanish Civil War and advocated for launching a new period of armed resistance against Franco.\n\nJose Perez Pedrero, nicknamed "Tragapanes" ("bread swallower") because he was always hungry, was a miner and had been involved in many guerrilla operations with the anarchist resistance.\n\nJorge Pons Argiles "Tarantula" was a farmer and, like Tragapanes, was involved with the guerrilla activities of the resistance.`,
         link: 'https://en.wikipedia.org/wiki/Miguel_Garc%C3%ADa_Garc%C3%ADa',
         infoSrc: 'https://www.katesharpleylibrary.net/dv42ss'
@@ -5048,24 +5066,24 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'March 12th, 1912',
+        title: 'Ala Gertner (1912 - 1945)',
+        imgSrc: require('./assets/eventPhotos/Individuals/alaGertner.jpg'),
+        description: `Ala Gertner, born on this day in 1912, was a Polish Jewish woman who helped facilitate the Sonderkommando revolt at Auschwitz, blowing up one of the crematoriums there, for which she was executed in 1945.\n\nGertner was a member of the Sonderkommandos, slave laborers forced to aid with the disposal of gas chamber victims during the Holocaust. At Auschwitz, Gertner worked in the warehouses at first, sorting the possessions of Jews who had been gassed. There, she met Roza Robota, who was active in the underground resistance.\n\nWhen Gertner was assigned to the munitions factory, she and Roza smuggled gunpowder to the Sonderkommando, who were building bombs and planning an escape. Gertner recruited other women to join the conspiracy and passed the stolen gunpowder to Roza.\n\nOn October 7th, 1944, the Sonderkommando blew up Crematorium IV, but the revolt was quickly quelled by armed SS guards. A lengthy investigation led the Nazis back to Gertner and Roza, and then to Estusia Wajcblum and Regina Safirsztajn, who were also implicated in the conspiracy. They were interrogated and tortured for weeks.\n\nGertner, along with three co-conspirators, were excecuted on January 5th or 6th (sources differ), 1945. This was the last public hanging at Auschwitz.`,
+        link: 'http://web-static.nypl.org/exhibitions/sala/gertner.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Ala_Gertner'
       },
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'March 12th, 1958',
+        title: 'Manol Vassev (1898 - 1958)',
+        imgSrc: require('./assets/eventPhotos/Individuals/manolVassev.jpg'),
+        description: `On this day in 1958, Bulgarian anarcho-syndicalist Manol Vassev was assassinated by Communist secret police the day before his release from prison. This entry is almost solely reliant on the work of leftist historian Nick Heath (linked below).\n\nA tobacco industry worker by trade Vassev turned to anarchism while serving at the front in World War I, becoming a labor organizer and speaker. Vassev was persecuted for this work, serving time in prison and having to assume a fake identity (he was born Jordan Sotirov, and adopted the name Manol Vassev to escape the authorities). He was also active in the resistance during World War II.\n\nHe was arrested by the Communist for the first time on March 10th, 1945, along with all the delegates to the national conference of the Anarchist Communist Federation at Kniajevo, near Sofia. He was interned at the concentration camp of Dupnitsa and then at Kutzian.\n\nAfter serving five years in prison, a trial was held for a second prison. Held in public, Vassev was accused of being an "agent in the pay of the Anglo-Americans". He interrupted the accusation, stating "It isn't me who signed the Teheran and Yalta treaties with the English and the Americans; it’s not me who went to London to kiss the skirt of the Queen of England!" He died the day before his release was scheduled, poised by the Bulgarian secret police.`,
+        link: 'https://libcom.org/library/martyrdom-manol-vassev-union-bulgarian-anarchists-exile',
+        infoSrc: 'https://libcom.org/history/articles/1898-1958-manol-vassev-sotirov'
       },
     ],
     'Other': [
@@ -11039,24 +11057,25 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'June 3rd, 2019',
+        title: 'Khartoum Massacre (2019)',
+        imgSrc: require('./assets/eventPhotos/Events/khartoumMassacre.jpg'),
+        description: `On this day in 2019, the Khartoum massacre took place when the Sudanese troops attacked sit-in protesters at military headquarters with heavy gunfire and teargas, killing at least 100 people and throwing their bodies into the Nile. 70 men and women were raped and several hundred civilians were injured. The internet in Sudan was blacked out for days following the massacre.\n\nThe sit-in emerged out of the Sudanese revolution, beginning with mass anti-government protests in December 2018.
+        On April 11th, the military removed Omar al-Bashir from power in a coup d'état and created a Transitional Military Council (TMC). Protesters supported by the Sudanese Professionals Association (SPA) and democratic opposition groups engaged in street demonstrations, demanding the TMC to turn over power to a civilian-led transitional government.\n\nIn the days following the massacre, anti-TMC protests became even more intense, and a general strike involving 60-100% of workers broke out. Roads were blocked, and almost all formal and informal businesses were closed, including, banks, public transport and Khartoum International Airport.`,
+        link: 'http://libcom.org/news/sudan-behind-massacre-khartoum-19062019',
+        infoSrc: 'https://en.wikipedia.org/wiki/Khartoum_massacre'
       },
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
+        category: 'Labor',
+        date: 'June 3rd, 2016',
+        title: `U.S. Disallows Women's Soccer Strike`,
         imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        description: `On this day in 2016, a U.S. federal judge sided with U.S. Soccer, ruling that the national women's soccer team would not be allowed to strike, despite their no-strike collective bargaining agreement expiring four years prior. The women's team was scheduled to perform in that year's summer Olympics, and the ruling prevented the possibility of using the opportunity to strike.\n\nJust the possibility of this work stoppage led U.S. Soccer to file a complaint in early February, seeking a court order to prevent a potential strike. As a result of the ruling, the players were compelled to work under the terms of a collective bargaining agreement that dated back to 2005.`,
+        link: 'https://libcom.org/blog/what-we-can-learn-us-womens-soccer-team-07062016',
+        infoSrc: 'https://www.npr.org/sections/thetwo-way/2016/06/03/480647427/u-s-women-s-soccer-team-cannot-go-on-strike-court-rules'
       },
     ],
     'Birthdays': [
@@ -11083,13 +11102,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 3rd, 1943',
+        title: 'Zoot Suit Riots (1943)',
+        imgSrc: require('./assets/eventPhotos/Events/zootSuitRiots.jpg'),
+        description: `On this day in 1943, the Zoot Suit Riots began when thousands of white American servicemen in California began indiscriminately attacking people (mostly Latinos) wearing Zoot Suits, which were seen as unpatriotic. The suits were ostensibly seen as unpatriotic due to wartime rations, although they were also racialized, with L.A. Councilman Norris Nelson stating "the zoot suit has become a badge of hoodlumism".\n\nThe riots began on the night of June 3rd when ~12 sailors and a group of young Mexicans in zoot suits began fighting. The LAPD responded to the incident "seeking to clean up Main Street from what they viewed as the loathsome influence of pachuco gangs", according to historian Luis Alvarez. The police arrested the sailors and not the Mexicans.\n\nThe next day, 200 sailors headed for East Los Angeles, a Mexican-American part of town, and attacked and stripped everyone they came across who were wearing zoot suits. Local press heralded the violence as cleaning up the town, and soon thousands of sailors joined the riot. Journalist Carey McWilliams described what happened like this:\n\n"Marching through the streets of downtown Los Angeles, a mob of several thousand soldiers, sailors, and civilians, proceeded to beat up every zoot suiter they could find. Pushing its way into the important motion picture theaters, the mob ordered the management to turn on the house lights and then ran up and down the aisles dragging Mexicans out of their seats. Streetcars were halted while Mexicans, and some Filipinos and Negroes, were jerked from their seats, pushed into the streets and beaten with a sadistic frenzy."\n\nThe L.A. City Council approved a resolution criminalizing zoot suits, although the ordinance was not signed into law. The Navy and Marine Corps Staff prohibited sailors from traveling to L.A. in an effort to curb the violence, however they officialy maintained that the men were acting in self-defense.`,
+        link: 'http://libcom.org/history/zoot-suit-rebellion',
+        infoSrc: 'https://en.wikipedia.org/wiki/Zoot_Suit_Riots'
       },
     ],
   },
