@@ -3191,7 +3191,7 @@ export const eventLibrary = {
         category: 'Rebellion',
         date: 'February 15th, 1968',
         title: 'San Quentin Prison Strike (1968)',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        imgSrc: require('./assets/eventPhotos/Events/sanQuentin.jpg'),
         description: `On this day in 1968, 1/5th of San Quentin's prison population of 3,900 risked the Warden's threat of an additional year behind bars by returning to their cells after breakfast, engaging in a work stoppage. One of the main grievances of the convicts was their inability to voice complaints about brutality from the prison guards.\n\nPrison authorities claimed that the strike was a failure and that there was only a "sick call" only slightly larger than normal, however reports from prisoners themselves indicated more than seven hundred went on strike the first day. The strike quickly grew in proportion - just a few days after it began, more than 80% of the prison population were refusing to work.\n\nThe prison warden declared a "general lockup", which confined all prisoners to their cells, and claimed the strike was over. Despite this, the prisoners considered their protest a victory, as prison work had successfully been stopped, and without the violence of other prison uprisings.`,
         link: 'https://voices.revealdigital.org/?a=d&d=BGJFHJH19680223.1.2&e=-------en-20--1--txt-txIN---------------1',
         infoSrc: 'https://voices.revealdigital.org/?a=d&d=BGJFHJH19680223.1.2&e=-------en-20--1--txt-txIN---------------1'
@@ -3377,7 +3377,7 @@ export const eventLibrary = {
         date: 'February 17th, 1942',
         title: 'Huey Newton (1942 - 1989)',
         imgSrc: require('./assets/eventPhotos/Individuals/hueyNewton.png'),
-        description: `Huey Newton, born on this day in 1942, was a Marxist-Leninist revolutionary who, along with fellow Merritt College student Bobby Seale, co-founded the Black Panther Party (1966 - 1982). Together with Seale, Newton created a ten-point program which laid out guidelines for how the African-American community could achieve liberation.\n\nIn the 1960s, under Newton's leadership, the Black Panther Party founded over 60 community support programs (renamed survival programs in 1971) including food banks, medical clinics, HIV support groups, sickle cell anemia tests, prison busing for families of inmates, legal advice seminars, clothing banks, housing co-ops, and their own ambulance service.\n\nThe most famous of these programs was the Free Breakfast for Children program which fed thousands of impoverished children daily during the early 1970s. Newton also co-founded the Black Panther newspaper service which became one of America's most widely distributed African-American newspapers. In 1967, he was involved in a shootout which led to the death of the police officer John Frey. Although arrested for the murder of Frey, the charges were eventually dismissed.\n\nDespite graduating from high school not knowing how to read, he taught himself literacy by reading Plato's Republic and earned a Ph.D. in social philosophy from the University of California at Santa Cruz's History of Consciousness program in 1980. In 1989, he was murdered in Oakland, California by Tyrone Robinson, a member of the Black Guerrilla Family.`,
+        description: `Huey Newton, born on this day in 1942, was a Marxist-Leninist revolutionary who, along with fellow Merritt College student Bobby Seale, co-founded the Black Panther Party (1966 - 1982). Together with Seale, Newton created a ten-point program which laid out guidelines for how the African-American community could achieve liberation.\n\nIn the 1960s, under Newton's leadership, the Black Panther Party founded over 60 community support programs (renamed survival programs in 1971) including food banks, medical clinics, HIV support groups, sickle cell anemia tests, prison busing for families of inmates, legal advice seminars, clothing banks, housing co-ops, and their own ambulance service.\n\nThe most famous of these programs was the Free Breakfast for Children program which fed thousands of impoverished children daily during the early 1970s. Newton also co-founded the Black Panther newspaper service which became one of America's most widely distributed African-American newspapers. In 1967, he was involved in a shootout which led to the death of the police officer John Frey. Although arrested for the murder of Frey, the charges were eventually dismissed.\n\nDespite graduating from high school illiterate, he taught himself how to read by reading Plato's Republic, latering earning a Ph.D. in social philosophy from the University of California at Santa Cruz's History of Consciousness program in 1980. In 1989, he was murdered in Oakland, California by Tyrone Robinson, a member of the Black Guerrilla Family.\n\n"Black Power is giving power to people who have not had power to determine their destiny." - Huey Newton`,
         link: 'http://digital.wustl.edu/e/eii/eiiweb/new5427.0458.119hueypnewton.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Huey_P._Newton'
       },
@@ -3502,7 +3502,7 @@ export const eventLibrary = {
         date: 'February 19th, 1910',
         title: 'Philadelphia General Strike (1910)',
         imgSrc: require('./assets/eventPhotos/Events/philadelphiaGeneralStrike.jpg'),
-        description: `On this day in 1910, the Philadelphia Rapid Transit Company (RTC) fire 173 union members, resulting in a series of escalating labor actions that led to a city-wide general strike.\n\nRTC fired the workers "for the good of the service" and hired replacement workers from New York City. Immediately after the firings, the union leadership ordered the strike, taking their respective trolley cars off the streets effective at 1:00 that afternoon.\n\nIn the following days, mobs of workers destroyed trolley property. A crowd of 2,000 seized a trolley set it on fire. Another crowd of 5,000 seized a crew working a trolley and beat them in the street. A bomb threat in Germantown was disregarded until dynamite was loaded onto the tracks by a mob of 2,000.\n\nWith the union threatening a general strike to hobble the city if strike breakers were brought in, RTC brought in 600 strike breakers, while denying they had done so. When the National Guard entered the city to provide protection for RTC, members of other unions throughout the city saw this as a clear signal that the city and state governments were uniting in favor of the companies against the unions and the entire city began a general strike.\n\nThe tactic was successful and RTC eventually agreed to a wage increase, the re-hiring of strikers within three months, and mediation of the initial 173 union-targeted firings.`,
+        description: `On this day in 1910, the Philadelphia Rapid Transit Company (RTC) fired 173 union members, resulting in a series of escalating labor actions that culminated in a city-wide general strike.\n\nRTC fired the workers "for the good of the service" and hired replacement workers from New York City. Immediately after the firings, the union leadership ordered the strike, taking their respective trolley cars off the streets effective at 1:00 that afternoon.\n\nIn the following days, mobs of workers destroyed trolley property. A crowd of 2,000 seized a trolley set it on fire. Another crowd of 5,000 seized a crew working a trolley and beat them in the street. A bomb threat in Germantown was disregarded until dynamite was loaded onto the tracks by a mob of 2,000.\n\nWith the union threatening a general strike to hobble the city if strike breakers were brought in, RTC brought in 600 strike breakers, while denying they had done so. When the National Guard entered the city to provide protection for RTC, members of other unions throughout the city saw this as a clear signal that the city and state governments were uniting in favor of the companies against the unions and the entire city began a general strike.\n\nThe tactic was successful and RTC eventually agreed to a wage increase, the re-hiring of strikers within three months, and mediation of the initial 173 union-targeted firings.`,
         link: 'https://philadelphiaencyclopedia.org/archive/general-strike-of-1910/',
         infoSrc: 'https://en.wikipedia.org/wiki/Philadelphia_general_strike_(1910)'
       },
@@ -3535,7 +3535,7 @@ export const eventLibrary = {
         date: 'February 19th, 1942',
         title: 'Executive Order 9066 (1942)',
         imgSrc: require('./assets/eventPhotos/Events/japaneseInternment.jpg'),
-        description: `On this day in 1942, President Franklin D. Roosevelt signed Executive Order 9066, authorizing the Secretary of War to deem certain areas "military zones", clearing the way for the incarceration of Japanese Americans, German Americans, and Italian Americans in concentration camps. By declaring wide swaths of domestic territory as "military zones", the state could provide legal justification for forcibly removing people deemed a threat from them.\n\nUsing a broad interpretation of Executive Order 9066, Lieutenant General John L. DeWitt issued orders declaring areas of the western United States as zones of exclusion under the Executive Order. As a result, approximately 112,000 men, women, and children of Japanese ancestry were evicted from the West Coast of the United States and held in American concentration camps and other confinement sites across the country.\n\nAmericans of Italian and German ancestry were also targeted by these restrictions, including internment. 11,000 people of German ancestry were interned, as were 3,000 people of Italian ancestry, along with some Jewish refugees. It wasn't until 1990 that surviving internees began to receive individual redress payments and a letter of apology.`,
+        description: `On this day in 1942, President Roosevelt signed Executive Order 9066, authorizing the Secretary of War to deem certain areas "military zones", leading directly to the internment of Japanese, German, and Italian Americans in concentration camps. By declaring wide swaths of domestic territory as "military zones", the state could provide legal justification for forcibly removing people deemed a threat from them.\n\nUsing a broad interpretation of Executive Order 9066, Lieutenant General John L. DeWitt issued orders declaring areas of the western United States as zones of exclusion under the Executive Order. As a result, approximately 112,000 men, women, and children of Japanese ancestry were evicted from the West Coast of the United States and held in American concentration camps and other confinement sites across the country.\n\nAmericans of Italian and German ancestry were also targeted by these restrictions, including internment. 11,000 people of German ancestry were interned, as were 3,000 people of Italian ancestry, along with some Jewish refugees. It wasn't until 1990 that surviving internees began to receive individual redress payments and a letter of apology.`,
         link: 'https://www.britannica.com/topic/Executive-Order-9066',
         infoSrc: 'https://en.wikipedia.org/wiki/Executive_Order_9066'
       },
@@ -3544,7 +3544,7 @@ export const eventLibrary = {
         date: 'February 19th, 1963',
         title: `"The Feminine Mystique" Published (1963)`,
         imgSrc: require('./assets/eventPhotos/Individuals/bettyFriedan.jpg'),
-        description: `The Feminine Mystique, published on this day in 1963, is a book by Betty Friedan that is widely credited with sparking the beginning of second-wave feminism in the United States. The next year, it was the number one non-fiction book in the U.S., selling over a million copies. The phrase "feminine mystique" was created by Friedan to illustrate the assumptions that women would be fulfilled from their housework, marriage, sexual lives, and children. Friedan sought to prove that housewives were unsatisfied but could not voice their feelings.\n\nDespite the undeniable importance of the book in feminist history, it has faced numerous criticisms. According to Kirsten Fermaglich and Lisa Fine, "women of color - African American, Latina, Asian American and Native American women - were completely absent from Friedan's vision, as were white working-class and poor women." Some research that the book is predicated on was also later discovered to be fraudulent.`,
+        description: `The Feminine Mystique, published on this day in 1963, is a book by Betty Friedan that is widely credited with sparking the beginning of second-wave feminism in the United States.\n\nThe next year, it was the number one non-fiction book in the U.S., selling over a million copies. The phrase "feminine mystique" was created by Friedan to illustrate the assumptions that women would be fulfilled from their housework, marriage, sexual lives, and children. Friedan sought to prove that housewives were unsatisfied but could not voice their feelings.\n\nDespite the undeniable importance of the book in feminist history, it has faced numerous criticisms. According to Kirsten Fermaglich and Lisa Fine, "women of color - African American, Latina, Asian American and Native American women - were completely absent from Friedan's vision, as were white working-class and poor women." Some research that the book is predicated on was also later discovered to be fraudulent.`,
         link: 'https://www.theatlantic.com/sexes/archive/2013/02/4-big-problems-with-the-feminine-mystique/273069/',
         infoSrc: 'https://en.wikipedia.org/wiki/The_Feminine_Mystique'
       },
@@ -3612,7 +3612,7 @@ export const eventLibrary = {
         date: 'February 20th, 2001',
         title: 'Frank Wamsutta James Passes (1923 - 2001)',
         imgSrc: require('./assets/eventPhotos/Individuals/frankWamsuttaJames.jpg'),
-        description: `Frank B. Wamsutta James was an Aquinnah Wampanoag elder and indigenous poliical activist who died on this day in 2001. James first came to national attention in 1970 when he, along with hundreds of other Native Americans and their supporters, went to Plymouth and declared Thanksgiving a National Day of Mourning for Native Americans.\n\nJames was initially invited to speak at this event, however the invitation was rescinded when the speech was read by organizers beforehand. Here is an excerpt of the speech he would have given:\n\n"I speak to you as a man -- a Wampanoag Man. I am a proud man, proud of my ancestry, my accomplishments won by a strict parental direction ("You must succeed - your face is a different color in this small Cape Cod community!"). I am a product of poverty and discrimination from these two social and economic diseases.\n\n...We, the Wampanoag, welcomed you, the white man, with open arms, little knowing that it was the beginning of the end; that before 50 years were to pass, the Wampanoag would no longer be a free people. What happened in those short 50 years? What has happened in the last 300 years?"`,
+        description: `Frank B. Wamsutta James was an Aquinnah Wampanoag elder and indigenous political activist who died on this day in 2001. James first came to national attention in 1970 when he, along with hundreds of other Native Americans and their supporters, went to Plymouth and declared Thanksgiving a National Day of Mourning for Native Americans.\n\nJames was initially invited to speak at this event, however the invitation was rescinded when the speech was read by organizers beforehand. Here is an excerpt of the speech he would have given:\n\n"I speak to you as a man -- a Wampanoag Man. I am a proud man, proud of my ancestry, my accomplishments won by a strict parental direction ("You must succeed - your face is a different color in this small Cape Cod community!"). I am a product of poverty and discrimination from these two social and economic diseases.\n\n...We, the Wampanoag, welcomed you, the white man, with open arms, little knowing that it was the beginning of the end; that before 50 years were to pass, the Wampanoag would no longer be a free people. What happened in those short 50 years? What has happened in the last 300 years?"`,
         link: 'http://www.uaine.org/suppressed_speech.htm',
         infoSrc: 'http://www.nativeweb.org/obituaries/wamsutta.html'
       },
@@ -11350,13 +11350,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 7th, 1968',
+        title: 'Women Ford Machinists Strike (1968)',
+        imgSrc: require('./assets/eventPhotos/Events/fordMachinists.jpg'),
+        description: `On this day in 1968, all 187 women employees working at a Ford factory in Dagenham, East London went on strike to demand equal pay for equal work, eventually leading to the Equal Pay Act of 1970.\n\nAt the factory, female workers were classified as unskilled workers (Category B), paid both less than "skilled" (Category C) workers and Category B male workers. Even teenage boys sweeping the floors were paid more than the women working there.\n\nIn response to this, all 187 women went on strike on June 7th, demanding equal pay for equal work. Despite their labor being classified as unskilled, car production halted within a week. The factory was forced to come to a complete standstill, eventually costing the company over $8 million. Despite this, Ford refused to negotiate.\n\nThe strike ended after Barbara Castle, the Secretary of State for Employment and Productivity, intervened, beginning a set of negotiations at which men were not allowed. The strike ended with an immediate increase of their rate of pay to 8% below that of men, rising to the full Category B rate the following year. In 1984, following an additional strike, the women were categorized as Category C.\n\nThe labor action is considered key to the passing of the Equal Pay Act 1970 prohibited inequality of treatment between men and women in Britain in terms of pay and conditions of employment. In 1978, despite its passage, women's relative position in the UK was still worse than in Italy, France, Germany, or the Benelux countries in 1972.`,
+        link: 'https://en.wikipedia.org/wiki/Equal_Pay_Act_1970',
+        infoSrc: 'https://libcom.org/history/1968-ford-female-employees-win-strike-equal-pay-dagenham'
       },
     ],
     'Birthdays': [
@@ -11407,13 +11407,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'June 8th, 1961',
+        title: 'Freedom Riders Arrested (1961)',
+        imgSrc: require('./assets/eventPhotos/Events/freedomRiders1961.jpg'),
+        description: `On this day in 1961, Freedom Riders protesting segregation (including Kwame Ture, Gwendolyn Green, and Joan Trumpauer Mulholl, shown) were arrested in Jackson, Mississippi and taken to Parchman Prison. Others arrested included Jan Triggs, Rev. Robert Wesby, Helen Wilson, Teri Perlman, Jane Rosett, and Travis Britt.\n\nThe Freedom Rides were a series of protests in response to Boynton vs. Virginia, a Supreme Court ruling that declared that buses and trains should be desegregated. Despite segregation being illegal, many southern states still maintained segregated public transit systems. Protesters challenged this by joining together in multi-racial groups and traveling on the busses.`,
+        link: 'https://snccdigital.org/events/freedom-rides/',
+        infoSrc: 'https://www.zinnedproject.org/news/tdih/freedom-riders-arrested/'
       },
     ],
     'Labor': [
@@ -11508,13 +11508,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'June 9th, 1944',
+        title: 'Johanna Kirchner (1889 - 1944)',
+        imgSrc: require('./assets/eventPhotos/Individuals/johannaKirchner.jpg'),
+        description: `Johanna "Hanna" Kirchner was a German anti-fascist and Social Democrat who was executed by the Nazis on this day in 1944 for "treasonably rooted herself in the evilest Marxist high-treason propaganda".\n\nKirchner was born into a family with social-democratic traditions, and Kirchner herself joined the Social Democratic Party of Germany (SPD) at the age of eighteen. When the Second World War broke out in 1939, Kirchner, a known anti-fascist and opponent of the Nazis, fled to France. While there, she collaborated with Eleonore Wolf, organizing the emigration of many officials of the workers' movement out of the Third Reich.\n\nIn 1942, Kirchner was arrested by the Vichy Régime and handed over to the Gestapo. Although she was initially sentenced to ten years' hard labor for treason, her case was brought back before the Volksgerichtshof in 1944, and she was sentenced to death for "treasonably rooted herself in the evilest Marxist high-treason propaganda" and "treasonably gathering cultural, economic, political, and military intelligence and communicating" Marxism. On the day of her death, she wrote to her children in her diary: "Keep Goethe's words in mind, 'Die and become'. Don't cry for me. I believe in a better future for you."`,
+        link: 'https://www.gdw-berlin.de/en/recess/biographies/index_of_persons/biographie/view-bio/johanna-kirchner/?no_cache=1',
+        infoSrc: 'https://en.wikipedia.org/wiki/Johanna_Kirchner'
       },
     ],
     'Other': [
@@ -13470,7 +13470,7 @@ export const eventLibrary = {
         date: 'July 6th, 1935',
         title: 'Wagner Act (1935)',
         imgSrc: require('./assets/eventPhotos/Events/wagnerAct.jpg'),
-        description: `The National Labor Relations Act of 1935 (also known as the Wagner Act) is a foundational statute of United States labor law which guarantees the right of private sector employees to organize into trade unions, engage in collective bargaining, and take collective action such as strikes.\n\nBecoming effective on this day in 1935, the law also set up a permanent three-member National Labor Relations Board (NLRB) with the power to hear and resolve labor disputes through quasi-judicial proceedings, and banned employers from refusing to negotiate with any union ratified by this board.\n\nCorporate interest was heavily against the law, and, when it was challenged in court, the U.S. Supreme Court eventually upheld (5-4) the constitutionality of the Wagner Act in "National Labor Relations Board v. Jones & Laughlin Steel Corp." Parts of the law would later be repealed or amended with the Taft-Hartley Act (1947).`,
+        description: `The National Labor Relations Act of 1935 is a statute of United States labor law that became effective on this day in 1935, which guaranteed the right of private sector employees to organize into trade unions, engage in collective bargaining, and strike.\n\nBecoming effective on this day in 1935, the law also set up a permanent three-member National Labor Relations Board (NLRB) with the power to hear and resolve labor disputes through quasi-judicial proceedings and banned employers from refusing to negotiate with any union ratified by this board.\n\nCorporate interest was heavily against the law, and, when it was challenged in court, the U.S. Supreme Court eventually upheld (5-4) the constitutionality of the Wagner Act in "National Labor Relations Board v. Jones & Laughlin Steel Corp." Parts of the law would later be repealed or amended with the Taft-Hartley Act (1947).`,
         link: 'https://en.wikipedia.org/wiki/National_Labor_Relations_Act_of_1935',
         infoSrc: 'https://www.britannica.com/topic/Wagner-Act'
       },
