@@ -3502,7 +3502,7 @@ export const eventLibrary = {
         date: 'February 19th, 1910',
         title: 'Philadelphia General Strike (1910)',
         imgSrc: require('./assets/eventPhotos/Events/philadelphiaGeneralStrike.jpg'),
-        description: `On this day in 1910, the Philadelphia Rapid Transit Company (RTC) fired 173 union members, resulting in a series of escalating labor actions that culminated in a city-wide general strike.\n\nRTC fired the workers "for the good of the service" and hired replacement workers from New York City. Immediately after the firings, the union leadership ordered the strike, taking their respective trolley cars off the streets effective at 1:00 that afternoon.\n\nIn the following days, mobs of workers destroyed trolley property. A crowd of 2,000 seized a trolley set it on fire. Another crowd of 5,000 seized a crew working a trolley and beat them in the street. A bomb threat in Germantown was disregarded until dynamite was loaded onto the tracks by a mob of 2,000.\n\nWith the union threatening a general strike to hobble the city if strike breakers were brought in, RTC brought in 600 strike breakers, while denying they had done so. When the National Guard entered the city to provide protection for RTC, members of other unions throughout the city saw this as a clear signal that the city and state governments were uniting in favor of the companies against the unions and the entire city began a general strike.\n\nThe tactic was successful and RTC eventually agreed to a wage increase, the re-hiring of strikers within three months, and mediation of the initial 173 union-targeted firings.`,
+        description: `On this day in 1910, the Philadelphia Rapid Transit Company (RTC) fired 173 union members, resulting in a series of escalating labor actions that culminated in a general strike.\n\nRTC fired the workers "for the good of the service" and hired replacement workers from New York City. Immediately after the firings, the union leadership ordered the strike, taking their respective trolley cars off the streets effective at 1:00 that afternoon.\n\nIn the following days, mobs of workers destroyed trolley property. A crowd of 2,000 seized a trolley set it on fire. Another crowd of 5,000 seized a crew working a trolley and beat them in the street. A bomb threat in Germantown was disregarded until dynamite was loaded onto the tracks by a mob of 2,000.\n\nWith the union threatening a general strike to hobble the city if strike breakers were brought in, RTC brought in 600 strike breakers, while denying they had done so. When the National Guard entered the city to provide protection for RTC, members of other unions throughout the city saw this as a clear signal that the city and state governments were uniting in favor of the companies against the unions and the entire city began a general strike.\n\nThe tactic was successful and RTC eventually agreed to a wage increase, the re-hiring of strikers within three months, and mediation of the initial 173 union-targeted firings.`,
         link: 'https://philadelphiaencyclopedia.org/archive/general-strike-of-1910/',
         infoSrc: 'https://en.wikipedia.org/wiki/Philadelphia_general_strike_(1910)'
       },
@@ -3535,7 +3535,7 @@ export const eventLibrary = {
         date: 'February 19th, 1942',
         title: 'Executive Order 9066 (1942)',
         imgSrc: require('./assets/eventPhotos/Events/japaneseInternment.jpg'),
-        description: `On this day in 1942, President Roosevelt signed Executive Order 9066, authorizing the Secretary of War to deem certain areas "military zones", leading directly to the internment of Japanese, German, and Italian Americans in concentration camps. By declaring wide swaths of domestic territory as "military zones", the state could provide legal justification for forcibly removing people deemed a threat from them.\n\nUsing a broad interpretation of Executive Order 9066, Lieutenant General John L. DeWitt issued orders declaring areas of the western United States as zones of exclusion under the Executive Order. As a result, approximately 112,000 men, women, and children of Japanese ancestry were evicted from the West Coast of the United States and held in American concentration camps and other confinement sites across the country.\n\nAmericans of Italian and German ancestry were also targeted by these restrictions, including internment. 11,000 people of German ancestry were interned, as were 3,000 people of Italian ancestry, along with some Jewish refugees. It wasn't until 1990 that surviving internees began to receive individual redress payments and a letter of apology.`,
+        description: `On this day in 1942, President Roosevelt signed Executive Order 9066, authorizing the Secretary of War to classify certain areas "military zones", leading to the internment of Japanese-Americans in concentration camps. By declaring wide swaths of domestic territory as "military zones", the state could provide legal justification for forcibly removing people deemed a threat from them.\n\nUsing a broad interpretation of Executive Order 9066, Lieutenant General John L. DeWitt issued orders declaring areas of the western United States as zones of exclusion under the Executive Order. As a result, approximately 112,000 men, women, and children of Japanese ancestry were evicted from the West Coast of the United States and held in American concentration camps and other confinement sites across the country.\n\nAmericans of Italian and German ancestry were also targeted by these restrictions, including internment. 11,000 people of German ancestry were interned, as were 3,000 people of Italian ancestry, along with some Jewish refugees. It wasn't until 1990 that surviving internees began to receive individual redress payments and a letter of apology.`,
         link: 'https://www.britannica.com/topic/Executive-Order-9066',
         infoSrc: 'https://en.wikipedia.org/wiki/Executive_Order_9066'
       },
@@ -3590,7 +3590,7 @@ export const eventLibrary = {
         date: 'February 20th, 1805',
         title: 'Angelina Grimké (1805 - 1879)',
         imgSrc: require('./assets/eventPhotos/Individuals/angelinaGrimke.jpg'),
-        description: `Angelina Grimké Weld, born on this day in 1805, was an American abolitionist and women's rights advocate, notable for being, along with her sister Sarah, one of the few southern white men to join the abolitionist cause.\n\nThe Grimké sisters were raised in Charleston, South Carolina, however they spent their adult lives in the North. Angelina was a notable orator and writer of the suffragist and abolitionist movement in the 1830s, published in the notable maganize "The Liberator".\n\nHere is an excerpt from a speech she gave at an integrated abolitionist meeting at Pennsylvania Hall in Philadelphia:\n\n"Those voices without ought to awaken and call out our warmest sympathies. Deluded beings! "they know not what they do." They know not that they are undermining their own rights and their own happiness, temporal and eternal. Do you ask, "what has the North to do with slavery?" Hear it -- hear it. Those voices without tell us that the spirit of slavery is here, and has been roused to wrath by our abolition speeches and conventions"\n\nBy the next day, Pennsylvania Hall was destroyed by arson. Angelina Grimké was its final speaker.`,
+        description: `Angelina Grimké Weld, born on this day in 1805, was an American abolitionist and women's rights advocate, notable for being, along with her sister Sarah, one of the few southern white women to join the abolitionist cause.\n\nThe Grimké sisters were raised in Charleston, South Carolina, however they spent their adult lives in the North. Angelina was a notable orator and writer of the suffragist and abolitionist movement in the 1830s, published in the notable maganize "The Liberator".\n\nHere is an excerpt from a speech she gave at an integrated abolitionist meeting at Pennsylvania Hall in Philadelphia, at which an angry crowd of protesters had gathered around:\n\n"Those voices without ought to awaken and call out our warmest sympathies. Deluded beings! "they know not what they do." They know not that they are undermining their own rights and their own happiness, temporal and eternal. Do you ask, "what has the North to do with slavery?" Hear it -- hear it. Those voices without tell us that the spirit of slavery is here, and has been roused to wrath by our abolition speeches and conventions".\n\nThe next day, Pennsylvania Hall was destroyed by arson. Angelina Grimké was its final speaker.`,
         link: 'https://www.womenshistory.org/education-resources/biographies/angelina-grimke-weld',
         infoSrc: 'https://en.wikipedia.org/wiki/Angelina_Grimk%C3%A9'
       },
@@ -11978,13 +11978,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'June 16th, 1953',
+        title: 'East German Uprising (1953)',
+        imgSrc: require('./assets/eventPhotos/Events/eastGerman1953.jpg'),
+        description: `On this day in 1953, in what became an uprising of more than one million people, 300 East German construction workers protested at government buildings, demanding the reversal of a 10% increase in work quotas.\n\nDue to an economic slump, the East German government had increased worker quotas (called "norms") by 10% across all state-owned factories. At the same time, the prices of food, health care, and public transportation had all significantly increased, leading to an effective monthly wage cut of 33%.\n\nAlthough the government quickly conceded on the matter of work quotas, the protests took on an anti-government character and spread quickly throughout all of East Germany. News of the initial strike had spread both through word of mouth and was strongly amplified by the Western "Radio in the American Sector" (RIAS), which provided sympathetic coverage of the protests.\n\nSoviet troops and tanks entered East Berlin on the morning of June 17th and violently clashed with the protesters, who had stormed government headquarters. The East German Stasi engaged in mass arrests of thousands of people and executed dozens more. Around 130 people were killed during the uprising, the vast majority of the dead being demonstrators.\n\nFollowing the successful repression of the uprising, many workers lost faith in East Germany's socialist state. The ruling Socialist Unity Party of Germany (SED) lost many members as a result. In response to the rebellion, the East German state expanded its surveillance of workers to more closely monitor discontent, leading to what journalist Chris Hedges called "the most efficient security and surveillance state" of its time.`,
+        link: 'https://libcom.org/library/1953-working-class-uprising-east-germany-cajo-brendel',
+        infoSrc: 'https://en.wikipedia.org/wiki/East_German_uprising_of_1953'
       },
     ],
     'Labor': [
@@ -12090,13 +12090,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 17th, 2015',
+        title: 'Charleston Church Massacre (2015)',
+        imgSrc: require('./assets/eventPhotos/Events/charlestonMassacre.jpg'),
+        description: `On this day in 2015, the Charleston Church Massacre took place in Charleston, South Carolina when white supremacist Dylann Roof entered Emanuel African Methodist Episcopal Church and shot twelve people, killing nine (shown). Roof targeted the church in part due to its stature; Emanuel AME is one of the oldest black churches in the United States and has long been a center for organizing events for civil rights campaigns.\n\nIn 2016, he was convicted of 33 federal hate crime and murder charges and later sentenced to death. The Charleston massacre was tied with a 1991 attack at a Buddhist temple in Waddell, Arizona for the deadliest mass shooting at a U.S. place of worship. Since then, however, two deadlier shootings have occurred at places of worship: the Sutherland Springs church shooting in 2017 and the Pittsburgh synagogue shooting in 2018.`,
+        link: 'https://www.npr.org/2020/06/17/878828088/5-years-after-charleston-church-massacre-what-have-we-learned',
+        infoSrc: 'https://en.wikipedia.org/wiki/Charleston_church_shooting'
       },
     ],
   },
@@ -12125,13 +12125,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 18th, 1984',
+        title: 'Battle of Orgreave (1984)',
+        imgSrc: require('./assets/eventPhotos/Events/battleOfOrgreave.jpg'),
+        description: `On this day in 1984, the Battle of Orgreave took place in Rotherham, England when 6,000 police offers attacked 5,000 picketing miners during the UK Miners' Strike of (1984-85), leading to one of the most violent clashes in British industrial history. Media reports at the time depicted the battle as "an act of self-defence by police who had come under attack", however the South Yorkshire Police (SYP) had to pay £425,000 in compensation to 39 miners for assault, wrongful arrest, unlawful detention and malicious prosecution in 1991.\n\nWhile the striking workers were dressed casually in t-shirts and not armed, the police came dressed in riot gear and were well-armed: they brought 42 horses, whose mounted officers wore helmets and carried staves twice as long as truncheons, and police with dogs were stationed at the side of the long field in front of the plant. Mounted police charged and attacked the picketers, and footage of the event contradicted the official police narrative regarding the level of force involved. 95 people were arrested and more than 100 were injured.\n\nJournalist Alastair Stewart characterized the Battle of Orgreave as "a defining and ghastly moment" that "changed, forever, the conduct of industrial relations and how this country functions as an economy and as a democracy".`,
+        link: 'https://www.theguardian.com/politics/2017/may/18/scandal-of-orgreave-miners-strike-hillsborough-theresa-may',
+        infoSrc: 'https://en.wikipedia.org/wiki/Battle_of_Orgreave'
       },
     ],
     'Birthdays': [
@@ -12140,7 +12140,7 @@ export const eventLibrary = {
         date: 'June 18th, 1804',
         title: 'George Thompson (1804 - 1878)',
         imgSrc: require('./assets/eventPhotos/Individuals/georgeThompson.jpg'),
-        description: `George Donisthorpe Thompson, born on this day in 1804, was a British anti-slavery orator and activist who toured giving lectures and worked for legislation while serving as a Member of Parliament. He was arguably one of the most important abolitionists and human rights lecturers in the United Kingdom and the United States.\n\nThompson grew up in a household that directly profited from the slave trade. His father worked on ships that transported enslaved Africans to the Caribbean and the Americas, and these stories convinced him slavery had to be abolished. He was friends with Frederick Douglass, and, on one visit to the United States, had to flee the country due to threats of violence from pro-slavery parties.`,
+        description: `George Donisthorpe Thompson, born on this day in 1804, was a British anti-slavery orator and activist who gave lecturing tours and worked for abolitionist legislation while serving as a Member of Parliament. Thompson was one of the most prominent and influential abolitionists and human rights lecturers in the United Kingdom and the United States.\n\nThompson grew up in a household that directly profited from the slave trade. His father worked on ships that transported enslaved Africans to the Caribbean and the Americas, and these stories convinced him slavery had to be abolished. He was friends with Frederick Douglass, and, on one visit to the United States, had to flee the country due to threats of violence from pro-slavery parties.`,
         link: 'https://en.wikipedia.org/wiki/George_Thompson_(abolitionist)',
         infoSrc: 'http://frederickdouglassinbritain.com/abolitionists/GeorgeThompson/'
       },
@@ -13064,13 +13064,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'June 30th, 1861',
+        title: 'Lambing Flat Riots (1860 - 1861)',
+        imgSrc: require('./assets/eventPhotos/Events/lambingFlatRiots.jpg'),
+        description: `On this day in 1861, the worst violence of the Lambing Flat Riots (1860 - 1861) occurred when a mob of 2,000-3,000 white people attacked 2,000 Chinese miners and drove them off the Lambing Flat, destroying their encampments and looting their possessions. The race riot came out of more than a decade of ethnic tensions between Chinese and European-born miners in Australia, tensions that became systematic violence the previous few years.\n\nThe violence was in part triggered in part by the Austrialian government rejecting a proposed restriction on Chinese immigration, as well as a false rumor that a new group of 1,500 Chinese people were en route to the area. Despite the government's initial reject of an anti-Chinese immigration bill, the Lambing Flat Riots led the New South Wales government to pass the Chinese Immigration Act in November 1861, severely limiting the flow of Chinese people into the colony.`,
+        link: 'https://www.britannica.com/event/Lambing-Flat-Riots',
+        infoSrc: 'https://en.wikipedia.org/wiki/Lambing_Flat_riots'
       },
     ],
   },
