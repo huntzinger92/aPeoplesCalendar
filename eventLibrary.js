@@ -4196,7 +4196,7 @@ export const eventLibrary = {
         date: 'February 29th, 2004',
         title: 'Haitian Coup (2004)',
         imgSrc: require('./assets/eventPhotos/Events/haiti2004.jpg'),
-        description: `On this day in 2004, a coup d'état took place in Haiti, ousting democratically elected President Jean-Bertrand Aristide in favor of Boniface Alexandre, the Chief Justice of the Haitian Supreme Court. Aristide was flown out of Haiti by U.S. personnel, and accounts differ on the nature of his exit. Aristide claims he was kidnapped and told to leave by the U.S. Haitian Embassy's chief of staff under threat of violence, although the U.S. government disputes this claim.\n\nIn the years leading up to the coup, rightwing paramilitary groups violently targeted activists and government officials aligned with the Aristide government. There were also incidents of police brutality against students protesting Aristide's government.\n\nIn the aftermath, Boniface Alexandre succeeded Aristide as interim president and petitioned the United Nations Security Council for the intervention of an international peacekeeping force. Within days, official U.N. troops the combined forces of U.S., Canadian, French and Chilean troops arrived on the island. Aristide was forced into exile in South Africa, although he returned to Haiti in 2011.`,
+        description: `On this day in 2004, a coup d'état took place in Haiti, ousting democratically elected President Jean-Bertrand Aristide in favor of Boniface Alexandre, the Chief Justice of the Haitian Supreme Court. Aristide was flown out of Haiti by U.S. personnel, and accounts differ on the precise nature of his exit. Aristide claims he was kidnapped and told to leave by the U.S. Haitian Embassy's chief of staff under threat of violence, although the U.S. government disputes this claim.\n\nIn the years leading up to the coup, right wing paramilitary groups violently targeted activists and government officials aligned with the Aristide government. There were also incidents of police brutality against students protesting Aristide's government.\n\nIn the aftermath, Boniface Alexandre succeeded Aristide as interim president and petitioned the United Nations Security Council for the intervention of an international peacekeeping force. Within days, official U.N. troops the combined forces of U.S., Canadian, French, and Chilean troops arrived on the island. Aristide was forced into exile in South Africa, although he returned to Haiti in 2011.`,
         link: 'https://www.cnn.com/2004/WORLD/americas/03/01/aristide.claim/',
         infoSrc: 'https://en.wikipedia.org/wiki/2004_Haitian_coup_d%27%C3%A9tat'
       },
@@ -14930,13 +14930,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Rebellion',
+        date: 'July 27th, 1973',
+        title: 'McAlester Prison Riot (1973)',
+        imgSrc: require('./assets/eventPhotos/Events/mcalesterRiot.jpg'),
+        description: `On this day in 1973, prisoners at the underfunded and overcrowded Oklahoma State Prison in McAlester seized control of the prison, taking 21 hostages and demanding amnesty, press coverage, and meetings with lawyers from the ACLU. The McAlester Riot is considered one of the worst prison riots in U.S. history.\n\nConditions at the prison were terrible: more than 2,200 people were crowded into the prison (nearly ten times as many as a post-riot investigation recommended) and correctional officers were underpaid and poorly trained. The crowding issue was made worse by Oklahoma governor David Hall's refusal to sign parole recommendations for drug offenders and individuals convicted of violent crimes.\n\nPrisoners released the hostages 24 hours after the uprising began, but retained control of the facility until August 4th. When the riot was over, three inmates had been killed and more than $20 million in damage had been done to twenty-four buildings. Despite the violence, conditions at the prison were not sufficiently improved to prevent more riots - another riot occurred at the Oklahoma State Prison in December 1985.`,
+        link: 'https://oklahomawatch.org/2013/07/25/three-days-of-mayhem-the-mcalester-prison-riot/',
+        infoSrc: 'https://www.okhistory.org/publications/enc/entry.php?entry=MC002'
       },
     ],
     'Labor': [
@@ -15708,13 +15708,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'August 6th, 1945',
+        title: 'U.S. Nukes Hiromshia (1945)',
+        imgSrc: require('./assets/eventPhotos/Events/hiroshima.jpeg'),
+        description: `On this day in 1945, the U.S. dropped a nuclear bomb on Hiroshima, instantly killing around 80,000 people (mostly civilians) and tens of thousands more over the following days.\n\nEye-witness accounts of the bombing's aftermath depicted a kind of apocalyptic horror: Father Wilhelm Kleinsorge, a German Jesuit priest, encountered a group of soliders whose "faces were wholly burned, their eye-sockets were hollow, the fluid from their melted eyes had run down their cheeks... Their mouths were mere swollen, pus-covered wounds, which they could not bear to stretch enough to admit the spout of the teapot." Dr. Michihiko Hachiya, a survivor, spoke of "streetcars were standing and inside were dozens of bodies, blackened beyond recognition. I saw fire reservoirs filled to the brim with dead bodies who looked as they had been boiled alive".\n\nPresident Harry Truman made the case to the public that the bombings of Hiroshima and Nagasaki as a necessary and humanitarian means of forcing Japan's surrender. This view was not held, however, by military commanders or leftist American dissidents.\n\nAmong the first Americans to denounce the bombing were Trotskyists such as James P. Cannon, who publicly called it "an unspeakable atrocity". The dissent of military commanders was not public, however. In 1950, Admiral William Leahy, Truman's chief of staff, wrote: "The use of this barbarous weapon at Hiroshima and Nagasaki was of no material assistance in our war against Japan". In his memoirs, President Eisenhower, then General of the Army, confessed that "dropping the bomb was completely unnecessary".`,
+        infoSrc: 'https://www.wsws.org/en/articles/2020/08/06/pers-a06.html',
+        link: 'https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki'
       },
     ],
   },
@@ -16591,13 +16591,13 @@ export const eventLibrary = {
   '8-19': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'August 19th, 1953',
+        title: `Iran coup d'état (1953)`,
+        imgSrc: require('./assets/eventPhotos/Events/iranCoup.jpg'),
+        description: `On this day in 1953, the U.S. and British-backed coup d'état began, instigated after the democratically elected Prime Minister Mohammad Mosaddegh was preparing to nationalize Iran's British-owned oil fields.\n\nMosaddegh had sought to audit the documents of the Anglo-Iranian Oil Company (AIOC), a British corporation (now part of BP) and to limit the company's control over Iranian oil reserves. When the AIOC refused to co-operate with the Iranian government, the parliament voted to nationalize Iran's oil industry and to expel foreign corporate representatives from the country.\n\nIn response, British began a worldwide boycott of Iranian oil to pressure Iran economically and engaged in subterfuge to undermine Mosaddegh's government. Judging Mosaddegh to be unreliable and fearing a communist takeover, Winston Churchill and the Eisenhower administration overthrew Iran's government. The coup action was also supported by the Iranian clergy, who opposed Mosaddegh's secularism.\n\nThe Central Intelligence Agency (CIA) hired mobsters to stage pro-Shah riots and paid others to travel to Tehran and take over the streets of the city. Between 200 and 300 people were killed in the ensuing mayhem. Mosaddegh was arrested, tried, and convicted of treason by the Shah's military court. His supporters were imprisoned and several received the death penalty. After the coup, the Shah ruled as a monarch for the next 26 years until he was overthrown in the Iranian Revolution in 1979.`,
+        link: 'https://libcom.org/history/iranian-coup-1953',
+        infoSrc: 'https://en.wikipedia.org/wiki/1953_Iranian_coup_d%27%C3%A9tat'
       },
     ],
     'Rebellion': [
@@ -16681,13 +16681,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'August 20th, 1948',
+        title: 'Zanzibar City General Strike (1948)',
+        imgSrc: require('./assets/eventPhotos/Events/zanzibarStrike.png'),
+        description: `On this day in 1948, workers of the British-owned African Wharfage Company (AWC) began a strike that would paralyze the city for weeks and lead to the government declaring a state of emergency.\n\nPart of the power of this strike came from the fact that the AWC held a monopoly on cargo shipping in the port of Zanzibar City - when their workers struck, supplies across the region were affected. One example of this is when, on August 26th, an Italian cruise liner arrived in Zanzibar seeking water supplies, but could not get it due to the dockworkers' strike.\n\nThe labor action did not begin as a labor strike. Abbas Othman, an AWC worker and strike leader, had attempted to involve other labor groups, they initially declined.\n\nAs food shortages began to occur, Zanzibar President Glenday ordered that all weapons were to be delivered to the police station and banned all meetings not approved by the Chief of Police. A few days later, he declared sweeping emergency powers that gave the government control over food and movement of people.\n\nDespite this repression, the general strike succeeded, both in the short term and the long. By December 1st, 1948, the AWC had increased all of their laborers' wage rates. Higher wages and better conditions were also put in place for workers involved in the packing of produce for export, the bakery trade, the soap and oil factories, government, and coconut husking. A Port Labour Advisory Committee was also formed to advise the government of labor conditions for port workers.`,
+        link: 'https://pdfs.semanticscholar.org/bbf5/4c0435715c8b9506b8fb6050669cc10813a2.pdf',
+        infoSrc: 'https://nvdatabase.swarthmore.edu/content/zanzibar-workers-general-strike-zanzibar-city-tanzania-1948'
       },
     ],
     'Birthdays': [
@@ -16925,13 +16925,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'August 23rd, 1927',
+        title: 'Sacco and Vanzetti Executed (1927)',
+        imgSrc: require('./assets/eventPhotos/Events/saccoVanzetti.jpg'),
+        description: `On this day in 1927, Italian immigrant anarchists Nicola Sacco and Bartolomeo Vanzetti were executed by the U.S. government after they were dubiously convicted of murder, leading to international episodes of protest and violence.\n\nSacco, born in 1891, was a shoemaker and a night watchman, who migrated to the United States at the age of seventeen. Vanzetti was a fishmonger born on June 11th, 1888. Two men met at a strike in 1917.\n\nAfter a deadly shoe store robbery in 1919, both Sacco and Vanzetti were arrested. When searched by police, both denied owning any guns, but were found to be holding loaded pistols. Sacco was found to have an Italian passport, anarchist literature, and a loaded .32 Colt Model 1903 automatic pistol. Vanzetti had four 12-gauge shotgun shells and a five-shot nickel-plated .38-caliber Harrington & Richardson revolver. Despite this, both Sacco and Vanzetti had solid alibis for where they were during the murder.\n\nAnti-Italian and anti-anarchist sentiments played a significant role in their trial. Presiding Judge Thayer was an avowed enemy of anarchists. When giving his final statement in 1927, Vanzetti said "I am suffering because I am a radical and indeed I am a radical; I have suffered because I am an Italian and indeed I am an Italian...if you could execute me two times, and if I could be reborn two other times, I would live again to do what I have done already."\n\nSacco and Vanzetti's arrest, trial, conviction, and execution became an international incident that caused an outrage among people of all political persuasions, not just anarchists. Among their advocates were Harvard law professor and future Supreme Court Justice Felix Frankfurter, who wrote that Judge Thayer's statement was "a farrago of misquotations, misrepresentations, suppressions, and mutilations",\n\nAnarchist supporters of Sacco and Vanzetti orchestrated campaigns on their behalf, both peaceful and non-violent. Bombing campaigns were undertaken, targeting Judge Thayer, Wall Street, and the American Embassy in Buenos Aires.\n\nDespite the advocacy on their behalf, the violence, and pleas for a re-trial, Sacco and Vanzetti's death sentences were not commuted. Vanzetti, in his final moments, shook hands with guards and thanked them for their kind treatment, read a statement proclaiming his innocence, and finally said, "I wish to forgive some people for what they are now doing to me." Sacco was next and walked quietly to the electric chair, then shouted "Farewell, mother."\n\nOn the 50th anniversary of the executions, Massachusetts Governor Michael Dukakis issued a proclamation that Sacco and Vanzetti had been unfairly tried and convicted and that "any disgrace should be forever removed from their names".`,
+        link: 'https://libcom.org/history/1916-1927-the-execution-of-sacco-and-vanzetti',
+        infoSrc: 'https://en.wikipedia.org/wiki/Sacco_and_Vanzetti'
       },
     ],
     'Other': [
@@ -25265,13 +25265,13 @@ export const eventLibrary = {
   '12-10': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'December 10th, 1956',
+        title: `Angola Liberation Movement (MLPA) Founded (1956)`,
+        imgSrc: require('./assets/eventPhotos/Organizations/mlpa.jpg'),
+        description: `On this day in 1956, the People's Movement for the Liberation of Angola (MPLA) was founded in a merger between two smaller communist and anti-colonial parties. The MPLA fought for their independence from Portuguese colonizers, alongside the African Party for the Independence of Guinea and Cape Verde (PAIGC), the Mozambique Liberation Front (FRELIMO) and CLSTP, forerunner of the Movement for the Liberation of São Tomé and Príncipe.\n\nFrom 1961 to 1974, the MLPA waged a guerrilla liberation war against the Portuguese colonial government in Angola. Following the Carnation Revolution in Portugal, the newly-established Portuguese military government granted Angola independence, which was to be led by a coalition of different anti-colonial liberation armies.\n\nThe coalition quickly broke apart, erupting into a civil war between the MPLA, the National Liberation Front of Angola (FNLA), and the Union for the Total Independence of Angola (UNITA). The MLPA won the war, and has ruled Angola since 1975.\n\nAt its first congress in 1977, the MPLA adopted Marxism-Leninism as its official ideology. Receiving military support from Cuba and the Soviet Union, they maintained control over most territory in Angola, despite extensive aid to the FNLA and UNITA from South Africa, Zaire, and the United States.\n\nBoth the MPLA and UNITA were complicit in war crimes; more than 500,000 civilians were killed during the civil war.\n\nAfter the end of the Cold War and collapse of the Soviet Union, the MPLA renounced Marxism-Leninism in favor of social democracy. Though no longer a proxy war between the USA and the USSR, the Angolan civil war lasted until 2002, when a peace agreement was finally reached.`,
+        link: 'https://www.britannica.com/topic/Popular-Movement-for-the-Liberation-of-Angola',
+        infoSrc: 'https://en.wikipedia.org/wiki/MPLA'
       },
     ],
     'Rebellion': [
@@ -26768,13 +26768,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'December 30th, 1905',
+        title: 'Idaho Governor Assassinated (1905)',
+        imgSrc: require('./assets/eventPhotos/Individuals/frankSteunenberg.jpg'),
+        description: `On this day in 1905, Idaho Govenor Frank Steunenberg, who had arrested striking workers en masse and detained them without trial, was assassinated by a bomb on the door to his office.\n\nThe event took place in the context of militant labor disputes in Idaho, in which the U.S. government crushed organizing by the Western Federation of Miners (WFM). Steunenberg took a hard line against these labor organizers, declaring martial law and asking President McKinley to send federal troops to assist him in crushing the union movement. \n\nThe unions, many of which had supported Steunenberg, felt betrayed. Activists were particularly angry about Steunenberg's attempts to justify his actions, with one stating "We have taken the monster by the throat and we are going to choke the life out of it. No halfway measures will be adopted. It is a plain case of the state or the union winning, and we do not propose that the state shall be defeated."\n\nNotable Pinkerton Agent James McParland was called in to investigate the murder. McParland arrested Harry Orchard, a stranger who had been staying at a local hotel, and helped him draft a confession, assuring Orchard that providing evidence against the WFM would prevent him from being executed. Orchard complied, naming William Hayward (general secretary of WFM), Charles Moyer (WFM president), and union member George Pettibone as accomplices.\n\nDuring the three month trial, the prosecutor was unable to present any information against Hayward, Moyer and Pettibone except for the testimony of Orchard. All three were acquitted. Harry Orchard, because he had provided evidence against the other men, received life imprisonment rather than the death penalty.`,
+        link: 'https://libcom.org/history/haywood-mayer-pettibone-case-louis-adamic',
+        infoSrc: 'https://spartacus-educational.com/USAsteunenberg.htm'
       },
     ],
     'Other': [
