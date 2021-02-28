@@ -4196,7 +4196,7 @@ export const eventLibrary = {
         date: 'February 29th, 2004',
         title: 'Haitian Coup (2004)',
         imgSrc: require('./assets/eventPhotos/Events/haiti2004.jpg'),
-        description: `On this day in 2004, a coup d'état took place in Haiti, ousting democratically elected President Jean-Bertrand Aristide in favor of Boniface Alexandre, the Chief Justice of the Haitian Supreme Court. Aristide was flown out of Haiti by U.S. personnel, and accounts differ on the precise nature of his exit. Aristide claims he was kidnapped and told to leave by the U.S. Haitian Embassy's chief of staff under threat of violence, although the U.S. government disputes this claim.\n\nIn the years leading up to the coup, right wing paramilitary groups violently targeted activists and government officials aligned with the Aristide government. There were also incidents of police brutality against students protesting Aristide's government.\n\nIn the aftermath, Boniface Alexandre succeeded Aristide as interim president and petitioned the United Nations Security Council for the intervention of an international peacekeeping force. Within days, official U.N. troops the combined forces of U.S., Canadian, French, and Chilean troops arrived on the island. Aristide was forced into exile in South Africa, although he returned to Haiti in 2011.`,
+        description: `On this day in 2004, a coup d'état took place in Haiti, ousting democratically elected President Jean-Bertrand Aristide in favor of Boniface Alexandre, the Chief Justice of the Haitian Supreme Court.\n\nAristide was flown out of Haiti by U.S. personnel, and accounts differ on the precise nature of his exit. Aristide claims he was kidnapped and told to leave by the U.S. Haitian Embassy's chief of staff under threat of violence, although the U.S. government disputes this claim.\n\nIn the years leading up to the coup, right wing paramilitary groups violently targeted activists and government officials aligned with the Aristide government. There were also incidents of police brutality against students protesting Aristide's government.\n\nIn the aftermath, Boniface Alexandre succeeded Aristide as interim president and petitioned the United Nations Security Council for the intervention of an international peacekeeping force. Within days, official U.N. troops the combined forces of U.S., Canadian, French, and Chilean troops arrived on the island. Aristide was forced into exile in South Africa, although he returned to Haiti in 2011.`,
         link: 'https://www.cnn.com/2004/WORLD/americas/03/01/aristide.claim/',
         infoSrc: 'https://en.wikipedia.org/wiki/2004_Haitian_coup_d%27%C3%A9tat'
       },
@@ -4260,6 +4260,17 @@ export const eventLibrary = {
   '3-1': {
     'Revolution': [
       {
+        category: 'Revolution',
+        date: 'March 1st, 1921',
+        title: 'Kronstadt Rebellion Begins (1921)',
+        imgSrc: require('./assets/eventPhotos/Events/kronstadtRebellion.jpg'),
+        description: `On this day in 1921, around 15,000 people assembled in the city of Kronstadt, demanding free elections, an end to censorship, and freedom of trade, marking the beginning the Kronstadt Rebellion against the Bolshevik government.\n\nThe uprising consisted of sailors, soldiers, and civilians, across a variety of political persuasions. It was the last major revolt against the Bolshevik regime on Russian territory during the Russian Civil War.\n\nThe rebellion took place in the context of a difficult winter in a Russia ruined by years of civil war. Protests and civil unrest were widespread, and the sailors in Kronstadt had actually deposed their commander, Raskolnikov, in late January.\n\nOn February 28th, in reaction to government suppression of protests in Petrograd, the sailors drafted a series of fifteen demands, including free elections, freedom of assembly for peasant and labor organizations, and the allowance of trade.\n\nOn March 2nd, a Provisional Revolutionary Committee was formed, demanding a "third revolution" to restore the values Kronstadt supporters felt the Bolsheviks had betrayed.\n\nThe Bolsheviks accused the Kronstadt rebels as being "counter-revolutionary" and moved to crush the rebellion by force. On March 7th, the Bolshevik government began attacking the island with small land forces and aerial bombardment, however little progress was made.\n\nOn March 16th, a Bolshevik force of 50,000 met and defeated the 15,000 rebels, seizing control of the island. 8,000 Kronstadt refugees crossed into Finland within a day of Kronstadt's fall, sabotaging the defenses as they left.\n\nAnarchists see the Kronstadt Rebellion as a righteous rebellion against an increasingly repressive Soviet state, while Bolsheviks view it as counter-revolutionary and petty bourgeois in character. For his part, Lenin regarded the episode as a critical challenge to the revolution, calling Kronstadt "undoubtedly more dangerous than Denikin, Yudenich, and Kolchak combined".`,
+        link: 'https://libcom.org/history/1921-the-kronstadt-rebellion',
+        infoSrc: 'https://en.wikipedia.org/wiki/Kronstadt_rebellion'
+      },
+    ],
+    'Rebellion': [
+      {
         category: '',
         date: '',
         title: '',
@@ -4269,24 +4280,13 @@ export const eventLibrary = {
         infoSrc: ''
       },
     ],
-    'Rebellion': [
-      {
-        category: 'Rebellion',
-        date: 'March 1st, 1921',
-        title: 'Kronstadt Rebellion (1921)',
-        imgSrc: require('./assets/eventPhotos/Events/kronstadtRebellion.jpg'),
-        description: `The Kronstadt Rebellion was an insurrection of the Soviet sailors, soldiers and civilians that began on this day in 1921 in the port city of Kronstadt, against the Bolshevik government of the Russian SFSR. It was the last major revolt against the Bolshevik regime on Russian territory during the Russian Civil War.\n\nLed by Stepan Petrichenko, the rebels, which included many Communists disappointed in the direction of the Bolshevik government, demanded a series of reforms, such as the election of new soviets, freedom of press and organization for anarchists and trade unionists, end persecution of the peasant class, and the dissolution of the bureaucratic organs of government created during the civil war.\n\nThe revolt began on March 1st, and was crushed by force on March 18th by the Red Army. Although there are no reliable figures for rebel battle losses, historians estimate that from 1,200-2,168 people were executed after the revolt and a similar number were detained in the Solovki Prison Camp.`,
-        link: 'https://libcom.org/history/1921-the-kronstadt-rebellion',
-        infoSrc: 'https://en.wikipedia.org/wiki/Kronstadt_rebellion'
-      },
-    ],
     'Labor': [
       {
         category: 'Labor',
         date: 'March 1st, 1886',
         title: 'Great Southwest Railroad Strike (1886)',
         imgSrc: require('./assets/eventPhotos/Events/greatSouthwestRailroad.jpg'),
-        description: `The Great Southwest Railroad Strike was a labor union strike involving more than 200,000 workers that began on this day in 1886. Railroad workers in five states struck against the Union Pacific and Missouri Pacific railroads, owned by railroad magnate Jay Gould. At the time of the strike, he controlled approximately 12% of all railroad in the U.S.\n\nAt least ten people were killed. The striking workers sabotaged rail lines and stopped traffic as far away as St. Louis. After two months of protest, the strike was called off on May 4th, without the workers winning their demands. The failure of the strike led directly to the collapse of the Knights of Labor and the formation of the American Federation of Labor (AFL).`,
+        description: `On this day in 1886, the Great Southwest Railroad Strike began, involving more than 200,000 workers throughout the Southwestern United States.\n\nThe strike began when an agreement between the Knights of Labor and Union Pacific to give notice and investigate all firings was violated where a Knight named Charles A. Hall in Marshall, Texas was fired for attending a union meeting on company time. In response, te District Assembly #101 of the Knights called a strike.\n\nWithin a week, more than 200,000 workers were on strike throughout Arkansas, Illinois, Kansas, Missouri and Texas, paralyzing railway lines with both inaction and sabotage.\n\nAt least nine people were killed in conflicts between police and crowds of striking workers. On April 9th in East St. Louis, eight deputies guarding a freight train shot into a crowd of strikers, killing six bystanders. The crowd responsed by setting the rail yards on fire.\n\nAfter two months of protest, the strike was called off on May 4th without the workers winning their demands. The failure of the strike led directly to the collapse of the Knights of Labor and the rise of the American Federation of Labor (AFL).`,
         link: 'https://www.historyisaweapon.com/defcon1/zinnbaron11.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Great_Southwest_railroad_strike_of_1886'
       },
@@ -4343,16 +4343,16 @@ export const eventLibrary = {
         date: 'March 2nd, 1964',
         title: 'Puyallup Fish-in (1964)',
         imgSrc: require('./assets/eventPhotos/Events/fishIn.jpg'),
-        description: `On this day in 1964, a group of indigenous activists, actor Marlon Brando, Episcopal clergyman John Yaryan, and Puyallup tribal leader Bob Satiacum illegally fished in the Puyallup River to protest the denial of treaty rights to Native Americans. This form of civil disobedience is known as a "fish-in", and in this case Brando and the clergyman were arrested.\n\nThis fish-in was staged by the National Indian Youth Council, a Native American civil rights organization formed in Gallup, New Mexico in 1961. It became part of the so-called "Fish Wars", a set of protests spanning decades in which Native American tribes around the Puget Sound pressured the U.S. government to recognize fishing rights granted by the Point No Point Treaty.\n\nThe protests eventually won Native Americans in the area the right to fish without state permits - in the 1974 case "United States v. Washington", U.S. District Court Judge George Hugo Boldt stated that treaty right fishermen must be allowed to take up to 50% of all potential fishing harvests and required that they have an equal voice in the management of the fishery.\n\nThe "Boldt Decision" was reaffirmed by the Supreme Court in 1979 and has been used as a precedent for handling other similar treaties.`,
+        description: `On this day in 1964, a group of indigenous rights activists, among them actor Marlon Brando and Puyallup tribal leader Bob Satiacum (shown) illegally fished in the Puyallup River to protest the denial of treaty rights to Native Americans. This form of civil disobedience is known as a "fish-in", and in this case Brando and an Episcopal clergyman were arrested.\n\nThe fish-in was staged by the National Indian Youth Council, a Native American civil rights organization formed in Gallup, New Mexico in 1961. It became part of the so-called "Fish Wars", a set of protests spanning decades in which Native American tribes around the Puget Sound pressured the U.S. government to recognize fishing rights granted by the Point No Point Treaty.\n\nThe protests eventually won indigenous people in the area the right to fish without state permits: in the 1974 case "United States v. Washington", U.S. District Court Judge George Hugo Boldt stated that treaty right fishermen must be allowed to take up to 50% of all potential fishing harvests and required that they have an equal voice in the management of the fishery.\n\nThe so-called "Boldt Decision" was reaffirmed by the Supreme Court in 1979 and has been used as a precedent for handling other similar treaties.`,
         link: 'https://en.wikipedia.org/wiki/Fish_Wars',
         infoSrc: 'https://www.historylink.org/File/5332'
       },
       {
         category: 'Rebellion',
         date: 'March 2nd, 1955',
-        title: 'Claudette Colvin (1939 - )',
+        title: 'Claudette Colvin Refuses to Move (1955)',
         imgSrc: require('./assets/eventPhotos/Individuals/claudetteColvin.jpg'),
-        description: `Claudette Colvin (1939 - ) is a retired American nurse aide who was a pioneer of the 1950s civil rights movement. On this day in 1955, she was arrested at the age of fifteen in Montgomery, Alabama for refusing to give up her seat to a white woman on a crowded, segregated bus. This occurred nine months before the more widely known incident in which Rosa Parks, secretary of the local chapter of the National Association for the Advancement of Colored People (NAACP), helped spark the 1955 Montgomery Bus Boycott.\n\nFor many years, Montgomery's black leaders did not publicize Colvin's pioneering effort. She was an unmarried teenager at the time, and was reportedly impregnated by a married man. It is widely accepted that Colvin was not accredited by the civil rights campaigners at the time due to her pregnancy shortly after the incident, with even Rosa Parks saying "If the white press got ahold of that information, they would have [had] a field day. They'd call her a bad girl, and her case wouldn't have a chance."\n\nColvin left Montgomery for New York City in 1958, because she had difficulty finding and keeping work following her participation in the federal court case that overturned bus segregation (similarly, Rosa Parks left Montgomery for Detroit in 1957). Colvin stated she was branded a troublemaker by many in her community. She withdrew from college and went on to become a nurse in Manhattan.`,
+        description: `On this day in 1955, 15-year old Claudette Colvin was arrested in Montgomery, Alabama for refusing to give up her seat to a white woman, nine months before the more widely known incident with Rosa Parks.\n\nHer arrest was not peaceful - Claudette was forcibly removed from the bus by police while shouting that her constitutional rights were being violated and she was successfully harassed while detained. Colvin was charged with disturbing the peace, violating the segregation laws, and battering and assaulting a police officer.\n\nParks was deliberately chosen by the NAACP as a more respectable person to predicate the struggle for civil rights on. She was married, employed, and worked as a secretary of the local chapter of the NAACP.\n\nColvin, however, was an unmarried teenager at the time and rumored to be pregnant by a married man. On Colvin's case, Parks stated "If the white press got ahold of that information, they would have [had] a field day. They'd call her a bad girl, and her case wouldn't have a chance."\n\nColvin left Montgomery for New York City in 1958 because she had difficulty finding and keeping work following her participation in the federal court case that overturned bus segregation (similarly, Rosa Parks left Montgomery for Detroit in 1957). Colvin stated she was branded a troublemaker by many in her community. She withdrew from college and went on to become a nurse in Manhattan.\n\nOn her act of defiance that day, Colvin stated "History kept me stuck to my seat. I felt the hand of Harriet Tubman pushing down on one shoulder and Sojourner Truth pushing down on the other."`,
         link: 'https://www.npr.org/2009/03/15/101719889/before-rosa-parks-there-was-claudette-colvin',
         infoSrc: 'https://en.wikipedia.org/wiki/Claudette_Colvin'
       },
@@ -4392,13 +4392,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: 'Other',
-        date: 'March 2rd, 1917',
-        title: 'Makhno Released From Prison (1917)',
-        imgSrc: require('./assets/eventPhotos/Individuals/Makhno.jpg'),
-        description: `Nestor Ivanovych Makhno (1889 - 1934) was a Ukrainian anarchist revolutionary and the commander of an independent anarchist army in Ukraine from 1917 - 1921. Makhno was the commander of the Revolutionary Insurrectionary Army of Ukraine, commonly referred to as the Makhnovshchina (loosely translated as "Makhno movement").\n\nIn 1908, due to a police spy within the anarchist group Hulyai Pole, Makhno was arrested and put in jail. Makhno and thirteen others were sentenced to death by hanging, however Makhno's sentence was commuted to life in prison due to his prior military service.\n\nOn this day in 1917, almost nine years later, Makhno was released from prison as a result of the February Revolution. After returning to Ukraine, he became a key figure in the organization of the "Revolutionary Insurrectionary Army of Ukraine" (also known as the "Black Army"), helping organize and protect an anarcho-communist movement in Ukraine. They were defeated by the Bolsheviks in 1921, and Makhno lived the rest of his life in exile in Paris.`,
-        link: 'https://en.wikipedia.org/wiki/Nestor_Makhno',
-        infoSrc: 'http://libcom.org/history/makhno-nestor-1889-1934'
+        category: '',
+        date: '',
+        title: '',
+        imgSrc: require('./assets/eventPhotos/empty.jpg'),
+        description: ``,
+        link: '',
+        infoSrc: ''
       },
     ],
   },
@@ -4464,7 +4464,7 @@ export const eventLibrary = {
         date: 'March 3rd, 1863',
         title: 'Enrollment Act of 1863',
         imgSrc: require('./assets/eventPhotos/Events/enrollmentAct.jpg'),
-        description: `The Enrollment Act of 1863, passed on this day, was an Act passed by the United States Congress during the American Civil War to provide fresh manpower for the Union Army. The Act was the first genuine national conscription law.\n\nThe law required the enrollment of every male citizen and those immigrants (aliens) who had filed for citizenship, between 20 and 45 years of age, unless exempted by the Act. Notably, this law allowed anyone to avoid service by paying $300 or hiring a substitute to take their place. A "Song of the Conscripts" was written in protest. One line read:\n\n"Since poverty has been our crime, we bow to thy decree; We are the poor and have no wealth to purchase liberty.`,
+        description: `The Enrollment Act of 1863, passed on this day, was the first national conscription law in the United States, explicitly allowing people to avoid service by paying $300 or hiring a substitute to take their place.\n\nThe Enrollment Act was passed by the United States Congress during the American Civil War to provide fresh manpower for the Union Army. It required the enrollment of every male citizen and those immigrants (aliens) who had filed for citizenship, between 20 and 45 years of age, unless exempted by the Act.\n\nIn protest of the law, a "Song of the Conscripts" was written, distributed later at the 1863 New York City Draft Riots. One verse reads:\n\n"We are coming, Father Abraham, three hundred thousand more,\n\nWe leave our homes and firesides with bleeding hearts and sore,\n\nSince poverty has been our crime, we bow to thy decree,\n\nWe are the poor who have no wealth to purchase liberty"`,
         link: 'https://www.historyisaweapon.com/defcon1/zinnother10.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Enrollment_Act'
       },
@@ -4472,8 +4472,8 @@ export const eventLibrary = {
         category: 'Other',
         date: 'March 3rd, 1919',
         title: 'Schenk v. United States (1919)',
-        imgSrc: require('./assets/eventPhotos/Individuals/charlesSchenck.jpg'),
-        description: `Schenck v. United States, decided on this day in 1919, helped define the limits of the First Amendment right to free speech, particularly during wartime. The ruling created the "clear and present danger" standard, which explains when the consequences of speech allow the government to limit it.\n\nIn this case, the court ruled that encouraging would-be soldiers to resist the draft was not protected by the 1st amendment. The Supreme Court made this ruling unanimously, upholding socialist activist Charles Schenck's conviction under the Espionage Act of 1917, after he distributed leaflets urging young men to resist the draft during World War I.`,
+        imgSrc: require('./assets/eventPhotos/Organizations/scotus.png'),
+        description: `Schenck v. United States, decided on this day in 1919, upheld the conviction of socialist activist Charles Schenck for encouraging young men to resist the draft, setting an important precedent for limiting First Amendment rights. The ruling established the "clear and present danger" standard for speech, allowing the state to repress speech on the basis of its consequences.\n\nIn this specific case, the court ruled that encouraging would-be soldiers to resist the draft was not protected by the First Amendment. The Supreme Court made this ruling unanimously, upholding socialist activist Charles Schenck's conviction under the Espionage Act of 1917, after he distributed leaflets urging young men to resist the draft during World War I.`,
         link: 'https://en.wikipedia.org/wiki/Schenck_v._United_States',
         infoSrc: 'http://landmarkcases.c-span.org/Case/5/Schenck-v-United-States#:~:text=Charles%20Schenck%20was%20arrested%20under,ruled%20to%20uphold%20the%20Act.'
       },
@@ -4587,7 +4587,7 @@ export const eventLibrary = {
         date: 'March 5th, 1871',
         title: 'Rosa Luxemburg (1871 - 1919)',
         imgSrc: require('./assets/eventPhotos/Individuals/rosaLuxemburg.jpg'),
-        description: `Rosa Luxemburg was a Polish Marxist, philosopher, economist, anti-war activist and revolutionary socialist who was born on this day in 1871. Successively, she was a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD) and finally, the Communist Party of Germany (KPD).\n\nIn 1918-19, Luxemberg publicly supported a violent rebellion against the German state. She was captured and summarily executed by the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Her body was thrown in the Landwehr Canal in Berlin.\n\nDue to her pointed criticism of both Leninist and more moderate social democratic schools of socialism, Luxemburg's legacy is a radical, but non-Leninist school of revolutionary socialist thought.`,
+        description: `Rosa Luxemburg, born on this day in 1871, was a Polish Marxist philosopher, economist, and revolutionary who was assassinated by the right-wing Freikorps paramilitary alongside her collaborator, Karl Liebknect.\n\nIn succession, Luxemberg was a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD) and, finally, the Communist Party of Germany (KPD), which she co-founded with Liebknecht.\n\nIn 1918-19, Luxemberg publicly supported a violent rebellion against the German state, organizing through the KPD and the Spartacist League. She was captured and summarily executed by the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Her body was thrown in the Landwehr Canal in Berlin.\n\nDue to her pointed criticism of both Leninist and more moderate social democratic schools of socialism, Luxemburg's legacy is a radical school of revolutionary socialist thought that provides an alternative to either\n\n"Without general elections, without freedom of the press, freedom of speech, freedom of assembly, without the free battle of opinions, life in every public institution withers away, becomes a caricature of itself, and bureaucracy rises as the only deciding factor." - Rosa Luxemburg`,
         link: 'https://www.versobooks.com/blogs/4203-the-many-interpretations-of-rosa-luxemburg-s-legacy',
         infoSrc: 'https://en.wikipedia.org/wiki/Rosa_Luxemburg'
       },
@@ -4596,7 +4596,7 @@ export const eventLibrary = {
         date: 'March 5th, 1871',
         title: 'John R. Lawson (1871 - 1945)',
         imgSrc: require('./assets/eventPhotos/Individuals/johnLawson.jpg'),
-        description: `John Rankin Lawson was a Colorado union leader and businessman born on this day in 1871. He was the leader of District 15 of the United Mine Workers of America (UMWA) at the time of the Colorado Coalfield War and the Ludlow Massacre (a brutal and violent suppression of a coal worker's strike).\n\nAlthough there were dozens of people were killed during the Ludlow Massacre, Lawson was the only person convicted of murder - for the death of a deputy sheriff who died at Ludlow. He was sentenced to a life of hard labor, but was freed on appeal to the Colorado Supreme Court.`,
+        description: `John Rankin Lawson, born on this day in 1871, was a union leader of the United Mine Workers of America (UMWA) at the time of the Colorado Coalfield War and the Ludlow Massacre (a violent suppression of a coal worker's strike).\n\nAlthough there were dozens of people were killed during the Ludlow Massacre, Lawson was the only person convicted of murder - for the death of a deputy sheriff who died at Ludlow. He was sentenced to a life of hard labor, but was freed on appeal to the Colorado Supreme Court.\n\nLawson also participated in the Cripple Creek Strike of 1903-04. During the strike, Lawson's family home was dynamited in an attack probably executed by mine operators. Although his family survived, his young daughter Fern was thrown from her crib by the blast.`,
         link: 'https://history.denverlibrary.org/colorado-biographies/john-r-lawson-1871-1945',
         infoSrc: 'https://en.wikipedia.org/wiki/John_R._Lawson'
       },
@@ -4652,8 +4652,8 @@ export const eventLibrary = {
         category: 'Labor',
         date: 'March 6th, 1984',
         title: "UK Miners' Strike (1984-85)",
-        imgSrc: require('./assets/eventPhotos/Events/britishMinersStrike.jpg'),
-        description: `The miners' strike of 1984-85 was a major industrial action to shut down the British coal industry in an attempt to prevent colliery closures. It was led by Arthur Scargill of the National Union of Mineworkers (NUM) against the National Coal Board (NCB), a government agency. Opposition to the strike was led by the Conservative government of Prime Minister Margaret Thatcher, who wanted to reduce the power of the trade unions.\n\nThe BBC called it "the most bitter industrial dispute in British history". The number of person-days of work lost to the strike was over 26 million, making it the largest since the 1926 general strike. The journalist Seumas Milne said of the strike, "it has no real parallel - in size, duration and impact - anywhere in the world"`,
+        imgSrc: require('./assets/eventPhotos/Events/britishMinersStrike.png'),
+        description: `On this day in 1984, the UK Miners' Strike of 1984-85 began, causing more than 26 million workdays to be lost and the BBC calling the strike "the most bitter industrial dispute in British history".\n\nThe strike action was led by Arthur Scargill of the National Union of Mineworkers (NUM), which sought to oppose colliery closures, using the possibility of energy shortages as leverage (a tactic used in 1972). Opposition to the strike was led by the Conservative government of Prime Minister Margaret Thatcher, who wanted to reduce the power of the trade unions.\n\nThe strike was ruled illegal in September 1984, as no national ballot of NUM members had been held, and the labor action failed on March 3rd, 1985. It was a defining moment in British industrial relations, with NUM's defeat significantly weakening the trade union movement and providing a major victory for Thatcher and the Conservative Party.\n\nThe number of strikes fell sharply in 1985, and all of Britain's working pits were closed in the following three decades. Poverty significantly increased in former coal mining areas; in 1994 Grimethorpe in South Yorkshire was the poorest settlement in the country.`,
         link: 'http://news.bbc.co.uk/onthisday/hi/dates/stories/march/12/newsid_3503000/3503346.stm',
         infoSrc: 'https://en.wikipedia.org/wiki/UK_miners%27_strike_(1984%E2%80%9385)'
       },
@@ -4709,8 +4709,8 @@ export const eventLibrary = {
         category: 'Rebellion',
         date: 'March 7th, 1965',
         title: `"Bloody Sunday" in Selma (1965)`,
-        imgSrc: require('./assets/eventPhotos/Events/bloodySunday.jpeg'),
-        description: `Bloody Sunday was an attack by police on civil rights protesters that happened on this day in 1965. The several hundred protesters were making their first of three attempts to march 54 miles, from Selma, Alabama to the state capitol, Montgomery, in protest of voting discrimination and segregationist repression.\n\nThe protest went according to plan until the marchers crossed the Edmund Pettus Bridge, where they encountered a wall of state troopers and county posse waiting for them on the other side. The police began assaulting the demonstrators, knocking many to the ground and beating them with nightsticks. Another detachment of troopers fired tear gas, and mounted troopers charged the crowd on horseback. One marcher, a fourteen year old girl, required 28 stiches in the back of her head.\n\nThis assault ended the first attempt of protesters to march to Montgomery, but it brought international attention to the protest. On March 21st, a third attempt was made to march to Montgomery, this one successful and culminating in 25,000 people marching to the State Capitol Building. The protest was a watershed moment in the civil rights struggle, and, by the next year, 11,000 black people successfully registered to vote in Selma.`,
+        imgSrc: require('./assets/eventPhotos/Events/bloodySunday.jpg'),
+        description: `Bloody Sunday was an attack by police on this day in 1965 on civil rights protesters attempting to march from Selma, Alabama to the state capitol, Montgomery, in protest of voting discrimination and racist oppression. The several hundred protesters were making their first of three attempts to complete the march, which was 54 miles long.\n\nThe march had gone according to plan until protesters crossed the Edmund Pettus Bridge, where they encountered a wall of state troopers and county posse waiting for them on the other side.\n\nThe police began assaulting the demonstrators, knocking many to the ground and beating them with nightsticks. Another detachment of troopers fired tear gas, and mounted troopers charged the crowd on horseback. One marcher, a fourteen year old girl, required 28 stiches in the back of her head.\n\nThis assault ended the first attempt of protesters to march to Montgomery, but it brought international attention to the protest. On March 21st, a third attempt was made to march to Montgomery, this one successful and culminating in 25,000 people arriving at the State Capitol Building.\n\nThe protest was a watershed moment in the civil rights struggle. By the next year, 11,000 black people successfully registered to vote in Selma.`,
         link: 'http://digital.wustl.edu/e/eop/eopweb/you0015.0111.115revandrewyoung.html',
         infoSrc: 'https://en.wikipedia.org/wiki/Selma_to_Montgomery_marches#%22Bloody_Sunday%22_events'
       },
@@ -4754,7 +4754,7 @@ export const eventLibrary = {
         date: 'March 7th, 1942',
         title: 'Lucy Parsons Passes (1942)',
         imgSrc: require('./assets/eventPhotos/Individuals/lucyParsons.jpg'),
-        description: `Lucy Eldine Gonzalez Parsons (1851 - 1942) was an American labor organizer, radical socialist and anarcho-communist. She is remembered as a powerful orator. Parsons entered the radical movement when she married fellow radical Albert Parsons and began contributing to the newspaper he edited, "The Alarm".\n\nFollowing her husband's 1887 infamous execution in relation to the events of the Haymarket affair, Parsons remained a leading American radical activist, as a founder of the Industrial Workers of the World and International Labor Defense. She passed away on this day in 1942.\n\nOne memorable quote of hers reads "My conception of the strike of the future is not to strike and go out and starve, but to strike and remain in, and take possession of the necessary property of production", which was an early anticipation of the sit-down strikes in the U.S. and worker takeovers of factories around the world.`,
+        description: `Lucy Parsons (1851 - 1942) was an American labor organizer and anarcho-communist who died on this day in 1942. Parsons entered the radical movement when she married fellow radical Albert Parsons and began contributing to the newspaper he edited, "The Alarm". She was also known for being a compelling speaker.\n\nFollowing her husband's 1887 infamous execution in relation to the events of the Haymarket affair, Parsons remained a leading American radical activist, co-founding both Industrial Workers of the World and International Labor Defense.\n\nParsons was prescient on the nature of labor conflict, stating "My conception of the strike of the future is not to strike and go out and starve, but to strike and remain in, and take possession of the necessary property of production", anticipating the tactics of sit-down strikes and worker occupations.`,
         link: 'https://www.blackpast.org/african-american-history/1886-lucy-parsons-i-am-anarchist/',
         infoSrc: 'https://en.wikipedia.org/wiki/Lucy_Parsons'
       },
@@ -5430,13 +5430,13 @@ export const eventLibrary = {
     ],
     'Other': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Other',
+        date: 'March 17th, 1917',
+        title: 'Makhno Released From Prison (1917)',
+        imgSrc: require('./assets/eventPhotos/Individuals/Makhno.jpg'),
+        description: `On this day in 1917, Ukrainian anarchist revolutionary Nestor Makhno was released from prison as part of the February Revolution. \n\nIn 1908, due to a police spy within the anarchist group Hulyai Pole, Makhno was arrested and put in jail. Makhno and thirteen others were sentenced to death by hanging, however Makhno's sentence was commuted to life in prison due to his prior military service.\n\nAfter returning to Ukraine, he became a key figure in the organization of the "Revolutionary Insurrectionary Army of Ukraine" (also known as the "Black Army"), which helped organize and protect an anarcho-communist movement in Ukraine known as the "Free Territory" or "Makhnovschina".\n\nThe anarchist revolution was defeated by the Bolsheviks in 1921, and Makhno lived the rest of his life in exile in Paris.`,
+        link: 'https://en.wikipedia.org/wiki/Nestor_Makhno',
+        infoSrc: 'http://libcom.org/history/makhno-nestor-1889-1934'
       },
     ],
   },
