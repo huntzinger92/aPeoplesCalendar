@@ -9776,7 +9776,7 @@ export const eventLibrary = {
         date: 'May 16th, 1771',
         title: 'Battle of Alamance (1771)',
         imgSrc: require('./assets/eventPhotos/Events/alamance.jpg'),
-        description: `On this day in 1771, the North Carolina "Regulator" movement, a poor peasant uprising in colonial America, was crushed by the North Carolina militia in a clash known as the "Battle of Alamance".\n\nThe War of the Regulation was an uprising in British America's Carolina colonies, lasting from about 1765 to 1771, in which citizens took up arms against colonial officials, whom they viewed as corrupt, saying that "their highest study is the promotion of their wealth".\n\nHistorian Howard Zinn has argued that the Regulator Movement was a form of class conflict, as the Regulators described themselves as poor peasants, oppressed by the wealthier classes.\n\nThe battle was fought by more than 2,000 rebels and 1,000 militiamen, resulting in the deaths of at least 35 people and defeat for the Regulators.\n\nIn the battle's aftermath, the state militia army traveled through Regulator territory and compelled Regulators and Regulator sympathizers to sign loyalty oaths, also destroying the properties of the most active members.`,
+        description: `On this day in 1771, the North Carolina "Regulator" movement, a poor peasant uprising in colonial America, was crushed by the North Carolina militia in a clash known as the "Battle of Alamance".\n\nThe War of the Regulation was an uprising in British America's Carolina colonies, lasting from about 1765 to 1771, in which citizens took up arms against colonial officials, whom they viewed as corrupt, saying that "their highest study is the promotion of their wealth".\n\nHistorian Howard Zinn has argued that the Regulator Movement was a form of class conflict, as the Regulators described themselves as poor peasants, oppressed by the wealthier classes.\n\nThe battle was fought by more than 2,000 rebels and 1,000 militiamen, resulting in the deaths of at least 35 people and defeat for the Regulators.\n\nAfter the battle, state militia traveled through Regulator territory, compelling Regulators and their sympathizers to sign loyalty oaths and destroying property of the most active members.`,
         link: 'https://en.wikipedia.org/wiki/Regulator_Movement',
         infoSrc: 'https://www.historyisaweapon.com/defcon1/zinntyr4.html'
       },
@@ -9897,13 +9897,13 @@ export const eventLibrary = {
   '5-18': {
     'Revolution': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: require('./assets/eventPhotos/empty.jpg'),
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Revolution',
+        date: 'May 18th, 1980',
+        title: 'Gwangju Uprising (1980)',
+        imgSrc: require('./assets/eventPhotos/Events/gwangjuUprising.jpg'),
+        description: `On this day in 1980, the Gwangju Uprising began when 200 South Korean students clashed with soldiers, a protest that quickly escalated into more than 10,000 protesters battling with state forces, causing more than 1,000 deaths.\n\nThe uprising took place in the context of anti-democratic repression by the government of Chun Doo-hwan, who had declared an extensive martial law, closing universities, banning political activities, and heavily censoring the press. On On May 18th, two hundred students gathered at the gate of Chonnam National University in defiance of its closing, clashing with thirty paratroopers.\n\nThe protest was violently subdued, and the first fatality of the repression was a 29-year old deaf man who had simply been passing by. In response, the population rebelled en masse, with more than 10,000 protesters joining the students over the next few days.\n\nAs the protests grew, so did state repression and an increasingly militant civilian response to it. By May 21st, civilian militias were engaging in full-blown battles with the army. After acquiring two light machine guns and turning them on state troops, the army retreated and protesters temporarily gained control of Gwangju.\n\nThe rebellion was sustained until being defeated by force on May 27th. There is no official death toll for the uprising; figures vary from the low hundreds to more than two thousand dead. Regardless, the recorded deaths in the month of May were 2,300 higher than average. Nearly 1,400 were arrested for involvement in the Gwangju incident, and 427 were indicted.\n\nIn May 2020, 40 years after the uprising, the independent "May 18 Democratization Movement Truth Commission" was launched to investigate the crackdown and use of military force. Under legislation passed in 2018, it would operate for two years, with a one-year extension allowed if necessary.`,
+        link: 'https://roarmag.org/magazine/katsiaficas-paris-commune-gwangju-uprising/',
+        infoSrc: 'https://libcom.org/history/1980-the-kwangju-uprising'
       },
     ],
     'Rebellion': [
