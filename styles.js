@@ -75,6 +75,7 @@ export const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     width: '100%',
+    backgroundColor: '#f2f2f2',
   },
   descriptionWrapper: {
     width: '95%',
