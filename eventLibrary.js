@@ -9377,13 +9377,13 @@ export const eventLibrary = {
     ],
     'Birthdays': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: '/assets/eventPhotos/empty.jpg',
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'May 10th, 1883',
+        title: 'Eugen Leviné (1883 - 1919)',
+        imgSrc: '/assets/eventPhotos/Individuals/eugenLevine.jpg',
+        description: `Eugen Leviné, born on this day in 1883, was a German revolutionary communist who briefly led the Bavarian Council Republic, formed in the context of the German Revolution, and executed for his role in it after the Republic fell in 1919.\n\nEugen Levine was born to wealthy Jewish parents in St Petersberg, Russia, and became exposed to radical politics after moving to Heidelberg, Germany at a young age. In 1905, Leviné returned to Russia to participate in the failed revolution of 1905 against the Tsar and was arrested and exiled to Siberia.\n\nAfter World War I ended, Leviné joined the Communist Party of Germany and helped to create a socialist republic in Bavaria. Leviné eventually rose to power as the communists assumed control of the government.\n\nHe attempted to pass many reforms, such as giving the more luxurious flats to the homeless and giving workers control and ownership of factories. Leviné also planned reforms for the education system and to abolish paper money, but did not get the chance to complete either.\n\nThe German Army, assisted by the right-wing Freikorps paramilitary invaded and quickly conquered Munich on May 3rd, 1919. Leviné himself was arrested and shot by firing squad in Stadelheim Prison.\n\nEx-Soviet agent Whitaker Chambers cited Leviné as an inspirational figure, writing "During the Bavarian Council Republic in 1919, Leviné was the organiser of the Workers' and Soldiers' Soviets. When the Bavarian Council Republic was crushed, Leviné was captured and court-martialed. The court-martial told him: "You are under sentence of death." Leviné answered: 'We Communists are always under sentence of death.'"`,
+        link: 'https://en.wikipedia.org/wiki/Eugen_Levin%C3%A9',
+        infoSrc: 'https://spartacus-educational.com/GERlevine.htm'
       },
     ],
     'Assassinations': [
@@ -11255,13 +11255,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: '/assets/eventPhotos/empty.jpg',
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Birthdays',
+        date: 'June 5th, 1919',
+        title: 'Eugen Leviné (1883 - 1919)',
+        imgSrc: '/assets/eventPhotos/Individuals/eugenLevine.jpg',
+        description: `Eugen Leviné, assassinated on this day in 1919, was a German revolutionary communist who briefly led the Bavarian Council Republic giving luxury apartments to the homeless and factories to the workers during his short reign in power.\n\nEugen Levine was born to wealthy Jewish parents in St Petersberg, Russia, and became exposed to radical politics after moving to Heidelberg, Germany at a young age. In 1905, Leviné returned to Russia to participate in the failed revolution of 1905 against the Tsar and was arrested and exiled to Siberia.\n\nAfter World War I ended, Leviné joined the Communist Party of Germany and helped to create a socialist republic in Bavaria. Leviné eventually rose to power as the communists assumed control of the government.\n\nHe attempted to pass many reforms, such as giving the more luxurious flats to the homeless and giving workers control and ownership of factories. Leviné also planned reforms for the education system and to abolish paper money, but did not get the chance to complete either.\n\nThe German Army, assisted by the right-wing Freikorps paramilitary invaded and quickly conquered Munich on May 3rd, 1919. Leviné himself was arrested and shot by firing squad in Stadelheim Prison.\n\nEx-Soviet agent Whitaker Chambers cited Leviné as an inspirational figure, writing "During the Bavarian Council Republic in 1919, Leviné was the organiser of the Workers' and Soldiers' Soviets. When the Bavarian Council Republic was crushed, Leviné was captured and court-martialed. The court-martial told him: "You are under sentence of death." Leviné answered: 'We Communists are always under sentence of death.'"`,
+        link: 'https://en.wikipedia.org/wiki/Eugen_Levin%C3%A9',
+        infoSrc: 'https://spartacus-educational.com/GERlevine.htm'
       },
     ],
     'Other': [
