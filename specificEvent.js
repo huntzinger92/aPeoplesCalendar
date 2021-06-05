@@ -14,7 +14,7 @@ export class SpecificEvent extends React.Component {
   render() {
     const imageUrl = `https://apeoplescalendar.org${this.props.event.imgSrc}`;
     const image = { uri: imageUrl };
-    const hasImage = imageUrl !== 'https://www.apeoplescalendar.org/assets/eventPhotos/empty.jpg';
+    const hasImage = imageUrl !== 'https://apeoplescalendar.org/assets/eventPhotos/empty.jpg';
     const dimensions = Dimensions.get('window');
 
     return (
