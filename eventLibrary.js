@@ -11439,7 +11439,7 @@ export const eventLibrary = {
         date: 'June 8th, 1961',
         title: 'Freedom Riders Arrested (1961)',
         imgSrc: '/assets/eventPhotos/Events/freedomRiders1961.jpg',
-        description: `On this day in 1961, Freedom Riders protesting segregation (including Kwame Ture, Gwendolyn Green, and Joan Trumpauer Mulholl, shown) were arrested in Jackson, Mississippi and taken to Parchman Prison. Others arrested included Jan Triggs, Rev. Robert Wesby, Helen Wilson, Teri Perlman, Jane Rosett, and Travis Britt.\n\nThe Freedom Rides were a series of protests in response to Boynton vs. Virginia, a Supreme Court ruling that declared that buses and trains should be desegregated. Despite segregation being illegal, many southern states still maintained segregated public transit systems. Protesters challenged this by joining together in multi-racial groups and traveling on the busses.`,
+        description: `On this day in 1961, Freedom Riders protesting segregation, including Kwame Ture, Gwendolyn Green, and Joan Trumpauer Mulholl (shown), were arrested in Jackson, Mississippi and taken to Parchman Prison. Others arrested included Jan Triggs, Rev. Robert Wesby, Helen Wilson, Teri Perlman, Jane Rosett, and Travis Britt.\n\nThe Freedom Rides were a series of protests in response to Boynton vs. Virginia, a Supreme Court ruling that declared that buses and trains should be desegregated. Despite segregation being illegal, many southern states still maintained segregated public transit systems. Protesters challenged this by joining together in multi-racial groups and traveling on the busses.`,
         link: 'https://snccdigital.org/events/freedom-rides/',
         infoSrc: 'https://www.zinnedproject.org/news/tdih/freedom-riders-arrested/'
       },
@@ -11608,7 +11608,7 @@ export const eventLibrary = {
         date: 'June 10th, 1924',
         title: 'Giacomo Matteotti (1885 - 1924)',
         imgSrc: '/assets/eventPhotos/Individuals/giacomoMatteotti.jpg',
-        description: `Giacomo Matteotti, assassinated by fascists likely acting on orders from Benito Mussolini on this day in 1924, was an Italian socialist poltician and unapologetic critic of fascism.\n\nAs a young adult, Matteotti was active in the socialist movement and the Italian Socialist Party. He was imprisoned in Sicily for opposing Italy's entry into World War I (and was interned in Sicily during the conflict for this reason).\n\nMatteotti spoke openly against Italian Fascism and Benito Mussolini, and for a time was leader of the opposition to the National Fascist Party (NFP). In 1921, he denounced fascist violence in a pamphlet titled "Inchiesta socialista sulle gesta dei fascisti in Italia" ("Socialist enquiry on the deeds of the fascists in Italy").\n\nOn May 30th, 1924, speaking in the Italian Parliament, he alleged that the Fascists committed fraud in the recently held elections and denounced the violence that they used to gain votes. On this day that year, Matteotti was kidnapped and killed by fascists.\n\nAfter Matteotti's body was discovered, Mussolini took full responsibility for the murder as head of the Fascist party (although whether he gave a direct order for the murder remains uncertain) and dared his critics to prosecute him for the crime. This challenge went unaccepted.\n\nAfter the Second World War ended, Italian fascists Amerigo Dumini, Giuseppe Viola, and Amleto Poveromo were sentenced to thirty years in prison for their involvement in Matteotti's murder.`,
+        description: `Giacomo Matteotti, assassinated on this day in 1924 by fascists likely acting on orders from Benito Mussolini, was an Italian socialist politician and unapologetic critic of fascism.\n\nAs a young adult, Matteotti was active in the socialist movement and the Italian Socialist Party. He was imprisoned in Sicily for opposing Italy's entry into World War I (and was interned in Sicily during the conflict for this reason).\n\nMatteotti spoke openly against Italian Fascism and Benito Mussolini, and for a time was leader of the opposition to the National Fascist Party (NFP). In 1921, he denounced fascist violence in a pamphlet titled "Inchiesta socialista sulle gesta dei fascisti in Italia" ("Socialist enquiry on the deeds of the fascists in Italy").\n\nOn May 30th, 1924, speaking in the Italian Parliament, he alleged that the Fascists committed fraud in the recently held elections and denounced the violence that they used to gain votes. On this day that year, Matteotti was kidnapped and killed by fascists.\n\nAfter Matteotti's body was discovered, Mussolini took full responsibility for the murder as head of the Fascist party (although whether he gave a direct order for the murder remains uncertain) and dared his critics to prosecute him for the crime. This challenge went unaccepted.\n\nAfter the Second World War ended, Italian fascists Amerigo Dumini, Giuseppe Viola, and Amleto Poveromo were sentenced to thirty years in prison for their involvement in Matteotti's murder.`,
         link: 'https://en.wikipedia.org/wiki/Giacomo_Matteotti',
         infoSrc: 'https://www.britannica.com/biography/Giacomo-Matteotti'
       },
@@ -11650,13 +11650,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: '/assets/eventPhotos/empty.jpg',
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 11th, 1925',
+        title: 'Davis Day (1925)',
+        imgSrc: '/assets/eventPhotos/Events/davisDay.jpg',
+        description: `Davis Day, also known as Miners' Memorial Day, is a day of remembrance observed annually on this day in coal mining communities in Nova Scotia, Canada to recognize all miners killed in the province's coal mines.\n\nDavis Day was initiated by the United Mine Workers of America in memory of William Davis, a coal miner who was killed when company police hired by the British Empire Steel Corporation fired on a crowd of protesting coal miners during a long strike near the town of New Waterford.\n\nWhen the strike began in March 1925, the corporation cut off credit at the company stores. Coal miners were able to survive on relief payments and donations from supporters as far away as Boston and Winnipeg. After three months of a work stoppage, the corporation planned to resume operations without any settlement with workers.\n\nTo maintain the shutdown, coal miners seized and shut down the power plant that served both the company's mines and the city of New Waterford in early June. The shortage of water and power affected New Waterford citizens, but the miners drew on local wells and set up a volunteer service to deliver water to the hospital.\n\nOn June 11th, a force of company police recaptured the power plant. Hundreds of coal miners, possibly more than 2,000 in number, marched to Waterford Lake in protest. It was there that the company police fired on the crowd, killing thirty-eight-year-old William Davis.\n\nThis annual commeration to all miners killed in labor struggle and industrial accidents became official in Nova Scoctia in 2008, officially recognized as William Davis Miners' Memorial Day.`,
+        link: 'https://en.wikipedia.org/wiki/William_Davis_Miners%27_Memorial_Day',
+        infoSrc: 'https://museumofindustry.novascotia.ca/nova-scotia-industry/coal-mining/miners-memorial-day-davis-day'
       },
     ],
     'Birthdays': [
