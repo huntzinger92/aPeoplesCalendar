@@ -2378,13 +2378,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: '/assets/eventPhotos/empty.jpg',
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'February 3rd, 1969',
+        title: 'Eduardo Mondlane (1920 - 1969)',
+        imgSrc: '/assets/eventPhotos/Individuals/eduardoMondlane.jpg',
+        description: `Eduardo Mondlane was a Mozambican anthropologist and professor at Syracuse University who resigned his post to serve as the President of the Mozambican Liberation Front from 1962 until his assassination on this day in 1969.\n\nMondlane was born in "N'wajahani", a district of Mandlakazi in the province of Gaza, Portuguese East Africa (modern day Mozambique). In 1948, he enrolled in Witwatersrand University in Johannesburg, South Africa but was expelled after one year there, following the rise of the Apartheid government.\n\nMondlane eventually came to the United States, enrolling at Oberlin College in Ohio at the age of 31 under a Phelps Stokes scholarship, graduating in 1953 with a degree in anthropology and sociology.\n\nMondlane later became an Assistant Professor of Anthropology at Syracuse University and helped develop the East African Studies Program there. In 1963, he resigned from his post at Syracuse to move to Tanzania, co-founding the Mozambican Liberation Front (FRELIMO) to fully engage in armed liberation struggle, receiving aid from both the Soviet Union and Maoist China.\n\nIn 1969, Mondlane was assassinated by a bomb planted in a book, sent to him at the FRELIMO Headquarters in Dar es Salaam, Tanzania. The killing remains unsolved to this day, although former Portuguese agent Oscar Cardoso claims that Casimiro Monteiro planted the bomb. FRELIMO went on to successfully win power and an independent Mozambique in 1975.`,
+        link: 'https://isis2.cc.oberlin.edu/alummag/oampast/oam_spring98/Alum_n_n/eduardo.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Eduardo_Mondlane'
       },
     ],
     'Other': [
@@ -8198,6 +8198,15 @@ export const eventLibrary = {
         link: 'https://www.democracynow.org/2016/10/7/mumia_abu_jamal_on_mass_incarceration',
         infoSrc: 'https://en.wikipedia.org/wiki/Mumia_Abu-Jamal'
       },
+      {
+        category: 'Birthdays',
+        date: 'April 24th, 1889',
+        title: 'Johanna Kirchner (1889 - 1944)',
+        imgSrc: '/assets/eventPhotos/Individuals/johannaKirchner.jpg',
+        description: `Johanna "Hanna" Kirchner, born on this day in 1889, was a German anti-fascist and Social Democrat who was executed by the Nazis for having "treasonably rooted herself in the evilest Marxist high-treason propaganda".\n\nKirchner was born into a family with social-democratic traditions, and Kirchner herself joined the Social Democratic Party of Germany (SPD) at the age of eighteen.\n\nWhen the Second World War broke out in 1939, Kirchner, a known anti-fascist and opponent of the Nazis, fled to France. While there, she collaborated with Eleonore Wolf, organizing the emigration of many officials of the workers' movement out of the Third Reich.\n\nIn 1942, Kirchner was arrested by the Vichy Régime and handed over to the Gestapo. Although she was initially sentenced to ten years' hard labor for treason, her case was brought back before the Volksgerichtshof in 1944, and she was sentenced to death for "treasonably rooted herself in the evilest Marxist high-treason propaganda" and "treasonably gathering cultural, economic, political, and military intelligence and communicating" Marxism.\n\nOn the day of her death, she wrote to her children in her diary: "Keep Goethe's words in mind, 'Die and become'. Don't cry for me. I believe in a better future for you."`,
+        link: 'https://www.gdw-berlin.de/en/recess/biographies/index_of_persons/biographie/view-bio/johanna-kirchner/?no_cache=1',
+        infoSrc: 'https://en.wikipedia.org/wiki/Johanna_Kirchner'
+      },
     ],
     'Assassinations': [
       {
@@ -12014,6 +12023,15 @@ export const eventLibrary = {
         link: 'https://libcom.org/library/1953-working-class-uprising-east-germany-cajo-brendel',
         infoSrc: 'https://en.wikipedia.org/wiki/East_German_uprising_of_1953'
       },
+      {
+        category: 'Rebellion',
+        date: 'June 16th, 1976',
+        title: 'Soweto Uprising (1976)',
+        imgSrc: '/assets/eventPhotos/Events/sowetoUprising.jpg',
+        description: `On this day in 1976, the Soweto Uprising began in South Africa after the government mandated that Afrikaans be taught in school, leading to demonstrations by more than 20,000 black schoolchildren, hundreds of whom were killed by police.\n\nThe Afrikaans Medium Decree of 1974 mandated all black schools to use Afrikaans and English in equal amounts as languages of instruction. Afrikaans was strongly associated with apartheid (prominent anti-apartheid activist called it "the language of the oppressor"), and this decree was widely resented.\n\nAt first, resistance to the measure was scattered - on April 30th, the students of Orlando West Junior School went on strike, and other schools began to follow suit. Students eventually formed an Action Committee, later known as the Soweto Students' Representative Council, which organized a mass meeting on June 13th to develop a cohesive strategy of protest.\n\nOn the morning on June 16th, 10,000-20,000 students walked out of their schools to a mass rally, carrying signs reading "Down with Afrikaans", "Viva Azania", and "If we must do Afrikaans, Vorster must do Zulu".\n\nThe protest turned violent after students killed a trained dog that the police had sicced on them, causing the police to open fire. Among the first students to be murdered were the 15-year-old Hastings Ndlovu and the 12-year-old Hector Pieterson (shown, photo by Sam Nzima).\n\nSocial reformer Dr. Melville Edelstein was beaten to death by the mob, a sign around his neck proclaiming, "Beware Afrikaans is the most dangerous drug for our future". 23 people died on the first day in Soweto, and hundreds more were killed in the following weeks.\n\nEmergency clinics were swamped with injured and bloody children. Police requested for the hospital to provide a list of all victims with bullet wounds, however the doctors refused, recording bullet wounds as abscesses.\n\nThe violence led to widespread riots and sympathy protests throughout South Africa, including white students from the University of the Witwatersrand. In remembrance of these events, 16 June is now a public holiday in South Africa, named Youth Day.`,
+        link: 'https://www.sahistory.org.za/article/june-16-soweto-youth-uprising',
+        infoSrc: 'https://en.wikipedia.org/wiki/Soweto_uprising'
+      },
     ],
     'Labor': [
       {
@@ -12107,13 +12125,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: '/assets/eventPhotos/empty.jpg',
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'June 17th, 1932',
+        title: 'Angelo Sbardellotto (1907 - 1932)',
+        imgSrc: '/assets/eventPhotos/Individuals/angeloSbardellotto.jpg',
+        description: `Angelo Sbardellotto was an Italian anarchist executed by the state on this day in 1932 for plotting to assassinate Benito Mussolini; he refused to ask for clemency, instead telling the court he regretted not succeeding in his plan.\n\nSbardellotto was born into a poor family who was compelled to emigrate to find work. Angelo and his father also left Italy in October 1924, living in France, Luxembourg, and Belgium, where Angelo worked as a miner and a machine hand.\n\nWhile working as a miner, he joined the anarchist committee of Liege, and was active in the activities to bring about the general strike in Belgium in solidarity with framed Italian-American anarchists Sacco and Vanzetti.\n\nAlready under surveillance as a suspected communist subversive, Sbardellotto was stopped by police in Piazza Venezia, Rome in 1932 and was found to be armed with two rudimentary bombs and a pistol, as well as possession of a Swiss passport.\n\nAdmitting to having entered Italy clandestinely with the intent of avenging socialist Michael Schirru by killing Mussolini (Schirru himself had attempted to assassinate Mussolini), he was interrogated and likely tortured by police before his trial a week later on June 11th.\n\nWhen Sbardellotto's lawyer requested that he write to Mussolini directly to ask for his life to be spared, he refused, stating that he was only sorry that he had not carried out the attempt on Mussolini. On June 17th, 1932, at twenty-four years old, he was put in front of the firing squad at the Bretta Fort. He refused last rites from a priest. His last words before being shot were "Long live anarchy!".`,
+        link: 'https://it.wikipedia.org/wiki/Angelo_Pellegrino_Sbardellotto',
+        infoSrc: 'https://libcom.org/history/sbardellotto-angelo-pellegrino-1907-1932'
       },
     ],
     'Other': [
@@ -12175,13 +12193,13 @@ export const eventLibrary = {
     ],
     'Assassinations': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: '/assets/eventPhotos/empty.jpg',
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Assassinations',
+        date: 'June 18th, 1943',
+        title: 'Mariya Kislyak (1925 - 1943)',
+        imgSrc: '/assets/eventPhotos/Individuals/mariyaKislyak.jpg',
+        description: `Mariya Kislyak was a Soviet partisan and the leader of a Kharkov underground Komsomol cell where she seduced and killed Nazi officers, actions for which she was executed by the Gestapo on this day in 1925, at the age of seventeen.\n\nKislyak was born to a Ukrainian peasant family in the village of Lednoe. She graduated from medical training for paramedics and housewives the day before the German invasion of the Soviet Union. During fighting in her hometown, a wounded Soviet soldier she had been taking care of asked her why the city didn't have a strong partisan movement.\n\nWhen the soldier recovered, Kislyak contacted several partisans hiding out in a nearby forest and asked if she could join their cause, recruiting several acquaintances into the movement. With this organization, she helped kill Nazi officers, sometimes flirting with them to lure them into an isolated area where they could be killed out of sight.\n\nWhen she received word that a Gestapo agent nicknamed "the Butcher" would be coming to Kharkiv, she and her partisan unit spent two days planning his capture. Kislyak rented a room right next to his at the farm he was staying at.\n\nAfter courting him for a few days she lured him to a riverbank, where her conspirators captured him. After interrogating the officer, the group summarily executed him with a crowbar.\n\nIn response, more than one hundred villagers, including Mariya, were collectively arrested by the Gestapo and told they would be killed by a firing squad if the SS man wasn't found alive soon. After the plot became known, Mariya and two others were brutally tortured and interrogated for weeks.\n\nOn June 18th, the group of three was hanged and their bodies put on public display. On May 8th, 1965 she was posthumously awarded the title Hero of the Soviet Union.`,
+        link: 'http://www.warheroes.ru/hero/hero.asp?Hero_id=1974',
+        infoSrc: 'https://en.wikipedia.org/wiki/Mariya_Kislyak'
       },
     ],
     'Other': [
@@ -12325,6 +12343,15 @@ export const eventLibrary = {
         description: `Albert Parsons, born on this day in 1848, an early American anarchist newspaper editor, orator, and labor activist and husband to political radical Lucy Parsons, notable for his assassination by the state following the Haymarket Massacre.\n\nLucy Parsons was a well-known radical labor activist in her own right, dubbed by the Chicago Police Department characterized as "more dangerous than a thousand rioters".\n\nAfter fighting in the Civil War, Albert settled in Texas and became an activist for the rights of former slaves, later becoming a Republican official during reconstruction. With Lucy, he moved to Chicago in 1873, working for radical newspapers and engaging in labor organizing.\n\nIt was there that Albert Parsons became one of four Chicago radical leaders controversially convicted of conspiracy and hanged following the Haymarket affair.\n\nLucy Parsons continued her activism after his death, going on to help found the Industrial Workers of the World (IWW).\n\n"Formerly the master selected the slave; today the slave selects his master, and he has got to find one or else he is carried down here to my friend, the gaoler." - Albert Parsons`,
         link: 'https://blackrosefed.org/albert-parsons-anarchist-and-labor-martyr/',
         infoSrc: 'https://en.wikipedia.org/wiki/Albert_Parsons'
+      },
+      {
+        category: 'Birthdays',
+        date: 'June 20th, 1920',
+        title: 'Eduardo Mondlane (1920 - 1969)',
+        imgSrc: '/assets/eventPhotos/Individuals/eduardoMondlane.jpg',
+        description: `Eduardo Mondlane, born on this day in 1920, was a Mozambican anthropologist and professor at Syracuse University who resigned his post to serve as the President of the Mozambican Liberation Front from 1962 until his assassination in 1969.\n\nMondlane was born in "N'wajahani", a district of Mandlakazi in the province of Gaza, Portuguese East Africa (modern day Mozambique). In 1948, he enrolled in Witwatersrand University in Johannesburg, South Africa but was expelled after one year there, following the rise of the Apartheid government.\n\nMondlane eventually came to the United States, enrolling at Oberlin College in Ohio at the age of 31 under a Phelps Stokes scholarship, graduating in 1953 with a degree in anthropology and sociology.\n\nMondlane later became an Assistant Professor of Anthropology at Syracuse University and helped develop the East African Studies Program there. In 1963, he resigned from his post at Syracuse to move to Tanzania, co-founding the Mozambican Liberation Front (FRELIMO) to fully engage in armed liberation struggle, receiving aid from both the Soviet Union and Maoist China.\n\nIn 1969, Mondlane was assassinated by a bomb planted in a book, sent to him at the FRELIMO Headquarters in Dar es Salaam, Tanzania. The killing remains unsolved to this day, although former Portuguese agent Oscar Cardoso claims that Casimiro Monteiro planted the bomb. FRELIMO went on to successfully win power and an independent Mozambique in 1975.`,
+        link: 'https://isis2.cc.oberlin.edu/alummag/oampast/oam_spring98/Alum_n_n/eduardo.html',
+        infoSrc: 'https://en.wikipedia.org/wiki/Eduardo_Mondlane'
       },
     ],
     'Assassinations': [
@@ -15334,6 +15361,15 @@ export const eventLibrary = {
         description: `Mary G. Harris Jones, known as Mother Jones from 1897 onwards, was an Irish-born American schoolteacher and dressmaker who became a prominent union organizer, community organizer, and activist. She helped coordinate major strikes and co-founded the Industrial Workers of the World (IWW).\n\nFighting to abolish child labor was one of her flagship issues. In 1903, Jones organized children who were working in mills and mines to participate in a "Children's Crusade", a march from Kensington, Philadelphia to Oyster Bay, New York, the hometown of President Theodore Roosevelt with banners demanding "We want to go to school and not the mines!"\n\nMother Jones was present during the Paint Creek-Cabin Creek strike of 1912 in West Virginia, speaking and organizing despite a shooting war between United Mine Workers members and the private army of the mine owners. Jones was arrested on February 13th, 1913, brought before a military court, and accused of conspiring to commit murder among other charges. She was sentenced to twenty years in the state penitentiary, but released after eighty-five days.`,
         link: 'https://www.womenshistory.org/education-resources/biographies/mary-harris-jones',
         infoSrc: 'https://en.wikipedia.org/wiki/Mother_Jones'
+      },
+      {
+        category: 'Birthdays',
+        date: 'August 1st, 1907',
+        title: 'Angelo Sbardellotto (1907 - 1932)',
+        imgSrc: '/assets/eventPhotos/Individuals/angeloSbardellotto.jpg',
+        description: `Angelo Sbardellotto, born on this day in 1907, was an Italian anarchist executed by the state for plotting to assassinate Benito Mussolini; he refused to ask for clemency, instead telling the court he regretted not succeeding in his plan.\n\nSbardellotto was born into a poor family who was compelled to emigrate to find work. Angelo and his father also left Italy in October 1924, living in France, Luxembourg, and Belgium, where Angelo worked as a miner and a machine hand.\n\nWhile working as a miner, he joined the anarchist committee of Liege, and was active in the activities to bring about the general strike in Belgium in solidarity with framed Italian-American anarchists Sacco and Vanzetti.\n\nAlready under surveillance as a suspected communist subversive, Sbardellotto was stopped by police in Piazza Venezia, Rome in 1932 and was found to be armed with two rudimentary bombs and a pistol, as well as possession of a Swiss passport.\n\nAdmitting to having entered Italy clandestinely with the intent of avenging socialist Michael Schirru by killing Mussolini (Schirru himself had attempted to assassinate Mussolini), he was interrogated and likely tortured by police before his trial a week later on June 11th.\n\nWhen Sbardellotto's lawyer requested that he write to Mussolini directly to ask for his life to be spared, he refused, stating that he was only sorry that he had not carried out the attempt on Mussolini. On June 17th, 1932, at twenty-four years old, he was put in front of the firing squad at the Bretta Fort. He refused last rites from a priest. His last words before being shot were "Long live anarchy!".`,
+        link: 'https://it.wikipedia.org/wiki/Angelo_Pellegrino_Sbardellotto',
+        infoSrc: 'https://libcom.org/history/sbardellotto-angelo-pellegrino-1907-1932'
       },
       {
         category: 'Birthdays',
