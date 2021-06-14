@@ -12239,13 +12239,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: '/assets/eventPhotos/empty.jpg',
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 19th, 1896',
+        title: `Leadville Miners' Strike (1896)`,
+        imgSrc: '/assets/eventPhotos/Events/leadvilleStrike.jpg',
+        description: `On this day in 1896, nearly 1000 miners of the Western Federation of Miners (WFM) walked off the job for higher wages, causing a lockout that shut down all mines in the district, and the WFM to turn to revolutionary socialist politics.\n\nThe Leadville miners' strike was initiated by the Cloud City Miners' Union, the Leadville, Colorado local of the Western Federation of Miners (WFM), against those silver mines paying their workers less than $3.00 per day, approximately $32 in 2021 American currency. The action was taken after a near unaminous vote from more than 1,000 miners the same day.\n\nOn June 22nd, mine owners in the area banded together, agreeing to a district-wide worker lockout and signing a secret agreement to maintain a unified front against the union: none of them would recognize the union or negotiate with it, and that no participant would agree to any concessions except by majority vote of the owners.\n\nLeadville mine owner John Campion hired labor spies from both the Thiel Detective Agency and the Pinkerton Agency to spy on the union. Campion hired additional spies to report on activities of replacement workers imported from Missouri. The owners used their spies to develop a blacklist and exploit divisions among the striking workers.\n\nAt the time the WFM was associated with the American Federation of Labor (AFL), a more moderate union. Other WFM locals, particularly the Butte, Montana local, sent financial support to the strikers, but the AFL refused to provide both financial support and to call other union locals out in sympathy strikes.\n\nOn September 21st, a group of approximately 50 armed strikers began a series of pre-meditated attacks on mines in the area, attempting to destroy them with bombs and a homemade cannon. Four miners, all found to be members of the WFM, were killed, along with one fireman. This led to widespread arrests of WFM members and the arrival of the National Guard to the area.\n\nThe strike was defeated on March 9th, 1897. The failure of the strike to succeed caused the WFM to leave the American Federation of Labor (AFL) turn towards a militant practice informed by revolutionary socialist politics.`,
+        link: 'https://en.wikipedia.org/wiki/Leadville_miners%27_strike',
+        infoSrc: 'https://en.wikipedia.org/wiki/Leadville_miners%27_strike'
       },
     ],
     'Birthdays': [
