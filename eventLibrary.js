@@ -7034,7 +7034,7 @@ export const eventLibrary = {
         date: 'April 8th, 1936',
         title: 'Ghassan Kanafani (1936 - 1972)',
         imgSrc: '/assets/eventPhotos/Individuals/ghassanKanafani.jpg',
-        description: `Ghassan Kanafani, born on this day in 1936, was a Palestinian author and leader of the Popular Front for the Liberation of Palestine (PFLP) who was assassinated by Israeli forces after the Lod Airport Massacre, claimed by the PLFP.\n\nIn May, when the outbreak of hostilities in the 1948 Arab–Israeli War spilled over into the city of Acre, Kanafani and his family were forced into exile while he was still a child. After fleeing ~eleven miles north to Lebanon, they settled in Damascus, Syria as Palestinian refugees.\n\nIn 1969, after establishing himself as an author and journalist, he joined The Popular Front for the Liberation of Palestine and, resigned from his post as editor for the magazine Al-Anwar to edit the PFLP's weekly magazine, al-Hadaf ("The Goal"). He drafted a PFLP program in which the movement officially took up Marxism-Leninism, a notable departure from pan-Arab nationalist ideology.\n\nOn July 8th, 1972, at the age of 36, Kanafani was assassinated via car bomb by the Israeli intelligence agency Mossad for his role in the PLFP, which claimed responsiblity for the Lod Airport Massacre.\n\nThe massacre, committed by three members of the Japanese Red Army recruited by the PLFP, killed 26 people, injuring 80 others.\n\nGhassan Kanafani was an influential author, whose literary works have been translated into as many at least 17 languages and published in 20 countries. He began writing short stories when working as a teacher in refugee camps. Often written through the eyes of children, his stories were designed to help his students contextualize their surroundings.\n\n"Everything in this world can be robbed and stolen, except one thing; this one thing is the love that emanates from a human being towards a solid commitment to a conviction or cause."\n\n- Ghassan Kanafani`,
+        description: `Ghassan Kanafani, born on this day in 1936, was a Palestinian author and leader of the Popular Front for the Liberation of Palestine (PFLP) who was assassinated by Israeli forces after the Lod Airport Massacre, claimed by the PLFP.\n\nIn May, when the outbreak of hostilities in the 1948 Arab–Israeli War spilled over into the city of Acre, Kanafani and his family were forced into exile while he was still a child. After fleeing ~eleven miles north to Lebanon, they settled in Damascus, Syria as Palestinian refugees.\n\nIn 1969, after establishing himself as an author and journalist, he joined The Popular Front for the Liberation of Palestine and, resigned from his post as editor for the magazine Al-Anwar to edit the PFLP's weekly magazine, al-Hadaf ("The Goal"). He drafted a PFLP program in which the movement officially took up Marxism-Leninism, a notable departure from pan-Arab nationalist ideology.\n\nOn July 8th, 1972, at the age of 36, Kanafani was assassinated via car bomb by the Israeli intelligence agency Mossad for his role in the PLFP, which claimed responsibility for the Lod Airport Massacre.\n\nThe massacre, committed by three members of the Japanese Red Army recruited by the PLFP, killed 26 people, injuring 80 others.\n\nGhassan Kanafani was an influential author, whose literary works have been translated into as many at least 17 languages and published in 20 countries. He began writing short stories when working as a teacher in refugee camps. Often written through the eyes of children, his stories were designed to help his students contextualize their surroundings.\n\n"Everything in this world can be robbed and stolen, except one thing; this one thing is the love that emanates from a human being towards a solid commitment to a conviction or cause."\n\n- Ghassan Kanafani`,
         link: 'https://www.middleeastmonitor.com/20190714-profile-ghassan-kanafani-1936-1972/',
         infoSrc: 'https://en.wikipedia.org/wiki/Ghassan_Kanafani'
       },
@@ -11464,13 +11464,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: '/assets/eventPhotos/empty.jpg',
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'June 8th, 1931',
+        title: 'Battle of Menstad (1931)',
+        imgSrc: '/assets/eventPhotos/Events/battleOfMenstad.jpg',
+        description: `On this day in 1931, the Battle of Menstad began near Skien, Norway when 2,000 striking workers fought and overwhelmed a group of police officers protecting scabs at Norsk Hydro's Menstad plant. The battle took place in the context of drastic pay cuts during the Great Depression.\n\nHistorian Knut Dørum has written that Norway's biggest industrial disputes ever took place that year, beginning with a six month lock-out in the iron industry, involving up to 86,000 workers and causing in a loss of 13 million working days.\n\nAt Menstad, Norsk Hydro and Union & Co hired strike-breakers to replace the striking workers. The workers responded by chasing away the strike-breakers in the days before the battle. The strikers returned on June 8th with police protection that was quickly overwhelmed by striking workers. In response to the violence, the government deployed troops and ships from to the area.\n\nAfterward, 28 strikers were arrested and put on trial, 20 of whom were sentenced to prison. Most of those arrested were members of the Norwegian Communist Party and the Norwegian Labour Party. Worker organization did not prevent mass unemployment during the Great Depression; in the winter of 1932–1933, up to 40% of the trade unionists were unemployed.`,
+        link: 'https://en.wikipedia.org/wiki/Menstad_conflict',
+        infoSrc: 'https://snl.no/Menstadslaget'
       },
     ],
     'Birthdays': [
@@ -13691,13 +13691,13 @@ export const eventLibrary = {
     ],
     'Rebellion': [
       {
-        category: 'Rebellion',
-        date: 'July 8th, 1931',
-        title: 'Battle of Menstad (1931)',
-        imgSrc: '/assets/eventPhotos/Events/battleOfMenstad.jpg',
-        description: `On this day in 1931, the Battle of Menstad began near Skien, Norway when 2,000 striking workers fought and overwhelmed a group of police officers protecting scabs at Norsk Hydro's Menstad plant. The battle took place in the context of drastic pay cuts during the Great Depression.\n\nHistorian Knut Dørum has written that Norway's biggest industrial disputes ever took place that year, beginning with a six month lock-out in the iron industry, involving up to 86,000 workers and causing in a loss of 13 million working days.\n\nAt Menstad, Norsk Hydro and Union & Co hired strike-breakers to replace the striking workers. The workers responded by chasing away the strike-breakers in the days before the battle. The strikers returned on June 8th with police protection that was quickly overwhelmed by striking workers. In response to the violence, the government deployed troops and ships from to the area.\n\nAfterward, 28 strikers were arrested and put on trial, 20 of whom were sentenced to prison. Most of those arrested were members of the Norwegian Communist Party and the Norwegian Labour Party. Worker organization did not prevent mass unemployment during the Great Depression; in the winter of 1932–1933, up to 40% of the trade unionists were unemployed.`,
-        link: 'https://en.wikipedia.org/wiki/Menstad_conflict',
-        infoSrc: 'https://snl.no/Menstadslaget'
+        category: '',
+        date: '',
+        title: '',
+        imgSrc: '/assets/eventPhotos/empty.jpg',
+        description: ``,
+        link: '',
+        infoSrc: ''
       },
     ],
     'Labor': [
@@ -13728,7 +13728,7 @@ export const eventLibrary = {
         date: 'July 8th, 1972',
         title: 'Ghassan Kanafani (1936 - 1972)',
         imgSrc: '/assets/eventPhotos/Individuals/ghassanKanafani.jpg',
-        description: `Ghassan Kanafani was a Palestinian author and leader of the Popular Front for the Liberation of Palestine (PFLP), assassinated on this day in 1972 by Israeli forces in response to the Lod Airport Massacre, claimed by the PLFP.\n\nIn May, when the outbreak of hostilities in the 1948 Arab–Israeli War spilled over into the city of Acre, Kanafani and his family were forced into exile while he was still a child. After fleeing ~eleven miles north to Lebanon, they settled in Damascus, Syria as Palestinian refugees.\n\nIn 1969, after establishing himself as an author and journalist, he joined The Popular Front for the Liberation of Palestine and, resigned from his post as editor for the magazine Al-Anwar to edit the PFLP's weekly magazine, al-Hadaf ("The Goal"). He drafted a PFLP program in which the movement officially took up Marxism-Leninism, a notable departure from pan-Arab nationalist ideology.\n\nOn July 8th, 1972, at the age of 36, Kanafani was assassinated via car bomb by the Israeli intelligence agency Mossad for his role in the PLFP, which claimed responsiblity for the Lod Airport Massacre.\n\nThe massacre, committed by three members of the Japanese Red Army recruited by the PLFP, killed 26 people, injuring 80 others.\n\nGhassan Kanafani was an influential author, whose literary works have been translated into as many at least 17 languages and published in 20 countries. He began writing short stories when working as a teacher in refugee camps. Often written through the eyes of children, his stories were designed to help his students contextualize their surroundings.\n\n"Everything in this world can be robbed and stolen, except one thing; this one thing is the love that emanates from a human being towards a solid commitment to a conviction or cause."\n\n- Ghassan Kanafani`,
+        description: `Ghassan Kanafani was a Palestinian author and leader of the Popular Front for the Liberation of Palestine (PFLP), assassinated on this day in 1972 by Israeli forces in retaliation for the Lod Airport Massacre, claimed by the PLFP.\n\nIn May, when the outbreak of hostilities in the 1948 Arab–Israeli War spilled over into the city of Acre, Kanafani and his family were forced into exile while he was still a child. After fleeing ~eleven miles north to Lebanon, they settled in Damascus, Syria as Palestinian refugees.\n\nIn 1969, after establishing himself as an author and journalist, he joined The Popular Front for the Liberation of Palestine and, resigned from his post as editor for the magazine Al-Anwar to edit the PFLP's weekly magazine, al-Hadaf ("The Goal"). He drafted a PFLP program in which the movement officially took up Marxism-Leninism, a notable departure from pan-Arab nationalist ideology.\n\nOn July 8th, 1972, at the age of 36, Kanafani was assassinated via car bomb by the Israeli intelligence agency Mossad for his role in the PLFP, which claimed responsibility for the Lod Airport Massacre.\n\nThe massacre, committed by three members of the Japanese Red Army recruited by the PLFP, killed 26 people, injuring 80 others.\n\nGhassan Kanafani was an influential author, whose literary works have been translated into at least 17 languages and published in 20 countries. He began writing short stories when working as a teacher in refugee camps. Often written through the eyes of children, his stories were designed to help his students contextualize their surroundings.\n\n"Everything in this world can be robbed and stolen, except one thing; this one thing is the love that emanates from a human being towards a solid commitment to a conviction or cause."\n\n- Ghassan Kanafani`,
         link: 'https://www.middleeastmonitor.com/20190714-profile-ghassan-kanafani-1936-1972/',
         infoSrc: 'https://en.wikipedia.org/wiki/Ghassan_Kanafani'
       },
@@ -13739,7 +13739,7 @@ export const eventLibrary = {
         date: 'July 8th, 1964',
         title: 'Freedom House Bombing (1964)',
         imgSrc: '/assets/eventPhotos/Events/freedomHouseBombing.jpg',
-        description: `On this day in 1964, a Freedom House, a building used by civil rights activists as organizing hubs, in McComb, MS, was bombed, the fourth building to be bombed in the city since Freedom Summer volunteers had arrived two weeks earlier.\n\nThe building shown is the Society Hill Missionary Baptist Church in McComb, bombed and destroyed on September 20th of the same year.\n\nNo one was injured by the blast on July 8th. Undeterred, the SNCC moved the Freedom School classes outdoors.`,
+        description: `On this day in 1964, a Freedom House, buildings used by civil rights activists as organizing hubs, in McComb, Mississippi was bombed, the fourth one to be bombed in the city since Freedom Summer volunteers had arrived two weeks earlier.\n\nThe building shown is the Society Hill Missionary Baptist Church in McComb, bombed and destroyed on September 20th of the same year.\n\nNo one was injured by the blast on July 8th. Undeterred, the SNCC moved the Freedom School classes outdoors.`,
         link: 'https://www.crmvet.org/images/imgfs.htm',
         infoSrc: 'http://cdm15932.contentdm.oclc.org/cdm/ref/collection/p15932coll2/id/30684?fbclid=IwAR3UGir5CQ0R3ZqDmzWsc7xqP2g19J_D9pnVPpzEmeFFjNeVQM1vtTLqj8I'
       },
