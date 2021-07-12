@@ -14001,13 +14001,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: '/assets/eventPhotos/empty.jpg',
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 12th, 1917',
+        title: 'Bisbee Deportation (1917)',
+        imgSrc: '/assets/eventPhotos/Events/bisbeeDeportation.jpg',
+        description: `On this day in 1917, a deputized "posse" in Bisbee, Arizona kidnapped more than 1,300 striking miners, their supporters, and bystanders, and deported them more than 200 miles away, to New Mexico. The miners were organized by the Industrial Workers of the World (IWW), and had been on strike since June 26th.\n\nThe action was orchestrated by Phelps Dodge, the major mining company in the area, which provided lists of workers and others who were to be arrested to the Cochise County sheriff, Harry C. Wheeler.\n\nThe 16-hour journey was through desert without food and with little water. Once unloaded, the deportees, most without money or transportation, were warned against returning to Bisbee. The U.S. government soon brought in members of the US Army to assist with relocating the deportees to Columbus, New Mexico.\n\nPhelps Dodge, in collusion with the sheriff, had closed down access to outside communications, so the story was not well reported at the time.\n\nAlthough a federal commission concluded the kidnapping was done "wholly illegal and without authority in law, either State or Federal" and the U.S. Department of Justice ordering the arrest of 21 Phelps Dodge executives, no individual, company, or agency was ever convicted in connection with the deportations.`,
+        link: 'https://azlibrary.gov/dazl/learners/research-topics/bisbee-deportation',
+        infoSrc: 'https://en.wikipedia.org/wiki/Bisbee_Deportation'
       },
     ],
     'Birthdays': [
