@@ -14078,13 +14078,13 @@ export const eventLibrary = {
     ],
     'Labor': [
       {
-        category: '',
-        date: '',
-        title: '',
-        imgSrc: '/assets/eventPhotos/empty.jpg',
-        description: ``,
-        link: '',
-        infoSrc: ''
+        category: 'Labor',
+        date: 'July 13th, 2009',
+        title: `Vale Miners' Strike (2009-10)`,
+        imgSrc: '/assets/eventPhotos/Events/valeInco2009.jpg',
+        description: `On this day in 2009, the longest strike in Canadian history began when miners at the Brazilian mining company Vale went on strike, beginning a bitter, year-long labor action marked by the use scabs, surveillance, and illegal firings. The strike took place at the nickel mine in Sudbury, Ontario, Canada, which accounts for 10% of the world's nickel supply.\n\nAfter the miners walked out, the United Steelworkers (USW) permitted 56 skilled members from the USW Local 2020 to scab on the strike, allowing Vale to restart minimal mine operations.\n\nVale also hired a "security firm", AFI, to spy on and harass striking workers. This included the deployment of cameras and parabolic listening devices around picket shacks.\n\n Information gathered in this eavesdropping operation was used to illegally fire nine workers, who had to wait two years before they were exonerated.\n\nThe strike ended just short of a year later, on July 8th, 2010. Workers won significant raises and a back-to-work bonus, but also received less desirable pension plans. As part of the agreement, Vale received permission to fire 113 employees.\n\nThe strike was the longest such labor action in Canadian history, beating the previous record, set at the same nickel mine (then owned by Inco) in 1978. Workers at Vale against went out on strike in June 2021. One of those strikers, Mark Lambovitch, had participated in the 2009-10 strike, and had this to say:\n\n"I don't want to do that again, and I'm sure no one does, but we have to stand up for ourselves. Otherwise, we will just keep losing. This company makes billions of dollars, and they just can't give us a fair deal? If you come underground, do the work we do and see the conditions, we're not being greedy." `,
+        link: 'https://www.cbc.ca/news/canada/toronto/vale-sudbury-workers-ok-new-deal-1.909562',
+        infoSrc: 'https://www.wsws.org/en/articles/2021/06/07/vale-j07.html'
       },
     ],
     'Birthdays': [

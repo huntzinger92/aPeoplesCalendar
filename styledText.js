@@ -8,7 +8,7 @@ export class StyledText extends React.Component {
   };
   render() {
     return (
-      <Text style={[styles.text, this.props.style]}>{this.props.text}</Text>
+      <Text selectable={true} style={[styles.text, this.props.style]}>{this.props.text}</Text>
     );
   };
 };
